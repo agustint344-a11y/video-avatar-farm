@@ -23,6 +23,8 @@ on:
         description: "entry propio (ej src/index-<slug>.ts). vacio=src/index.ts"
         required: false
         default: ""
+permissions:
+  contents: write
 jobs:
   prepare:
     runs-on: ubuntu-latest
