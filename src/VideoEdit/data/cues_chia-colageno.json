@@ -7,9 +7,15 @@
   "broll": [
     {
       "from": 618,
-      "dur": 165,
+      "dur": 390,
       "kind": "video",
       "src": "broll/chia-colageno_s_gel1.mp4"
+    },
+    {
+      "from": 5318,
+      "dur": 390,
+      "kind": "video",
+      "src": "broll/chia-colageno_s_piel.mp4"
     },
     {
       "from": 6101,
@@ -18,64 +24,234 @@
       "src": "broll/chia-colageno_s_gel2.mp4"
     },
     {
+      "from": 7021,
+      "dur": 390,
+      "kind": "video",
+      "src": "broll/chia-colageno_s_azucar.mp4"
+    },
+    {
+      "from": 7750,
+      "dur": 96,
+      "kind": "video",
+      "src": "broll/chia-colageno_s_saciedad.mp4"
+    },
+    {
       "from": 7846,
-      "dur": 165,
+      "dur": 390,
       "kind": "video",
       "src": "broll/chia-colageno_s_cda.mp4"
     },
     {
       "from": 9177,
-      "dur": 165,
+      "dur": 240,
       "kind": "image",
       "src": "img/chia_huesos.jpg"
     },
     {
+      "from": 9640,
+      "dur": 101,
+      "kind": "video",
+      "src": "broll/chia-colageno_s_magnesio.mp4"
+    },
+    {
+      "from": 10060,
+      "dur": 351,
+      "kind": "video",
+      "src": "broll/chia-colageno_s_corazon2.mp4"
+    },
+    {
+      "from": 10411,
+      "dur": 390,
+      "kind": "video",
+      "src": "broll/chia-colageno_s_arterias.mp4"
+    },
+    {
       "from": 10988,
-      "dur": 165,
+      "dur": 240,
       "kind": "image",
       "src": "img/chia_cerebro.jpg"
     },
     {
+      "from": 12733,
+      "dur": 390,
+      "kind": "video",
+      "src": "broll/chia-colageno_s_avena.mp4"
+    },
+    {
+      "from": 13352,
+      "dur": 390,
+      "kind": "video",
+      "src": "broll/chia-colageno_s_agua2.mp4"
+    },
+    {
       "from": 17615,
-      "dur": 165,
+      "dur": 240,
       "kind": "image",
       "src": "img/chia_linaza.jpg"
     },
     {
       "from": 18764,
-      "dur": 165,
+      "dur": 390,
       "kind": "video",
       "src": "broll/chia-colageno_s_linmol.mp4"
     },
     {
       "from": 19225,
-      "dur": 165,
+      "dur": 240,
       "kind": "image",
       "src": "img/chia_calabaza.jpg"
     },
     {
       "from": 20546,
-      "dur": 165,
+      "dur": 240,
       "kind": "image",
       "src": "img/chia_sesamo.jpg"
     },
     {
       "from": 21565,
-      "dur": 165,
+      "dur": 240,
       "kind": "image",
       "src": "img/chia_girasol.jpg"
     },
     {
-      "from": 24810,
-      "dur": 51,
+      "from": 22585,
+      "dur": 390,
       "kind": "video",
-      "src": "broll/chia-colageno_s_yogur.mp4"
+      "src": "broll/chia-colageno_s_albah2.mp4"
+    },
+    {
+      "from": 24073,
+      "dur": 390,
+      "kind": "video",
+      "src": "broll/chia-colageno_s_mezcla.mp4"
     },
     {
       "from": 24861,
-      "dur": 165,
+      "dur": 390,
       "kind": "video",
       "src": "broll/chia-colageno_s_licua.mp4"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1798,
+      "dur": 90,
+      "comp": "KeywordPop",
+      "props": {
+        "word": "OXIDACIÓN",
+        "sub": "el enemigo del colágeno",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 2332,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "accentText": "NATURÓPATA",
+        "title": "Agustín Landívar",
+        "sub": "Medicina natural, con evidencia"
+      }
+    },
+    {
+      "from": 5318,
+      "dur": 90,
+      "comp": "KeywordPop",
+      "props": {
+        "word": "COLÁGENO",
+        "sub": "lo fabrica tu propio cuerpo",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 8779,
+      "dur": 150,
+      "comp": "IconRow",
+      "props": {
+        "items": [
+          {
+            "icon": "🦴",
+            "label": "Calcio"
+          },
+          {
+            "icon": "🌙",
+            "label": "Magnesio"
+          },
+          {
+            "icon": "⚡",
+            "label": "Fósforo"
+          }
+        ]
+      }
+    },
+    {
+      "from": 11070,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "word": "OMEGA-3",
+        "sub": "alimento directo para tu cerebro",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 14350,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "ATENCIÓN",
+        "title": "Cómo tomarla sin riesgo"
+      }
+    },
+    {
+      "from": 17615,
+      "dur": 180,
+      "comp": "LowerThird",
+      "props": {
+        "accentText": "COMPAÑERA 1",
+        "title": "Linaza",
+        "sub": "Lignanos + omega-3 · siempre molida"
+      }
+    },
+    {
+      "from": 19225,
+      "dur": 180,
+      "comp": "LowerThird",
+      "props": {
+        "accentText": "COMPAÑERA 2",
+        "title": "Calabaza",
+        "sub": "Magnesio, zinc y hierro"
+      }
+    },
+    {
+      "from": 20546,
+      "dur": 180,
+      "comp": "LowerThird",
+      "props": {
+        "accentText": "COMPAÑERA 3",
+        "title": "Sésamo (ajonjolí)",
+        "sub": "Calcio para huesos y articulaciones"
+      }
+    },
+    {
+      "from": 21565,
+      "dur": 180,
+      "comp": "LowerThird",
+      "props": {
+        "accentText": "COMPAÑERA 4",
+        "title": "Girasol",
+        "sub": "Vitamina E antioxidante"
+      }
+    },
+    {
+      "from": 22585,
+      "dur": 180,
+      "comp": "LowerThird",
+      "props": {
+        "accentText": "COMPAÑERA 5",
+        "title": "Albahaca",
+        "sub": "Forma gel, como la chía"
+      }
     }
   ],
   "components": [

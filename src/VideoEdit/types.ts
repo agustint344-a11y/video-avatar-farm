@@ -25,6 +25,14 @@ export type ComponentBeat = {
   props: Record<string, unknown>;
 };
 
+// Overlays: fondo transparente, van ENCIMA del avatar/b-roll (no tapan).
+export type OverlayBeat = {
+  from: number;
+  dur: number;
+  comp: "LowerThird" | "KeywordPop" | "StatChip" | "IconRow" | "StatBar" | "SectionTitle";
+  props: Record<string, unknown>;
+};
+
 export type Cues = {
   slug: string;
   fps: number;
@@ -32,5 +40,6 @@ export type Cues = {
   height: number;
   durationInFrames: number;
   broll: BrollBeat[];
+  overlays: OverlayBeat[];
   components: ComponentBeat[];
 };

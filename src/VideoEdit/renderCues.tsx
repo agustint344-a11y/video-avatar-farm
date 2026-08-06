@@ -19,7 +19,15 @@ import {
   PullQuote,
   Steps,
 } from "./kit/kit";
-import type { BrollBeat, ComponentBeat } from "./types";
+import {
+  IconRow,
+  KeywordPop,
+  LowerThird,
+  SectionTitle,
+  StatBar,
+  StatChip,
+} from "./kit/kit2";
+import type { BrollBeat, ComponentBeat, OverlayBeat } from "./types";
 
 /* ─────────────────────────  b-roll a pantalla completa (Ken Burns)  ───────────────────────── */
 // Nota: b-roll y avatar NO deben confundirse. El b-roll tapa al avatar mientras dura.
@@ -86,4 +94,20 @@ export const ComponentBeatView: React.FC<{ beat: ComponentBeat }> = ({
       ? { ...beat.props, src: staticFile(beat.props.src as string) }
       : beat.props;
   return <Comp durationInFrames={beat.dur} {...props} />;
+};
+
+/* ─────────────────────────  overlays (transparentes, sobre avatar/b-roll)  ───────────────────────── */
+const OMAP = {
+  LowerThird,
+  KeywordPop,
+  StatChip,
+  IconRow,
+  StatBar,
+  SectionTitle,
+} as const;
+
+export const OverlayBeatView: React.FC<{ beat: OverlayBeat }> = ({ beat }) => {
+  const Comp = OMAP[beat.comp] as React.FC<Record<string, unknown>>;
+  if (!Comp) return null;
+  return <Comp durationInFrames={beat.dur} {...beat.props} />;
 };

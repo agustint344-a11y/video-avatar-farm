@@ -1,7 +1,7 @@
 import React from "react";
 import { AbsoluteFill, Sequence } from "remotion";
 import { AvatarAudio, AvatarBackdrop } from "./scenes/AvatarLayer";
-import { BrollBeatView, ComponentBeatView } from "./renderCues";
+import { BrollBeatView, ComponentBeatView, OverlayBeatView } from "./renderCues";
 import type { Cues } from "./types";
 
 /**
@@ -20,6 +20,12 @@ export const VideoMain: React.FC<{ cues: Cues }> = ({ cues }) => {
       {cues.broll.map((b, i) => (
         <Sequence key={`b${i}`} from={b.from} durationInFrames={b.dur} name={`broll ${b.src}`}>
           <BrollBeatView beat={b} />
+        </Sequence>
+      ))}
+
+      {(cues.overlays ?? []).map((o, i) => (
+        <Sequence key={`o${i}`} from={o.from} durationInFrames={o.dur} name={`overlay ${o.comp}`}>
+          <OverlayBeatView beat={o} />
         </Sequence>
       ))}
 
