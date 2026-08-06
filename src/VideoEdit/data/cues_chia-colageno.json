@@ -3,7 +3,157 @@
   "fps": 30,
   "width": 1920,
   "height": 1080,
-  "durationInFrames": 28581,
+  "durationInFrames": 28608,
   "broll": [],
-  "components": []
+  "components": [
+    {
+      "from": 3165,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "myth": "La chía está llena de colágeno.",
+        "truth": "No tiene ni un gramo — pero le da a tu cuerpo los ladrillos y el escudo para fabricar el suyo."
+      }
+    },
+    {
+      "from": 3947,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "title": "Cómo la chía cuida tu colágeno",
+        "items": [
+          "Proteína vegetal: los ladrillos del colágeno",
+          "Omega-3: piel flexible e hidratada",
+          "Antioxidantes: el escudo contra la oxidación"
+        ]
+      }
+    },
+    {
+      "from": 5906,
+      "dur": 150,
+      "comp": "BigStat",
+      "props": {
+        "eyebrow": "Su peso en agua",
+        "value": 12,
+        "suffix": "x",
+        "support": "Por eso, en el vaso, forma ese gel transparente."
+      }
+    },
+    {
+      "from": 6174,
+      "dur": 120,
+      "comp": "Highlight",
+      "props": {
+        "pre": "Ese gel no es un truco bonito.",
+        "highlight": "Es medicina",
+        "post": "."
+      }
+    },
+    {
+      "from": 9741,
+      "dur": 150,
+      "comp": "BigStat",
+      "props": {
+        "eyebrow": "El magnesio participa en",
+        "value": 300,
+        "prefix": "+",
+        "suffix": " procesos",
+        "support": "Relaja los músculos, mejora el descanso y regula tu ánimo."
+      }
+    },
+    {
+      "from": 12068,
+      "dur": 210,
+      "comp": "Steps",
+      "props": {
+        "eyebrow": "Cómo tomarla",
+        "title": "Hidratala siempre primero",
+        "steps": [
+          {
+            "title": "1 o 2 cucharadas en un vaso de agua",
+            "sub": "o leche vegetal, bien revuelto"
+          },
+          {
+            "title": "Reposar 10 a 15 minutos",
+            "sub": "hasta que forme el gel"
+          },
+          {
+            "title": "Tomar el gel, con agua durante el día"
+          }
+        ]
+      }
+    },
+    {
+      "from": 14776,
+      "dur": 180,
+      "comp": "Compare",
+      "props": {
+        "title": "La regla de oro",
+        "left": {
+          "label": "Chía seca, tragada sola",
+          "sub": "se puede hinchar en la garganta o el esófago"
+        },
+        "right": {
+          "label": "Hidratada primero",
+          "sub": "forma el gel: segura y digestiva"
+        }
+      }
+    },
+    {
+      "from": 17310,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "title": "Las 5 compañeras de la chía",
+        "items": [
+          "Linaza (siempre molida)",
+          "Semilla de calabaza (magnesio)",
+          "Sésamo o ajonjolí (calcio)",
+          "Girasol (vitamina E)",
+          "Albahaca (forma gel como la chía)"
+        ]
+      }
+    },
+    {
+      "from": 23658,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "eyebrow": "La mezcla antiedad",
+        "title": "Tu frasco para la semana",
+        "steps": [
+          {
+            "title": "Frasco: chía + linaza molida + sésamo",
+            "sub": "partes iguales, guardado en la heladera"
+          },
+          {
+            "title": "1 o 2 cucharadas en agua",
+            "sub": "reposar 10 a 15 minutos"
+          },
+          {
+            "title": "Tomarlo, con buena agua en el día"
+          }
+        ]
+      }
+    },
+    {
+      "from": 25297,
+      "dur": 180,
+      "comp": "CTACard",
+      "props": {
+        "eyebrow": "Las cantidades exactas",
+        "title": "La guía completa",
+        "bullet": "Proporciones exactas de cada semilla + combinaciones antiedad probadas con pacientes.",
+        "cta": "EN LOS COMENTARIOS"
+      }
+    },
+    {
+      "from": 26850,
+      "dur": 180,
+      "comp": "PullQuote",
+      "props": {
+        "quote": "La verdadera juventud no viene de una sola cosa milagrosa: viene de los buenos hábitos, sostenidos."
+      }
+    }
+  ]
 }

@@ -11,8 +11,9 @@ import { Audio, Video } from "@remotion/media";
 import React from "react";
 import { AbsoluteFill, staticFile } from "remotion";
 
+// El audio sale del propio opt.mp4 (el <Video> va muteado). Así no hay que subir un wav aparte.
 export const AvatarAudio: React.FC<{ slug: string }> = ({ slug }) => (
-  <Audio src={staticFile(`${slug}.wav`)} />
+  <Audio src={staticFile(`${slug}_opt.mp4`)} />
 );
 
 export const AvatarBackdrop: React.FC<{ slug: string }> = ({ slug }) => (

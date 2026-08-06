@@ -8,6 +8,7 @@
  */
 import fs from "node:fs";
 import path from "node:path";
+import { fileURLToPath } from "node:url";
 import sharp from "sharp";
 
 export async function buildSheets(files, outDir, opts = {}) {
@@ -52,7 +53,8 @@ export async function buildSheets(files, outDir, opts = {}) {
 }
 
 // CLI: node scripts/contact_sheet.mjs <dir_con_imagenes> <outDir> [cols]
-if (import.meta.url === `file://${process.argv[1].split(path.sep).join("/")}`) {
+const isMain = process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url);
+if (isMain) {
   const [dir, outDir, cols] = process.argv.slice(2);
   const files = fs.readdirSync(dir).filter((f) => /\.(jpe?g|png|webp)$/i.test(f)).map((f) => path.join(dir, f));
   const labels = files.map((f) => path.basename(f));
