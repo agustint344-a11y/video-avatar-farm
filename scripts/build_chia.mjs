@@ -143,8 +143,13 @@ const IMG = {
   s_sesamo: "chia_sesamo.jpg",
 };
 
+// Descartados en la auditoría del mp4: s_corazon (ECG sobre negro = pantalla muerta),
+// s_albah (clip borroso/ambiguo). Esos momentos los cubre el avatar.
+const DROP = new Set(["s_corazon", "s_albah"]);
+
 const cands = [];
 for (const it of stock) {
+  if (DROP.has(it.name)) continue;
   const from = at(it.anchor);
   if (from == null) continue;
   const imgFile = IMG[it.name];
