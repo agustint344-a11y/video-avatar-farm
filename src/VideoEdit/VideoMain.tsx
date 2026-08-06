@@ -1,6 +1,6 @@
 import React from "react";
 import { AbsoluteFill, Sequence } from "remotion";
-import { AvatarAudio, AvatarBackdrop } from "./scenes/AvatarLayer";
+import { AvatarAudio, AvatarBackdrop, AvatarPip } from "./scenes/AvatarLayer";
 import { BrollBeatView, ComponentBeatView, OverlayBeatView } from "./renderCues";
 import type { Cues } from "./types";
 
@@ -22,6 +22,12 @@ export const VideoMain: React.FC<{ cues: Cues }> = ({ cues }) => {
           <BrollBeatView beat={b} />
         </Sequence>
       ))}
+
+      {/* Avatar en PiP sobre el b-roll (b-roll a pantalla completa + presentador chico en la esquina). */}
+      <AvatarPip
+        slug={cues.slug}
+        windows={cues.broll.filter((b) => b.pip !== false).map((b) => ({ from: b.from, dur: b.dur }))}
+      />
 
       {(cues.overlays ?? []).map((o, i) => (
         <Sequence key={`o${i}`} from={o.from} durationInFrames={o.dur} name={`overlay ${o.comp}`}>

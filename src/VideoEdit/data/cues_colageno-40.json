@@ -1,0 +1,499 @@
+{
+  "slug": "colageno-40",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 40764,
+  "broll": [
+    {
+      "from": 2313,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/colageno-40_s_fibras.mp4"
+    },
+    {
+      "from": 4158,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/colageno-40_s_menop.mp4"
+    },
+    {
+      "from": 6987,
+      "dur": 480,
+      "kind": "video",
+      "src": "broll/colageno-40_s_sol.mp4"
+    },
+    {
+      "from": 7873,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/colageno-40_s_fotoenv.mp4"
+    },
+    {
+      "from": 9247,
+      "dur": 479,
+      "kind": "video",
+      "src": "broll/colageno-40_s_azucar.mp4"
+    },
+    {
+      "from": 9726,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/colageno-40_s_glic.mp4"
+    },
+    {
+      "from": 10649,
+      "dur": 579,
+      "kind": "video",
+      "src": "broll/colageno-40_s_pan.mp4"
+    },
+    {
+      "from": 11228,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/colageno-40_s_estres.mp4"
+    },
+    {
+      "from": 12041,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/colageno-40_s_sueno.mp4"
+    },
+    {
+      "from": 13107,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/colageno-40_s_cigar.mp4"
+    },
+    {
+      "from": 14216,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/colageno-40_s_vitc.mp4"
+    },
+    {
+      "from": 16069,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/colageno-40_s_frutas.mp4"
+    },
+    {
+      "from": 17009,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/colageno-40_s_prot.mp4"
+    },
+    {
+      "from": 17878,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/colageno-40_s_caldo.mp4"
+    },
+    {
+      "from": 19993,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/colageno-40_s_spf.mp4"
+    },
+    {
+      "from": 22906,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/colageno-40_s_verd.mp4"
+    },
+    {
+      "from": 23685,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/colageno-40_s_dormir.mp4"
+    },
+    {
+      "from": 25062,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/colageno-40_s_antiox.mp4"
+    },
+    {
+      "from": 25937,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/colageno-40_s_retinol.mp4"
+    },
+    {
+      "from": 27572,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/colageno-40_s_ejerc.mp4"
+    },
+    {
+      "from": 31976,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/colageno-40_s_suple.mp4"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 4158,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "ESTRÓGENO",
+        "sub": "cae en la menopausia y el colágeno cae con él",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 5449,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "REJUVENECIMIENTO",
+        "title": "Dra. Elena Vidal",
+        "sub": "Antiedad con evidencia"
+      }
+    },
+    {
+      "from": 6987,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "ENEMIGO 1",
+        "title": "El sol",
+        "sub": "la causa nº1 del envejecimiento"
+      }
+    },
+    {
+      "from": 7873,
+      "dur": 90,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "FOTOENVEJECIMIENTO",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 9247,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "ENEMIGO 2",
+        "title": "El azúcar",
+        "sub": "glicación: endurece tu colágeno"
+      }
+    },
+    {
+      "from": 9726,
+      "dur": 90,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "GLICACIÓN",
+        "sub": "el azúcar caramela tu piel",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 11228,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "ENEMIGO 3",
+        "title": "Estrés y falta de sueño",
+        "sub": "el cortisol degrada tu colágeno"
+      }
+    },
+    {
+      "from": 13192,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "ENEMIGO 4",
+        "title": "Cigarrillo y alcohol",
+        "sub": "radicales libres y deshidratación"
+      }
+    },
+    {
+      "from": 14914,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "PILAR 1",
+        "title": "Vitamina C",
+        "sub": "sin ella NO se fabrica colágeno"
+      }
+    },
+    {
+      "from": 16971,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "PILAR 2",
+        "title": "Proteína",
+        "sub": "los ladrillos: glicina y prolina"
+      }
+    },
+    {
+      "from": 19286,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi guía de rejuvenecimiento",
+        "items": [
+          "Protocolo completo, paso a paso",
+          "Cantidades y horarios exactos",
+          "Rutinas de día y de noche"
+        ]
+      }
+    },
+    {
+      "from": 19993,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "PILAR 3",
+        "title": "Protector solar",
+        "sub": "el antiedad nº1, probado y barato"
+      }
+    },
+    {
+      "from": 22318,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "PILAR 4",
+        "title": "Menos azúcar",
+        "sub": "frená la glicación"
+      }
+    },
+    {
+      "from": 23685,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "PILAR 5",
+        "title": "Dormir y bajar el estrés",
+        "sub": "tu piel se repara de noche"
+      }
+    },
+    {
+      "from": 24894,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "PILAR 6",
+        "title": "Antioxidantes + retinol",
+        "sub": "protegen y estimulan el colágeno"
+      }
+    },
+    {
+      "from": 25937,
+      "dur": 90,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "RETINOL",
+        "sub": "el único tópico que sí estimula colágeno",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 26700,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "PILAR 7",
+        "title": "Hidratación y movimiento",
+        "sub": "agua + ejercicio de fuerza"
+      }
+    },
+    {
+      "from": 28009,
+      "dur": 135,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🌙",
+        "title": "Retinol: de a poco y de noche",
+        "sub": "y protector solar al día siguiente",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 36360,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🤰",
+        "title": "Embarazo: sin retinol",
+        "sub": "los derivados de vitamina A están contraindicados",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 38057,
+      "dur": 135,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🩺",
+        "title": "No reemplaza a tu médico",
+        "sub": "esto es divulgación educativa",
+        "tone": "info"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 1095,
+      "dur": 180,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "En este video",
+        "items": [
+          "Por qué cae tu colágeno después de los 40",
+          "Los 4 enemigos que lo destruyen",
+          "Cómo fabricar MÁS, gratis y desde adentro"
+        ]
+      }
+    },
+    {
+      "from": 3792,
+      "dur": 150,
+      "comp": "BigNumberCard",
+      "props": {
+        "eyebrow": "Desde los 25 años",
+        "value": 1,
+        "suffix": "% por año",
+        "label": "vas perdiendo colágeno"
+      }
+    },
+    {
+      "from": 7467,
+      "dur": 150,
+      "comp": "BigNumberCard",
+      "props": {
+        "eyebrow": "Envejecimiento del rostro",
+        "value": 80,
+        "suffix": "%",
+        "label": "viene del sol, no de los años"
+      }
+    },
+    {
+      "from": 29929,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Las cremas \"con colágeno\" reconstruyen tu piel.",
+        "truth": "La molécula es demasiado grande para penetrar: hidrata la superficie y nada más. El colágeno lo fabricás vos, desde adentro."
+      }
+    },
+    {
+      "from": 30980,
+      "dur": 195,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Cuanto más cara la crema, mejor funciona.",
+        "truth": "El precio es marketing y envase. Pagá los INGREDIENTES (retinol, vitamina C), no la etiqueta famosa."
+      }
+    },
+    {
+      "from": 33313,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Alimentos estrella para tu colágeno",
+        "items": [
+          "Pimiento rojo y cítricos (vitamina C)",
+          "Pescado y huevos (proteína)",
+          "Caldo de huesos (glicina y prolina)",
+          "Verduras verdes y frutos rojos (antioxidantes)",
+          "Ajo y soja (azufre)"
+        ]
+      }
+    },
+    {
+      "from": 34683,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Tu rutina antiedad",
+        "title": "3 pasos, desde mañana",
+        "steps": [
+          {
+            "title": "Mañana: protector solar",
+            "sub": "cara, cuello y manos, todos los días"
+          },
+          {
+            "title": "Día: vitamina C + proteína + agua",
+            "sub": "comida real y colorida"
+          },
+          {
+            "title": "Noche: dormí 7-8 h + retinol",
+            "sub": "con cuidado y constancia"
+          }
+        ]
+      }
+    },
+    {
+      "from": 37711,
+      "dur": 210,
+      "comp": "AnnotatedImage",
+      "props": {
+        "eyebrow": "Consultá antes",
+        "title": "Cuándo ir al dermatólogo",
+        "image": "img/col_derma.jpg",
+        "points": [
+          {
+            "label": "Un lunar que cambia",
+            "x": 32,
+            "y": 42,
+            "side": "left"
+          },
+          {
+            "label": "Mancha nueva que crece",
+            "x": 70,
+            "y": 55,
+            "side": "right"
+          },
+          {
+            "label": "Lesión que no cierra",
+            "x": 45,
+            "y": 78,
+            "side": "left"
+          }
+        ]
+      }
+    },
+    {
+      "from": 38296,
+      "dur": 195,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "La juventud de tu piel no está en un frasco de $200. Está en lo que hacés todos los días."
+      }
+    }
+  ]
+}

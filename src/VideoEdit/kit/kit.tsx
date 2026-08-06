@@ -44,6 +44,13 @@ export const THEME_NIGHT: Theme = {
   accent: "#17E0D6", good: "#39D98A", bad: "#FF5A78", panel: "#16223A",
   serif: SERIF, sans: SANS,
 };
+// Tema CLÍNICO/moderno (blanco + teal + ámbar), para el canal antiedad (Dra. Elena Vidal).
+// Combina con kit3. Usa sans para todo (look moderno, no editorial).
+export const THEME_CLINIC: Theme = {
+  bg: "#EAF0F1", ink: "#16242B", muted: "#6C7B84", line: "#DCE6E8",
+  accent: "#0FA9A0", good: "#2FB27C", bad: "#E4572E", panel: "#FFFFFF",
+  serif: SANS, sans: SANS,
+};
 
 // ───────────────────────────── helpers de animación (suaves, sin rebote chillón) ─────────────────────────────
 const useOp = (dur: number, inF = 12, outF = 12) => {

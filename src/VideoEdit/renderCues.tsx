@@ -18,7 +18,17 @@ import {
   MythVsTruth,
   PullQuote,
   Steps,
+  THEME_CLINIC,
+  THEME_EARTH,
+  THEME_NIGHT,
 } from "./kit/kit";
+
+// Permite elegir el look por beat con un string en props.theme ("clinic" | "night" | "earth").
+const THEMES: Record<string, unknown> = { earth: THEME_EARTH, night: THEME_NIGHT, clinic: THEME_CLINIC };
+const withTheme = (props: Record<string, unknown>) =>
+  typeof props.theme === "string" && THEMES[props.theme]
+    ? { ...props, theme: THEMES[props.theme] }
+    : props;
 import {
   Callout,
   IconRow,
@@ -28,6 +38,12 @@ import {
   StatBar,
   StatChip,
 } from "./kit/kit2";
+import {
+  AnnotatedImage,
+  BigNumberCard,
+  SplitInfo,
+  Testimonial,
+} from "./kit/kit3";
 import type { BrollBeat, ComponentBeat, OverlayBeat } from "./types";
 
 /* ─────────────────────────  b-roll a pantalla completa (Ken Burns)  ───────────────────────── */
@@ -82,6 +98,9 @@ const MAP = {
   FramedPhoto,
   CTACard,
   CornerLabel,
+  Testimonial,
+  AnnotatedImage,
+  BigNumberCard,
 } as const;
 
 export const ComponentBeatView: React.FC<{ beat: ComponentBeat }> = ({
@@ -90,11 +109,11 @@ export const ComponentBeatView: React.FC<{ beat: ComponentBeat }> = ({
   const Comp = MAP[beat.comp] as React.FC<Record<string, unknown>>;
   if (!Comp) return null;
   // FramedPhoto recibe src relativo a public/ → resolver con staticFile.
-  const props =
+  const base =
     beat.comp === "FramedPhoto" && typeof beat.props.src === "string"
       ? { ...beat.props, src: staticFile(beat.props.src as string) }
       : beat.props;
-  return <Comp durationInFrames={beat.dur} {...props} />;
+  return <Comp durationInFrames={beat.dur} {...withTheme(base)} />;
 };
 
 /* ─────────────────────────  overlays (transparentes, sobre avatar/b-roll)  ───────────────────────── */
@@ -106,10 +125,11 @@ const OMAP = {
   StatBar,
   SectionTitle,
   Callout,
+  SplitInfo,
 } as const;
 
 export const OverlayBeatView: React.FC<{ beat: OverlayBeat }> = ({ beat }) => {
   const Comp = OMAP[beat.comp] as React.FC<Record<string, unknown>>;
   if (!Comp) return null;
-  return <Comp durationInFrames={beat.dur} {...beat.props} />;
+  return <Comp durationInFrames={beat.dur} {...withTheme(beat.props)} />;
 };

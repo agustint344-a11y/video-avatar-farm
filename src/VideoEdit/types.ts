@@ -6,6 +6,7 @@ export type BrollBeat = {
   dur: number;
   kind: "video" | "image";
   src: string; // relativo a public/, ej "broll/chia_s_01.mp4" | "img/foo.png"
+  pip?: boolean; // default true: muestra el avatar en PiP sobre este b-roll. false = b-roll full sin avatar.
 };
 
 export type ComponentBeat = {
@@ -21,7 +22,10 @@ export type ComponentBeat = {
     | "Highlight"
     | "FramedPhoto"
     | "CTACard"
-    | "CornerLabel";
+    | "CornerLabel"
+    | "Testimonial"
+    | "AnnotatedImage"
+    | "BigNumberCard";
   props: Record<string, unknown>;
 };
 
@@ -29,7 +33,7 @@ export type ComponentBeat = {
 export type OverlayBeat = {
   from: number;
   dur: number;
-  comp: "LowerThird" | "KeywordPop" | "StatChip" | "IconRow" | "StatBar" | "SectionTitle" | "Callout";
+  comp: "LowerThird" | "KeywordPop" | "StatChip" | "IconRow" | "StatBar" | "SectionTitle" | "Callout" | "SplitInfo";
   props: Record<string, unknown>;
 };
 
