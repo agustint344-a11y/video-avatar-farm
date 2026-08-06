@@ -20,6 +20,7 @@ import {
   Steps,
 } from "./kit/kit";
 import {
+  Callout,
   IconRow,
   KeywordPop,
   LowerThird,
@@ -104,6 +105,7 @@ const OMAP = {
   IconRow,
   StatBar,
   SectionTitle,
+  Callout,
 } as const;
 
 export const OverlayBeatView: React.FC<{ beat: OverlayBeat }> = ({ beat }) => {

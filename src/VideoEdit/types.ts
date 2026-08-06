@@ -29,7 +29,7 @@ export type ComponentBeat = {
 export type OverlayBeat = {
   from: number;
   dur: number;
-  comp: "LowerThird" | "KeywordPop" | "StatChip" | "IconRow" | "StatBar" | "SectionTitle";
+  comp: "LowerThird" | "KeywordPop" | "StatChip" | "IconRow" | "StatBar" | "SectionTitle" | "Callout";
   props: Record<string, unknown>;
 };
 

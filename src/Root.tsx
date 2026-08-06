@@ -4,9 +4,11 @@ import { KitDemo, KITDEMO_FRAMES } from "./VideoEdit/kit/KitDemo";
 import { VideoMain } from "./VideoEdit/VideoMain";
 import type { Cues } from "./VideoEdit/types";
 import chiaCues from "./VideoEdit/data/cues_chia-colageno.json";
+import jamaicaCues from "./VideoEdit/data/cues_agua-jamaica.json";
 
 export const RemotionRoot: React.FC = () => {
   const chia = chiaCues as Cues;
+  const jamaica = jamaicaCues as Cues;
   return (
     <>
       <Composition
@@ -25,6 +27,15 @@ export const RemotionRoot: React.FC = () => {
         width={chia.width}
         height={chia.height}
         defaultProps={{ cues: chia }}
+      />
+      <Composition
+        id="Jamaica"
+        component={VideoMain}
+        durationInFrames={jamaica.durationInFrames}
+        fps={jamaica.fps}
+        width={jamaica.width}
+        height={jamaica.height}
+        defaultProps={{ cues: jamaica }}
       />
     </>
   );

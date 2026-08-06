@@ -9,20 +9,29 @@
  */
 import { Audio, Video } from "@remotion/media";
 import React from "react";
-import { AbsoluteFill, staticFile } from "remotion";
+import { AbsoluteFill, staticFile, useCurrentFrame } from "remotion";
 
 // El audio sale del propio opt.mp4 (el <Video> va muteado). Así no hay que subir un wav aparte.
 export const AvatarAudio: React.FC<{ slug: string }> = ({ slug }) => (
   <Audio src={staticFile(`${slug}_opt.mp4`)} />
 );
 
-export const AvatarBackdrop: React.FC<{ slug: string }> = ({ slug }) => (
-  <AbsoluteFill style={{ backgroundColor: "#000" }}>
-    <Video
-      src={staticFile(`${slug}_opt.mp4`)}
-      muted
-      objectFit="cover"
-      style={{ width: "100%", height: "100%" }}
-    />
-  </AbsoluteFill>
-);
+// Ken Burns SUAVE y permanente sobre el avatar: un push lento que respira (nunca queda
+// una cabeza parlante clavada). Amplitud chica para que no distraiga. Ciclo ~24 s.
+export const AvatarBackdrop: React.FC<{ slug: string }> = ({ slug }) => {
+  const f = useCurrentFrame();
+  const t = f / 30;
+  const scale = 1.04 + 0.025 * Math.sin(t / 12); // 1.015 ↔ 1.065
+  const x = 10 * Math.sin(t / 17);
+  const y = 6 * Math.cos(t / 21);
+  return (
+    <AbsoluteFill style={{ backgroundColor: "#000", overflow: "hidden" }}>
+      <Video
+        src={staticFile(`${slug}_opt.mp4`)}
+        muted
+        objectFit="cover"
+        style={{ width: "100%", height: "100%", transform: `scale(${scale}) translate(${x}px, ${y}px)` }}
+      />
+    </AbsoluteFill>
+  );
+};

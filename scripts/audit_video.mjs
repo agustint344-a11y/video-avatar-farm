@@ -58,7 +58,7 @@ for (let t = 0; t < durSec; t += every) {
   } catch { /* frame fuera de rango */ }
 }
 
-const sheets = await buildSheets(files, OUT, { cols: 3, tileW: 560, perSheet: 9, labels });
+const sheets = await buildSheets(files, OUT, { cols: 4, tileW: 440, perSheet: 16, labels });
 fs.writeFileSync(path.join(OUT, "manifest.json"), JSON.stringify(manifest, null, 2));
 console.log(`✓ ${files.length} frames, ${sheets.length} sheets en ${path.relative(ROOT, OUT)}`);
 console.log(sheets.map((s) => path.relative(ROOT, s)).join("\n"));

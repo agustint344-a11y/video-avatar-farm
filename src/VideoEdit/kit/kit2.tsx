@@ -132,6 +132,27 @@ export const StatBar: React.FC<{
   );
 };
 
+/* ───────────── 7) Callout — banner de aviso (riesgo / dato clave), overlay inferior con ícono ───────────── */
+export const Callout: React.FC<{
+  durationInFrames: number; theme?: Theme; icon?: string; title: string; sub?: string; tone?: "warn" | "info" | "good";
+}> = ({ durationInFrames, theme = THEME_EARTH, icon = "⚠️", title, sub, tone = "warn" }) => {
+  const op = useInOut(durationInFrames, 10, 10);
+  const p = useSpring(0, 18);
+  const c = tone === "warn" ? theme.bad : tone === "good" ? theme.good : theme.accent;
+  return (
+    <AbsoluteFill style={{ alignItems: "center", justifyContent: "flex-end", paddingBottom: 130, pointerEvents: "none" }}>
+      <div style={{ maxWidth: 1400, opacity: op, transform: `translateY(${(1 - p) * 40}px)`, display: "flex", alignItems: "center", gap: 24, background: theme.panel, borderRadius: 16, padding: "24px 40px", border: `1px solid ${theme.line}`, borderLeft: `12px solid ${c}`, filter: `drop-shadow(${shadow})` }}>
+        <span style={{ fontSize: 60, lineHeight: 1 }}>{icon}</span>
+        <div>
+          <div style={{ color: c, font: `800 24px/1 ${theme.sans}`, letterSpacing: 2, textTransform: "uppercase", marginBottom: 8 }}>{tone === "warn" ? "Cuidado" : tone === "good" ? "Sí" : "Dato"}</div>
+          <div style={{ color: theme.ink, font: `700 44px/1.15 ${theme.serif}` }}>{title}</div>
+          {sub && <div style={{ color: theme.muted, font: `400 30px/1.3 ${theme.sans}`, marginTop: 6 }}>{sub}</div>}
+        </div>
+      </div>
+    </AbsoluteFill>
+  );
+};
+
 /* ───────────── 6) SectionTitle — placa de capítulo a pantalla parcial (barra central), semi-transparente ───────────── */
 export const SectionTitle: React.FC<{
   durationInFrames: number; theme?: Theme; eyebrow?: string; title: string;

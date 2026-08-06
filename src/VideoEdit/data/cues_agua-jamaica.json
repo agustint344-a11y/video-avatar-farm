@@ -1,0 +1,408 @@
+{
+  "slug": "agua-jamaica",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 25457,
+  "broll": [
+    {
+      "from": 13,
+      "dur": 202,
+      "kind": "video",
+      "src": "broll/agua-jamaica_s_rubi.mp4"
+    },
+    {
+      "from": 215,
+      "dur": 270,
+      "kind": "video",
+      "src": "broll/agua-jamaica_s_tension.mp4"
+    },
+    {
+      "from": 1477,
+      "dur": 270,
+      "kind": "video",
+      "src": "broll/agua-jamaica_s_flor.mp4"
+    },
+    {
+      "from": 1977,
+      "dur": 270,
+      "kind": "video",
+      "src": "broll/agua-jamaica_s_pueblos.mp4"
+    },
+    {
+      "from": 6968,
+      "dur": 153,
+      "kind": "video",
+      "src": "broll/agua-jamaica_s_servir.mp4"
+    },
+    {
+      "from": 8194,
+      "dur": 270,
+      "kind": "video",
+      "src": "broll/agua-jamaica_s_colest.mp4"
+    },
+    {
+      "from": 9595,
+      "dur": 270,
+      "kind": "video",
+      "src": "broll/agua-jamaica_s_azucar.mp4"
+    },
+    {
+      "from": 11396,
+      "dur": 68,
+      "kind": "video",
+      "src": "broll/agua-jamaica_s_higado.mp4"
+    },
+    {
+      "from": 11464,
+      "dur": 270,
+      "kind": "video",
+      "src": "broll/agua-jamaica_s_higado2.mp4"
+    },
+    {
+      "from": 12884,
+      "dur": 111,
+      "kind": "video",
+      "src": "broll/agua-jamaica_s_liquido.mp4"
+    },
+    {
+      "from": 12995,
+      "dur": 270,
+      "kind": "video",
+      "src": "broll/agua-jamaica_s_piernas.mp4"
+    },
+    {
+      "from": 14462,
+      "dur": 270,
+      "kind": "video",
+      "src": "broll/agua-jamaica_s_pastilla.mp4"
+    },
+    {
+      "from": 15418,
+      "dur": 270,
+      "kind": "video",
+      "src": "broll/agua-jamaica_s_embarazo.mp4"
+    },
+    {
+      "from": 20732,
+      "dur": 270,
+      "kind": "video",
+      "src": "broll/agua-jamaica_s_reposar.mp4"
+    },
+    {
+      "from": 21546,
+      "dur": 270,
+      "kind": "video",
+      "src": "broll/agua-jamaica_s_fria.mp4"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2461,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "accentText": "NATURÓPATA",
+        "title": "Agustín Landívar",
+        "sub": "Salud natural, con evidencia"
+      }
+    },
+    {
+      "from": 3203,
+      "dur": 165,
+      "comp": "LowerThird",
+      "props": {
+        "accentText": "BENEFICIO 1",
+        "title": "Baja la presión arterial",
+        "sub": "el efecto más estudiado"
+      }
+    },
+    {
+      "from": 3995,
+      "dur": 90,
+      "comp": "KeywordPop",
+      "props": {
+        "word": "PRESIÓN ALTA",
+        "sub": "el asesino silencioso",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 5949,
+      "dur": 165,
+      "comp": "LowerThird",
+      "props": {
+        "accentText": "BENEFICIO 2",
+        "title": "Antioxidante potente",
+        "sub": "antiedad de adentro hacia afuera"
+      }
+    },
+    {
+      "from": 6430,
+      "dur": 90,
+      "comp": "KeywordPop",
+      "props": {
+        "word": "RADICALES LIBRES",
+        "sub": "el óxido de tu cuerpo",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 7023,
+      "dur": 150,
+      "comp": "IconRow",
+      "props": {
+        "items": [
+          {
+            "icon": "🌺",
+            "label": "Antocianinas"
+          },
+          {
+            "icon": "🍋",
+            "label": "Vitamina C"
+          },
+          {
+            "icon": "🛡️",
+            "label": "Polifenoles"
+          }
+        ]
+      }
+    },
+    {
+      "from": 7831,
+      "dur": 165,
+      "comp": "LowerThird",
+      "props": {
+        "accentText": "BENEFICIO 3",
+        "title": "Cuida el colesterol",
+        "sub": "menos grasa en las arterias"
+      }
+    },
+    {
+      "from": 9533,
+      "dur": 165,
+      "comp": "LowerThird",
+      "props": {
+        "accentText": "BENEFICIO 4",
+        "title": "Regula el azúcar",
+        "sub": "mejor manejo de la insulina"
+      }
+    },
+    {
+      "from": 11338,
+      "dur": 165,
+      "comp": "LowerThird",
+      "props": {
+        "accentText": "BENEFICIO 5",
+        "title": "Apoya el hígado",
+        "sub": "el gran filtro del cuerpo"
+      }
+    },
+    {
+      "from": 12602,
+      "dur": 165,
+      "comp": "LowerThird",
+      "props": {
+        "accentText": "BENEFICIO 6",
+        "title": "Desinflama",
+        "sub": "menos retención de líquidos"
+      }
+    },
+    {
+      "from": 14043,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "ATENCIÓN",
+        "title": "5 riesgos que debés saber"
+      }
+    },
+    {
+      "from": 14369,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "icon": "💊",
+        "title": "Tomás medicación para la presión",
+        "sub": "puede sumarse y bajarla demasiado — consultá a tu médico",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 15381,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "icon": "🤰",
+        "title": "Embarazo o lactancia",
+        "sub": "evitala; consultá antes",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 15959,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "icon": "🩸",
+        "title": "Medicación para la diabetes",
+        "sub": "puede bajar el azúcar de más — controlate con tu médico",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 16480,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "icon": "⚗️",
+        "title": "Interacción con medicamentos",
+        "sub": "si tomás algo crónico, avisale a tu médico",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 17024,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "icon": "⚖️",
+        "title": "La dosis: más NO es mejor",
+        "sub": "1 o 2 tazas al día es suficiente",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 23024,
+      "dur": 135,
+      "comp": "Callout",
+      "props": {
+        "icon": "🩺",
+        "title": "No reemplaza a tu médico",
+        "sub": "es un aliado, coordinado con él",
+        "tone": "info"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 572,
+      "dur": 180,
+      "comp": "Checklist",
+      "props": {
+        "title": "Lo que vas a ver hoy",
+        "items": [
+          "6 beneficios con evidencia real",
+          "5 riesgos que casi nadie cuenta",
+          "Verdades y mentiras del hibisco"
+        ]
+      }
+    },
+    {
+      "from": 4506,
+      "dur": 195,
+      "comp": "Checklist",
+      "props": {
+        "title": "Cómo el hibisco baja la presión",
+        "items": [
+          "Efecto diurético: soltás líquido y sodio",
+          "Antocianinas: arterias más flexibles",
+          "Menos presión en tus 'cañerías'"
+        ]
+      }
+    },
+    {
+      "from": 7121,
+      "dur": 135,
+      "comp": "Highlight",
+      "props": {
+        "pre": "Frente a la oxidación, los antioxidantes son tu",
+        "highlight": "escudo",
+        "post": "."
+      }
+    },
+    {
+      "from": 9201,
+      "dur": 195,
+      "comp": "Checklist",
+      "props": {
+        "title": "3 frentes que descargan tu corazón",
+        "items": [
+          "Baja la presión arterial",
+          "Baja el colesterol y los triglicéridos",
+          "Antioxidantes que protegen las arterias"
+        ]
+      }
+    },
+    {
+      "from": 18066,
+      "dur": 195,
+      "comp": "MythVsTruth",
+      "props": {
+        "myth": "El agua de Jamaica adelgaza sola, es quema grasa.",
+        "truth": "Ninguna infusión adelgaza por magia. Es una gran ALIADA (menos líquido, sin azúcar), pero el trabajo lo hacen tus hábitos."
+      }
+    },
+    {
+      "from": 18956,
+      "dur": 195,
+      "comp": "MythVsTruth",
+      "props": {
+        "myth": "El agua de Jamaica cura enfermedades.",
+        "truth": "No cura hipertensión ni diabetes. Es un apoyo que ACOMPAÑA tu tratamiento — nunca lo reemplaza."
+      }
+    },
+    {
+      "from": 19635,
+      "dur": 135,
+      "comp": "Highlight",
+      "props": {
+        "pre": "Con azúcar y mucho hervor,",
+        "highlight": "perdés medio beneficio",
+        "post": "."
+      }
+    },
+    {
+      "from": 20401,
+      "dur": 225,
+      "comp": "Steps",
+      "props": {
+        "eyebrow": "Cómo prepararla bien",
+        "title": "Infusión perfecta, en 3 pasos",
+        "steps": [
+          {
+            "title": "1 cucharada de flor en agua caliente",
+            "sub": "apagá el fuego y recién ahí echala"
+          },
+          {
+            "title": "Tapá y reposá 5 a 10 minutos",
+            "sub": "para que suelte color y antioxidantes"
+          },
+          {
+            "title": "Colá y tomá, sin azúcar",
+            "sub": "1 o 2 tazas al día, fría o caliente"
+          }
+        ]
+      }
+    },
+    {
+      "from": 21877,
+      "dur": 180,
+      "comp": "CTACard",
+      "props": {
+        "eyebrow": "El plan completo",
+        "title": "La guía de infusiones",
+        "bullet": "Cantidades exactas, horarios y combinaciones para la presión, el azúcar y la inflamación.",
+        "cta": "EN LOS COMENTARIOS"
+      }
+    },
+    {
+      "from": 23539,
+      "dur": 180,
+      "comp": "PullQuote",
+      "props": {
+        "quote": "La verdadera salud no viene de una sola bebida milagrosa: viene de los buenos hábitos, sostenidos."
+      }
+    }
+  ]
+}
