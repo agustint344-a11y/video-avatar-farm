@@ -1,0 +1,32 @@
+{
+  "name": "video-avatar-farm",
+  "version": "1.0.0",
+  "description": "Pipeline de video documental con avatar (Remotion + farm GitHub)",
+  "private": true,
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@remotion/cli": "4.0.499",
+    "@remotion/google-fonts": "4.0.499",
+    "@remotion/install-whisper-cpp": "4.0.499",
+    "@remotion/media": "4.0.499",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.499",
+    "sharp": "^0.35.3"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.7",
+    "@types/web": "0.0.166",
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "dev": "remotion studio",
+    "build": "remotion bundle",
+    "transcribe": "node scripts/transcribe_local.mjs",
+    "stock": "node --env-file-if-exists=.env scripts/stockfallback.mjs",
+    "farm": "node scripts/farm.mjs"
+  },
+  "sideEffects": [
+    "*.css"
+  ]
+}

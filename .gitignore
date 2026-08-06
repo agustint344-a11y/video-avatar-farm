@@ -1,0 +1,17 @@
+node_modules/
+.env
+.env.*
+whisper.cpp/
+.cache/
+out/
+_list.txt
+*.tar
+assets-*.tar
+
+# Assets binarios: viajan por el tar del release del farm, NO se commitean.
+public/
+
+# Estado intermedio del pipeline (regenerable)
+_v3/
+beatsheet/
+.DS_Store

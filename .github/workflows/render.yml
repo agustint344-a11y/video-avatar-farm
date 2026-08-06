@@ -1,0 +1,74 @@
+name: render
+on:
+  workflow_dispatch:
+    inputs:
+      slug:         { description: "slug del video", required: true }
+      comp_id:      { description: "id de la Composition", required: true }
+      total_frames: { description: "frames totales (round(dur*30))", required: true }
+      chunks:       { description: "en cuantos pedazos", required: false, default: "40" }
+      only_chunks:  { description: "solo estos chunks (ej 3 | 3,4 | 3-5). vacio=todos", required: false, default: "" }
+      entry:        { description: "entry propio (ej src/index-<slug>.ts). vacio=src/index.ts", required: false, default: "" }
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    outputs: { matrix: "${{ steps.m.outputs.matrix }}" }
+    steps:
+      - id: m
+        run: |
+          N=${{ github.event.inputs.chunks }}; ONLY="${{ github.event.inputs.only_chunks }}"
+          if [ -z "$ONLY" ]; then LIST=$(seq 0 $((N-1)) | jq -R . | jq -cs .);
+          else LIST=$(echo "$ONLY" | tr ',' '\n' | while read x; do
+                 if echo "$x" | grep -q '-'; then seq ${x%-*} ${x#*-}; else echo "$x"; fi; done | jq -R . | jq -cs .); fi
+          echo "matrix=$LIST" >> "$GITHUB_OUTPUT"
+  render:
+    needs: prepare
+    runs-on: ubuntu-latest
+    strategy: { fail-fast: false, matrix: { idx: "${{ fromJSON(needs.prepare.outputs.matrix) }}" } }
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: "${{ github.ref_name }}" }
+      - uses: actions/setup-node@v4
+        with: { node-version: "20", cache: "npm" }
+      - name: cache deps + chromium
+        uses: actions/cache@v4
+        with:
+          path: |
+            node_modules
+            ~/.cache/remotion
+          key: rmn-${{ runner.os }}-${{ hashFiles('package-lock.json') }}
+          restore-keys: rmn-${{ runner.os }}-
+      - run: npm ci
+      - name: bajar assets (el .tar del release)
+        run: |
+          gh release download assets-${{ github.event.inputs.slug }} --repo ${{ github.repository }} --pattern '*.tar' --dir .
+          mkdir -p public && tar -xf assets-${{ github.event.inputs.slug }}.tar -C public
+        env: { GH_TOKEN: "${{ github.token }}" }
+      - id: r
+        run: node scripts/chunkmath.mjs ${{ github.event.inputs.total_frames }} ${{ github.event.inputs.chunks }} ${{ matrix.idx }} >> "$GITHUB_OUTPUT"
+      - name: render chunk
+        run: |
+          ENTRY="${{ github.event.inputs.entry }}"; [ -z "$ENTRY" ] && ENTRY="src/index.ts"
+          mkdir -p out
+          TMPDIR=/dev/shm npx remotion render "$ENTRY" "${{ github.event.inputs.comp_id }}" \
+            "out/chunk_${{ matrix.idx }}.mp4" \
+            --frames=${{ steps.r.outputs.start }}-${{ steps.r.outputs.end }} \
+            --concurrency=2 --gl=angle
+      - uses: actions/upload-artifact@v4
+        with: { name: "chunk-${{ matrix.idx }}", path: out/chunk_${{ matrix.idx }}.mp4, retention-days: 1 }
+  stitch:
+    needs: render
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with: { path: chunks, pattern: chunk-*, merge-multiple: true }
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - name: concat en orden (el avatar ya trae su audio dentro del render)
+        run: |
+          for f in $(ls chunks/chunk_*.mp4 | sort -t_ -k2 -n); do echo "file '$PWD/$f'" >> list.txt; done
+          ffmpeg -y -f concat -safe 0 -i list.txt -c copy "${{ github.event.inputs.slug }}.mp4"
+      - name: publicar el mp4 como release
+        run: |
+          gh release delete ${{ github.event.inputs.slug }} --repo ${{ github.repository }} --yes --cleanup-tag || true
+          gh release create ${{ github.event.inputs.slug }} --repo ${{ github.repository }} --title "${{ github.event.inputs.slug }}" --notes "render" "${{ github.event.inputs.slug }}.mp4"
+        env: { GH_TOKEN: "${{ github.token }}" }
