@@ -133,13 +133,27 @@ try {
   stock = JSON.parse(fs.readFileSync(path.join(ROOT, "_v3", `${SLUG}_needstock.json`), "utf8").replace(/^﻿/, ""));
 } catch { /* sin lista de stock → solo componentes */ }
 
+// Imágenes de Flow que reemplazan/mejoran ciertos momentos (ganan sobre el stock).
+const IMG = {
+  s_cerebro: "chia_cerebro.jpg",
+  s_calab: "chia_calabaza.jpg",
+  s_giras: "chia_girasol.jpg",
+  s_linaza: "chia_linaza.jpg",
+  s_huesos: "chia_huesos.jpg",
+  s_sesamo: "chia_sesamo.jpg",
+};
+
 const cands = [];
 for (const it of stock) {
-  const file = path.join(ROOT, "public", "broll", `${SLUG}_${it.name}.mp4`);
-  if (!fs.existsSync(file)) continue; // rechazado o no bajado
   const from = at(it.anchor);
   if (from == null) continue;
-  cands.push({ from, name: it.name, src: `broll/${SLUG}_${it.name}.mp4` });
+  const imgFile = IMG[it.name];
+  if (imgFile && fs.existsSync(path.join(ROOT, "public", "img", imgFile))) {
+    cands.push({ from, name: it.name, kind: "image", src: `img/${imgFile}` });
+  } else {
+    const vid = path.join(ROOT, "public", "broll", `${SLUG}_${it.name}.mp4`);
+    if (fs.existsSync(vid)) cands.push({ from, name: it.name, kind: "video", src: `broll/${SLUG}_${it.name}.mp4` });
+  }
 }
 cands.sort((a, b) => a.from - b.from);
 
@@ -151,7 +165,7 @@ for (let i = 0; i < cands.length; i++) {
   const nextBroll = i + 1 < cands.length ? cands[i + 1].from : Infinity;
   let dur = Math.min(CAP, nextBroll - c.from, nextComponentStart(c.from) - c.from);
   if (dur < MIN) { brollMiss.push(`${c.name} (sliver ${dur}f)`); continue; }
-  broll.push({ from: c.from, dur, kind: "video", src: c.src });
+  broll.push({ from: c.from, dur, kind: c.kind, src: c.src });
 }
 
 const durationInFrames = Math.round((caps[caps.length - 1].endMs / 1000) * FPS) + sec(1);
