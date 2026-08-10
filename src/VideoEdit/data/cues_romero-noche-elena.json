@@ -1,0 +1,612 @@
+{
+  "slug": "romero-noche-elena",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 36776,
+  "broll": [
+    {
+      "from": 977,
+      "dur": 375,
+      "kind": "video",
+      "src": "broll/romero-noche-elena_s_01.mp4"
+    },
+    {
+      "from": 1352,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/romero-noche-elena_s_02.mp4"
+    },
+    {
+      "from": 2646,
+      "dur": 115,
+      "kind": "video",
+      "src": "broll/romero-noche-elena_s_03.mp4"
+    },
+    {
+      "from": 2761,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/romero-noche-elena_s_04.mp4"
+    },
+    {
+      "from": 2935,
+      "dur": 529,
+      "kind": "video",
+      "src": "broll/romero-noche-elena_s_05.mp4"
+    },
+    {
+      "from": 4391,
+      "dur": 502,
+      "kind": "video",
+      "src": "broll/romero-noche-elena_s_09.mp4"
+    },
+    {
+      "from": 4893,
+      "dur": 503,
+      "kind": "video",
+      "src": "broll/romero-noche-elena_s_10.mp4"
+    },
+    {
+      "from": 5396,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/romero-noche-elena_s_11.mp4"
+    },
+    {
+      "from": 6258,
+      "dur": 551,
+      "kind": "video",
+      "src": "broll/romero-noche-elena_s_12.mp4"
+    },
+    {
+      "from": 6809,
+      "dur": 137,
+      "kind": "video",
+      "src": "broll/romero-noche-elena_s_13.mp4"
+    },
+    {
+      "from": 6946,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/romero-noche-elena_s_14.mp4"
+    },
+    {
+      "from": 7961,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/romero-noche-elena_s_15.mp4"
+    },
+    {
+      "from": 8943,
+      "dur": 642,
+      "kind": "video",
+      "src": "broll/romero-noche-elena_s_16.mp4"
+    },
+    {
+      "from": 9585,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/romero-noche-elena_s_17.mp4"
+    },
+    {
+      "from": 12524,
+      "dur": 508,
+      "kind": "video",
+      "src": "broll/romero-noche-elena_s_18.mp4"
+    },
+    {
+      "from": 13032,
+      "dur": 701,
+      "kind": "video",
+      "src": "broll/romero-noche-elena_s_19.mp4"
+    },
+    {
+      "from": 13733,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/romero-noche-elena_s_21.mp4"
+    },
+    {
+      "from": 14666,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/romero-noche-elena_s_22.mp4"
+    },
+    {
+      "from": 15709,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/romero-noche-elena_s_23.mp4"
+    },
+    {
+      "from": 17232,
+      "dur": 534,
+      "kind": "video",
+      "src": "broll/romero-noche-elena_s_24.mp4"
+    },
+    {
+      "from": 17766,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/romero-noche-elena_s_25.mp4"
+    },
+    {
+      "from": 18780,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/romero-noche-elena_s_26.mp4"
+    },
+    {
+      "from": 23108,
+      "dur": 683,
+      "kind": "video",
+      "src": "broll/romero-noche-elena_s_27.mp4"
+    },
+    {
+      "from": 24421,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/romero-noche-elena_s_28.mp4"
+    },
+    {
+      "from": 28613,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/romero-noche-elena_s_32.mp4"
+    },
+    {
+      "from": 31691,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/romero-noche-elena_s_34.mp4"
+    },
+    {
+      "from": 33420,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/romero-noche-elena_s_35.mp4"
+    },
+    {
+      "from": 36330,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/romero-noche-elena_s_36.mp4"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1731,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "ANTIEDAD CON EVIDENCIA",
+        "title": "Dra. Elena Vidal",
+        "sub": "Rejuvenecer la piel, sin humo"
+      }
+    },
+    {
+      "from": 2935,
+      "dur": 96,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "MELANINA",
+        "sub": "el pigmento que forma la mancha",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 5485,
+      "dur": 96,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "RADICALES LIBRES",
+        "sub": "chispas que dañan la piel",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 6031,
+      "dur": 96,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "ANTIOXIDANTE",
+        "sub": "apaga esas chispas",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 6744,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 1",
+        "title": "Escudo antioxidante de noche",
+        "sub": "acompaña la reparación de la piel"
+      }
+    },
+    {
+      "from": 7867,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 2",
+        "title": "Tono más parejo",
+        "sub": "un apoyo, no un despigmentante médico"
+      }
+    },
+    {
+      "from": 8128,
+      "dur": 96,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "TIROSINASA",
+        "sub": "la fábrica de melanina",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 8842,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 3",
+        "title": "Circulación y luminosidad",
+        "sub": "por el masaje suave nocturno"
+      }
+    },
+    {
+      "from": 9457,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 4",
+        "title": "Cuida tu colágeno",
+        "sub": "protege el que ya tenés"
+      }
+    },
+    {
+      "from": 10564,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 5",
+        "title": "Calma la inflamación",
+        "sub": "piel más calma, menos manchas"
+      }
+    },
+    {
+      "from": 15080,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "ATENCIÓN",
+        "title": "Advertencias importantes"
+      }
+    },
+    {
+      "from": 15709,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Nunca el aceite esencial PURO",
+        "sub": "siempre diluido en un aceite base",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 16566,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🧪",
+        "title": "Prueba del parche 24 h",
+        "sub": "una gota en el antebrazo antes de la cara",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 17232,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "☀️",
+        "title": "Puede sensibilizar al sol",
+        "sub": "por eso: de noche + protector de día",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 17766,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🤰",
+        "title": "Embarazo o lactancia: consultá",
+        "sub": "el esencial es muy activo — mejor evitar",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 18199,
+      "dur": 135,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🚫",
+        "title": "No sobre heridas ni cerca de ojos",
+        "sub": "ni acné reventado; rosácea → dermatólogo",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 18780,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🩺",
+        "title": "¿La mancha cambia? → Dermatólogo",
+        "sub": "tamaño, color o bordes raros: consultá ya",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 23108,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "MANOS A LA OBRA",
+        "title": "Cómo prepararlo"
+      }
+    },
+    {
+      "from": 24421,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "clinic",
+        "value": 3,
+        "suffix": " sem",
+        "label": "de reposo (macerado)"
+      }
+    },
+    {
+      "from": 28613,
+      "dur": 102,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "PROTECTOR SOLAR",
+        "sub": "todos los días, sí o sí",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 29165,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "clinic",
+        "value": 4,
+        "suffix": " noches",
+        "label": "por semana, para empezar"
+      }
+    },
+    {
+      "from": 36069,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi rutina antimanchas",
+        "items": [
+          "Cantidades exactas, gota por gota",
+          "Rutina de noche paso a paso",
+          "Qué evitar según tu piel"
+        ]
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 2274,
+      "dur": 195,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Lo que vas a ver hoy",
+        "items": [
+          "Qué es realmente esa mancha",
+          "Cómo trabaja el romero en tu piel",
+          "Cómo usarlo bien (y quiénes NO)"
+        ]
+      }
+    },
+    {
+      "from": 3464,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "3 tipos de mancha",
+        "items": [
+          "Solares: años de sol acumulado",
+          "Melasma: hormonas + sol, con forma de mapa",
+          "Posinflamatoria: la marca de un grano"
+        ]
+      }
+    },
+    {
+      "from": 11638,
+      "dur": 180,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "Gran parte del resultado no está en el frasco: está en el ritual de cuidarte cada noche."
+      }
+    },
+    {
+      "from": 19974,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "El romero borra las manchas en una semana.",
+        "truth": "Falso. El tono cambia en MESES de constancia, no en días. Quien promete una semana, te miente."
+      }
+    },
+    {
+      "from": 20602,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Si un poco funciona, más funciona mejor.",
+        "truth": "Peligroso. Más aceite esencial no da más resultado: irrita y quema. La dosis correcta es sagrada."
+      }
+    },
+    {
+      "from": 21119,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "El aceite de romero reemplaza al protector solar.",
+        "truth": "Rotundamente falso. El romero es apoyo de noche; el protector es la defensa de día. Se necesitan."
+      }
+    },
+    {
+      "from": 21780,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Es natural, así que no puede hacer daño.",
+        "truth": "Natural no es seguro. La dilución y la prueba del parche son lo que hacen seguro al romero."
+      }
+    },
+    {
+      "from": 23791,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Camino 1 · Macerado",
+        "title": "Aceite de romero en frasco",
+        "steps": [
+          {
+            "title": "Romero seco en un frasco",
+            "sub": "cubrilo con aceite de oliva o almendras"
+          },
+          {
+            "title": "Reposar 2 a 3 semanas",
+            "sub": "lugar fresco, sin sol, agitar cada día"
+          },
+          {
+            "title": "Colar y guardar",
+            "sub": "en frasco oscuro, listo para usar"
+          }
+        ]
+      }
+    },
+    {
+      "from": 25229,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Camino 2 · Dilución",
+        "title": "Con aceite esencial",
+        "steps": [
+          {
+            "title": "30 ml de aceite base",
+            "sub": "unas 2 cucharadas de oliva o almendras"
+          },
+          {
+            "title": "3 a 6 gotas de esencial",
+            "sub": "nunca más; la primera vez, solo 3"
+          },
+          {
+            "title": "Mezclar bien",
+            "sub": "listo, sin esperar semanas"
+          }
+        ]
+      }
+    },
+    {
+      "from": 26290,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Aplicación nocturna",
+        "title": "Paso a paso",
+        "steps": [
+          {
+            "title": "Cara limpia y seca",
+            "sub": "agua tibia, sin frotar"
+          },
+          {
+            "title": "3-4 gotas + masaje suave",
+            "sub": "hacia arriba y afuera, 1 a 2 min"
+          },
+          {
+            "title": "Dejar toda la noche",
+            "sub": "a la mañana: lavar + protector solar"
+          }
+        ]
+      }
+    },
+    {
+      "from": 30174,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "eyebrow": "Dato clave",
+        "value": 80,
+        "suffix": "%",
+        "label": "del envejecimiento de la piel viene del sol"
+      }
+    },
+    {
+      "from": 32894,
+      "dur": 225,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Las 4 patas de la mesa",
+        "items": [
+          "Protector solar cada mañana",
+          "Dormir bien y tomar agua",
+          "Comer muchos vegetales de colores",
+          "Paciencia y suavidad (menos es más)"
+        ]
+      }
+    },
+    {
+      "from": 35086,
+      "dur": 210,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "Cuidar la piel no es una guerra contra el espejo. Es tratarte con la misma amabilidad que a alguien que querés."
+      }
+    }
+  ]
+}
