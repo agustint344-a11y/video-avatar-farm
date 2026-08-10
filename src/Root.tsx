@@ -8,12 +8,14 @@ import chiaCues from "./VideoEdit/data/cues_chia-colageno.json";
 import jamaicaCues from "./VideoEdit/data/cues_agua-jamaica.json";
 import colagenoCues from "./VideoEdit/data/cues_colageno-40.json";
 import romeroCues from "./VideoEdit/data/cues_romero-elena.json";
+import moringaCues from "./VideoEdit/data/cues_moringa-agustin.json";
 
 export const RemotionRoot: React.FC = () => {
   const chia = chiaCues as Cues;
   const jamaica = jamaicaCues as Cues;
   const colageno = colagenoCues as Cues;
   const romero = romeroCues as Cues;
+  const moringa = moringaCues as Cues;
   return (
     <>
       <Composition
@@ -67,6 +69,15 @@ export const RemotionRoot: React.FC = () => {
         width={romero.width}
         height={romero.height}
         defaultProps={{ cues: romero }}
+      />
+      <Composition
+        id="Moringa"
+        component={VideoMain}
+        durationInFrames={moringa.durationInFrames}
+        fps={moringa.fps}
+        width={moringa.width}
+        height={moringa.height}
+        defaultProps={{ cues: moringa }}
       />
     </>
   );

@@ -1,0 +1,461 @@
+{
+  "slug": "moringa-agustin",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 28333,
+  "broll": [
+    {
+      "from": 14,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/moringa-agustin_s_polvo.mp4"
+    },
+    {
+      "from": 1751,
+      "dur": 388,
+      "kind": "video",
+      "src": "broll/moringa-agustin_s_hojas.mp4"
+    },
+    {
+      "from": 2139,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/moringa-agustin_s_arbol.mp4"
+    },
+    {
+      "from": 3471,
+      "dur": 477,
+      "kind": "video",
+      "src": "broll/moringa-agustin_s_prot.mp4"
+    },
+    {
+      "from": 4523,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/moringa-agustin_s_musculo.mp4"
+    },
+    {
+      "from": 5979,
+      "dur": 691,
+      "kind": "video",
+      "src": "broll/moringa-agustin_s_energia.mp4"
+    },
+    {
+      "from": 6670,
+      "dur": 131,
+      "kind": "video",
+      "src": "broll/moringa-agustin_s_espinaca.mp4"
+    },
+    {
+      "from": 6801,
+      "dur": 89,
+      "kind": "video",
+      "src": "broll/moringa-agustin_s_leche.mp4"
+    },
+    {
+      "from": 6890,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/moringa-agustin_s_banana.mp4"
+    },
+    {
+      "from": 7934,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/moringa-agustin_s_agotado.mp4"
+    },
+    {
+      "from": 11025,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/moringa-agustin_s_antiox.mp4"
+    },
+    {
+      "from": 12072,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/moringa-agustin_s_azucar.mp4"
+    },
+    {
+      "from": 13125,
+      "dur": 733,
+      "kind": "video",
+      "src": "broll/moringa-agustin_s_corazon.mp4"
+    },
+    {
+      "from": 13858,
+      "dur": 578,
+      "kind": "video",
+      "src": "broll/moringa-agustin_s_digest.mp4"
+    },
+    {
+      "from": 14436,
+      "dur": 508,
+      "kind": "video",
+      "src": "broll/moringa-agustin_s_defensas.mp4"
+    },
+    {
+      "from": 14944,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/moringa-agustin_s_piel.mp4"
+    },
+    {
+      "from": 16296,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/moringa-agustin_s_embarazo.mp4"
+    },
+    {
+      "from": 20346,
+      "dur": 497,
+      "kind": "video",
+      "src": "broll/moringa-agustin_s_licuado.mp4"
+    },
+    {
+      "from": 22049,
+      "dur": 333,
+      "kind": "video",
+      "src": "broll/moringa-agustin_s_desayuno.mp4"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2701,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "MEDICINA NATURAL",
+        "title": "Agustín Landívar",
+        "sub": "Naturópata · doctorlandivar.com"
+      }
+    },
+    {
+      "from": 3471,
+      "dur": 165,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "BENEFICIO 1",
+        "title": "Proteína vegetal completa",
+        "sub": "los 9 aminoácidos esenciales"
+      }
+    },
+    {
+      "from": 4594,
+      "dur": 90,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SARCOPENIA",
+        "sub": "pérdida de músculo con la edad",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 9682,
+      "dur": 165,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "BENEFICIO 2",
+        "title": "Bomba de vitaminas y minerales",
+        "sub": "A, C, calcio, potasio y hierro"
+      }
+    },
+    {
+      "from": 10285,
+      "dur": 90,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "HIERRO",
+        "sub": "contra el cansancio y la debilidad",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 11014,
+      "dur": 165,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "BENEFICIO 3",
+        "title": "Antioxidante potente",
+        "sub": "escudo antienvejecimiento y antiinflamatorio"
+      }
+    },
+    {
+      "from": 12062,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "BENEFICIO 4",
+        "title": "Ayuda con el azúcar en sangre",
+        "sub": "apoyo para la prediabetes"
+      }
+    },
+    {
+      "from": 12908,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "BENEFICIO 5",
+        "title": "Cuida tu corazón",
+        "sub": "ayuda a bajar el colesterol"
+      }
+    },
+    {
+      "from": 13858,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "BENEFICIO 6",
+        "title": "Cuida tu digestión",
+        "sub": "fibra + flora intestinal sana"
+      }
+    },
+    {
+      "from": 14436,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "BENEFICIO 7",
+        "title": "Fortalece tus defensas",
+        "sub": "un escudo natural"
+      }
+    },
+    {
+      "from": 14944,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "BENEFICIO 8",
+        "title": "Piel y cabello más fuertes",
+        "sub": "nutridos desde adentro"
+      }
+    },
+    {
+      "from": 16062,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ATENCIÓN",
+        "title": "Riesgos y advertencias"
+      }
+    },
+    {
+      "from": 16289,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "🤰",
+        "title": "Embarazo: mucho cuidado",
+        "sub": "raíz y corteza prohibidas — consultá antes",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 17227,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "💉",
+        "title": "Medicación para diabetes",
+        "sub": "la moringa baja el azúcar — coordiná con tu médico",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 17447,
+      "dur": 135,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "💊",
+        "title": "Medicación para la presión",
+        "sub": "puede bajarla de más — consultá",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 17791,
+      "dur": 135,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "🦋",
+        "title": "Medicación para la tiroides",
+        "sub": "podría interferir — avisá a tu médico",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 18263,
+      "dur": 135,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "⚖️",
+        "title": "La dosis: más NO es mejor",
+        "sub": "empezá con ½ cucharadita; en exceso es laxante",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 26181,
+      "dur": 135,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "🩺",
+        "title": "No reemplaza a tu médico",
+        "sub": "es un apoyo; si te sentís muy débil, consultá",
+        "tone": "info"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 1242,
+      "dur": 180,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que vas a ver hoy",
+        "items": [
+          "Proteína completa para tus músculos",
+          "Vitaminas, minerales y antioxidantes",
+          "Cómo tomarla (y quiénes NO)"
+        ]
+      }
+    },
+    {
+      "from": 3948,
+      "dur": 195,
+      "comp": "BigNumberCard",
+      "props": {
+        "eyebrow": "Proteína completa",
+        "value": 9,
+        "label": "aminoácidos esenciales — los tiene TODOS, igual que un huevo"
+      }
+    },
+    {
+      "from": 7040,
+      "dur": 225,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Gramo por gramo, la moringa tiene…",
+        "items": [
+          "Más hierro que la espinaca",
+          "Más calcio que la leche",
+          "Más potasio que la banana",
+          "Más vitamina A que la zanahoria"
+        ]
+      }
+    },
+    {
+      "from": 18959,
+      "dur": 195,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "La moringa sola te construye músculos.",
+        "truth": "Es una aliada espectacular, no la protagonista: necesitás proteína variada, movimiento y algo de fuerza. El trabajo lo hacés vos."
+      }
+    },
+    {
+      "from": 19942,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Cómo tomarla",
+        "title": "En 3 pasos simples",
+        "steps": [
+          {
+            "title": "Moringa en polvo de la HOJA",
+            "sub": "no de la raíz, de buen origen"
+          },
+          {
+            "title": "Empezá con ½ cucharadita",
+            "sub": "la primera semana; después 1 a 2"
+          },
+          {
+            "title": "Disolvé en agua, licuado o jugo",
+            "sub": "mejor con una fruta"
+          }
+        ]
+      }
+    },
+    {
+      "from": 20843,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "3 trucos para que rinda al máximo",
+        "items": [
+          "Combinala con vitamina C (limón) → absorbés más hierro",
+          "Tomala de mañana o al mediodía",
+          "Cerca de tu actividad física"
+        ]
+      }
+    },
+    {
+      "from": 22382,
+      "dur": 195,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Cualquier polvo verde sirve.",
+        "truth": "La calidad importa: buscá moringa de la HOJA, pura, de verde intenso y vivo. Un verde apagado o marrón = vieja y sin nutrientes."
+      }
+    },
+    {
+      "from": 23262,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "eyebrow": "Los primeros cambios",
+        "value": 14,
+        "suffix": " días",
+        "label": "lo primero que notás: más energía y menos cansancio"
+      }
+    },
+    {
+      "from": 25586,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En los comentarios",
+        "title": "Mi guía completa de moringa",
+        "items": [
+          "Cantidades exactas por edad",
+          "Horarios y combinaciones",
+          "El plan que uso con mis pacientes"
+        ]
+      }
+    },
+    {
+      "from": 26720,
+      "dur": 195,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "earth",
+        "quote": "La verdadera fortaleza no viene de un solo polvo milagroso: viene de la suma de buenos hábitos sostenidos con constancia."
+      }
+    }
+  ]
+}
