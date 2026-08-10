@@ -1,0 +1,407 @@
+{
+  "slug": "romero-elena",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 35333,
+  "broll": [
+    {
+      "from": 6,
+      "dur": 587,
+      "kind": "video",
+      "src": "broll/romero-elena_s_romero1.mp4"
+    },
+    {
+      "from": 593,
+      "dur": 719,
+      "kind": "video",
+      "src": "broll/romero-elena_s_romero2.mp4"
+    },
+    {
+      "from": 2040,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/romero-elena_s_agua.mp4"
+    },
+    {
+      "from": 3960,
+      "dur": 391,
+      "kind": "video",
+      "src": "broll/romero-elena_s_caida.mp4"
+    },
+    {
+      "from": 5497,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/romero-elena_s_foliculo.mp4"
+    },
+    {
+      "from": 7179,
+      "dur": 284,
+      "kind": "video",
+      "src": "broll/romero-elena_s_llorando.mp4"
+    },
+    {
+      "from": 7463,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/romero-elena_s_menop.mp4"
+    },
+    {
+      "from": 9259,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/romero-elena_s_cuero.mp4"
+    },
+    {
+      "from": 11372,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/romero-elena_s_canas.mp4"
+    },
+    {
+      "from": 12751,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/romero-elena_s_piel.mp4"
+    },
+    {
+      "from": 13876,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/romero-elena_s_tonico.mp4"
+    },
+    {
+      "from": 16000,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/romero-elena_s_circul.mp4"
+    },
+    {
+      "from": 17294,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/romero-elena_s_digest.mp4"
+    },
+    {
+      "from": 18584,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/romero-elena_s_memoria.mp4"
+    },
+    {
+      "from": 21778,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/romero-elena_s_embarazo.mp4"
+    },
+    {
+      "from": 22528,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/romero-elena_s_aceite.mp4"
+    },
+    {
+      "from": 23766,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/romero-elena_s_coco.mp4"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 3183,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "REJUVENECIMIENTO",
+        "title": "Dra. Elena Vidal",
+        "sub": "Antiedad con evidencia"
+      }
+    },
+    {
+      "from": 3960,
+      "dur": 165,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 1",
+        "title": "Frena la caída del cabello",
+        "sub": "y ayuda a que vuelva a crecer"
+      }
+    },
+    {
+      "from": 5497,
+      "dur": 90,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "CIRCULACIÓN",
+        "sub": "despierta el folículo dormido",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 6388,
+      "dur": 90,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "DHT",
+        "sub": "la culpable de que el pelo se afine",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 9259,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BONUS",
+        "title": "Cuero cabelludo sano",
+        "sub": "menos caspa, grasa y picazón"
+      }
+    },
+    {
+      "from": 12267,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi guía de rejuvenecimiento",
+        "items": [
+          "Rutina exacta para la caída",
+          "Cuidado de la piel, paso a paso",
+          "Combinaciones que funcionan"
+        ]
+      }
+    },
+    {
+      "from": 12751,
+      "dur": 165,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 2",
+        "title": "Rejuvenece tu piel",
+        "sub": "antioxidante y antiinflamatorio"
+      }
+    },
+    {
+      "from": 16000,
+      "dur": 165,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 3",
+        "title": "Circulación, energía y memoria",
+        "sub": "más oxígeno a tu cerebro"
+      }
+    },
+    {
+      "from": 17294,
+      "dur": 165,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 4",
+        "title": "Mejora la digestión",
+        "sub": "desinflama y aliviana"
+      }
+    },
+    {
+      "from": 21439,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "ATENCIÓN",
+        "title": "Cuidados importantes"
+      }
+    },
+    {
+      "from": 21778,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🤰",
+        "title": "Embarazo: no en dosis medicinales",
+        "sub": "puede estimular el útero — consultá",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 22469,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚡",
+        "title": "Epilepsia: sin aceite esencial",
+        "sub": "en dosis altas puede desencadenar convulsiones",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 22816,
+      "dur": 135,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "💊",
+        "title": "Presión o anticoagulantes",
+        "sub": "consultá con tu médico antes",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 23318,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Nunca el aceite esencial PURO",
+        "sub": "siempre diluido + prueba en la piel",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 32699,
+      "dur": 135,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🩺",
+        "title": "No reemplaza a tu médico",
+        "sub": "es un apoyo; caída fuerte → consultá",
+        "tone": "info"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 1312,
+      "dur": 180,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Lo que vas a ver hoy",
+        "items": [
+          "Frena la caída y despierta el cabello",
+          "Rejuvenece tu piel",
+          "Cómo usarlo bien (y quiénes NO)"
+        ]
+      }
+    },
+    {
+      "from": 3558,
+      "dur": 195,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "Rejuvenecer de verdad no es una compra: es un hábito que cultivás todos los días, con cariño hacia vos misma."
+      }
+    },
+    {
+      "from": 4351,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Solo un medicamento caro hace crecer el pelo.",
+        "truth": "En un estudio, el aceite de romero hizo crecer el cabello IGUAL que el minoxidil, y con menos picazón."
+      }
+    },
+    {
+      "from": 24865,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Para que el romero rinda",
+        "items": [
+          "Cuidá el hierro (causa oculta de la caída)",
+          "Suficiente proteína (el pelo es proteína)",
+          "Bajá el estrés y dormí bien"
+        ]
+      }
+    },
+    {
+      "from": 26198,
+      "dur": 195,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Cuanto más aceite y más fuerte, mejor.",
+        "truth": "Más NO es mejor: el aceite esencial puro irrita y quema el cuero cabelludo. Poquito, bien diluido y constante."
+      }
+    },
+    {
+      "from": 27484,
+      "dur": 195,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "El romero hace crecer el pelo en una semana.",
+        "truth": "El cabello crece lento: los resultados se ven a los 2-4 meses de uso CONSTANTE. El secreto es la paciencia."
+      }
+    },
+    {
+      "from": 28646,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Cómo hacer el agua de romero",
+        "title": "En 3 pasos simples",
+        "steps": [
+          {
+            "title": "Ramitas en agua caliente",
+            "sub": "reposar 10 a 15 minutos, tapado"
+          },
+          {
+            "title": "Colar",
+            "sub": "hasta que tome color y aroma"
+          },
+          {
+            "title": "Tomar, tónico facial o enjuague capilar",
+            "sub": "3-4 veces por semana"
+          }
+        ]
+      }
+    },
+    {
+      "from": 33020,
+      "dur": 210,
+      "comp": "AnnotatedImage",
+      "props": {
+        "eyebrow": "Consultá antes",
+        "title": "Cuándo ir al médico",
+        "image": "img/rom_caida.jpg",
+        "points": [
+          {
+            "label": "Caída repentina",
+            "x": 34,
+            "y": 38,
+            "side": "left"
+          },
+          {
+            "label": "Caída por mechones",
+            "x": 60,
+            "y": 60,
+            "side": "right"
+          },
+          {
+            "label": "¿Tiroides o hierro?",
+            "x": 44,
+            "y": 82,
+            "side": "left"
+          }
+        ]
+      }
+    }
+  ]
+}

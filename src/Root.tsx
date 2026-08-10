@@ -7,11 +7,13 @@ import type { Cues } from "./VideoEdit/types";
 import chiaCues from "./VideoEdit/data/cues_chia-colageno.json";
 import jamaicaCues from "./VideoEdit/data/cues_agua-jamaica.json";
 import colagenoCues from "./VideoEdit/data/cues_colageno-40.json";
+import romeroCues from "./VideoEdit/data/cues_romero-elena.json";
 
 export const RemotionRoot: React.FC = () => {
   const chia = chiaCues as Cues;
   const jamaica = jamaicaCues as Cues;
   const colageno = colagenoCues as Cues;
+  const romero = romeroCues as Cues;
   return (
     <>
       <Composition
@@ -56,6 +58,15 @@ export const RemotionRoot: React.FC = () => {
         width={colageno.width}
         height={colageno.height}
         defaultProps={{ cues: colageno }}
+      />
+      <Composition
+        id="Romero"
+        component={VideoMain}
+        durationInFrames={romero.durationInFrames}
+        fps={romero.fps}
+        width={romero.width}
+        height={romero.height}
+        defaultProps={{ cues: romero }}
       />
     </>
   );
