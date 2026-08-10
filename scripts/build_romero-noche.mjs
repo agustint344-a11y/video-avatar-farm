@@ -50,8 +50,8 @@ const ovBeats = [
   ["el tercer beneficio es la circulacion", 5, "LowerThird", { theme: T, accentText: "BENEFICIO 3", title: "Circulación y luminosidad", sub: "por el masaje suave nocturno" }],
   ["hay un cuarto beneficio del que se habla", 5, "LowerThird", { theme: T, accentText: "BENEFICIO 4", title: "Cuida tu colágeno", sub: "protege el que ya tenés" }],
   ["y hay un quinto efecto mas silencioso", 5, "LowerThird", { theme: T, accentText: "BENEFICIO 5", title: "Calma la inflamación", sub: "piel más calma, menos manchas" }],
-  ["ahora llegamos a la parte del video", 4, "SectionTitle", { eyebrow: "ATENCIÓN", title: "Advertencias importantes" }],
-  ["nunca jamas te apliques aceite esencial", 5, "Callout", { theme: T, icon: "⚠️", title: "Nunca el aceite esencial PURO", sub: "siempre diluido en un aceite base", tone: "warn" }],
+  ["a la parte del video que mas", 4, "SectionTitle", { eyebrow: "ATENCIÓN", title: "Advertencias importantes" }],
+  ["apliques aceite esencial de romero", 5, "Callout", { theme: T, icon: "⚠️", title: "Nunca el aceite esencial PURO", sub: "siempre diluido en un aceite base", tone: "warn" }],
   ["antes de ponerte nada en la cara", 5, "Callout", { theme: T, icon: "🧪", title: "Prueba del parche 24 h", sub: "una gota en el antebrazo antes de la cara", tone: "warn" }],
   ["el romero puede aumentar la sensibilidad", 5, "Callout", { theme: T, icon: "☀️", title: "Puede sensibilizar al sol", sub: "por eso: de noche + protector de día", tone: "warn" }],
   ["si estas embarazada o dando el pecho", 5, "Callout", { theme: T, icon: "🤰", title: "Embarazo o lactancia: consultá", sub: "el esencial es muy activo — mejor evitar", tone: "warn" }],
@@ -60,7 +60,7 @@ const ovBeats = [
   ["vamos a preparar el aceite", 4, "SectionTitle", { eyebrow: "MANOS A LA OBRA", title: "Cómo prepararlo" }],
   ["ese frasco tiene que reposar", 4.5, "StatChip", { theme: T, value: 3, suffix: " sem", label: "de reposo (macerado)" }],
   ["a la manana siguiente protector solar", 3.4, "KeywordPop", { theme: T, word: "PROTECTOR SOLAR", sub: "todos los días, sí o sí", pos: "center" }],
-  ["no hace falta todas las noches", 4.5, "StatChip", { theme: T, value: 4, suffix: " noches", label: "por semana, para empezar" }],
+  ["noches por semana es un ritmo", 4.5, "StatChip", { theme: T, value: 4, suffix: " noches", label: "por semana, para empezar" }],
   ["te deje todo reunido en una guia", 6, "SplitInfo", { eyebrow: "En resumen", title: "Mi rutina antimanchas", items: ["Cantidades exactas, gota por gota", "Rutina de noche paso a paso", "Qué evitar según tu piel"] }],
 ];
 const overlays = [];
