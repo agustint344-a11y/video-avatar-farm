@@ -1,0 +1,549 @@
+{
+  "slug": "sarcopenia-elena",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 32896,
+  "broll": [
+    {
+      "from": 36,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/sarcopenia-elena_s_01.mp4"
+    },
+    {
+      "from": 2366,
+      "dur": 315,
+      "kind": "video",
+      "src": "broll/sarcopenia-elena_s_03.mp4"
+    },
+    {
+      "from": 2681,
+      "dur": 90,
+      "kind": "video",
+      "src": "broll/sarcopenia-elena_s_04.mp4"
+    },
+    {
+      "from": 2771,
+      "dur": 230,
+      "kind": "video",
+      "src": "broll/sarcopenia-elena_s_05.mp4"
+    },
+    {
+      "from": 3001,
+      "dur": 325,
+      "kind": "video",
+      "src": "broll/sarcopenia-elena_s_06.mp4"
+    },
+    {
+      "from": 3326,
+      "dur": 204,
+      "kind": "video",
+      "src": "broll/sarcopenia-elena_s_07.mp4"
+    },
+    {
+      "from": 4299,
+      "dur": 455,
+      "kind": "video",
+      "src": "broll/sarcopenia-elena_s_09.mp4"
+    },
+    {
+      "from": 4754,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/sarcopenia-elena_s_10.mp4"
+    },
+    {
+      "from": 5657,
+      "dur": 154,
+      "kind": "video",
+      "src": "broll/sarcopenia-elena_s_11.mp4"
+    },
+    {
+      "from": 5811,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/sarcopenia-elena_s_12.mp4"
+    },
+    {
+      "from": 7876,
+      "dur": 352,
+      "kind": "video",
+      "src": "broll/sarcopenia-elena_s_14.mp4"
+    },
+    {
+      "from": 9059,
+      "dur": 528,
+      "kind": "video",
+      "src": "broll/sarcopenia-elena_s_17.mp4"
+    },
+    {
+      "from": 9587,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/sarcopenia-elena_s_18.mp4"
+    },
+    {
+      "from": 11576,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/sarcopenia-elena_s_20.mp4"
+    },
+    {
+      "from": 13205,
+      "dur": 415,
+      "kind": "video",
+      "src": "broll/sarcopenia-elena_s_22.mp4"
+    },
+    {
+      "from": 13620,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/sarcopenia-elena_s_23.mp4"
+    },
+    {
+      "from": 15300,
+      "dur": 599,
+      "kind": "video",
+      "src": "broll/sarcopenia-elena_s_25.mp4"
+    },
+    {
+      "from": 16756,
+      "dur": 678,
+      "kind": "video",
+      "src": "broll/sarcopenia-elena_s_26.mp4"
+    },
+    {
+      "from": 17434,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/sarcopenia-elena_s_27.mp4"
+    },
+    {
+      "from": 18647,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/sarcopenia-elena_s_28.mp4"
+    },
+    {
+      "from": 27857,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/sarcopenia-elena_s_33.mp4"
+    },
+    {
+      "from": 29146,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/sarcopenia-elena_s_34.mp4"
+    },
+    {
+      "from": 30682,
+      "dur": 346,
+      "kind": "video",
+      "src": "broll/sarcopenia-elena_s_35.mp4"
+    },
+    {
+      "from": 32291,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/sarcopenia-elena_s_36.mp4"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1503,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "FUERZA A CUALQUIER EDAD",
+        "title": "Dra. Elena Vidal",
+        "sub": "Envejecer fuerte, con evidencia"
+      }
+    },
+    {
+      "from": 2455,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "SARCOPENIA",
+        "sub": "pérdida de músculo con la edad",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 4299,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Menos músculo → más caídas",
+        "sub": "y las caídas amenazan tu independencia",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 5811,
+      "dur": 102,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "PROTEÍNA = LADRILLO",
+        "sub": "sin ladrillos, no hay músculo",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 6335,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "RESISTENCIA ANABÓLICA",
+        "sub": "de mayor, el músculo se vuelve sordo a la proteína",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 7876,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "EL ALIMENTO",
+        "title": "El queso (duro y curado)",
+        "sub": "proteína densa + leucina"
+      }
+    },
+    {
+      "from": 8855,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "LEUCINA",
+        "sub": "el interruptor que enciende el músculo",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 11020,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "CASO REAL",
+        "title": "Doña Marta, 74 años",
+        "sub": "sarcopenia marcada, sin promesas mágicas"
+      }
+    },
+    {
+      "from": 14272,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "NO TE LO SALTEES",
+        "title": "El error que arruina todo"
+      }
+    },
+    {
+      "from": 15300,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "EL ESTÍMULO",
+        "sub": "el ejercicio da la orden de construir",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 16431,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "ATENCIÓN",
+        "title": "Advertencias importantes"
+      }
+    },
+    {
+      "from": 16756,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🩺",
+        "title": "Enfermedad renal: NO subas la proteína solo",
+        "sub": "la cantidad la decide tu médico",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 17434,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🧂",
+        "title": "Presión alta: quesos con menos sal",
+        "sub": "un buen trozo por comida, no medio kilo",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 18014,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🧀",
+        "title": "Lactosa: los curados casi no tienen",
+        "sub": "el parmesano suele tolerarse bien",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 18647,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "❤️",
+        "title": "¿Corazón, presión o articulaciones?",
+        "sub": "consultá antes y empezá suave, sin dolor",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 19414,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🚑",
+        "title": "Debilidad súbita → médico ya",
+        "sub": "sobre todo en un solo lado del cuerpo",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 22169,
+      "dur": 102,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "NUNCA ES TARDE",
+        "sub": "el músculo responde a cualquier edad",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 31924,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi método de fuerza",
+        "items": [
+          "Cuánta proteína según tu peso",
+          "El queso y las mejores fuentes",
+          "Rutina de fuerza paso a paso"
+        ]
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 2163,
+      "dur": 195,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Lo que vas a ver hoy",
+        "items": [
+          "Qué es la sarcopenia (la enemiga silenciosa)",
+          "El alimento que la combate y por qué",
+          "El error que arruina todo el esfuerzo"
+        ]
+      }
+    },
+    {
+      "from": 3530,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "eyebrow": "Dato clave",
+        "value": 5,
+        "suffix": "%",
+        "label": "de músculo por década tras los 60 (más si te quedás quieto)"
+      }
+    },
+    {
+      "from": 3950,
+      "dur": 180,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "El músculo no es estética: es tu independencia. Pelear por tu músculo es pelear por tu libertad."
+      }
+    },
+    {
+      "from": 8228,
+      "dur": 225,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Por qué el queso es una joya",
+        "items": [
+          "Proteína concentrada (mucha en poco)",
+          "Leucina: enciende el músculo mayor",
+          "Calcio, B12 y K2: también cuida el hueso"
+        ]
+      }
+    },
+    {
+      "from": 12545,
+      "dur": 195,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Caso real · Doña Marta (74)",
+        "title": "Lo que hicimos",
+        "steps": [
+          {
+            "title": "Proteína en cada comida",
+            "sub": "huevo o queso, carne/pescado, legumbres"
+          },
+          {
+            "title": "Ejercicios de fuerza simples",
+            "sub": "en la silla, en casa"
+          },
+          {
+            "title": "Constancia (meses, no días)",
+            "sub": "volvió a pararse sola de la silla"
+          }
+        ]
+      }
+    },
+    {
+      "from": 15899,
+      "dur": 195,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "La comida sin ejercicio es una obra sin albañil. El ejercicio sin comida, un albañil sin ladrillos. Necesitás las dos."
+      }
+    },
+    {
+      "from": 21216,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "A mi edad ya no puedo ganar músculo, ya es tarde.",
+        "truth": "Falso. En estudios, personas de más de 90 años ganaron fuerza con ejercicio. Nunca es tarde para empezar."
+      }
+    },
+    {
+      "from": 21609,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "eyebrow": "La ciencia",
+        "value": 90,
+        "suffix": " años",
+        "label": "y aún así ganaron fuerza y músculo"
+      }
+    },
+    {
+      "from": 22372,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "La proteína arruina los riñones.",
+        "truth": "Falso en riñones sanos: la proteína no daña, la necesitás. La precaución es solo si YA tenés enfermedad renal."
+      }
+    },
+    {
+      "from": 23053,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Solo la carne roja tiene proteína de verdad.",
+        "truth": "Falso. Queso, huevos, pescado, pollo y legumbres bien combinadas aportan proteína de calidad. La variedad es tu amiga."
+      }
+    },
+    {
+      "from": 23627,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Con salir a caminar ya cuido mi músculo.",
+        "truth": "Ojo: caminar es salud, pero no construye músculo de fuerza. Para eso hay que exigirle: levantar, empujar, cargar."
+      }
+    },
+    {
+      "from": 24955,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Manos a la obra",
+        "title": "El plan, en pasos",
+        "steps": [
+          {
+            "title": "Proteína en CADA comida",
+            "sub": "repartida en el día, una palma por comida"
+          },
+          {
+            "title": "El queso como aliado",
+            "sub": "+ huevos, pescado, pollo, legumbres"
+          },
+          {
+            "title": "Ejercicio de fuerza + sol y descanso",
+            "sub": "el estímulo que da la orden de construir"
+          }
+        ]
+      }
+    },
+    {
+      "from": 26884,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Empezá en tu silla",
+        "title": "Fuerza simple en casa",
+        "steps": [
+          {
+            "title": "Sentadilla en la silla",
+            "sub": "sentarte y pararte, varias veces"
+          },
+          {
+            "title": "Puntas de pie y empujar la pared",
+            "sub": "sostenido de una mesa"
+          },
+          {
+            "title": "2-3 veces por semana",
+            "sub": "sin dolor, aumentando de a poco"
+          }
+        ]
+      }
+    },
+    {
+      "from": 31028,
+      "dur": 210,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "Los años no son el problema. El problema es dejar de darle a tu cuerpo una razón para seguir siendo fuerte."
+      }
+    }
+  ]
+}
