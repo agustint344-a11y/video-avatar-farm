@@ -1,0 +1,516 @@
+{
+  "slug": "joya-70-80-elena",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 35402,
+  "broll": [
+    {
+      "from": 5,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/joya-70-80-elena_s_01.mp4"
+    },
+    {
+      "from": 1004,
+      "dur": 471,
+      "kind": "video",
+      "src": "broll/joya-70-80-elena_s_02.mp4"
+    },
+    {
+      "from": 2331,
+      "dur": 650,
+      "kind": "video",
+      "src": "broll/joya-70-80-elena_s_03.mp4"
+    },
+    {
+      "from": 2981,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/joya-70-80-elena_s_04.mp4"
+    },
+    {
+      "from": 4645,
+      "dur": 609,
+      "kind": "video",
+      "src": "broll/joya-70-80-elena_s_05.mp4"
+    },
+    {
+      "from": 5254,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/joya-70-80-elena_s_06.mp4"
+    },
+    {
+      "from": 7085,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/joya-70-80-elena_s_08.mp4"
+    },
+    {
+      "from": 8522,
+      "dur": 720,
+      "kind": "video",
+      "src": "broll/joya-70-80-elena_s_09.mp4"
+    },
+    {
+      "from": 9242,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/joya-70-80-elena_s_10.mp4"
+    },
+    {
+      "from": 10069,
+      "dur": 64,
+      "kind": "video",
+      "src": "broll/joya-70-80-elena_s_11.mp4"
+    },
+    {
+      "from": 10133,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/joya-70-80-elena_s_12.mp4"
+    },
+    {
+      "from": 11594,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/joya-70-80-elena_s_13.mp4"
+    },
+    {
+      "from": 12510,
+      "dur": 733,
+      "kind": "video",
+      "src": "broll/joya-70-80-elena_s_14.mp4"
+    },
+    {
+      "from": 13243,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/joya-70-80-elena_s_15.mp4"
+    },
+    {
+      "from": 15877,
+      "dur": 540,
+      "kind": "video",
+      "src": "broll/joya-70-80-elena_s_18.mp4"
+    },
+    {
+      "from": 16417,
+      "dur": 364,
+      "kind": "video",
+      "src": "broll/joya-70-80-elena_s_19.mp4"
+    },
+    {
+      "from": 16781,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/joya-70-80-elena_s_20.mp4"
+    },
+    {
+      "from": 18173,
+      "dur": 549,
+      "kind": "video",
+      "src": "broll/joya-70-80-elena_s_22.mp4"
+    },
+    {
+      "from": 18722,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/joya-70-80-elena_s_23.mp4"
+    },
+    {
+      "from": 19607,
+      "dur": 487,
+      "kind": "video",
+      "src": "broll/joya-70-80-elena_s_25.mp4"
+    },
+    {
+      "from": 23284,
+      "dur": 571,
+      "kind": "video",
+      "src": "broll/joya-70-80-elena_s_27.mp4"
+    },
+    {
+      "from": 23855,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/joya-70-80-elena_s_28.mp4"
+    },
+    {
+      "from": 28856,
+      "dur": 423,
+      "kind": "video",
+      "src": "broll/joya-70-80-elena_s_30.mp4"
+    },
+    {
+      "from": 29279,
+      "dur": 350,
+      "kind": "video",
+      "src": "broll/joya-70-80-elena_s_31.mp4"
+    },
+    {
+      "from": 29629,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/joya-70-80-elena_s_32.mp4"
+    },
+    {
+      "from": 31030,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/joya-70-80-elena_s_33.mp4"
+    },
+    {
+      "from": 34014,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/joya-70-80-elena_s_34.mp4"
+    },
+    {
+      "from": 34781,
+      "dur": 163,
+      "kind": "video",
+      "src": "broll/joya-70-80-elena_s_36.mp4"
+    },
+    {
+      "from": 34944,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/joya-70-80-elena_s_35.mp4"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1370,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "ENVEJECER CON SALUD",
+        "title": "Dra. Elena Vidal",
+        "sub": "Tu edad real no es la del documento"
+      }
+    },
+    {
+      "from": 2512,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "EDAD BIOLÓGICA",
+        "sub": "qué tan bien funciona tu cuerpo",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 6678,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "JOYA 1",
+        "title": "Pararte de la silla sin manos",
+        "sub": "piernas fuertes = independencia"
+      }
+    },
+    {
+      "from": 8522,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "JOYA 2",
+        "title": "Equilibrio en un pie",
+        "sub": "menos caídas, más vida"
+      }
+    },
+    {
+      "from": 10069,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "JOYA 3",
+        "title": "Buen apretón / abrir frascos",
+        "sub": "espejo de tu salud general"
+      }
+    },
+    {
+      "from": 10241,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "FUERZA DE AGARRE",
+        "sub": "ventana a tu vitalidad",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 11594,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "JOYA 4",
+        "title": "Subir escaleras sin ahogarte",
+        "sub": "buen corazón y pulmones"
+      }
+    },
+    {
+      "from": 13243,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "JOYA 5",
+        "title": "Caminar a buen paso",
+        "sub": "un resumen de toda tu vitalidad"
+      }
+    },
+    {
+      "from": 13558,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "SEXTO SIGNO VITAL",
+        "sub": "la velocidad al caminar",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 14870,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "JOYA 6",
+        "title": "Agacharte y levantarte del piso",
+        "sub": "fuerza + equilibrio + flexibilidad"
+      }
+    },
+    {
+      "from": 16417,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "JOYA 7",
+        "title": "Dormir bien + mente clara",
+        "sub": "dos tesoros que se cuidan entre sí"
+      }
+    },
+    {
+      "from": 18173,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "JOYA 8",
+        "title": "Reírte, vínculos y propósito",
+        "sub": "quizás el secreto más grande"
+      }
+    },
+    {
+      "from": 18865,
+      "dur": 135,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "❤️",
+        "title": "La soledad daña como fumar",
+        "sub": "los vínculos son salud, no un lujo",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 22591,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Medite, no se lastime",
+        "sub": "probá cerca de un apoyo o con alguien al lado",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 23284,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🚑",
+        "title": "Cambios BRUSCOS → médico ya",
+        "sub": "fuerza en un solo lado, mareo, falta de aire",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 23855,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🩺",
+        "title": "Consultá antes de ejercitar",
+        "sub": "empezá suave, de a poco y sin dolor",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 26559,
+      "dur": 102,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "NUNCA ES TARDE",
+        "sub": "el cuerpo responde a cualquier edad",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 27944,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "MANOS A LA OBRA",
+        "title": "Cómo recuperarlas"
+      }
+    },
+    {
+      "from": 34351,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi guía para tu fuerza",
+        "items": [
+          "Rutina de fuerza y equilibrio",
+          "Paso a paso según cómo estás hoy",
+          "Fácil, en casa y segura"
+        ]
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 1475,
+      "dur": 165,
+      "comp": "BigNumberCard",
+      "props": {
+        "eyebrow": "Hoy",
+        "value": 8,
+        "suffix": "",
+        "label": "señales de que estás envejeciendo como una joya"
+      }
+    },
+    {
+      "from": 3967,
+      "dur": 180,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "Un cuerpo de 80 años bien tratado le gana, y por lejos, a uno de 60 abandonado. Nunca es tarde para cuidarlo."
+      }
+    },
+    {
+      "from": 20094,
+      "dur": 180,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "Estas 8 cosas no son 8 islas: son una sola red. Empujá una para el lado bueno, y las demás la acompañan."
+      }
+    },
+    {
+      "from": 21759,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Las 8 joyas (repaso)",
+        "items": [
+          "Pararte de la silla sin manos",
+          "Equilibrio en un pie",
+          "Buen apretón / abrir frascos",
+          "Subir escaleras sin ahogarte",
+          "Caminar a buen paso",
+          "Agacharte y levantarte del piso",
+          "Dormir bien + mente clara",
+          "Reírte, vínculos y propósito"
+        ]
+      }
+    },
+    {
+      "from": 26045,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "A mi edad, lo que perdí ya no vuelve.",
+        "truth": "Falso. El equilibrio se reentrena, la fuerza se recupera a los 70, 80 y 90, y la mente se reactiva. Nunca es tarde."
+      }
+    },
+    {
+      "from": 26649,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Si no puedo hacer las 8, estoy mal.",
+        "truth": "Falso. No es un examen: es un mapa. Si tenés 5, cuidá esas 5 y trabajá suave las otras 3. Se trata de avanzar."
+      }
+    },
+    {
+      "from": 27329,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Cada una de estas cosas se cuida por separado.",
+        "truth": "No: están todas conectadas. Cuando caminás cuidás corazón, piernas y equilibrio a la vez. Tirás de un hilo y se mueve la red."
+      }
+    },
+    {
+      "from": 28147,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Cómo cuidarlas",
+        "title": "El plan, en 4 claves",
+        "steps": [
+          {
+            "title": "Moverte cada día",
+            "sub": "caminar + algo de fuerza suave"
+          },
+          {
+            "title": "Comer de verdad",
+            "sub": "proteína en cada comida, colores, agua"
+          },
+          {
+            "title": "Sueño y mente activa",
+            "sub": "descanso + leer, charlar, aprender"
+          },
+          {
+            "title": "Vínculos y propósito",
+            "sub": "reírte, ver gente, tener un para qué"
+          }
+        ]
+      }
+    },
+    {
+      "from": 33340,
+      "dur": 195,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "Envejecer bien no es ganarle al tiempo. Es seguir siendo capaz: pararte, caminar, abrazar, y tener ganas de un mañana."
+      }
+    }
+  ]
+}

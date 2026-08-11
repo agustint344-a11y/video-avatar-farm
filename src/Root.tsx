@@ -12,6 +12,7 @@ import moringaCues from "./VideoEdit/data/cues_moringa-agustin.json";
 import romeroNocheCues from "./VideoEdit/data/cues_romero-noche-elena.json";
 import vitaminaCues from "./VideoEdit/data/cues_vitamina-venas-agustin.json";
 import sarcopeniaCues from "./VideoEdit/data/cues_sarcopenia-elena.json";
+import joyaCues from "./VideoEdit/data/cues_joya-70-80-elena.json";
 
 export const RemotionRoot: React.FC = () => {
   const chia = chiaCues as Cues;
@@ -22,6 +23,7 @@ export const RemotionRoot: React.FC = () => {
   const romeroNoche = romeroNocheCues as Cues;
   const vitamina = vitaminaCues as Cues;
   const sarcopenia = sarcopeniaCues as Cues;
+  const joya = joyaCues as Cues;
   return (
     <>
       <Composition
@@ -111,6 +113,15 @@ export const RemotionRoot: React.FC = () => {
         width={sarcopenia.width}
         height={sarcopenia.height}
         defaultProps={{ cues: sarcopenia }}
+      />
+      <Composition
+        id="JoyaElena"
+        component={VideoMain}
+        durationInFrames={joya.durationInFrames}
+        fps={joya.fps}
+        width={joya.width}
+        height={joya.height}
+        defaultProps={{ cues: joya }}
       />
     </>
   );
