@@ -1,0 +1,557 @@
+{
+  "slug": "colageno-articulaciones-elena",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 36176,
+  "broll": [
+    {
+      "from": 4,
+      "dur": 583,
+      "kind": "video",
+      "src": "broll/colageno-articulaciones-elena_s_01.mp4"
+    },
+    {
+      "from": 587,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/colageno-articulaciones-elena_s_02.mp4"
+    },
+    {
+      "from": 3435,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/colageno-articulaciones-elena_s_05.mp4"
+    },
+    {
+      "from": 5495,
+      "dur": 569,
+      "kind": "video",
+      "src": "broll/colageno-articulaciones-elena_s_06.mp4"
+    },
+    {
+      "from": 6064,
+      "dur": 416,
+      "kind": "video",
+      "src": "broll/colageno-articulaciones-elena_s_07.mp4"
+    },
+    {
+      "from": 6672,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/colageno-articulaciones-elena_s_08.mp4"
+    },
+    {
+      "from": 7892,
+      "dur": 141,
+      "kind": "video",
+      "src": "broll/colageno-articulaciones-elena_s_09.mp4"
+    },
+    {
+      "from": 8033,
+      "dur": 69,
+      "kind": "video",
+      "src": "broll/colageno-articulaciones-elena_s_10.mp4"
+    },
+    {
+      "from": 8102,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/colageno-articulaciones-elena_s_11.mp4"
+    },
+    {
+      "from": 8858,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/colageno-articulaciones-elena_s_12.mp4"
+    },
+    {
+      "from": 11174,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/colageno-articulaciones-elena_s_13.mp4"
+    },
+    {
+      "from": 12497,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/colageno-articulaciones-elena_s_15.mp4"
+    },
+    {
+      "from": 13278,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/colageno-articulaciones-elena_s_16.mp4"
+    },
+    {
+      "from": 16907,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/colageno-articulaciones-elena_s_19.mp4"
+    },
+    {
+      "from": 18004,
+      "dur": 366,
+      "kind": "video",
+      "src": "broll/colageno-articulaciones-elena_s_20.mp4"
+    },
+    {
+      "from": 19713,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/colageno-articulaciones-elena_s_22.mp4"
+    },
+    {
+      "from": 20593,
+      "dur": 714,
+      "kind": "video",
+      "src": "broll/colageno-articulaciones-elena_s_24.mp4"
+    },
+    {
+      "from": 21307,
+      "dur": 222,
+      "kind": "video",
+      "src": "broll/colageno-articulaciones-elena_s_25.mp4"
+    },
+    {
+      "from": 21529,
+      "dur": 361,
+      "kind": "video",
+      "src": "broll/colageno-articulaciones-elena_s_26.mp4"
+    },
+    {
+      "from": 22811,
+      "dur": 649,
+      "kind": "video",
+      "src": "broll/colageno-articulaciones-elena_s_27.mp4"
+    },
+    {
+      "from": 23460,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/colageno-articulaciones-elena_s_28.mp4"
+    },
+    {
+      "from": 29828,
+      "dur": 441,
+      "kind": "video",
+      "src": "broll/colageno-articulaciones-elena_s_30.mp4"
+    },
+    {
+      "from": 30269,
+      "dur": 417,
+      "kind": "video",
+      "src": "broll/colageno-articulaciones-elena_s_31.mp4"
+    },
+    {
+      "from": 30686,
+      "dur": 586,
+      "kind": "video",
+      "src": "broll/colageno-articulaciones-elena_s_32.mp4"
+    },
+    {
+      "from": 31272,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/colageno-articulaciones-elena_s_33.mp4"
+    },
+    {
+      "from": 35569,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/colageno-articulaciones-elena_s_34.mp4"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1814,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "SALUD ARTICULAR",
+        "title": "Dra. Elena Vidal",
+        "sub": "Moverte sin dolor, con evidencia"
+      }
+    },
+    {
+      "from": 3112,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "CARTÍLAGO",
+        "sub": "el amortiguador de tus articulaciones",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 5495,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "COLÁGENO",
+        "sub": "el andamio que sostiene tu cuerpo",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 6269,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "clinic",
+        "value": 1,
+        "prefix": "-",
+        "suffix": "% año",
+        "label": "de colágeno tras los 40"
+      }
+    },
+    {
+      "from": 7892,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "EL ALIMENTO",
+        "title": "Colágeno natural",
+        "sub": "gelatina sin sabor + caldo de huesos"
+      }
+    },
+    {
+      "from": 11174,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 1",
+        "title": "Articulaciones nutridas",
+        "sub": "menos rígidas, más cómodas"
+      }
+    },
+    {
+      "from": 12240,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 2",
+        "title": "Menos rigidez de mañana",
+        "sub": "a veces se nota más rápido"
+      }
+    },
+    {
+      "from": 13278,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 3",
+        "title": "Piel, pelo y uñas",
+        "sub": "el mismo material, varias cosas"
+      }
+    },
+    {
+      "from": 13916,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 4",
+        "title": "Huesos más fuertes",
+        "sub": "la parte flexible del hueso es colágeno"
+      }
+    },
+    {
+      "from": 16682,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "CASO REAL",
+        "title": "Doña Rosa, 67 años",
+        "sub": "rodillas con dolor, sin promesas mágicas"
+      }
+    },
+    {
+      "from": 19164,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "NO TE LO SALTEES",
+        "title": "El error que arruina todo"
+      }
+    },
+    {
+      "from": 19713,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "VITAMINA C",
+        "sub": "sin ella no se arma el colágeno",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 20593,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "EL MOVIMIENTO",
+        "sub": "lleva el alimento al cartílago",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 22257,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "ATENCIÓN",
+        "title": "Advertencias importantes"
+      }
+    },
+    {
+      "from": 22811,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🚑",
+        "title": "Roja, caliente, hinchada o con fiebre",
+        "sub": "eso es médico, no gelatina: consultá",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 23460,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🩺",
+        "title": "Enfermedad renal: no subas proteínas solo",
+        "sub": "la cantidad la decide tu médico",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 23920,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Ojo con la fuente, alergias y azúcar",
+        "sub": "pescado o vaca; el polvo, sin azúcar",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 25157,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🚫",
+        "title": "Nada de '20 años en 1 día'",
+        "sub": "se construye con constancia, no con magia",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 30196,
+      "dur": 102,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "SIEMPRE CON VITAMINA C",
+        "sub": "cítricos, kiwi, frutillas",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 31806,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi guía para tus articulaciones",
+        "items": [
+          "Cantidades de colágeno exactas",
+          "Recetas de caldo y gelatina",
+          "Rutina de movimiento paso a paso"
+        ]
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 2505,
+      "dur": 195,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Lo que vas a ver hoy",
+        "items": [
+          "Qué material perdemos con los años",
+          "El alimento que lo repone",
+          "El error que hace que no funcione"
+        ]
+      }
+    },
+    {
+      "from": 6480,
+      "dur": 180,
+      "comp": "Medidor",
+      "props": {
+        "value": 50,
+        "max": 100,
+        "suffix": "%",
+        "eyebrow": "Dato clave",
+        "label": "del colágeno de joven (a los 60)"
+      }
+    },
+    {
+      "from": 9946,
+      "dur": 180,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "La gelatina no es cartílago que se pega a tu rodilla: le da a tu cuerpo los ladrillos para que él mismo lo repare."
+      }
+    },
+    {
+      "from": 18370,
+      "dur": 180,
+      "comp": "AntesDespues",
+      "props": {
+        "before": "img/colageno_antes.jpg",
+        "after": "img/colageno_despues.jpg",
+        "beforeLabel": "ANTES",
+        "afterLabel": "DESPUÉS",
+        "eyebrow": "El caso de doña Rosa",
+        "title": "De no salir de casa… a la plaza"
+      }
+    },
+    {
+      "from": 21890,
+      "dur": 225,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Las 4 piezas que sí funcionan",
+        "items": [
+          "Colágeno (los ladrillos)",
+          "Vitamina C (el cemento)",
+          "Movimiento (lleva la comida al cartílago)",
+          "Comida antiinflamatoria (no destruir lo repuesto)"
+        ]
+      }
+    },
+    {
+      "from": 26076,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Las cremas de colágeno reparan las articulaciones.",
+        "truth": "Falso. La molécula es muy grande para atravesar la piel. Para las articulaciones, el colágeno se COME, no se unta."
+      }
+    },
+    {
+      "from": 26708,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Con comerlo una vez por semana alcanza.",
+        "truth": "Falso. Tu cuerpo repara todos los días: necesita los ladrillos de forma regular. Un poco cada día rinde más que un atracón."
+      }
+    },
+    {
+      "from": 27248,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Comés esto y en un día caminás como a los 20.",
+        "truth": "Falso, y es la promesa que más lastima. Alivio de la rigidez relativamente pronto; la reconstrucción, en semanas y meses."
+      }
+    },
+    {
+      "from": 28023,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Solo sirve el colágeno caro en polvo.",
+        "truth": "Falso. La gelatina natural y el caldo de huesos casero son fuentes excelentes y baratísimas. Tu bolsillo y tus rodillas, contentos."
+      }
+    },
+    {
+      "from": 29376,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Manos a la obra",
+        "title": "El plan, en pasos",
+        "steps": [
+          {
+            "title": "Elegí tu fuente",
+            "sub": "gelatina sin sabor o caldo de huesos"
+          },
+          {
+            "title": "Sumale vitamina C",
+            "sub": "cítricos, kiwi, frutillas: el cemento"
+          },
+          {
+            "title": "Movete cada día",
+            "sub": "lleva el alimento a la articulación"
+          },
+          {
+            "title": "Bajá la inflamación",
+            "sub": "menos azúcar, más comida real"
+          }
+        ]
+      }
+    },
+    {
+      "from": 32302,
+      "dur": 240,
+      "comp": "Timeline",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Qué esperar",
+        "title": "Tus articulaciones, con el tiempo",
+        "steps": [
+          {
+            "when": "Primeros días",
+            "text": "menos rigidez al levantarte"
+          },
+          {
+            "when": "Semanas",
+            "text": "más comodidad al moverte"
+          },
+          {
+            "when": "Meses",
+            "text": "caminar con menos dolor"
+          }
+        ]
+      }
+    },
+    {
+      "from": 33536,
+      "dur": 210,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "Nos hicieron creer que perder movilidad es 'hacerse viejo' y hay que aguantarlo. Es mentira: casi todo está en tus manos."
+      }
+    }
+  ]
+}

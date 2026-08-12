@@ -44,6 +44,7 @@ import {
   SplitInfo,
   Testimonial,
 } from "./kit/kit3";
+import { AntesDespues, Medidor, Timeline, Top5Reveal } from "./kit/kit4";
 import type { BrollBeat, ComponentBeat, OverlayBeat } from "./types";
 
 /* ─────────────────────────  b-roll a pantalla completa (Ken Burns)  ───────────────────────── */
@@ -101,6 +102,10 @@ const MAP = {
   Testimonial,
   AnnotatedImage,
   BigNumberCard,
+  Top5Reveal,
+  AntesDespues,
+  Medidor,
+  Timeline,
 } as const;
 
 export const ComponentBeatView: React.FC<{ beat: ComponentBeat }> = ({

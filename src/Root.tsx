@@ -13,6 +13,7 @@ import romeroNocheCues from "./VideoEdit/data/cues_romero-noche-elena.json";
 import vitaminaCues from "./VideoEdit/data/cues_vitamina-venas-agustin.json";
 import sarcopeniaCues from "./VideoEdit/data/cues_sarcopenia-elena.json";
 import joyaCues from "./VideoEdit/data/cues_joya-70-80-elena.json";
+import colagenoCues from "./VideoEdit/data/cues_colageno-articulaciones-elena.json";
 
 export const RemotionRoot: React.FC = () => {
   const chia = chiaCues as Cues;
@@ -24,6 +25,7 @@ export const RemotionRoot: React.FC = () => {
   const vitamina = vitaminaCues as Cues;
   const sarcopenia = sarcopeniaCues as Cues;
   const joya = joyaCues as Cues;
+  const colagenoArt = colagenoCues as Cues;
   return (
     <>
       <Composition
@@ -122,6 +124,15 @@ export const RemotionRoot: React.FC = () => {
         width={joya.width}
         height={joya.height}
         defaultProps={{ cues: joya }}
+      />
+      <Composition
+        id="ColagenoElena"
+        component={VideoMain}
+        durationInFrames={colagenoArt.durationInFrames}
+        fps={colagenoArt.fps}
+        width={colagenoArt.width}
+        height={colagenoArt.height}
+        defaultProps={{ cues: colagenoArt }}
       />
     </>
   );
