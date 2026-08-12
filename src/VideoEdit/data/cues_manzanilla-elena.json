@@ -1,0 +1,534 @@
+{
+  "slug": "manzanilla-elena",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 32875,
+  "broll": [
+    {
+      "from": 3,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/manzanilla-elena_s_01.mp4"
+    },
+    {
+      "from": 2369,
+      "dur": 539,
+      "kind": "video",
+      "src": "broll/manzanilla-elena_s_03.mp4"
+    },
+    {
+      "from": 2908,
+      "dur": 235,
+      "kind": "video",
+      "src": "broll/manzanilla-elena_s_04.mp4"
+    },
+    {
+      "from": 3650,
+      "dur": 240,
+      "kind": "video",
+      "src": "broll/manzanilla-elena_s_05.mp4"
+    },
+    {
+      "from": 3890,
+      "dur": 492,
+      "kind": "video",
+      "src": "broll/manzanilla-elena_s_06.mp4"
+    },
+    {
+      "from": 4382,
+      "dur": 652,
+      "kind": "video",
+      "src": "broll/manzanilla-elena_s_07.mp4"
+    },
+    {
+      "from": 5034,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/manzanilla-elena_s_08.mp4"
+    },
+    {
+      "from": 6100,
+      "dur": 450,
+      "kind": "video",
+      "src": "broll/manzanilla-elena_s_09.mp4"
+    },
+    {
+      "from": 6550,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/manzanilla-elena_s_10.mp4"
+    },
+    {
+      "from": 7709,
+      "dur": 378,
+      "kind": "video",
+      "src": "broll/manzanilla-elena_s_11.mp4"
+    },
+    {
+      "from": 8087,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/manzanilla-elena_s_12.mp4"
+    },
+    {
+      "from": 9768,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/manzanilla-elena_s_14.mp4"
+    },
+    {
+      "from": 11888,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/manzanilla-elena_s_16.mp4"
+    },
+    {
+      "from": 12661,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/manzanilla-elena_s_17.mp4"
+    },
+    {
+      "from": 14410,
+      "dur": 249,
+      "kind": "video",
+      "src": "broll/manzanilla-elena_s_19.mp4"
+    },
+    {
+      "from": 14659,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/manzanilla-elena_s_20.mp4"
+    },
+    {
+      "from": 15925,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/manzanilla-elena_s_21.mp4"
+    },
+    {
+      "from": 16701,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/manzanilla-elena_s_22.mp4"
+    },
+    {
+      "from": 17801,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/manzanilla-elena_s_23.mp4"
+    },
+    {
+      "from": 23456,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/manzanilla-elena_s_26.mp4"
+    },
+    {
+      "from": 25994,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/manzanilla-elena_s_28.mp4"
+    },
+    {
+      "from": 27034,
+      "dur": 277,
+      "kind": "video",
+      "src": "broll/manzanilla-elena_s_29.mp4"
+    },
+    {
+      "from": 27311,
+      "dur": 228,
+      "kind": "video",
+      "src": "broll/manzanilla-elena_s_30.mp4"
+    },
+    {
+      "from": 27539,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/manzanilla-elena_s_31.mp4"
+    },
+    {
+      "from": 28583,
+      "dur": 393,
+      "kind": "video",
+      "src": "broll/manzanilla-elena_s_32.mp4"
+    },
+    {
+      "from": 31082,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/manzanilla-elena_s_33.mp4"
+    },
+    {
+      "from": 32295,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/manzanilla-elena_s_34.mp4"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1451,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "REMEDIOS NATURALES CON EVIDENCIA",
+        "title": "Dra. Elena Vidal",
+        "sub": "Beneficios, riesgos y verdades"
+      }
+    },
+    {
+      "from": 3650,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 1",
+        "title": "Calma el estómago",
+        "sub": "relaja el músculo digestivo"
+      }
+    },
+    {
+      "from": 5034,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "ESTÓMAGO Y NERVIOS",
+        "sub": "cuando la mente afloja, el estómago también",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 6100,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 2",
+        "title": "Calma y mejor sueño",
+        "sub": "suave; NO es un somnífero"
+      }
+    },
+    {
+      "from": 6550,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "APIGENINA",
+        "sub": "actúa suave sobre receptores de calma",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 7661,
+      "dur": 102,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "EL RITUAL",
+        "sub": "parar, respirar: la mitad del efecto",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 8087,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 3",
+        "title": "Antiinflamatoria",
+        "sub": "flavonoides antioxidantes"
+      }
+    },
+    {
+      "from": 8988,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 4",
+        "title": "Uso en la piel",
+        "sub": "compresas para irritación y ojos"
+      }
+    },
+    {
+      "from": 11768,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "CASO REAL",
+        "title": "Doña Carmen, 60 años",
+        "sub": "el estómago cerrado por los nervios"
+      }
+    },
+    {
+      "from": 14177,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "NO TE LO SALTEES",
+        "title": "Los riesgos (que nadie cuenta)"
+      }
+    },
+    {
+      "from": 14410,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🌼",
+        "title": "Alergia: familia de las margaritas",
+        "sub": "cuidado si sos alérgico al polen/ambrosía",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 15925,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "💊",
+        "title": "Anticoagulantes: cumarinas",
+        "sub": "puede aumentar el sangrado — consultá",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 16701,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🤰",
+        "title": "Embarazo, lactancia y bebés",
+        "sub": "prudencia y consultar antes",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 17801,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🛏️",
+        "title": "Sedantes y cirugías",
+        "sub": "potencia el sueño; suspender antes de operarte",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 18927,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🩺",
+        "title": "No reemplaza al médico",
+        "sub": "dolor fuerte, sangre o baja de peso → consultá",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 22580,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "MANOS A LA OBRA",
+        "title": "Cómo prepararla bien"
+      }
+    },
+    {
+      "from": 23456,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "TAPÁ LA TAZA",
+        "sub": "los aceites se escapan con el vapor",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 24942,
+      "dur": 102,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "MÁS NO ES MEJOR",
+        "sub": "la moderación es la clave",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 24979,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "clinic",
+        "value": 2,
+        "suffix": " tazas",
+        "label": "al día, cantidad prudente"
+      }
+    },
+    {
+      "from": 25590,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi guía de remedios naturales",
+        "items": [
+          "Qué usar para cada cosa",
+          "Cantidades y cuidados de cada uno",
+          "Cómo aprovechar cada taza"
+        ]
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 2102,
+      "dur": 195,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Lo que vas a ver hoy",
+        "items": [
+          "Qué le hace la manzanilla a tu cuerpo",
+          "Sus riesgos y quiénes NO deberían tomarla",
+          "Cómo prepararla bien"
+        ]
+      }
+    },
+    {
+      "from": 3143,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Para qué SÍ es buena",
+        "items": [
+          "Digestión: calma el estómago",
+          "Calma y sueño (suave, no un somnífero)",
+          "Antiinflamatoria y antioxidante",
+          "Piel: compresas para irritación"
+        ]
+      }
+    },
+    {
+      "from": 13715,
+      "dur": 180,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "La planta fue la excusa perfecta para crear un momento de calma. Y esa combinación es la que de verdad funciona."
+      }
+    },
+    {
+      "from": 19941,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "La manzanilla cura la gastritis y las úlceras.",
+        "truth": "Falso. Ayuda a calmar la molestia y a desinflamar un poco, pero no cura. Puede acompañar tu tratamiento, nunca reemplazarlo."
+      }
+    },
+    {
+      "from": 20506,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Como es natural, puedo tomar toda la que quiera.",
+        "truth": "Falso. Más fuerte y más tazas no es mejor: en exceso da somnolencia, molestias o interactúa con tus remedios. Moderación."
+      }
+    },
+    {
+      "from": 21001,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "La manzanilla sirve para absolutamente todo.",
+        "truth": "Falso. Es excelente para la digestión y la calma, pero no es una cura universal. Hace pocas cosas, y las hace bien."
+      }
+    },
+    {
+      "from": 21605,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "El té de sobrecito no sirve, tiene que ser de la planta.",
+        "truth": "Falso (con matiz). Un buen sobre conserva sus activos. Lo que arruina una manzanilla no es el formato: es prepararla mal."
+      }
+    },
+    {
+      "from": 22824,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Cómo prepararla bien",
+        "title": "Paso a paso",
+        "steps": [
+          {
+            "title": "Agua NO hirviendo",
+            "sub": "volcala apenas antes del hervor"
+          },
+          {
+            "title": "Tapá la taza",
+            "sub": "así no se escapan los aceites"
+          },
+          {
+            "title": "Reposar 5 a 10 min",
+            "sub": "colar; 1-2 tazas al día"
+          }
+        ]
+      }
+    },
+    {
+      "from": 28976,
+      "dur": 240,
+      "comp": "Timeline",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Qué esperar",
+        "title": "La manzanilla, con el tiempo",
+        "steps": [
+          {
+            "when": "Primera taza",
+            "text": "calorcito y calma inmediata"
+          },
+          {
+            "when": "Semanas",
+            "text": "estómago más tranquilo y mejor sueño"
+          },
+          {
+            "when": "Con el hábito",
+            "text": "una aliada diaria de tu bienestar"
+          }
+        ]
+      }
+    },
+    {
+      "from": 30815,
+      "dur": 210,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "En un mundo que te ofrece pastillas para todo y soluciones rápidas para nada, hay una sabiduría enorme en volver a lo simple y bien hecho."
+      }
+    }
+  ]
+}
