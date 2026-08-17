@@ -15,6 +15,7 @@ import sarcopeniaCues from "./VideoEdit/data/cues_sarcopenia-elena.json";
 import joyaCues from "./VideoEdit/data/cues_joya-70-80-elena.json";
 import colagenoCues from "./VideoEdit/data/cues_colageno-articulaciones-elena.json";
 import manzanillaCues from "./VideoEdit/data/cues_manzanilla-elena.json";
+import narizCues from "./VideoEdit/data/cues_senal-nariz-elena.json";
 
 export const RemotionRoot: React.FC = () => {
   const chia = chiaCues as Cues;
@@ -28,6 +29,7 @@ export const RemotionRoot: React.FC = () => {
   const joya = joyaCues as Cues;
   const colagenoArt = colagenoCues as Cues;
   const manzanilla = manzanillaCues as Cues;
+  const nariz = narizCues as Cues;
   return (
     <>
       <Composition
@@ -144,6 +146,15 @@ export const RemotionRoot: React.FC = () => {
         width={manzanilla.width}
         height={manzanilla.height}
         defaultProps={{ cues: manzanilla }}
+      />
+      <Composition
+        id="SenalNariz"
+        component={VideoMain}
+        durationInFrames={nariz.durationInFrames}
+        fps={nariz.fps}
+        width={nariz.width}
+        height={nariz.height}
+        defaultProps={{ cues: nariz }}
       />
     </>
   );

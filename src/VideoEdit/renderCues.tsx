@@ -44,7 +44,7 @@ import {
   SplitInfo,
   Testimonial,
 } from "./kit/kit3";
-import { AntesDespues, Medidor, Timeline, Top5Reveal } from "./kit/kit4";
+import { AntesDespues, Medidor, QRTag, Timeline, Top5Reveal } from "./kit/kit4";
 import type { BrollBeat, ComponentBeat, OverlayBeat } from "./types";
 
 /* ─────────────────────────  b-roll a pantalla completa (Ken Burns)  ───────────────────────── */
@@ -131,6 +131,7 @@ const OMAP = {
   SectionTitle,
   Callout,
   SplitInfo,
+  QRTag,
 } as const;
 
 export const OverlayBeatView: React.FC<{ beat: OverlayBeat }> = ({ beat }) => {

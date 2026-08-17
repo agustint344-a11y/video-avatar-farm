@@ -1,0 +1,477 @@
+{
+  "slug": "senal-nariz-elena",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 31152,
+  "broll": [
+    {
+      "from": 2716,
+      "dur": 172,
+      "kind": "video",
+      "src": "broll/senal-nariz-elena_s_02.mp4"
+    },
+    {
+      "from": 2888,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/senal-nariz-elena_s_03.mp4"
+    },
+    {
+      "from": 3761,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/senal-nariz-elena_s_04.mp4"
+    },
+    {
+      "from": 5839,
+      "dur": 615,
+      "kind": "video",
+      "src": "broll/senal-nariz-elena_s_06.mp4"
+    },
+    {
+      "from": 6454,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/senal-nariz-elena_s_07.mp4"
+    },
+    {
+      "from": 7500,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/senal-nariz-elena_s_09.mp4"
+    },
+    {
+      "from": 9902,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/senal-nariz-elena_s_11.mp4"
+    },
+    {
+      "from": 10881,
+      "dur": 259,
+      "kind": "video",
+      "src": "broll/senal-nariz-elena_s_12.mp4"
+    },
+    {
+      "from": 12533,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/senal-nariz-elena_s_13.mp4"
+    },
+    {
+      "from": 14729,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/senal-nariz-elena_s_15.mp4"
+    },
+    {
+      "from": 15486,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/senal-nariz-elena_s_16.mp4"
+    },
+    {
+      "from": 17044,
+      "dur": 684,
+      "kind": "video",
+      "src": "broll/senal-nariz-elena_s_18.mp4"
+    },
+    {
+      "from": 17728,
+      "dur": 472,
+      "kind": "video",
+      "src": "broll/senal-nariz-elena_s_19.mp4"
+    },
+    {
+      "from": 18200,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/senal-nariz-elena_s_20.mp4"
+    },
+    {
+      "from": 19245,
+      "dur": 515,
+      "kind": "video",
+      "src": "broll/senal-nariz-elena_s_21.mp4"
+    },
+    {
+      "from": 22960,
+      "dur": 168,
+      "kind": "video",
+      "src": "broll/senal-nariz-elena_s_26.mp4"
+    },
+    {
+      "from": 23128,
+      "dur": 192,
+      "kind": "video",
+      "src": "broll/senal-nariz-elena_s_27.mp4"
+    },
+    {
+      "from": 23320,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/senal-nariz-elena_s_28.mp4"
+    },
+    {
+      "from": 24467,
+      "dur": 489,
+      "kind": "video",
+      "src": "broll/senal-nariz-elena_s_29.mp4"
+    },
+    {
+      "from": 24956,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/senal-nariz-elena_s_30.mp4"
+    },
+    {
+      "from": 30503,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/senal-nariz-elena_s_32.mp4"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1793,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "TU PIEL, CON EVIDENCIA",
+        "title": "Dra. Elena Vidal",
+        "sub": "Aprendé a mirar, sin miedo"
+      }
+    },
+    {
+      "from": 3761,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "LA NARIZ = MÁS SOL",
+        "sub": "es la parte que más radiación acumula",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 4687,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 12533,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "A TIEMPO = FÁCIL",
+        "sub": "detectado temprano, casi siempre simple",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 12724,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 14034,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 14472,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "CASO REAL",
+        "title": "Doña Elsa, 68 años",
+        "sub": "una lastimadura de 6 meses que 'no era nada'"
+      }
+    },
+    {
+      "from": 16031,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "CASI NUNCA DUELEN",
+        "sub": "por eso las ignoramos",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 16097,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 16325,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "IMPORTANTE",
+        "title": "Qué NO hacer nunca"
+      }
+    },
+    {
+      "from": 16618,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🚫",
+        "title": "No te la revientes ni te la rasques",
+        "sub": "manipularla empeora y confunde el diagnóstico",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 17044,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Nada de remedios caseros encima",
+        "sub": "sobre una lesión que no cicatriza, puede ser peligroso",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 18200,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🩺",
+        "title": "Ante la duda: dermatólogo",
+        "sub": "quien mira tu piel y decide es un profesional",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 19990,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "📅",
+        "title": "¿No se fue en 3-4 semanas?",
+        "sub": "dejó de ser 'un granito': mostralo",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 22084,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "MANOS A LA OBRA",
+        "title": "Cómo cuidarte"
+      }
+    },
+    {
+      "from": 23128,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "clinic",
+        "value": 1,
+        "suffix": " vez/mes",
+        "label": "revisá tu piel"
+      }
+    },
+    {
+      "from": 24007,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 31007,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 2464,
+      "dur": 195,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Lo que vas a ver hoy",
+        "items": [
+          "Por qué la nariz es un lugar especial",
+          "Marcas comunes vs señales de alerta",
+          "Qué hacer y qué NO hacer nunca"
+        ]
+      }
+    },
+    {
+      "from": 5109,
+      "dur": 225,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Causas comunes (quedate tranquila)",
+        "items": [
+          "Un granito o espinilla",
+          "Piel irritada o reseca",
+          "Arañitas vasculares (vasitos rojos)",
+          "Rosácea",
+          "Lunares y pecas de siempre"
+        ]
+      }
+    },
+    {
+      "from": 8266,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "clinic",
+        "title": "¿Cuándo preocuparse?",
+        "left": {
+          "label": "Marca común",
+          "sub": "se va en pocos días — tranquila"
+        },
+        "right": {
+          "label": "Señal de alerta",
+          "sub": "no cicatriza, cambia o sangra — al médico"
+        }
+      }
+    },
+    {
+      "from": 8589,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Señales de alerta (mostralas)",
+        "items": [
+          "Herida que NO cicatriza en semanas",
+          "Sangra con facilidad",
+          "Bultito nacarado que crece",
+          "Costra que se cae y vuelve",
+          "Lunar que cambia"
+        ]
+      }
+    },
+    {
+      "from": 11140,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Regla ABCDE del lunar",
+        "items": [
+          "A · Asimetría (una mitad distinta)",
+          "B · Bordes irregulares",
+          "C · Color: varios o cambió",
+          "D · Diámetro grande o creció",
+          "E · Evolución: está cambiando"
+        ]
+      }
+    },
+    {
+      "from": 19018,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Si no duele, no es nada.",
+        "truth": "Falso, y es lo más traicionero. Las señales de la piel que más importan casi nunca duelen. El dolor no es un buen termómetro."
+      }
+    },
+    {
+      "from": 19760,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Es solo un granito, ya se va solo.",
+        "truth": "A veces sí. Pero si algo en tu nariz no se fue en 3 o 4 semanas, dejó de ser 'solo un granito' y pasó a ser algo para mostrar."
+      }
+    },
+    {
+      "from": 20293,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "A mi edad ya no vale la pena hacerse ver eso.",
+        "truth": "Falso. Justo a mayor edad, por el sol acumulado, más vale mirar y consultar. Una consulta simple evita un problema grande."
+      }
+    },
+    {
+      "from": 21048,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Yo nunca tomé tanto sol, a mí no me pasa.",
+        "truth": "Falso. El sol se acumula de a poquito: manejando, en los mandados, colgando la ropa. No es tema de 'los que se broncean': es de todos."
+      }
+    },
+    {
+      "from": 22398,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Cómo cuidarte",
+        "title": "Prevención simple",
+        "steps": [
+          {
+            "title": "Protector solar cada día",
+            "sub": "en la nariz, sí o sí, llueva o truene"
+          },
+          {
+            "title": "Revisá tu piel 1 vez por mes",
+            "sub": "cara, nariz, orejas, cuello, manos"
+          },
+          {
+            "title": "Sombra y sombrero al mediodía",
+            "sub": "entre las 10 y las 16, respetá el sol"
+          }
+        ]
+      }
+    },
+    {
+      "from": 28719,
+      "dur": 210,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "Cuidar tu salud no es vivir asustada buscándote problemas. Es conocer tu cuerpo con cariño y consultar a tiempo. Eso no es miedo: es paz."
+      }
+    }
+  ]
+}

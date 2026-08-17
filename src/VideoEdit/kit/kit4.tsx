@@ -297,3 +297,33 @@ export const Timeline: React.FC<{
     </AbsoluteFill>
   );
 };
+
+/* ═══════════════ 5) QRTag — QR en la esquina para escanear (aparece en los CTAs) ═══════════════ */
+export const QRTag: React.FC<{
+  durationInFrames: number; theme?: Theme; src?: string;
+  eyebrow?: string; label?: string; corner?: "bl" | "br" | "tl" | "tr";
+}> = ({ durationInFrames, theme = THEME_CLINIC, src = "img/qr_guia.png", eyebrow = "ESCANEÁ EL CÓDIGO", label = "y llevate la guía", corner = "bl" }) => {
+  const { fps } = useVideoConfig();
+  const f = useCurrentFrame();
+  const t = f / fps;
+  const op = smooth(interpolate(f, [0, 12], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" })) *
+    smooth(interpolate(f, [durationInFrames - 12, durationInFrames], [1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" }));
+  const rise = (1 - smooth(interpolate(f, [0, 16], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" }))) * 40;
+  const pulse = 0.5 + 0.5 * Math.sin(t * 3.2);
+  const pos: React.CSSProperties =
+    corner === "br" ? { bottom: 70, right: 70 } : corner === "tr" ? { top: 70, right: 70 } : corner === "tl" ? { top: 70, left: 70 } : { bottom: 70, left: 70 };
+  return (
+    <AbsoluteFill style={{ pointerEvents: "none" }}>
+      <div style={{ position: "absolute", ...pos, opacity: op, transform: `translateY(${rise}px)`, display: "flex", alignItems: "center", gap: 18, background: theme.panel, border: `1px solid ${theme.line}`, borderTop: `6px solid ${theme.accent}`, borderRadius: 20, padding: "18px 24px 18px 18px", boxShadow: `0 24px 60px rgba(0,0,0,0.28), 0 0 ${16 + pulse * 22}px ${theme.accent}55` }}>
+        <div style={{ width: 168, height: 168, borderRadius: 12, overflow: "hidden", background: "#fff", flexShrink: 0, boxShadow: "0 4px 14px rgba(0,0,0,0.15)" }}>
+          <Img src={staticFile(src)} style={{ width: "100%", height: "100%", objectFit: "contain" }} />
+        </div>
+        <div style={{ maxWidth: 240 }}>
+          <div style={{ color: theme.accent, font: `800 24px/1 ${theme.sans}`, letterSpacing: 2, textTransform: "uppercase" }}>{eyebrow}</div>
+          <div style={{ color: theme.ink, font: `700 34px/1.1 ${theme.serif}`, marginTop: 8 }}>{label}</div>
+          <div style={{ color: theme.muted, font: `500 22px/1.2 ${theme.sans}`, marginTop: 8 }}>apuntá la cámara 📷</div>
+        </div>
+      </div>
+    </AbsoluteFill>
+  );
+};
