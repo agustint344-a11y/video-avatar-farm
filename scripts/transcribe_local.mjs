@@ -83,7 +83,7 @@ const main = async () => {
     whisperPath: WHISPER_DIR,
     whisperCppVersion: WHISPER_VERSION,
     model: MODEL,
-    language: "Spanish",
+    language: process.env.WHISPER_LANG ?? "Spanish",
     tokenLevelTimestamps: true,
     splitOnWord: true,
     printOutput: false,
