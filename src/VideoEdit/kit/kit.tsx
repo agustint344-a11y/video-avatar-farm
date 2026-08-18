@@ -122,11 +122,11 @@ const Card: React.FC<{ t: Theme; delay: number; children: React.ReactNode; tone:
     <div>{children}</div>
   </div>;
 };
-export const MythVsTruth: React.FC<{ durationInFrames: number; theme?: Theme; myth: string; truth: string }> = ({ durationInFrames, theme = THEME_EARTH, myth, truth }) => {
+export const MythVsTruth: React.FC<{ durationInFrames: number; theme?: Theme; myth: string; truth: string; mythLabel?: string; truthLabel?: string }> = ({ durationInFrames, theme = THEME_EARTH, myth, truth, mythLabel = "Mito", truthLabel = "Verdad" }) => {
   const op = useOp(durationInFrames);
   return <Stage theme={theme}><div style={{ opacity: op, display: "flex", flexDirection: "column", gap: 30, maxWidth: 1500, width: "100%" }}>
-    <Card t={theme} delay={4} tone="bad"><div style={{ color: theme.bad, font: `700 26px/1 ${theme.sans}`, letterSpacing: 2, textTransform: "uppercase", marginBottom: 10 }}>Mito</div><div style={{ color: theme.ink, font: `500 46px/1.25 ${theme.serif}` }}>{myth}</div></Card>
-    <Card t={theme} delay={16} tone="good"><div style={{ color: theme.good, font: `700 26px/1 ${theme.sans}`, letterSpacing: 2, textTransform: "uppercase", marginBottom: 10 }}>Verdad</div><div style={{ color: theme.ink, font: `500 46px/1.25 ${theme.serif}` }}>{truth}</div></Card>
+    <Card t={theme} delay={4} tone="bad"><div style={{ color: theme.bad, font: `700 26px/1 ${theme.sans}`, letterSpacing: 2, textTransform: "uppercase", marginBottom: 10 }}>{mythLabel}</div><div style={{ color: theme.ink, font: `500 46px/1.25 ${theme.serif}` }}>{myth}</div></Card>
+    <Card t={theme} delay={16} tone="good"><div style={{ color: theme.good, font: `700 26px/1 ${theme.sans}`, letterSpacing: 2, textTransform: "uppercase", marginBottom: 10 }}>{truthLabel}</div><div style={{ color: theme.ink, font: `500 46px/1.25 ${theme.serif}` }}>{truth}</div></Card>
   </div></Stage>;
 };
 

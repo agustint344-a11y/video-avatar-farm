@@ -25,7 +25,7 @@ const compBeats = [
   ["flip it feel it smooth is gold", 6, "Checklist", { theme: T, title: "The smooth-bottom test", items: ["Flip the pan over", "Run your fingers across the bottom", "Smooth as glass = old & valuable"], stamp: "#10" }],
   ["snap a picture of that mark", 8, "Steps", { theme: T, eyebrow: "THE PHONE TRICK", title: "Value any mark in 10 seconds", steps: [{ title: "Snap the maker's mark", sub: "zoom in nice and close" }, { title: "Search the exact words", sub: "and add the word 'sold'" }, { title: "Read the SOLD prices", sub: "what buyers actually paid" }] }],
   ["something you could lose in your coat pocket", 5, "BigStat", { theme: T, eyebrow: "TOY / SALESMAN SKILLET", prefix: "$", value: 500, support: "for a pan that fits in your palm" }],
-  ["sitting in a bucket of rust ignored", 7, "MythVsTruth", { theme: T, myth: "Looks like a rusty old piece of junk on three legs.", truth: "A real spider skillet can sell for well over $8,000. Most folks toss it without a second look." }],
+  ["sitting in a bucket of rust ignored", 7, "MythVsTruth", { theme: T, mythLabel: "Myth", truthLabel: "Truth", myth: "Looks like a rusty old piece of junk on three legs.", truth: "A real spider skillet can sell for well over $8,000. Most folks toss it without a second look." }],
   ["flip it over feel for a smooth bottom", 8, "Checklist", { theme: T, title: "The tells — quick recap", items: ["Smooth bottom + heat ring", "Gate mark = real antique", "Odd size numbers", "Maker's name → search SOLD", "Toy & gem pans", "Spider skillet = jackpot", "Never toss unmarked · never over-clean"] }],
   ["it's knowing and now you know", 6, "PullQuote", { theme: T, quote: "The difference between tossing an $8,000 pan and cashing it in isn't luck. It's knowing.", author: "Walt Hargrove" }],
 ];
@@ -60,9 +60,9 @@ const ovBeats = [
   ["folks actually paid", 3.2, "KeywordPop", { theme: T, word: "+ SOLD", sub: "search sold prices, not asking", pos: "center" }],
   ["sold for well over", 3.4, "KeywordPop", { theme: T, word: "$8,000+", sub: "a real spider skillet", pos: "center" }],
   // warnings (Callout es overlay)
-  ["take a wire wheel to it", 5, "Callout", { theme: T, icon: "🚫", title: "Never take a wire wheel to it", sub: "grinding off the patina grinds off the money", tone: "warn" }],
-  ["do not throw out a pan just because", 5, "Callout", { theme: T, icon: "⚠️", title: "Never toss an unmarked pan", sub: "some of the best iron has no name at all", tone: "warn" }],
-  ["do not clean these pans up before you know", 5, "Callout", { theme: T, icon: "🧽", title: "Don't clean it before you know", sub: "the patina IS the value — you can't put it back", tone: "warn" }],
+  ["take a wire wheel to it", 5, "Callout", { theme: T, label: "Caution", icon: "🚫", title: "Never take a wire wheel to it", sub: "grinding off the patina grinds off the money", tone: "warn" }],
+  ["do not throw out a pan just because", 5, "Callout", { theme: T, label: "Caution", icon: "⚠️", title: "Never toss an unmarked pan", sub: "some of the best iron has no name at all", tone: "warn" }],
+  ["do not clean these pans up before you know", 5, "Callout", { theme: T, label: "Caution", icon: "🧽", title: "Don't clean it before you know", sub: "the patina IS the value — you can't put it back", tone: "warn" }],
   // CTAs (voz ya grabada) — tarjeta lateral con Walt visible
   ["point your phone at that code", 6.5, "SplitInfo", { eyebrow: "FREE GUIDE", title: "The Attic Fortune Handbook", items: ["60+ items with real value ranges", "How to read maker's marks & spot fakes", "Tools, lanterns, coins & more"] }],
   ["let me take one quick second", 6.5, "SplitInfo", { eyebrow: "GRAB IT FIRST", title: "The Attic Fortune Handbook", items: ["Know what it's worth before you sell", "Real sold-price ranges", "Plain English, no jargon"] }],

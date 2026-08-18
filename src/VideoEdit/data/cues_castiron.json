@@ -252,12 +252,6 @@
       "src": "broll/castiron_s_088.mp4"
     },
     {
-      "from": 21071,
-      "dur": 245,
-      "kind": "video",
-      "src": "broll/castiron_s_090.mp4"
-    },
-    {
       "from": 21316,
       "dur": 245,
       "kind": "video",
@@ -307,15 +301,9 @@
     },
     {
       "from": 24469,
-      "dur": 215,
+      "dur": 270,
       "kind": "video",
       "src": "broll/castiron_s_104.mp4"
-    },
-    {
-      "from": 24684,
-      "dur": 203,
-      "kind": "video",
-      "src": "broll/castiron_s_105.mp4"
     },
     {
       "from": 24887,
@@ -431,6 +419,7 @@
       "comp": "Callout",
       "props": {
         "theme": "earth",
+        "label": "Caution",
         "icon": "🚫",
         "title": "Never take a wire wheel to it",
         "sub": "grinding off the patina grinds off the money",
@@ -602,6 +591,7 @@
       "comp": "Callout",
       "props": {
         "theme": "earth",
+        "label": "Caution",
         "icon": "⚠️",
         "title": "Never toss an unmarked pan",
         "sub": "some of the best iron has no name at all",
@@ -624,6 +614,7 @@
       "comp": "Callout",
       "props": {
         "theme": "earth",
+        "label": "Caution",
         "icon": "🧽",
         "title": "Don't clean it before you know",
         "sub": "the patina IS the value — you can't put it back",
@@ -771,6 +762,8 @@
       "comp": "MythVsTruth",
       "props": {
         "theme": "earth",
+        "mythLabel": "Myth",
+        "truthLabel": "Truth",
         "myth": "Looks like a rusty old piece of junk on three legs.",
         "truth": "A real spider skillet can sell for well over $8,000. Most folks toss it without a second look."
       }
