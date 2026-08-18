@@ -1,0 +1,696 @@
+{
+  "slug": "tools",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 21260,
+  "broll": [
+    {
+      "from": 229,
+      "dur": 270,
+      "kind": "video",
+      "src": "broll/tools_s_002.mp4"
+    },
+    {
+      "from": 1149,
+      "dur": 270,
+      "kind": "video",
+      "src": "broll/tools_s_006.mp4"
+    },
+    {
+      "from": 2165,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/tools_s_010.jpg"
+    },
+    {
+      "from": 2667,
+      "dur": 270,
+      "kind": "video",
+      "src": "broll/tools_s_012.mp4"
+    },
+    {
+      "from": 3430,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/tools_s_015.jpg"
+    },
+    {
+      "from": 3682,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/tools_s_016.jpg"
+    },
+    {
+      "from": 6791,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/tools_s_029.jpg"
+    },
+    {
+      "from": 7261,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/tools_s_031.jpg"
+    },
+    {
+      "from": 7728,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/tools_s_033.jpg"
+    },
+    {
+      "from": 8208,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/tools_s_035.jpg"
+    },
+    {
+      "from": 8453,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/tools_s_036.jpg"
+    },
+    {
+      "from": 8742,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/tools_s_037.jpg"
+    },
+    {
+      "from": 8942,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/tools_s_038.jpg"
+    },
+    {
+      "from": 9362,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/tools_s_040.jpg"
+    },
+    {
+      "from": 9586,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/tools_s_041.jpg"
+    },
+    {
+      "from": 9863,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/tools_s_042.jpg"
+    },
+    {
+      "from": 10310,
+      "dur": 270,
+      "kind": "video",
+      "src": "broll/tools_s_044.mp4"
+    },
+    {
+      "from": 11696,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/tools_s_050.jpg"
+    },
+    {
+      "from": 12638,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/tools_s_054.jpg"
+    },
+    {
+      "from": 12853,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/tools_s_055.jpg"
+    },
+    {
+      "from": 13116,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/tools_s_056.jpg"
+    },
+    {
+      "from": 13324,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/tools_s_057.jpg"
+    },
+    {
+      "from": 13782,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/tools_s_059.jpg"
+    },
+    {
+      "from": 14069,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/tools_s_060.jpg"
+    },
+    {
+      "from": 14496,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/tools_s_062.jpg"
+    },
+    {
+      "from": 14935,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/tools_s_064.jpg"
+    },
+    {
+      "from": 15185,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/tools_s_065.jpg"
+    },
+    {
+      "from": 15419,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/tools_s_066.jpg"
+    },
+    {
+      "from": 15652,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/tools_s_067.jpg"
+    },
+    {
+      "from": 15881,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/tools_s_068.jpg"
+    },
+    {
+      "from": 16148,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/tools_s_069.jpg"
+    },
+    {
+      "from": 16432,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/tools_s_070.jpg"
+    },
+    {
+      "from": 16657,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/tools_s_071.jpg"
+    },
+    {
+      "from": 17322,
+      "dur": 223,
+      "kind": "video",
+      "src": "broll/tools_s_074.mp4"
+    },
+    {
+      "from": 17545,
+      "dur": 270,
+      "kind": "video",
+      "src": "broll/tools_s_075.mp4"
+    },
+    {
+      "from": 17821,
+      "dur": 231,
+      "kind": "video",
+      "src": "broll/tools_s_076.mp4"
+    },
+    {
+      "from": 18052,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/tools_s_077.jpg"
+    },
+    {
+      "from": 18265,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/tools_s_078.jpg"
+    },
+    {
+      "from": 18700,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/tools_s_080.jpg"
+    },
+    {
+      "from": 20780,
+      "dur": 270,
+      "kind": "video",
+      "src": "broll/tools_s_089.mp4"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1244,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 1553,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "ATTIC FORTUNE",
+        "title": "Walt Hargrove",
+        "sub": "40+ years of barn sales & finds"
+      }
+    },
+    {
+      "from": 3256,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#10",
+        "title": "The Hand Plane"
+      }
+    },
+    {
+      "from": 4216,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "prefix": "$",
+        "value": 600,
+        "suffix": "+",
+        "label": "quality hand planes",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 4676,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "label": "Caution",
+        "icon": "🚫",
+        "title": "Never scrap a hand plane",
+        "sub": "rusty is fine — missing parts kill the value",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 6038,
+      "dur": 195,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "FREE GUIDE",
+        "title": "The Attic Fortune Handbook",
+        "items": [
+          "60+ items with real value ranges",
+          "How to read maker's marks & patent dates",
+          "Tools, cast iron, lanterns, coins & more"
+        ]
+      }
+    },
+    {
+      "from": 6038,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 6438,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#9",
+        "title": "The Adjustable Wrench"
+      }
+    },
+    {
+      "from": 7022,
+      "dur": 102,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "PATENT DATE",
+        "sub": "the tool's birth certificate",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 7381,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "prefix": "$",
+        "value": 250,
+        "label": "early marked wrenches",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 7608,
+      "dur": 96,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "READ THE HANDLES",
+        "sub": "the marks are where the money is",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 7697,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#8",
+        "title": "The Axe Head"
+      }
+    },
+    {
+      "from": 8910,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#7",
+        "title": "The Level"
+      }
+    },
+    {
+      "from": 9729,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "prefix": "$",
+        "value": 300,
+        "label": "antique wood & brass levels",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 10123,
+      "dur": 195,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "GRAB IT FIRST",
+        "title": "The Attic Fortune Handbook",
+        "items": [
+          "Know what it's worth before you sell",
+          "Real sold-price ranges",
+          "Plain English, no jargon"
+        ]
+      }
+    },
+    {
+      "from": 10123,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 10986,
+      "dur": 96,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CHECK ITS WORTH",
+        "sub": "before you toss it",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 11479,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#6",
+        "title": "The Brace & Hand Drill"
+      }
+    },
+    {
+      "from": 11479,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 12606,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#5",
+        "title": "Blacksmith & Farrier Tools"
+      }
+    },
+    {
+      "from": 13682,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#4",
+        "title": "The Machinist's Chest"
+      }
+    },
+    {
+      "from": 14857,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#3",
+        "title": "The Specialty Wrench"
+      }
+    },
+    {
+      "from": 14857,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 16003,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#2",
+        "title": "The Folding Rule"
+      }
+    },
+    {
+      "from": 17275,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#1",
+        "title": "Your Whole Garage"
+      }
+    },
+    {
+      "from": 18922,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "label": "Caution",
+        "icon": "🧽",
+        "title": "Don't clean it before you know",
+        "sub": "that honest wear is part of the value",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 19358,
+      "dur": 195,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "EVERYTHING INSIDE",
+        "title": "The Attic Fortune Handbook",
+        "items": [
+          "The 7 goldmine categories",
+          "How to read every mark",
+          "Link pinned in the comments"
+        ]
+      }
+    },
+    {
+      "from": 19358,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 20645,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 530,
+      "dur": 150,
+      "comp": "BigStat",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ONE RUSTY WRENCH",
+        "prefix": "$",
+        "value": 2000,
+        "suffix": "?",
+        "support": "what a single old tool can sell for"
+      }
+    },
+    {
+      "from": 676,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "mythLabel": "Myth",
+        "truthLabel": "Truth",
+        "myth": "It's a box of rusty junk worth five dollars.",
+        "truth": "One marked wrench in that box can sell to a collector for over $2,000. Most folks never look."
+      }
+    },
+    {
+      "from": 2243,
+      "dur": 180,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Old vs. new tools",
+        "left": {
+          "label": "OLD",
+          "sub": "hand-forged good steel, built to last"
+        },
+        "right": {
+          "label": "NEW",
+          "sub": "stamped, plastic, throwaway"
+        }
+      }
+    },
+    {
+      "from": 2983,
+      "dur": 180,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Why old tools pay",
+        "items": [
+          "Old — hand-built to last three lifetimes",
+          "Well-made — tighter than anything new",
+          "Hard to find — the good ones got scarce"
+        ]
+      }
+    },
+    {
+      "from": 3866,
+      "dur": 180,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Spotting a valuable plane",
+        "items": [
+          "Maker's name stamped on the metal",
+          "Complete: blade, knob & tote (handle)",
+          "Rust is fine — missing parts are not"
+        ],
+        "stamp": "#10"
+      }
+    },
+    {
+      "from": 14639,
+      "dur": 150,
+      "comp": "BigStat",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MACHINIST TOOL CHEST",
+        "prefix": "$",
+        "value": 1000,
+        "suffix": "+",
+        "support": "a full chest of precision tools"
+      }
+    },
+    {
+      "from": 18419,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "The tells — quick recap",
+        "items": [
+          "Flip it over → find the maker's name",
+          "Hunt for a patent date",
+          "Check it's complete — all parts there",
+          "Don't fear rust; fear missing pieces",
+          "Read every wrench, plane & level"
+        ]
+      }
+    },
+    {
+      "from": 20528,
+      "dur": 180,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "earth",
+        "quote": "The difference between tossing a $2,000 wrench and cashing it in isn't luck. It's knowing.",
+        "author": "Walt Hargrove"
+      }
+    }
+  ]
+}
