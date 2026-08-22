@@ -1,0 +1,508 @@
+{
+  "slug": "curcuma-elena",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 33076,
+  "broll": [
+    {
+      "from": 2462,
+      "dur": 513,
+      "kind": "video",
+      "src": "broll/curcuma-elena_s_02.mp4"
+    },
+    {
+      "from": 2975,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/curcuma-elena_s_03.mp4"
+    },
+    {
+      "from": 3792,
+      "dur": 320,
+      "kind": "video",
+      "src": "broll/curcuma-elena_s_04.mp4"
+    },
+    {
+      "from": 4112,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/curcuma-elena_s_05.mp4"
+    },
+    {
+      "from": 6030,
+      "dur": 688,
+      "kind": "video",
+      "src": "broll/curcuma-elena_s_06.mp4"
+    },
+    {
+      "from": 6718,
+      "dur": 380,
+      "kind": "video",
+      "src": "broll/curcuma-elena_s_07.mp4"
+    },
+    {
+      "from": 8139,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/curcuma-elena_s_09.mp4"
+    },
+    {
+      "from": 8942,
+      "dur": 656,
+      "kind": "video",
+      "src": "broll/curcuma-elena_s_10.mp4"
+    },
+    {
+      "from": 9598,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/curcuma-elena_s_11.mp4"
+    },
+    {
+      "from": 10405,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/curcuma-elena_s_12.mp4"
+    },
+    {
+      "from": 12162,
+      "dur": 370,
+      "kind": "video",
+      "src": "broll/curcuma-elena_s_14.mp4"
+    },
+    {
+      "from": 12532,
+      "dur": 622,
+      "kind": "video",
+      "src": "broll/curcuma-elena_s_23.mp4"
+    },
+    {
+      "from": 13154,
+      "dur": 216,
+      "kind": "video",
+      "src": "broll/curcuma-elena_s_15.mp4"
+    },
+    {
+      "from": 13370,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/curcuma-elena_s_16.mp4"
+    },
+    {
+      "from": 14995,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/curcuma-elena_s_17.mp4"
+    },
+    {
+      "from": 17255,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/curcuma-elena_s_18.mp4"
+    },
+    {
+      "from": 19014,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/curcuma-elena_s_21.mp4"
+    },
+    {
+      "from": 25331,
+      "dur": 547,
+      "kind": "video",
+      "src": "broll/curcuma-elena_s_24.mp4"
+    },
+    {
+      "from": 25878,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/curcuma-elena_s_25.mp4"
+    },
+    {
+      "from": 27154,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/curcuma-elena_s_27.mp4"
+    },
+    {
+      "from": 30976,
+      "dur": 628,
+      "kind": "video",
+      "src": "broll/curcuma-elena_s_29.mp4"
+    },
+    {
+      "from": 32538,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/curcuma-elena_s_32.mp4"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 3038,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "CURCUMINA",
+        "sub": "el compuesto antiinflamatorio",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 4771,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 5042,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "EL SECRETO",
+        "title": "Por qué casi no la absorbés"
+      }
+    },
+    {
+      "from": 6074,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "PIPERINA",
+        "sub": "la pimienta multiplica la absorción",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 7406,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 8942,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 2",
+        "title": "Antioxidante potente",
+        "sub": "menos daño en tus células"
+      }
+    },
+    {
+      "from": 9499,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 3",
+        "title": "Mejor digestión",
+        "sub": "estimula la bilis"
+      }
+    },
+    {
+      "from": 11254,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 12045,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "CASO REAL",
+        "title": "Doña Marta, 65 años",
+        "sub": "la tomaba mal y no veía nada"
+      }
+    },
+    {
+      "from": 16782,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "NO TE LO SALTEES",
+        "title": "Los riesgos"
+      }
+    },
+    {
+      "from": 17255,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "💊",
+        "title": "Anticoagulantes y cirugía",
+        "sub": "puede aumentar el sangrado — consultá",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 18057,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Piedras en la vesícula",
+        "sub": "estimula la bilis: puede dar cólico",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 18577,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🔥",
+        "title": "Estómago sensible y riñón",
+        "sub": "en exceso: acidez; ojo con cálculos",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 19014,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🤰",
+        "title": "Embarazo y lactancia",
+        "sub": "como condimento OK; en dosis altas, consultá",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 24693,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "MANOS A LA OBRA",
+        "title": "Cómo tomarla"
+      }
+    },
+    {
+      "from": 27649,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "clinic",
+        "value": 1,
+        "suffix": " cdita",
+        "label": "al día, bien absorbida"
+      }
+    },
+    {
+      "from": 28335,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 30820,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 32219,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi guía de remedios naturales",
+        "items": [
+          "La receta de la leche dorada",
+          "Cantidades y combinaciones seguras",
+          "Qué usar para cada cosa"
+        ]
+      }
+    },
+    {
+      "from": 32867,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "REMEDIOS CON EVIDENCIA",
+        "title": "Dra. Elena Vidal",
+        "sub": "La cúrcuma, bien usada"
+      }
+    },
+    {
+      "from": 32963,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 2174,
+      "dur": 195,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Lo que vas a ver hoy",
+        "items": [
+          "Qué hace la cúrcuma en tu cuerpo",
+          "El secreto para que funcione",
+          "Sus riesgos y quiénes NO deberían tomarla"
+        ]
+      }
+    },
+    {
+      "from": 7098,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "clinic",
+        "title": "El secreto de la absorción",
+        "left": {
+          "label": "Cúrcuma SOLA",
+          "sub": "tu cuerpo casi no la absorbe"
+        },
+        "right": {
+          "label": "+ pimienta + grasa",
+          "sub": "absorción multiplicada = poderosa"
+        }
+      }
+    },
+    {
+      "from": 7667,
+      "dur": 225,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Para qué SÍ sirve",
+        "items": [
+          "Articulaciones: menos inflamación y dolor",
+          "Antioxidante potente",
+          "Mejora la digestión (bilis)",
+          "En estudio: ánimo y cerebro"
+        ]
+      }
+    },
+    {
+      "from": 21605,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "La cúrcuma cura el cáncer y la artritis.",
+        "truth": "Rotundamente falso. Se investiga como apoyo, pero NO cura esas enfermedades. Nunca abandones un tratamiento por esto."
+      }
+    },
+    {
+      "from": 22202,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Cuanta más cúrcuma, mejor.",
+        "truth": "Falso. En exceso irrita el estómago y trae problemas. Media a una cucharadita al día, bien absorbida, es suficiente."
+      }
+    },
+    {
+      "from": 22739,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "La cúrcuma sola, en agua, ya hace efecto.",
+        "truth": "Falso, el error más común. Sin pimienta negra y sin grasa, tu cuerpo casi no la absorbe. Tomarla sola es casi no tomar nada."
+      }
+    },
+    {
+      "from": 23339,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Como es natural, no puede tener contraindicaciones.",
+        "truth": "Falso y peligroso. Interactúa con anticoagulantes, puede molestar una vesícula con piedras, irritar el estómago. Natural no es inofensivo."
+      }
+    },
+    {
+      "from": 25022,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "La leche dorada",
+        "title": "Paso a paso",
+        "steps": [
+          {
+            "title": "Leche tibia (no hervir)",
+            "sub": "común o vegetal"
+          },
+          {
+            "title": "½ cdita de cúrcuma + PIZCA de pimienta",
+            "sub": "la pimienta activa todo"
+          },
+          {
+            "title": "Un toque de miel/canela",
+            "sub": "la leche ya aporta la grasa"
+          }
+        ]
+      }
+    },
+    {
+      "from": 29593,
+      "dur": 240,
+      "comp": "Timeline",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Qué esperar",
+        "title": "La cúrcuma, con el tiempo",
+        "steps": [
+          {
+            "when": "Primeras semanas",
+            "text": "digestión más liviana"
+          },
+          {
+            "when": "1 a 2 meses",
+            "text": "articulaciones más cómodas"
+          },
+          {
+            "when": "Con constancia",
+            "text": "menos inflamación de fondo"
+          }
+        ]
+      }
+    },
+    {
+      "from": 31604,
+      "dur": 210,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "Cuidarte no siempre está en lo más caro o lo más nuevo: muchas veces está en lo simple, lo natural y lo bien hecho."
+      }
+    }
+  ]
+}
