@@ -17,6 +17,7 @@ import colagenoCues from "./VideoEdit/data/cues_colageno-articulaciones-elena.js
 import manzanillaCues from "./VideoEdit/data/cues_manzanilla-elena.json";
 import narizCues from "./VideoEdit/data/cues_senal-nariz-elena.json";
 import curcumaCues from "./VideoEdit/data/cues_curcuma-elena.json";
+import jengibreCues from "./VideoEdit/data/cues_jengibre-elena.json";
 
 export const RemotionRoot: React.FC = () => {
   const chia = chiaCues as Cues;
@@ -32,6 +33,7 @@ export const RemotionRoot: React.FC = () => {
   const manzanilla = manzanillaCues as Cues;
   const nariz = narizCues as Cues;
   const curcuma = curcumaCues as Cues;
+  const jengibre = jengibreCues as Cues;
   return (
     <>
       <Composition
@@ -166,6 +168,15 @@ export const RemotionRoot: React.FC = () => {
         width={curcuma.width}
         height={curcuma.height}
         defaultProps={{ cues: curcuma }}
+      />
+      <Composition
+        id="JengibreElena"
+        component={VideoMain}
+        durationInFrames={jengibre.durationInFrames}
+        fps={jengibre.fps}
+        width={jengibre.width}
+        height={jengibre.height}
+        defaultProps={{ cues: jengibre }}
       />
     </>
   );

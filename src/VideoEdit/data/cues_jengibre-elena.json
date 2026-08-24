@@ -1,0 +1,572 @@
+{
+  "slug": "jengibre-elena",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 34163,
+  "broll": [
+    {
+      "from": 13,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/jengibre-elena_s_01.mp4"
+    },
+    {
+      "from": 2582,
+      "dur": 183,
+      "kind": "video",
+      "src": "broll/jengibre-elena_s_02.mp4"
+    },
+    {
+      "from": 2765,
+      "dur": 127,
+      "kind": "video",
+      "src": "broll/jengibre-elena_s_03.mp4"
+    },
+    {
+      "from": 2892,
+      "dur": 527,
+      "kind": "video",
+      "src": "broll/jengibre-elena_s_04.mp4"
+    },
+    {
+      "from": 3419,
+      "dur": 721,
+      "kind": "video",
+      "src": "broll/jengibre-elena_s_05.mp4"
+    },
+    {
+      "from": 4140,
+      "dur": 383,
+      "kind": "video",
+      "src": "broll/jengibre-elena_s_06.mp4"
+    },
+    {
+      "from": 6966,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/jengibre-elena_s_09.mp4"
+    },
+    {
+      "from": 9134,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/jengibre-elena_s_13.mp4"
+    },
+    {
+      "from": 10007,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/jengibre-elena_s_15.mp4"
+    },
+    {
+      "from": 11538,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/jengibre-elena_s_17.mp4"
+    },
+    {
+      "from": 14534,
+      "dur": 691,
+      "kind": "video",
+      "src": "broll/jengibre-elena_s_19.mp4"
+    },
+    {
+      "from": 15225,
+      "dur": 431,
+      "kind": "video",
+      "src": "broll/jengibre-elena_s_20.mp4"
+    },
+    {
+      "from": 15656,
+      "dur": 348,
+      "kind": "video",
+      "src": "broll/jengibre-elena_s_21.mp4"
+    },
+    {
+      "from": 16004,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/jengibre-elena_s_22.mp4"
+    },
+    {
+      "from": 16947,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/jengibre-elena_s_24.mp4"
+    },
+    {
+      "from": 18006,
+      "dur": 687,
+      "kind": "video",
+      "src": "broll/jengibre-elena_s_25.mp4"
+    },
+    {
+      "from": 18693,
+      "dur": 440,
+      "kind": "video",
+      "src": "broll/jengibre-elena_s_26.mp4"
+    },
+    {
+      "from": 19133,
+      "dur": 416,
+      "kind": "video",
+      "src": "broll/jengibre-elena_s_27.mp4"
+    },
+    {
+      "from": 19549,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/jengibre-elena_s_28.mp4"
+    },
+    {
+      "from": 27559,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/jengibre-elena_s_31.mp4"
+    },
+    {
+      "from": 28727,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/jengibre-elena_s_32.mp4"
+    },
+    {
+      "from": 30250,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/jengibre-elena_s_33.mp4"
+    },
+    {
+      "from": 33023,
+      "dur": 367,
+      "kind": "video",
+      "src": "broll/jengibre-elena_s_34.mp4"
+    },
+    {
+      "from": 33390,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/jengibre-elena_s_35.mp4"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1497,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "REMEDIOS CON EVIDENCIA",
+        "title": "Dra. Elena Vidal",
+        "sub": "El jengibre, bien usado"
+      }
+    },
+    {
+      "from": 2765,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "GINGEROL",
+        "sub": "el compuesto antiinflamatorio",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 3419,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "SHOGAOL",
+        "sub": "aún más potente (seco o cocido)",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 3889,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "EL ERROR",
+        "title": "Por qué no sentís nada"
+      }
+    },
+    {
+      "from": 4420,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 5441,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 7581,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 7726,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 2",
+        "title": "Antiinflamatorio",
+        "sub": "efecto modesto y sostenido"
+      }
+    },
+    {
+      "from": 9069,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 3",
+        "title": "Mejor digestión",
+        "sub": "menos pesadez después de comer"
+      }
+    },
+    {
+      "from": 9859,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 4",
+        "title": "Dolor menstrual",
+        "sub": "tomándolo en los primeros días"
+      }
+    },
+    {
+      "from": 11582,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "CASO REAL",
+        "title": "Raquel, 58 años",
+        "sub": "lo tomaba mal y no sentía nada"
+      }
+    },
+    {
+      "from": 13305,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 13859,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "MANOS A LA OBRA",
+        "title": "La infusión bien hecha"
+      }
+    },
+    {
+      "from": 15225,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "TAPADO 10-15 MIN",
+        "sub": "atrapa los aceites volátiles",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 16471,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "clinic",
+        "value": 2,
+        "suffix": " tazas",
+        "label": "al día es suficiente"
+      }
+    },
+    {
+      "from": 17154,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "NO TE LO SALTEES",
+        "title": "Las advertencias"
+      }
+    },
+    {
+      "from": 17988,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "💊",
+        "title": "Anticoagulantes y cirugía",
+        "sub": "puede aumentar el sangrado — consultá",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 18671,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Piedras en la vesícula",
+        "sub": "estimula la bilis: puede dar problema",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 19078,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🔥",
+        "title": "Estómago sensible",
+        "sub": "úlceras o reflujo: puede irritar",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 19904,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🤰",
+        "title": "Embarazo",
+        "sub": "culinario suele ser OK; dosis altas, consultá",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 24728,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 26518,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 27155,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "PARA QUE DURE",
+        "title": "Elegir y conservar"
+      }
+    },
+    {
+      "from": 28640,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "❄️",
+        "title": "Congelalo",
+        "sub": "rallás directo del freezer, nunca se pierde",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 31758,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi guía de remedios naturales",
+        "items": [
+          "Cantidades y recetas paso a paso",
+          "Combinaciones que funcionan",
+          "Qué usar para cada cosa"
+        ]
+      }
+    },
+    {
+      "from": 34049,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 1278,
+      "dur": 195,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Lo que vas a ver hoy",
+        "items": [
+          "Para qué SÍ sirve el jengibre",
+          "La forma correcta de tomarlo",
+          "Quiénes NO deberían tomarlo"
+        ]
+      }
+    },
+    {
+      "from": 4523,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "clinic",
+        "title": "El error que casi nadie corrige",
+        "left": {
+          "label": "Rodajita simbólica",
+          "sub": "agua apenas teñida = casi nada"
+        },
+        "right": {
+          "label": "Cantidad real + tapado",
+          "sub": "así sí hace efecto de verdad"
+        }
+      }
+    },
+    {
+      "from": 6475,
+      "dur": 225,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Para qué SÍ sirve",
+        "items": [
+          "Náuseas y mareos (lo más probado)",
+          "Antiinflamatorio (efecto modesto)",
+          "Mejora la digestión",
+          "Dolor menstrual"
+        ]
+      }
+    },
+    {
+      "from": 14252,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "La infusión bien hecha",
+        "title": "Paso a paso",
+        "steps": [
+          {
+            "title": "Un trozo tamaño pulgar",
+            "sub": "3-4 cm, no una rodajita"
+          },
+          {
+            "title": "Rallalo (más superficie)",
+            "sub": "libera más compuestos"
+          },
+          {
+            "title": "Casi hirviendo, apagá y TAPÁ 10-15 min",
+            "sub": "el tapado atrapa los aceites"
+          }
+        ]
+      }
+    },
+    {
+      "from": 21993,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "El jengibre quema grasa y adelgaza.",
+        "truth": "Muy exagerado. Da algo de saciedad y un efecto mínimo. Adelgazar es alimentación, movimiento y descanso: el jengibre es un ayudante menor."
+      }
+    },
+    {
+      "from": 23030,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Si es bueno, cuanto más jengibre, mejor.",
+        "truth": "Falso. En exceso da acidez, molestias y más riesgo de sangrado. Con una o dos tazas al día alcanza. La dosis hace al remedio y al veneno."
+      }
+    },
+    {
+      "from": 23696,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "El jengibre solo, en agua, ya cura.",
+        "truth": "Falso. Es un complemento, no un tratamiento. No reemplaza a tu médico ni a tu medicación, y no cura enfermedades serias."
+      }
+    },
+    {
+      "from": 24368,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Como es natural, no puede hacer mal ni interactuar.",
+        "truth": "Falso. Interactúa con anticoagulantes y con medicación de diabetes y presión. Natural no es sinónimo de inofensivo."
+      }
+    },
+    {
+      "from": 25273,
+      "dur": 240,
+      "comp": "Timeline",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Qué esperar",
+        "title": "El jengibre, con el tiempo",
+        "steps": [
+          {
+            "when": "Náuseas y mareo",
+            "text": "efecto rápido, ese mismo día"
+          },
+          {
+            "when": "Digestión",
+            "text": "alivio en los primeros días"
+          },
+          {
+            "when": "Articulaciones",
+            "text": "semanas, y efecto modesto"
+          }
+        ]
+      }
+    },
+    {
+      "from": 32806,
+      "dur": 210,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "El jengibre no es una pastilla milagrosa, es un pequeño aliado de todos los días. Y lo que te hace bien de verdad, lo sostenés en el tiempo."
+      }
+    }
+  ]
+}
