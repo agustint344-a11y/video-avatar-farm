@@ -19,6 +19,7 @@ import narizCues from "./VideoEdit/data/cues_senal-nariz-elena.json";
 import curcumaCues from "./VideoEdit/data/cues_curcuma-elena.json";
 import ajoCues from "./VideoEdit/data/cues_ajo-elena.json";
 import jengibreCues from "./VideoEdit/data/cues_jengibre-elena.json";
+import romeroDolorCues from "./VideoEdit/data/cues_romero-dolor.json";
 
 export const RemotionRoot: React.FC = () => {
   const chia = chiaCues as Cues;
@@ -36,6 +37,7 @@ export const RemotionRoot: React.FC = () => {
   const curcuma = curcumaCues as Cues;
   const ajo = ajoCues as Cues;
   const jengibre = jengibreCues as Cues;
+  const romeroDolor = romeroDolorCues as Cues;
   return (
     <>
       <Composition
@@ -98,6 +100,15 @@ export const RemotionRoot: React.FC = () => {
         width={moringa.width}
         height={moringa.height}
         defaultProps={{ cues: moringa }}
+      />
+      <Composition
+        id="RomeroDolor"
+        component={VideoMain}
+        durationInFrames={romeroDolor.durationInFrames}
+        fps={romeroDolor.fps}
+        width={romeroDolor.width}
+        height={romeroDolor.height}
+        defaultProps={{ cues: romeroDolor }}
       />
       <Composition
         id="RomeroNoche"
