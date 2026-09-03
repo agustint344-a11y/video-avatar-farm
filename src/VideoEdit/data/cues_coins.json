@@ -1,0 +1,914 @@
+{
+  "slug": "coins",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 32958,
+  "broll": [
+    {
+      "from": 531,
+      "dur": 61,
+      "kind": "image",
+      "src": "img/coins_s_002.jpg"
+    },
+    {
+      "from": 788,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_003.jpg"
+    },
+    {
+      "from": 1297,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_005.jpg"
+    },
+    {
+      "from": 1802,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_007.jpg"
+    },
+    {
+      "from": 2311,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_009.jpg"
+    },
+    {
+      "from": 2565,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_010.jpg"
+    },
+    {
+      "from": 4101,
+      "dur": 270,
+      "kind": "video",
+      "src": "broll/coins_s_016.mp4"
+    },
+    {
+      "from": 4373,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_017.jpg"
+    },
+    {
+      "from": 4606,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_018.jpg"
+    },
+    {
+      "from": 4863,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_019.jpg"
+    },
+    {
+      "from": 5374,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_021.jpg"
+    },
+    {
+      "from": 5637,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_022.jpg"
+    },
+    {
+      "from": 5880,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/coins_s_023.jpg"
+    },
+    {
+      "from": 6407,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_025.jpg"
+    },
+    {
+      "from": 6648,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_026.jpg"
+    },
+    {
+      "from": 6905,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_027.jpg"
+    },
+    {
+      "from": 7415,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_029.jpg"
+    },
+    {
+      "from": 7928,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_031.jpg"
+    },
+    {
+      "from": 8953,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_035.jpg"
+    },
+    {
+      "from": 9450,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_037.jpg"
+    },
+    {
+      "from": 9707,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_038.jpg"
+    },
+    {
+      "from": 9986,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_039.jpg"
+    },
+    {
+      "from": 10488,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_041.jpg"
+    },
+    {
+      "from": 10742,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_042.jpg"
+    },
+    {
+      "from": 10987,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_043.jpg"
+    },
+    {
+      "from": 11498,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_045.jpg"
+    },
+    {
+      "from": 12004,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_047.jpg"
+    },
+    {
+      "from": 12765,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_050.jpg"
+    },
+    {
+      "from": 13026,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_051.jpg"
+    },
+    {
+      "from": 13538,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_053.jpg"
+    },
+    {
+      "from": 13788,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_054.jpg"
+    },
+    {
+      "from": 14045,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_055.jpg"
+    },
+    {
+      "from": 14300,
+      "dur": 257,
+      "kind": "video",
+      "src": "broll/coins_s_056.mp4"
+    },
+    {
+      "from": 14557,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_057.jpg"
+    },
+    {
+      "from": 14815,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_058.jpg"
+    },
+    {
+      "from": 15579,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_061.jpg"
+    },
+    {
+      "from": 15841,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_062.jpg"
+    },
+    {
+      "from": 16596,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_065.jpg"
+    },
+    {
+      "from": 16848,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_066.jpg"
+    },
+    {
+      "from": 17124,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_067.jpg"
+    },
+    {
+      "from": 17615,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_069.jpg"
+    },
+    {
+      "from": 17885,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_070.jpg"
+    },
+    {
+      "from": 18377,
+      "dur": 260,
+      "kind": "video",
+      "src": "broll/coins_s_072.mp4"
+    },
+    {
+      "from": 18637,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_073.jpg"
+    },
+    {
+      "from": 18890,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_074.jpg"
+    },
+    {
+      "from": 19142,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_075.jpg"
+    },
+    {
+      "from": 19913,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_078.jpg"
+    },
+    {
+      "from": 20161,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_079.jpg"
+    },
+    {
+      "from": 20673,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_081.jpg"
+    },
+    {
+      "from": 20929,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_082.jpg"
+    },
+    {
+      "from": 21694,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_085.jpg"
+    },
+    {
+      "from": 22458,
+      "dur": 260,
+      "kind": "video",
+      "src": "broll/coins_s_088.mp4"
+    },
+    {
+      "from": 22718,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_089.jpg"
+    },
+    {
+      "from": 22972,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_090.jpg"
+    },
+    {
+      "from": 23225,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_091.jpg"
+    },
+    {
+      "from": 23733,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_093.jpg"
+    },
+    {
+      "from": 24248,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_095.jpg"
+    },
+    {
+      "from": 24495,
+      "dur": 267,
+      "kind": "video",
+      "src": "broll/coins_s_096.mp4"
+    },
+    {
+      "from": 24762,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_097.jpg"
+    },
+    {
+      "from": 25015,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_098.jpg"
+    },
+    {
+      "from": 25276,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_099.jpg"
+    },
+    {
+      "from": 25777,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_101.jpg"
+    },
+    {
+      "from": 26031,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_102.jpg"
+    },
+    {
+      "from": 26282,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_103.jpg"
+    },
+    {
+      "from": 26792,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_105.jpg"
+    },
+    {
+      "from": 27063,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_106.jpg"
+    },
+    {
+      "from": 27302,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_107.jpg"
+    },
+    {
+      "from": 27812,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_109.jpg"
+    },
+    {
+      "from": 28325,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_111.jpg"
+    },
+    {
+      "from": 28838,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/coins_s_113.jpg"
+    },
+    {
+      "from": 29345,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_115.jpg"
+    },
+    {
+      "from": 29852,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_117.jpg"
+    },
+    {
+      "from": 30361,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_119.jpg"
+    },
+    {
+      "from": 30876,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_121.jpg"
+    },
+    {
+      "from": 31385,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_123.jpg"
+    },
+    {
+      "from": 32410,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/coins_s_127.jpg"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1473,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 1737,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "ATTIC FORTUNE",
+        "title": "Walt Hargrove",
+        "sub": "40+ years of coins, barns & estate sales"
+      }
+    },
+    {
+      "from": 4091,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#10",
+        "title": "The Wheat Penny"
+      }
+    },
+    {
+      "from": 4863,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "prefix": "$",
+        "value": 700,
+        "suffix": "+",
+        "label": "1909-S VDB penny",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 7439,
+      "dur": 195,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "FREE GUIDE",
+        "title": "The Attic Fortune Handbook",
+        "items": [
+          "Key dates, mint marks & error coins",
+          "Real value ranges for 60+ items",
+          "Coins, bills, tools, cast iron & more"
+        ]
+      }
+    },
+    {
+      "from": 7439,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 7868,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#9",
+        "title": "The Buffalo Nickel"
+      }
+    },
+    {
+      "from": 7868,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 9535,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#8",
+        "title": "The Silver Dime"
+      }
+    },
+    {
+      "from": 9888,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "prefix": "$",
+        "value": 1000,
+        "suffix": "+",
+        "label": "1916-D Mercury dime",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 11238,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#7",
+        "title": "The 90% Silver Pile"
+      }
+    },
+    {
+      "from": 14576,
+      "dur": 96,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "WAR NICKEL",
+        "sub": "1942–45 = 35% silver",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 15177,
+      "dur": 195,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "GRAB IT FIRST",
+        "title": "The Attic Fortune Handbook",
+        "items": [
+          "Know what it's worth before you sell",
+          "Real sold-price ranges",
+          "Plain English, no coin-dealer jargon"
+        ]
+      }
+    },
+    {
+      "from": 15177,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 16755,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#6",
+        "title": "The Silver Dollar"
+      }
+    },
+    {
+      "from": 18344,
+      "dur": 96,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "THE MINT MARK",
+        "sub": "one tiny letter = real money",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 18545,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#5",
+        "title": "The Gold Coin"
+      }
+    },
+    {
+      "from": 18545,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 19473,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "prefix": "$",
+        "value": 1800,
+        "suffix": "+",
+        "label": "pre-1933 gold, just as metal",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 19913,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "label": "Caution",
+        "icon": "🚫",
+        "title": "Never spend an old gold coin",
+        "sub": "small, heavy & yellow = find out first",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 21300,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#4",
+        "title": "Odd Old Copper"
+      }
+    },
+    {
+      "from": 23090,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#3",
+        "title": "The Error Coin"
+      }
+    },
+    {
+      "from": 23586,
+      "dur": 102,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "DOUBLED DIE",
+        "sub": "the letters look printed twice",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 24917,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#2",
+        "title": "Old Paper Money"
+      }
+    },
+    {
+      "from": 27632,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#1",
+        "title": "The Whole Jar"
+      }
+    },
+    {
+      "from": 30168,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "label": "Caution",
+        "icon": "🧽",
+        "title": "Never clean a coin",
+        "sub": "a cleaned coin can lose half its value",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 30645,
+      "dur": 195,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "EVERYTHING INSIDE",
+        "title": "The Attic Fortune Handbook",
+        "items": [
+          "Every key date & mint mark",
+          "Coins, bills, tools & cast iron",
+          "Link pinned in the comments"
+        ]
+      }
+    },
+    {
+      "from": 30645,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 32136,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 592,
+      "dur": 150,
+      "comp": "BigStat",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ONE OLD COIN",
+        "prefix": "$",
+        "value": 4000,
+        "suffix": "?",
+        "support": "what a single old coin can sell for"
+      }
+    },
+    {
+      "from": 3580,
+      "dur": 180,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Common vs. key date",
+        "left": {
+          "label": "COMMON",
+          "sub": "a few cents over face value"
+        },
+        "right": {
+          "label": "KEY DATE",
+          "sub": "hundreds into the thousands"
+        }
+      }
+    },
+    {
+      "from": 3800,
+      "dur": 180,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Why coins pay",
+        "items": [
+          "Old — it doesn't rust or rot, it just waits",
+          "Scarce — key dates & low mintages",
+          "Right condition — and never cleaned"
+        ]
+      }
+    },
+    {
+      "from": 6026,
+      "dur": 180,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Spotting a valuable coin",
+        "items": [
+          "Read the date → hunt the key years",
+          "Find the mint mark (D, S, CC…)",
+          "Grade the condition — don't clean it!"
+        ],
+        "stamp": "#10"
+      }
+    },
+    {
+      "from": 11759,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "mythLabel": "Myth",
+        "truthLabel": "Truth",
+        "myth": "It's just a jar of old change, worth face value.",
+        "truth": "Every dime, quarter & half from 1964 or older is 90% real silver — worth many times its face, and climbing. Most folks never check."
+      }
+    },
+    {
+      "from": 18091,
+      "dur": 150,
+      "comp": "BigStat",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "KEY-DATE SILVER DOLLAR",
+        "prefix": "$",
+        "value": 4000,
+        "suffix": "+",
+        "support": "the right date & mint mark"
+      }
+    },
+    {
+      "from": 28927,
+      "dur": 180,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "earth",
+        "quote": "The difference between dumping a fortune into a coin machine and cashing it in isn't luck. It's knowing.",
+        "author": "Walt Hargrove"
+      }
+    },
+    {
+      "from": 29008,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "The tells — quick recap",
+        "items": [
+          "Read the date; hunt the key years",
+          "Find the mint mark — D, S, CC",
+          "1964 & older = real silver",
+          "Look close for doubling & errors",
+          "Never clean it; check its worth first"
+        ]
+      }
+    }
+  ]
+}
