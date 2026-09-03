@@ -1,0 +1,528 @@
+{
+  "slug": "ajo-elena",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 33219,
+  "broll": [
+    {
+      "from": 35,
+      "dur": 172,
+      "kind": "video",
+      "src": "broll/ajo-elena_s_01.mp4"
+    },
+    {
+      "from": 207,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/ajo-elena_s_02.mp4"
+    },
+    {
+      "from": 3471,
+      "dur": 149,
+      "kind": "video",
+      "src": "broll/ajo-elena_s_04.mp4"
+    },
+    {
+      "from": 3620,
+      "dur": 315,
+      "kind": "video",
+      "src": "broll/ajo-elena_s_05.mp4"
+    },
+    {
+      "from": 3935,
+      "dur": 566,
+      "kind": "video",
+      "src": "broll/ajo-elena_s_06.mp4"
+    },
+    {
+      "from": 4501,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/ajo-elena_s_07.mp4"
+    },
+    {
+      "from": 6410,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/ajo-elena_s_08.mp4"
+    },
+    {
+      "from": 7340,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/ajo-elena_s_09.mp4"
+    },
+    {
+      "from": 8939,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/ajo-elena_s_12.mp4"
+    },
+    {
+      "from": 11696,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/ajo-elena_s_13.mp4"
+    },
+    {
+      "from": 12841,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/ajo-elena_s_15.mp4"
+    },
+    {
+      "from": 15315,
+      "dur": 499,
+      "kind": "video",
+      "src": "broll/ajo-elena_s_20.mp4"
+    },
+    {
+      "from": 15814,
+      "dur": 444,
+      "kind": "video",
+      "src": "broll/ajo-elena_s_22.mp4"
+    },
+    {
+      "from": 16258,
+      "dur": 468,
+      "kind": "video",
+      "src": "broll/ajo-elena_s_23.mp4"
+    },
+    {
+      "from": 16726,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/ajo-elena_s_24.mp4"
+    },
+    {
+      "from": 18689,
+      "dur": 593,
+      "kind": "video",
+      "src": "broll/ajo-elena_s_26.mp4"
+    },
+    {
+      "from": 19282,
+      "dur": 594,
+      "kind": "video",
+      "src": "broll/ajo-elena_s_27.mp4"
+    },
+    {
+      "from": 19876,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/ajo-elena_s_28.mp4"
+    },
+    {
+      "from": 26461,
+      "dur": 312,
+      "kind": "video",
+      "src": "broll/ajo-elena_s_32.mp4"
+    },
+    {
+      "from": 26773,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/ajo-elena_s_33.mp4"
+    },
+    {
+      "from": 27538,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/ajo-elena_s_34.mp4"
+    },
+    {
+      "from": 32473,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/ajo-elena_s_37.mp4"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1649,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "REMEDIOS CON EVIDENCIA",
+        "title": "Dra. Elena Vidal",
+        "sub": "El ajo, bien usado"
+      }
+    },
+    {
+      "from": 2671,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "EL SECRETO",
+        "title": "La alicina"
+      }
+    },
+    {
+      "from": 3800,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 3935,
+      "dur": 135,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "Tragarte un diente entero es como comprar un fósforo y nunca rasparlo: tenés el potencial en la mano, pero no lo encendés."
+      }
+    },
+    {
+      "from": 5410,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 6410,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 1",
+        "title": "Presión arterial",
+        "sub": "ayuda a bajarla un poco"
+      }
+    },
+    {
+      "from": 7340,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 2",
+        "title": "Colesterol",
+        "sub": "reduce modestamente el LDL"
+      }
+    },
+    {
+      "from": 7990,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 3",
+        "title": "Defensas",
+        "sub": "apoyo en meses de frío"
+      }
+    },
+    {
+      "from": 11696,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "CASO REAL",
+        "title": "Don Alberto, 62 años",
+        "sub": "lo comía mal y no veía nada"
+      }
+    },
+    {
+      "from": 13254,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 14560,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "clinic",
+        "value": 10,
+        "suffix": " min",
+        "label": "de reposo activan la alicina"
+      }
+    },
+    {
+      "from": 15814,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "AL FINAL DE LA COCCIÓN",
+        "sub": "el calor destruye la alicina",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 15859,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 17029,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "NO TE LO SALTEES",
+        "title": "Las advertencias"
+      }
+    },
+    {
+      "from": 17721,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "💊",
+        "title": "Anticoagulantes / antiagregantes",
+        "sub": "puede aumentar el sangrado — consultá",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 18689,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Antes de una cirugía",
+        "sub": "suspender días antes — avisá al cirujano",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 19282,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🔥",
+        "title": "Estómago sensible",
+        "sub": "crudo en ayunas irrita — con comida",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 19876,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🩺",
+        "title": "Medicación para la presión",
+        "sub": "puede potenciarla — controlá con tu médico",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 25489,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 26364,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "MANOS A LA OBRA",
+        "title": "Cómo elegirlo y guardarlo"
+      }
+    },
+    {
+      "from": 28583,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "ALTERNATIVA",
+        "title": "Ajo negro",
+        "sub": "fermentado, más suave y tolerable"
+      }
+    },
+    {
+      "from": 31722,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi guía de remedios naturales",
+        "items": [
+          "Cómo activar la alicina",
+          "Cantidades y combinaciones seguras",
+          "Qué usar para cada cosa"
+        ]
+      }
+    },
+    {
+      "from": 33104,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 1274,
+      "dur": 195,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Lo que vas a ver hoy",
+        "items": [
+          "Para qué sirve el ajo de verdad",
+          "El error que anula sus beneficios",
+          "Quiénes deben tener cuidado"
+        ]
+      }
+    },
+    {
+      "from": 3007,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "clinic",
+        "title": "El secreto de la alicina",
+        "left": {
+          "label": "Ajo ENTERO",
+          "sub": "casi no genera alicina"
+        },
+        "right": {
+          "label": "Picado + 10 min de reposo",
+          "sub": "alicina activada = poderosa"
+        }
+      }
+    },
+    {
+      "from": 6013,
+      "dur": 225,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Para qué SÍ sirve",
+        "items": [
+          "Ayuda a bajar la presión (un poco)",
+          "Reduce el colesterol malo",
+          "Apoya las defensas",
+          "Salud cardiovascular"
+        ]
+      }
+    },
+    {
+      "from": 13986,
+      "dur": 255,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Cómo activar la alicina",
+        "title": "Paso a paso",
+        "steps": [
+          {
+            "title": "Picá o aplastá 1-2 dientes",
+            "sub": "cuanto más roto, más alicina"
+          },
+          {
+            "title": "Dejá reposar 10 minutos",
+            "sub": "el paso que casi nadie respeta"
+          },
+          {
+            "title": "Crudo o al FINAL de la cocción",
+            "sub": "el calor destruye la alicina"
+          }
+        ]
+      }
+    },
+    {
+      "from": 21624,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "El ajo cura el cáncer, la hipertensión o infecciones graves.",
+        "truth": "Rotundamente falso. Puede acompañar, pero NO cura enfermedades serias. Nunca abandones un tratamiento por esto."
+      }
+    },
+    {
+      "from": 22439,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Cuanto más ajo, mejor.",
+        "truth": "Falso. En exceso irrita el estómago y aumenta el riesgo de sangrado. Uno o dos dientes al día alcanza y sobra."
+      }
+    },
+    {
+      "from": 23154,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "El ajo en ayunas quema grasa y adelgaza.",
+        "truth": "Falso. No hay evidencia sólida. Adelgazar es alimentación, movimiento y descanso. El ajo no es un quemagrasas."
+      }
+    },
+    {
+      "from": 23813,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Como es natural, no puede hacer mal ni interactuar con nada.",
+        "truth": "Falso y peligroso. Interactúa con anticoagulantes y con la medicación de la presión, y puede irritar el estómago. Natural no es inofensivo."
+      }
+    },
+    {
+      "from": 29417,
+      "dur": 240,
+      "comp": "Timeline",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Qué esperar",
+        "title": "El ajo, con el tiempo",
+        "steps": [
+          {
+            "when": "Primeras semanas",
+            "text": "es un hábito, no efecto inmediato"
+          },
+          {
+            "when": "Semanas a meses",
+            "text": "presión y colesterol, efecto modesto"
+          },
+          {
+            "when": "Con constancia",
+            "text": "un aliado del corazón, en silencio"
+          }
+        ]
+      }
+    },
+    {
+      "from": 31928,
+      "dur": 210,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "El ajo no es una pastilla milagrosa: es un pequeño aliado de todos los días que cuida tu corazón sin que casi te des cuenta."
+      }
+    }
+  ]
+}
