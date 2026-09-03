@@ -1,0 +1,1007 @@
+{
+  "slug": "bottles",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 33043,
+  "broll": [
+    {
+      "from": 272,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_001.png"
+    },
+    {
+      "from": 568,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_002.png"
+    },
+    {
+      "from": 1435,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_005.png"
+    },
+    {
+      "from": 1698,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_006.png"
+    },
+    {
+      "from": 2272,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_008.png"
+    },
+    {
+      "from": 2550,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_009.png"
+    },
+    {
+      "from": 2860,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/bottles_s_010.png"
+    },
+    {
+      "from": 3051,
+      "dur": 71,
+      "kind": "image",
+      "src": "img/bottles_s_018.png"
+    },
+    {
+      "from": 3122,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_011.png"
+    },
+    {
+      "from": 3690,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_013.png"
+    },
+    {
+      "from": 4832,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_017.png"
+    },
+    {
+      "from": 5405,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_019.png"
+    },
+    {
+      "from": 5693,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_020.png"
+    },
+    {
+      "from": 5972,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_021.png"
+    },
+    {
+      "from": 6262,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_022.png"
+    },
+    {
+      "from": 6543,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_023.png"
+    },
+    {
+      "from": 6846,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_024.png"
+    },
+    {
+      "from": 7111,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_025.png"
+    },
+    {
+      "from": 7332,
+      "dur": 64,
+      "kind": "image",
+      "src": "img/bottles_s_046.png"
+    },
+    {
+      "from": 7396,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/bottles_s_026.png"
+    },
+    {
+      "from": 7976,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_028.png"
+    },
+    {
+      "from": 8251,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_029.png"
+    },
+    {
+      "from": 8542,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_030.png"
+    },
+    {
+      "from": 8834,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_031.png"
+    },
+    {
+      "from": 9411,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_033.png"
+    },
+    {
+      "from": 9961,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_035.png"
+    },
+    {
+      "from": 10247,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/bottles_s_036.png"
+    },
+    {
+      "from": 10533,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_037.png"
+    },
+    {
+      "from": 11106,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_039.png"
+    },
+    {
+      "from": 11399,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_040.png"
+    },
+    {
+      "from": 11968,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_042.png"
+    },
+    {
+      "from": 12255,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_043.png"
+    },
+    {
+      "from": 12535,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_044.png"
+    },
+    {
+      "from": 12823,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_045.png"
+    },
+    {
+      "from": 13667,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_048.png"
+    },
+    {
+      "from": 13953,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_049.png"
+    },
+    {
+      "from": 14251,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_050.png"
+    },
+    {
+      "from": 14525,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_051.png"
+    },
+    {
+      "from": 14807,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_052.png"
+    },
+    {
+      "from": 15101,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_053.png"
+    },
+    {
+      "from": 15301,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_110.png"
+    },
+    {
+      "from": 15975,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_056.png"
+    },
+    {
+      "from": 16235,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_057.png"
+    },
+    {
+      "from": 16533,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_058.png"
+    },
+    {
+      "from": 16800,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_059.png"
+    },
+    {
+      "from": 17088,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_060.png"
+    },
+    {
+      "from": 17383,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_061.png"
+    },
+    {
+      "from": 17662,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_062.png"
+    },
+    {
+      "from": 17945,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_063.png"
+    },
+    {
+      "from": 18227,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_064.png"
+    },
+    {
+      "from": 18517,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_065.png"
+    },
+    {
+      "from": 18823,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_066.png"
+    },
+    {
+      "from": 19368,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_068.png"
+    },
+    {
+      "from": 19967,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_070.png"
+    },
+    {
+      "from": 20220,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_071.png"
+    },
+    {
+      "from": 20795,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_073.png"
+    },
+    {
+      "from": 21079,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_074.png"
+    },
+    {
+      "from": 21646,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_076.png"
+    },
+    {
+      "from": 21947,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_077.png"
+    },
+    {
+      "from": 22220,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_078.png"
+    },
+    {
+      "from": 22806,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_080.png"
+    },
+    {
+      "from": 23078,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_081.png"
+    },
+    {
+      "from": 23359,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_082.png"
+    },
+    {
+      "from": 23641,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_083.png"
+    },
+    {
+      "from": 23927,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_084.png"
+    },
+    {
+      "from": 24783,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_087.png"
+    },
+    {
+      "from": 25077,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_088.png"
+    },
+    {
+      "from": 25355,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_089.png"
+    },
+    {
+      "from": 25642,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_090.png"
+    },
+    {
+      "from": 25934,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_091.png"
+    },
+    {
+      "from": 26208,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_092.png"
+    },
+    {
+      "from": 26496,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_093.png"
+    },
+    {
+      "from": 26786,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_094.png"
+    },
+    {
+      "from": 27071,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_095.png"
+    },
+    {
+      "from": 27353,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_096.png"
+    },
+    {
+      "from": 27632,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_097.png"
+    },
+    {
+      "from": 27922,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_098.png"
+    },
+    {
+      "from": 28203,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_099.png"
+    },
+    {
+      "from": 28490,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_100.png"
+    },
+    {
+      "from": 28776,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_101.png"
+    },
+    {
+      "from": 29057,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/bottles_s_102.png"
+    },
+    {
+      "from": 29627,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_104.png"
+    },
+    {
+      "from": 29913,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_105.png"
+    },
+    {
+      "from": 30203,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_106.png"
+    },
+    {
+      "from": 30496,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_107.png"
+    },
+    {
+      "from": 30768,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_108.png"
+    },
+    {
+      "from": 31054,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_109.png"
+    },
+    {
+      "from": 31437,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/bottles_s_054.png"
+    },
+    {
+      "from": 31624,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_111.png"
+    },
+    {
+      "from": 32194,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_113.png"
+    },
+    {
+      "from": 32491,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_114.png"
+    },
+    {
+      "from": 32762,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/bottles_s_115.png"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1724,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 1997,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "ATTIC FORTUNE",
+        "title": "Walt Hargrove",
+        "sub": "40+ years of cellars, dumps & barn finds"
+      }
+    },
+    {
+      "from": 4900,
+      "dur": 96,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "PONTIL MARK",
+        "sub": "hand-blown before ~1860",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 6052,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#10",
+        "title": "The Medicine Bottle"
+      }
+    },
+    {
+      "from": 7525,
+      "dur": 96,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "READ THE GLASS",
+        "sub": "name, town & 'Cure' = money",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 9030,
+      "dur": 195,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "FREE GUIDE",
+        "title": "The Attic Fortune Handbook",
+        "items": [
+          "Colors, makers, embossing & tops",
+          "Real value ranges for 60+ items",
+          "Bottles, jars, coins, tools & more"
+        ]
+      }
+    },
+    {
+      "from": 9030,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 9517,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#9",
+        "title": "The Bitters Bottle"
+      }
+    },
+    {
+      "from": 9517,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 11113,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "prefix": "$",
+        "value": 5000,
+        "suffix": "+",
+        "label": "figural bitters bottles",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 11892,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#8",
+        "title": "The Soda Bottle"
+      }
+    },
+    {
+      "from": 14303,
+      "dur": 195,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "GRAB IT FIRST",
+        "title": "The Attic Fortune Handbook",
+        "items": [
+          "Know what it's worth before you sell",
+          "Real sold-price ranges",
+          "Plain English, no collector jargon"
+        ]
+      }
+    },
+    {
+      "from": 14303,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 15763,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#7",
+        "title": "The Historical Flask"
+      }
+    },
+    {
+      "from": 16904,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "prefix": "$",
+        "value": 2000,
+        "suffix": "+",
+        "label": "early historical flasks",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 17339,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#6",
+        "title": "The Poison Bottle"
+      }
+    },
+    {
+      "from": 17339,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 19628,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#5",
+        "title": "The Ink Bottle"
+      }
+    },
+    {
+      "from": 21355,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#4",
+        "title": "The Fruit Jar"
+      }
+    },
+    {
+      "from": 23426,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "prefix": "$",
+        "value": 1000,
+        "suffix": "+",
+        "label": "rare colored fruit jars",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 24030,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#3",
+        "title": "The Barber Bottle"
+      }
+    },
+    {
+      "from": 25594,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#2",
+        "title": "The Milk Bottle"
+      }
+    },
+    {
+      "from": 27877,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#1",
+        "title": "The Whole Cellar"
+      }
+    },
+    {
+      "from": 30178,
+      "dur": 102,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CHECK FOR DAMAGE",
+        "sub": "a chip kills the value",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 30270,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "label": "Caution",
+        "icon": "⚠️",
+        "title": "Damage is everything",
+        "sub": "a chip or crack can wipe 90% of the value",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 30460,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "label": "Caution",
+        "icon": "🧽",
+        "title": "Don't scrub it — and don't toss it",
+        "sub": "dirt washes off gentle; check its worth first",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 30850,
+      "dur": 195,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "EVERYTHING INSIDE",
+        "title": "The Attic Fortune Handbook",
+        "items": [
+          "Every color, maker & mark",
+          "Bottles, jars, coins & tools",
+          "Link pinned in the comments"
+        ]
+      }
+    },
+    {
+      "from": 30850,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 32258,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 845,
+      "dur": 150,
+      "comp": "BigStat",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ONE OLD BOTTLE",
+        "prefix": "$",
+        "value": 4000,
+        "suffix": "?",
+        "support": "what a single old bottle can sell for"
+      }
+    },
+    {
+      "from": 4001,
+      "dur": 180,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Why old bottles pay",
+        "items": [
+          "Hand-made — blown one at a time",
+          "Colorful — cobalt, amber, teal, puce",
+          "Hard to find — glass breaks over 100 years"
+        ]
+      }
+    },
+    {
+      "from": 4231,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "mythLabel": "Myth",
+        "truthLabel": "Truth",
+        "myth": "A dirty old bottle with no cap is worthless junk.",
+        "truth": "One embossed or colored bottle from that box can sell to a collector for over $4,000. Dirt washes off — it's chips & cracks that kill the value."
+      }
+    },
+    {
+      "from": 4560,
+      "dur": 180,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "How to date a bottle",
+        "items": [
+          "Pontil — a rough scar on the base = pre-1860",
+          "Whittle — a wavy, bumpy surface = early",
+          "Color & embossing = the money"
+        ]
+      }
+    },
+    {
+      "from": 7588,
+      "dur": 180,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Spotting a valuable bottle",
+        "items": [
+          "Hold it to the light — read the color",
+          "Feel the base for a pontil scar",
+          "Read the embossing: name, town, 'Cure'"
+        ],
+        "stamp": "#10"
+      }
+    },
+    {
+      "from": 10316,
+      "dur": 150,
+      "comp": "BigStat",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RARE FIGURAL BITTERS",
+        "prefix": "$",
+        "value": 10000,
+        "suffix": "+",
+        "support": "a cabin or barrel in the right color"
+      }
+    },
+    {
+      "from": 29164,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "The tells — quick recap",
+        "items": [
+          "Color: cobalt, amber, teal & puce win",
+          "Feel the base for a pontil scar",
+          "Read the embossing — name & town",
+          "Shape: figural bottles are prizes",
+          "Check the lip & base for damage"
+        ]
+      }
+    },
+    {
+      "from": 31932,
+      "dur": 180,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "earth",
+        "quote": "The difference between hauling a fortune to the dump and cashing it in isn't luck. It's knowing.",
+        "author": "Walt Hargrove"
+      }
+    }
+  ]
+}
