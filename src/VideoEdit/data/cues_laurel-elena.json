@@ -1,0 +1,487 @@
+{
+  "slug": "laurel-elena",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 31315,
+  "broll": [
+    {
+      "from": 9,
+      "dur": 402,
+      "kind": "video",
+      "src": "broll/laurel-elena_s_01.mp4"
+    },
+    {
+      "from": 2750,
+      "dur": 141,
+      "kind": "video",
+      "src": "broll/laurel-elena_s_02.mp4"
+    },
+    {
+      "from": 2891,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/laurel-elena_s_03.mp4"
+    },
+    {
+      "from": 4259,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/laurel-elena_s_05.mp4"
+    },
+    {
+      "from": 6731,
+      "dur": 634,
+      "kind": "video",
+      "src": "broll/laurel-elena_s_07.mp4"
+    },
+    {
+      "from": 7365,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/laurel-elena_s_08.mp4"
+    },
+    {
+      "from": 8119,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/laurel-elena_s_09.mp4"
+    },
+    {
+      "from": 9108,
+      "dur": 122,
+      "kind": "video",
+      "src": "broll/laurel-elena_s_10.mp4"
+    },
+    {
+      "from": 9230,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/laurel-elena_s_26.mp4"
+    },
+    {
+      "from": 13388,
+      "dur": 409,
+      "kind": "video",
+      "src": "broll/laurel-elena_s_14.mp4"
+    },
+    {
+      "from": 13797,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/laurel-elena_s_15.mp4"
+    },
+    {
+      "from": 15195,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/laurel-elena_s_16.mp4"
+    },
+    {
+      "from": 16312,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/laurel-elena_s_17.mp4"
+    },
+    {
+      "from": 17088,
+      "dur": 608,
+      "kind": "video",
+      "src": "broll/laurel-elena_s_18.mp4"
+    },
+    {
+      "from": 17696,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/laurel-elena_s_19.mp4"
+    },
+    {
+      "from": 22249,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/laurel-elena_s_22.mp4"
+    },
+    {
+      "from": 26285,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/laurel-elena_s_23.mp4"
+    },
+    {
+      "from": 27529,
+      "dur": 532,
+      "kind": "video",
+      "src": "broll/laurel-elena_s_25.mp4"
+    },
+    {
+      "from": 30547,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/laurel-elena_s_27.mp4"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1787,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "REMEDIOS CON EVIDENCIA",
+        "title": "Dra. Elena Vidal",
+        "sub": "El laurel, bien usado"
+      }
+    },
+    {
+      "from": 2891,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "ACEITES ESENCIALES",
+        "sub": "ahí está casi todo lo bueno",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 4609,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 5599,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 6488,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 1",
+        "title": "Digestión",
+        "sub": "menos pesadez e hinchazón"
+      }
+    },
+    {
+      "from": 7338,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 2",
+        "title": "Antioxidante",
+        "sub": "combate los radicales libres"
+      }
+    },
+    {
+      "from": 8130,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "EN ESTUDIO",
+        "title": "Azúcar en sangre",
+        "sub": "posible apoyo, NO cura"
+      }
+    },
+    {
+      "from": 9108,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 10482,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "CASO REAL",
+        "title": "Marta, 55 años",
+        "sub": "esperaba adelgazar y se frustraba"
+      }
+    },
+    {
+      "from": 11886,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 13388,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "clinic",
+        "value": 10,
+        "suffix": " min",
+        "label": "de reposo, tapada"
+      }
+    },
+    {
+      "from": 14773,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "NO TE LO SALTEES",
+        "title": "Las advertencias"
+      }
+    },
+    {
+      "from": 15195,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Nunca tragues la hoja entera",
+        "sub": "es dura y filosa: retirala del plato",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 16312,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🤰",
+        "title": "Embarazo",
+        "sub": "como condimento OK; en infusión, consultá",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 17088,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "💊",
+        "title": "Diabetes con medicación",
+        "sub": "podría bajar más el azúcar — controlá",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 17696,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🩺",
+        "title": "Antes de una cirugía",
+        "sub": "suspender infusiones días antes",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 25522,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 26285,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "MANOS A LA OBRA",
+        "title": "Cómo elegirlo y guardarlo"
+      }
+    },
+    {
+      "from": 30010,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi guía de remedios naturales",
+        "items": [
+          "Cómo preparar el laurel",
+          "Cantidades y combinaciones",
+          "Qué usar para cada cosa"
+        ]
+      }
+    },
+    {
+      "from": 31190,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 411,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "El agua de laurel adelgaza y quema grasa.",
+        "truth": "Rotundamente falso. No hay evidencia. Puede desinflamar la sensación de hinchazón, pero eso no es adelgazar."
+      }
+    },
+    {
+      "from": 1374,
+      "dur": 195,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Lo que vas a ver hoy",
+        "items": [
+          "Para qué sirve el laurel de verdad",
+          "Cómo prepararlo bien",
+          "Un detalle de seguridad clave"
+        ]
+      }
+    },
+    {
+      "from": 3761,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "clinic",
+        "title": "Cómo NO perder lo bueno",
+        "left": {
+          "label": "Hervida 30 min",
+          "sub": "los aceites se van con el vapor"
+        },
+        "right": {
+          "label": "Infusión tapada 10 min",
+          "sub": "conservás lo bueno"
+        }
+      }
+    },
+    {
+      "from": 6189,
+      "dur": 225,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Para qué SÍ sirve",
+        "items": [
+          "Digestión: menos pesadez e hinchazón",
+          "Antioxidante suave",
+          "En estudio: apoyo para el azúcar",
+          "Efecto relajante y de calma"
+        ]
+      }
+    },
+    {
+      "from": 12691,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "La infusión bien hecha",
+        "title": "Paso a paso",
+        "steps": [
+          {
+            "title": "1-2 hojas, rotas con la mano",
+            "sub": "liberan mejor sus aceites"
+          },
+          {
+            "title": "Agua casi hirviendo, apagá y tapá",
+            "sub": "reposar 10-15 min"
+          },
+          {
+            "title": "Colá y tomá después de comer",
+            "sub": "podés sumar limón o jengibre"
+          }
+        ]
+      }
+    },
+    {
+      "from": 20281,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "El laurel cura la diabetes.",
+        "truth": "Falso y peligroso. Se estudia como posible pequeño apoyo, pero NO cura ni reemplaza tu medicación. Nunca la abandones."
+      }
+    },
+    {
+      "from": 20834,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Quemar laurel cura enfermedades y limpia las energías.",
+        "truth": "Sin efecto comprobado sobre tu salud física. Si te relaja el aroma, disfrutalo como ritual, pero no esperes que cure nada."
+      }
+    },
+    {
+      "from": 21652,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Como es natural, no puede hacer mal.",
+        "truth": "Falso. La hoja entera puede lastimar si se traga, puede afectar el azúcar y en el embarazo hay que tener cuidado. Natural no es inofensivo."
+      }
+    },
+    {
+      "from": 28061,
+      "dur": 240,
+      "comp": "Timeline",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Qué esperar",
+        "title": "El laurel, siendo realista",
+        "steps": [
+          {
+            "when": "Después de comer",
+            "text": "digestión más liviana"
+          },
+          {
+            "when": "Como hábito",
+            "text": "un momento de calma"
+          },
+          {
+            "when": "Siempre",
+            "text": "un apoyo suave, no un milagro"
+          }
+        ]
+      }
+    },
+    {
+      "from": 30144,
+      "dur": 210,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "El laurel no es una hoja mágica: es una pequeña aliada de todos los días, de esas humildes que estaban siempre en el frasco de la cocina."
+      }
+    }
+  ]
+}

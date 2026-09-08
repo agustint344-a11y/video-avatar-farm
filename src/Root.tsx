@@ -19,6 +19,8 @@ import narizCues from "./VideoEdit/data/cues_senal-nariz-elena.json";
 import curcumaCues from "./VideoEdit/data/cues_curcuma-elena.json";
 import ajoCues from "./VideoEdit/data/cues_ajo-elena.json";
 import camerasCues from "./VideoEdit/data/cues_cameras-atticfortune.json";
+import laurelCues from "./VideoEdit/data/cues_laurel-elena.json";
+import clavoCues from "./VideoEdit/data/cues_clavo-juantombo.json";
 import jengibreCues from "./VideoEdit/data/cues_jengibre-elena.json";
 import romeroDolorCues from "./VideoEdit/data/cues_romero-dolor.json";
 
@@ -38,6 +40,8 @@ export const RemotionRoot: React.FC = () => {
   const curcuma = curcumaCues as Cues;
   const ajo = ajoCues as Cues;
   const cameras = camerasCues as Cues;
+  const laurel = laurelCues as Cues;
+  const clavo = clavoCues as Cues;
   const jengibre = jengibreCues as Cues;
   const romeroDolor = romeroDolorCues as Cues;
   return (
@@ -211,6 +215,8 @@ export const RemotionRoot: React.FC = () => {
         height={cameras.height}
         defaultProps={{ cues: cameras }}
       />
+      <Composition id="LaurelElena" component={VideoMain} durationInFrames={laurel.durationInFrames} fps={laurel.fps} width={laurel.width} height={laurel.height} defaultProps={{ cues: laurel }} />
+      <Composition id="ClavoJuantombo" component={VideoMain} durationInFrames={clavo.durationInFrames} fps={clavo.fps} width={clavo.width} height={clavo.height} defaultProps={{ cues: clavo }} />
     </>
   );
 };

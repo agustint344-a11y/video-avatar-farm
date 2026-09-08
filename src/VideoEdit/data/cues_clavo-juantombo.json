@@ -1,0 +1,510 @@
+{
+  "slug": "clavo-juantombo",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 26652,
+  "broll": [
+    {
+      "from": 227,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/clavo-juantombo_s_02.mp4"
+    },
+    {
+      "from": 2586,
+      "dur": 666,
+      "kind": "video",
+      "src": "broll/clavo-juantombo_s_03.mp4"
+    },
+    {
+      "from": 3252,
+      "dur": 153,
+      "kind": "video",
+      "src": "broll/clavo-juantombo_s_05.mp4"
+    },
+    {
+      "from": 3405,
+      "dur": 657,
+      "kind": "video",
+      "src": "broll/clavo-juantombo_s_06.mp4"
+    },
+    {
+      "from": 5705,
+      "dur": 663,
+      "kind": "video",
+      "src": "broll/clavo-juantombo_s_07.mp4"
+    },
+    {
+      "from": 6368,
+      "dur": 274,
+      "kind": "video",
+      "src": "broll/clavo-juantombo_s_08.mp4"
+    },
+    {
+      "from": 6642,
+      "dur": 330,
+      "kind": "video",
+      "src": "broll/clavo-juantombo_s_09.mp4"
+    },
+    {
+      "from": 6972,
+      "dur": 455,
+      "kind": "video",
+      "src": "broll/clavo-juantombo_s_10.mp4"
+    },
+    {
+      "from": 7427,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/clavo-juantombo_s_11.mp4"
+    },
+    {
+      "from": 9881,
+      "dur": 269,
+      "kind": "video",
+      "src": "broll/clavo-juantombo_s_12.mp4"
+    },
+    {
+      "from": 10150,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/clavo-juantombo_s_13.mp4"
+    },
+    {
+      "from": 12455,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/clavo-juantombo_s_16.mp4"
+    },
+    {
+      "from": 13962,
+      "dur": 439,
+      "kind": "video",
+      "src": "broll/clavo-juantombo_s_18.mp4"
+    },
+    {
+      "from": 14401,
+      "dur": 508,
+      "kind": "video",
+      "src": "broll/clavo-juantombo_s_19.mp4"
+    },
+    {
+      "from": 14909,
+      "dur": 396,
+      "kind": "video",
+      "src": "broll/clavo-juantombo_s_20.mp4"
+    },
+    {
+      "from": 15305,
+      "dur": 694,
+      "kind": "video",
+      "src": "broll/clavo-juantombo_s_21.mp4"
+    },
+    {
+      "from": 15999,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/clavo-juantombo_s_22.mp4"
+    },
+    {
+      "from": 18963,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/clavo-juantombo_s_17.mp4"
+    },
+    {
+      "from": 22797,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/clavo-juantombo_s_24.mp4"
+    },
+    {
+      "from": 23609,
+      "dur": 466,
+      "kind": "video",
+      "src": "broll/clavo-juantombo_s_26.mp4"
+    },
+    {
+      "from": 25962,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/clavo-juantombo_s_27.mp4"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1518,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "REMEDIOS CON CRITERIO MÉDICO",
+        "title": "Dr. Juan Tomás",
+        "sub": "El clavo de olor, bien usado"
+      }
+    },
+    {
+      "from": 2586,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "EUGENOL",
+        "sub": "el analgésico natural del clavo",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 4858,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 5584,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "BENEFICIO 1",
+        "title": "Dolor dental",
+        "sub": "alivio temporal — igual, al dentista"
+      }
+    },
+    {
+      "from": 6368,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "BENEFICIO 2",
+        "title": "Salud de la boca",
+        "sub": "antiséptico y buen aliento"
+      }
+    },
+    {
+      "from": 6912,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "BENEFICIO 3",
+        "title": "Digestión",
+        "sub": "menos pesadez y gases"
+      }
+    },
+    {
+      "from": 7334,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "BENEFICIO 4",
+        "title": "Antioxidante",
+        "sub": "de los más potentes que hay"
+      }
+    },
+    {
+      "from": 9881,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "CASO REAL",
+        "title": "Don Ramón, 60 años",
+        "sub": "se pasó de clavos y se irritó"
+      }
+    },
+    {
+      "from": 11047,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 13580,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "NO TE LO SALTEES",
+        "title": "Las advertencias"
+      }
+    },
+    {
+      "from": 13962,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "☠️",
+        "title": "No excederse con el aceite",
+        "sub": "concentrado: tóxico si se traga — lejos de los niños",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 14401,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "💊",
+        "title": "Anticoagulantes y cirugía",
+        "sub": "puede aumentar el sangrado — consultá",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 15305,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "🔥",
+        "title": "Estómago sensible",
+        "sub": "concentrado puede irritar — empezá con poco",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 15999,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "🧒",
+        "title": "Niños pequeños",
+        "sub": "el aceite NO se usa sin indicación médica",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 19992,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 22003,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MENOS ES MÁS",
+        "sub": "es potente: poco y bien",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 22188,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 22797,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "MANOS A LA OBRA",
+        "title": "Cómo elegirlo y guardarlo"
+      }
+    },
+    {
+      "from": 25542,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi guía de remedios naturales",
+        "items": [
+          "Cantidades justas y seguras",
+          "Cómo usarlo para cada cosa",
+          "Combinaciones que funcionan"
+        ]
+      }
+    },
+    {
+      "from": 25962,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 26566,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 1275,
+      "dur": 195,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que vas a ver hoy",
+        "items": [
+          "Para qué sirve el clavo de verdad",
+          "Cómo usarlo bien (y poco)",
+          "Las advertencias serias"
+        ]
+      }
+    },
+    {
+      "from": 4062,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "El poder del eugenol",
+        "left": {
+          "label": "Poco y bien",
+          "sub": "un clavo, con cuidado: ayuda"
+        },
+        "right": {
+          "label": "En exceso",
+          "sub": "irrita y puede ser tóxico"
+        }
+      }
+    },
+    {
+      "from": 5352,
+      "dur": 225,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Para qué SÍ sirve",
+        "items": [
+          "Dolor dental (alivio temporal)",
+          "Salud de la boca y aliento",
+          "Digestión",
+          "Antioxidante potente"
+        ]
+      }
+    },
+    {
+      "from": 11682,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Cómo usarlo bien",
+        "title": "Paso a paso",
+        "steps": [
+          {
+            "title": "2-3 clavos en una taza",
+            "sub": "no más"
+          },
+          {
+            "title": "Agua casi hirviendo, tapá 10 min",
+            "sub": "infusión o buche tibio"
+          },
+          {
+            "title": "Dolor de muela: 1 gota de aceite",
+            "sub": "puente hasta el dentista"
+          }
+        ]
+      }
+    },
+    {
+      "from": 16978,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El clavo cura infecciones y reemplaza a los antibióticos.",
+        "truth": "Falso y peligroso. Es antiséptico suave, pero NO cura una infección seria ni reemplaza un antibiótico recetado."
+      }
+    },
+    {
+      "from": 17500,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Cuanto más clavo, mejor.",
+        "truth": "Falso. Es potente: en exceso irrita y puede ser tóxico, sobre todo el aceite. Poco y bien."
+      }
+    },
+    {
+      "from": 17858,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Masticar clavos blanquea los dientes y cura las caries.",
+        "truth": "Falso. Ayuda puntual con el dolor y el aliento, pero no cura una caries (eso lo resuelve el dentista) y en exceso irrita las encías."
+      }
+    },
+    {
+      "from": 18334,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Como es natural, no puede hacer mal.",
+        "truth": "Falso. Por lo potente, en exceso es tóxico, afecta la coagulación e irrita. Natural no es inofensivo."
+      }
+    },
+    {
+      "from": 24075,
+      "dur": 240,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Qué esperar",
+        "title": "El clavo, siendo realista",
+        "steps": [
+          {
+            "when": "Al momento",
+            "text": "alivia un dolor de muela un rato"
+          },
+          {
+            "when": "En el día a día",
+            "text": "digestión y aliento"
+          },
+          {
+            "when": "Nunca",
+            "text": "no cura ni reemplaza al médico"
+          }
+        ]
+      }
+    },
+    {
+      "from": 25618,
+      "dur": 210,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "earth",
+        "quote": "El clavo de olor no es un milagro: es una pequeña gran herramienta de la naturaleza, de esas que usaban nuestros abuelos con sabiduría."
+      }
+    }
+  ]
+}
