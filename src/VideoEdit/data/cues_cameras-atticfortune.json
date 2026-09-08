@@ -1,0 +1,546 @@
+{
+  "slug": "cameras-atticfortune",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 27442,
+  "broll": [
+    {
+      "from": 221,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/cameras-atticfortune_s_01.png"
+    },
+    {
+      "from": 5345,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/cameras-atticfortune_s_05.png"
+    },
+    {
+      "from": 6667,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/cameras-atticfortune_s_06.png"
+    },
+    {
+      "from": 7797,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/cameras-atticfortune_s_07.png"
+    },
+    {
+      "from": 8536,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/cameras-atticfortune_s_08.png"
+    },
+    {
+      "from": 9581,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/cameras-atticfortune_s_09.png"
+    },
+    {
+      "from": 10306,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/cameras-atticfortune_s_10.png"
+    },
+    {
+      "from": 11348,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/cameras-atticfortune_s_11.png"
+    },
+    {
+      "from": 12453,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/cameras-atticfortune_s_12.png"
+    },
+    {
+      "from": 13280,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/cameras-atticfortune_s_13.png"
+    },
+    {
+      "from": 14056,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/cameras-atticfortune_s_14.png"
+    },
+    {
+      "from": 14836,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/cameras-atticfortune_s_15.png"
+    },
+    {
+      "from": 16404,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/cameras-atticfortune_s_16.png"
+    },
+    {
+      "from": 17413,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/cameras-atticfortune_s_17.png"
+    },
+    {
+      "from": 18301,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/cameras-atticfortune_s_18.png"
+    },
+    {
+      "from": 18548,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/cameras-atticfortune_s_24.png"
+    },
+    {
+      "from": 19634,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/cameras-atticfortune_s_21.png"
+    },
+    {
+      "from": 20039,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/cameras-atticfortune_s_22.png"
+    },
+    {
+      "from": 22069,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/cameras-atticfortune_s_20.png"
+    },
+    {
+      "from": 23694,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/cameras-atticfortune_s_23.png"
+    },
+    {
+      "from": 26534,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/cameras-atticfortune_s_25.png"
+    },
+    {
+      "from": 26746,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/cameras-atticfortune_s_26.png"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 542,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 894,
+      "dur": 102,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CHECK ITS WORTH",
+        "sub": "before you toss it",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 1048,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "ATTIC FORTUNE",
+        "title": "Walt Hargrove",
+        "sub": "40+ years appraising attic & barn finds"
+      }
+    },
+    {
+      "from": 4528,
+      "dur": 195,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "FREE GUIDE",
+        "title": "The Attic Fortune Guide",
+        "items": [
+          "Exact makes, models & price ranges",
+          "How to spot fakes & value your piece",
+          "Cameras, coins, tools & more"
+        ]
+      }
+    },
+    {
+      "from": 4528,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 5345,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#10",
+        "title": "Polaroid Instant"
+      }
+    },
+    {
+      "from": 6667,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#9",
+        "title": "Twin-Lens Reflex"
+      }
+    },
+    {
+      "from": 7699,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#8",
+        "title": "35mm Rangefinders"
+      }
+    },
+    {
+      "from": 8536,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#7",
+        "title": "Early Nikon Pro"
+      }
+    },
+    {
+      "from": 9502,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#6",
+        "title": "Zeiss Ikon"
+      }
+    },
+    {
+      "from": 10306,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#5",
+        "title": "Movie Cameras"
+      }
+    },
+    {
+      "from": 11348,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#4",
+        "title": "Kodak Retina"
+      }
+    },
+    {
+      "from": 12380,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#3",
+        "title": "The Leica"
+      }
+    },
+    {
+      "from": 12380,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 13036,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "prefix": "$",
+        "value": 5000,
+        "label": "desirable Leica models",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 13860,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#2",
+        "title": "Spy Cameras"
+      }
+    },
+    {
+      "from": 14056,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "prefix": "$",
+        "value": 300,
+        "label": "a clean Minox spy camera",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 14836,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#1",
+        "title": "Complete & Original"
+      }
+    },
+    {
+      "from": 18836,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "$4,000+",
+        "sub": "the box she almost gave away",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 19291,
+      "dur": 195,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "GRAB IT FIRST",
+        "title": "The Attic Fortune Guide",
+        "items": [
+          "Know what it's worth before you sell",
+          "Real sold-price ranges",
+          "Plain English, no jargon"
+        ]
+      }
+    },
+    {
+      "from": 19291,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 23050,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "label": "Caution",
+        "icon": "🚫",
+        "title": "Never over-clean it",
+        "sub": "collectors want it honest and original",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 25187,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "label": "Caution",
+        "icon": "⚠️",
+        "title": "Don't sell in a hurry",
+        "sub": "the eager buyer usually knows something you don't",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 25757,
+      "dur": 195,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "EVERYTHING INSIDE",
+        "title": "The Attic Fortune Guide",
+        "items": [
+          "Identify your model step by step",
+          "What collectors pay right now",
+          "Link pinned in the comments"
+        ]
+      }
+    },
+    {
+      "from": 25757,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 26939,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 542,
+      "dur": 150,
+      "comp": "BigStat",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ONE OLD CAMERA",
+        "prefix": "$",
+        "value": 4000,
+        "suffix": "?",
+        "support": "what a forgotten Leica can bring"
+      }
+    },
+    {
+      "from": 592,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "mythLabel": "Myth",
+        "truthLabel": "Truth",
+        "myth": "It's just an old camera, worth a few bucks at a yard sale.",
+        "truth": "Some of these sell for hundreds or thousands to the right collector. Most folks toss them without a look."
+      }
+    },
+    {
+      "from": 2507,
+      "dur": 180,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Why old cameras pay now",
+        "items": [
+          "Millions sat unused since digital took over",
+          "Beautifully made, mechanical, built to last",
+          "Film photography is roaring back — demand is up"
+        ]
+      }
+    },
+    {
+      "from": 3848,
+      "dur": 180,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Working vs. dead",
+        "left": {
+          "label": "WORKS",
+          "sub": "shutter fires, meter responds — worth far more"
+        },
+        "right": {
+          "label": "SEIZED",
+          "sub": "same model, dead — a fraction of the price"
+        }
+      }
+    },
+    {
+      "from": 4235,
+      "dur": 180,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "The 3 things that decide value",
+        "items": [
+          "Brand — the name collectors chase",
+          "Condition — clean, clear glass, working",
+          "Completeness — case, box, lenses, papers"
+        ]
+      }
+    },
+    {
+      "from": 21305,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HOW TO VALUE IT",
+        "title": "Check it in 4 steps",
+        "steps": [
+          {
+            "title": "Name & country",
+            "sub": "Leica, Zeiss, Rollei, Nikon — Germany/Japan"
+          },
+          {
+            "title": "Condition",
+            "sub": "clear glass, working shutter"
+          },
+          {
+            "title": "Completeness",
+            "sub": "case, box, lenses, papers"
+          }
+        ]
+      }
+    },
+    {
+      "from": 26276,
+      "dur": 180,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "earth",
+        "quote": "The only difference between the person who threw it out and the person who cashed in was knowing what to look for.",
+        "author": "Walt Hargrove"
+      }
+    }
+  ]
+}

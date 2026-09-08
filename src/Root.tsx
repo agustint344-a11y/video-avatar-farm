@@ -18,6 +18,7 @@ import manzanillaCues from "./VideoEdit/data/cues_manzanilla-elena.json";
 import narizCues from "./VideoEdit/data/cues_senal-nariz-elena.json";
 import curcumaCues from "./VideoEdit/data/cues_curcuma-elena.json";
 import ajoCues from "./VideoEdit/data/cues_ajo-elena.json";
+import camerasCues from "./VideoEdit/data/cues_cameras-atticfortune.json";
 import jengibreCues from "./VideoEdit/data/cues_jengibre-elena.json";
 import romeroDolorCues from "./VideoEdit/data/cues_romero-dolor.json";
 
@@ -36,6 +37,7 @@ export const RemotionRoot: React.FC = () => {
   const nariz = narizCues as Cues;
   const curcuma = curcumaCues as Cues;
   const ajo = ajoCues as Cues;
+  const cameras = camerasCues as Cues;
   const jengibre = jengibreCues as Cues;
   const romeroDolor = romeroDolorCues as Cues;
   return (
@@ -199,6 +201,15 @@ export const RemotionRoot: React.FC = () => {
         width={ajo.width}
         height={ajo.height}
         defaultProps={{ cues: ajo }}
+      />
+      <Composition
+        id="CamerasAttic"
+        component={VideoMain}
+        durationInFrames={cameras.durationInFrames}
+        fps={cameras.fps}
+        width={cameras.width}
+        height={cameras.height}
+        defaultProps={{ cues: cameras }}
       />
     </>
   );
