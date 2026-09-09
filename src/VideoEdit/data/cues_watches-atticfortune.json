@@ -1,0 +1,508 @@
+{
+  "slug": "watches-atticfortune",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 25863,
+  "broll": [
+    {
+      "from": 107,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/watches-atticfortune_s_01.png"
+    },
+    {
+      "from": 2198,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/watches-atticfortune_s_04.png"
+    },
+    {
+      "from": 5672,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/watches-atticfortune_s_05.png"
+    },
+    {
+      "from": 6397,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/watches-atticfortune_s_06.png"
+    },
+    {
+      "from": 7335,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/watches-atticfortune_s_07.png"
+    },
+    {
+      "from": 8730,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/watches-atticfortune_s_08.png"
+    },
+    {
+      "from": 9601,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/watches-atticfortune_s_09.png"
+    },
+    {
+      "from": 10711,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/watches-atticfortune_s_10.png"
+    },
+    {
+      "from": 12929,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/watches-atticfortune_s_12.png"
+    },
+    {
+      "from": 14024,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/watches-atticfortune_s_13.png"
+    },
+    {
+      "from": 15212,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/watches-atticfortune_s_14.png"
+    },
+    {
+      "from": 15378,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/watches-atticfortune_s_16.png"
+    },
+    {
+      "from": 16715,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/watches-atticfortune_s_15.png"
+    },
+    {
+      "from": 18589,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/watches-atticfortune_s_17.png"
+    },
+    {
+      "from": 18752,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/watches-atticfortune_s_18.png"
+    },
+    {
+      "from": 19800,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/watches-atticfortune_s_22.png"
+    },
+    {
+      "from": 21191,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/watches-atticfortune_s_23.png"
+    },
+    {
+      "from": 23245,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/watches-atticfortune_s_21.png"
+    },
+    {
+      "from": 24849,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/watches-atticfortune_s_24.png"
+    },
+    {
+      "from": 25129,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/watches-atticfortune_s_25.png"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 553,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 978,
+      "dur": 102,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CHECK ITS WORTH",
+        "sub": "before you toss it",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 1142,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "ATTIC FORTUNE",
+        "title": "Walt Hargrove",
+        "sub": "40+ years appraising attic & drawer finds"
+      }
+    },
+    {
+      "from": 4894,
+      "dur": 195,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "FREE GUIDE",
+        "title": "The Attic Fortune Guide",
+        "items": [
+          "Exact brands, models & price ranges",
+          "How to spot fakes & value your piece",
+          "Watches, coins, tools & more"
+        ]
+      }
+    },
+    {
+      "from": 4894,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 5672,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#10",
+        "title": "Ladies' Dress Watches"
+      }
+    },
+    {
+      "from": 6397,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#9",
+        "title": "Chronographs"
+      }
+    },
+    {
+      "from": 7380,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#8",
+        "title": "Military Watches"
+      }
+    },
+    {
+      "from": 8730,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#7",
+        "title": "Railroad Pocket Watches"
+      }
+    },
+    {
+      "from": 9601,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#6",
+        "title": "Swiss Dress Watches"
+      }
+    },
+    {
+      "from": 10711,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#5",
+        "title": "Dive Watches"
+      }
+    },
+    {
+      "from": 12226,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#4",
+        "title": "Mid-Century Automatics"
+      }
+    },
+    {
+      "from": 12929,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#3",
+        "title": "Solid Gold"
+      }
+    },
+    {
+      "from": 12929,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 13136,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "prefix": "$",
+        "value": 1000,
+        "label": "a solid gold case, at minimum",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 13868,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#2",
+        "title": "The Drawer Wristwatch"
+      }
+    },
+    {
+      "from": 15212,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#1",
+        "title": "Full Set"
+      }
+    },
+    {
+      "from": 19147,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "$6,000+",
+        "sub": "the watch in the sock",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 19478,
+      "dur": 195,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "GRAB IT FIRST",
+        "title": "The Attic Fortune Guide",
+        "items": [
+          "Know what it's worth before you sell",
+          "Real sold-price ranges",
+          "Plain English, no jargon"
+        ]
+      }
+    },
+    {
+      "from": 19478,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 23245,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "label": "Caution",
+        "icon": "🚫",
+        "title": "Never polish or open it",
+        "sub": "buffing wipes the value right off",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 23667,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "label": "Caution",
+        "icon": "⚠️",
+        "title": "Don't sell in a hurry",
+        "sub": "the eager buyer usually knows something you don't",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 24167,
+      "dur": 195,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "EVERYTHING INSIDE",
+        "title": "The Attic Fortune Guide",
+        "items": [
+          "Identify your watch step by step",
+          "What collectors pay right now",
+          "Link pinned in the comments"
+        ]
+      }
+    },
+    {
+      "from": 24167,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 25286,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 553,
+      "dur": 150,
+      "comp": "BigStat",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ONE OLD WATCH",
+        "prefix": "$",
+        "value": 6000,
+        "suffix": "?",
+        "support": "what a forgotten Swiss chrono can bring"
+      }
+    },
+    {
+      "from": 2327,
+      "dur": 180,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Mechanical vs. quartz",
+        "left": {
+          "label": "MECHANICAL",
+          "sub": "gears & springs — what collectors chase"
+        },
+        "right": {
+          "label": "QUARTZ",
+          "sub": "battery, made by the millions — worth little"
+        }
+      }
+    },
+    {
+      "from": 3913,
+      "dur": 180,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Why old watches pay now",
+        "items": [
+          "Millions dropped in drawers when phones arrived",
+          "Vintage mechanical watches are back in demand",
+          "The right ones sell for real money"
+        ]
+      }
+    },
+    {
+      "from": 14867,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "mythLabel": "Myth",
+        "truthLabel": "Truth",
+        "myth": "It's just an old wristwatch, it's worth nothing.",
+        "truth": "A genuine vintage piece from a good maker routinely sells for hundreds, and the desirable ones climb into the thousands."
+      }
+    },
+    {
+      "from": 22320,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HOW TO VALUE IT",
+        "title": "Check it in 4 steps",
+        "steps": [
+          {
+            "title": "The movement",
+            "sub": "mechanical beats battery"
+          },
+          {
+            "title": "Dial & back",
+            "sub": "maker, 'automatic', gold stamps, serials"
+          },
+          {
+            "title": "Condition & completeness",
+            "sub": "box, papers, bracelet"
+          }
+        ]
+      }
+    },
+    {
+      "from": 24619,
+      "dur": 180,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "earth",
+        "quote": "The only difference between the person who gave it away and the person who cashed in was knowing what to look for.",
+        "author": "Walt Hargrove"
+      }
+    }
+  ]
+}

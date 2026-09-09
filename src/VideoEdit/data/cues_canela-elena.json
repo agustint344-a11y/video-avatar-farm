@@ -1,0 +1,531 @@
+{
+  "slug": "canela-elena",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 32756,
+  "broll": [
+    {
+      "from": 252,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/canela-elena_s_02.mp4"
+    },
+    {
+      "from": 3528,
+      "dur": 371,
+      "kind": "video",
+      "src": "broll/canela-elena_s_04.mp4"
+    },
+    {
+      "from": 3899,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/canela-elena_s_05.mp4"
+    },
+    {
+      "from": 6337,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/canela-elena_s_06.mp4"
+    },
+    {
+      "from": 7310,
+      "dur": 147,
+      "kind": "video",
+      "src": "broll/canela-elena_s_07.mp4"
+    },
+    {
+      "from": 7457,
+      "dur": 485,
+      "kind": "video",
+      "src": "broll/canela-elena_s_08.mp4"
+    },
+    {
+      "from": 7942,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/canela-elena_s_09.mp4"
+    },
+    {
+      "from": 9701,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/canela-elena_s_10.mp4"
+    },
+    {
+      "from": 11101,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/canela-elena_s_11.mp4"
+    },
+    {
+      "from": 12232,
+      "dur": 274,
+      "kind": "video",
+      "src": "broll/canela-elena_s_12.mp4"
+    },
+    {
+      "from": 12506,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/canela-elena_s_13.mp4"
+    },
+    {
+      "from": 15618,
+      "dur": 355,
+      "kind": "video",
+      "src": "broll/canela-elena_s_25.mp4"
+    },
+    {
+      "from": 15973,
+      "dur": 347,
+      "kind": "video",
+      "src": "broll/canela-elena_s_15.mp4"
+    },
+    {
+      "from": 16373,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/canela-elena_s_17.mp4"
+    },
+    {
+      "from": 18163,
+      "dur": 465,
+      "kind": "video",
+      "src": "broll/canela-elena_s_18.mp4"
+    },
+    {
+      "from": 18628,
+      "dur": 565,
+      "kind": "video",
+      "src": "broll/canela-elena_s_19.mp4"
+    },
+    {
+      "from": 19193,
+      "dur": 256,
+      "kind": "video",
+      "src": "broll/canela-elena_s_20.mp4"
+    },
+    {
+      "from": 19449,
+      "dur": 464,
+      "kind": "video",
+      "src": "broll/canela-elena_s_21.mp4"
+    },
+    {
+      "from": 19913,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/canela-elena_s_22.mp4"
+    },
+    {
+      "from": 28238,
+      "dur": 670,
+      "kind": "video",
+      "src": "broll/canela-elena_s_26.mp4"
+    },
+    {
+      "from": 28908,
+      "dur": 154,
+      "kind": "video",
+      "src": "broll/canela-elena_s_27.mp4"
+    },
+    {
+      "from": 29062,
+      "dur": 454,
+      "kind": "video",
+      "src": "broll/canela-elena_s_28.mp4"
+    },
+    {
+      "from": 32001,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/canela-elena_s_29.mp4"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2011,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "REMEDIOS CON EVIDENCIA",
+        "title": "Dra. Elena Vidal",
+        "sub": "La canela, bien usada"
+      }
+    },
+    {
+      "from": 2932,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "EL SECRETO",
+        "title": "Ceylán vs Cassia"
+      }
+    },
+    {
+      "from": 3899,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "CUMARINA",
+        "sub": "en exceso, afecta el hígado",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 5389,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 6268,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 1",
+        "title": "Azúcar en sangre",
+        "sub": "apoyo modesto, no cura"
+      }
+    },
+    {
+      "from": 7365,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 7433,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 2",
+        "title": "Antioxidante potente",
+        "sub": "de las especias más altas"
+      }
+    },
+    {
+      "from": 9676,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 3",
+        "title": "Antiinflamatorio",
+        "sub": "modula la inflamación de fondo"
+      }
+    },
+    {
+      "from": 12232,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "CASO REAL",
+        "title": "Susana, 58 años",
+        "sub": "tomaba la común a cucharadas"
+      }
+    },
+    {
+      "from": 14039,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 14878,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "ELEGÍ CEYLÁN",
+        "sub": "la verdadera, para el día a día",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 15973,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "clinic",
+        "value": 1,
+        "suffix": " cdita",
+        "label": "al día alcanza y sobra"
+      }
+    },
+    {
+      "from": 17148,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "NO TE LO SALTEES",
+        "title": "Las advertencias"
+      }
+    },
+    {
+      "from": 17492,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Cumarina (canela común)",
+        "sub": "en exceso sobrecarga el hígado — elegí Ceylán",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 18163,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "💊",
+        "title": "Anticoagulantes",
+        "sub": "puede aumentar el sangrado — consultá",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 18628,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🩸",
+        "title": "Diabetes con medicación",
+        "sub": "podría bajar más el azúcar — controlá",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 19449,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🤰",
+        "title": "Embarazo",
+        "sub": "condimento OK; en dosis altas, consultá",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 27344,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 28052,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "MANOS A LA OBRA",
+        "title": "Cómo elegirla y guardarla"
+      }
+    },
+    {
+      "from": 28759,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 31420,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi guía de remedios naturales",
+        "items": [
+          "Cómo distinguir las canelas",
+          "Cantidades seguras",
+          "Combinaciones que funcionan"
+        ]
+      }
+    },
+    {
+      "from": 32641,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 1556,
+      "dur": 195,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Lo que vas a ver hoy",
+        "items": [
+          "Para qué sirve la canela de verdad",
+          "El secreto: Ceylán vs Cassia",
+          "Cómo usarla bien y las advertencias"
+        ]
+      }
+    },
+    {
+      "from": 3087,
+      "dur": 225,
+      "comp": "Compare",
+      "props": {
+        "theme": "clinic",
+        "title": "Las dos canelas",
+        "left": {
+          "label": "Cassia (la común)",
+          "sub": "mucha cumarina: ojo con el exceso"
+        },
+        "right": {
+          "label": "Ceylán (la verdadera)",
+          "sub": "poca cumarina: la de todos los días"
+        }
+      }
+    },
+    {
+      "from": 5988,
+      "dur": 225,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Para qué SÍ sirve",
+        "items": [
+          "Apoyo modesto para el azúcar en sangre",
+          "Antioxidante potente",
+          "Antiinflamatorio",
+          "En estudio: colesterol"
+        ]
+      }
+    },
+    {
+      "from": 14582,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Cómo usarla bien",
+        "title": "Paso a paso",
+        "steps": [
+          {
+            "title": "Elegí Ceylán (la verdadera)",
+            "sub": "en rama, se desarma fácil"
+          },
+          {
+            "title": "½ a 1 cucharadita al día",
+            "sub": "más NO es mejor"
+          },
+          {
+            "title": "En avena, yogur, café o infusión",
+            "sub": "con constancia"
+          }
+        ]
+      }
+    },
+    {
+      "from": 21174,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "La canela cura la diabetes.",
+        "truth": "Rotundamente falso. Ayuda modestamente como apoyo, pero NO cura ni reemplaza tu tratamiento. Nunca abandones tu medicación."
+      }
+    },
+    {
+      "from": 21716,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "La canela en ayunas quema grasa y adelgaza.",
+        "truth": "Falso. No hay evidencia seria. Adelgazar es alimentación, movimiento y descanso."
+      }
+    },
+    {
+      "from": 22323,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Cuanta más canela, mejor.",
+        "truth": "Falso, es al revés. Más canela común = más cumarina y más riesgo para el hígado. Poco y bien."
+      }
+    },
+    {
+      "from": 22800,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Como es natural, no puede hacer mal.",
+        "truth": "Falso. La Cassia en exceso puede afectar el hígado y la coagulación. Natural no es inofensivo."
+      }
+    },
+    {
+      "from": 29516,
+      "dur": 240,
+      "comp": "Timeline",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Qué esperar",
+        "title": "La canela, siendo realista",
+        "steps": [
+          {
+            "when": "Con constancia",
+            "text": "un apoyo modesto para el azúcar"
+          },
+          {
+            "when": "Cada día",
+            "text": "aporte antioxidante"
+          },
+          {
+            "when": "Siempre",
+            "text": "no cura ni adelgaza"
+          }
+        ]
+      }
+    },
+    {
+      "from": 31615,
+      "dur": 210,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "La canela no es una cura milagrosa: es una pequeña aliada deliciosa de todos los días, de esas que hacen que cuidarse sea también un placer."
+      }
+    }
+  ]
+}

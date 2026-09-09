@@ -19,6 +19,9 @@ import narizCues from "./VideoEdit/data/cues_senal-nariz-elena.json";
 import curcumaCues from "./VideoEdit/data/cues_curcuma-elena.json";
 import ajoCues from "./VideoEdit/data/cues_ajo-elena.json";
 import camerasCues from "./VideoEdit/data/cues_cameras-atticfortune.json";
+import canelaCues from "./VideoEdit/data/cues_canela-elena.json";
+import eucaliptoCues from "./VideoEdit/data/cues_eucalipto-juantombo.json";
+import watchesCues from "./VideoEdit/data/cues_watches-atticfortune.json";
 import laurelCues from "./VideoEdit/data/cues_laurel-elena.json";
 import clavoCues from "./VideoEdit/data/cues_clavo-juantombo.json";
 import jengibreCues from "./VideoEdit/data/cues_jengibre-elena.json";
@@ -40,6 +43,9 @@ export const RemotionRoot: React.FC = () => {
   const curcuma = curcumaCues as Cues;
   const ajo = ajoCues as Cues;
   const cameras = camerasCues as Cues;
+  const canela = canelaCues as Cues;
+  const eucalipto = eucaliptoCues as Cues;
+  const watches = watchesCues as Cues;
   const laurel = laurelCues as Cues;
   const clavo = clavoCues as Cues;
   const jengibre = jengibreCues as Cues;
@@ -217,6 +223,9 @@ export const RemotionRoot: React.FC = () => {
       />
       <Composition id="LaurelElena" component={VideoMain} durationInFrames={laurel.durationInFrames} fps={laurel.fps} width={laurel.width} height={laurel.height} defaultProps={{ cues: laurel }} />
       <Composition id="ClavoJuantombo" component={VideoMain} durationInFrames={clavo.durationInFrames} fps={clavo.fps} width={clavo.width} height={clavo.height} defaultProps={{ cues: clavo }} />
+      <Composition id="CanelaElena" component={VideoMain} durationInFrames={canela.durationInFrames} fps={canela.fps} width={canela.width} height={canela.height} defaultProps={{ cues: canela }} />
+      <Composition id="EucaliptoJuanTombo" component={VideoMain} durationInFrames={eucalipto.durationInFrames} fps={eucalipto.fps} width={eucalipto.width} height={eucalipto.height} defaultProps={{ cues: eucalipto }} />
+      <Composition id="WatchesAttic" component={VideoMain} durationInFrames={watches.durationInFrames} fps={watches.fps} width={watches.width} height={watches.height} defaultProps={{ cues: watches }} />
     </>
   );
 };

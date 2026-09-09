@@ -1,0 +1,517 @@
+{
+  "slug": "eucalipto-juantombo",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 28422,
+  "broll": [
+    {
+      "from": 45,
+      "dur": 266,
+      "kind": "video",
+      "src": "broll/eucalipto-juantombo_s_01.mp4"
+    },
+    {
+      "from": 311,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/eucalipto-juantombo_s_02.mp4"
+    },
+    {
+      "from": 2500,
+      "dur": 568,
+      "kind": "video",
+      "src": "broll/eucalipto-juantombo_s_03.mp4"
+    },
+    {
+      "from": 3068,
+      "dur": 69,
+      "kind": "video",
+      "src": "broll/eucalipto-juantombo_s_04.mp4"
+    },
+    {
+      "from": 3137,
+      "dur": 325,
+      "kind": "video",
+      "src": "broll/eucalipto-juantombo_s_07.mp4"
+    },
+    {
+      "from": 4988,
+      "dur": 719,
+      "kind": "video",
+      "src": "broll/eucalipto-juantombo_s_05.mp4"
+    },
+    {
+      "from": 5707,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/eucalipto-juantombo_s_06.mp4"
+    },
+    {
+      "from": 6607,
+      "dur": 446,
+      "kind": "video",
+      "src": "broll/eucalipto-juantombo_s_08.mp4"
+    },
+    {
+      "from": 7053,
+      "dur": 433,
+      "kind": "video",
+      "src": "broll/eucalipto-juantombo_s_09.mp4"
+    },
+    {
+      "from": 7486,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/eucalipto-juantombo_s_10.mp4"
+    },
+    {
+      "from": 8562,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/eucalipto-juantombo_s_11.mp4"
+    },
+    {
+      "from": 9761,
+      "dur": 601,
+      "kind": "video",
+      "src": "broll/eucalipto-juantombo_s_12.mp4"
+    },
+    {
+      "from": 10362,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/eucalipto-juantombo_s_13.mp4"
+    },
+    {
+      "from": 12012,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/eucalipto-juantombo_s_15.mp4"
+    },
+    {
+      "from": 12769,
+      "dur": 653,
+      "kind": "video",
+      "src": "broll/eucalipto-juantombo_s_16.mp4"
+    },
+    {
+      "from": 13422,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/eucalipto-juantombo_s_17.mp4"
+    },
+    {
+      "from": 15503,
+      "dur": 636,
+      "kind": "video",
+      "src": "broll/eucalipto-juantombo_s_18.mp4"
+    },
+    {
+      "from": 16139,
+      "dur": 720,
+      "kind": "video",
+      "src": "broll/eucalipto-juantombo_s_19.mp4"
+    },
+    {
+      "from": 16859,
+      "dur": 483,
+      "kind": "video",
+      "src": "broll/eucalipto-juantombo_s_20.mp4"
+    },
+    {
+      "from": 17342,
+      "dur": 254,
+      "kind": "video",
+      "src": "broll/eucalipto-juantombo_s_21.mp4"
+    },
+    {
+      "from": 17596,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/eucalipto-juantombo_s_22.mp4"
+    },
+    {
+      "from": 24183,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/eucalipto-juantombo_s_25.mp4"
+    },
+    {
+      "from": 25219,
+      "dur": 461,
+      "kind": "video",
+      "src": "broll/eucalipto-juantombo_s_26.mp4"
+    },
+    {
+      "from": 27762,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/eucalipto-juantombo_s_27.mp4"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1650,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "REMEDIOS CON CRITERIO MÉDICO",
+        "title": "Dr. Juan Tomás",
+        "sub": "El eucalipto, bien usado"
+      }
+    },
+    {
+      "from": 2500,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "EUCALIPTOL",
+        "sub": "afloja el moco y despeja las vías",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 3137,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "BENEFICIO 3",
+        "title": "Ungüento en el pecho",
+        "sub": "para respirar mejor de noche"
+      }
+    },
+    {
+      "from": 4193,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 5707,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "BENEFICIO 2",
+        "title": "Tos y garganta",
+        "sub": "calma la irritación"
+      }
+    },
+    {
+      "from": 9372,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 9761,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "CASO REAL",
+        "title": "Doña Rosa y su nieto",
+        "sub": "casi le da el aceite a tomar"
+      }
+    },
+    {
+      "from": 11047,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 11950,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 3,
+        "suffix": " gotas",
+        "label": "de aceite, no más"
+      }
+    },
+    {
+      "from": 13422,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 15225,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "NO TE LO SALTEES",
+        "title": "Las advertencias"
+      }
+    },
+    {
+      "from": 15503,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "☠️",
+        "title": "NUNCA tomes el aceite",
+        "sub": "concentrado: tóxico, sobre todo en niños",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 15882,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "NUNCA SE TOMA",
+        "sub": "se respira o va en la piel, diluido",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 16139,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "🍼",
+        "title": "Bebés y niños pequeños",
+        "sub": "puede afectar su respiración — solo con el pediatra",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 16859,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "🫁",
+        "title": "Asma",
+        "sub": "el vapor fuerte puede irritar — consultá",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 17342,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "🤰",
+        "title": "Embarazo y lactancia",
+        "sub": "evitá el aceite o consultá con tu médico",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 23534,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 24162,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "MANOS A LA OBRA",
+        "title": "Cómo elegirlo y guardarlo"
+      }
+    },
+    {
+      "from": 27222,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi guía de remedios naturales",
+        "items": [
+          "Vaporización segura paso a paso",
+          "Cuidados con los más chicos",
+          "Qué usar para cada cosa"
+        ]
+      }
+    },
+    {
+      "from": 28332,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 1404,
+      "dur": 195,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que vas a ver hoy",
+        "items": [
+          "Para qué sirve el eucalipto de verdad",
+          "Cómo hacer una vaporización segura",
+          "Qué NUNCA hacer con él"
+        ]
+      }
+    },
+    {
+      "from": 3462,
+      "dur": 225,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "La regla de oro",
+        "left": {
+          "label": "Respirado / en la piel",
+          "sub": "seguro y efectivo"
+        },
+        "right": {
+          "label": "Tomado (el aceite)",
+          "sub": "¡peligroso, puede ser tóxico!"
+        }
+      }
+    },
+    {
+      "from": 4692,
+      "dur": 225,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Para qué SÍ sirve",
+        "items": [
+          "Congestión nasal y del pecho",
+          "Alivio de la tos y la garganta",
+          "Ungüentos sobre el pecho",
+          "Antiséptico y aroma"
+        ]
+      }
+    },
+    {
+      "from": 11652,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Vaporización segura",
+        "title": "Paso a paso",
+        "steps": [
+          {
+            "title": "Agua caliente, fuera del fuego",
+            "sub": "unas hojas o 2-3 gotas, no más"
+          },
+          {
+            "title": "Cara a ~30 cm, ojos cerrados",
+            "sub": "toalla en la cabeza, 5-10 min"
+          },
+          {
+            "title": "1-2 veces al día",
+            "sub": "siempre un adulto"
+          }
+        ]
+      }
+    },
+    {
+      "from": 18612,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Tomar unas gotas de aceite de eucalipto cura la gripe más rápido.",
+        "truth": "Falso y peligroso. El aceite NO se toma: puede ser tóxico. Se respira o se usa sobre la piel diluido."
+      }
+    },
+    {
+      "from": 18973,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El eucalipto cura el asma.",
+        "truth": "Falso. Alivia una congestión, pero no cura el asma, e incluso puede empeorarla en algunos. El asma se trata con el médico."
+      }
+    },
+    {
+      "from": 19390,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Como es un vapor natural, se lo puedo poner a mi bebé.",
+        "truth": "Falso y peligroso. En bebés el eucaliptol puede afectar seriamente la respiración. Nada de eucalipto en los más chiquitos sin el pediatra."
+      }
+    },
+    {
+      "from": 19715,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Como es natural, no puede hacer mal.",
+        "truth": "Falso. El aceite puede ser tóxico si se toma y peligroso en niños. Natural no es inofensivo."
+      }
+    },
+    {
+      "from": 25680,
+      "dur": 240,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Qué esperar",
+        "title": "El eucalipto, siendo realista",
+        "steps": [
+          {
+            "when": "Al vaporizar",
+            "text": "respirás y descansás mejor"
+          },
+          {
+            "when": "Durante el resfrío",
+            "text": "alivia los síntomas"
+          },
+          {
+            "when": "Nunca",
+            "text": "no cura la infección ni reemplaza al médico"
+          }
+        ]
+      }
+    },
+    {
+      "from": 27372,
+      "dur": 210,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "earth",
+        "quote": "El eucalipto no es un milagro: es un gran aliado de los días de frío, de esos que usaban nuestros abuelos con sabiduría."
+      }
+    }
+  ]
+}
