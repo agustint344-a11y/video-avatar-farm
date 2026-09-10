@@ -46,8 +46,9 @@ if (!only) {
   const listPath = `${TMP}/_list_${slug}.txt`;
   const tarPath = `${TMP}/assets-${slug}.tar`;
   fs.writeFileSync(listPath, files.join("\n"));
-  sh(`tar -cf "${tarPath}" -C public -T "${listPath}"`);
-  const badPaths = out(`tar -tf "${tarPath}"`).split(/\r?\n/).filter((l) => l.startsWith("public/")).length;
+  // --force-local: GNU tar interpreta "D:/..." como host:path (rsh) y falla; esto lo trata como ruta local.
+  sh(`tar --force-local -cf "${tarPath}" -C public -T "${listPath}"`);
+  const badPaths = out(`tar --force-local -tf "${tarPath}"`).split(/\r?\n/).filter((l) => l.startsWith("public/")).length;
   if (badPaths > 0) throw new Error("El tar tiene rutas con prefijo public/ — deben ser relativas a public/");
   try { sh(`${GH} release delete assets-${slug} --repo ${REPO} --yes --cleanup-tag`); } catch {}
   sh(`${GH} release create assets-${slug} --repo ${REPO} --title assets-${slug} --notes assets "${tarPath}"`);
