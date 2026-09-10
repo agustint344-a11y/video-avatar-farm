@@ -9,9 +9,9 @@ const OUT_HTML = "C:/Users/Teje/AppData/Local/Temp/claude/C--Users-Teje-Desktop-
 const read = (f) => fs.readFileSync(G + f, "utf8").trim();
 
 const videos = [
-  { slug: "magnesio-elena", emoji: "💊", accent: "#0d9488", tema: "Dra. Elena Vidal", temaTag: "Salud · turquesa", dur: "≈ 19 min",
-    titulo: "MAGNESIO: para qué sirve DE VERDAD y por qué el que comprás quizás NO te funciona",
-    desc: `El magnesio se puso de moda y hoy se vende para todo... pero casi nadie sabe que hay VARIOS tipos, y que elegir el equivocado es la razón por la que a mucha gente "no le hace nada" o solo le da diarrea. La Dra. Elena Vidal te explica, con evidencia y sin exagerar, para qué sirve de verdad (calambres, descanso, tránsito intestinal, presión), la diferencia clave entre citrato, glicinato y óxido, cómo reponerlo empezando por la comida, los mitos ("cura la ansiedad", el spray en la piel) y las advertencias serias (riñones, medicación).
+  { slug: "vinagre-elena", emoji: "🍎", accent: "#0d9488", tema: "Dra. Elena Vidal", temaTag: "Salud · turquesa", dur: "≈ 19 min",
+    titulo: "VINAGRE DE MANZANA: la verdad sobre adelgazar y el azúcar (y por qué tomarlo así te DAÑA)",
+    desc: `Al vinagre de manzana le colgaron mil promesas: que derrite grasa, que cura la diabetes, que desintoxica... La Dra. Elena Vidal separa, con evidencia y sin exagerar, lo real de lo mágico: sí tiene un efecto modesto sobre el azúcar en sangre y la saciedad, pero NO quema grasa ni cura nada. Y lo más importante: cómo tomarlo seguro (nunca puro), los mitos peligrosos, y las advertencias serias para tus dientes, tu estómago y si tomás medicación.
 
 👉 Mi guía "El Método Bienestar Natural" está en el comentario fijado y en el primer enlace de la descripción.
 
@@ -19,11 +19,11 @@ const videos = [
     comentario: `📘 Te dejé mi guía "El Método Bienestar Natural" acá 👇
 https://guia-bienestar-natural-oficial.vercel.app/?utm_source=youtube&utm_medium=comment#oferta
 
-Y acordate: si vas a suplementar, elegí el TIPO correcto (citrato, glicinato u óxido según lo que buscás) y empezá siempre por la comida. Y si tenés temas de riñón, solo con tu médico 💚`,
-    mini: `Miniatura de YouTube 1280x720, fondo 100% NEGRO puro. Usá la foto de referencia adjunta de la Dra. Elena Vidal RESPETANDO SU CARA, recreada en otra pose (no recortar la foto): en un CÍRCULO con borde difuminado en la esquina superior derecha, con bata blanca, señalando con expresión de advertencia amable. Abajo a la izquierda, una mano sosteniendo unas cápsulas. En el centro, un frasco de suplemento de magnesio abierto con cápsulas derramándose junto a semillas de zapallo, almendras y un cuadrado de chocolate amargo. Arriba a la izquierda, texto en MAYÚSCULAS tipografía Impact con grueso contorno negro: "MAGNESIO" en amarillo y debajo "¿EL EQUIVOCADO?" en blanco. Estilo dopamínico, colores vivos sobre el negro, ultra nítido, alto contraste.` },
-  { slug: "bicarbonato-juantombo", emoji: "🧂", accent: "#b45309", tema: "Dr. Juan Tombo", temaTag: "Remedios caseros · tierra", dur: "≈ 18 min",
-    titulo: "BICARBONATO de sodio: sirve para esto, pero TOMARLO así es PELIGROSO (mitos graves)",
-    desc: `El bicarbonato está en toda cocina y se dice que cura de todo... pero tomarlo mal, y sobre todo todos los días, puede hacerte daño de verdad. El Dr. Juan Tomás te explica, con criterio médico, para qué sirve realmente (antiácido ocasional, limpieza del hogar), cómo usarlo seguro, y desarma los mitos MÁS peligrosos: que "cura el cáncer alcalinizando", que "limpia la sangre" en ayunas, y el error de usarlo para blanquear los dientes. Advertencias serias: presión, corazón, riñones y medicación.
+Y acordate: NUNCA lo tomes puro, siempre bien diluido en un vaso de agua, con las comidas, y cuidá el esmalte de tus dientes. No derrite grasa: es un pequeño aliado, no magia 🍎`,
+    mini: `Miniatura de YouTube 1280x720, fondo 100% NEGRO puro. Usá la foto de referencia adjunta de la Dra. Elena Vidal RESPETANDO SU CARA, recreada en otra pose (no recortar la foto): en un CÍRCULO con borde difuminado en la esquina superior derecha, con bata blanca, señalando con expresión de advertencia amable. Abajo a la izquierda, una mano sosteniendo una cuchara con líquido ámbar. En el centro, una botella de vinagre de manzana y un vaso de agua con vinagre y una manzana roja al lado. Arriba a la izquierda, texto en MAYÚSCULAS tipografía Impact con grueso contorno negro: "VINAGRE" en amarillo y debajo "¿ADELGAZA?" en blanco. Estilo dopamínico, colores vivos sobre el negro, ultra nítido, alto contraste.` },
+  { slug: "miel-juantombo", emoji: "🍯", accent: "#b45309", tema: "Dr. Juan Tombo", temaTag: "Remedios caseros · tierra", dur: "≈ 18 min",
+    titulo: "MIEL: el mejor remedio para la TOS... pero para los bebés puede ser MORTAL (nadie lo dice)",
+    desc: `La miel es de los pocos remedios de la abuela que la ciencia SÍ respalda: calma la tos y la garganta tan bien como algunos jarabes. Pero hay una advertencia de seguridad gravísima que todo padre y abuelo tiene que conocer: NUNCA miel a un bebé menor de un año (riesgo de botulismo). El Dr. Juan Tomás te explica, con criterio médico, para qué sirve de verdad, cómo usarla bien, y desarma los mitos (que "cura las alergias", que es "azúcar sano sin límite").
 
 👉 La guía "El Método Bienestar Natural" está en el comentario fijado y en el primer enlace de la descripción.
 
@@ -31,20 +31,20 @@ Y acordate: si vas a suplementar, elegí el TIPO correcto (citrato, glicinato u 
     comentario: `📘 Te dejé la guía "El Método Bienestar Natural" acá 👇
 https://guia-bienestar-natural-git-ve-312784-agustins-projects-da4b6a55.vercel.app/#oferta
 
-⚠️ IMPORTANTE: el bicarbonato NUNCA se toma todos los días (es altísimo en sodio) y NO cura el cáncer ni "alcaliniza" nada. Por fuera es genial para limpiar; por dentro, solo antiácido de emergencia muy de vez en cuando 🧂`,
-    mini: `Miniatura de YouTube 1280x720, fondo 100% NEGRO puro. Usá la foto de referencia adjunta del Dr. Juan Tomás RESPETANDO SU CARA, recreado en otra pose (no recortar la foto): en un CÍRCULO con borde difuminado en la esquina superior derecha, con scrubs azul marino, con la mano en alto en gesto de "alto/pará", expresión de advertencia seria. Abajo a la izquierda, una mano sosteniendo una cuchara colmada de polvo blanco. En el centro, un frasco/caja de bicarbonato de sodio y un vaso de agua con el polvo disolviéndose y burbujas. Arriba a la izquierda, texto en MAYÚSCULAS tipografía Impact con grueso contorno negro: "BICARBONATO" en amarillo y debajo "¡NO LO TOMES ASÍ!" en blanco. Estilo dopamínico, alto contraste, ultra nítido.` },
-  { slug: "coins-atticfortune", emoji: "🪙", accent: "#a16207", tema: "Attic Fortune", temaTag: "Inglés · Walt Hargrove", dur: "≈ 14 min",
-    titulo: "10 Old Coins in Your Drawer Worth a FORTUNE! (Check the Date & Mint Mark)",
-    desc: `That jar of old coins could be worth hundreds — even thousands — to the right collector. Veteran appraiser Walt Hargrove walks you through 10 old coins hiding in American homes, from silver dimes and quarters and Morgan dollars to rare-date wheat pennies and mint errors. Learn why condition is king, the two tiny things to check on every coin (date & mint mark), and the #1 mistake that destroys a coin's value in seconds.
+⚠️ IMPORTANTÍSIMO: NUNCA le des miel a un bebé menor de 1 año (riesgo de botulismo, puede ser mortal). Y aunque sea natural, sigue siendo azúcar. Compartí esto con toda persona que tenga un bebé en casa 🍯`,
+    mini: `Miniatura de YouTube 1280x720, fondo 100% NEGRO puro. Usá la foto de referencia adjunta del Dr. Juan Tomás RESPETANDO SU CARA, recreado en otra pose (no recortar la foto): en un CÍRCULO con borde difuminado en la esquina superior derecha, con scrubs azul marino, con la mano en alto en gesto de "alto/pará", expresión de advertencia seria. Abajo a la izquierda, una mano sosteniendo una cuchara chorreando miel dorada. En el centro, un frasco de miel con el aplicador y miel cayendo, muy brillante. Arriba a la izquierda, texto en MAYÚSCULAS tipografía Impact con grueso contorno negro: "MIEL" en amarillo y debajo "¡OJO CON LOS BEBÉS!" en blanco. Estilo dopamínico, dorado vivo sobre el negro, ultra nítido, alto contraste.` },
+  { slug: "vinyl-atticfortune", emoji: "🎵", accent: "#a16207", tema: "Attic Fortune", temaTag: "Inglés · Walt Hargrove", dur: "≈ 14 min",
+    titulo: "10 Old Vinyl Records in Your Attic Worth a FORTUNE! (It's All About the Pressing)",
+    desc: `That crate of old records in the basement could be worth hundreds — even thousands — to the right collector. Veteran appraiser Walt Hargrove walks you through 10 old vinyl records hiding in American homes, from first-pressing jazz and rare soul singles to sealed albums, promos, and colored vinyl. Learn why the pressing (not just the album) changes everything, what to check on every record, and the #1 mistake that destroys the value.
 
-👉 Get the full guide (dates, mint marks & current values) in the pinned comment and the first link below.
+👉 Get the full guide (records, pressings & current values) in the pinned comment and the first link below.
 
-Before you spend it, check its worth.`,
+Before you toss it, check its worth.`,
     comentario: `📘 Get my full Attic Fortune guide here 👇
 https://attic-fortune.vercel.app
 
-Tell me: what old coins have you got tucked away? 🪙 And remember — check the DATE and the MINT MARK, silver hides in pre-1965 change, and NEVER clean your coins!`,
-    mini: `YouTube thumbnail 1280x720, Attic Fortune style. Use the attached reference photo of Walt Hargrove KEEPING HIS FACE (older appraiser, white beard, plaid shirt and denim overalls), recreated in a new pose (do not crop the photo) inside his rustic barn workshop, holding up a gleaming old silver coin between his fingers toward the camera with a surprised expression, an open cigar box full of old coins in front of him. Text: a red rusty "BEWARE" sign top-left; "WORTH" in yellow and "$4,000?" in big white below it (Impact font, thick black outline); a bold yellow curved arrow pointing at the coin. Warm barn lighting, ultra sharp, high contrast.` },
+Tell me: what old records have you got tucked away? 🎵 And remember — it's the PRESSING that matters, check for promos & sealed copies, and NEVER play a valuable record on a worn-out turntable!`,
+    mini: `YouTube thumbnail 1280x720, Attic Fortune style. Use the attached reference photo of Walt Hargrove KEEPING HIS FACE (older appraiser, white beard, plaid shirt and denim overalls), recreated in a new pose (do not crop the photo) inside his rustic barn workshop, holding up an old vinyl record pulled halfway out of its sleeve toward the camera with a surprised expression, a wooden crate full of old records in front of him. Text: a red rusty "BEWARE" sign top-left; "WORTH" in yellow and "$5,000?" in big white below it (Impact font, thick black outline); a bold yellow curved arrow pointing at the record. Warm barn lighting, ultra sharp, high contrast.` },
 ];
 
 for (const v of videos) v.guion = read(v.slug + "_guion.txt");
