@@ -1,0 +1,445 @@
+{
+  "slug": "bicarbonato-juantombo",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 20400,
+  "broll": [
+    {
+      "from": 43,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/bicarbonato-juantombo_s_01.mp4"
+    },
+    {
+      "from": 2466,
+      "dur": 138,
+      "kind": "video",
+      "src": "broll/bicarbonato-juantombo_s_02.mp4"
+    },
+    {
+      "from": 2604,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/bicarbonato-juantombo_s_03.mp4"
+    },
+    {
+      "from": 4443,
+      "dur": 81,
+      "kind": "video",
+      "src": "broll/bicarbonato-juantombo_s_05.mp4"
+    },
+    {
+      "from": 4524,
+      "dur": 740,
+      "kind": "video",
+      "src": "broll/bicarbonato-juantombo_s_04.mp4"
+    },
+    {
+      "from": 5353,
+      "dur": 438,
+      "kind": "video",
+      "src": "broll/bicarbonato-juantombo_s_08.mp4"
+    },
+    {
+      "from": 5791,
+      "dur": 328,
+      "kind": "video",
+      "src": "broll/bicarbonato-juantombo_s_09.mp4"
+    },
+    {
+      "from": 6780,
+      "dur": 269,
+      "kind": "video",
+      "src": "broll/bicarbonato-juantombo_s_10.mp4"
+    },
+    {
+      "from": 7049,
+      "dur": 248,
+      "kind": "video",
+      "src": "broll/bicarbonato-juantombo_s_11.mp4"
+    },
+    {
+      "from": 7297,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/bicarbonato-juantombo_s_12.mp4"
+    },
+    {
+      "from": 10418,
+      "dur": 637,
+      "kind": "video",
+      "src": "broll/bicarbonato-juantombo_s_13.mp4"
+    },
+    {
+      "from": 11055,
+      "dur": 529,
+      "kind": "video",
+      "src": "broll/bicarbonato-juantombo_s_14.mp4"
+    },
+    {
+      "from": 11584,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/bicarbonato-juantombo_s_15.mp4"
+    },
+    {
+      "from": 14264,
+      "dur": 380,
+      "kind": "video",
+      "src": "broll/bicarbonato-juantombo_s_19.mp4"
+    },
+    {
+      "from": 16659,
+      "dur": 353,
+      "kind": "video",
+      "src": "broll/bicarbonato-juantombo_s_20.mp4"
+    },
+    {
+      "from": 17012,
+      "dur": 213,
+      "kind": "video",
+      "src": "broll/bicarbonato-juantombo_s_21.mp4"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1620,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "REMEDIOS CON CRITERIO MÉDICO",
+        "title": "Dr. Juan Tomás",
+        "sub": "El bicarbonato, con cabeza"
+      }
+    },
+    {
+      "from": 2528,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "NEUTRALIZA EL ÁCIDO",
+        "sub": "de ahí sale casi todo lo que sí hace",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 3599,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 4112,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 4644,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "BENEFICIO 1",
+        "title": "Antiácido ocasional",
+        "sub": "neutraliza el ácido, alivio rápido"
+      }
+    },
+    {
+      "from": 4996,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "BENEFICIO 2",
+        "title": "Limpieza del hogar",
+        "sub": "desodoriza y limpia, sin riesgo"
+      }
+    },
+    {
+      "from": 5614,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "BENEFICIO 3",
+        "title": "Uso externo suave",
+        "sub": "por ejemplo, una picadura"
+      }
+    },
+    {
+      "from": 6780,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "CASO REAL",
+        "title": "Don Alberto, 60 años",
+        "sub": "lo tomaba después de cada comida"
+      }
+    },
+    {
+      "from": 8192,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 9967,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "NO TE LO SALTEES",
+        "title": "Las advertencias"
+      }
+    },
+    {
+      "from": 10281,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "☠️",
+        "title": "Nunca a diario ni en cantidad",
+        "sub": "altísimo en sodio: sube la presión y descompensa",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 11020,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "❤️",
+        "title": "Presión, corazón o riñones",
+        "sub": "por el sodio, es especialmente riesgoso — no lo tomes solo",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 11454,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "💊",
+        "title": "Si tomás medicación",
+        "sub": "cambia la absorción de muchos remedios — consultá",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 15523,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi guía de remedios naturales",
+        "items": [
+          "Usos seguros del bicarbonato",
+          "Qué NUNCA hacer con él",
+          "Remedios caseros con criterio"
+        ]
+      }
+    },
+    {
+      "from": 15598,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 15818,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 16480,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "MANOS A LA OBRA",
+        "title": "Su lugar: la casa"
+      }
+    },
+    {
+      "from": 19674,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 1234,
+      "dur": 195,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que vas a ver hoy",
+        "items": [
+          "Para qué sirve el bicarbonato de verdad",
+          "Cómo usarlo seguro",
+          "Los mitos peligrosos que tenés que conocer"
+        ]
+      }
+    },
+    {
+      "from": 4112,
+      "dur": 225,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Para qué SÍ sirve",
+        "items": [
+          "Antiácido de emergencia (ocasional)",
+          "Limpiar y desodorizar la casa",
+          "Aliviar una picadura (por fuera)"
+        ]
+      }
+    },
+    {
+      "from": 6119,
+      "dur": 225,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "La regla de oro",
+        "left": {
+          "label": "Por fuera (casa y piel)",
+          "sub": "seguro y muy útil"
+        },
+        "right": {
+          "label": "Tomado, seguido",
+          "sub": "¡peligroso: altísimo en sodio!"
+        }
+      }
+    },
+    {
+      "from": 8778,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Antiácido de emergencia",
+        "title": "Solo si alguna vez lo usás",
+        "steps": [
+          {
+            "title": "Media cucharadita, no una colmada",
+            "sub": "en un buen vaso de agua"
+          },
+          {
+            "title": "Muy ocasional, nunca rutina",
+            "sub": "no todos los días"
+          },
+          {
+            "title": "Si es frecuente, al médico",
+            "sub": "hay que estudiar la causa"
+          }
+        ]
+      }
+    },
+    {
+      "from": 12364,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El bicarbonato cura el cáncer porque alcaliniza el cuerpo.",
+        "truth": "Rotundamente falso y peligrosísimo. El cuerpo regula su acidez solo. Abandonar un tratamiento real por esto puede costar la vida."
+      }
+    },
+    {
+      "from": 13353,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Tomarlo en ayunas te limpia la sangre y te desintoxica.",
+        "truth": "Falso. Para eso tenés hígado y riñones. Tomarlo a diario solo te mete sodio de más y descompensa tu estómago."
+      }
+    },
+    {
+      "from": 13963,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Es un buen blanqueador de dientes para usar siempre.",
+        "truth": "Cuidado. Es abrasivo: usarlo seguido te desgasta el esmalte, que no se recupera. Alguna vez puntual, no como hábito."
+      }
+    },
+    {
+      "from": 14644,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Como es natural y casero, cuanto más tomes, mejor.",
+        "truth": "Todo lo contrario. Es de los remedios donde el exceso es claramente peligroso. Poco y ocasional; mucho y seguido hace daño."
+      }
+    },
+    {
+      "from": 17225,
+      "dur": 240,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Qué esperar",
+        "title": "El bicarbonato, siendo realista",
+        "steps": [
+          {
+            "when": "Ocasional",
+            "text": "alivia una acidez puntual"
+          },
+          {
+            "when": "En la casa",
+            "text": "limpia y desodoriza barato"
+          },
+          {
+            "when": "Nunca",
+            "text": "no cura, no desintoxica, no alcaliniza"
+          }
+        ]
+      }
+    },
+    {
+      "from": 19172,
+      "dur": 210,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "earth",
+        "quote": "El bicarbonato no es un veneno ni una medicina milagrosa: es una herramienta casera útil y barata que hay que usar con cabeza, sobre todo al tomarla."
+      }
+    }
+  ]
+}

@@ -1,0 +1,484 @@
+{
+  "slug": "coins-atticfortune",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 19307,
+  "broll": [
+    {
+      "from": 128,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/coins-atticfortune_s_01.png"
+    },
+    {
+      "from": 247,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/coins-atticfortune_s_02.png"
+    },
+    {
+      "from": 1033,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/coins-atticfortune_s_03.png"
+    },
+    {
+      "from": 3457,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/coins-atticfortune_s_05.png"
+    },
+    {
+      "from": 3760,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/coins-atticfortune_s_06.png"
+    },
+    {
+      "from": 4550,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/coins-atticfortune_s_07.png"
+    },
+    {
+      "from": 5268,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/coins-atticfortune_s_08.png"
+    },
+    {
+      "from": 6135,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/coins-atticfortune_s_09.png"
+    },
+    {
+      "from": 6841,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/coins-atticfortune_s_10.png"
+    },
+    {
+      "from": 7769,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/coins-atticfortune_s_11.png"
+    },
+    {
+      "from": 8763,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/coins-atticfortune_s_12.png"
+    },
+    {
+      "from": 9501,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/coins-atticfortune_s_13.png"
+    },
+    {
+      "from": 10165,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/coins-atticfortune_s_14.png"
+    },
+    {
+      "from": 11084,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/coins-atticfortune_s_15.png"
+    },
+    {
+      "from": 12355,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/coins-atticfortune_s_16.png"
+    },
+    {
+      "from": 13830,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/coins-atticfortune_s_17.png"
+    },
+    {
+      "from": 15734,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/coins-atticfortune_s_19.png"
+    },
+    {
+      "from": 18417,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/coins-atticfortune_s_21.png"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 669,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 1137,
+      "dur": 102,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CHECK ITS WORTH",
+        "sub": "before you spend it",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 1319,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "ATTIC FORTUNE",
+        "title": "Walt Hargrove",
+        "sub": "40+ years appraising attic & drawer finds"
+      }
+    },
+    {
+      "from": 3760,
+      "dur": 195,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "FREE GUIDE",
+        "title": "The Attic Fortune Guide",
+        "items": [
+          "Exact coins, dates & price ranges",
+          "How to spot fakes & value your piece",
+          "Coins, watches, tools & more"
+        ]
+      }
+    },
+    {
+      "from": 3760,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 4550,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#10",
+        "title": "Foreign & Colonial"
+      }
+    },
+    {
+      "from": 5268,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#9",
+        "title": "Old Pennies"
+      }
+    },
+    {
+      "from": 6135,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#8",
+        "title": "Buffalo & Liberty Nickels"
+      }
+    },
+    {
+      "from": 6841,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#7",
+        "title": "Silver Dimes & Quarters"
+      }
+    },
+    {
+      "from": 7769,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#6",
+        "title": "Silver Dollars"
+      }
+    },
+    {
+      "from": 7769,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 8763,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#5",
+        "title": "Error Coins"
+      }
+    },
+    {
+      "from": 9537,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#4",
+        "title": "Gold Coins"
+      }
+    },
+    {
+      "from": 10165,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#3",
+        "title": "Proof & Mint Sets"
+      }
+    },
+    {
+      "from": 11084,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#2",
+        "title": "The Rare Date"
+      }
+    },
+    {
+      "from": 12355,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#1",
+        "title": "Uncirculated & Original"
+      }
+    },
+    {
+      "from": 14447,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "$4,000+",
+        "sub": "the coin in the cigar box",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 14866,
+      "dur": 195,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "GRAB IT FIRST",
+        "title": "The Attic Fortune Guide",
+        "items": [
+          "Know what it's worth before you sell",
+          "Real sold-price ranges",
+          "Plain English, no jargon"
+        ]
+      }
+    },
+    {
+      "from": 14866,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 16508,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "label": "Caution",
+        "icon": "🚫",
+        "title": "Never clean your coins",
+        "sub": "a wipe or polish erases most of the value",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 16977,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "label": "Caution",
+        "icon": "⚠️",
+        "title": "Don't sell in a hurry",
+        "sub": "the eager buyer usually knows something you don't",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 17506,
+      "dur": 195,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "EVERYTHING INSIDE",
+        "title": "The Attic Fortune Guide",
+        "items": [
+          "Identify your coin step by step",
+          "What collectors pay right now",
+          "Link pinned in the comments"
+        ]
+      }
+    },
+    {
+      "from": 17506,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 18792,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 669,
+      "dur": 150,
+      "comp": "BigStat",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ONE OLD COIN",
+        "prefix": "$",
+        "value": 4000,
+        "suffix": "?",
+        "support": "what a scarce date in silver can bring"
+      }
+    },
+    {
+      "from": 2523,
+      "dur": 180,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Why old coins pay now",
+        "items": [
+          "Real silver hides in old pocket change",
+          "Scarce dates & mint marks are chased",
+          "The right ones sell for real money"
+        ]
+      }
+    },
+    {
+      "from": 7174,
+      "dur": 180,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Silver vs. clad",
+        "left": {
+          "label": "PRE-1965",
+          "sub": "~90% silver — worth many times face"
+        },
+        "right": {
+          "label": "AFTER 1965",
+          "sub": "clad, made by the billions — worth little"
+        }
+      }
+    },
+    {
+      "from": 11588,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "mythLabel": "Myth",
+        "truthLabel": "Truth",
+        "myth": "It's just old change, it's worth face value.",
+        "truth": "A scarce date or mint mark on an ordinary-looking coin routinely sells for hundreds, and the best climb into the thousands."
+      }
+    },
+    {
+      "from": 15206,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HOW TO VALUE IT",
+        "title": "Check it in 4 steps",
+        "steps": [
+          {
+            "title": "Date & mint mark",
+            "sub": "the tiny year and the letter"
+          },
+          {
+            "title": "The metal",
+            "sub": "pre-1965 silver, or gold"
+          },
+          {
+            "title": "Condition, never cleaned",
+            "sub": "sharp, original surfaces"
+          }
+        ]
+      }
+    },
+    {
+      "from": 18064,
+      "dur": 180,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "earth",
+        "quote": "The only difference between the person who spent it and the person who cashed in was knowing what to look for.",
+        "author": "Walt Hargrove"
+      }
+    }
+  ]
+}

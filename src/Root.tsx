@@ -27,6 +27,8 @@ import clavoCues from "./VideoEdit/data/cues_clavo-juantombo.json";
 import jengibreCues from "./VideoEdit/data/cues_jengibre-elena.json";
 import romeroDolorCues from "./VideoEdit/data/cues_romero-dolor.json";
 import magnesioCues from "./VideoEdit/data/cues_magnesio-elena.json";
+import bicarbonatoCues from "./VideoEdit/data/cues_bicarbonato-juantombo.json";
+import coinsAtticCues from "./VideoEdit/data/cues_coins-atticfortune.json";
 
 export const RemotionRoot: React.FC = () => {
   const chia = chiaCues as Cues;
@@ -52,6 +54,8 @@ export const RemotionRoot: React.FC = () => {
   const jengibre = jengibreCues as Cues;
   const romeroDolor = romeroDolorCues as Cues;
   const magnesio = magnesioCues as Cues;
+  const bicarbonato = bicarbonatoCues as Cues;
+  const coinsAttic = coinsAtticCues as Cues;
   return (
     <>
       <Composition
@@ -229,6 +233,8 @@ export const RemotionRoot: React.FC = () => {
       <Composition id="EucaliptoJuanTombo" component={VideoMain} durationInFrames={eucalipto.durationInFrames} fps={eucalipto.fps} width={eucalipto.width} height={eucalipto.height} defaultProps={{ cues: eucalipto }} />
       <Composition id="WatchesAttic" component={VideoMain} durationInFrames={watches.durationInFrames} fps={watches.fps} width={watches.width} height={watches.height} defaultProps={{ cues: watches }} />
       <Composition id="MagnesioElena" component={VideoMain} durationInFrames={magnesio.durationInFrames} fps={magnesio.fps} width={magnesio.width} height={magnesio.height} defaultProps={{ cues: magnesio }} />
+      <Composition id="BicarbonatoJuanTombo" component={VideoMain} durationInFrames={bicarbonato.durationInFrames} fps={bicarbonato.fps} width={bicarbonato.width} height={bicarbonato.height} defaultProps={{ cues: bicarbonato }} />
+      <Composition id="CoinsAttic" component={VideoMain} durationInFrames={coinsAttic.durationInFrames} fps={coinsAttic.fps} width={coinsAttic.width} height={coinsAttic.height} defaultProps={{ cues: coinsAttic }} />
     </>
   );
 };
