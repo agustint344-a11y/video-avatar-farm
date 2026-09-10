@@ -40,12 +40,19 @@ if (!only) {
     ? fs.readFileSync(listArg.slice(1), "utf8").split(/\r?\n/).filter(Boolean)
     : [];
   if (!files.length) throw new Error("Pasá @_<slug>_assets.txt con rutas RELATIVAS a public/");
-  fs.writeFileSync("_list.txt", files.join("\n"));
-  sh(`tar -cf assets-${slug}.tar -C public -T _list.txt`);
-  const badPaths = out(`tar -tf assets-${slug}.tar`).split(/\r?\n/).filter((l) => l.startsWith("public/")).length;
+  // Temporales (list + tar) en D:, NO en C: — el .tar pesa cientos de MB por video.
+  const TMP = "D:/CLAUDE/_tmp";
+  fs.mkdirSync(TMP, { recursive: true });
+  const listPath = `${TMP}/_list_${slug}.txt`;
+  const tarPath = `${TMP}/assets-${slug}.tar`;
+  fs.writeFileSync(listPath, files.join("\n"));
+  sh(`tar -cf "${tarPath}" -C public -T "${listPath}"`);
+  const badPaths = out(`tar -tf "${tarPath}"`).split(/\r?\n/).filter((l) => l.startsWith("public/")).length;
   if (badPaths > 0) throw new Error("El tar tiene rutas con prefijo public/ — deben ser relativas a public/");
   try { sh(`${GH} release delete assets-${slug} --repo ${REPO} --yes --cleanup-tag`); } catch {}
-  sh(`${GH} release create assets-${slug} --repo ${REPO} --title assets-${slug} --notes assets assets-${slug}.tar`);
+  sh(`${GH} release create assets-${slug} --repo ${REPO} --title assets-${slug} --notes assets "${tarPath}"`);
+  // borrar temporales al terminar de subir
+  try { fs.rmSync(tarPath, { force: true }); fs.rmSync(listPath, { force: true }); } catch {}
 }
 
 // 3) disparar

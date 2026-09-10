@@ -1,0 +1,486 @@
+{
+  "slug": "magnesio-elena",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 28861,
+  "broll": [
+    {
+      "from": 122,
+      "dur": 693,
+      "kind": "video",
+      "src": "broll/magnesio-elena_s_01.mp4"
+    },
+    {
+      "from": 815,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/magnesio-elena_s_02.mp4"
+    },
+    {
+      "from": 3268,
+      "dur": 94,
+      "kind": "video",
+      "src": "broll/magnesio-elena_s_03.mp4"
+    },
+    {
+      "from": 3362,
+      "dur": 80,
+      "kind": "video",
+      "src": "broll/magnesio-elena_s_04.mp4"
+    },
+    {
+      "from": 3442,
+      "dur": 610,
+      "kind": "video",
+      "src": "broll/magnesio-elena_s_05.mp4"
+    },
+    {
+      "from": 4052,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/magnesio-elena_s_06.mp4"
+    },
+    {
+      "from": 6316,
+      "dur": 526,
+      "kind": "video",
+      "src": "broll/magnesio-elena_s_07.mp4"
+    },
+    {
+      "from": 6842,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/magnesio-elena_s_08.mp4"
+    },
+    {
+      "from": 7756,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/magnesio-elena_s_09.mp4"
+    },
+    {
+      "from": 8633,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/magnesio-elena_s_10.mp4"
+    },
+    {
+      "from": 9437,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/magnesio-elena_s_11.mp4"
+    },
+    {
+      "from": 11926,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/magnesio-elena_s_12.mp4"
+    },
+    {
+      "from": 13813,
+      "dur": 82,
+      "kind": "video",
+      "src": "broll/magnesio-elena_s_15.mp4"
+    },
+    {
+      "from": 13895,
+      "dur": 212,
+      "kind": "video",
+      "src": "broll/magnesio-elena_s_16.mp4"
+    },
+    {
+      "from": 14107,
+      "dur": 172,
+      "kind": "video",
+      "src": "broll/magnesio-elena_s_17.mp4"
+    },
+    {
+      "from": 14279,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/magnesio-elena_s_18.mp4"
+    },
+    {
+      "from": 16344,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/magnesio-elena_s_19.mp4"
+    },
+    {
+      "from": 20199,
+      "dur": 693,
+      "kind": "video",
+      "src": "broll/magnesio-elena_s_20.mp4"
+    },
+    {
+      "from": 24098,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/magnesio-elena_s_21.mp4"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2116,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "REMEDIOS CON EVIDENCIA",
+        "title": "Dra. Elena Vidal",
+        "sub": "El magnesio, bien usado"
+      }
+    },
+    {
+      "from": 3160,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "clinic",
+        "value": 300,
+        "suffix": "+",
+        "label": "reacciones en tu cuerpo"
+      }
+    },
+    {
+      "from": 5174,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 6062,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 1",
+        "title": "Músculos y calambres",
+        "sub": "ayuda al músculo a relajarse"
+      }
+    },
+    {
+      "from": 6786,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 2",
+        "title": "Descanso y relajación",
+        "sub": "una ayuda suave, no un somnífero"
+      }
+    },
+    {
+      "from": 7673,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 3",
+        "title": "Tránsito intestinal",
+        "sub": "el tipo correcto ayuda a ir de cuerpo"
+      }
+    },
+    {
+      "from": 9437,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "CASO REAL",
+        "title": "Silvia, 50 años",
+        "sub": "mezclaba suplementos sin criterio"
+      }
+    },
+    {
+      "from": 10753,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 10938,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi guía de remedios naturales",
+        "items": [
+          "Qué tipo de magnesio elegir",
+          "Cantidades seguras",
+          "Cómo reponerlo desde la comida"
+        ]
+      }
+    },
+    {
+      "from": 11337,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "EL SECRETO",
+        "title": "Qué tipo de magnesio"
+      }
+    },
+    {
+      "from": 11765,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 14610,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 16037,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "NO TE LO SALTEES",
+        "title": "Las advertencias"
+      }
+    },
+    {
+      "from": 16344,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Riñones",
+        "sub": "si hay enfermedad renal, solo con tu médico",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 17012,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🚽",
+        "title": "Efecto laxante",
+        "sub": "demasiado (óxido/citrato) da diarrea — bajá la dosis",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 17605,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "💊",
+        "title": "Interacciones",
+        "sub": "separá de antibióticos y tiroides varias horas",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 18237,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🧴",
+        "title": "No acumules",
+        "sub": "multis, laxantes y antiácidos ya traen magnesio",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 20199,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "EL SPRAY NO HACE MAGIA",
+        "sub": "para reponer, mejor tomado",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 23167,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 24041,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "MANOS A LA OBRA",
+        "title": "Cómo elegir el suplemento"
+      }
+    },
+    {
+      "from": 28061,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 1568,
+      "dur": 195,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Lo que vas a ver hoy",
+        "items": [
+          "Para qué sirve el magnesio de verdad",
+          "El secreto: qué tipo elegir",
+          "Cómo reponerlo y las advertencias"
+        ]
+      }
+    },
+    {
+      "from": 5743,
+      "dur": 225,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Para qué SÍ sirve",
+        "items": [
+          "Músculos y calambres",
+          "Descanso y relajación",
+          "Tránsito intestinal",
+          "Apoyo modesto a la presión"
+        ]
+      }
+    },
+    {
+      "from": 11542,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "clinic",
+        "title": "No todos son iguales",
+        "left": {
+          "label": "Citrato / Glicinato",
+          "sub": "se absorben bien: para calambres y descanso"
+        },
+        "right": {
+          "label": "Óxido (el barato)",
+          "sub": "se absorbe poco: sobre todo laxante"
+        }
+      }
+    },
+    {
+      "from": 13477,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Cómo usarlo bien",
+        "title": "Paso a paso",
+        "steps": [
+          {
+            "title": "Primero, la comida",
+            "sub": "semillas, frutos secos, legumbres, hoja verde"
+          },
+          {
+            "title": "Elegí el tipo según lo que buscás",
+            "sub": "citrato, glicinato u óxido"
+          },
+          {
+            "title": "Dosis sensata, con constancia",
+            "sub": "más NO es mejor"
+          }
+        ]
+      }
+    },
+    {
+      "from": 19441,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "El magnesio cura la ansiedad y la depresión.",
+        "truth": "Falso dicho así. Puede ayudar a relajarte si andabas bajo, pero la ansiedad y la depresión se tratan con un profesional. No abandones ningún tratamiento."
+      }
+    },
+    {
+      "from": 20892,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Cuanto más magnesio, mejor y más rápido dormís.",
+        "truth": "Falso, es al revés. Pasarte solo te da diarrea y malestar. El cuerpo repone lo que le falta, no acumula superpoderes."
+      }
+    },
+    {
+      "from": 21497,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Como es natural y es un mineral, lo puede tomar cualquiera sin riesgo.",
+        "truth": "Falso. En quien tiene los riñones comprometidos puede ser peligroso, y puede interferir con medicamentos. Natural no es inofensivo."
+      }
+    },
+    {
+      "from": 25093,
+      "dur": 240,
+      "comp": "Timeline",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Qué esperar",
+        "title": "El magnesio, siendo realista",
+        "steps": [
+          {
+            "when": "Si andabas bajo",
+            "text": "aflojan calambres y tensión"
+          },
+          {
+            "when": "Con constancia",
+            "text": "descansás un poco mejor"
+          },
+          {
+            "when": "Nunca",
+            "text": "no cura la ansiedad ni hace magia"
+          }
+        ]
+      }
+    },
+    {
+      "from": 27483,
+      "dur": 210,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "El magnesio no es una pastilla mágica: es un mineral esencial y humilde que, bien repuesto, ayuda a que tu cuerpo funcione un poco mejor cada día."
+      }
+    }
+  ]
+}
