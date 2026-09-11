@@ -1,0 +1,479 @@
+{
+  "slug": "vinagre-elena",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 43937,
+  "broll": [
+    {
+      "from": 38,
+      "dur": 273,
+      "kind": "video",
+      "src": "broll/vinagre-elena_s_01.mp4"
+    },
+    {
+      "from": 311,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/vinagre-elena_s_02.mp4"
+    },
+    {
+      "from": 3933,
+      "dur": 464,
+      "kind": "video",
+      "src": "broll/vinagre-elena_s_03.mp4"
+    },
+    {
+      "from": 4397,
+      "dur": 433,
+      "kind": "video",
+      "src": "broll/vinagre-elena_s_04.mp4"
+    },
+    {
+      "from": 4830,
+      "dur": 100,
+      "kind": "video",
+      "src": "broll/vinagre-elena_s_05.mp4"
+    },
+    {
+      "from": 4930,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/vinagre-elena_s_06.mp4"
+    },
+    {
+      "from": 9340,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/vinagre-elena_s_07.mp4"
+    },
+    {
+      "from": 11164,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/vinagre-elena_s_08.mp4"
+    },
+    {
+      "from": 12521,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/vinagre-elena_s_09.mp4"
+    },
+    {
+      "from": 14376,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/vinagre-elena_s_10.mp4"
+    },
+    {
+      "from": 21239,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/vinagre-elena_s_13.mp4"
+    },
+    {
+      "from": 23166,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/vinagre-elena_s_12.mp4"
+    },
+    {
+      "from": 24726,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/vinagre-elena_s_15.mp4"
+    },
+    {
+      "from": 25515,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/vinagre-elena_s_16.mp4"
+    },
+    {
+      "from": 30714,
+      "dur": 745,
+      "kind": "video",
+      "src": "broll/vinagre-elena_s_18.mp4"
+    },
+    {
+      "from": 33297,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/vinagre-elena_s_20.mp4"
+    },
+    {
+      "from": 37234,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/vinagre-elena_s_21.mp4"
+    },
+    {
+      "from": 39682,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/vinagre-elena_s_23.mp4"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2379,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "REMEDIOS CON EVIDENCIA",
+        "title": "Dra. Elena Vidal",
+        "sub": "El vinagre de manzana, sin mitos"
+      }
+    },
+    {
+      "from": 4397,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "ÁCIDO ACÉTICO",
+        "sub": "hace lo bueno y también lo malo",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 6443,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 7793,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 1",
+        "title": "Azúcar en sangre",
+        "sub": "suaviza el pico tras comer"
+      }
+    },
+    {
+      "from": 9056,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 9340,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 2",
+        "title": "Saciedad",
+        "sub": "ayuda a comer con menos ansiedad"
+      }
+    },
+    {
+      "from": 11122,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 3",
+        "title": "En la cocina",
+        "sub": "aderezo rico y bajo en calorías"
+      }
+    },
+    {
+      "from": 11803,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 14376,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "CASO REAL",
+        "title": "Marta, 45 años",
+        "sub": "lo tomaba puro y en ayunas"
+      }
+    },
+    {
+      "from": 17006,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 22403,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "NO TE LO SALTEES",
+        "title": "Las advertencias"
+      }
+    },
+    {
+      "from": 22980,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🦷",
+        "title": "Tus dientes",
+        "sub": "erosiona el esmalte, que no se recupera — diluí y usá sorbete",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 23845,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🔥",
+        "title": "Estómago y esófago",
+        "sub": "con reflujo o gastritis, mejor evitalo",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 24565,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "💊",
+        "title": "Medicamentos",
+        "sub": "diuréticos, insulina y diabetes — consultá",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 33297,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "CASO REAL",
+        "title": "Jorge, 55 años",
+        "sub": "lo usó bien, dentro de un cambio real"
+      }
+    },
+    {
+      "from": 36195,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 36348,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi guía de remedios naturales",
+        "items": [
+          "Cantidades y diluciones seguras",
+          "Cómo cuidar tus dientes",
+          "Qué esperar de verdad"
+        ]
+      }
+    },
+    {
+      "from": 37159,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "MANOS A LA OBRA",
+        "title": "Cómo elegirlo y guardarlo"
+      }
+    },
+    {
+      "from": 37234,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "LA MADRE",
+        "sub": "buena señal, pero no hace milagros",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 42689,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 1675,
+      "dur": 195,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Lo que vas a ver hoy",
+        "items": [
+          "Para qué sirve el vinagre de verdad",
+          "Cómo tomarlo seguro (nunca puro)",
+          "Los mitos y las advertencias"
+        ]
+      }
+    },
+    {
+      "from": 1866,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Cómo tomarlo",
+        "title": "Si querés probarlo",
+        "steps": [
+          {
+            "title": "Nunca puro, siempre diluido",
+            "sub": "1 cucharada en un vaso grande de agua"
+          },
+          {
+            "title": "Con las comidas",
+            "sub": "no en ayunas y concentrado"
+          },
+          {
+            "title": "Cuidá los dientes",
+            "sub": "sorbete y no cepillarte enseguida"
+          }
+        ]
+      }
+    },
+    {
+      "from": 7364,
+      "dur": 225,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Para qué SÍ sirve",
+        "items": [
+          "Suaviza el pico de azúcar tras comer",
+          "Un poco de saciedad",
+          "Aderezo rico y bajo en calorías"
+        ]
+      }
+    },
+    {
+      "from": 18308,
+      "dur": 225,
+      "comp": "Compare",
+      "props": {
+        "theme": "clinic",
+        "title": "La regla de oro",
+        "left": {
+          "label": "Diluido, con comida",
+          "sub": "seguro y con algún beneficio"
+        },
+        "right": {
+          "label": "Puro y en ayunas",
+          "sub": "¡daña dientes y estómago!"
+        }
+      }
+    },
+    {
+      "from": 27674,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "El vinagre en ayunas quema grasa y adelgaza solo.",
+        "truth": "Falso. No quema grasa. A lo sumo, un apoyo diminuto dentro de un plan. Adelgazar es alimentación, movimiento y descanso."
+      }
+    },
+    {
+      "from": 29141,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "El vinagre de manzana cura la diabetes.",
+        "truth": "Falso. Ayuda modestamente a suavizar el azúcar, pero NO cura ni reemplaza tu tratamiento. Nunca abandones tu medicación."
+      }
+    },
+    {
+      "from": 30170,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Te desintoxica y te limpia el hígado y la sangre.",
+        "truth": "Falso. Para eso tenés hígado y riñones, que trabajan solos las 24 horas. No hay limpieza mágica, es puro marketing."
+      }
+    },
+    {
+      "from": 31459,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "En la piel cura el acné y sirve de tónico facial.",
+        "truth": "Cuidado. Puro o mal diluido puede causar quemaduras químicas. Para tu piel, un dermatólogo, no un video."
+      }
+    },
+    {
+      "from": 38706,
+      "dur": 240,
+      "comp": "Timeline",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Qué esperar",
+        "title": "El vinagre, siendo realista",
+        "steps": [
+          {
+            "when": "Con las comidas",
+            "text": "suaviza el pico de azúcar"
+          },
+          {
+            "when": "A veces",
+            "text": "un poco más de saciedad"
+          },
+          {
+            "when": "Nunca",
+            "text": "no derrite grasa ni cura nada"
+          }
+        ]
+      }
+    },
+    {
+      "from": 41893,
+      "dur": 210,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "El vinagre de manzana no es una poción mágica para adelgazar: es un condimento humilde con un pequeño extra para el azúcar, que hay que usar con cabeza."
+      }
+    }
+  ]
+}

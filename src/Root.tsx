@@ -29,6 +29,9 @@ import romeroDolorCues from "./VideoEdit/data/cues_romero-dolor.json";
 import magnesioCues from "./VideoEdit/data/cues_magnesio-elena.json";
 import bicarbonatoCues from "./VideoEdit/data/cues_bicarbonato-juantombo.json";
 import coinsAtticCues from "./VideoEdit/data/cues_coins-atticfortune.json";
+import vinagreCues from "./VideoEdit/data/cues_vinagre-elena.json";
+import mielCues from "./VideoEdit/data/cues_miel-juantombo.json";
+import vinylCues from "./VideoEdit/data/cues_vinyl-atticfortune.json";
 
 export const RemotionRoot: React.FC = () => {
   const chia = chiaCues as Cues;
@@ -56,6 +59,9 @@ export const RemotionRoot: React.FC = () => {
   const magnesio = magnesioCues as Cues;
   const bicarbonato = bicarbonatoCues as Cues;
   const coinsAttic = coinsAtticCues as Cues;
+  const vinagre = vinagreCues as Cues;
+  const miel = mielCues as Cues;
+  const vinyl = vinylCues as Cues;
   return (
     <>
       <Composition
@@ -235,6 +241,9 @@ export const RemotionRoot: React.FC = () => {
       <Composition id="MagnesioElena" component={VideoMain} durationInFrames={magnesio.durationInFrames} fps={magnesio.fps} width={magnesio.width} height={magnesio.height} defaultProps={{ cues: magnesio }} />
       <Composition id="BicarbonatoJuanTombo" component={VideoMain} durationInFrames={bicarbonato.durationInFrames} fps={bicarbonato.fps} width={bicarbonato.width} height={bicarbonato.height} defaultProps={{ cues: bicarbonato }} />
       <Composition id="CoinsAttic" component={VideoMain} durationInFrames={coinsAttic.durationInFrames} fps={coinsAttic.fps} width={coinsAttic.width} height={coinsAttic.height} defaultProps={{ cues: coinsAttic }} />
+      <Composition id="VinagreElena" component={VideoMain} durationInFrames={vinagre.durationInFrames} fps={vinagre.fps} width={vinagre.width} height={vinagre.height} defaultProps={{ cues: vinagre }} />
+      <Composition id="MielJuanTombo" component={VideoMain} durationInFrames={miel.durationInFrames} fps={miel.fps} width={miel.width} height={miel.height} defaultProps={{ cues: miel }} />
+      <Composition id="VinylAttic" component={VideoMain} durationInFrames={vinyl.durationInFrames} fps={vinyl.fps} width={vinyl.width} height={vinyl.height} defaultProps={{ cues: vinyl }} />
     </>
   );
 };

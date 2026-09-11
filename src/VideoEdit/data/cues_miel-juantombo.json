@@ -1,0 +1,503 @@
+{
+  "slug": "miel-juantombo",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 34109,
+  "broll": [
+    {
+      "from": 5,
+      "dur": 97,
+      "kind": "video",
+      "src": "broll/miel-juantombo_s_01.mp4"
+    },
+    {
+      "from": 102,
+      "dur": 407,
+      "kind": "video",
+      "src": "broll/miel-juantombo_s_02.mp4"
+    },
+    {
+      "from": 3496,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/miel-juantombo_s_03.mp4"
+    },
+    {
+      "from": 3676,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/miel-juantombo_s_04.mp4"
+    },
+    {
+      "from": 6396,
+      "dur": 521,
+      "kind": "video",
+      "src": "broll/miel-juantombo_s_05.mp4"
+    },
+    {
+      "from": 6917,
+      "dur": 290,
+      "kind": "video",
+      "src": "broll/miel-juantombo_s_06.mp4"
+    },
+    {
+      "from": 7207,
+      "dur": 610,
+      "kind": "video",
+      "src": "broll/miel-juantombo_s_07.mp4"
+    },
+    {
+      "from": 7817,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/miel-juantombo_s_08.mp4"
+    },
+    {
+      "from": 9255,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/miel-juantombo_s_09.mp4"
+    },
+    {
+      "from": 10938,
+      "dur": 122,
+      "kind": "video",
+      "src": "broll/miel-juantombo_s_10.mp4"
+    },
+    {
+      "from": 11712,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/miel-juantombo_s_11.mp4"
+    },
+    {
+      "from": 13221,
+      "dur": 592,
+      "kind": "video",
+      "src": "broll/miel-juantombo_s_12.mp4"
+    },
+    {
+      "from": 13813,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/miel-juantombo_s_13.mp4"
+    },
+    {
+      "from": 16299,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/miel-juantombo_s_14.mp4"
+    },
+    {
+      "from": 18580,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/miel-juantombo_s_15.mp4"
+    },
+    {
+      "from": 20023,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/miel-juantombo_s_16.mp4"
+    },
+    {
+      "from": 23427,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/miel-juantombo_s_17.mp4"
+    },
+    {
+      "from": 24965,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/miel-juantombo_s_18.mp4"
+    },
+    {
+      "from": 28175,
+      "dur": 633,
+      "kind": "video",
+      "src": "broll/miel-juantombo_s_20.mp4"
+    },
+    {
+      "from": 28808,
+      "dur": 738,
+      "kind": "video",
+      "src": "broll/miel-juantombo_s_21.mp4"
+    },
+    {
+      "from": 29546,
+      "dur": 353,
+      "kind": "video",
+      "src": "broll/miel-juantombo_s_22.mp4"
+    },
+    {
+      "from": 30527,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/miel-juantombo_s_23.mp4"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1897,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "REMEDIOS CON CRITERIO MÉDICO",
+        "title": "Dr. Juan Tomás",
+        "sub": "La miel, con cabeza"
+      }
+    },
+    {
+      "from": 5388,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 6043,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 6396,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "BENEFICIO 1",
+        "title": "Tos y garganta",
+        "sub": "tan bien como algunos jarabes"
+      }
+    },
+    {
+      "from": 7557,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 7817,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "BENEFICIO 2",
+        "title": "Heridas",
+        "sub": "solo miel de grado médico"
+      }
+    },
+    {
+      "from": 9255,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "BENEFICIO 3",
+        "title": "Endulzante",
+        "sub": "un poco mejor, con moderación"
+      }
+    },
+    {
+      "from": 10857,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "NUNCA ANTES DEL AÑO",
+        "sub": "riesgo de botulismo del lactante",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 11712,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "BOTULISMO DEL LACTANTE",
+        "sub": "puede ser mortal en bebés",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 13221,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "CASO REAL",
+        "title": "Doña Rosa y su nieto",
+        "sub": "casi le da miel a un bebé de 8 meses"
+      }
+    },
+    {
+      "from": 15122,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 17830,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "NO TE LO SALTEES",
+        "title": "Las advertencias"
+      }
+    },
+    {
+      "from": 18227,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "🚫",
+        "title": "Nunca antes del año",
+        "sub": "riesgo de botulismo — sin excepciones",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 18580,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "🩸",
+        "title": "Sigue siendo azúcar",
+        "sub": "sube la glucosa igual — ojo diabetes",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 19652,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "⚖️",
+        "title": "Tiene muchas calorías",
+        "sub": "natural no es libre de calorías",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 27298,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 28120,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "MANOS A LA OBRA",
+        "title": "Cómo elegirla y guardarla"
+      }
+    },
+    {
+      "from": 28808,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SE CRISTALIZA = PURA",
+        "sub": "es buena señal, no se echó a perder",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 32963,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi guía de remedios naturales",
+        "items": [
+          "Usos seguros de la miel",
+          "Qué NUNCA hacer (¡bebés!)",
+          "Remedios caseros con criterio"
+        ]
+      }
+    },
+    {
+      "from": 33157,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 509,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "La miel de tu zona cura las alergias al polen.",
+        "truth": "Falso. Suena lógico, pero la evidencia no lo respalda. No funciona como cura de las alergias."
+      }
+    },
+    {
+      "from": 1422,
+      "dur": 195,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que vas a ver hoy",
+        "items": [
+          "Para qué sirve la miel de verdad",
+          "Cómo usarla bien",
+          "Una advertencia que salva vidas"
+        ]
+      }
+    },
+    {
+      "from": 4703,
+      "dur": 225,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Por qué funciona",
+        "left": {
+          "label": "Antibacteriana",
+          "sub": "acidez, densidad y agua oxigenada"
+        },
+        "right": {
+          "label": "Calma y recubre",
+          "sub": "protege la garganta irritada"
+        }
+      }
+    },
+    {
+      "from": 6043,
+      "dur": 225,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Para qué SÍ sirve",
+        "items": [
+          "Tos y garganta (¡bien respaldado!)",
+          "Heridas (solo miel de grado médico)",
+          "Endulzante un poco mejor que el azúcar"
+        ]
+      }
+    },
+    {
+      "from": 11060,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Como la miel es natural, se le puede dar a un bebé.",
+        "truth": "FALSO Y PELIGROSO. Antes del año puede causar botulismo del lactante, que puede ser mortal. Nada de miel hasta el primer año cumplido."
+      }
+    },
+    {
+      "from": 15622,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Cómo usarla",
+        "title": "Para mayores de 1 año",
+        "steps": [
+          {
+            "title": "Una cucharada para la tos",
+            "sub": "sola o en infusión tibia"
+          },
+          {
+            "title": "Tibia, NUNCA hirviendo",
+            "sub": "el calor fuerte le quita propiedades"
+          },
+          {
+            "title": "Como endulzante, con moderación",
+            "sub": "sigue siendo azúcar"
+          }
+        ]
+      }
+    },
+    {
+      "from": 20837,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Es un azúcar sano que podés comer sin límite.",
+        "truth": "Falso. Es un poco mejor que el azúcar común, pero sigue siendo azúcar: sube la glucosa y engorda igual. Con moderación."
+      }
+    },
+    {
+      "from": 21830,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Como es antibacteriana, le pongo la del frasco a cualquier herida.",
+        "truth": "Cuidado. La de grado médico es esterilizada; la de la cocina no, y puede infectar una herida seria. Para eso, el médico."
+      }
+    },
+    {
+      "from": 29899,
+      "dur": 240,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Qué esperar",
+        "title": "La miel, siendo realista",
+        "steps": [
+          {
+            "when": "Con un resfrío",
+            "text": "calma la tos y la garganta"
+          },
+          {
+            "when": "Como endulzante",
+            "text": "un poco mejor, con moderación"
+          },
+          {
+            "when": "Antes del año",
+            "text": "jamás: puede ser mortal"
+          }
+        ]
+      }
+    },
+    {
+      "from": 32366,
+      "dur": 210,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "earth",
+        "quote": "La miel no es una medicina milagrosa ni un azúcar libre de culpa: es un remedio noble y con respaldo para cosas puntuales, que hay que usar con cabeza."
+      }
+    }
+  ]
+}

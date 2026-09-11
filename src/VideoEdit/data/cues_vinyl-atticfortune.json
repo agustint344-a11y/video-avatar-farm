@@ -1,0 +1,501 @@
+{
+  "slug": "vinyl-atticfortune",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 35994,
+  "broll": [
+    {
+      "from": 1376,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/vinyl-atticfortune_s_03.png"
+    },
+    {
+      "from": 3197,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/vinyl-atticfortune_s_04.png"
+    },
+    {
+      "from": 6615,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/vinyl-atticfortune_s_05.png"
+    },
+    {
+      "from": 7743,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/vinyl-atticfortune_s_06.png"
+    },
+    {
+      "from": 8963,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/vinyl-atticfortune_s_07.png"
+    },
+    {
+      "from": 9983,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/vinyl-atticfortune_s_08.png"
+    },
+    {
+      "from": 11014,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/vinyl-atticfortune_s_09.png"
+    },
+    {
+      "from": 12282,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/vinyl-atticfortune_s_10.png"
+    },
+    {
+      "from": 13777,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/vinyl-atticfortune_s_11.png"
+    },
+    {
+      "from": 15061,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/vinyl-atticfortune_s_12.png"
+    },
+    {
+      "from": 16204,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/vinyl-atticfortune_s_13.png"
+    },
+    {
+      "from": 18025,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/vinyl-atticfortune_s_14.png"
+    },
+    {
+      "from": 20199,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/vinyl-atticfortune_s_15.png"
+    },
+    {
+      "from": 22964,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/vinyl-atticfortune_s_17.png"
+    },
+    {
+      "from": 25064,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/vinyl-atticfortune_s_18.png"
+    },
+    {
+      "from": 27697,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/vinyl-atticfortune_s_19.png"
+    },
+    {
+      "from": 28282,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/vinyl-atticfortune_s_20.png"
+    },
+    {
+      "from": 30409,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/vinyl-atticfortune_s_22.png"
+    },
+    {
+      "from": 31919,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/vinyl-atticfortune_s_21.png"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 991,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 1527,
+      "dur": 102,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CHECK ITS WORTH",
+        "sub": "before you toss it",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 1763,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "ATTIC FORTUNE",
+        "title": "Walt Hargrove",
+        "sub": "40+ years appraising attic & basement finds"
+      }
+    },
+    {
+      "from": 3197,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "IT'S THE PRESSING",
+        "sub": "which version, not just the album",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 5645,
+      "dur": 195,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "FREE GUIDE",
+        "title": "The Attic Fortune Guide",
+        "items": [
+          "Exact records, pressings & price ranges",
+          "How to spot the valuable versions",
+          "Records, coins, tools & more"
+        ]
+      }
+    },
+    {
+      "from": 5645,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 6615,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#10",
+        "title": "Classic Rock First Pressings"
+      }
+    },
+    {
+      "from": 7743,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#9",
+        "title": "Jazz on the Right Labels"
+      }
+    },
+    {
+      "from": 8963,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#8",
+        "title": "Blues & Early Rock'n'Roll"
+      }
+    },
+    {
+      "from": 9983,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#7",
+        "title": "Soul, Funk & Rare Groove"
+      }
+    },
+    {
+      "from": 11014,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#6",
+        "title": "Movie Soundtracks"
+      }
+    },
+    {
+      "from": 12282,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#5",
+        "title": "Picture Discs, Colored & Promos"
+      }
+    },
+    {
+      "from": 13777,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#4",
+        "title": "Still Sealed"
+      }
+    },
+    {
+      "from": 13777,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 15061,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#3",
+        "title": "Rare Singles & Rockabilly"
+      }
+    },
+    {
+      "from": 16204,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#2",
+        "title": "The Famous Album, Rare Pressing"
+      }
+    },
+    {
+      "from": 18025,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#1",
+        "title": "Rare Original, Complete"
+      }
+    },
+    {
+      "from": 21192,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "$5,000+",
+        "sub": "the jazz record in the milk crate",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 21841,
+      "dur": 195,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "GRAB IT FIRST",
+        "title": "The Attic Fortune Guide",
+        "items": [
+          "Know what it's worth before you sell",
+          "Real sold-price ranges",
+          "Plain English, no jargon"
+        ]
+      }
+    },
+    {
+      "from": 21841,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 24318,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "label": "Caution",
+        "icon": "🚫",
+        "title": "Don't clean or play it carelessly",
+        "sub": "a worn needle or harsh cleaning wrecks the value",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 30308,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "label": "Caution",
+        "icon": "⚠️",
+        "title": "Don't sell in a hurry",
+        "sub": "the eager buyer usually knows something you don't",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 31254,
+      "dur": 195,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "EVERYTHING INSIDE",
+        "title": "The Attic Fortune Guide",
+        "items": [
+          "Identify your records step by step",
+          "What collectors pay right now",
+          "Link pinned in the comments"
+        ]
+      }
+    },
+    {
+      "from": 31254,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 35187,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 991,
+      "dur": 150,
+      "comp": "BigStat",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ONE OLD RECORD",
+        "prefix": "$",
+        "value": 5000,
+        "suffix": "?",
+        "support": "what a rare first pressing can bring"
+      }
+    },
+    {
+      "from": 3872,
+      "dur": 180,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "First pressing vs. reprint",
+        "left": {
+          "label": "FIRST PRESSING",
+          "sub": "original run — worth 10–20x more"
+        },
+        "right": {
+          "label": "LATER REPRINT",
+          "sub": "made by the millions — worth little"
+        }
+      }
+    },
+    {
+      "from": 4684,
+      "dur": 180,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Why old records pay now",
+        "items": [
+          "The pressing matters more than the album",
+          "First pressings & promos are chased",
+          "Clean & complete sells for real money"
+        ]
+      }
+    },
+    {
+      "from": 16671,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "mythLabel": "Myth",
+        "truthLabel": "Truth",
+        "myth": "Everybody owned it, so every copy is worth a dollar.",
+        "truth": "The first pressing or a pulled-cover version can bring hundreds or thousands, while the common copy is worth almost nothing."
+      }
+    },
+    {
+      "from": 22256,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HOW TO VALUE IT",
+        "title": "Check it in 4 steps",
+        "steps": [
+          {
+            "title": "Pressing & label",
+            "sub": "early original beats reprint"
+          },
+          {
+            "title": "Condition",
+            "sub": "clean vinyl & clean cover"
+          },
+          {
+            "title": "Complete & original",
+            "sub": "sleeve, inserts, ideally sealed"
+          }
+        ]
+      }
+    },
+    {
+      "from": 34376,
+      "dur": 180,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "earth",
+        "quote": "The only difference between the person who let a fortune go for a dollar and the person who cashed in was knowing what to look for.",
+        "author": "Walt Hargrove"
+      }
+    }
+  ]
+}
