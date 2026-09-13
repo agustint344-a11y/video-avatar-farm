@@ -35,6 +35,9 @@ import vinylCues from "./VideoEdit/data/cues_vinyl-atticfortune.json";
 import teverdeCues from "./VideoEdit/data/cues_teverde-elena.json";
 import comicsCues from "./VideoEdit/data/cues_comics-atticfortune.json";
 import limonCues from "./VideoEdit/data/cues_limon-juantombo.json";
+import avenaCues from "./VideoEdit/data/cues_avena-elena.json";
+import carbonCues from "./VideoEdit/data/cues_carbon-juantombo.json";
+import jewelryCues from "./VideoEdit/data/cues_jewelry-atticfortune.json";
 
 export const RemotionRoot: React.FC = () => {
   const chia = chiaCues as Cues;
@@ -68,6 +71,9 @@ export const RemotionRoot: React.FC = () => {
   const teverde = teverdeCues as Cues;
   const comics = comicsCues as Cues;
   const limon = limonCues as Cues;
+  const avena = avenaCues as Cues;
+  const carbon = carbonCues as Cues;
+  const jewelry = jewelryCues as Cues;
   return (
     <>
       <Composition
@@ -253,6 +259,9 @@ export const RemotionRoot: React.FC = () => {
       <Composition id="TeverdeElena" component={VideoMain} durationInFrames={teverde.durationInFrames} fps={teverde.fps} width={teverde.width} height={teverde.height} defaultProps={{ cues: teverde }} />
       <Composition id="ComicsAttic" component={VideoMain} durationInFrames={comics.durationInFrames} fps={comics.fps} width={comics.width} height={comics.height} defaultProps={{ cues: comics }} />
       <Composition id="LimonJuanTombo" component={VideoMain} durationInFrames={limon.durationInFrames} fps={limon.fps} width={limon.width} height={limon.height} defaultProps={{ cues: limon }} />
+      <Composition id="AvenaElena" component={VideoMain} durationInFrames={avena.durationInFrames} fps={avena.fps} width={avena.width} height={avena.height} defaultProps={{ cues: avena }} />
+      <Composition id="CarbonJuanTombo" component={VideoMain} durationInFrames={carbon.durationInFrames} fps={carbon.fps} width={carbon.width} height={carbon.height} defaultProps={{ cues: carbon }} />
+      <Composition id="JewelryAttic" component={VideoMain} durationInFrames={jewelry.durationInFrames} fps={jewelry.fps} width={jewelry.width} height={jewelry.height} defaultProps={{ cues: jewelry }} />
     </>
   );
 };

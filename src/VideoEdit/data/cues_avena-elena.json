@@ -1,0 +1,450 @@
+{
+  "slug": "avena-elena",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 35265,
+  "broll": [
+    {
+      "from": 100,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/avena-elena_s_01.mp4"
+    },
+    {
+      "from": 6356,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/avena-elena_s_03.mp4"
+    },
+    {
+      "from": 8123,
+      "dur": 645,
+      "kind": "video",
+      "src": "broll/avena-elena_s_05.mp4"
+    },
+    {
+      "from": 8768,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/avena-elena_s_06.mp4"
+    },
+    {
+      "from": 10554,
+      "dur": 581,
+      "kind": "video",
+      "src": "broll/avena-elena_s_07.mp4"
+    },
+    {
+      "from": 11135,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/avena-elena_s_08.mp4"
+    },
+    {
+      "from": 14358,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/avena-elena_s_10.mp4"
+    },
+    {
+      "from": 16322,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/avena-elena_s_12.mp4"
+    },
+    {
+      "from": 17861,
+      "dur": 626,
+      "kind": "video",
+      "src": "broll/avena-elena_s_14.mp4"
+    },
+    {
+      "from": 18487,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/avena-elena_s_15.mp4"
+    },
+    {
+      "from": 23382,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/avena-elena_s_18.mp4"
+    },
+    {
+      "from": 28032,
+      "dur": 619,
+      "kind": "video",
+      "src": "broll/avena-elena_s_22.mp4"
+    },
+    {
+      "from": 30531,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/avena-elena_s_20.mp4"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2187,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "REMEDIOS CON EVIDENCIA",
+        "title": "Dra. Elena Vidal",
+        "sub": "La avena, sin mitos"
+      }
+    },
+    {
+      "from": 3531,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "BETAGLUCANO",
+        "sub": "la fibra que baja el colesterol",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 5373,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 6356,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 1",
+        "title": "Corazón y colesterol",
+        "sub": "baja el colesterol malo (LDL)"
+      }
+    },
+    {
+      "from": 7270,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 7401,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 2",
+        "title": "Azúcar en sangre",
+        "sub": "sube más suave tras comer"
+      }
+    },
+    {
+      "from": 8097,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 3",
+        "title": "Digestión y flora",
+        "sub": "fibra y buen tránsito"
+      }
+    },
+    {
+      "from": 8768,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 4",
+        "title": "Saciedad",
+        "sub": "te llena, no quema grasa"
+      }
+    },
+    {
+      "from": 10554,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "CASO REAL",
+        "title": "Raúl, 55 años",
+        "sub": "comía cereales 'de avena' azucarados"
+      }
+    },
+    {
+      "from": 12210,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 14190,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "UN SOLO INGREDIENTE",
+        "sub": "avena, y nada más",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 16188,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "NO TE LO SALTEES",
+        "title": "Las advertencias"
+      }
+    },
+    {
+      "from": 16356,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🌾",
+        "title": "Celíacos",
+        "sub": "puede contaminarse — comprá certificada SIN gluten",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 17184,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "💨",
+        "title": "Empezá de a poco",
+        "sub": "mucha fibra de golpe hincha — subí gradual y tomá agua",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 17861,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🩸",
+        "title": "Diabetes con medicación",
+        "sub": "elegí la sin azúcar y controlá tus valores",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 26565,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 26790,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 27516,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "MANOS A LA OBRA",
+        "title": "Cómo elegirla y guardarla"
+      }
+    },
+    {
+      "from": 28275,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi guía de remedios naturales",
+        "items": [
+          "Cómo elegir la avena de verdad",
+          "Recetas sin azúcar",
+          "Cantidades y combinaciones"
+        ]
+      }
+    },
+    {
+      "from": 34428,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 1197,
+      "dur": 225,
+      "comp": "Compare",
+      "props": {
+        "theme": "clinic",
+        "title": "No es lo mismo",
+        "left": {
+          "label": "Avena de verdad",
+          "sub": "un ingrediente: avena. Baja el colesterol"
+        },
+        "right": {
+          "label": "\"Avena\" azucarada",
+          "sub": "barritas y cereales: casi una golosina"
+        }
+      }
+    },
+    {
+      "from": 1767,
+      "dur": 195,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Lo que vas a ver hoy",
+        "items": [
+          "Para qué sirve la avena de verdad",
+          "El secreto: el betaglucano",
+          "Cómo elegirla y las advertencias"
+        ]
+      }
+    },
+    {
+      "from": 6020,
+      "dur": 225,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Para qué SÍ sirve",
+        "items": [
+          "Baja el colesterol (¡muy probado!)",
+          "Suaviza el azúcar en sangre",
+          "Cuida la digestión",
+          "Da saciedad"
+        ]
+      }
+    },
+    {
+      "from": 13030,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Cómo elegirla y usarla",
+        "title": "Paso a paso",
+        "steps": [
+          {
+            "title": "Elegí avena de verdad",
+            "sub": "en copos, un solo ingrediente"
+          },
+          {
+            "title": "Con agua o leche y fruta",
+            "sub": "sin azúcar agregada"
+          },
+          {
+            "title": "Porción justa, con constancia",
+            "sub": "casi todos los días"
+          }
+        ]
+      }
+    },
+    {
+      "from": 19473,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "La avena engorda porque es pura harina.",
+        "truth": "Falso. Es un carbohidrato complejo con fibra y proteínas que da saciedad. Lo que engorda es la versión azucarada, no la avena de verdad."
+      }
+    },
+    {
+      "from": 20301,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "La avena en ayunas quema grasa y adelgaza sola.",
+        "truth": "Falso. Ayuda por la saciedad y el colesterol, pero no quema grasa. Adelgazar es alimentación, movimiento y descanso."
+      }
+    },
+    {
+      "from": 20903,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "El agua de avena colada tiene todos los beneficios.",
+        "truth": "No. Al colar y tirar el grano perdés la fibra y el betaglucano. Lo que cuida el colesterol es comer la avena, no solo el agüita."
+      }
+    },
+    {
+      "from": 21732,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Como es sana, cuanta más avena, mejor.",
+        "truth": "No. En exceso y con muchos agregados dulces, aporta muchas calorías y puede hincharte. La porción justa, con constancia."
+      }
+    },
+    {
+      "from": 28651,
+      "dur": 240,
+      "comp": "Timeline",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Qué esperar",
+        "title": "La avena, siendo realista",
+        "steps": [
+          {
+            "when": "Con constancia",
+            "text": "baja el colesterol de a poco"
+          },
+          {
+            "when": "Cada mañana",
+            "text": "energía y saciedad"
+          },
+          {
+            "when": "Nunca",
+            "text": "no quema grasa por sí sola"
+          }
+        ]
+      }
+    },
+    {
+      "from": 33732,
+      "dur": 210,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "La avena no es un producto de moda que promete adelgazarte, ni una bomba de carbohidratos que temer: es un alimento humilde y poderoso que cuida tu corazón cada mañana."
+      }
+    }
+  ]
+}

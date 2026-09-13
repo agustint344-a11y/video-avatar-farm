@@ -1,0 +1,477 @@
+{
+  "slug": "jewelry-atticfortune",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 36796,
+  "broll": [
+    {
+      "from": 292,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/jewelry-atticfortune_s_01.png"
+    },
+    {
+      "from": 1115,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/jewelry-atticfortune_s_03.png"
+    },
+    {
+      "from": 4038,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/jewelry-atticfortune_s_05.png"
+    },
+    {
+      "from": 4444,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/jewelry-atticfortune_s_06.png"
+    },
+    {
+      "from": 5427,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/jewelry-atticfortune_s_07.png"
+    },
+    {
+      "from": 6332,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/jewelry-atticfortune_s_08.png"
+    },
+    {
+      "from": 7160,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/jewelry-atticfortune_s_09.png"
+    },
+    {
+      "from": 8647,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/jewelry-atticfortune_s_11.png"
+    },
+    {
+      "from": 9874,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/jewelry-atticfortune_s_12.png"
+    },
+    {
+      "from": 11542,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/jewelry-atticfortune_s_14.png"
+    },
+    {
+      "from": 12534,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/jewelry-atticfortune_s_15.png"
+    },
+    {
+      "from": 13970,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/jewelry-atticfortune_s_16.png"
+    },
+    {
+      "from": 15701,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/jewelry-atticfortune_s_17.png"
+    },
+    {
+      "from": 17669,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/jewelry-atticfortune_s_20.png"
+    },
+    {
+      "from": 24064,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/jewelry-atticfortune_s_19.png"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 752,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 1228,
+      "dur": 102,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CHECK ITS WORTH",
+        "sub": "before you toss it",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 1402,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "ATTIC FORTUNE",
+        "title": "Walt Hargrove",
+        "sub": "40+ years appraising attic & drawer finds"
+      }
+    },
+    {
+      "from": 4444,
+      "dur": 195,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "FREE GUIDE",
+        "title": "The Attic Fortune Guide",
+        "items": [
+          "Exact makers, marks & price ranges",
+          "How to spot real gold vs plated",
+          "Jewelry, coins, watches & more"
+        ]
+      }
+    },
+    {
+      "from": 4444,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 5427,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#10",
+        "title": "Signed Costume Jewelry"
+      }
+    },
+    {
+      "from": 6332,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#9",
+        "title": "Sterling Silver"
+      }
+    },
+    {
+      "from": 7160,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#8",
+        "title": "Brooches & Pins"
+      }
+    },
+    {
+      "from": 7868,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#7",
+        "title": "Cameos & Victorian"
+      }
+    },
+    {
+      "from": 8647,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#6",
+        "title": "Watches as Jewelry"
+      }
+    },
+    {
+      "from": 9874,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#5",
+        "title": "Gold — Even Broken"
+      }
+    },
+    {
+      "from": 9874,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 10897,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#4",
+        "title": "Fine Wristwatches"
+      }
+    },
+    {
+      "from": 11542,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#3",
+        "title": "Real Gemstones"
+      }
+    },
+    {
+      "from": 12534,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#2",
+        "title": "The 'Junk' That's Real"
+      }
+    },
+    {
+      "from": 13970,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#1",
+        "title": "Antique + Maker + Material"
+      }
+    },
+    {
+      "from": 16583,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "$3,000+",
+        "sub": "the brooch in the cookie tin",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 17066,
+      "dur": 195,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "GRAB IT FIRST",
+        "title": "The Attic Fortune Guide",
+        "items": [
+          "Know what it's worth before you sell",
+          "Real sold-price ranges",
+          "Plain English, no jargon"
+        ]
+      }
+    },
+    {
+      "from": 17066,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 20900,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CHECK THE MARKS",
+        "sub": "14K · 585 · sterling · 925",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 22255,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "label": "Caution",
+        "icon": "🚫",
+        "title": "Don't clean or polish it",
+        "sub": "collectors want the original surface",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 28550,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "label": "Caution",
+        "icon": "⚠️",
+        "title": "Don't sell in a hurry",
+        "sub": "and never sell a collectible piece for scrap",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 29527,
+      "dur": 195,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "EVERYTHING INSIDE",
+        "title": "The Attic Fortune Guide",
+        "items": [
+          "Identify your pieces step by step",
+          "What buyers pay right now",
+          "Link pinned in the comments"
+        ]
+      }
+    },
+    {
+      "from": 29527,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 36015,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 752,
+      "dur": 150,
+      "comp": "BigStat",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ONE OLD PIECE",
+        "prefix": "$",
+        "value": 5000,
+        "suffix": "?",
+        "support": "what a signed or gold piece can bring"
+      }
+    },
+    {
+      "from": 2653,
+      "dur": 180,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "What decides the value",
+        "items": [
+          "What it's made of — gold, silver, gems",
+          "Who made it — maker & era",
+          "Even 'costume' can be worth a fortune"
+        ]
+      }
+    },
+    {
+      "from": 3818,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "mythLabel": "Myth",
+        "truthLabel": "Truth",
+        "myth": "If it isn't gold, it isn't worth money.",
+        "truth": "Some of the most valuable old jewelry is costume — not precious metal at all — but so collectible it sells for a fortune. Check the maker."
+      }
+    },
+    {
+      "from": 20660,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HOW TO VALUE IT",
+        "title": "Check it in 4 steps",
+        "steps": [
+          {
+            "title": "The marks",
+            "sub": "14K, 585, sterling, 925, a signature"
+          },
+          {
+            "title": "The material",
+            "sub": "real gold, silver or gems"
+          },
+          {
+            "title": "Maker & age, don't clean it",
+            "sub": "signed & antique beats a modern copy"
+          }
+        ]
+      }
+    },
+    {
+      "from": 28724,
+      "dur": 195,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Scrap vs. collectible",
+        "left": {
+          "label": "We-buy-gold counter",
+          "sub": "pays only melt value — pennies"
+        },
+        "right": {
+          "label": "Collector / auction",
+          "sub": "pays for maker & antique value"
+        }
+      }
+    },
+    {
+      "from": 35124,
+      "dur": 180,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "earth",
+        "quote": "The only difference between the person who let a fortune go for a dollar and the person who cashed in was knowing what to look for.",
+        "author": "Walt Hargrove"
+      }
+    }
+  ]
+}

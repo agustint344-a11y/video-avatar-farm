@@ -1,0 +1,470 @@
+{
+  "slug": "carbon-juantombo",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 34801,
+  "broll": [
+    {
+      "from": 376,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/carbon-juantombo_s_15.mp4"
+    },
+    {
+      "from": 1290,
+      "dur": 377,
+      "kind": "video",
+      "src": "broll/carbon-juantombo_s_07.mp4"
+    },
+    {
+      "from": 3246,
+      "dur": 192,
+      "kind": "video",
+      "src": "broll/carbon-juantombo_s_02.mp4"
+    },
+    {
+      "from": 3438,
+      "dur": 370,
+      "kind": "video",
+      "src": "broll/carbon-juantombo_s_03.mp4"
+    },
+    {
+      "from": 3808,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/carbon-juantombo_s_04.mp4"
+    },
+    {
+      "from": 5801,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/carbon-juantombo_s_05.mp4"
+    },
+    {
+      "from": 6899,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/carbon-juantombo_s_06.mp4"
+    },
+    {
+      "from": 10332,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/carbon-juantombo_s_08.mp4"
+    },
+    {
+      "from": 13690,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/carbon-juantombo_s_09.mp4"
+    },
+    {
+      "from": 17865,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/carbon-juantombo_s_10.mp4"
+    },
+    {
+      "from": 18752,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/carbon-juantombo_s_11.mp4"
+    },
+    {
+      "from": 19691,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/carbon-juantombo_s_12.mp4"
+    },
+    {
+      "from": 21780,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/carbon-juantombo_s_13.mp4"
+    },
+    {
+      "from": 23619,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/carbon-juantombo_s_22.mp4"
+    },
+    {
+      "from": 25559,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/carbon-juantombo_s_19.mp4"
+    },
+    {
+      "from": 26987,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/carbon-juantombo_s_14.mp4"
+    },
+    {
+      "from": 28339,
+      "dur": 731,
+      "kind": "video",
+      "src": "broll/carbon-juantombo_s_21.mp4"
+    },
+    {
+      "from": 29070,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/carbon-juantombo_s_20.mp4"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2024,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "REMEDIOS CON CRITERIO MÉDICO",
+        "title": "Dr. Juan Tomás",
+        "sub": "El carbón activado, con criterio"
+      }
+    },
+    {
+      "from": 4055,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ATRAPA TODO",
+        "sub": "veneno, nutrientes… y tus remedios",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 4946,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 5716,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 5796,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "USO REAL 1",
+        "title": "Intoxicaciones",
+        "sub": "en el hospital: salva vidas"
+      }
+    },
+    {
+      "from": 6828,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "USO REAL 2",
+        "title": "Gases",
+        "sub": "evidencia floja, muy ocasional"
+      }
+    },
+    {
+      "from": 8692,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ANULA TUS MEDICAMENTOS",
+        "sub": "incluidos los anticonceptivos",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 10277,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "CASO REAL",
+        "title": "Sofía",
+        "sub": "carbón detox + anticonceptivos = riesgo"
+      }
+    },
+    {
+      "from": 11523,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 12465,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "🥗",
+        "title": "Te atrapa los nutrientes",
+        "sub": "tomado seguido, te deja peor nutrido",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 13345,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "NO TE LO SALTEES",
+        "title": "Las advertencias"
+      }
+    },
+    {
+      "from": 13488,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "💊",
+        "title": "Si tomás medicación",
+        "sub": "el carbón puede anularla — hablá con tu médico",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 13677,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "⚫",
+        "title": "Estreñimiento y heces negras",
+        "sub": "puede enmascarar un sangrado digestivo",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 21780,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "CASO REAL",
+        "title": "Don Mario",
+        "sub": "el carbón le anulaba la pastilla de la presión"
+      }
+    },
+    {
+      "from": 23696,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 24530,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 29055,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi guía: modas con criterio",
+        "items": [
+          "Qué sirve y qué no",
+          "Por qué el 'detox' es un mito",
+          "Remedios caseros seguros"
+        ]
+      }
+    },
+    {
+      "from": 33113,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "NATURAL ≠ INOFENSIVO",
+        "sub": "usá siempre la cabeza",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 33959,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 1667,
+      "dur": 195,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que vas a ver hoy",
+        "items": [
+          "Para qué sirve el carbón de verdad",
+          "Por qué es tan potente",
+          "Las advertencias y los mitos peligrosos"
+        ]
+      }
+    },
+    {
+      "from": 2830,
+      "dur": 225,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Dos mundos distintos",
+        "left": {
+          "label": "En el hospital",
+          "sub": "medicamento que salva vidas (intoxicaciones)"
+        },
+        "right": {
+          "label": "Como moda 'detox'",
+          "sub": "casi no sirve y puede ser peligroso"
+        }
+      }
+    },
+    {
+      "from": 5529,
+      "dur": 225,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Para qué SÍ sirve",
+        "items": [
+          "Intoxicaciones/sobredosis (en el hospital)",
+          "Gases (evidencia floja, ocasional)",
+          "…y poco más honesto que eso"
+        ]
+      }
+    },
+    {
+      "from": 11975,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Si acaso lo usás",
+        "title": "Con criterio",
+        "steps": [
+          {
+            "title": "Solo muy ocasional (gases)",
+            "sub": "y hay opciones mejores"
+          },
+          {
+            "title": "Lejos de medicamentos y comidas",
+            "sub": "varias horas de separación"
+          },
+          {
+            "title": "Intoxicación = al médico",
+            "sub": "eso no es casero, es la guardia"
+          }
+        ]
+      }
+    },
+    {
+      "from": 15252,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El carbón activado te desintoxica y te purifica el cuerpo.",
+        "truth": "Falso. Para eso tenés hígado y riñones. El carbón solo actúa en el intestino en el momento, no limpia tu sangre. Es puro marketing."
+      }
+    },
+    {
+      "from": 15990,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Blanquea los dientes y es genial para la higiene bucal.",
+        "truth": "Cuidado. Es abrasivo: desgasta el esmalte, que no se recupera. Los dentistas lo desaconsejan."
+      }
+    },
+    {
+      "from": 16708,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El carbón activado cura la resaca.",
+        "truth": "Falso. No atrapa bien el alcohol, y cuando llega la resaca el alcohol ya se absorbió. No sirve para eso."
+      }
+    },
+    {
+      "from": 17181,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Como es natural, el carbón activado es inofensivo.",
+        "truth": "Rotundamente falso. Atrapa medicamentos y nutrientes, puede anular tu tratamiento, constiparte y enmascarar sangrados."
+      }
+    },
+    {
+      "from": 30167,
+      "dur": 240,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Qué esperar",
+        "title": "El carbón, siendo realista",
+        "steps": [
+          {
+            "when": "En una emergencia",
+            "text": "útil, en manos del médico"
+          },
+          {
+            "when": "Como moda",
+            "text": "no purifica ni desintoxica nada"
+          },
+          {
+            "when": "Con medicación",
+            "text": "puede anularla: peligroso"
+          }
+        ]
+      }
+    },
+    {
+      "from": 33278,
+      "dur": 210,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "earth",
+        "quote": "El carbón activado no es una moda inofensiva de bienestar: es una herramienta médica potente que tiene su lugar en la guardia de un hospital, no en tu rutina de las redes."
+      }
+    }
+  ]
+}
