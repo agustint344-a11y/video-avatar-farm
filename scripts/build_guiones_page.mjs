@@ -9,9 +9,9 @@ const OUT_HTML = "C:/Users/Teje/AppData/Local/Temp/claude/C--Users-Teje-Desktop-
 const read = (f) => fs.readFileSync(G + f, "utf8").trim();
 
 const videos = [
-  { slug: "teverde-elena", emoji: "🍵", accent: "#0d9488", tema: "Dra. Elena Vidal", temaTag: "Salud · turquesa", dur: "≈ 20 min",
-    titulo: "TÉ VERDE: ¿de verdad quema grasa? Lo que SÍ hace (y el error que arruina tu taza)",
-    desc: `Al té verde le colgaron mil promesas: que derrite la grasa, que acelera el metabolismo, que desintoxica, que cura el cáncer. La Dra. Elena Vidal separa, con evidencia y sin exagerar, lo real de lo mágico: es una de las bebidas más sanas que hay (antioxidantes, corazón, energía tranquila por su L-teanina), pero su efecto sobre el peso es diminuto. Aprendé a prepararlo bien (el agua hirviendo lo arruina), cuándo tomarlo, y las advertencias (cafeína, embarazo, hierro y los peligrosos extractos concentrados).
+  { slug: "avena-elena", emoji: "🥣", accent: "#0d9488", tema: "Dra. Elena Vidal", temaTag: "Salud · turquesa", dur: "≈ 20 min",
+    titulo: "AVENA: baja el colesterol de verdad (pero la que comprás quizás NO sirve)",
+    desc: `La avena baja el colesterol de verdad — es de lo mejor probado en nutrición — gracias a su fibra estrella, el betaglucano. Pero la mayoría come la versión equivocada: barritas y cereales "de avena" cargados de azúcar que arruinan todo. La Dra. Elena Vidal te explica, con evidencia, para qué sirve (colesterol, azúcar, digestión, saciedad), cómo elegir y preparar la avena de verdad, los mitos ("engorda" / "quema grasa") y las advertencias (celíacos, fibra, porciones).
 
 👉 Mi guía "El Método Bienestar Natural" está en el comentario fijado y en el primer enlace de la descripción.
 
@@ -19,11 +19,11 @@ const videos = [
     comentario: `📘 Te dejé mi guía "El Método Bienestar Natural" acá 👇
 https://guia-bienestar-natural-oficial.vercel.app/?utm_source=youtube&utm_medium=comment#oferta
 
-Y acordate: NUNCA lo hagas con agua hirviendo (queda amargo y pierde lo bueno), tomalo lejos de las comidas con hierro, 2-3 tazas al día. No derrite grasa: es un hábito sano, no magia 🍵`,
-    mini: `Miniatura de YouTube 1280x720, fondo 100% NEGRO puro. Usá la foto de referencia adjunta de la Dra. Elena Vidal RESPETANDO SU CARA, recreada en otra pose (no recortar la foto): en un CÍRCULO con borde difuminado en la esquina superior derecha, con bata blanca, señalando con expresión de advertencia amable. Abajo a la izquierda, una mano sosteniendo hojas de té verde. En el centro, una taza de vidrio con té verde humeante bien verde y hojas de té alrededor. Arriba a la izquierda, texto en MAYÚSCULAS tipografía Impact con grueso contorno negro: "TÉ VERDE" en verde y debajo "¿QUEMA GRASA?" en blanco. Estilo dopamínico, verde vivo sobre el negro, ultra nítido, alto contraste.` },
-  { slug: "limon-juantombo", emoji: "🍋", accent: "#b45309", tema: "Dr. Juan Tombo", temaTag: "Remedios caseros · tierra", dur: "≈ 20 min",
-    titulo: "LIMÓN: la verdad sobre el agua con limón en ayunas (y el mito peligroso de 'alcalinizar')",
-    desc: `Al limón le atribuyen que adelgaza, que "alcaliniza el cuerpo" y así previene el cáncer, que cura la gripe, que desintoxica. El Dr. Juan Tomás separa, con criterio médico, lo real de lo mágico: es un gran alimento (vitamina C, ayuda a absorber el hierro, ayuda a comer con menos sal, y sí puede prevenir ciertos cálculos renales), pero NO alcaliniza nada (es imposible) ni adelgaza solo. Cómo usarlo sin lastimarte los dientes ni el estómago, y los mitos peligrosos desarmados.
+Y acordate: elegí avena DE VERDAD (un solo ingrediente: avena), no las barritas ni cereales azucarados. En copos, con agua o leche y fruta. Y si sos celíaco, siempre certificada SIN gluten 🥣`,
+    mini: `Miniatura de YouTube 1280x720, fondo 100% NEGRO puro. Usá la foto de referencia adjunta de la Dra. Elena Vidal RESPETANDO SU CARA, recreada en otra pose (no recortar la foto): en un CÍRCULO con borde difuminado en la esquina superior derecha, con bata blanca, señalando con expresión de advertencia amable. Abajo a la izquierda, una mano sosteniendo un puñado de copos de avena. En el centro, un bol de avena cremosa con copos, rodajas de banana y arándanos. Arriba a la izquierda, texto en MAYÚSCULAS tipografía Impact con grueso contorno negro: "AVENA" en amarillo y debajo "¿LA COMÉS MAL?" en blanco. Estilo dopamínico, colores cálidos vivos sobre el negro, ultra nítido, alto contraste.` },
+  { slug: "carbon-juantombo", emoji: "⚫", accent: "#b45309", tema: "Dr. Juan Tombo", temaTag: "Remedios caseros · tierra", dur: "≈ 20 min",
+    titulo: "CARBÓN ACTIVADO: la moda 'detox' que puede ANULAR tus medicamentos (cuidado)",
+    desc: `El carbón activado está de moda: detox, dientes blancos, resaca, "purificar" el cuerpo. El Dr. Juan Tomás te explica, con criterio médico, la verdad: es un medicamento serio que salva vidas en el hospital ante ciertas intoxicaciones, pero como producto de moda casi no sirve para lo que promete Y puede ser peligroso — su mayor riesgo es que ATRAPA y anula tus medicamentos (incluidos los anticonceptivos). Los mitos (detox, blanqueo dental, resaca) desarmados uno por uno.
 
 👉 La guía "El Método Bienestar Natural" está en el comentario fijado y en el primer enlace de la descripción.
 
@@ -31,20 +31,20 @@ Y acordate: NUNCA lo hagas con agua hirviendo (queda amargo y pierde lo bueno), 
     comentario: `📘 Te dejé la guía "El Método Bienestar Natural" acá 👇
 https://guia-bienestar-natural-git-ve-312784-agustins-projects-da4b6a55.vercel.app/#oferta
 
-⚠️ IMPORTANTE: lo de "alcalinizar el cuerpo" es un MITO (tu sangre se regula sola). Y NUNCA tomes el jugo puro en ayunas: te gasta el esmalte de los dientes. Diluido, con las comidas 🍋`,
-    mini: `Miniatura de YouTube 1280x720, fondo 100% NEGRO puro. Usá la foto de referencia adjunta del Dr. Juan Tomás RESPETANDO SU CARA, recreado en otra pose (no recortar la foto): en un CÍRCULO con borde difuminado en la esquina superior derecha, con scrubs azul marino, con la mano en alto en gesto de "alto/pará", expresión de advertencia. Abajo a la izquierda, una mano exprimiendo medio limón. En el centro, un vaso de agua con rodajas de limón y limones amarillos brillantes al lado. Arriba a la izquierda, texto en MAYÚSCULAS tipografía Impact con grueso contorno negro: "LIMÓN" en amarillo y debajo "¿EN AYUNAS?" en blanco. Estilo dopamínico, amarillo vivo sobre el negro, ultra nítido, alto contraste.` },
-  { slug: "comics-atticfortune", emoji: "📚", accent: "#a16207", tema: "Attic Fortune", temaTag: "Inglés · Walt Hargrove", dur: "≈ 20 min",
-    titulo: "10 Old Comic Books in Your Attic Worth a FORTUNE! (Age, Condition & Key Issues)",
-    desc: `That box of old comics in the attic could be worth hundreds, thousands — even tens of thousands — to the right collector. Veteran appraiser Walt Hargrove walks you through 10 old comic books hiding in American homes, from Golden Age wartime issues to 1960s first appearances and key issues. Learn the three things that make a comic valuable (age, condition & importance), how the grading scale multiplies the price, and the #1 mistake that destroys the value.
+⚠️ MUY IMPORTANTE: si tomás CUALQUIER medicación (presión, tiroides, anticonceptivos, etc.), el carbón activado puede anularla. No lo tomes por moda sin hablar con tu médico. Su lugar es la guardia, no tu mesa de luz ⚫`,
+    mini: `Miniatura de YouTube 1280x720, fondo 100% NEGRO puro. Usá la foto de referencia adjunta del Dr. Juan Tomás RESPETANDO SU CARA, recreado en otra pose (no recortar la foto): en un CÍRCULO con borde difuminado en la esquina superior derecha, con scrubs azul marino, con la mano en alto en gesto de "alto/pará", expresión de advertencia seria. Abajo a la izquierda, una mano sosteniendo cápsulas negras. En el centro, un frasco de cápsulas de carbón activado negro y un vaso con agua negra turbia. Arriba a la izquierda, texto en MAYÚSCULAS tipografía Impact con grueso contorno negro (con halo blanco para que se lea sobre el negro): "CARBÓN ACTIVADO" en amarillo y debajo "¿DETOX PELIGROSO?" en blanco. Estilo dopamínico, alto contraste, ultra nítido.` },
+  { slug: "jewelry-atticfortune", emoji: "💍", accent: "#a16207", tema: "Attic Fortune", temaTag: "Inglés · Walt Hargrove", dur: "≈ 20 min",
+    titulo: "10 Pieces of Old Jewelry in Your Drawer Worth a FORTUNE! (Don't Sell It for Scrap)",
+    desc: `That tangle of old jewelry in the drawer could be worth hundreds, thousands — even tens of thousands — to the right buyer. Veteran appraiser Walt Hargrove walks you through 10 kinds of old jewelry hiding in American homes, from real gold and gemstones to signed designer "costume" pieces worth a fortune. Learn the two things that decide value (what it's made of & who made it), how to spot the marks, simple at-home tests, and the #1 mistake — selling a collectible piece for scrap.
 
-👉 Get the full guide (key issues & current values) in the pinned comment and the first link below.
+👉 Get the full guide (makers, marks & current values) in the pinned comment and the first link below.
 
 Before you toss it, check its worth.`,
     comentario: `📘 Get my full Attic Fortune guide here 👇
 https://attic-fortune.vercel.app
 
-Tell me: what old comics have you got tucked away? 📚 And remember — it's AGE + CONDITION + a KEY ISSUE (a first appearance) that matters, and NEVER tape, trim or clean an old comic!`,
-    mini: `YouTube thumbnail 1280x720, Attic Fortune style. Use the attached reference photo of Walt Hargrove KEEPING HIS FACE (older appraiser, white beard, plaid shirt and denim overalls), recreated in a new pose (do not crop the photo) inside his rustic barn workshop, holding up a single OLD, AGED, GENERIC comic book toward the camera with a surprised expression. IMPORTANT: the comic must be a completely FICTIONAL, made-up comic — a plain, faded, yellowed cover with only abstract shapes and a nondescript vintage superhero silhouette, NO real or recognizable characters, NO readable title, NO brand or logo of any kind (do not depict any existing comic). An open cardboard box of similarly generic old comics in front of him. Text: a red rusty "BEWARE" sign top-left; "WORTH" in yellow and "$40,000?" in big white below it (Impact font, thick black outline); a bold yellow curved arrow pointing at the comic. Warm barn lighting, ultra sharp, high contrast.` },
+Tell me: what old jewelry have you got tucked away? 💍 And remember — check for the MARKS (14K, 585, sterling, 925 or a maker's name), the plain-looking piece is often the real gold, and NEVER sell a signed/antique piece for scrap!`,
+    mini: `YouTube thumbnail 1280x720, Attic Fortune style. Use the attached reference photo of Walt Hargrove KEEPING HIS FACE (older appraiser, white beard, plaid shirt and denim overalls), recreated in a new pose (do not crop the photo) inside his rustic barn workshop, holding up a sparkling old gold brooch/ring toward the camera with a surprised expression, an open jewelry box full of old tangled jewelry, gold chains and gemstones in front of him. Text: a red rusty "BEWARE" sign top-left; "WORTH" in yellow and "$5,000?" in big white below it (Impact font, thick black outline); a bold yellow curved arrow pointing at the jewelry. Warm barn lighting, ultra sharp, high contrast.` },
 ];
 
 for (const v of videos) v.guion = read(v.slug + "_guion.txt");
