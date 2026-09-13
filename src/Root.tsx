@@ -32,6 +32,8 @@ import coinsAtticCues from "./VideoEdit/data/cues_coins-atticfortune.json";
 import vinagreCues from "./VideoEdit/data/cues_vinagre-elena.json";
 import mielCues from "./VideoEdit/data/cues_miel-juantombo.json";
 import vinylCues from "./VideoEdit/data/cues_vinyl-atticfortune.json";
+import teverdeCues from "./VideoEdit/data/cues_teverde-elena.json";
+import comicsCues from "./VideoEdit/data/cues_comics-atticfortune.json";
 
 export const RemotionRoot: React.FC = () => {
   const chia = chiaCues as Cues;
@@ -62,6 +64,8 @@ export const RemotionRoot: React.FC = () => {
   const vinagre = vinagreCues as Cues;
   const miel = mielCues as Cues;
   const vinyl = vinylCues as Cues;
+  const teverde = teverdeCues as Cues;
+  const comics = comicsCues as Cues;
   return (
     <>
       <Composition
@@ -244,6 +248,8 @@ export const RemotionRoot: React.FC = () => {
       <Composition id="VinagreElena" component={VideoMain} durationInFrames={vinagre.durationInFrames} fps={vinagre.fps} width={vinagre.width} height={vinagre.height} defaultProps={{ cues: vinagre }} />
       <Composition id="MielJuanTombo" component={VideoMain} durationInFrames={miel.durationInFrames} fps={miel.fps} width={miel.width} height={miel.height} defaultProps={{ cues: miel }} />
       <Composition id="VinylAttic" component={VideoMain} durationInFrames={vinyl.durationInFrames} fps={vinyl.fps} width={vinyl.width} height={vinyl.height} defaultProps={{ cues: vinyl }} />
+      <Composition id="TeverdeElena" component={VideoMain} durationInFrames={teverde.durationInFrames} fps={teverde.fps} width={teverde.width} height={teverde.height} defaultProps={{ cues: teverde }} />
+      <Composition id="ComicsAttic" component={VideoMain} durationInFrames={comics.durationInFrames} fps={comics.fps} width={comics.width} height={comics.height} defaultProps={{ cues: comics }} />
     </>
   );
 };

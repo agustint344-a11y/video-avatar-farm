@@ -1,0 +1,486 @@
+{
+  "slug": "teverde-elena",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 36749,
+  "broll": [
+    {
+      "from": 8,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/teverde-elena_s_01.mp4"
+    },
+    {
+      "from": 179,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/teverde-elena_s_02.mp4"
+    },
+    {
+      "from": 4177,
+      "dur": 529,
+      "kind": "video",
+      "src": "broll/teverde-elena_s_03.mp4"
+    },
+    {
+      "from": 4706,
+      "dur": 253,
+      "kind": "video",
+      "src": "broll/teverde-elena_s_04.mp4"
+    },
+    {
+      "from": 4959,
+      "dur": 188,
+      "kind": "video",
+      "src": "broll/teverde-elena_s_05.mp4"
+    },
+    {
+      "from": 7085,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/teverde-elena_s_06.mp4"
+    },
+    {
+      "from": 8000,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/teverde-elena_s_07.mp4"
+    },
+    {
+      "from": 8763,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/teverde-elena_s_08.mp4"
+    },
+    {
+      "from": 9733,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/teverde-elena_s_09.mp4"
+    },
+    {
+      "from": 10995,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/teverde-elena_s_10.mp4"
+    },
+    {
+      "from": 12164,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/teverde-elena_s_11.mp4"
+    },
+    {
+      "from": 15776,
+      "dur": 668,
+      "kind": "video",
+      "src": "broll/teverde-elena_s_13.mp4"
+    },
+    {
+      "from": 16444,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/teverde-elena_s_14.mp4"
+    },
+    {
+      "from": 18279,
+      "dur": 655,
+      "kind": "video",
+      "src": "broll/teverde-elena_s_15.mp4"
+    },
+    {
+      "from": 18934,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/teverde-elena_s_16.mp4"
+    },
+    {
+      "from": 19698,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/teverde-elena_s_17.mp4"
+    },
+    {
+      "from": 26799,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/teverde-elena_s_19.mp4"
+    },
+    {
+      "from": 32050,
+      "dur": 652,
+      "kind": "video",
+      "src": "broll/teverde-elena_s_22.mp4"
+    },
+    {
+      "from": 32702,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/teverde-elena_s_21.mp4"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2370,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "REMEDIOS CON EVIDENCIA",
+        "title": "Dra. Elena Vidal",
+        "sub": "El té verde, sin mitos"
+      }
+    },
+    {
+      "from": 4177,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "CATEQUINAS",
+        "sub": "los antioxidantes estrella del té verde",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 6051,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 7085,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 1",
+        "title": "Antioxidante potente",
+        "sub": "un gesto antiedad desde adentro"
+      }
+    },
+    {
+      "from": 7673,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 8000,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 2",
+        "title": "Salud del corazón",
+        "sub": "ayuda modestamente al colesterol"
+      }
+    },
+    {
+      "from": 8763,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 3",
+        "title": "Energía tranquila",
+        "sub": "foco sin el nerviosismo del café"
+      }
+    },
+    {
+      "from": 12164,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "CASO REAL",
+        "title": "Carla, 40 años",
+        "sub": "tomaba 12 tazas y cápsulas concentradas"
+      }
+    },
+    {
+      "from": 14070,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 16299,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 17521,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "clinic",
+        "value": 3,
+        "suffix": " tazas",
+        "label": "al día es lo ideal"
+      }
+    },
+    {
+      "from": 17899,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "NO TE LO SALTEES",
+        "title": "Las advertencias"
+      }
+    },
+    {
+      "from": 18279,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "☕",
+        "title": "Cafeína",
+        "sub": "si sos sensible o de noche, moderá",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 18934,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🤰",
+        "title": "Embarazo y lactancia",
+        "sub": "limitá bastante y consultá",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 20276,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Extractos concentrados",
+        "sub": "en dosis altas pueden dañar el hígado",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 26799,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "MATCHA",
+        "sub": "la hoja entera: más potente, más cafeína",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 29458,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 29514,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi guía de remedios naturales",
+        "items": [
+          "Cómo prepararlo sin amargarlo",
+          "Cuándo tomarlo",
+          "Cantidades seguras"
+        ]
+      }
+    },
+    {
+      "from": 30041,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "MANOS A LA OBRA",
+        "title": "Cómo elegirlo y guardarlo"
+      }
+    },
+    {
+      "from": 35890,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 1859,
+      "dur": 195,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Lo que vas a ver hoy",
+        "items": [
+          "Para qué sirve el té verde de verdad",
+          "Cómo prepararlo bien y cuándo",
+          "Los mitos y las advertencias"
+        ]
+      }
+    },
+    {
+      "from": 5147,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "clinic",
+        "title": "Energía: café vs. té verde",
+        "left": {
+          "label": "Café",
+          "sub": "más fuerte, a veces nervios y temblor"
+        },
+        "right": {
+          "label": "Té verde",
+          "sub": "energía tranquila (cafeína + L-teanina)"
+        }
+      }
+    },
+    {
+      "from": 6742,
+      "dur": 225,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Para qué SÍ sirve",
+        "items": [
+          "Antioxidante potente",
+          "Salud del corazón",
+          "Energía tranquila y concentración",
+          "Efecto en el peso: diminuto"
+        ]
+      }
+    },
+    {
+      "from": 14780,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Cómo prepararlo",
+        "title": "Paso a paso",
+        "steps": [
+          {
+            "title": "Agua NO hirviendo",
+            "sub": "el agua muy caliente lo amarga y lo arruina"
+          },
+          {
+            "title": "Solo 2-3 minutos de reposo",
+            "sub": "más tiempo = amargo"
+          },
+          {
+            "title": "Lejos de las comidas con hierro",
+            "sub": "entre comidas, 2-3 tazas al día"
+          }
+        ]
+      }
+    },
+    {
+      "from": 22572,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "El té verde quema grasa y adelgaza solo.",
+        "truth": "Falso. Su efecto sobre el metabolismo es diminuto. No derrite grasa; a lo sumo un aliado dentro de un plan de verdad."
+      }
+    },
+    {
+      "from": 23380,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "El té verde cura el cáncer.",
+        "truth": "No. Sus antioxidantes se asocian a menor riesgo de enfermedades, pero eso no es curar. Ningún té cura el cáncer."
+      }
+    },
+    {
+      "from": 23973,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "El té verde te desintoxica y te limpia el cuerpo.",
+        "truth": "Falso. Para eso tenés hígado y riñones. Es sano por sus antioxidantes, no por 'limpiar toxinas'. Eso es marketing."
+      }
+    },
+    {
+      "from": 24742,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Cuanto más té verde tomes, mejor.",
+        "truth": "No. El exceso es demasiada cafeína (nervios e insomnio), y los extractos concentrados pueden dañar el hígado. 2-3 tazas alcanza."
+      }
+    },
+    {
+      "from": 31245,
+      "dur": 240,
+      "comp": "Timeline",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Qué esperar",
+        "title": "El té verde, siendo realista",
+        "steps": [
+          {
+            "when": "Con constancia",
+            "text": "antioxidantes y corazón más sano"
+          },
+          {
+            "when": "Cada taza",
+            "text": "energía tranquila y foco"
+          },
+          {
+            "when": "Nunca",
+            "text": "no derrite grasa ni cura nada"
+          }
+        ]
+      }
+    },
+    {
+      "from": 35198,
+      "dur": 210,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "El té verde no es una poción mágica para adelgazar: es una bebida noble y milenaria, llena de antioxidantes, que cuida tu cuerpo de a poquito todos los días."
+      }
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "slug": "comics-atticfortune",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 35761,
+  "broll": [
+    {
+      "from": 236,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/comics-atticfortune_s_01.png"
+    },
+    {
+      "from": 1217,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/comics-atticfortune_s_03.png"
+    },
+    {
+      "from": 4251,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/comics-atticfortune_s_05.png"
+    },
+    {
+      "from": 4734,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/comics-atticfortune_s_06.png"
+    },
+    {
+      "from": 5657,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/comics-atticfortune_s_07.png"
+    },
+    {
+      "from": 7355,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/comics-atticfortune_s_09.png"
+    },
+    {
+      "from": 8090,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/comics-atticfortune_s_10.png"
+    },
+    {
+      "from": 8764,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/comics-atticfortune_s_11.png"
+    },
+    {
+      "from": 13616,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/comics-atticfortune_s_16.png"
+    },
+    {
+      "from": 19836,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/comics-atticfortune_s_17.png"
+    },
+    {
+      "from": 23707,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/comics-atticfortune_s_18.png"
+    },
+    {
+      "from": 27033,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/comics-atticfortune_s_19.png"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 780,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 1342,
+      "dur": 102,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CHECK ITS WORTH",
+        "sub": "before you toss it",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 1518,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "ATTIC FORTUNE",
+        "title": "Walt Hargrove",
+        "sub": "40+ years appraising attic & basement finds"
+      }
+    },
+    {
+      "from": 4734,
+      "dur": 195,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "FREE GUIDE",
+        "title": "The Attic Fortune Guide",
+        "items": [
+          "Exact key issues & price ranges",
+          "How to spot originals vs reprints",
+          "Comics, coins, records & more"
+        ]
+      }
+    },
+    {
+      "from": 4734,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 5657,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#10",
+        "title": "Early Strips & Funny Books"
+      }
+    },
+    {
+      "from": 6517,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#9",
+        "title": "'70s & '80s Key Issues"
+      }
+    },
+    {
+      "from": 7355,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#8",
+        "title": "First Issues (#1s)"
+      }
+    },
+    {
+      "from": 8090,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#7",
+        "title": "Villains & Key First Appearances"
+      }
+    },
+    {
+      "from": 8764,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#6",
+        "title": "Complete Runs & High Grade"
+      }
+    },
+    {
+      "from": 10246,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#5",
+        "title": "1950s Horror & Crime"
+      }
+    },
+    {
+      "from": 10854,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#4",
+        "title": "1960s First Appearances"
+      }
+    },
+    {
+      "from": 11673,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#3",
+        "title": "1940s Golden Age"
+      }
+    },
+    {
+      "from": 12590,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#2",
+        "title": "A Famous First Appearance"
+      }
+    },
+    {
+      "from": 13259,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 13616,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#1",
+        "title": "Key Issue, High Grade"
+      }
+    },
+    {
+      "from": 15632,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "KEY ISSUE",
+        "sub": "a first appearance, a #1, an origin",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 20635,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "$40,000+",
+        "sub": "the comic in the attic box",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 21176,
+      "dur": 195,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "GRAB IT FIRST",
+        "title": "The Attic Fortune Guide",
+        "items": [
+          "Know what it's worth before you sell",
+          "Real sold-price ranges",
+          "Plain English, no jargon"
+        ]
+      }
+    },
+    {
+      "from": 21176,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 23025,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "label": "Caution",
+        "icon": "🚫",
+        "title": "Never tape, trim or clean it",
+        "sub": "restoring an old comic wipes out the value",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 30345,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "label": "Caution",
+        "icon": "⚠️",
+        "title": "Don't sell in a hurry",
+        "sub": "the eager buyer usually knows something you don't",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 31163,
+      "dur": 195,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "EVERYTHING INSIDE",
+        "title": "The Attic Fortune Guide",
+        "items": [
+          "Identify your comics step by step",
+          "What collectors pay right now",
+          "Link pinned in the comments"
+        ]
+      }
+    },
+    {
+      "from": 31163,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 34951,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 780,
+      "dur": 150,
+      "comp": "BigStat",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ONE OLD COMIC",
+        "prefix": "$",
+        "value": 40000,
+        "suffix": "?",
+        "support": "what a key first appearance can bring"
+      }
+    },
+    {
+      "from": 2875,
+      "dur": 180,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "What makes a comic valuable",
+        "items": [
+          "Age — the older, the scarcer",
+          "Condition — everything",
+          "Importance — a first appearance or key issue"
+        ]
+      }
+    },
+    {
+      "from": 16661,
+      "dur": 180,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Original vs. reprint",
+        "left": {
+          "label": "ORIGINAL",
+          "sub": "the real first printing — worth the money"
+        },
+        "right": {
+          "label": "REPRINT",
+          "sub": "looks alike — worth a tiny fraction"
+        }
+      }
+    },
+    {
+      "from": 18906,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "mythLabel": "Myth",
+        "truthLabel": "Truth",
+        "myth": "Every old comic is a treasure.",
+        "truth": "Most common issues are worth a few dollars. The fortunes are in the key issues, the early ones, and the ones in beautiful condition."
+      }
+    },
+    {
+      "from": 21563,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HOW TO VALUE IT",
+        "title": "Check it in 4 steps",
+        "steps": [
+          {
+            "title": "Age & date",
+            "sub": "on the cover, in a corner"
+          },
+          {
+            "title": "A key issue?",
+            "sub": "a first appearance is the jackpot"
+          },
+          {
+            "title": "Condition & original",
+            "sub": "flat, glossy, no tape, not a reprint"
+          }
+        ]
+      }
+    },
+    {
+      "from": 34055,
+      "dur": 180,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "earth",
+        "quote": "The only difference between the person who let a fortune go for a quarter and the person who cashed in was knowing what to look for.",
+        "author": "Walt Hargrove"
+      }
+    }
+  ]
+}
