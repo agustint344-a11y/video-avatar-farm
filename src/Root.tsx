@@ -34,6 +34,7 @@ import mielCues from "./VideoEdit/data/cues_miel-juantombo.json";
 import vinylCues from "./VideoEdit/data/cues_vinyl-atticfortune.json";
 import teverdeCues from "./VideoEdit/data/cues_teverde-elena.json";
 import comicsCues from "./VideoEdit/data/cues_comics-atticfortune.json";
+import limonCues from "./VideoEdit/data/cues_limon-juantombo.json";
 
 export const RemotionRoot: React.FC = () => {
   const chia = chiaCues as Cues;
@@ -66,6 +67,7 @@ export const RemotionRoot: React.FC = () => {
   const vinyl = vinylCues as Cues;
   const teverde = teverdeCues as Cues;
   const comics = comicsCues as Cues;
+  const limon = limonCues as Cues;
   return (
     <>
       <Composition
@@ -250,6 +252,7 @@ export const RemotionRoot: React.FC = () => {
       <Composition id="VinylAttic" component={VideoMain} durationInFrames={vinyl.durationInFrames} fps={vinyl.fps} width={vinyl.width} height={vinyl.height} defaultProps={{ cues: vinyl }} />
       <Composition id="TeverdeElena" component={VideoMain} durationInFrames={teverde.durationInFrames} fps={teverde.fps} width={teverde.width} height={teverde.height} defaultProps={{ cues: teverde }} />
       <Composition id="ComicsAttic" component={VideoMain} durationInFrames={comics.durationInFrames} fps={comics.fps} width={comics.width} height={comics.height} defaultProps={{ cues: comics }} />
+      <Composition id="LimonJuanTombo" component={VideoMain} durationInFrames={limon.durationInFrames} fps={limon.fps} width={limon.width} height={limon.height} defaultProps={{ cues: limon }} />
     </>
   );
 };

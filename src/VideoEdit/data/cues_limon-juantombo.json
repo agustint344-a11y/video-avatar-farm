@@ -1,0 +1,473 @@
+{
+  "slug": "limon-juantombo",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 34856,
+  "broll": [
+    {
+      "from": 35,
+      "dur": 227,
+      "kind": "video",
+      "src": "broll/limon-juantombo_s_01.mp4"
+    },
+    {
+      "from": 262,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/limon-juantombo_s_02.mp4"
+    },
+    {
+      "from": 3049,
+      "dur": 60,
+      "kind": "video",
+      "src": "broll/limon-juantombo_s_03.mp4"
+    },
+    {
+      "from": 3109,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/limon-juantombo_s_04.mp4"
+    },
+    {
+      "from": 6488,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/limon-juantombo_s_05.mp4"
+    },
+    {
+      "from": 8068,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/limon-juantombo_s_07.mp4"
+    },
+    {
+      "from": 8984,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/limon-juantombo_s_08.mp4"
+    },
+    {
+      "from": 12135,
+      "dur": 261,
+      "kind": "video",
+      "src": "broll/limon-juantombo_s_11.mp4"
+    },
+    {
+      "from": 12396,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/limon-juantombo_s_12.mp4"
+    },
+    {
+      "from": 13540,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/limon-juantombo_s_13.mp4"
+    },
+    {
+      "from": 20420,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/limon-juantombo_s_18.mp4"
+    },
+    {
+      "from": 24307,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/limon-juantombo_s_20.mp4"
+    },
+    {
+      "from": 28742,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/limon-juantombo_s_22.mp4"
+    },
+    {
+      "from": 30021,
+      "dur": 712,
+      "kind": "video",
+      "src": "broll/limon-juantombo_s_23.mp4"
+    },
+    {
+      "from": 30733,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/limon-juantombo_s_19.mp4"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1957,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "REMEDIOS CON CRITERIO MÉDICO",
+        "title": "Dr. Juan Tomás",
+        "sub": "El limón, sin mitos"
+      }
+    },
+    {
+      "from": 3055,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "VITAMINA C",
+        "sub": "defensas, piel y absorción de hierro",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 4631,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 5757,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "BENEFICIO 1",
+        "title": "Vitamina C y defensas",
+        "sub": "pero NO cura la gripe"
+      }
+    },
+    {
+      "from": 6299,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "BENEFICIO 2",
+        "title": "Absorbe el hierro",
+        "sub": "un chorrito en legumbres y verduras"
+      }
+    },
+    {
+      "from": 6932,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 8984,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "CASO REAL",
+        "title": "Beatriz, 50 años",
+        "sub": "jugo puro en ayunas: dientes y estómago"
+      }
+    },
+    {
+      "from": 10429,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 11637,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "🦷",
+        "title": "Tus dientes",
+        "sub": "el ácido erosiona el esmalte — diluí y usá sorbete",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 12379,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "🔥",
+        "title": "Estómago",
+        "sub": "con reflujo o gastritis, poco y diluido",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 13335,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "NO TE LO SALTEES",
+        "title": "Las advertencias"
+      }
+    },
+    {
+      "from": 13540,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "☀️",
+        "title": "Limón + sol = manchas",
+        "sub": "puede quemar y manchar la piel",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 15121,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "NO SE PUEDE ALCALINIZAR",
+        "sub": "tu sangre se regula sola",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 17635,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "BENEFICIO 3",
+        "title": "Cálculos renales",
+        "sub": "el citrato ayuda a prevenirlos"
+      }
+    },
+    {
+      "from": 20420,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "CASO REAL",
+        "title": "Don Héctor, 60 años",
+        "sub": "lo sumó bien, dentro de una buena dieta"
+      }
+    },
+    {
+      "from": 22620,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi guía de remedios naturales",
+        "items": [
+          "Usos reales del limón",
+          "Cómo no lastimarte los dientes",
+          "Los mitos peligrosos"
+        ]
+      }
+    },
+    {
+      "from": 23665,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 24307,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "MANOS A LA OBRA",
+        "title": "Cómo elegirlos y aprovecharlos"
+      }
+    },
+    {
+      "from": 28742,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "NO TIRES LA CÁSCARA",
+        "sub": "la ralladura tiene sabor y antioxidantes",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 30733,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 34149,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 1609,
+      "dur": 195,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que vas a ver hoy",
+        "items": [
+          "Para qué sirve el limón de verdad",
+          "Cómo usarlo sin lastimarte",
+          "Los mitos peligrosos desarmados"
+        ]
+      }
+    },
+    {
+      "from": 1712,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Cómo usarlo",
+        "title": "Sin lastimarte",
+        "steps": [
+          {
+            "title": "Nunca el jugo puro",
+            "sub": "medio limón en un vaso grande de agua"
+          },
+          {
+            "title": "Cuidá los dientes",
+            "sub": "sorbete y no cepillarte enseguida"
+          },
+          {
+            "title": "Mejor con las comidas",
+            "sub": "sabor, vitamina C y hierro juntos"
+          }
+        ]
+      }
+    },
+    {
+      "from": 5167,
+      "dur": 225,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Para qué SÍ sirve",
+        "items": [
+          "Vitamina C y defensas",
+          "Ayuda a absorber el hierro",
+          "Comer con menos sal",
+          "Previene ciertos cálculos renales"
+        ]
+      }
+    },
+    {
+      "from": 11207,
+      "dur": 225,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "La regla de oro",
+        "left": {
+          "label": "Diluido, con comidas",
+          "sub": "seguro y con beneficios reales"
+        },
+        "right": {
+          "label": "Jugo puro en ayunas",
+          "sub": "¡daña dientes y estómago!"
+        }
+      }
+    },
+    {
+      "from": 14619,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El limón alcaliniza el cuerpo y así previene el cáncer.",
+        "truth": "Rotundamente falso. Tu sangre regula su acidez sola, es imposible alcalinizarla comiendo. Y el limón es ácido, no alcalino."
+      }
+    },
+    {
+      "from": 15906,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El agua con limón en ayunas quema grasa y adelgaza.",
+        "truth": "Falso. El limón no quema grasa. Solo ayuda si reemplaza una bebida azucarada, por lo que reemplaza, no por magia."
+      }
+    },
+    {
+      "from": 16532,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El limón te desintoxica y te limpia el hígado.",
+        "truth": "Falso. Para eso tenés hígado y riñones, que trabajan solos de maravilla. No hay limpieza mágica, es puro marketing."
+      }
+    },
+    {
+      "from": 21862,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El limón con bicarbonato cura el cáncer.",
+        "truth": "Rotundamente falso y peligroso. Es la misma mentira de 'alcalinizar' disfrazada. No tiene ningún respaldo."
+      }
+    },
+    {
+      "from": 29547,
+      "dur": 240,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Qué esperar",
+        "title": "El limón, siendo realista",
+        "steps": [
+          {
+            "when": "En las comidas",
+            "text": "sabor, vitamina C y más hierro"
+          },
+          {
+            "when": "Reemplazando peor",
+            "text": "menos sal y menos azúcar"
+          },
+          {
+            "when": "Nunca",
+            "text": "no adelgaza, no alcaliniza, no cura"
+          }
+        ]
+      }
+    },
+    {
+      "from": 33547,
+      "dur": 210,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "earth",
+        "quote": "El limón no es una medicina milagrosa que cura y alcaliniza y adelgaza: es un alimento humilde, sabroso y nutritivo, un gran aliado de la cocina sana."
+      }
+    }
+  ]
+}
