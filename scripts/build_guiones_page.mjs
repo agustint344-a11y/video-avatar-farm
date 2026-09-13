@@ -9,9 +9,9 @@ const OUT_HTML = "C:/Users/Teje/AppData/Local/Temp/claude/C--Users-Teje-Desktop-
 const read = (f) => fs.readFileSync(G + f, "utf8").trim();
 
 const videos = [
-  { slug: "vinagre-elena", emoji: "🍎", accent: "#0d9488", tema: "Dra. Elena Vidal", temaTag: "Salud · turquesa", dur: "≈ 19 min",
-    titulo: "VINAGRE DE MANZANA: la verdad sobre adelgazar y el azúcar (y por qué tomarlo así te DAÑA)",
-    desc: `Al vinagre de manzana le colgaron mil promesas: que derrite grasa, que cura la diabetes, que desintoxica... La Dra. Elena Vidal separa, con evidencia y sin exagerar, lo real de lo mágico: sí tiene un efecto modesto sobre el azúcar en sangre y la saciedad, pero NO quema grasa ni cura nada. Y lo más importante: cómo tomarlo seguro (nunca puro), los mitos peligrosos, y las advertencias serias para tus dientes, tu estómago y si tomás medicación.
+  { slug: "teverde-elena", emoji: "🍵", accent: "#0d9488", tema: "Dra. Elena Vidal", temaTag: "Salud · turquesa", dur: "≈ 20 min",
+    titulo: "TÉ VERDE: ¿de verdad quema grasa? Lo que SÍ hace (y el error que arruina tu taza)",
+    desc: `Al té verde le colgaron mil promesas: que derrite la grasa, que acelera el metabolismo, que desintoxica, que cura el cáncer. La Dra. Elena Vidal separa, con evidencia y sin exagerar, lo real de lo mágico: es una de las bebidas más sanas que hay (antioxidantes, corazón, energía tranquila por su L-teanina), pero su efecto sobre el peso es diminuto. Aprendé a prepararlo bien (el agua hirviendo lo arruina), cuándo tomarlo, y las advertencias (cafeína, embarazo, hierro y los peligrosos extractos concentrados).
 
 👉 Mi guía "El Método Bienestar Natural" está en el comentario fijado y en el primer enlace de la descripción.
 
@@ -19,11 +19,11 @@ const videos = [
     comentario: `📘 Te dejé mi guía "El Método Bienestar Natural" acá 👇
 https://guia-bienestar-natural-oficial.vercel.app/?utm_source=youtube&utm_medium=comment#oferta
 
-Y acordate: NUNCA lo tomes puro, siempre bien diluido en un vaso de agua, con las comidas, y cuidá el esmalte de tus dientes. No derrite grasa: es un pequeño aliado, no magia 🍎`,
-    mini: `Miniatura de YouTube 1280x720, fondo 100% NEGRO puro. Usá la foto de referencia adjunta de la Dra. Elena Vidal RESPETANDO SU CARA, recreada en otra pose (no recortar la foto): en un CÍRCULO con borde difuminado en la esquina superior derecha, con bata blanca, señalando con expresión de advertencia amable. Abajo a la izquierda, una mano sosteniendo una cuchara con líquido ámbar. En el centro, una botella de vinagre de manzana y un vaso de agua con vinagre y una manzana roja al lado. Arriba a la izquierda, texto en MAYÚSCULAS tipografía Impact con grueso contorno negro: "VINAGRE" en amarillo y debajo "¿ADELGAZA?" en blanco. Estilo dopamínico, colores vivos sobre el negro, ultra nítido, alto contraste.` },
-  { slug: "miel-juantombo", emoji: "🍯", accent: "#b45309", tema: "Dr. Juan Tombo", temaTag: "Remedios caseros · tierra", dur: "≈ 18 min",
-    titulo: "MIEL: el mejor remedio para la TOS... pero para los bebés puede ser MORTAL (nadie lo dice)",
-    desc: `La miel es de los pocos remedios de la abuela que la ciencia SÍ respalda: calma la tos y la garganta tan bien como algunos jarabes. Pero hay una advertencia de seguridad gravísima que todo padre y abuelo tiene que conocer: NUNCA miel a un bebé menor de un año (riesgo de botulismo). El Dr. Juan Tomás te explica, con criterio médico, para qué sirve de verdad, cómo usarla bien, y desarma los mitos (que "cura las alergias", que es "azúcar sano sin límite").
+Y acordate: NUNCA lo hagas con agua hirviendo (queda amargo y pierde lo bueno), tomalo lejos de las comidas con hierro, 2-3 tazas al día. No derrite grasa: es un hábito sano, no magia 🍵`,
+    mini: `Miniatura de YouTube 1280x720, fondo 100% NEGRO puro. Usá la foto de referencia adjunta de la Dra. Elena Vidal RESPETANDO SU CARA, recreada en otra pose (no recortar la foto): en un CÍRCULO con borde difuminado en la esquina superior derecha, con bata blanca, señalando con expresión de advertencia amable. Abajo a la izquierda, una mano sosteniendo hojas de té verde. En el centro, una taza de vidrio con té verde humeante bien verde y hojas de té alrededor. Arriba a la izquierda, texto en MAYÚSCULAS tipografía Impact con grueso contorno negro: "TÉ VERDE" en verde y debajo "¿QUEMA GRASA?" en blanco. Estilo dopamínico, verde vivo sobre el negro, ultra nítido, alto contraste.` },
+  { slug: "limon-juantombo", emoji: "🍋", accent: "#b45309", tema: "Dr. Juan Tombo", temaTag: "Remedios caseros · tierra", dur: "≈ 20 min",
+    titulo: "LIMÓN: la verdad sobre el agua con limón en ayunas (y el mito peligroso de 'alcalinizar')",
+    desc: `Al limón le atribuyen que adelgaza, que "alcaliniza el cuerpo" y así previene el cáncer, que cura la gripe, que desintoxica. El Dr. Juan Tomás separa, con criterio médico, lo real de lo mágico: es un gran alimento (vitamina C, ayuda a absorber el hierro, ayuda a comer con menos sal, y sí puede prevenir ciertos cálculos renales), pero NO alcaliniza nada (es imposible) ni adelgaza solo. Cómo usarlo sin lastimarte los dientes ni el estómago, y los mitos peligrosos desarmados.
 
 👉 La guía "El Método Bienestar Natural" está en el comentario fijado y en el primer enlace de la descripción.
 
@@ -31,20 +31,20 @@ Y acordate: NUNCA lo tomes puro, siempre bien diluido en un vaso de agua, con la
     comentario: `📘 Te dejé la guía "El Método Bienestar Natural" acá 👇
 https://guia-bienestar-natural-git-ve-312784-agustins-projects-da4b6a55.vercel.app/#oferta
 
-⚠️ IMPORTANTÍSIMO: NUNCA le des miel a un bebé menor de 1 año (riesgo de botulismo, puede ser mortal). Y aunque sea natural, sigue siendo azúcar. Compartí esto con toda persona que tenga un bebé en casa 🍯`,
-    mini: `Miniatura de YouTube 1280x720, fondo 100% NEGRO puro. Usá la foto de referencia adjunta del Dr. Juan Tomás RESPETANDO SU CARA, recreado en otra pose (no recortar la foto): en un CÍRCULO con borde difuminado en la esquina superior derecha, con scrubs azul marino, con la mano en alto en gesto de "alto/pará", expresión de advertencia seria. Abajo a la izquierda, una mano sosteniendo una cuchara chorreando miel dorada. En el centro, un frasco de miel con el aplicador y miel cayendo, muy brillante. Arriba a la izquierda, texto en MAYÚSCULAS tipografía Impact con grueso contorno negro: "MIEL" en amarillo y debajo "¡OJO CON LOS BEBÉS!" en blanco. Estilo dopamínico, dorado vivo sobre el negro, ultra nítido, alto contraste.` },
-  { slug: "vinyl-atticfortune", emoji: "🎵", accent: "#a16207", tema: "Attic Fortune", temaTag: "Inglés · Walt Hargrove", dur: "≈ 14 min",
-    titulo: "10 Old Vinyl Records in Your Attic Worth a FORTUNE! (It's All About the Pressing)",
-    desc: `That crate of old records in the basement could be worth hundreds — even thousands — to the right collector. Veteran appraiser Walt Hargrove walks you through 10 old vinyl records hiding in American homes, from first-pressing jazz and rare soul singles to sealed albums, promos, and colored vinyl. Learn why the pressing (not just the album) changes everything, what to check on every record, and the #1 mistake that destroys the value.
+⚠️ IMPORTANTE: lo de "alcalinizar el cuerpo" es un MITO (tu sangre se regula sola). Y NUNCA tomes el jugo puro en ayunas: te gasta el esmalte de los dientes. Diluido, con las comidas 🍋`,
+    mini: `Miniatura de YouTube 1280x720, fondo 100% NEGRO puro. Usá la foto de referencia adjunta del Dr. Juan Tomás RESPETANDO SU CARA, recreado en otra pose (no recortar la foto): en un CÍRCULO con borde difuminado en la esquina superior derecha, con scrubs azul marino, con la mano en alto en gesto de "alto/pará", expresión de advertencia. Abajo a la izquierda, una mano exprimiendo medio limón. En el centro, un vaso de agua con rodajas de limón y limones amarillos brillantes al lado. Arriba a la izquierda, texto en MAYÚSCULAS tipografía Impact con grueso contorno negro: "LIMÓN" en amarillo y debajo "¿EN AYUNAS?" en blanco. Estilo dopamínico, amarillo vivo sobre el negro, ultra nítido, alto contraste.` },
+  { slug: "comics-atticfortune", emoji: "📚", accent: "#a16207", tema: "Attic Fortune", temaTag: "Inglés · Walt Hargrove", dur: "≈ 20 min",
+    titulo: "10 Old Comic Books in Your Attic Worth a FORTUNE! (Age, Condition & Key Issues)",
+    desc: `That box of old comics in the attic could be worth hundreds, thousands — even tens of thousands — to the right collector. Veteran appraiser Walt Hargrove walks you through 10 old comic books hiding in American homes, from Golden Age wartime issues to 1960s first appearances and key issues. Learn the three things that make a comic valuable (age, condition & importance), how the grading scale multiplies the price, and the #1 mistake that destroys the value.
 
-👉 Get the full guide (records, pressings & current values) in the pinned comment and the first link below.
+👉 Get the full guide (key issues & current values) in the pinned comment and the first link below.
 
 Before you toss it, check its worth.`,
     comentario: `📘 Get my full Attic Fortune guide here 👇
 https://attic-fortune.vercel.app
 
-Tell me: what old records have you got tucked away? 🎵 And remember — it's the PRESSING that matters, check for promos & sealed copies, and NEVER play a valuable record on a worn-out turntable!`,
-    mini: `YouTube thumbnail 1280x720, Attic Fortune style. Use the attached reference photo of Walt Hargrove KEEPING HIS FACE (older appraiser, white beard, plaid shirt and denim overalls), recreated in a new pose (do not crop the photo) inside his rustic barn workshop, holding up an old vinyl record pulled halfway out of its sleeve toward the camera with a surprised expression, a wooden crate full of old records in front of him. Text: a red rusty "BEWARE" sign top-left; "WORTH" in yellow and "$5,000?" in big white below it (Impact font, thick black outline); a bold yellow curved arrow pointing at the record. Warm barn lighting, ultra sharp, high contrast.` },
+Tell me: what old comics have you got tucked away? 📚 And remember — it's AGE + CONDITION + a KEY ISSUE (a first appearance) that matters, and NEVER tape, trim or clean an old comic!`,
+    mini: `YouTube thumbnail 1280x720, Attic Fortune style. Use the attached reference photo of Walt Hargrove KEEPING HIS FACE (older appraiser, white beard, plaid shirt and denim overalls), recreated in a new pose (do not crop the photo) inside his rustic barn workshop, holding up an old vintage comic book toward the camera with a surprised expression, an open cardboard box full of old comics in front of him. Text: a red rusty "BEWARE" sign top-left; "WORTH" in yellow and "$40,000?" in big white below it (Impact font, thick black outline); a bold yellow curved arrow pointing at the comic. Warm barn lighting, ultra sharp, high contrast.` },
 ];
 
 for (const v of videos) v.guion = read(v.slug + "_guion.txt");
