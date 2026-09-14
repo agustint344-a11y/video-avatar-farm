@@ -1,0 +1,395 @@
+{
+  "slug": "propoleo-juantombo",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 36208,
+  "broll": [
+    {
+      "from": 265,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/propoleo-juantombo_s_01.mp4"
+    },
+    {
+      "from": 2131,
+      "dur": 335,
+      "kind": "video",
+      "src": "broll/propoleo-juantombo_s_02.mp4"
+    },
+    {
+      "from": 2466,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/propoleo-juantombo_s_03.mp4"
+    },
+    {
+      "from": 5325,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/propoleo-juantombo_s_06.mp4"
+    },
+    {
+      "from": 6692,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/propoleo-juantombo_s_08.mp4"
+    },
+    {
+      "from": 12135,
+      "dur": 350,
+      "kind": "video",
+      "src": "broll/propoleo-juantombo_s_12.mp4"
+    },
+    {
+      "from": 13706,
+      "dur": 507,
+      "kind": "video",
+      "src": "broll/propoleo-juantombo_s_14.mp4"
+    },
+    {
+      "from": 14213,
+      "dur": 675,
+      "kind": "video",
+      "src": "broll/propoleo-juantombo_s_15.mp4"
+    },
+    {
+      "from": 25525,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/propoleo-juantombo_s_18.mp4"
+    },
+    {
+      "from": 28634,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/propoleo-juantombo_s_20.mp4"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1459,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "REMEDIOS CON CRITERIO MÉDICO",
+        "title": "Dr. Juan Tomás",
+        "sub": "El propóleo, con criterio"
+      }
+    },
+    {
+      "from": 2929,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "EL ESCUDO DE LA COLMENA",
+        "sub": "defensa contra microbios",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 4610,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 4905,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "USO REAL 1",
+        "title": "Garganta y boca",
+        "sub": "dolor de garganta, aftas, encías"
+      }
+    },
+    {
+      "from": 6051,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "USO REAL 2",
+        "title": "Heriditas y piel",
+        "sub": "cicatrizante, antimicrobiano"
+      }
+    },
+    {
+      "from": 8034,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 8468,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 9553,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "NO ES ANTIBIÓTICO",
+        "sub": "no cura infecciones serias",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 11303,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "🐝",
+        "title": "Alergias",
+        "sub": "de los que MÁS alergia da — 1ª vez, mínima cantidad",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 11402,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "NATURAL ≠ INOFENSIVO",
+        "sub": "usá siempre la cabeza",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 12921,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "🍼",
+        "title": "Bebés y alcohol",
+        "sub": "muchas gotas llevan alcohol — nunca sin el pediatra",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 16556,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "CASO REAL",
+        "title": "Rosa",
+        "sub": "usó propóleo en vez del antibiótico → se complicó"
+      }
+    },
+    {
+      "from": 17666,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "CASO REAL",
+        "title": "Damián",
+        "sub": "spray al inicio de un resfrío → uso correcto"
+      }
+    },
+    {
+      "from": 22858,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "NO TE LO SALTEES",
+        "title": "Las advertencias"
+      }
+    },
+    {
+      "from": 23234,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "💊",
+        "title": "Anticoagulantes / presión",
+        "sub": "puede interactuar — consultá con tu médico",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 34696,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi guía: lo natural con criterio",
+        "items": [
+          "Qué remedio sirve para qué",
+          "En qué dosis y cómo usarlo",
+          "Cuándo dejar de improvisar y ver al médico"
+        ]
+      }
+    },
+    {
+      "from": 34936,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 35023,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    },
+    {
+      "from": 36091,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_guia_jt.png"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 1019,
+      "dur": 195,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que vas a ver hoy",
+        "items": [
+          "Para qué sirve el propóleo de verdad",
+          "Los mitos peligrosos",
+          "Las advertencias que casi nadie dice"
+        ]
+      }
+    },
+    {
+      "from": 4610,
+      "dur": 225,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Para qué SÍ sirve",
+        "items": [
+          "Garganta y boca (aftas, encías)",
+          "Heriditas y piel",
+          "Apoyo en resfríos (un empujoncito)"
+        ]
+      }
+    },
+    {
+      "from": 8468,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El propóleo es un antibiótico natural: reemplaza al del médico.",
+        "truth": "Rotundamente falso. Calma una garganta irritada, no cura una infección seria. Jamás reemplaces un antibiótico recetado por propóleo."
+      }
+    },
+    {
+      "from": 9948,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El propóleo cura o previene el cáncer.",
+        "truth": "No hay ninguna evidencia seria de eso. Dejar un tratamiento por gotitas de propóleo puede ser trágico. No caigas en esa mentira."
+      }
+    },
+    {
+      "from": 10940,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Como es natural, el propóleo es inofensivo.",
+        "truth": "Falso. Es de los productos de la colmena que MÁS alergias causa. La primera vez, poquísima cantidad y observá cómo reaccionás."
+      }
+    },
+    {
+      "from": 12485,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Se lo puedo dar tranquilo a mi bebé.",
+        "truth": "No. Riesgo de alergia y, ojo, muchas gotas vienen con alcohol. Nunca le des propóleo a un bebé sin hablar con el pediatra."
+      }
+    },
+    {
+      "from": 14888,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Cómo usarlo bien",
+        "title": "Con criterio",
+        "steps": [
+          {
+            "title": "Prueba de alergia",
+            "sub": "la 1ª vez, una sola gota y observá"
+          },
+          {
+            "title": "Dosis justa",
+            "sub": "más NO es mejor (más riesgo)"
+          },
+          {
+            "title": "Directo al problema",
+            "sub": "spray/gotas en garganta, o buche"
+          }
+        ]
+      }
+    },
+    {
+      "from": 21184,
+      "dur": 225,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "No confundas los de la colmena",
+        "items": [
+          "Miel: calma la tos, endulza",
+          "Propóleo: garganta, boca, heriditas",
+          "Polen y jalea real: otra cosa distinta"
+        ]
+      }
+    },
+    {
+      "from": 33871,
+      "dur": 210,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "earth",
+        "quote": "El propóleo no es un antibiótico natural que reemplaza a la medicina, ni una cura milagrosa para todo: es una herramienta noble de la colmena, con efectos reales para la garganta, la boca y las heriditas, usada con criterio."
+      }
+    }
+  ]
+}
