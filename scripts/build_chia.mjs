@@ -1,134 +1,84 @@
 /**
- * FASE 7 — BUILD del video "chia-colageno" (EDICIÓN DENSA).
+ * BUILD "chia-elena" (Dra. Elena Vidal) — semillas de chía: fibra, saciedad, mitos + atragantamiento. CLINIC. QR ×6.
  *   node scripts/build_chia.mjs
- *
- * Anclado a las captions reales. Salida: src/VideoEdit/data/cues_chia-colageno.json.
- *  - B-ROLL denso: cada clip se extiende hasta el próximo beat (tope 13s video / 8s imagen),
- *    así cubre gran parte de las secciones explicativas (no destellos sueltos).
- *  - OVERLAYS (transparentes) sobre avatar/b-roll: lower-thirds, keywords, chips, íconos.
- *  - COMPONENTES a pantalla completa en cifras/listas/comparaciones/mito/cierre.
  */
 import fs from "node:fs";
 import path from "node:path";
-
 const ROOT = process.cwd();
-const SLUG = "chia-colageno";
+const SLUG = "chia-elena";
 const FPS = 30;
+const T = "clinic";
+const QR = "img/qr_guia.png";
 const caps = JSON.parse(fs.readFileSync(path.join(ROOT, "public", `captions_${SLUG}.json`), "utf8").replace(/^﻿/, ""));
-
 const norm = (s) => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[^\w\s]/g, " ").replace(/\s+/g, " ").trim();
-const capNorm = caps.map((w) => norm(w.text));
-const at = (phrase) => {
-  const toks = norm(phrase).split(" ").filter(Boolean);
-  const N = Math.min(toks.length, 5);
-  for (let i = 0; i + N <= capNorm.length; i++) {
-    let ok = true;
-    for (let j = 0; j < N; j++) if (capNorm[i + j] !== toks[j]) { ok = false; break; }
-    if (ok) return Math.round((caps[i].startMs / 1000) * FPS);
-  }
-  return null;
-};
+const cn = caps.map((w) => norm(w.text));
+const at = (phrase) => { const t = norm(phrase).split(" ").filter(Boolean); const N = Math.min(t.length, 5); for (let i = 0; i + N <= cn.length; i++) { let ok = 1; for (let j = 0; j < N; j++) if (cn[i + j] !== t[j]) { ok = 0; break; } if (ok) return Math.round(caps[i].startMs / 1000 * FPS); } return null; };
 const sec = (n) => Math.round(n * FPS);
-const durationInFrames = Math.round((caps[caps.length - 1].endMs / 1000) * FPS) + sec(1);
+const durationInFrames = Math.round(caps[caps.length - 1].endMs / 1000 * FPS) + sec(1);
 
-/* ─────────────────────────── COMPONENTES (pantalla completa) ─────────────────────────── */
 const compBeats = [
-  ["Ninguna planta contiene colágeno", 7, "MythVsTruth", { myth: "La chía está llena de colágeno.", truth: "No tiene ni un gramo — pero le da a tu cuerpo los ladrillos y el escudo para fabricar el suyo." }],
-  ["De tres maneras", 7, "Checklist", { title: "Cómo la chía cuida tu colágeno", items: ["Proteína vegetal: los ladrillos del colágeno", "Omega-3: piel flexible e hidratada", "Antioxidantes: el escudo contra la oxidación"] }],
-  ["absorber entre 10 y 12 veces", 5, "BigStat", { eyebrow: "Su peso en agua", value: 12, suffix: "x", support: "Por eso, en el vaso, forma ese gel transparente." }],
-  ["Ese gel no es un truco", 4, "Highlight", { pre: "Ese gel no es un truco bonito.", highlight: "Es medicina", post: "." }],
-  ["más de 300 procesos", 5, "BigStat", { eyebrow: "El magnesio participa en", value: 300, prefix: "+", suffix: " procesos", support: "Relaja los músculos, mejora el descanso y regula tu ánimo." }],
-  ["La forma correcta", 7, "Steps", { eyebrow: "Cómo tomarla", title: "Hidratala siempre primero", steps: [{ title: "1 o 2 cucharadas en un vaso de agua", sub: "o leche vegetal, bien revuelto" }, { title: "Reposar 10 a 15 minutos", sub: "hasta que forme el gel" }, { title: "Tomar el gel, con agua durante el día" }] }],
-  ["Nunca, jamás, te comas la chía seca", 6, "Compare", { title: "La regla de oro", left: { label: "Chía seca, tragada sola", sub: "se puede hinchar en la garganta o el esófago" }, right: { label: "Hidratada primero", sub: "forma el gel: segura y digestiva" } }],
-  ["Te voy a mostrar cinco compañeras", 8, "Checklist", { title: "Las 5 compañeras de la chía", items: ["Linaza (siempre molida)", "Semilla de calabaza (magnesio)", "Sésamo o ajonjolí (calcio)", "Girasol (vitamina E)", "Albahaca (forma gel como la chía)"] }],
-  ["Paso uno", 8, "Steps", { eyebrow: "La mezcla antiedad", title: "Tu frasco para la semana", steps: [{ title: "Frasco: chía + linaza molida + sésamo", sub: "partes iguales, guardado en la heladera" }, { title: "1 o 2 cucharadas en agua", sub: "reposar 10 a 15 minutos" }, { title: "Tomarlo, con buena agua en el día" }] }],
-  ["Y si quieres esta mezcla con las proporciones exactas", 6, "CTACard", { eyebrow: "Las cantidades exactas", title: "La guía completa", bullet: "Proporciones exactas de cada semilla + combinaciones antiedad probadas con pacientes.", cta: "EN LOS COMENTARIOS" }],
-  ["La verdadera juventud", 6, "PullQuote", { quote: "La verdadera juventud no viene de una sola cosa milagrosa: viene de los buenos hábitos, sostenidos." }],
+  ["quedate conmigo porque te voy", 6.5, "Checklist", { theme: T, title: "Lo que vas a ver hoy", items: ["Para qué sirve la chía de verdad", "Los mitos (¿adelgaza? ¿detox?)", "Cómo tomarla y las advertencias"] }],
+  ["para que sirve la chia segun", 7.5, "Checklist", { theme: T, title: "Para qué SÍ sirve", items: ["Fibra y buena digestión", "Saciedad: te llena", "Azúcar en sangre más suave", "Grasas buenas (omega 3 vegetal)"] }],
+  ["la chia adelgaza la chia quema", 7, "MythVsTruth", { theme: T, myth: "La chía adelgaza y quema grasa sola.", truth: "Falso. La chía no quema nada: da saciedad y eso puede ayudarte a comer menos. La que adelgaza sos vos comiendo menos, no la semilla." }],
+  ["el agua de chia sola esa", 7, "MythVsTruth", { theme: T, myth: "El agua de chía colada tiene todos los beneficios.", truth: "No. Si colás y tirás las semillas, perdés gran parte de la fibra y los nutrientes. La chía se come, no se cuela y se tira." }],
+  ["cuanta mas chia mejor porque", 7, "MythVsTruth", { theme: T, myth: "Como es sana, cuanta más chía, mejor.", truth: "No. El exceso trae gases, hinchazón y hasta estreñimiento si no tomás agua. La porción justa, siempre bien hidratada." }],
+  ["la chia te desintoxica te limpia", 7, "MythVsTruth", { theme: T, myth: "La chía te desintoxica y te limpia el organismo.", truth: "Falso. Para eso tenés hígado y riñones. La chía te da fibra y ayuda a ir al baño: eso es digestión normal, no 'desintoxicar'." }],
+  ["chia o lino cual es mejor", 7, "Compare", { theme: T, title: "Chía vs. lino", left: { label: "Chía", sub: "se come entera, se hincha y se aprovecha" }, right: { label: "Lino", sub: "conviene molerlo; suele ser más barato" } }],
+  ["el famoso pudin de chia dos", 8, "Steps", { theme: T, eyebrow: "Cómo tomarla bien", title: "Paso a paso", steps: [{ title: "Siempre hidratada", sub: "dejala 10-15 min en líquido antes de comer" }, { title: "Empezá de a poco", sub: "y tomá suficiente agua" }, { title: "Porción justa, con comida real", sub: "yogur, avena, ensaladas" }] }],
+  ["la chia no es un superalimento magico", 7, "PullQuote", { theme: T, quote: "La chía no es un superalimento mágico que derrite la grasa, ni un invento inútil del marketing: es una semilla humilde y nutritiva que, con cabeza, te aporta fibra, saciedad y grasas buenas." }],
 ];
 const components = [];
 const compMiss = [];
-for (const [anchor, durS, comp, props] of compBeats) {
-  const from = at(anchor);
-  if (from == null) { compMiss.push(anchor); continue; }
-  components.push({ from, dur: sec(durS), comp, props });
-}
-components.sort((a, b) => a.from - b.from);
+for (const [a, d, comp, props] of compBeats) { const from = at(a); if (from == null) { compMiss.push(a); continue; } components.push({ from, dur: sec(d), comp, props }); }
+components.sort((x, y) => x.from - y.from);
 const compRanges = components.map((c) => [c.from, c.from + c.dur]);
 const inComp = (f) => compRanges.some(([a, b]) => f >= a - sec(0.3) && f < b);
 const nextCompStart = (f) => { const l = components.filter((c) => c.from > f).map((c) => c.from); return l.length ? Math.min(...l) : Infinity; };
 
-/* ─────────────────────────── B-ROLL (denso: clips + imágenes) ─────────────────────────── */
-const IMG = { s_cerebro: "chia_cerebro.jpg", s_calab: "chia_calabaza.jpg", s_giras: "chia_girasol.jpg", s_linaza: "chia_linaza.jpg", s_huesos: "chia_huesos.jpg", s_sesamo: "chia_sesamo.jpg" };
-const DROP = new Set(["s_corazon", "s_albah", "s_oxid"]); // reemplazados por s_corazon2 / s_albah2 / piel
-
-const stock = [];
-for (const f of ["chia-colageno_needstock.json", "chia-colageno_needstock2.json"]) {
-  try { stock.push(...JSON.parse(fs.readFileSync(path.join(ROOT, "_v3", f), "utf8").replace(/^﻿/, ""))); } catch {}
-}
-
-const CAP_VID = sec(13), CAP_IMG = sec(8), MIN = sec(2);
-const cands = [];
-for (const it of stock) {
-  if (DROP.has(it.name)) continue;
-  const from = at(it.anchor);
-  if (from == null) continue;
-  const imgFile = IMG[it.name];
-  if (imgFile && fs.existsSync(path.join(ROOT, "public", "img", imgFile))) {
-    cands.push({ from, name: it.name, kind: "image", src: `img/${imgFile}`, cap: CAP_IMG });
-  } else {
-    const vid = path.join(ROOT, "public", "broll", `${SLUG}_${it.name}.mp4`);
-    if (fs.existsSync(vid)) cands.push({ from, name: it.name, kind: "video", src: `broll/${SLUG}_${it.name}.mp4`, cap: CAP_VID });
-  }
-}
-// dedup por from (si dos anclan al mismo frame, quedarse con el primero)
-cands.sort((a, b) => a.from - b.from);
-const uniq = [];
-for (const c of cands) { if (!uniq.length || c.from - uniq[uniq.length - 1].from > sec(0.5)) uniq.push(c); }
-
-const broll = [];
-const brollMiss = [];
-for (let i = 0; i < uniq.length; i++) {
-  const c = uniq[i];
-  if (inComp(c.from)) { brollMiss.push(`${c.name} (dentro de componente)`); continue; }
-  const nextBroll = i + 1 < uniq.length ? uniq[i + 1].from : Infinity;
-  let dur = Math.min(c.cap, nextBroll - c.from, nextCompStart(c.from) - c.from);
-  if (dur < MIN) { brollMiss.push(`${c.name} (sliver ${dur}f)`); continue; }
-  broll.push({ from: c.from, dur, kind: c.kind, src: c.src });
-}
-
-/* ─────────────────────────── OVERLAYS (transparentes, sobre avatar/b-roll) ─────────────────────────── */
 const ovBeats = [
-  ["Agustín Landívar", 5, "LowerThird", { accentText: "NATURÓPATA", title: "Agustín Landívar", sub: "Medicina natural, con evidencia" }],
-  ["un enemigo silencioso", 3, "KeywordPop", { word: "OXIDACIÓN", sub: "el enemigo del colágeno", pos: "center" }],
-  ["una piel más firme", 3, "KeywordPop", { word: "COLÁGENO", sub: "lo fabrica tu propio cuerpo", pos: "bottom" }],
-  ["es una mina de calcio", 5, "IconRow", { items: [{ icon: "🦴", label: "Calcio" }, { icon: "🌙", label: "Magnesio" }, { icon: "⚡", label: "Fósforo" }] }],
-  ["Tu cerebro está hecho", 4, "KeywordPop", { word: "OMEGA-3", sub: "alimento directo para tu cerebro", pos: "bottom" }],
-  ["ponerme serio contigo", 4, "SectionTitle", { eyebrow: "ATENCIÓN", title: "Cómo tomarla sin riesgo" }],
-  ["es la linaza", 6, "LowerThird", { accentText: "COMPAÑERA 1", title: "Linaza", sub: "Lignanos + omega-3 · siempre molida" }],
-  ["semilla de calabaza", 6, "LowerThird", { accentText: "COMPAÑERA 2", title: "Calabaza", sub: "Magnesio, zinc y hierro" }],
-  ["semilla de sésamo", 6, "LowerThird", { accentText: "COMPAÑERA 3", title: "Sésamo (ajonjolí)", sub: "Calcio para huesos y articulaciones" }],
-  ["semilla de girasol", 6, "LowerThird", { accentText: "COMPAÑERA 4", title: "Girasol", sub: "Vitamina E antioxidante" }],
-  ["semilla de albahaca", 6, "LowerThird", { accentText: "COMPAÑERA 5", title: "Albahaca", sub: "Forma gel, como la chía" }],
+  ["soy la doctora elena vidal y", 5, "LowerThird", { theme: T, accentText: "REMEDIOS CON EVIDENCIA", title: "Dra. Elena Vidal", sub: "La chía, sin mitos" }],
+  ["ese gel es el famoso gel", 3.6, "KeywordPop", { theme: T, word: "EL GEL DE CHÍA", sub: "fibra que da saciedad", pos: "center" }],
+  ["disponible en los comentarios de este video", 7, "QRTag", { theme: T, corner: "bl", src: QR }],
+  ["lo primero y para mi lo", 5, "LowerThird", { theme: T, accentText: "BENEFICIO 1", title: "Fibra y digestión", sub: "buen tránsito y flora intestinal" }],
+  ["lo segundo es el azucar en", 5, "LowerThird", { theme: T, accentText: "BENEFICIO 2", title: "Azúcar en sangre", sub: "sube más suave tras comer" }],
+  ["lo tercero es el corazon la", 5, "LowerThird", { theme: T, accentText: "BENEFICIO 3", title: "Corazón", sub: "omega 3 vegetal + fibra" }],
+  ["es una de las fuentes de fibra", 7, "QRTag", { theme: T, corner: "bl", src: QR }],
+  ["la chia siempre siempre con suficiente", 4, "KeywordPop", { theme: T, word: "SIEMPRE CON LÍQUIDO", sub: "nunca chía seca de golpe", pos: "center" }],
+  ["nunca te mandes una cucharada de", 5.5, "Callout", { theme: T, icon: "⚠️", title: "Nunca la comas seca", sub: "se hincha y puede atascarse en el esófago — hidratala antes", tone: "warn" }],
+  ["empeza con media cucharadita o una", 5, "Callout", { theme: T, icon: "💨", title: "Empezá de a poco", sub: "mucha fibra de golpe hincha — subí gradual y tomá agua", tone: "info" }],
+  ["si tomas medicacion ojo la chia", 5, "Callout", { theme: T, icon: "🩸", title: "Si tomás medicación", sub: "anticoagulantes/presión: consultá antes de grandes cantidades", tone: "warn" }],
+  ["esa guia que te deje en los comentarios", 7, "QRTag", { theme: T, corner: "bl", src: QR }],
+  ["la voy a llamar marta muy", 5, "LowerThird", { theme: T, accentText: "CASO REAL", title: "Marta", sub: "chía seca en ayunas = molestias y un susto" }],
+  ["la chia de verdad es la semilla", 3.6, "KeywordPop", { theme: T, word: "LEÉ LA ETIQUETA", sub: "la 'hojita verde' no es chía", pos: "center" }],
+  ["no te olvides de que te deje", 7, "QRTag", { theme: T, corner: "bl", src: QR }],
+  ["cuando la compres porque hay mucha", 4, "SectionTitle", { eyebrow: "MANOS A LA OBRA", title: "Cómo elegirla y guardarla" }],
+  ["como elegir la chia de verdad", 6, "SplitInfo", { eyebrow: "En resumen", title: "Mi guía de bienestar natural", items: ["Cómo elegir la chía de verdad", "Cantidades y combinaciones", "Alimentos que valen la pena vs. marketing"] }],
+  ["la reuni en una guia que", 7, "QRTag", { theme: T, corner: "bl", src: QR }],
+  ["gracias por regalarme estos minutos", 7, "QRTag", { theme: T, corner: "bl", src: QR }],
 ];
 const overlays = [];
 const ovMiss = [];
-for (const [anchor, durS, comp, props] of ovBeats) {
-  const from = at(anchor);
-  if (from == null) { ovMiss.push(anchor); continue; }
-  if (inComp(from)) { ovMiss.push(`${anchor} (dentro de componente)`); continue; }
-  overlays.push({ from, dur: sec(durS), comp, props });
-}
-overlays.sort((a, b) => a.from - b.from);
+for (const [a, d, comp, props] of ovBeats) { const from = at(a); if (from == null) { ovMiss.push(a); continue; } if (comp !== "QRTag" && inComp(from)) { ovMiss.push(`${a} (comp)`); continue; } overlays.push({ from, dur: sec(d), comp, props }); }
+overlays.sort((x, y) => x.from - y.from);
 
-/* ─────────────────────────── ESCRIBIR ─────────────────────────── */
+const IMGMAP = JSON.parse(fs.existsSync(path.join(ROOT, "_v3", `${SLUG}_imgmap.json`)) ? fs.readFileSync(path.join(ROOT, "_v3", `${SLUG}_imgmap.json`), "utf8").replace(/^﻿/, "") : "{}");
+const DROP = new Set((() => { try { return JSON.parse(fs.readFileSync(path.join(ROOT, "_v3", `${SLUG}_drop.json`), "utf8")); } catch { return []; } })());
+const stock = [];
+try { stock.push(...JSON.parse(fs.readFileSync(path.join(ROOT, "_v3", `${SLUG}_needstock.json`), "utf8").replace(/^﻿/, ""))); } catch {}
+const CAP_VID = sec(25), CAP_IMG = sec(10), MIN = sec(1.8);
+const cands = [];
+for (const it of stock) { if (DROP.has(it.name)) continue; const from = at(it.anchor); if (from == null) continue; const imgFile = IMGMAP[it.name]; if (imgFile && fs.existsSync(path.join(ROOT, "public", "img", imgFile))) cands.push({ from, name: it.name, kind: "image", src: `img/${imgFile}`, cap: CAP_IMG }); else { const vid = path.join(ROOT, "public", "broll", `${SLUG}_${it.name}.mp4`); if (fs.existsSync(vid)) cands.push({ from, name: it.name, kind: "video", src: `broll/${SLUG}_${it.name}.mp4`, cap: CAP_VID }); } }
+cands.sort((a, b) => a.from - b.from);
+const uniq = []; for (const c of cands) if (!uniq.length || c.from - uniq[uniq.length - 1].from > sec(0.5)) uniq.push(c);
+const broll = []; const brollMiss = [];
+for (let i = 0; i < uniq.length; i++) { const c = uniq[i]; if (inComp(c.from)) { brollMiss.push(`${c.name}(comp)`); continue; } const nextB = i + 1 < uniq.length ? uniq[i + 1].from : Infinity; const dur = Math.min(c.cap, nextB - c.from, nextCompStart(c.from) - c.from); if (dur < MIN) { brollMiss.push(`${c.name}(sliver)`); continue; } broll.push({ from: c.from, dur, kind: c.kind, src: c.src }); }
+
 const cues = { slug: SLUG, fps: FPS, width: 1920, height: 1080, durationInFrames, broll, overlays, components };
-const outFile = path.join(ROOT, "src", "VideoEdit", "data", `cues_${SLUG}.json`);
-fs.writeFileSync(outFile, JSON.stringify(cues, null, 2));
-
-// cobertura estimada de b-roll
-const brollFrames = broll.reduce((s, b) => s + b.dur, 0);
-console.log(`✓ componentes: ${components.length}/${compBeats.length}${compMiss.length ? " (miss: " + compMiss.join(", ") + ")" : ""}`);
-console.log(`✓ b-roll: ${broll.length} beats  (video ${broll.filter(b => b.kind === "video").length} / img ${broll.filter(b => b.kind === "image").length})  ~${Math.round(brollFrames / FPS)}s = ${Math.round(brollFrames / durationInFrames * 100)}% del video`);
-if (brollMiss.length) console.log("  · b-roll descartado: " + brollMiss.join(", "));
-console.log(`✓ overlays: ${overlays.length}/${ovBeats.length}${ovMiss.length ? " (miss: " + ovMiss.join(", ") + ")" : ""}`);
-console.log(`✓ ${(durationInFrames / FPS / 60).toFixed(1)} min → ${path.relative(ROOT, outFile)}`);
+fs.writeFileSync(path.join(ROOT, "src", "VideoEdit", "data", `cues_${SLUG}.json`), JSON.stringify(cues, null, 2));
+const bf = broll.reduce((s, b) => s + b.dur, 0);
+const qr = overlays.filter((o) => o.comp === "QRTag").length;
+const total = components.length + overlays.length + broll.length;
+console.log(`✓ componentes ${components.length}/${compBeats.length}${compMiss.length ? " MISS: " + compMiss.join(" | ") : ""}`);
+console.log(`✓ overlays ${overlays.length}/${ovBeats.length} (QR ${qr})${ovMiss.length ? " MISS: " + ovMiss.join(" | ") : ""}`);
+console.log(`✓ b-roll ${broll.length} ~${Math.round(bf / FPS)}s = ${Math.round(bf / durationInFrames * 100)}%${brollMiss.length ? " · " + brollMiss.join(", ") : ""}`);
+console.log(`✓ TOTAL ${total} beats · ${components.length + overlays.length} comp/ov en ${(durationInFrames / FPS / 60).toFixed(1)} min → 1 cada ${(durationInFrames / FPS / total).toFixed(0)}s`);

@@ -1,0 +1,483 @@
+{
+  "slug": "pyrex-atticfortune",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 34732,
+  "broll": [
+    {
+      "from": 167,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/pyrex-atticfortune_s_01.png"
+    },
+    {
+      "from": 285,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/pyrex-atticfortune_s_02.png"
+    },
+    {
+      "from": 470,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/pyrex-atticfortune_s_03.png"
+    },
+    {
+      "from": 4244,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/pyrex-atticfortune_s_07.png"
+    },
+    {
+      "from": 5210,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/pyrex-atticfortune_s_08.png"
+    },
+    {
+      "from": 6870,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/pyrex-atticfortune_s_10.png"
+    },
+    {
+      "from": 7751,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/pyrex-atticfortune_s_11.png"
+    },
+    {
+      "from": 13993,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/pyrex-atticfortune_s_12.png"
+    },
+    {
+      "from": 14477,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/pyrex-atticfortune_s_13.png"
+    },
+    {
+      "from": 14972,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/pyrex-atticfortune_s_14.png"
+    },
+    {
+      "from": 15920,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/pyrex-atticfortune_s_15.png"
+    },
+    {
+      "from": 16360,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/pyrex-atticfortune_s_16.png"
+    },
+    {
+      "from": 19175,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/pyrex-atticfortune_s_17.png"
+    },
+    {
+      "from": 24683,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/pyrex-atticfortune_s_20.png"
+    },
+    {
+      "from": 27914,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/pyrex-atticfortune_s_21.png"
+    },
+    {
+      "from": 30896,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/pyrex-atticfortune_s_22.png"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 601,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 845,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "$1,000+",
+        "sub": "one old bowl",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 1587,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "ATTIC FORTUNE",
+        "title": "Walt Hargrove",
+        "sub": "40+ years appraising attic & kitchen finds"
+      }
+    },
+    {
+      "from": 3226,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#10",
+        "title": "Everyday Ware & Jadite"
+      }
+    },
+    {
+      "from": 4207,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#9",
+        "title": "Stoneware Crocks & Jugs"
+      }
+    },
+    {
+      "from": 5182,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#8",
+        "title": "Vintage Cast Iron"
+      }
+    },
+    {
+      "from": 6103,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#7",
+        "title": "Transferware & Serving"
+      }
+    },
+    {
+      "from": 6779,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#6",
+        "title": "Promo & Short-Run Glass"
+      }
+    },
+    {
+      "from": 7723,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#5",
+        "title": "Complete Sets"
+      }
+    },
+    {
+      "from": 7723,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 8801,
+      "dur": 195,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "FREE GUIDE",
+        "title": "The Attic Fortune Guide",
+        "items": [
+          "Makers, patterns & colors that matter",
+          "Real sold-price ranges",
+          "Kitchenware, jewelry, coins & more"
+        ]
+      }
+    },
+    {
+      "from": 8801,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 9551,
+      "dur": 195,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "EVERYTHING INSIDE",
+        "title": "The Attic Fortune Guide",
+        "items": [
+          "Identify your pieces step by step",
+          "What collectors pay right now",
+          "Link pinned in the comments"
+        ]
+      }
+    },
+    {
+      "from": 9551,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 9754,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#4",
+        "title": "Pastel Mixing Bowls"
+      }
+    },
+    {
+      "from": 10726,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#3",
+        "title": "Rare & Failed Patterns"
+      }
+    },
+    {
+      "from": 11677,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#2",
+        "title": "Mint + Original Sticker"
+      }
+    },
+    {
+      "from": 11827,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CONDITION IS KING",
+        "sub": "bright & unchipped wins",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 12649,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "#1",
+        "title": "Rare Color + Full Set"
+      }
+    },
+    {
+      "from": 23393,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "label": "Caution",
+        "icon": "🚫",
+        "title": "Don't harsh-scrub it",
+        "sub": "steel wool destroys the pattern & value",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 24029,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "label": "Caution",
+        "icon": "⚠️",
+        "title": "Don't break up a set",
+        "sub": "a $500 set becomes $10 in singles",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 32558,
+      "dur": 195,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "GRAB IT FIRST",
+        "title": "The Attic Fortune Guide",
+        "items": [
+          "Know what it's worth before you sell",
+          "Spot the rare color vs the common one",
+          "Plain English, no jargon"
+        ]
+      }
+    },
+    {
+      "from": 32558,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    },
+    {
+      "from": 33399,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CHECK THE MARKS",
+        "sub": "who made it & when",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 34593,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "src": "img/qr_attic.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Free guide · link below",
+        "corner": "bl"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 601,
+      "dur": 150,
+      "comp": "BigStat",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ONE OLD SET",
+        "prefix": "$",
+        "value": 1000,
+        "suffix": "?",
+        "support": "what a rare vintage set can bring"
+      }
+    },
+    {
+      "from": 2396,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "mythLabel": "Myth",
+        "truthLabel": "Truth",
+        "myth": "The older it is, the more it's worth.",
+        "truth": "Not quite. Value is about the pattern, the color, the maker and how rare that combination is — a one-year color can beat a plain antique."
+      }
+    },
+    {
+      "from": 2493,
+      "dur": 180,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "What decides the value",
+        "items": [
+          "The pattern & the color",
+          "Who made it — the maker",
+          "Rarity + condition"
+        ]
+      }
+    },
+    {
+      "from": 20758,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HOW TO VALUE IT",
+        "title": "Check it in 4 steps",
+        "steps": [
+          {
+            "title": "Turn it over",
+            "sub": "look for the maker's mark"
+          },
+          {
+            "title": "Color & pattern",
+            "sub": "compare to a reference — rare colors win"
+          },
+          {
+            "title": "Condition & complete set?",
+            "sub": "chips, fading; is it the full set"
+          }
+        ]
+      }
+    },
+    {
+      "from": 22446,
+      "dur": 195,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Why condition is everything",
+        "left": {
+          "label": "Run through the dishwasher",
+          "sub": "faded — worth a fraction"
+        },
+        "right": {
+          "label": "Hand-washed, kept for good",
+          "sub": "bright — worth far more"
+        }
+      }
+    },
+    {
+      "from": 32681,
+      "dur": 180,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "earth",
+        "quote": "The only difference between the family that gave away a fortune in a donation box, and the family that cashed in, was one of them stopped and asked what is this, really.",
+        "author": "Walt Hargrove"
+      }
+    }
+  ]
+}

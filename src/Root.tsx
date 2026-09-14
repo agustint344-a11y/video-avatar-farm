@@ -38,6 +38,7 @@ import limonCues from "./VideoEdit/data/cues_limon-juantombo.json";
 import avenaCues from "./VideoEdit/data/cues_avena-elena.json";
 import carbonCues from "./VideoEdit/data/cues_carbon-juantombo.json";
 import jewelryCues from "./VideoEdit/data/cues_jewelry-atticfortune.json";
+import pyrexCues from "./VideoEdit/data/cues_pyrex-atticfortune.json";
 
 export const RemotionRoot: React.FC = () => {
   const chia = chiaCues as Cues;
@@ -74,6 +75,7 @@ export const RemotionRoot: React.FC = () => {
   const avena = avenaCues as Cues;
   const carbon = carbonCues as Cues;
   const jewelry = jewelryCues as Cues;
+  const pyrex = pyrexCues as Cues;
   return (
     <>
       <Composition
@@ -262,6 +264,7 @@ export const RemotionRoot: React.FC = () => {
       <Composition id="AvenaElena" component={VideoMain} durationInFrames={avena.durationInFrames} fps={avena.fps} width={avena.width} height={avena.height} defaultProps={{ cues: avena }} />
       <Composition id="CarbonJuanTombo" component={VideoMain} durationInFrames={carbon.durationInFrames} fps={carbon.fps} width={carbon.width} height={carbon.height} defaultProps={{ cues: carbon }} />
       <Composition id="JewelryAttic" component={VideoMain} durationInFrames={jewelry.durationInFrames} fps={jewelry.fps} width={jewelry.width} height={jewelry.height} defaultProps={{ cues: jewelry }} />
+      <Composition id="PyrexAttic" component={VideoMain} durationInFrames={pyrex.durationInFrames} fps={pyrex.fps} width={pyrex.width} height={pyrex.height} defaultProps={{ cues: pyrex }} />
     </>
   );
 };
