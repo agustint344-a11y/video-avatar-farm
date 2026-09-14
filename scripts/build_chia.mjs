@@ -36,10 +36,10 @@ const inComp = (f) => compRanges.some(([a, b]) => f >= a - sec(0.3) && f < b);
 const nextCompStart = (f) => { const l = components.filter((c) => c.from > f).map((c) => c.from); return l.length ? Math.min(...l) : Infinity; };
 
 const ovBeats = [
-  ["soy la doctora elena vidal y", 5, "LowerThird", { theme: T, accentText: "REMEDIOS CON EVIDENCIA", title: "Dra. Elena Vidal", sub: "La chía, sin mitos" }],
+  ["elena vidal y en este", 5, "LowerThird", { theme: T, accentText: "REMEDIOS CON EVIDENCIA", title: "Dra. Elena Vidal", sub: "La chía, sin mitos" }],
   ["ese gel es el famoso gel", 3.6, "KeywordPop", { theme: T, word: "EL GEL DE CHÍA", sub: "fibra que da saciedad", pos: "center" }],
   ["disponible en los comentarios de este video", 7, "QRTag", { theme: T, corner: "bl", src: QR }],
-  ["lo primero y para mi lo", 5, "LowerThird", { theme: T, accentText: "BENEFICIO 1", title: "Fibra y digestión", sub: "buen tránsito y flora intestinal" }],
+  ["ayuda a que vayas bien", 5, "LowerThird", { theme: T, accentText: "BENEFICIO 1", title: "Fibra y digestión", sub: "buen tránsito y flora intestinal" }],
   ["lo segundo es el azucar en", 5, "LowerThird", { theme: T, accentText: "BENEFICIO 2", title: "Azúcar en sangre", sub: "sube más suave tras comer" }],
   ["lo tercero es el corazon la", 5, "LowerThird", { theme: T, accentText: "BENEFICIO 3", title: "Corazón", sub: "omega 3 vegetal + fibra" }],
   ["es una de las fuentes de fibra", 7, "QRTag", { theme: T, corner: "bl", src: QR }],
@@ -47,10 +47,10 @@ const ovBeats = [
   ["nunca te mandes una cucharada de", 5.5, "Callout", { theme: T, icon: "⚠️", title: "Nunca la comas seca", sub: "se hincha y puede atascarse en el esófago — hidratala antes", tone: "warn" }],
   ["empeza con media cucharadita o una", 5, "Callout", { theme: T, icon: "💨", title: "Empezá de a poco", sub: "mucha fibra de golpe hincha — subí gradual y tomá agua", tone: "info" }],
   ["si tomas medicacion ojo la chia", 5, "Callout", { theme: T, icon: "🩸", title: "Si tomás medicación", sub: "anticoagulantes/presión: consultá antes de grandes cantidades", tone: "warn" }],
-  ["esa guia que te deje en los comentarios", 7, "QRTag", { theme: T, corner: "bl", src: QR }],
+  ["lo tenes ordenado y explicado", 7, "QRTag", { theme: T, corner: "bl", src: QR }],
   ["la voy a llamar marta muy", 5, "LowerThird", { theme: T, accentText: "CASO REAL", title: "Marta", sub: "chía seca en ayunas = molestias y un susto" }],
   ["la chia de verdad es la semilla", 3.6, "KeywordPop", { theme: T, word: "LEÉ LA ETIQUETA", sub: "la 'hojita verde' no es chía", pos: "center" }],
-  ["no te olvides de que te deje", 7, "QRTag", { theme: T, corner: "bl", src: QR }],
+  ["y como te decia todo esto", 7, "QRTag", { theme: T, corner: "bl", src: QR }],
   ["cuando la compres porque hay mucha", 4, "SectionTitle", { eyebrow: "MANOS A LA OBRA", title: "Cómo elegirla y guardarla" }],
   ["como elegir la chia de verdad", 6, "SplitInfo", { eyebrow: "En resumen", title: "Mi guía de bienestar natural", items: ["Cómo elegir la chía de verdad", "Cantidades y combinaciones", "Alimentos que valen la pena vs. marketing"] }],
   ["la reuni en una guia que", 7, "QRTag", { theme: T, corner: "bl", src: QR }],
