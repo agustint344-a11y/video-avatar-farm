@@ -41,6 +41,7 @@ import jewelryCues from "./VideoEdit/data/cues_jewelry-atticfortune.json";
 import pyrexCues from "./VideoEdit/data/cues_pyrex-atticfortune.json";
 import chiaElenaCues from "./VideoEdit/data/cues_chia-elena.json";
 import propoleoCues from "./VideoEdit/data/cues_propoleo-juantombo.json";
+import vitaminadCues from "./VideoEdit/data/cues_vitaminad-elena.json";
 
 export const RemotionRoot: React.FC = () => {
   const chia = chiaCues as Cues;
@@ -80,6 +81,7 @@ export const RemotionRoot: React.FC = () => {
   const pyrex = pyrexCues as Cues;
   const chiaElena = chiaElenaCues as Cues;
   const propoleo = propoleoCues as Cues;
+  const vitaminad = vitaminadCues as Cues;
   return (
     <>
       <Composition
@@ -271,6 +273,7 @@ export const RemotionRoot: React.FC = () => {
       <Composition id="PyrexAttic" component={VideoMain} durationInFrames={pyrex.durationInFrames} fps={pyrex.fps} width={pyrex.width} height={pyrex.height} defaultProps={{ cues: pyrex }} />
       <Composition id="ChiaElena" component={VideoMain} durationInFrames={chiaElena.durationInFrames} fps={chiaElena.fps} width={chiaElena.width} height={chiaElena.height} defaultProps={{ cues: chiaElena }} />
       <Composition id="PropoleoJuanTombo" component={VideoMain} durationInFrames={propoleo.durationInFrames} fps={propoleo.fps} width={propoleo.width} height={propoleo.height} defaultProps={{ cues: propoleo }} />
+      <Composition id="VitaminaDElena" component={VideoMain} durationInFrames={vitaminad.durationInFrames} fps={vitaminad.fps} width={vitaminad.width} height={vitaminad.height} defaultProps={{ cues: vitaminad }} />
     </>
   );
 };

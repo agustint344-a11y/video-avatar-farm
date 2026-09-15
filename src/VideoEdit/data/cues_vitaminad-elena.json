@@ -1,0 +1,431 @@
+{
+  "slug": "vitaminad-elena",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 36204,
+  "broll": [
+    {
+      "from": 37,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/vitaminad-elena_s_01.mp4"
+    },
+    {
+      "from": 2713,
+      "dur": 253,
+      "kind": "video",
+      "src": "broll/vitaminad-elena_s_03.mp4"
+    },
+    {
+      "from": 2966,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/vitaminad-elena_s_02.mp4"
+    },
+    {
+      "from": 4010,
+      "dur": 452,
+      "kind": "video",
+      "src": "broll/vitaminad-elena_s_05.mp4"
+    },
+    {
+      "from": 4462,
+      "dur": 458,
+      "kind": "video",
+      "src": "broll/vitaminad-elena_s_06.mp4"
+    },
+    {
+      "from": 4920,
+      "dur": 578,
+      "kind": "video",
+      "src": "broll/vitaminad-elena_s_07.mp4"
+    },
+    {
+      "from": 5498,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/vitaminad-elena_s_08.mp4"
+    },
+    {
+      "from": 8198,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/vitaminad-elena_s_10.mp4"
+    },
+    {
+      "from": 16041,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/vitaminad-elena_s_16.mp4"
+    },
+    {
+      "from": 17282,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/vitaminad-elena_s_17.mp4"
+    },
+    {
+      "from": 19438,
+      "dur": 172,
+      "kind": "video",
+      "src": "broll/vitaminad-elena_s_18.mp4"
+    },
+    {
+      "from": 19610,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/vitaminad-elena_s_19.mp4"
+    },
+    {
+      "from": 22205,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/vitaminad-elena_s_21.mp4"
+    },
+    {
+      "from": 24509,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/vitaminad-elena_s_22.mp4"
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1836,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "REMEDIOS CON EVIDENCIA",
+        "title": "Dra. Elena Vidal",
+        "sub": "La vitamina D, sin mitos"
+      }
+    },
+    {
+      "from": 2408,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "ES UNA HORMONA",
+        "sub": "no una vitamina común",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 4460,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 1",
+        "title": "Huesos",
+        "sub": "absorbe el calcio, previene osteoporosis"
+      }
+    },
+    {
+      "from": 4920,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 2",
+        "title": "Músculos",
+        "sub": "fuerza; menos caídas en mayores"
+      }
+    },
+    {
+      "from": 5498,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 3",
+        "title": "Defensas",
+        "sub": "ayuda si estabas bajo (sin milagros)"
+      }
+    },
+    {
+      "from": 6850,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 6907,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 8198,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "SE ACUMULA",
+        "sub": "en exceso, te intoxica",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 13059,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "eyebrow": "NO TE LO SALTEES",
+        "title": "Las advertencias"
+      }
+    },
+    {
+      "from": 14696,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "💊",
+        "title": "Cuidado con las megadosis",
+        "sub": "esas ampollas/gotas altas causan intoxicaciones",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 15304,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🩺",
+        "title": "Riñón, paratiroides, medicación",
+        "sub": "manejala siempre con tu médico",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 16242,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "☀️",
+        "title": "El sol, con cabeza",
+        "sub": "no te quemes: riesgo de cáncer de piel",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 17282,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "CASO REAL",
+        "title": "Cristina",
+        "sub": "megadosis sin control → intoxicación"
+      }
+    },
+    {
+      "from": 19438,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "POCOS ALIMENTOS",
+        "sub": "pescado graso, huevo, fortificados",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 23065,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 25468,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi guía de bienestar natural",
+        "items": [
+          "Qué análisis valen la pena",
+          "Sol, alimentos y suplemento con criterio",
+          "Lo que sirve vs. el marketing"
+        ]
+      }
+    },
+    {
+      "from": 26328,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "SUPLEMENTO",
+        "title": "D3 mejor que D2",
+        "sub": "y tomala con una comida con grasa"
+      }
+    },
+    {
+      "from": 34585,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 34720,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 36074,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 1322,
+      "dur": 195,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Lo que vas a ver hoy",
+        "items": [
+          "Para qué sirve la vitamina D de verdad",
+          "Los mitos (¿cuanto más mejor?)",
+          "Cómo medirla y las advertencias"
+        ]
+      }
+    },
+    {
+      "from": 3734,
+      "dur": 225,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Para qué SÍ sirve",
+        "items": [
+          "Huesos fuertes (absorbe el calcio)",
+          "Fuerza muscular",
+          "Ayuda a las defensas",
+          "Previene la osteoporosis"
+        ]
+      }
+    },
+    {
+      "from": 7435,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Cuanta más vitamina D, mejor: tomo por las dudas.",
+        "truth": "Falso y peligroso. Se acumula en la grasa y el hígado; en exceso te intoxica: sube el calcio, daña los riñones. La dosis justa, ni una gota de más."
+      }
+    },
+    {
+      "from": 7806,
+      "dur": 210,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "La vitamina D no es un milagro en pastilla que cura todo, ni un invento de los laboratorios: es una hormona fundamental que tu cuerpo fabrica con el sol y que cuida tus huesos, tus músculos y tus defensas. Ni la ignores, ni la tomes a lo loco."
+      }
+    },
+    {
+      "from": 9244,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Si estoy cansado, seguro es la vitamina D.",
+        "truth": "Ojo. El cansancio tiene mil causas: sueño, estrés, anemia, tiroides. Tomarla a ciegas es comprar un repuesto sin saber qué se rompió. Medí primero."
+      }
+    },
+    {
+      "from": 10304,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "La vitamina D cura el cáncer, la depresión, el corazón.",
+        "truth": "El marketing se voló. Que los enfermos tengan la D baja no significa que la D baja cause la enfermedad: muchas veces es al revés. Los grandes estudios no vieron ese milagro."
+      }
+    },
+    {
+      "from": 12246,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Con el sol por la ventana ya tengo toda la que necesito.",
+        "truth": "Falso. El vidrio bloquea los rayos que la producen. Tomar sol detrás de un vidrio casi no genera nada."
+      }
+    },
+    {
+      "from": 13408,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Cómo hacerlo bien",
+        "title": "Con criterio",
+        "steps": [
+          {
+            "title": "Medí con un análisis",
+            "sub": "un simple examen de sangre"
+          },
+          {
+            "title": "Que el médico calcule la dosis",
+            "sub": "según tu nivel y tu caso"
+          },
+          {
+            "title": "Sol con cabeza, sin quemarte",
+            "sub": "unos minutos, horarios suaves"
+          }
+        ]
+      }
+    },
+    {
+      "from": 20765,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Quiénes suelen estar bajos",
+        "items": [
+          "Personas mayores y de piel oscura",
+          "Poco sol / trabajo encerrado",
+          "Obesidad, embarazo y bebés"
+        ]
+      }
+    }
+  ]
+}

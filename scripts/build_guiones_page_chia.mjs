@@ -1,17 +1,17 @@
 /**
- * Página (Artifact HTML) con botones de Copiar: guión, título, descripción, comentario y PROMPT de miniatura.
- * Editar el array `videos` y correr: node scripts/build_guiones_page.mjs   (lee guiones/<slug>_guion.txt)
+ * Página (Artifact HTML) con botones de Copiar — TANDA chía/propóleo/pyrex.
+ *   node scripts/build_guiones_page_chia.mjs
  */
 import fs from "node:fs";
 const ROOT = process.cwd();
 const G = ROOT + "/guiones/";
-const OUT_HTML = "C:/Users/Teje/AppData/Local/Temp/claude/C--Users-Teje-Desktop-CLAUDE/77868391-a22a-4c40-a359-e543a9539669/scratchpad/guiones_copiar.html";
+const OUT_HTML = "C:/Users/Teje/AppData/Local/Temp/claude/C--Users-Teje-Desktop-CLAUDE/77868391-a22a-4c40-a359-e543a9539669/scratchpad/guiones_copiar_chia.html";
 const read = (f) => fs.readFileSync(G + f, "utf8").trim();
 
 const videos = [
-  { slug: "vitaminad-elena", emoji: "☀️", accent: "#0d9488", tema: "Dra. Elena Vidal", temaTag: "Salud · turquesa", dur: "≈ 20 min",
-    titulo: "VITAMINA D: el error de tomarla 'por las dudas' (y cuándo SÍ la necesitás de verdad)",
-    desc: `La vitamina D se puso tan de moda que parece curar todo... y mucha gente la toma mal. La Dra. Elena Vidal explica, con evidencia, la "vitamina del sol" (que en realidad es una hormona): para qué SÍ sirve (huesos, músculos, defensas), los mitos peligrosos ("cuanto más mejor", "cura el cáncer y la depresión", "el sol por la ventana alcanza") y — lo más importante — por qué NO hay que suplementarse a ciegas: en exceso se acumula y puede intoxicarte. Cómo medirla, el sol con cabeza, D3 vs D2, y quiénes son los que más riesgo tienen de estar bajos.
+  { slug: "chia-elena", emoji: "🌱", accent: "#0d9488", tema: "Dra. Elena Vidal", temaTag: "Salud · turquesa", dur: "≈ 20 min",
+    titulo: "SEMILLAS DE CHÍA: la verdad que nadie te cuenta (y el error que puede ser peligroso)",
+    desc: `¿La chía adelgaza? ¿El agua de chía en ayunas derrite la panza? La Dra. Elena Vidal analiza, con evidencia, la semilla más de moda: para qué SÍ sirve (fibra, saciedad, colesterol, azúcar en sangre), los mitos que son puro marketing ("quema grasa", "desintoxica", "agua de chía colada") y — lo más importante — la advertencia que casi nadie te dice: comer chía SECA sin líquido puede hincharse y atascarse en el esófago. Cómo tomarla bien, cuánta, chía vs. lino, y cómo no dejarte engañar por la "hojita verde" del envase.
 
 👉 Mi guía "El Método Bienestar Natural" está en el comentario fijado y en el primer enlace de la descripción.
 
@@ -19,11 +19,11 @@ const videos = [
     comentario: `📘 Te dejé mi guía "El Método Bienestar Natural" acá 👇
 https://guia-bienestar-natural-oficial.vercel.app/?utm_source=youtube&utm_medium=comment#oferta
 
-⚠️ REGLA DE ORO: no te suplementes vitamina D "por las dudas". Se MIDE con un análisis y tu médico te dice la dosis justa. En exceso se acumula y puede intoxicarte (sube el calcio, daña riñones). Sol con moderación, sin quemarte, y suplemento SOLO cuando de verdad hace falta ☀️`,
-    mini: `Miniatura de YouTube 1280x720, fondo 100% NEGRO puro. Usá la foto de referencia adjunta de la Dra. Elena Vidal RESPETANDO SU CARA, recreada en otra pose (no recortar la foto): en un CÍRCULO con borde difuminado en la esquina superior derecha, con bata blanca, señalando con expresión de advertencia amable. Abajo a la izquierda, una mano sosteniendo un blíster de cápsulas doradas de vitamina D. En el centro, un frasco de perlas doradas de vitamina D y un sol radiante brillando detrás. Arriba a la izquierda, texto en MAYÚSCULAS tipografía Impact con grueso contorno negro: "VITAMINA D" en amarillo y debajo "¿LA TOMÁS MAL?" en blanco. Estilo dopamínico, colores cálidos vivos sobre el negro, ultra nítido, alto contraste.` },
-  { slug: "boldo-juantombo", emoji: "🍵", accent: "#b45309", tema: "Dr. Juan Tombo", temaTag: "Remedios caseros · tierra", dur: "≈ 20 min",
-    titulo: "BOLDO: NO 'limpia el hígado' (para qué SÍ sirve y el error que lo puede dañar)",
-    desc: `"Tomate un boldo que te limpia el hígado." El Dr. Juan Tomás separa, con criterio médico, lo real de lo mágico del remedio más clásico después de una comida pesada: para qué SÍ sirve (ayuda la digestión estimulando la bilis, ideal para la pesadez y los gases) y los mitos ("desintoxica/limpia el hígado", "sirve para adelgazar", "cuanto más mejor"). Las advertencias clave: en exceso puede DAÑAR el hígado, está contraindicado en el embarazo, cuidado con cálculos en la vesícula y con anticoagulantes. Cómo prepararlo y cuándo consultar.
+⚠️ REGLA DE ORO: nunca comas la chía SECA de golpe y encima tomes agua — se hincha y se puede atascar. Dejala hidratar primero (en yogur, leche o agua) 10-15 min. Empezá con poca, tomá bien de líquido, y acordate: la chía ACOMPAÑA, no hace magia 🌱`,
+    mini: `Miniatura de YouTube 1280x720, fondo 100% NEGRO puro. Usá la foto de referencia adjunta de la Dra. Elena Vidal RESPETANDO SU CARA, recreada en otra pose (no recortar la foto): en un CÍRCULO con borde difuminado en la esquina superior derecha, con bata blanca, señalando con expresión de advertencia amable. Abajo a la izquierda, una mano sosteniendo una cucharada colmada de semillas de chía. En el centro, un frasco de vidrio con pudín de chía y un vaso con agua de chía gelatinosa. Arriba a la izquierda, texto en MAYÚSCULAS tipografía Impact con grueso contorno negro: "CHÍA" en amarillo y debajo "¿MILAGRO O MITO?" en blanco. Estilo dopamínico, colores cálidos vivos sobre el negro, ultra nítido, alto contraste.` },
+  { slug: "propoleo-juantombo", emoji: "🐝", accent: "#b45309", tema: "Dr. Juan Tombo", temaTag: "Remedios caseros · tierra", dur: "≈ 20 min",
+    titulo: "PROPÓLEO: no es un 'antibiótico natural' (para qué SÍ sirve y el error que te manda al hospital)",
+    desc: `El propóleo, el escudo defensivo de las abejas, es uno de los remedios más venerados... y peor usados. El Dr. Juan Tomás separa, con criterio médico, lo real de lo mágico: para qué SÍ sirve con evidencia (garganta, boca/aftas, heriditas, apoyo en resfríos) y los mitos peligrosos ("antibiótico natural que reemplaza al del médico", "cura el cáncer", "es inofensivo por ser natural"). Las advertencias clave: es de los productos de la colmena que MÁS alergias causa, cuidado con bebés y con el alcohol, e interacciones con anticoagulantes. Cómo elegirlo, presentaciones y una gárgara casera.
 
 👉 La guía "El Método Bienestar Natural" está en el comentario fijado y en el primer enlace de la descripción.
 
@@ -31,26 +31,26 @@ https://guia-bienestar-natural-oficial.vercel.app/?utm_source=youtube&utm_medium
     comentario: `📘 Te dejé la guía "El Método Bienestar Natural" acá 👇
 https://guia-bienestar-natural-git-ve-312784-agustins-projects-da4b6a55.vercel.app/#oferta
 
-⚠️ MUY IMPORTANTE: el boldo NO "limpia" el hígado — tu hígado ya se depura solo. Sirve para la digestión pesada, OCASIONAL y en poca cantidad. En exceso puede DAÑAR el hígado. Está PROHIBIDO en el embarazo, y cuidado si tenés piedras en la vesícula o tomás anticoagulantes 🍵`,
-    mini: `Miniatura de YouTube 1280x720, fondo 100% NEGRO puro. Usá la foto de referencia adjunta del Dr. Juan Tomás RESPETANDO SU CARA, recreado en otra pose (no recortar la foto): en un CÍRCULO con borde difuminado en la esquina superior derecha, con scrubs azul marino, con la mano en alto en gesto de "alto/pará", expresión de advertencia seria. Abajo a la izquierda, una mano sosteniendo un manojo de hojas secas de boldo. En el centro, una taza de té de boldo humeante con hojas de boldo al lado. Arriba a la izquierda, texto en MAYÚSCULAS tipografía Impact con grueso contorno negro (con halo blanco para que se lea sobre el negro): "BOLDO" en amarillo y debajo "¿LIMPIA EL HÍGADO?" en blanco. Estilo dopamínico, alto contraste, ultra nítido.` },
-  { slug: "fountainpens-atticfortune", emoji: "🖊️", accent: "#a16207", tema: "Attic Fortune", temaTag: "Inglés · Walt Hargrove", dur: "≈ 20 min",
-    titulo: "10 Old Pens in Your Drawer Worth a FORTUNE! (Don't Throw Out Grandpa's Pen)",
-    desc: `That old pen in the desk drawer — the heavy one with the gold-colored nib your grandfather carried — could be worth hundreds, even thousands, to the right collector. Veteran appraiser Walt Hargrove counts down the 10 kinds of old pens and writing gear most likely to be worth a small fortune: golden-age fountain pens, solid-gold nibs, rare colors, oversized flagship models, matched sets, inkwells and more. Learn the one thing that decides value (maker, material & condition), how to read the marks, where to hunt in your own home, how to spot fakes, and the #1 mistake — forcing an old pen or throwing out the "broken" ones.
+⚠️ MUY IMPORTANTE: el propóleo NO reemplaza a un antibiótico recetado. Sirve muy bien para la garganta, las aftas y heriditas, pero si tenés fiebre alta, pus o los síntomas empeoran, es para el médico. Y ojo: es de los que MÁS alergia da — la primera vez, poquísima cantidad y observá 🐝`,
+    mini: `Miniatura de YouTube 1280x720, fondo 100% NEGRO puro. Usá la foto de referencia adjunta del Dr. Juan Tomás RESPETANDO SU CARA, recreado en otra pose (no recortar la foto): en un CÍRCULO con borde difuminado en la esquina superior derecha, con scrubs azul marino, con la mano en alto en gesto de "alto/pará", expresión de advertencia seria. Abajo a la izquierda, una mano sosteniendo un frasco gotero marrón de propóleo. En el centro, el frasco gotero de propóleo con gotas ámbar oscuras y un panal de abejas de fondo dorado. Arriba a la izquierda, texto en MAYÚSCULAS tipografía Impact con grueso contorno negro (con halo blanco para que se lea sobre el negro): "PROPÓLEO" en amarillo y debajo "¿ANTIBIÓTICO NATURAL?" en blanco. Estilo dopamínico, alto contraste, ultra nítido.` },
+  { slug: "pyrex-atticfortune", emoji: "🥣", accent: "#a16207", tema: "Attic Fortune", temaTag: "Inglés · Walt Hargrove", dur: "≈ 20 min",
+    titulo: "10 Old Kitchen Items in Your Cupboard Worth a FORTUNE! (Don't Donate Grandma's Bowls)",
+    desc: `That old mixing bowl, that colored casserole dish, that stack of nesting bowls nobody wanted — some vintage kitchenware sells for hundreds, even over a thousand dollars, to the right collector. Veteran appraiser Walt Hargrove counts down the 10 kinds of old kitchen items most likely to be worth a small fortune: rare-color glass bowls, complete sets, jadite, stoneware crocks, smooth-bottom cast iron, cookie jars and more. Learn the one thing that decides value (pattern, color, maker & rarity), how to read the marks, where to hunt in your own home, how to spot reproductions, and the #1 mistake — running it through the dishwasher or giving away a set for a dollar.
 
-👉 Get the full guide (makers, models & real values) in the pinned comment and the first link below.
+👉 Get the full guide (makers, patterns & real values) in the pinned comment and the first link below.
 
 Before you toss it, check its worth.`,
     comentario: `📘 Get my full Attic Fortune guide here 👇
 https://attic-fortune.vercel.app
 
-Tell me: what old pens are hiding in your desk? 🖊️ And remember — find the MAKER'S NAME on the barrel, check the nib for GOLD marks (14K, 585, 18K), a rare COLOR is worth a fortune, NEVER force or polish an old pen, and don't throw out the "broken" ones — a gold nib is still money!`,
-    mini: `YouTube thumbnail 1280x720, Attic Fortune style. Use the attached reference photo of Walt Hargrove KEEPING HIS FACE (older appraiser, white beard, plaid shirt and denim overalls), recreated in a new pose (do not crop the photo) inside his rustic barn workshop, holding up a gleaming vintage fountain pen with a gold nib toward the camera with a surprised expression, an open desk drawer with several old fountain pens, a mechanical pencil and a crystal inkwell in front of him. Text: a red rusty "BEWARE" sign top-left; "WORTH" in yellow and "$2,000?" in big white below it (Impact font, thick black outline); a bold yellow curved arrow pointing at the pen. Warm barn lighting, ultra sharp, high contrast.` },
+Tell me: what old kitchenware is hiding in your cupboards? 🥣 And remember — turn the piece OVER and check the maker's mark, the RARE COLOR is the whole ballgame, condition is king (never harsh-scrub it!), and NEVER break up a complete set to sell it a dollar at a time!`,
+    mini: `YouTube thumbnail 1280x720, Attic Fortune style. Use the attached reference photo of Walt Hargrove KEEPING HIS FACE (older appraiser, white beard, plaid shirt and denim overalls), recreated in a new pose (do not crop the photo) inside his rustic barn workshop, holding up a colorful vintage mixing bowl toward the camera with a surprised expression, a stack of pastel turquoise, pink and yellow vintage nesting bowls and an old colored casserole dish on the table in front of him. Text: a red rusty "BEWARE" sign top-left; "WORTH" in yellow and "$1,000?" in big white below it (Impact font, thick black outline); a bold yellow curved arrow pointing at the bowls. Warm barn lighting, ultra sharp, high contrast.` },
 ];
 
 for (const v of videos) v.guion = read(v.slug + "_guion.txt");
 const DATA = JSON.stringify(videos);
 
-const html = `<title>Guiones para copiar</title>
+const html = `<title>Guiones para copiar · Chía</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap">
@@ -91,7 +91,7 @@ h1{font-family:Fraunces,Georgia,serif;font-weight:600;font-size:clamp(28px,5vw,4
 </style>
 <div class="wrap">
   <div class="kicker">Producción de videos · 3 canales</div>
-  <h1>Guiones para copiar</h1>
+  <h1>Guiones para copiar · Chía</h1>
   <p class="sub">Cada video con botones de <strong>Copiar</strong>: guión, título, descripción, comentario fijado y el <strong>prompt de la miniatura</strong> (pegalo en ChatGPT junto con la foto del avatar).</p>
   <div id="app"></div>
   <p class="foot">Elena → <code>qr_guia</code> · Juan → <code>qr_guia_jt</code> · Attic → <code>qr_attic</code></p>
@@ -108,4 +108,4 @@ document.getElementById("app").innerHTML=V.map(v=>\`<section class="card" style=
 document.addEventListener("click",async e=>{const b=e.target.closest(".copy");if(b){const t=store[b.dataset.id];try{await navigator.clipboard.writeText(t);}catch(_){const a=document.createElement("textarea");a.value=t;document.body.appendChild(a);a.select();document.execCommand("copy");a.remove();}const sp=b.querySelector("span"),o=sp.textContent;b.classList.add("done");sp.textContent="¡Copiado!";setTimeout(()=>{b.classList.remove("done");sp.textContent=o;},1600);return;}const x=e.target.closest(".expand");if(x){const w=x.previousElementSibling;const op=w.classList.toggle("open");x.textContent=op?"Ocultar guión ▴":"Ver guión completo ▾";}});
 </script>`;
 fs.writeFileSync(OUT_HTML, html);
-console.log("HTML:", (Buffer.byteLength(html) / 1e6).toFixed(2), "MB ·", videos.length, "videos con prompt de miniatura");
+console.log("HTML:", (Buffer.byteLength(html) / 1e6).toFixed(2), "MB ·", videos.length, "videos");
