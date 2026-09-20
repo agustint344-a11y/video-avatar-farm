@@ -1,0 +1,1981 @@
+{
+  "slug": "colageno70-elena",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 40663,
+  "audioSrc": "colageno70-elena.mp3",
+  "avatarSrc": "colageno70-elena_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 3,
+      "dur": 1260,
+      "clip": 0
+    },
+    {
+      "from": 2080,
+      "dur": 1192,
+      "clip": 1260
+    },
+    {
+      "from": 19286,
+      "dur": 702,
+      "clip": 2452
+    },
+    {
+      "from": 28774,
+      "dur": 1260,
+      "clip": 3154
+    },
+    {
+      "from": 40119,
+      "dur": 468,
+      "clip": 4414
+    }
+  ],
+  "broll": [
+    {
+      "from": 1263,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 1413,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 1563,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 1713,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 1863,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 2013,
+      "dur": 67,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 3272,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 3422,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 3572,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 3722,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 3872,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 4022,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 4172,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 4322,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 4472,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 4622,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 4772,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 4922,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 5072,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 5222,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 5372,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 5522,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 5672,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 5822,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 5972,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 6122,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 6272,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 6422,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 6572,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 6722,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 6872,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 7022,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 7172,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 7322,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 7472,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 7622,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 7772,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 7922,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 8072,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 8222,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 8372,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 8522,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 8672,
+      "dur": 64,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 8976,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 9126,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 9276,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 9426,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 9576,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 9726,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 9876,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 10026,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 10176,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 10326,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 10476,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 10626,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 10776,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 10926,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 11076,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 11226,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 11376,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 11526,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 11676,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 11826,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 11976,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 12126,
+      "dur": 119,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 12470,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 12620,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 12770,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 12920,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 13070,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 13220,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 13370,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 13520,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 13670,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 13820,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 13970,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 14120,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 14270,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 14420,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 14570,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 14720,
+      "dur": 139,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 15099,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 15249,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 15399,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 15549,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 15699,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 15849,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 15999,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 16149,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 16299,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 16449,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 16599,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 16749,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 16899,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 17049,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 17199,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 17349,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 17499,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 17649,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 17799,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 17949,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 18099,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 18249,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 18399,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 18549,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 18699,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 18849,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 18999,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 19149,
+      "dur": 137,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 19988,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 20138,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 20288,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 20438,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 20588,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 20738,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 20888,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 21038,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 21188,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 21338,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 21488,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 21638,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 21788,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 21938,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 22088,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 22238,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 22388,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 22538,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 22688,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 22838,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 22988,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 23138,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 23288,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 23438,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 23588,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 23738,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 23888,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 24038,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 24188,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 24338,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 24488,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 24638,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 24788,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 24938,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 25088,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 25238,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 25388,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 25538,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 25688,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 25838,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 25988,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 26138,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 26288,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 26438,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 26588,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 26738,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 26888,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 27038,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 27188,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 27338,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 27488,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 27638,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 27788,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 27938,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 28088,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 28238,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 28388,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 28538,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 28688,
+      "dur": 86,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 30034,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 30184,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 30334,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 30484,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 30634,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 30784,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 30934,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 31084,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 31234,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 31384,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 31534,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 31684,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 31834,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 31984,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 32134,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 32284,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 32434,
+      "dur": 179,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 32853,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 33003,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 33153,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 33303,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 33453,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 33603,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 33753,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 33903,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 34053,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 34203,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 34353,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 34503,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 34653,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 34803,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 34953,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 35103,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 35253,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 35403,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 35553,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 35703,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 35853,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 36003,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 36153,
+      "dur": 91,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 36469,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 36619,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 36769,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 36919,
+      "dur": 143,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 37302,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 37452,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 37602,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 37752,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 37902,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 38052,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 38202,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 38352,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 38502,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 38652,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 38802,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 38952,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 39102,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 39252,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 39402,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 39552,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 39702,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 39852,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 40002,
+      "dur": 117,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 40587,
+      "dur": 76,
+      "kind": "video",
+      "src": "broll/colageno70-elena_s_12.mp4",
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2080,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "SALUD CON EVIDENCIA",
+        "title": "Dra. Elena Vidal",
+        "sub": "piel firme a los 70, sin cremas"
+      }
+    },
+    {
+      "from": 3531,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🛏️",
+        "title": "Tu piel es un colchón",
+        "sub": "la firmeza está en los resortes (colágeno), no en la tela",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 5045,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "COLÁGENO",
+        "sub": "la proteína más abundante del cuerpo",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 7074,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "⅓ EN 5 AÑOS",
+        "sub": "colágeno de la piel que se pierde tras la menopausia",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 10555,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "ESTRÓGENO",
+        "sub": "protegía tu colágeno; al bajar, la fábrica se frena",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 13814,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "EL ALIMENTO DE $1",
+        "title": "El huevo"
+      }
+    },
+    {
+      "from": 16246,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚡",
+        "title": "Vitamina C = el encendedor",
+        "sub": "sin ella, la fábrica de colágeno no arranca",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 17391,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "ZINC + COBRE",
+        "sub": "las herramientas del obrero (yema, frutos secos)",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 19866,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 20436,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 1",
+        "title": "Piel más firme",
+        "sub": "menos arrugas finas"
+      }
+    },
+    {
+      "from": 20436,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 21714,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 2",
+        "title": "Cuello y manos",
+        "sub": "las zonas que más delatan la edad"
+      }
+    },
+    {
+      "from": 25159,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 3",
+        "title": "Pelo y uñas",
+        "sub": "el mismo kit de reparación"
+      }
+    },
+    {
+      "from": 26006,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 4",
+        "title": "Músculo y saciedad",
+        "sub": "clave después de los 60"
+      }
+    },
+    {
+      "from": 28319,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 30340,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 31442,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "El error #1",
+        "sub": "comer proteína SIN vitamina C = fábrica a media máquina",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 34181,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Precauciones",
+        "sub": "nunca crudo; si tenés colesterol alto/diabetes, consultá la cantidad",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 37062,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 39477,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi guía de rejuvenecimiento",
+        "items": [
+          "El alimento del colágeno y cómo tomarlo",
+          "Las frutas para la vitamina C",
+          "Rutina para cara, cuello y manos"
+        ]
+      }
+    },
+    {
+      "from": 40191,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 8736,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Autochequeo: ¿bajó tu colágeno?",
+        "items": [
+          "Pellizcás la piel de la mano y tarda en volver",
+          "Líneas horizontales en el cuello por la mañana",
+          "Uñas quebradizas y pelo sin cuerpo",
+          "Es normal con la edad… y se puede reponer"
+        ]
+      }
+    },
+    {
+      "from": 12245,
+      "dur": 225,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "La crema con colágeno rellena la piel desde afuera.",
+        "truth": "La molécula es demasiado grande para atravesar la piel: se queda en la superficie. La firmeza se fabrica DESDE ADENTRO."
+      }
+    },
+    {
+      "from": 14859,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Los ladrillos del colágeno (en el huevo)",
+        "items": [
+          "Glicina y prolina: los 2 ladrillos",
+          "Proteína completa (todos los aminoácidos)",
+          "Azufre y zinc en la yema",
+          "Barato y en tu cocina"
+        ]
+      }
+    },
+    {
+      "from": 32613,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "El huevo tapa las arterias y dispara el colesterol.",
+        "truth": "En la mayoría de personas sanas no lo dispara como se creía. Si tenés colesterol alto, diabetes o problema cardíaco, la cantidad la definís con tu médico."
+      }
+    },
+    {
+      "from": 36244,
+      "dur": 225,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "La verdadera fórmula secreta no se vende en ningún frasco: se llama constancia. Los que ganan son los que la sostienen en el tiempo.",
+        "author": "Dra. Elena Vidal"
+      }
+    },
+    {
+      "from": 37062,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Cómo hacerlo bien",
+        "title": "El plan en 3 pasos",
+        "steps": [
+          {
+            "title": "1 o 2 huevos al día",
+            "sub": "si estás sana; si no, consultá"
+          },
+          {
+            "title": "Hervido, pochado o revuelto suave",
+            "sub": "poca grasa, nada de fritura"
+          },
+          {
+            "title": "Siempre con vitamina C",
+            "sub": "kiwi, naranja, pimiento o limón"
+          }
+        ]
+      }
+    }
+  ]
+}
