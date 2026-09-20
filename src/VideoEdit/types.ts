@@ -37,6 +37,15 @@ export type OverlayBeat = {
   props: Record<string, unknown>;
 };
 
+// Segmento de avatar on-camera (flujo Fish + InfiniteTalk): se muestra el avatar
+// a pantalla completa desde `from` durante `dur`, tomando el tramo del mp4 único
+// de avatar que empieza en el frame `clip` (trimBefore).
+export type AvatarSeg = {
+  from: number;
+  dur: number;
+  clip: number; // frame de inicio dentro del mp4 de avatar
+};
+
 export type Cues = {
   slug: string;
   fps: number;
@@ -46,4 +55,8 @@ export type Cues = {
   broll: BrollBeat[];
   overlays: OverlayBeat[];
   components: ComponentBeat[];
+  // --- flujo Fish + InfiniteTalk (opcional; si no están, se usa el opt.mp4 clásico) ---
+  audioSrc?: string;   // pista de audio master, relativa a public/ (ej "rinones-elena.mp3")
+  avatarSrc?: string;  // mp4 de avatar on-camera, relativa a public/ (ej "rinones-elena_avatar.mp4")
+  avatarSegs?: AvatarSeg[];
 };

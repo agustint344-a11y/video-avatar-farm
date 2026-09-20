@@ -9,12 +9,32 @@
  */
 import { Audio, Video } from "@remotion/media";
 import React from "react";
-import { AbsoluteFill, staticFile, useCurrentFrame } from "remotion";
+import { AbsoluteFill, Sequence, staticFile, useCurrentFrame } from "remotion";
+import type { AvatarSeg } from "../types";
 
 // El audio sale del propio opt.mp4 (el <Video> va muteado). Así no hay que subir un wav aparte.
-export const AvatarAudio: React.FC<{ slug: string }> = ({ slug }) => (
-  <Audio src={staticFile(`${slug}_opt.mp4`)} />
+// En el flujo Fish+InfiniteTalk se pasa audioSrc (mp3 master) y se usa ese en su lugar.
+export const AvatarAudio: React.FC<{ slug: string; audioSrc?: string }> = ({ slug, audioSrc }) => (
+  <Audio src={staticFile(audioSrc ?? `${slug}_opt.mp4`)} />
 );
+
+// Segmentos de avatar on-camera (Fish+InfiniteTalk): el avatar se ve a pantalla completa
+// SOLO en sus tramos; el resto lo cubren el b-roll y los componentes. Cada segmento toma
+// su tramo del mp4 único de avatar con trimBefore (clip). Va muteado: la voz es el audio master.
+export const AvatarSegments: React.FC<{ slug: string; avatarSrc?: string; segs: AvatarSeg[] }> = ({ slug, avatarSrc, segs }) => {
+  const src = staticFile(avatarSrc ?? `${slug}_avatar.mp4`);
+  return (
+    <>
+      {segs.map((s, i) => (
+        <Sequence key={`av${i}`} from={s.from} durationInFrames={s.dur} name={`avatar ${i}`}>
+          <AbsoluteFill style={{ backgroundColor: "#000" }}>
+            <Video src={src} muted trimBefore={s.clip} objectFit="cover" style={{ width: "100%", height: "100%" }} />
+          </AbsoluteFill>
+        </Sequence>
+      ))}
+    </>
+  );
+};
 
 // AvatarPip — el avatar chico en una esquina, ENCIMA del b-roll (estilo "dopamínico":
 // el b-roll llena la pantalla y el presentador queda presente pero pequeño). Va montado

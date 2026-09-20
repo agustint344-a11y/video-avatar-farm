@@ -1,6 +1,6 @@
 import React from "react";
 import { AbsoluteFill, Sequence } from "remotion";
-import { AvatarAudio, AvatarBackdrop, AvatarPip } from "./scenes/AvatarLayer";
+import { AvatarAudio, AvatarBackdrop, AvatarPip, AvatarSegments } from "./scenes/AvatarLayer";
 import { BrollBeatView, ComponentBeatView, OverlayBeatView } from "./renderCues";
 import type { Cues } from "./types";
 
@@ -12,10 +12,16 @@ import type { Cues } from "./types";
  *   z2  componentes del kit (tienen su propio fondo opaco; tapan todo)
  */
 export const VideoMain: React.FC<{ cues: Cues }> = ({ cues }) => {
+  // Flujo nuevo (Fish + InfiniteTalk): audio master + avatar solo en sus tramos on-camera.
+  const segMode = !!(cues.avatarSegs && cues.avatarSegs.length);
   return (
     <AbsoluteFill style={{ backgroundColor: "#000" }}>
-      <AvatarAudio slug={cues.slug} />
-      <AvatarBackdrop slug={cues.slug} />
+      <AvatarAudio slug={cues.slug} audioSrc={cues.audioSrc} />
+      {segMode ? (
+        <AvatarSegments slug={cues.slug} avatarSrc={cues.avatarSrc} segs={cues.avatarSegs!} />
+      ) : (
+        <AvatarBackdrop slug={cues.slug} />
+      )}
 
       {cues.broll.map((b, i) => (
         <Sequence key={`b${i}`} from={b.from} durationInFrames={b.dur} name={`broll ${b.src}`}>
@@ -23,11 +29,13 @@ export const VideoMain: React.FC<{ cues: Cues }> = ({ cues }) => {
         </Sequence>
       ))}
 
-      {/* Avatar en PiP sobre el b-roll (b-roll a pantalla completa + presentador chico en la esquina). */}
-      <AvatarPip
-        slug={cues.slug}
-        windows={cues.broll.filter((b) => b.pip !== false).map((b) => ({ from: b.from, dur: b.dur }))}
-      />
+      {/* Avatar en PiP sobre el b-roll — solo en el flujo clásico (opt.mp4 full). */}
+      {!segMode && (
+        <AvatarPip
+          slug={cues.slug}
+          windows={cues.broll.filter((b) => b.pip !== false).map((b) => ({ from: b.from, dur: b.dur }))}
+        />
+      )}
 
       {(cues.overlays ?? []).map((o, i) => (
         <Sequence key={`o${i}`} from={o.from} durationInFrames={o.dur} name={`overlay ${o.comp}`}>

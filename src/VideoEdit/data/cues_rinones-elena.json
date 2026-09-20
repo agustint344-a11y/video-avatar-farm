@@ -1,0 +1,474 @@
+{
+  "slug": "rinones-elena",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 36926,
+  "audioSrc": "rinones-elena.mp3",
+  "avatarSrc": "rinones-elena_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 67,
+      "dur": 1837,
+      "clip": 0
+    },
+    {
+      "from": 1904,
+      "dur": 902,
+      "clip": 1837
+    },
+    {
+      "from": 9845,
+      "dur": 840,
+      "clip": 2739
+    },
+    {
+      "from": 17003,
+      "dur": 983,
+      "clip": 3579
+    },
+    {
+      "from": 35645,
+      "dur": 1241,
+      "clip": 4562
+    }
+  ],
+  "broll": [
+    {
+      "from": 3079,
+      "dur": 408,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 4234,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 5321,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 6143,
+      "dur": 253,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 6396,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 7188,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 8027,
+      "dur": 737,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 8764,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 10725,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 12112,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 13634,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 15020,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 18224,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 19012,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 23753,
+      "dur": 541,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 24294,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 28442,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 30127,
+      "dur": 750,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_21.mp4",
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1904,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "SALUD CON EVIDENCIA",
+        "title": "Dra. Elena Vidal",
+        "sub": "7 señales que no hay que ignorar"
+      }
+    },
+    {
+      "from": 4196,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "SÍNTOMA #1",
+        "title": "Cansancio que no se va"
+      }
+    },
+    {
+      "from": 5321,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "ANEMIA",
+        "sub": "menos glóbulos rojos → agotamiento",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 6044,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "SÍNTOMA #2",
+        "title": "Cambios en la orina"
+      }
+    },
+    {
+      "from": 6396,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "ORINA ESPUMOSA",
+        "sub": "puede ser pérdida de proteínas",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 7984,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "SÍNTOMA #3",
+        "title": "Hinchazón (edema)"
+      }
+    },
+    {
+      "from": 10186,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 10238,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 10685,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "SÍNTOMA #4",
+        "title": "Picazón en la piel"
+      }
+    },
+    {
+      "from": 12072,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "SÍNTOMA #5",
+        "title": "Calambres / piernas inquietas"
+      }
+    },
+    {
+      "from": 13612,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "SÍNTOMA #6",
+        "title": "Falta de aire"
+      }
+    },
+    {
+      "from": 14976,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "SÍNTOMA #7",
+        "title": "Presión arterial alta"
+      }
+    },
+    {
+      "from": 15718,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "CÍRCULO VICIOSO",
+        "sub": "presión ↔ riñón se dañan mutuamente",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 18224,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🩸",
+        "title": "Diabetes y presión alta",
+        "sub": "las 2 grandes causas — controlate los riñones",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 19526,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "💊",
+        "title": "Cuidado con los antiinflamatorios",
+        "sub": "tomarlos a diario por tu cuenta daña el riñón",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 21789,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 29328,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi guía para cuidar tus riñones",
+        "items": [
+          "Qué comer y qué evitar",
+          "Qué análisis pedir y cada cuánto",
+          "Lo que los protege vs. las modas"
+        ]
+      }
+    },
+    {
+      "from": 33012,
+      "dur": 108,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "2 ANÁLISIS SIMPLES",
+        "sub": "sangre + orina",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 34540,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 35253,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 36785,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 3487,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Qué hacen tus riñones",
+        "items": [
+          "Filtran la sangre (sacan desechos)",
+          "Controlan la presión arterial",
+          "Equilibran minerales (sodio, potasio)",
+          "Ayudan a fabricar glóbulos rojos"
+        ]
+      }
+    },
+    {
+      "from": 20496,
+      "dur": 225,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Detectarlo es fácil y barato",
+        "items": [
+          "Sangre: creatinina → filtrado glomerular",
+          "Orina: ¿pierde proteínas (albúmina)?",
+          "Son de rutina, accesibles"
+        ]
+      }
+    },
+    {
+      "from": 22146,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Hay que tomar litros de agua para 'limpiar' los riñones.",
+        "truth": "No. Con una hidratación normal alcanza. Forzar cantidades enormes no desintoxica más y en algunas personas puede ser contraproducente."
+      }
+    },
+    {
+      "from": 23073,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Los suplementos y tés 'detox' limpian los riñones.",
+        "truth": "Peligroso. Muchas hierbas, el exceso de proteína y los 'detox' pueden sobrecargar o dañar el riñón. El mejor cuidado no viene en un frasco."
+      }
+    },
+    {
+      "from": 28135,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Cómo cuidarlos",
+        "title": "Lo que de verdad los protege",
+        "steps": [
+          {
+            "title": "Menos sal y ultraprocesados",
+            "sub": "es el regalo más grande"
+          },
+          {
+            "title": "Controlar azúcar y presión",
+            "sub": "los dos grandes enemigos"
+          },
+          {
+            "title": "Moverte, no fumar, hidratarte",
+            "sub": "y no abusar de antiinflamatorios"
+          }
+        ]
+      }
+    },
+    {
+      "from": 33632,
+      "dur": 225,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "Tus riñones no te van a gritar cuando estén en problemas: te van a susurrar. Aprendé a escuchar esos susurros, porque detectar a tiempo un problema renal puede salvarte de la diálisis.",
+        "author": "Dra. Elena Vidal"
+      }
+    }
+  ]
+}
