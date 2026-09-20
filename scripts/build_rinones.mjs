@@ -84,16 +84,34 @@ const ovMiss = [];
 for (const [a, d, comp, props] of ovBeats) { const from = at(a); if (from == null) { ovMiss.push(a); continue; } if (comp !== "QRTag" && inComp(from)) { ovMiss.push(`${a} (comp)`); continue; } overlays.push({ from, dur: sec(d), comp, props }); }
 overlays.sort((x, y) => x.from - y.from);
 
+// --- B-ROLL: TAPIZAR todo el tiempo sin avatar/componente (evita fondo negro) ---
+// Los clips de Agnes son ~5s y no loopean, así que se tilea con clips de 5s cicleando
+// el pool en orden del guión (s_01..s_22) → cobertura ~100%, avatar minoría.
 const DROP = new Set((() => { try { return JSON.parse(fs.readFileSync(path.join(ROOT, "_v3", `${SLUG}_drop.json`), "utf8")); } catch { return []; } })());
 const stock = [];
 try { stock.push(...JSON.parse(fs.readFileSync(path.join(ROOT, "_v3", `${SLUG}_needstock.json`), "utf8").replace(/^﻿/, ""))); } catch {}
-const CAP_VID = sec(25), MIN = sec(1.8);
-const cands = [];
-for (const it of stock) { if (DROP.has(it.name)) continue; const from = at(it.anchor); if (from == null) continue; const vid = path.join(ROOT, "public", "broll", `${SLUG}_${it.name}.mp4`); if (fs.existsSync(vid)) cands.push({ from, name: it.name, kind: "video", src: `broll/${SLUG}_${it.name}.mp4`, cap: CAP_VID }); }
-cands.sort((a, b) => a.from - b.from);
-const uniq = []; for (const c of cands) if (!uniq.length || c.from - uniq[uniq.length - 1].from > sec(0.5)) uniq.push(c);
-const broll = []; const brollMiss = [];
-for (let i = 0; i < uniq.length; i++) { const c = uniq[i]; if (inComp(c.from) || inAvatar(c.from)) { brollMiss.push(`${c.name}(x)`); continue; } const nextB = i + 1 < uniq.length ? uniq[i + 1].from : Infinity; const dur = Math.min(c.cap, nextB - c.from, nextStop(c.from) - c.from); if (dur < MIN) { brollMiss.push(`${c.name}(sliver)`); continue; } broll.push({ from: c.from, dur, kind: c.kind, src: c.src, pip: false }); }
+const pool = [];
+for (const it of stock) { if (DROP.has(it.name)) continue; const vid = path.join(ROOT, "public", "broll", `${SLUG}_${it.name}.mp4`); if (fs.existsSync(vid)) pool.push(`broll/${SLUG}_${it.name}.mp4`); }
+const CLIP = sec(5.0), MINB = sec(1.6);
+// intervalos ocupados (avatar + componentes) → intervalos libres a rellenar
+const blocked = [...avatarRanges, ...compRanges].sort((a, b) => a[0] - b[0]);
+const merged = [];
+for (const r of blocked) { if (merged.length && r[0] <= merged[merged.length - 1][1]) merged[merged.length - 1][1] = Math.max(merged[merged.length - 1][1], r[1]); else merged.push([r[0], r[1]]); }
+const free = []; let cur = 0;
+for (const [a, b] of merged) { if (a > cur) free.push([cur, a]); cur = Math.max(cur, b); }
+if (cur < durationInFrames) free.push([cur, durationInFrames]);
+const broll = []; let pi = 0;
+for (const [a, b] of free) {
+  let f = a;
+  while (b - f >= MINB) {
+    let d = Math.min(CLIP, b - f);
+    if ((b - f - d) > 0 && (b - f - d) < MINB) d = b - f; // sin sobrantes chicos
+    broll.push({ from: f, dur: d, kind: "video", src: pool[pi % pool.length], pip: false });
+    pi++; f += d;
+  }
+}
+broll.sort((x, y) => x.from - y.from);
+const brollMiss = [];
 
 const cues = { slug: SLUG, fps: FPS, width: 1920, height: 1080, durationInFrames, audioSrc: `${SLUG}.mp3`, avatarSrc: `${SLUG}_avatar.mp4`, avatarSegs, broll, overlays, components };
 fs.writeFileSync(path.join(ROOT, "src", "VideoEdit", "data", `cues_${SLUG}.json`), JSON.stringify(cues, null, 2));

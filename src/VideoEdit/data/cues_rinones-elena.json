@@ -35,129 +35,1410 @@
   ],
   "broll": [
     {
-      "from": 3079,
-      "dur": 408,
+      "from": 0,
+      "dur": 67,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 2806,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 2956,
+      "dur": 150,
       "kind": "video",
       "src": "broll/rinones-elena_s_03.mp4",
       "pip": false
     },
     {
-      "from": 4234,
-      "dur": 750,
+      "from": 3106,
+      "dur": 150,
       "kind": "video",
       "src": "broll/rinones-elena_s_04.mp4",
       "pip": false
     },
     {
-      "from": 5321,
-      "dur": 750,
+      "from": 3256,
+      "dur": 150,
       "kind": "video",
       "src": "broll/rinones-elena_s_05.mp4",
       "pip": false
     },
     {
-      "from": 6143,
-      "dur": 253,
+      "from": 3406,
+      "dur": 81,
       "kind": "video",
       "src": "broll/rinones-elena_s_06.mp4",
       "pip": false
     },
     {
-      "from": 6396,
-      "dur": 750,
+      "from": 3697,
+      "dur": 150,
       "kind": "video",
       "src": "broll/rinones-elena_s_07.mp4",
       "pip": false
     },
     {
-      "from": 7188,
-      "dur": 750,
+      "from": 3847,
+      "dur": 150,
       "kind": "video",
       "src": "broll/rinones-elena_s_08.mp4",
       "pip": false
     },
     {
-      "from": 8027,
-      "dur": 737,
+      "from": 3997,
+      "dur": 150,
       "kind": "video",
       "src": "broll/rinones-elena_s_09.mp4",
       "pip": false
     },
     {
-      "from": 8764,
-      "dur": 750,
+      "from": 4147,
+      "dur": 150,
       "kind": "video",
       "src": "broll/rinones-elena_s_10.mp4",
       "pip": false
     },
     {
-      "from": 10725,
-      "dur": 750,
+      "from": 4297,
+      "dur": 150,
       "kind": "video",
       "src": "broll/rinones-elena_s_11.mp4",
       "pip": false
     },
     {
-      "from": 12112,
-      "dur": 750,
+      "from": 4447,
+      "dur": 150,
       "kind": "video",
       "src": "broll/rinones-elena_s_12.mp4",
       "pip": false
     },
     {
-      "from": 13634,
-      "dur": 750,
+      "from": 4597,
+      "dur": 150,
       "kind": "video",
       "src": "broll/rinones-elena_s_13.mp4",
       "pip": false
     },
     {
-      "from": 15020,
-      "dur": 750,
+      "from": 4747,
+      "dur": 150,
       "kind": "video",
       "src": "broll/rinones-elena_s_14.mp4",
       "pip": false
     },
     {
-      "from": 18224,
-      "dur": 750,
+      "from": 4897,
+      "dur": 150,
       "kind": "video",
       "src": "broll/rinones-elena_s_15.mp4",
       "pip": false
     },
     {
-      "from": 19012,
-      "dur": 750,
+      "from": 5047,
+      "dur": 150,
       "kind": "video",
       "src": "broll/rinones-elena_s_16.mp4",
       "pip": false
     },
     {
-      "from": 23753,
-      "dur": 541,
+      "from": 5197,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 5347,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 5497,
+      "dur": 150,
       "kind": "video",
       "src": "broll/rinones-elena_s_19.mp4",
       "pip": false
     },
     {
-      "from": 24294,
-      "dur": 750,
-      "kind": "video",
-      "src": "broll/rinones-elena_s_22.mp4",
-      "pip": false
-    },
-    {
-      "from": 28442,
-      "dur": 750,
+      "from": 5647,
+      "dur": 150,
       "kind": "video",
       "src": "broll/rinones-elena_s_20.mp4",
       "pip": false
     },
     {
-      "from": 30127,
-      "dur": 750,
+      "from": 5797,
+      "dur": 150,
       "kind": "video",
       "src": "broll/rinones-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 5947,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 6097,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 6247,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 6397,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 6547,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 6697,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 6847,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 6997,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 7147,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 7297,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 7447,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 7597,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 7747,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 7897,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 8047,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 8197,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 8347,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 8497,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 8647,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 8797,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 8947,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 9097,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 9247,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 9397,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 9547,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 9697,
+      "dur": 148,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 10685,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 10835,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 10985,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 11135,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 11285,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 11435,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 11585,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 11735,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 11885,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 12035,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 12185,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 12335,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 12485,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 12635,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 12785,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 12935,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 13085,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 13235,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 13385,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 13535,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 13685,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 13835,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 13985,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 14135,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 14285,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 14435,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 14585,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 14735,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 14885,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 15035,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 15185,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 15335,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 15485,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 15635,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 15785,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 15935,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 16085,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 16235,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 16385,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 16535,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 16685,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 16835,
+      "dur": 168,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 17986,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 18136,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 18286,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 18436,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 18586,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 18736,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 18886,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 19036,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 19186,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 19336,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 19486,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 19636,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 19786,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 19936,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 20086,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 20236,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 20386,
+      "dur": 110,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 20721,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 20871,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 21021,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 21171,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 21321,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 21471,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 21621,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 21771,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 21921,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 22071,
+      "dur": 75,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 22356,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 22506,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 22656,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 22806,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 22956,
+      "dur": 117,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 23283,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 23433,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 23583,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 23733,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 23883,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 24033,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 24183,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 24333,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 24483,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 24633,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 24783,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 24933,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 25083,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 25233,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 25383,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 25533,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 25683,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 25833,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 25983,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 26133,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 26283,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 26433,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 26583,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 26733,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 26883,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 27033,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 27183,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 27333,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 27483,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 27633,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 27783,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 27933,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 28083,
+      "dur": 52,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 28375,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 28525,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 28675,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 28825,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 28975,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 29125,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 29275,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 29425,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 29575,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 29725,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 29875,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 30025,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 30175,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 30325,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 30475,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 30625,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 30775,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 30925,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 31075,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 31225,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 31375,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 31525,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 31675,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 31825,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 31975,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 32125,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 32275,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 32425,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 32575,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 32725,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 32875,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 33025,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 33175,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 33325,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 33475,
+      "dur": 157,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 33857,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 34007,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 34157,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 34307,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 34457,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 34607,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 34757,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 34907,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 35057,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 35207,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 35357,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 35507,
+      "dur": 138,
+      "kind": "video",
+      "src": "broll/rinones-elena_s_03.mp4",
       "pip": false
     }
   ],
