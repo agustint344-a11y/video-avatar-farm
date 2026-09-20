@@ -8,8 +8,10 @@
 
 import React from "react";
 import { AbsoluteFill, Img, interpolate, spring, staticFile, useCurrentFrame, useVideoConfig } from "remotion";
+import { loadFont as loadSans } from "@remotion/google-fonts/Inter";
+const { fontFamily: INTER_FF } = loadSans();
 
-const SANS = "Inter, 'Segoe UI', system-ui, -apple-system, sans-serif";
+const SANS = `${INTER_FF}, 'Segoe UI', system-ui, -apple-system, sans-serif`;
 const CLR = {
   bg: "#EAF0F1", card: "#FFFFFF", ink: "#16242B", muted: "#6C7B84",
   teal: "#0FA9A0", amber: "#E8A33D", line: "#E3EAED",

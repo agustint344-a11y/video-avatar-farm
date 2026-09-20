@@ -23,6 +23,11 @@
 
 import React from "react";
 import { AbsoluteFill, Img, interpolate, spring, useCurrentFrame, useVideoConfig } from "remotion";
+// Fuentes reales (premium) — sin esto el kit cae a fuentes del sistema y se ve genérico/caricaturesco.
+import { loadFont as loadSerif } from "@remotion/google-fonts/Fraunces";
+import { loadFont as loadSans } from "@remotion/google-fonts/Inter";
+const { fontFamily: SERIF_FF } = loadSerif();
+const { fontFamily: SANS_FF } = loadSans();
 
 // ───────────────────────────── TEMA (cambiá 1 objeto y cambia TODO el look) ─────────────────────────────
 export type Theme = {
@@ -30,8 +35,8 @@ export type Theme = {
   accent: string; good: string; bad: string; panel: string;
   serif: string; sans: string;
 };
-const SERIF = "Fraunces, 'Playfair Display', Georgia, 'Times New Roman', serif";
-const SANS = "Inter, 'Segoe UI', system-ui, -apple-system, sans-serif";
+const SERIF = `${SERIF_FF}, 'Playfair Display', Georgia, 'Times New Roman', serif`;
+const SANS = `${SANS_FF}, 'Segoe UI', system-ui, -apple-system, sans-serif`;
 
 export const THEME_EARTH: Theme = {
   bg: "#F2E9D6", ink: "#2A2016", muted: "#8A7A60", line: "#D8C7A6",
