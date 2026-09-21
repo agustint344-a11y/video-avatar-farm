@@ -1,0 +1,1524 @@
+{
+  "slug": "garbanzo-elena",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 30914,
+  "audioSrc": "garbanzo-elena.mp3",
+  "avatarSrc": "garbanzo-elena_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 2,
+      "dur": 655,
+      "clip": 0
+    },
+    {
+      "from": 2270,
+      "dur": 1058,
+      "clip": 655
+    },
+    {
+      "from": 8548,
+      "dur": 709,
+      "clip": 1713
+    },
+    {
+      "from": 21299,
+      "dur": 1260,
+      "clip": 2422
+    },
+    {
+      "from": 30357,
+      "dur": 480,
+      "clip": 3682
+    }
+  ],
+  "broll": [
+    {
+      "from": 657,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 807,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 957,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 1107,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 1257,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 1407,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 1557,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 1707,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 1857,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 2007,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 2157,
+      "dur": 113,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 3328,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 3478,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 3628,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 3778,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 3928,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 4078,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 4228,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 4378,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 4528,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 4678,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 4828,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 4978,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 5128,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 5278,
+      "dur": 100,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 5633,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 5783,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 5933,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 6083,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 6233,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 6383,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 6533,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 6683,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 6833,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 6983,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 7133,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_37.mp4",
+      "pip": false
+    },
+    {
+      "from": 7283,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_38.mp4",
+      "pip": false
+    },
+    {
+      "from": 7433,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_39.mp4",
+      "pip": false
+    },
+    {
+      "from": 7583,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_40.mp4",
+      "pip": false
+    },
+    {
+      "from": 7733,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_41.mp4",
+      "pip": false
+    },
+    {
+      "from": 7883,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_42.mp4",
+      "pip": false
+    },
+    {
+      "from": 8033,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_43.mp4",
+      "pip": false
+    },
+    {
+      "from": 8183,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_44.mp4",
+      "pip": false
+    },
+    {
+      "from": 8333,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_45.mp4",
+      "pip": false
+    },
+    {
+      "from": 8483,
+      "dur": 65,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_46.mp4",
+      "pip": false
+    },
+    {
+      "from": 9257,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_47.mp4",
+      "pip": false
+    },
+    {
+      "from": 9407,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_48.mp4",
+      "pip": false
+    },
+    {
+      "from": 9557,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 9707,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 9857,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 10007,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 10157,
+      "dur": 182,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 10594,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 10744,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 10894,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 11044,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 11194,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 11344,
+      "dur": 183,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 11767,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 11917,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 12067,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 12217,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 12367,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 12517,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 12667,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 12817,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 12967,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 13117,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 13267,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 13417,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 13567,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 13717,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 13867,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 14017,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 14167,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 14317,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 14467,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 14617,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 14767,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 14917,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 15067,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 15217,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 15367,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_37.mp4",
+      "pip": false
+    },
+    {
+      "from": 15517,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_38.mp4",
+      "pip": false
+    },
+    {
+      "from": 15667,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_39.mp4",
+      "pip": false
+    },
+    {
+      "from": 15817,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_40.mp4",
+      "pip": false
+    },
+    {
+      "from": 15967,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_41.mp4",
+      "pip": false
+    },
+    {
+      "from": 16117,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_42.mp4",
+      "pip": false
+    },
+    {
+      "from": 16267,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_43.mp4",
+      "pip": false
+    },
+    {
+      "from": 16417,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_44.mp4",
+      "pip": false
+    },
+    {
+      "from": 16567,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_45.mp4",
+      "pip": false
+    },
+    {
+      "from": 16717,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_46.mp4",
+      "pip": false
+    },
+    {
+      "from": 16867,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_47.mp4",
+      "pip": false
+    },
+    {
+      "from": 17017,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_48.mp4",
+      "pip": false
+    },
+    {
+      "from": 17167,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 17317,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 17467,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 17617,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 17767,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 17917,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 18067,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 18217,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 18367,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 18517,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 18667,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 18817,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 18967,
+      "dur": 117,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 19339,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 19489,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 19639,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 19789,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 19939,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 20089,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 20239,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 20389,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 20539,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 20689,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 20839,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 20989,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 21139,
+      "dur": 160,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 22559,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 22709,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 22859,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 23009,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 23159,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 23309,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 23459,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 23609,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 23759,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 23909,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_37.mp4",
+      "pip": false
+    },
+    {
+      "from": 24059,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_38.mp4",
+      "pip": false
+    },
+    {
+      "from": 24209,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_39.mp4",
+      "pip": false
+    },
+    {
+      "from": 24359,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_40.mp4",
+      "pip": false
+    },
+    {
+      "from": 24509,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_41.mp4",
+      "pip": false
+    },
+    {
+      "from": 24659,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_42.mp4",
+      "pip": false
+    },
+    {
+      "from": 24809,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_43.mp4",
+      "pip": false
+    },
+    {
+      "from": 24959,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_44.mp4",
+      "pip": false
+    },
+    {
+      "from": 25109,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_45.mp4",
+      "pip": false
+    },
+    {
+      "from": 25259,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_46.mp4",
+      "pip": false
+    },
+    {
+      "from": 25409,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_47.mp4",
+      "pip": false
+    },
+    {
+      "from": 25559,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_48.mp4",
+      "pip": false
+    },
+    {
+      "from": 25709,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 25859,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 26009,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 26159,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 26309,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 26459,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 26609,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 26759,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 26909,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 27059,
+      "dur": 58,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 27372,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 27522,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 27672,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 27822,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 27972,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 28122,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 28272,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 28422,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 28572,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 28722,
+      "dur": 115,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 29077,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 29227,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 29377,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 29527,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 29677,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 29827,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 29977,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 30127,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 30277,
+      "dur": 80,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 30837,
+      "dur": 77,
+      "kind": "video",
+      "src": "broll/garbanzo-elena_s_31.mp4",
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 611,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "SARCOPENIA",
+        "sub": "la pérdida de músculo con la edad",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 2270,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "SALUD CON EVIDENCIA",
+        "title": "Dra. Elena Vidal",
+        "sub": "recuperá tu fuerza"
+      }
+    },
+    {
+      "from": 5006,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🛟",
+        "title": "El músculo = tu red de seguridad",
+        "sub": "sin él, una caída no se amortigua",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 8986,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi guía natural",
+        "items": [
+          "Cuánto garbanzo y cómo prepararlo",
+          "Las combinaciones para proteína completa",
+          "La rutina de ejercicios suaves en casa"
+        ]
+      }
+    },
+    {
+      "from": 9137,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 13716,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 14207,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 1",
+        "title": "Más fuerza y músculo",
+        "sub": "levantarte sin empujarte"
+      }
+    },
+    {
+      "from": 14207,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 15045,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 2",
+        "title": "Equilibrio",
+        "sub": "tu mejor seguro contra caídas"
+      }
+    },
+    {
+      "from": 15659,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 3",
+        "title": "Azúcar y energía",
+        "sub": "la fibra libera energía pareja"
+      }
+    },
+    {
+      "from": 16412,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 4",
+        "title": "Digestión y saciedad",
+        "sub": "fibra que te ordena y te llena"
+      }
+    },
+    {
+      "from": 23693,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "El error #1",
+        "sub": "comer proteína SIN moverte: los ladrillos se quedan quietos",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 24519,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "PROTEÍNA + MOVIMIENTO",
+        "sub": "ninguna de las dos sola alcanza",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 25493,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Enfermedad renal",
+        "sub": "definí la proteína con tu médico; no la subas por tu cuenta",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 27117,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 30092,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 30442,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 5378,
+      "dur": 255,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "¿Estás perdiendo músculo?",
+        "items": [
+          "Te cuesta pararte de la silla sin los brazos",
+          "Aflojó la fuerza de la mano",
+          "Caminás más lento o te cansás",
+          "Brazos y piernas más finos o blandos"
+        ]
+      }
+    },
+    {
+      "from": 10339,
+      "dur": 255,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Qué trae el garbanzo",
+        "items": [
+          "Proteína vegetal (los ladrillos del músculo)",
+          "Fibra: energía pareja y saciedad",
+          "Hierro, magnesio, potasio y zinc",
+          "Barato y en tu alacena"
+        ]
+      }
+    },
+    {
+      "from": 11527,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "La proteína del garbanzo es incompleta, no sirve.",
+        "truth": "Combinado con un cereal (arroz o pan) es tan completo como la carne, más barato y con fibra. El truco de las abuelas."
+      }
+    },
+    {
+      "from": 19084,
+      "dur": 255,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Qué esperar",
+        "title": "El músculo vuelve, despacio",
+        "steps": [
+          {
+            "title": "Semanas 2-3: más energía",
+            "sub": "menos esfuerzo en lo de siempre"
+          },
+          {
+            "title": "Mes 1-1½: más fuerza real",
+            "sub": "te levantás con menos esfuerzo"
+          },
+          {
+            "title": "Mes 2-3: fuerza y estabilidad claras",
+            "sub": "piernas y brazos más firmes"
+          }
+        ]
+      }
+    },
+    {
+      "from": 27117,
+      "dur": 255,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Cómo hacerlo",
+        "title": "El plan en 3 pasos",
+        "steps": [
+          {
+            "title": "Garbanzo varias veces + un cereal",
+            "sub": "guiso, ensalada, hummus, tostado"
+          },
+          {
+            "title": "Proteína en cada comida",
+            "sub": "no solo el garbanzo"
+          },
+          {
+            "title": "Ejercicio de fuerza suave a diario",
+            "sub": "silla, puntas de pie, botellita"
+          }
+        ]
+      }
+    },
+    {
+      "from": 28837,
+      "dur": 240,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "Nunca es tarde. Tu músculo responde a cualquier edad; solo está esperando que le des el material y la orden para volver a construir.",
+        "author": "Dra. Elena Vidal"
+      }
+    }
+  ]
+}
