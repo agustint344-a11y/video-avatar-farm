@@ -1,0 +1,1606 @@
+{
+  "slug": "pelo60-elena",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 32694,
+  "audioSrc": "pelo60-elena.mp3",
+  "avatarSrc": "pelo60-elena_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 4,
+      "dur": 1044,
+      "clip": 0
+    },
+    {
+      "from": 2024,
+      "dur": 946,
+      "clip": 1044
+    },
+    {
+      "from": 8032,
+      "dur": 697,
+      "clip": 1990
+    },
+    {
+      "from": 22046,
+      "dur": 1260,
+      "clip": 2687
+    },
+    {
+      "from": 32204,
+      "dur": 423,
+      "clip": 3947
+    }
+  ],
+  "broll": [
+    {
+      "from": 1048,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 1198,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 1348,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 1498,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 1648,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 1798,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 1948,
+      "dur": 76,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 2970,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 3120,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 3270,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 3420,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 3570,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 3720,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 3870,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 4020,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 4170,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 4320,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 4470,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 4620,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 4770,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 4920,
+      "dur": 157,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 5332,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 5482,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 5632,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 5782,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 5932,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 6082,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 6232,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 6382,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 6532,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 6682,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 6832,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 6982,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 7132,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 7282,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 7432,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 7582,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_37.mp4",
+      "pip": false
+    },
+    {
+      "from": 7732,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_38.mp4",
+      "pip": false
+    },
+    {
+      "from": 7882,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_39.mp4",
+      "pip": false
+    },
+    {
+      "from": 8729,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_40.mp4",
+      "pip": false
+    },
+    {
+      "from": 8879,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_41.mp4",
+      "pip": false
+    },
+    {
+      "from": 9029,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_42.mp4",
+      "pip": false
+    },
+    {
+      "from": 9179,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_43.mp4",
+      "pip": false
+    },
+    {
+      "from": 9329,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_44.mp4",
+      "pip": false
+    },
+    {
+      "from": 9479,
+      "dur": 144,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_45.mp4",
+      "pip": false
+    },
+    {
+      "from": 9878,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_46.mp4",
+      "pip": false
+    },
+    {
+      "from": 10028,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_47.mp4",
+      "pip": false
+    },
+    {
+      "from": 10178,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_48.mp4",
+      "pip": false
+    },
+    {
+      "from": 10328,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 10478,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 10628,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 10778,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 10928,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 11078,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 11228,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 11378,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 11528,
+      "dur": 165,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 11933,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 12083,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 12233,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 12383,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 12533,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 12683,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 12833,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 12983,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 13133,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 13283,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 13433,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 13583,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 13733,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 13883,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 14033,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 14183,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 14333,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 14483,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 14633,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 14783,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 14933,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 15083,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 15233,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 15383,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 15533,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 15683,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 15833,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 15983,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_37.mp4",
+      "pip": false
+    },
+    {
+      "from": 16133,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_38.mp4",
+      "pip": false
+    },
+    {
+      "from": 16283,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_39.mp4",
+      "pip": false
+    },
+    {
+      "from": 16433,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_40.mp4",
+      "pip": false
+    },
+    {
+      "from": 16583,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_41.mp4",
+      "pip": false
+    },
+    {
+      "from": 16733,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_42.mp4",
+      "pip": false
+    },
+    {
+      "from": 16883,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_43.mp4",
+      "pip": false
+    },
+    {
+      "from": 17033,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_44.mp4",
+      "pip": false
+    },
+    {
+      "from": 17183,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_45.mp4",
+      "pip": false
+    },
+    {
+      "from": 17333,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_46.mp4",
+      "pip": false
+    },
+    {
+      "from": 17483,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_47.mp4",
+      "pip": false
+    },
+    {
+      "from": 17633,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_48.mp4",
+      "pip": false
+    },
+    {
+      "from": 17783,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 17933,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 18083,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 18233,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 18383,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 18533,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 18683,
+      "dur": 85,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 19023,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 19173,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 19323,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 19473,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 19623,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 19773,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 19923,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 20073,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 20223,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 20373,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 20523,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 20673,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 20823,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 20973,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 21123,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 21273,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 21423,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 21573,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 21723,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 21873,
+      "dur": 173,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 23306,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 23456,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 23606,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 23756,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 23906,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 24056,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 24206,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 24356,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 24506,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 24656,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_37.mp4",
+      "pip": false
+    },
+    {
+      "from": 24806,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_38.mp4",
+      "pip": false
+    },
+    {
+      "from": 24956,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_39.mp4",
+      "pip": false
+    },
+    {
+      "from": 25106,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_40.mp4",
+      "pip": false
+    },
+    {
+      "from": 25256,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_41.mp4",
+      "pip": false
+    },
+    {
+      "from": 25406,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_42.mp4",
+      "pip": false
+    },
+    {
+      "from": 25556,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_43.mp4",
+      "pip": false
+    },
+    {
+      "from": 25706,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_44.mp4",
+      "pip": false
+    },
+    {
+      "from": 25856,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_45.mp4",
+      "pip": false
+    },
+    {
+      "from": 26006,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_46.mp4",
+      "pip": false
+    },
+    {
+      "from": 26156,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_47.mp4",
+      "pip": false
+    },
+    {
+      "from": 26306,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_48.mp4",
+      "pip": false
+    },
+    {
+      "from": 26456,
+      "dur": 53,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 26764,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 26914,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 27064,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 27214,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 27364,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 27514,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 27664,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 27814,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 27964,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 28114,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 28264,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 28414,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 28564,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 28714,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 28864,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 29014,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 29164,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 29314,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 29464,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 29614,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 29764,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 29914,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 30064,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 30214,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 30364,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 30514,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 30664,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 30814,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 30964,
+      "dur": 55,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 31259,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 31409,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 31559,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 31709,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 31859,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 32009,
+      "dur": 195,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 32627,
+      "dur": 67,
+      "kind": "video",
+      "src": "broll/pelo60-elena_s_37.mp4",
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2024,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "SALUD CON EVIDENCIA",
+        "title": "Dra. Elena Vidal",
+        "sub": "más pelo desde la raíz"
+      }
+    },
+    {
+      "from": 8612,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 9017,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "EL PROTAGONISTA",
+        "title": "Agua de ortiga y romero"
+      }
+    },
+    {
+      "from": 14116,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "💆",
+        "title": "El masaje = medio tratamiento",
+        "sub": "bombea sangre y nutrientes a la raíz — y es gratis",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 15504,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 15931,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 1",
+        "title": "Hebra más gruesa",
+        "sub": "hierro, sílice y zinc"
+      }
+    },
+    {
+      "from": 15931,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 16579,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 2",
+        "title": "Menos caída",
+        "sub": "si venía por falta de nutrientes"
+      }
+    },
+    {
+      "from": 17276,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 3",
+        "title": "Cuero cabelludo sano",
+        "sub": "la tierra fértil del pelo"
+      }
+    },
+    {
+      "from": 18008,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 4",
+        "title": "Más energía",
+        "sub": "combate el cansancio de la anemia"
+      }
+    },
+    {
+      "from": 24040,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "El error #1",
+        "sub": "no medir el hierro y abandonar a las 2 semanas",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 25236,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Consultá antes",
+        "sub": "medicación (presión/azúcar/anticoagulantes) o embarazo → al médico",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 25717,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🩸",
+        "title": "Hierro: solo si el análisis lo indica",
+        "sub": "en exceso también es un problema",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 26509,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 28170,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "HIERRO · ZINC · PROTEÍNA",
+        "sub": "carnes magras, huevo, legumbres, hoja verde",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 31636,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi guía natural",
+        "items": [
+          "La receta del agua de ortiga y romero",
+          "El enjuague y cada cuánto tomarla",
+          "Los alimentos que fortalecen el pelo"
+        ]
+      }
+    },
+    {
+      "from": 31961,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 32299,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 5077,
+      "dur": 255,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Señales de que te falta hierro",
+        "items": [
+          "Cansancio y falta de aire",
+          "Uñas quebradizas o con estrías",
+          "Palidez y ojeras marcadas",
+          "Sentís frío cuando otros no",
+          "…y el pelo que se cae"
+        ]
+      }
+    },
+    {
+      "from": 9623,
+      "dur": 255,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Qué trae la ortiga",
+        "items": [
+          "Hierro (la falta más común de la caída)",
+          "Sílice: hebra más gruesa y fuerte",
+          "Zinc: la fábrica del pelo lo necesita",
+          "Antioxidantes para el cuero cabelludo"
+        ]
+      }
+    },
+    {
+      "from": 11693,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Cortar el pelo o un champú caro frenan la caída.",
+        "truth": "El pelo crece desde la raíz (viva), no de las puntas. El champú toca la superficie y se enjuaga: no corrige una falta de hierro. Se juega en la raíz."
+      }
+    },
+    {
+      "from": 18768,
+      "dur": 255,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Qué esperar",
+        "title": "Es una carrera de fondo",
+        "steps": [
+          {
+            "title": "Semanas: se cae menos",
+            "sub": "menos pelo en el peine"
+          },
+          {
+            "title": "Mes 2-3: pelitos nuevos en la raíz",
+            "sub": "el pelo crece 1 cm/mes"
+          },
+          {
+            "title": "Mes 4-6: cambio de densidad real",
+            "sub": "el efecto acumulado"
+          }
+        ]
+      }
+    },
+    {
+      "from": 26509,
+      "dur": 255,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Cómo hacerlo",
+        "title": "El método en 3 pasos",
+        "steps": [
+          {
+            "title": "Infusioná ortiga (y romero) tapada",
+            "sub": "colá y dejá entibiar"
+          },
+          {
+            "title": "Tomá 1-2 tazas al día",
+            "sub": "o sumala a tu agua del día"
+          },
+          {
+            "title": "Opcional: último enjuague, no lo saques",
+            "sub": "también actúa por fuera"
+          }
+        ]
+      }
+    },
+    {
+      "from": 31019,
+      "dur": 240,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "Tu pelo que se cae no es una sentencia: muchas veces es tu cuerpo pidiéndote nutrientes. El secreto no es el champú más caro, es alimentar la raíz.",
+        "author": "Dra. Elena Vidal"
+      }
+    }
+  ]
+}
