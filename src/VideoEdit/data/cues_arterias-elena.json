@@ -1,0 +1,1436 @@
+{
+  "slug": "arterias-elena",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 29604,
+  "audioSrc": "arterias-elena.mp3",
+  "avatarSrc": "arterias-elena_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 2,
+      "dur": 991,
+      "clip": 0
+    },
+    {
+      "from": 2158,
+      "dur": 755,
+      "clip": 991
+    },
+    {
+      "from": 9600,
+      "dur": 659,
+      "clip": 1746
+    },
+    {
+      "from": 20916,
+      "dur": 1260,
+      "clip": 2405
+    },
+    {
+      "from": 29100,
+      "dur": 454,
+      "clip": 3665
+    }
+  ],
+  "broll": [
+    {
+      "from": 993,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 1143,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 1293,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 1443,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 1593,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 1743,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 1893,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 2043,
+      "dur": 115,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 2913,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 3063,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 3213,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 3363,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 3513,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 3663,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 3813,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 3963,
+      "dur": 166,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 4369,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 4519,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 4669,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 4819,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 4969,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 5119,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 5269,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 5419,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 5569,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 5719,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 5869,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 6019,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 6169,
+      "dur": 112,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 6536,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 6686,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 6836,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 6986,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 7136,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 7286,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 7436,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 7586,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_37.mp4",
+      "pip": false
+    },
+    {
+      "from": 7736,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_38.mp4",
+      "pip": false
+    },
+    {
+      "from": 7886,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_39.mp4",
+      "pip": false
+    },
+    {
+      "from": 8036,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_40.mp4",
+      "pip": false
+    },
+    {
+      "from": 8186,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_41.mp4",
+      "pip": false
+    },
+    {
+      "from": 8336,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_42.mp4",
+      "pip": false
+    },
+    {
+      "from": 8486,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_43.mp4",
+      "pip": false
+    },
+    {
+      "from": 8636,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_44.mp4",
+      "pip": false
+    },
+    {
+      "from": 8786,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_45.mp4",
+      "pip": false
+    },
+    {
+      "from": 8936,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_46.mp4",
+      "pip": false
+    },
+    {
+      "from": 9086,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_47.mp4",
+      "pip": false
+    },
+    {
+      "from": 9236,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_48.mp4",
+      "pip": false
+    },
+    {
+      "from": 9386,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 9536,
+      "dur": 64,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 10259,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 10409,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 10559,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 10709,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 10859,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 11009,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 11159,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 11309,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 11459,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 11609,
+      "dur": 131,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 11995,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 12145,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 12295,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 12445,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 12595,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 12745,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 12895,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 13045,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 13195,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 13345,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 13495,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 13645,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 13795,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 13945,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 14095,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 14245,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 14395,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 14545,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 14695,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 14845,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 14995,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 15145,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 15295,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 15445,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 15595,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_37.mp4",
+      "pip": false
+    },
+    {
+      "from": 15745,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_38.mp4",
+      "pip": false
+    },
+    {
+      "from": 15895,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_39.mp4",
+      "pip": false
+    },
+    {
+      "from": 16045,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_40.mp4",
+      "pip": false
+    },
+    {
+      "from": 16195,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_41.mp4",
+      "pip": false
+    },
+    {
+      "from": 16345,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_42.mp4",
+      "pip": false
+    },
+    {
+      "from": 16495,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_43.mp4",
+      "pip": false
+    },
+    {
+      "from": 16645,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_44.mp4",
+      "pip": false
+    },
+    {
+      "from": 16795,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_45.mp4",
+      "pip": false
+    },
+    {
+      "from": 16945,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_46.mp4",
+      "pip": false
+    },
+    {
+      "from": 17095,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_47.mp4",
+      "pip": false
+    },
+    {
+      "from": 17245,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_48.mp4",
+      "pip": false
+    },
+    {
+      "from": 17395,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 17545,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 17695,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 17845,
+      "dur": 107,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 18192,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 18342,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 18492,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 18642,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 18792,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 18942,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 19092,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 19242,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 19392,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 19542,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 19692,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 19842,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 19992,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 20142,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 20292,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 20442,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 20592,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 20742,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 22176,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 22326,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 22476,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 22626,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 22776,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 22926,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 23076,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 23226,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 23376,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 23526,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 23676,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 23826,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 23976,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 24126,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 24276,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_37.mp4",
+      "pip": false
+    },
+    {
+      "from": 24426,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_38.mp4",
+      "pip": false
+    },
+    {
+      "from": 24576,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_39.mp4",
+      "pip": false
+    },
+    {
+      "from": 24726,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_40.mp4",
+      "pip": false
+    },
+    {
+      "from": 24876,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_41.mp4",
+      "pip": false
+    },
+    {
+      "from": 25026,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_42.mp4",
+      "pip": false
+    },
+    {
+      "from": 25176,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_43.mp4",
+      "pip": false
+    },
+    {
+      "from": 25326,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_44.mp4",
+      "pip": false
+    },
+    {
+      "from": 25476,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_45.mp4",
+      "pip": false
+    },
+    {
+      "from": 25626,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_46.mp4",
+      "pip": false
+    },
+    {
+      "from": 25776,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_47.mp4",
+      "pip": false
+    },
+    {
+      "from": 25926,
+      "dur": 139,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_48.mp4",
+      "pip": false
+    },
+    {
+      "from": 26320,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 26470,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 26620,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 26770,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 26920,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 27070,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 27220,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 27370,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 27520,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 27670,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 27820,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 27970,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 28120,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 28270,
+      "dur": 51,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 28561,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 28711,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 28861,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 29011,
+      "dur": 89,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 29554,
+      "dur": 50,
+      "kind": "video",
+      "src": "broll/arterias-elena_s_19.mp4",
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2158,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "SALUD CON EVIDENCIA",
+        "title": "Dra. Elena Vidal",
+        "sub": "cúrcuma para tus arterias"
+      }
+    },
+    {
+      "from": 3397,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "CURCUMINA",
+        "sub": "el antiinflamatorio estrella de la cúrcuma",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 10144,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 13837,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 14323,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 1",
+        "title": "Arterias y corazón",
+        "sub": "menos inflamación, mejor circulación"
+      }
+    },
+    {
+      "from": 14323,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 15085,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 2",
+        "title": "Colesterol",
+        "sub": "ayuda al perfil y lo protege de oxidarse"
+      }
+    },
+    {
+      "from": 15751,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 3",
+        "title": "Articulaciones",
+        "sub": "antiinflamatorio: menos rigidez"
+      }
+    },
+    {
+      "from": 16374,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 4",
+        "title": "Azúcar y antioxidante",
+        "sub": "sensibilidad a la insulina"
+      }
+    },
+    {
+      "from": 23889,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Anticoagulantes",
+        "sub": "en dosis altas aumenta el riesgo de sangrado: consultá",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 24398,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Vesícula y cirugía",
+        "sub": "puede empeorar cálculos; suspendela 2 semanas antes de operarte",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 26065,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 26634,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "LA RECETA",
+        "title": "Leche dorada"
+      }
+    },
+    {
+      "from": 28824,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 29178,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 4129,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Las arterias se tapan solo por el colesterol.",
+        "truth": "El daño empieza con la INFLAMACIÓN de la pared: eso la vuelve pegajosa y ahí entra el colesterol. Bajar la inflamación cuida la puerta."
+      }
+    },
+    {
+      "from": 6281,
+      "dur": 255,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Qué enciende la inflamación",
+        "items": [
+          "Azúcar y harinas refinadas",
+          "Ultraprocesados y frituras",
+          "Cigarrillo y estrés crónico",
+          "Sedentarismo"
+        ]
+      }
+    },
+    {
+      "from": 11740,
+      "dur": 255,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "El método que nadie explica",
+        "title": "Para que se absorba",
+        "steps": [
+          {
+            "title": "Pimienta negra: absorción ×2000",
+            "sub": "la piperina le abre la puerta"
+          },
+          {
+            "title": "Con grasa buena (oliva, coco)",
+            "sub": "la curcumina es liposoluble"
+          },
+          {
+            "title": "Con calor suave",
+            "sub": "la leche dorada la activa"
+          }
+        ]
+      }
+    },
+    {
+      "from": 17952,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Con cúrcuma puedo dejar la medicación del corazón.",
+        "truth": "JAMÁS. La cúrcuma acompaña, no reemplaza. Nunca dejes por tu cuenta lo que tu médico te indicó. Sumar, nunca restar."
+      }
+    },
+    {
+      "from": 26065,
+      "dur": 255,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Cómo hacerlo",
+        "title": "El plan en 3 pasos",
+        "steps": [
+          {
+            "title": "Sumala a tus comidas",
+            "sub": "guisos, arroz, huevos, verduras"
+          },
+          {
+            "title": "Siempre pimienta + grasa buena",
+            "sub": "el trío que la activa"
+          },
+          {
+            "title": "Probá la leche dorada, y sé constante",
+            "sub": "es un hábito, no urgencia"
+          }
+        ]
+      }
+    },
+    {
+      "from": 28321,
+      "dur": 240,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "Cuidar tu corazón no siempre necesita cosas caras: empieza por usar bien lo que ya tenés en la cocina. El secreto es el método correcto y la constancia.",
+        "author": "Dra. Elena Vidal"
+      }
+    }
+  ]
+}
