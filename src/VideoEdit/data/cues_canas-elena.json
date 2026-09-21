@@ -1,0 +1,1640 @@
+{
+  "slug": "canas-elena",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 32769,
+  "audioSrc": "canas-elena.mp3",
+  "avatarSrc": "canas-elena_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 2,
+      "dur": 673,
+      "clip": 0
+    },
+    {
+      "from": 1786,
+      "dur": 894,
+      "clip": 673
+    },
+    {
+      "from": 9147,
+      "dur": 244,
+      "clip": 1567
+    },
+    {
+      "from": 21998,
+      "dur": 1260,
+      "clip": 1811
+    },
+    {
+      "from": 32237,
+      "dur": 456,
+      "clip": 3071
+    }
+  ],
+  "broll": [
+    {
+      "from": 675,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 825,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 975,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 1125,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 1275,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 1425,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 1575,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 1725,
+      "dur": 61,
+      "kind": "video",
+      "src": "broll/canas-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 2680,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 2830,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 2980,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 3130,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 3280,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 3430,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 3580,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 3730,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 3880,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 4030,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 4180,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 4330,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 4480,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 4630,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 4780,
+      "dur": 137,
+      "kind": "video",
+      "src": "broll/canas-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 5172,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 5322,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 5472,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 5622,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 5772,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 5922,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 6072,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 6222,
+      "dur": 164,
+      "kind": "video",
+      "src": "broll/canas-elena_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 6626,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 6776,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 6926,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 7076,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 7226,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 7376,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_37.mp4",
+      "pip": false
+    },
+    {
+      "from": 7526,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_38.mp4",
+      "pip": false
+    },
+    {
+      "from": 7676,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_39.mp4",
+      "pip": false
+    },
+    {
+      "from": 7826,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_40.mp4",
+      "pip": false
+    },
+    {
+      "from": 7976,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_41.mp4",
+      "pip": false
+    },
+    {
+      "from": 8126,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_42.mp4",
+      "pip": false
+    },
+    {
+      "from": 8276,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_43.mp4",
+      "pip": false
+    },
+    {
+      "from": 8426,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_44.mp4",
+      "pip": false
+    },
+    {
+      "from": 8576,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_45.mp4",
+      "pip": false
+    },
+    {
+      "from": 8726,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_46.mp4",
+      "pip": false
+    },
+    {
+      "from": 8876,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_47.mp4",
+      "pip": false
+    },
+    {
+      "from": 9026,
+      "dur": 121,
+      "kind": "video",
+      "src": "broll/canas-elena_s_48.mp4",
+      "pip": false
+    },
+    {
+      "from": 9391,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 9541,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 9691,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 9841,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 9991,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 10141,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 10291,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 10441,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 10591,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 10741,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 10891,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 11041,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 11191,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 11341,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 11491,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 11641,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 11791,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 11941,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 12091,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 12241,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 12391,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 12541,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 12691,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 12841,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 12991,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 13141,
+      "dur": 168,
+      "kind": "video",
+      "src": "broll/canas-elena_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 13564,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 13714,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 13864,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 14014,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 14164,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 14314,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 14464,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 14614,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 14764,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 14914,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 15064,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_37.mp4",
+      "pip": false
+    },
+    {
+      "from": 15214,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_38.mp4",
+      "pip": false
+    },
+    {
+      "from": 15364,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_39.mp4",
+      "pip": false
+    },
+    {
+      "from": 15514,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_40.mp4",
+      "pip": false
+    },
+    {
+      "from": 15664,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_41.mp4",
+      "pip": false
+    },
+    {
+      "from": 15814,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_42.mp4",
+      "pip": false
+    },
+    {
+      "from": 15964,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_43.mp4",
+      "pip": false
+    },
+    {
+      "from": 16114,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_44.mp4",
+      "pip": false
+    },
+    {
+      "from": 16264,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_45.mp4",
+      "pip": false
+    },
+    {
+      "from": 16414,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_46.mp4",
+      "pip": false
+    },
+    {
+      "from": 16564,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_47.mp4",
+      "pip": false
+    },
+    {
+      "from": 16714,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_48.mp4",
+      "pip": false
+    },
+    {
+      "from": 16864,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 17014,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 17164,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 17314,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 17464,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 17614,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 17764,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 17914,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 18064,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 18214,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 18364,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 18514,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 18664,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 18814,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 18964,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 19114,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 19264,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 19414,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 19564,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 19714,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 19864,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 20014,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 20164,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 20314,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 20464,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 20614,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 20764,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 20914,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 21064,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 21214,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 21364,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 21514,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 21664,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 21814,
+      "dur": 184,
+      "kind": "video",
+      "src": "broll/canas-elena_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 23258,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 23408,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 23558,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_37.mp4",
+      "pip": false
+    },
+    {
+      "from": 23708,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_38.mp4",
+      "pip": false
+    },
+    {
+      "from": 23858,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_39.mp4",
+      "pip": false
+    },
+    {
+      "from": 24008,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_40.mp4",
+      "pip": false
+    },
+    {
+      "from": 24158,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_41.mp4",
+      "pip": false
+    },
+    {
+      "from": 24308,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_42.mp4",
+      "pip": false
+    },
+    {
+      "from": 24458,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_43.mp4",
+      "pip": false
+    },
+    {
+      "from": 24608,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_44.mp4",
+      "pip": false
+    },
+    {
+      "from": 24758,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_45.mp4",
+      "pip": false
+    },
+    {
+      "from": 24908,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_46.mp4",
+      "pip": false
+    },
+    {
+      "from": 25058,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_47.mp4",
+      "pip": false
+    },
+    {
+      "from": 25208,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_48.mp4",
+      "pip": false
+    },
+    {
+      "from": 25358,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 25508,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 25658,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 25808,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 25958,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 26108,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 26258,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 26408,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 26558,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 26708,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 26858,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 27008,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 27158,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 27308,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 27458,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 27608,
+      "dur": 110,
+      "kind": "video",
+      "src": "broll/canas-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 27958,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 28108,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 28258,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 28408,
+      "dur": 186,
+      "kind": "video",
+      "src": "broll/canas-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 28849,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 28999,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 29149,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 29299,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 29449,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 29599,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 29749,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 29899,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 30049,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 30199,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 30349,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 30499,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 30649,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 30799,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 30949,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 31099,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 31249,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_37.mp4",
+      "pip": false
+    },
+    {
+      "from": 31399,
+      "dur": 74,
+      "kind": "video",
+      "src": "broll/canas-elena_s_38.mp4",
+      "pip": false
+    },
+    {
+      "from": 31713,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_39.mp4",
+      "pip": false
+    },
+    {
+      "from": 31863,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_40.mp4",
+      "pip": false
+    },
+    {
+      "from": 32013,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/canas-elena_s_41.mp4",
+      "pip": false
+    },
+    {
+      "from": 32163,
+      "dur": 74,
+      "kind": "video",
+      "src": "broll/canas-elena_s_42.mp4",
+      "pip": false
+    },
+    {
+      "from": 32693,
+      "dur": 76,
+      "kind": "video",
+      "src": "broll/canas-elena_s_43.mp4",
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1786,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "SALUD CON EVIDENCIA",
+        "title": "Dra. Elena Vidal",
+        "sub": "canas: el aceite que las oscurece"
+      }
+    },
+    {
+      "from": 3207,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "MELANINA",
+        "sub": "el pigmento que le da color a tu pelo",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 9290,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 9601,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "EL PROTAGONISTA",
+        "title": "Aceite de romero y salvia"
+      }
+    },
+    {
+      "from": 10264,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🌿",
+        "title": "El romero hace 2 cosas",
+        "sub": "mejora la circulación y aporta tono oscuro",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 11495,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🌙",
+        "title": "Por eso, de noche",
+        "sub": "8 horas para nutrir la raíz mientras dormís",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 15631,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 16143,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 1",
+        "title": "Oscurece las canas",
+        "sub": "gradual y natural"
+      }
+    },
+    {
+      "from": 16143,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 17037,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 2",
+        "title": "Menos caída",
+        "sub": "el romero fortalece la raíz"
+      }
+    },
+    {
+      "from": 17806,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 3",
+        "title": "Brillo y textura",
+        "sub": "sella la fibra, se ve joven"
+      }
+    },
+    {
+      "from": 19637,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 4",
+        "title": "Cuero cabelludo sano",
+        "sub": "la base de todo pelo sano"
+      }
+    },
+    {
+      "from": 26016,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Antes de empezar",
+        "sub": "prueba de alergia; el esencial de romero, nunca puro",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 26681,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Cuándo consultar",
+        "sub": "embarazo, epilepsia, cuero lastimado o medicación → al médico",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 28594,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 30301,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "COBRE · ZINC · HIERRO",
+        "sub": "la materia prima del pigmento (comida)",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 31978,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 32328,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 4917,
+      "dur": 255,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Qué acelera las canas",
+        "items": [
+          "Genética (no se elige)",
+          "Estrés crónico sostenido",
+          "Mala alimentación (faltan minerales)",
+          "Cigarrillo",
+          "Tiroides o anemia"
+        ]
+      }
+    },
+    {
+      "from": 6386,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Si te arrancás una cana, salen siete.",
+        "truth": "Falso. De cada folículo sale UN solo pelo. Pero no las arranques igual: tironear lastima el folículo y lo debilita."
+      }
+    },
+    {
+      "from": 13309,
+      "dur": 255,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Qué esperar",
+        "title": "Es una carrera de fondo",
+        "steps": [
+          {
+            "title": "Semana 1: brillo y suavidad",
+            "sub": "el color todavía no cambia"
+          },
+          {
+            "title": "Mes 1: tono más parejo",
+            "sub": "canas menos marcadas"
+          },
+          {
+            "title": "Mes 2-3: color natural + menos caída",
+            "sub": "el efecto acumulado"
+          }
+        ]
+      }
+    },
+    {
+      "from": 27718,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Oscurece igual cualquier color de pelo.",
+        "truth": "Se nota mucho más en castaños y oscuros. En rubios o pelo totalmente blanco el color casi no cambia: ahí lo aprovechás por brillo, salud y menos caída."
+      }
+    },
+    {
+      "from": 28594,
+      "dur": 255,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Cómo hacerlo",
+        "title": "El método en 3 pasos",
+        "steps": [
+          {
+            "title": "Aceite base + romero (y salvia)",
+            "sub": "infusionado; esencial siempre diluido"
+          },
+          {
+            "title": "De noche: aplicá y masajeá 3-5 min",
+            "sub": "el masaje activa la circulación"
+          },
+          {
+            "title": "Cubrí, dormí y lavá a la mañana",
+            "sub": "2-3 noches por semana"
+          }
+        ]
+      }
+    },
+    {
+      "from": 31473,
+      "dur": 240,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "Tus canas no son una sentencia. El secreto no es esconder la edad: es cuidarte con cariño y dejar que el color y el brillo vuelvan solos.",
+        "author": "Dra. Elena Vidal"
+      }
+    }
+  ]
+}
