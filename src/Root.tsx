@@ -47,6 +47,7 @@ import colageno70Cues from "./VideoEdit/data/cues_colageno70-elena.json";
 import bicarbonatoElenaCues from "./VideoEdit/data/cues_bicarbonato-elena.json";
 import canasElenaCues from "./VideoEdit/data/cues_canas-elena.json";
 import pelo60ElenaCues from "./VideoEdit/data/cues_pelo60-elena.json";
+import ricinoElenaCues from "./VideoEdit/data/cues_ricino-elena.json";
 
 export const RemotionRoot: React.FC = () => {
   const chia = chiaCues as Cues;
@@ -92,6 +93,7 @@ export const RemotionRoot: React.FC = () => {
   const bicarbonatoElena = bicarbonatoElenaCues as Cues;
   const canasElena = canasElenaCues as Cues;
   const pelo60Elena = pelo60ElenaCues as Cues;
+  const ricinoElena = ricinoElenaCues as Cues;
   return (
     <>
       <Composition
@@ -289,6 +291,7 @@ export const RemotionRoot: React.FC = () => {
       <Composition id="BicarbonatoElena" component={VideoMain} durationInFrames={bicarbonatoElena.durationInFrames} fps={bicarbonatoElena.fps} width={bicarbonatoElena.width} height={bicarbonatoElena.height} defaultProps={{ cues: bicarbonatoElena }} />
       <Composition id="CanasElena" component={VideoMain} durationInFrames={canasElena.durationInFrames} fps={canasElena.fps} width={canasElena.width} height={canasElena.height} defaultProps={{ cues: canasElena }} />
       <Composition id="Pelo60Elena" component={VideoMain} durationInFrames={pelo60Elena.durationInFrames} fps={pelo60Elena.fps} width={pelo60Elena.width} height={pelo60Elena.height} defaultProps={{ cues: pelo60Elena }} />
+      <Composition id="RicinoElena" component={VideoMain} durationInFrames={ricinoElena.durationInFrames} fps={ricinoElena.fps} width={ricinoElena.width} height={ricinoElena.height} defaultProps={{ cues: ricinoElena }} />
     </>
   );
 };

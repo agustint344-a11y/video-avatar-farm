@@ -1,0 +1,1510 @@
+{
+  "slug": "ricino-elena",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 30572,
+  "audioSrc": "ricino-elena.mp3",
+  "avatarSrc": "ricino-elena_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 3,
+      "dur": 907,
+      "clip": 0
+    },
+    {
+      "from": 2154,
+      "dur": 908,
+      "clip": 907
+    },
+    {
+      "from": 8769,
+      "dur": 680,
+      "clip": 1815
+    },
+    {
+      "from": 20480,
+      "dur": 1260,
+      "clip": 2495
+    },
+    {
+      "from": 30058,
+      "dur": 456,
+      "clip": 3755
+    }
+  ],
+  "broll": [
+    {
+      "from": 910,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 1060,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 1210,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 1360,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 1510,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 1660,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 1810,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 1960,
+      "dur": 194,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 3062,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 3212,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 3362,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 3512,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 3662,
+      "dur": 125,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 4042,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 4192,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 4342,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 4492,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 4642,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 4792,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 4942,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 5092,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 5242,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 5392,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 5542,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 5692,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 5842,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 5992,
+      "dur": 181,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 6413,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 6563,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 6713,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 6863,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 7013,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 7163,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 7313,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 7463,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 7613,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 7763,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_37.mp4",
+      "pip": false
+    },
+    {
+      "from": 7913,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_38.mp4",
+      "pip": false
+    },
+    {
+      "from": 8063,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_39.mp4",
+      "pip": false
+    },
+    {
+      "from": 8213,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_40.mp4",
+      "pip": false
+    },
+    {
+      "from": 8363,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_41.mp4",
+      "pip": false
+    },
+    {
+      "from": 8513,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_42.mp4",
+      "pip": false
+    },
+    {
+      "from": 8663,
+      "dur": 106,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_43.mp4",
+      "pip": false
+    },
+    {
+      "from": 9449,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_44.mp4",
+      "pip": false
+    },
+    {
+      "from": 9599,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_45.mp4",
+      "pip": false
+    },
+    {
+      "from": 9749,
+      "dur": 100,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_46.mp4",
+      "pip": false
+    },
+    {
+      "from": 10104,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_47.mp4",
+      "pip": false
+    },
+    {
+      "from": 10254,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_48.mp4",
+      "pip": false
+    },
+    {
+      "from": 10404,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 10554,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 10704,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 10854,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 11004,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 11154,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 11304,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 11454,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 11604,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 11754,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 11904,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 12054,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 12204,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 12354,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 12504,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 12654,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 12804,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 12954,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 13104,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 13254,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 13404,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 13554,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 13704,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 13854,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 14004,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 14154,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 14304,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 14454,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 14604,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 14754,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 14904,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 15054,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 15204,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 15354,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 15504,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 15654,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 15804,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_37.mp4",
+      "pip": false
+    },
+    {
+      "from": 15954,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_38.mp4",
+      "pip": false
+    },
+    {
+      "from": 16104,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_39.mp4",
+      "pip": false
+    },
+    {
+      "from": 16254,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_40.mp4",
+      "pip": false
+    },
+    {
+      "from": 16404,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_41.mp4",
+      "pip": false
+    },
+    {
+      "from": 16554,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_42.mp4",
+      "pip": false
+    },
+    {
+      "from": 16704,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_43.mp4",
+      "pip": false
+    },
+    {
+      "from": 16854,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_44.mp4",
+      "pip": false
+    },
+    {
+      "from": 17004,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_45.mp4",
+      "pip": false
+    },
+    {
+      "from": 17154,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_46.mp4",
+      "pip": false
+    },
+    {
+      "from": 17304,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_47.mp4",
+      "pip": false
+    },
+    {
+      "from": 17454,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_48.mp4",
+      "pip": false
+    },
+    {
+      "from": 17604,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 17754,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 17904,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 18054,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 18204,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 18354,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 18504,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 18654,
+      "dur": 166,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 19075,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 19225,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 19375,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 19525,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 19675,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 19825,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 19975,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 20125,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 20275,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 20425,
+      "dur": 55,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 21740,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 21890,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 22040,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 22190,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 22340,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 22490,
+      "dur": 69,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 22799,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 22949,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 23099,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 23249,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 23399,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 23549,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 23699,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 23849,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 23999,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 24149,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 24299,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 24449,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 24599,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_37.mp4",
+      "pip": false
+    },
+    {
+      "from": 24749,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_38.mp4",
+      "pip": false
+    },
+    {
+      "from": 24899,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_39.mp4",
+      "pip": false
+    },
+    {
+      "from": 25049,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_40.mp4",
+      "pip": false
+    },
+    {
+      "from": 25199,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_41.mp4",
+      "pip": false
+    },
+    {
+      "from": 25349,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_42.mp4",
+      "pip": false
+    },
+    {
+      "from": 25499,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_43.mp4",
+      "pip": false
+    },
+    {
+      "from": 25649,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_44.mp4",
+      "pip": false
+    },
+    {
+      "from": 25799,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_45.mp4",
+      "pip": false
+    },
+    {
+      "from": 25949,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_46.mp4",
+      "pip": false
+    },
+    {
+      "from": 26099,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_47.mp4",
+      "pip": false
+    },
+    {
+      "from": 26249,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_48.mp4",
+      "pip": false
+    },
+    {
+      "from": 26399,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 26549,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 26699,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 26849,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 26999,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 27149,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 27299,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 27449,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 27599,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 27749,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 27899,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 28049,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 28199,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 28349,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 28499,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 28649,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 28799,
+      "dur": 128,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 29167,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 29317,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 29467,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 29617,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 29767,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 29917,
+      "dur": 141,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 30514,
+      "dur": 58,
+      "kind": "video",
+      "src": "broll/ricino-elena_s_24.mp4",
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2154,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "SALUD CON EVIDENCIA",
+        "title": "Dra. Elena Vidal",
+        "sub": "ricino: la forma correcta"
+      }
+    },
+    {
+      "from": 3718,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "ÁCIDO RICINOLEICO",
+        "sub": "el secreto del aceite de ricino",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 9338,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 10338,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "MILIA",
+        "sub": "puntitos blancos por usar de más y puro",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 12715,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🧴",
+        "title": "Según tu piel",
+        "sub": "seca: ideal · mixta: solo mejillas · grasa/acné: cuidado con los poros",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 15313,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 15773,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 1",
+        "title": "Piel más firme",
+        "sub": "líneas finas disimuladas"
+      }
+    },
+    {
+      "from": 15773,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 16403,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 2",
+        "title": "Pestañas y cejas",
+        "sub": "más pobladas con constancia"
+      }
+    },
+    {
+      "from": 16918,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 3",
+        "title": "Ojeras y contorno",
+        "sub": "menos cansancio, más descanso"
+      }
+    },
+    {
+      "from": 17540,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 4",
+        "title": "Manos y uñas",
+        "sub": "cutículas sanas, uñas fuertes"
+      }
+    },
+    {
+      "from": 23204,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🧪",
+        "title": "Prueba de alergia",
+        "sub": "detrás de la oreja, esperá un día antes de la cara",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 23854,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Nunca dentro del ojo",
+        "sub": "cerca de pestañas con cuidado; adentro jamás",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 24192,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Solo uso externo",
+        "sub": "el ricino por vía oral es un laxante fuerte: NO se toma",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 25084,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 29465,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi guía natural",
+        "items": [
+          "Las proporciones exactas de la mezcla",
+          "El aceite ideal según tu piel",
+          "La rutina para cara, ojos y pestañas"
+        ]
+      }
+    },
+    {
+      "from": 29806,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 30149,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 3787,
+      "dur": 255,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "3 poderes del ácido ricinoleico",
+        "items": [
+          "Humecta y SELLA el agua en la piel",
+          "Antiinflamatorio: calma rojeces",
+          "Nutre pestañas, cejas y cicatrices",
+          "Piel bien hidratada = efecto tensor"
+        ]
+      }
+    },
+    {
+      "from": 6173,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Cuanto más ricino me ponga, mejor.",
+        "truth": "Al revés: más cantidad no es más resultado, es más riesgo de tapar los poros y que salga milia. Con el ricino, menos es más."
+      }
+    },
+    {
+      "from": 9849,
+      "dur": 255,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "La forma correcta",
+        "title": "Las 3 reglas de oro",
+        "steps": [
+          {
+            "title": "Poco: 2-3 gotitas para toda la cara",
+            "sub": "más NO es mejor"
+          },
+          {
+            "title": "Diluido en jojoba, almendras o rosa mosqueta",
+            "sub": "casi nunca puro"
+          },
+          {
+            "title": "De noche, piel limpia, masaje hacia arriba",
+            "sub": "5 minutos"
+          }
+        ]
+      }
+    },
+    {
+      "from": 18820,
+      "dur": 255,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Qué esperar",
+        "title": "Es progresivo, no mágico",
+        "steps": [
+          {
+            "title": "Día 1: piel más suave e hidratada",
+            "sub": "se nota enseguida"
+          },
+          {
+            "title": "Semanas 2-3: más luminosa, líneas disimuladas",
+            "sub": "uso constante"
+          },
+          {
+            "title": "Mes 1-3: pestañas y cejas más pobladas",
+            "sub": "el vello crece despacio"
+          }
+        ]
+      }
+    },
+    {
+      "from": 22559,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Cuanto más y más puro, más antiedad.",
+        "truth": "Mucho + puro + piel sin limpiar = poros tapados y milia. Poco + diluido + piel limpia = resultado. Grabátelo."
+      }
+    },
+    {
+      "from": 28927,
+      "dur": 240,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "La diferencia entre que te rejuvenezca la piel o te la arruine no está en el frasco: está en el cómo. Poquito, diluido, sobre piel limpia y con paciencia.",
+        "author": "Dra. Elena Vidal"
+      }
+    }
+  ]
+}
