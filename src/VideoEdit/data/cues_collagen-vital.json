@@ -1,0 +1,1495 @@
+{
+  "slug": "collagen-vital",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 32022,
+  "audioSrc": "collagen-vital.mp3",
+  "avatarSrc": "collagen-vital_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 3,
+      "dur": 1040,
+      "clip": 0
+    },
+    {
+      "from": 2046,
+      "dur": 1049,
+      "clip": 1040
+    },
+    {
+      "from": 8828,
+      "dur": 666,
+      "clip": 2089
+    },
+    {
+      "from": 21869,
+      "dur": 1260,
+      "clip": 2755
+    },
+    {
+      "from": 30800,
+      "dur": 545,
+      "clip": 4015
+    }
+  ],
+  "broll": [
+    {
+      "from": 1043,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 1193,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 1343,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 1493,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 1643,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 1793,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 1943,
+      "dur": 103,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 3095,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 3245,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 3395,
+      "dur": 178,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 3828,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 3978,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 4128,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 4278,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 4428,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 4578,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 4728,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 4878,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 5028,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 5178,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 5328,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 5478,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 5628,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 5778,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 5928,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 6078,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 6228,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 6378,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 6528,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 6678,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 6828,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 6978,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 7128,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 7278,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 7428,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 7578,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 7728,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_37.mp4",
+      "pip": false
+    },
+    {
+      "from": 7878,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_38.mp4",
+      "pip": false
+    },
+    {
+      "from": 8028,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_39.mp4",
+      "pip": false
+    },
+    {
+      "from": 8178,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_40.mp4",
+      "pip": false
+    },
+    {
+      "from": 8328,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_41.mp4",
+      "pip": false
+    },
+    {
+      "from": 8478,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_42.mp4",
+      "pip": false
+    },
+    {
+      "from": 8628,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_43.mp4",
+      "pip": false
+    },
+    {
+      "from": 8778,
+      "dur": 50,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_44.mp4",
+      "pip": false
+    },
+    {
+      "from": 9494,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_45.mp4",
+      "pip": false
+    },
+    {
+      "from": 9644,
+      "dur": 141,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_46.mp4",
+      "pip": false
+    },
+    {
+      "from": 10040,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_47.mp4",
+      "pip": false
+    },
+    {
+      "from": 10190,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_48.mp4",
+      "pip": false
+    },
+    {
+      "from": 10340,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 10490,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 10640,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 10790,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 10940,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 11090,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 11240,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 11390,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 11540,
+      "dur": 132,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 11912,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 12062,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 12212,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 12362,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 12512,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 12662,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 12812,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 12962,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 13112,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 13262,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 13412,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 13562,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 13712,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 13862,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 14012,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 14162,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 14597,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 14747,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 14897,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 15047,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 15197,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 15347,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 15497,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 15647,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 15797,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 15947,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 16097,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 16247,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_37.mp4",
+      "pip": false
+    },
+    {
+      "from": 16397,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_38.mp4",
+      "pip": false
+    },
+    {
+      "from": 16547,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_39.mp4",
+      "pip": false
+    },
+    {
+      "from": 16697,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_40.mp4",
+      "pip": false
+    },
+    {
+      "from": 16847,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_41.mp4",
+      "pip": false
+    },
+    {
+      "from": 16997,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_42.mp4",
+      "pip": false
+    },
+    {
+      "from": 17147,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_43.mp4",
+      "pip": false
+    },
+    {
+      "from": 17297,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_44.mp4",
+      "pip": false
+    },
+    {
+      "from": 17447,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_45.mp4",
+      "pip": false
+    },
+    {
+      "from": 17597,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_46.mp4",
+      "pip": false
+    },
+    {
+      "from": 17747,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_47.mp4",
+      "pip": false
+    },
+    {
+      "from": 17897,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_48.mp4",
+      "pip": false
+    },
+    {
+      "from": 18047,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 18197,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 18347,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 18497,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 18647,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 18797,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 18947,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 19097,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 19247,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 19397,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 19547,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 19697,
+      "dur": 94,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 20031,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 20181,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 20331,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 20481,
+      "dur": 185,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 20936,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 21086,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 21236,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 21386,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 21536,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 21686,
+      "dur": 183,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 23129,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 23279,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 23429,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 23579,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 23729,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 23879,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 24029,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 24179,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 24329,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 24479,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 24629,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 24779,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 24929,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 25079,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 25229,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_37.mp4",
+      "pip": false
+    },
+    {
+      "from": 25379,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_38.mp4",
+      "pip": false
+    },
+    {
+      "from": 25529,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_39.mp4",
+      "pip": false
+    },
+    {
+      "from": 25679,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_40.mp4",
+      "pip": false
+    },
+    {
+      "from": 25829,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_41.mp4",
+      "pip": false
+    },
+    {
+      "from": 25979,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_42.mp4",
+      "pip": false
+    },
+    {
+      "from": 26129,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_43.mp4",
+      "pip": false
+    },
+    {
+      "from": 26279,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_44.mp4",
+      "pip": false
+    },
+    {
+      "from": 26429,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_45.mp4",
+      "pip": false
+    },
+    {
+      "from": 26579,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_46.mp4",
+      "pip": false
+    },
+    {
+      "from": 26729,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_47.mp4",
+      "pip": false
+    },
+    {
+      "from": 26879,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_48.mp4",
+      "pip": false
+    },
+    {
+      "from": 27029,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 27179,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 27329,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 27479,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 27629,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 27779,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 27929,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 28079,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 28229,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 28379,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 28529,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 28679,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 28829,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 28979,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 29129,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 29279,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 29429,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 29579,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 29729,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 29879,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 30029,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 30179,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 30329,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 30479,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 30629,
+      "dur": 70,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 31345,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 31495,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 31645,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 31795,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 31945,
+      "dur": 77,
+      "kind": "video",
+      "src": "broll/collagen-vital_s_30.mp4",
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2046,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "EVIDENCE-BASED",
+        "title": "Dr. Alan Brooks",
+        "sub": "collagen after 60"
+      }
+    },
+    {
+      "from": 4907,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "COLLAGEN",
+        "sub": "the scaffolding that keeps skin firm",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 9122,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png"
+      }
+    },
+    {
+      "from": 9179,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png"
+      }
+    },
+    {
+      "from": 13506,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "THE FOOD",
+        "title": "The egg"
+      }
+    },
+    {
+      "from": 16018,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "VITAMIN C",
+        "sub": "the igniter that builds the collagen",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 17162,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "ADD THIS TO WATER",
+        "title": "Lemon water",
+        "sub": "the vitamin C that flips the switch"
+      }
+    },
+    {
+      "from": 17162,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png"
+      }
+    },
+    {
+      "from": 27329,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "The sun",
+        "sub": "the #1 destroyer of collagen — protect your skin or you undo the work",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 28428,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "A caution",
+        "sub": "if you were told to limit eggs, ask your own doctor first",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 31477,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "In the guide",
+        "title": "The Natural Wellness Method",
+        "items": [
+          "The exact morning routine",
+          "Safe daily amounts",
+          "Foods richest in collagen bricks"
+        ]
+      }
+    },
+    {
+      "from": 31477,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 3573,
+      "dur": 255,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Wrinkles are just \"age\" and a good cream fixes them.",
+        "truth": "Most of it is LOST COLLAGEN — the scaffolding under your skin. Creams sit on top; real firmness is rebuilt from the inside."
+      }
+    },
+    {
+      "from": 9785,
+      "dur": 255,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Signs your collagen dropped",
+        "items": [
+          "The pinched skin snaps back slowly",
+          "Horizontal lines on the neck",
+          "Thin, \"papery\" hands",
+          "Nails break, hair loses body"
+        ]
+      }
+    },
+    {
+      "from": 11672,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "A collagen cream can rebuild your skin.",
+        "truth": "The collagen molecule is too big to get in — it stays on the surface. Firmness is manufactured from the inside, with raw material."
+      }
+    },
+    {
+      "from": 14342,
+      "dur": 255,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "How it works",
+        "title": "Your body needs",
+        "steps": [
+          {
+            "title": "Bricks: glycine & proline",
+            "sub": "the egg is rich in both"
+          },
+          {
+            "title": "The igniter: vitamin C",
+            "sub": "no vitamin C, no new collagen"
+          },
+          {
+            "title": "Tools: zinc & copper",
+            "sub": "egg yolk + nuts and seeds"
+          }
+        ]
+      }
+    },
+    {
+      "from": 19791,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "The egg is collagen you eat onto your skin.",
+        "truth": "No. It gives your body the exact materials so IT builds NEW collagen, deep in the skin where no cream reaches."
+      }
+    },
+    {
+      "from": 20666,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "The morning method",
+        "title": "Every morning",
+        "steps": [
+          {
+            "title": "1–2 whole eggs (keep the yolk)",
+            "sub": "boiled, scrambled, poached"
+          },
+          {
+            "title": "A glass of water + juice of ½ lemon",
+            "sub": "the vitamin C igniter"
+          },
+          {
+            "title": "A small handful of nuts/seeds",
+            "sub": "zinc & copper"
+          }
+        ]
+      }
+    },
+    {
+      "from": 30699,
+      "dur": 240,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "It costs pennies. It's probably in your kitchen right now. And it works with your body instead of lying to it.",
+        "author": "Dr. Alan Brooks"
+      }
+    }
+  ]
+}
