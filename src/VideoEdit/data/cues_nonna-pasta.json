@@ -1,0 +1,1533 @@
+{
+  "slug": "nonna-pasta",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 28268,
+  "audioSrc": "nonna-pasta.mp3",
+  "avatarSrc": "nonna-pasta_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 5,
+      "dur": 619,
+      "clip": 0
+    },
+    {
+      "from": 1688,
+      "dur": 443,
+      "clip": 619
+    },
+    {
+      "from": 616,
+      "dur": 287,
+      "clip": 1062
+    },
+    {
+      "from": 9550,
+      "dur": 267,
+      "clip": 1349
+    },
+    {
+      "from": 20230,
+      "dur": 681,
+      "clip": 1616
+    },
+    {
+      "from": 5015,
+      "dur": 1200,
+      "clip": 2297
+    },
+    {
+      "from": 13723,
+      "dur": 331,
+      "clip": 3497
+    },
+    {
+      "from": 19577,
+      "dur": 661,
+      "clip": 3828
+    },
+    {
+      "from": 25374,
+      "dur": 286,
+      "clip": 4489
+    },
+    {
+      "from": 26720,
+      "dur": 649,
+      "clip": 4775
+    },
+    {
+      "from": 27361,
+      "dur": 900,
+      "clip": 5424
+    }
+  ],
+  "broll": [
+    {
+      "from": 903,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/nonna-pasta_B01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1047,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-pasta_B02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 1167,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/nonna-pasta_B03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1335,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/nonna-pasta_B04.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1467,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/nonna-pasta_B05.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1623,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/nonna-pasta_B06.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2131,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-pasta_D01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2251,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/nonna-pasta_D02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2419,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/nonna-pasta_D03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2551,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/nonna-pasta_D04.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2707,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/nonna-pasta_D05.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2851,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-pasta_D06.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2971,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/nonna-pasta_D07.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3278,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/nonna-pasta_D08.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3582,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/nonna-pasta_D09.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3738,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/nonna-pasta_D10.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3882,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-pasta_D11.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4002,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/nonna-pasta_D12.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4170,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/nonna-pasta_D13.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4302,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/nonna-pasta_D14.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4458,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/nonna-pasta_D15.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4602,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-pasta_D16.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4722,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/nonna-pasta_D17.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4890,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/nonna-pasta_D18.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6215,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/nonna-pasta_E01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6371,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/nonna-pasta_E02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6515,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-pasta_F01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6635,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/nonna-pasta_F02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6803,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/nonna-pasta_F03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6935,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/nonna-pasta_F04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7091,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/nonna-pasta_F05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7235,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-pasta_F06.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7355,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/nonna-pasta_F07.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7523,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/nonna-pasta_F08.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7655,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/nonna-pasta_F09.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7811,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/nonna-pasta_F10.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7955,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-pasta_F11.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8075,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/nonna-pasta_F12.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8243,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/nonna-pasta_F13.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8515,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/nonna-pasta_F14.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8671,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/nonna-pasta_F15.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8929,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-pasta_F16.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9049,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/nonna-pasta_F17.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9217,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/nonna-pasta_F18.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9349,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/nonna-pasta_F19.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9817,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/nonna-pasta_G01.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9961,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/nonna-pasta_G02.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10264,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/nonna-pasta_G03.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10432,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/nonna-pasta_G04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10564,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/nonna-pasta_G05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10920,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/nonna-pasta_G06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11064,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-pasta_G07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11184,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/nonna-pasta_G08.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11352,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/nonna-pasta_G09.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11484,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/nonna-pasta_G10.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11640,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/nonna-pasta_G11.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11784,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-pasta_G12.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11904,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/nonna-pasta_G13.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12072,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/nonna-pasta_H01.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12204,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/nonna-pasta_H02.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12360,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/nonna-pasta_H03.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12504,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-pasta_H04.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12624,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/nonna-pasta_H05.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12792,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/nonna-pasta_H06.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12924,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/nonna-pasta_H07.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13351,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/nonna-pasta_H08.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13495,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-pasta_H09.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13615,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/nonna-pasta_H10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14054,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/nonna-pasta_I01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14186,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/nonna-pasta_I02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14342,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/nonna-pasta_I03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14664,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-pasta_I04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14784,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/nonna-pasta_I05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14952,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/nonna-pasta_I06.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15084,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/nonna-pasta_I07.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15240,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/nonna-pasta_I08.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15384,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/nonna-pasta_I09.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15747,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/nonna-pasta_I10.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15915,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/nonna-pasta_I11.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16047,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/nonna-pasta_I12.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16203,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/nonna-pasta_J01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16347,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-pasta_J02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16467,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/nonna-pasta_J03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16635,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/nonna-pasta_J04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16767,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/nonna-pasta_J05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16923,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/nonna-pasta_J06.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17354,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-pasta_J07.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17474,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/nonna-pasta_J08.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17642,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/nonna-pasta_J09.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17774,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/nonna-pasta_J10.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17930,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/nonna-pasta_J11.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18074,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-pasta_J12.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18194,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/nonna-pasta_J13.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18362,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/nonna-pasta_J14.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18494,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/nonna-pasta_J15.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18845,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/nonna-pasta_K01.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18989,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-pasta_K02.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19109,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/nonna-pasta_K03.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19277,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/nonna-pasta_L01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19409,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/nonna-pasta_L02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20911,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/nonna-pasta_L03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21055,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-pasta_L04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21175,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/nonna-pasta_L05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21343,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/nonna-pasta_L06.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21475,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/nonna-pasta_M01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21631,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/nonna-pasta_M02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21775,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-pasta_M03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21895,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/nonna-pasta_M04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22292,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/nonna-pasta_M05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22424,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/nonna-pasta_M06.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22580,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/nonna-pasta_M07.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22724,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-pasta_N01.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22844,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/nonna-pasta_N02.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23012,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/nonna-pasta_N03.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23144,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/nonna-pasta_N04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23300,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/nonna-pasta_N05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23444,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/nonna-pasta_N06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23867,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/nonna-pasta_N07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24035,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/nonna-pasta_N08.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24167,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/nonna-pasta_N09.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24323,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/nonna-pasta_N10.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24467,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-pasta_O01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24587,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/nonna-pasta_O02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24755,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/nonna-pasta_O03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24887,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/nonna-pasta_O04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25043,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/nonna-pasta_O05.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25187,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-pasta_O06.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25307,
+      "dur": 67,
+      "kind": "image",
+      "src": "img/nonna-pasta_O07.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25660,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/nonna-pasta_O08.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26108,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/nonna-pasta_J16.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26264,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/nonna-pasta_H11.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26408,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-pasta_H12.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26528,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/nonna-pasta_G14.png",
+      "kb": 0,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 616,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "LA NONNA COCINA",
+        "title": "Nonna Lucía",
+        "sub": "la cocina de mi mamma, en Sicilia"
+      }
+    },
+    {
+      "from": 2180,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 1",
+        "title": "La olla"
+      }
+    },
+    {
+      "from": 4159,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "LA TAPA",
+        "sub": "puesta para calentar · afuera con la pasta",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 5015,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    },
+    {
+      "from": 6456,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 2",
+        "title": "La sal"
+      }
+    },
+    {
+      "from": 7749,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SOSA",
+        "sub": "la pasta solo toma sal mientras se cocina",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 11942,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 4",
+        "title": "Partir los espaguetis"
+      }
+    },
+    {
+      "from": 16085,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 6",
+        "title": "Tirar el agua"
+      }
+    },
+    {
+      "from": 16783,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ACQUA D'ORO",
+        "sub": "el agua de oro",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 18824,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    },
+    {
+      "from": 19452,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 7",
+        "title": "Enjuagar la pasta"
+      }
+    },
+    {
+      "from": 22891,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "🧀",
+        "title": "Fuera del fuego",
+        "sub": "con fuego fuerte el queso se corta y se pone como chicle",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 23441,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL REGALO",
+        "title": "La salsa del domingo"
+      }
+    },
+    {
+      "from": 23597,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    },
+    {
+      "from": 25652,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    },
+    {
+      "from": 26720,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 3068,
+      "dur": 210,
+      "comp": "BigStat",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "La regla de mi mamma",
+        "value": 1,
+        "suffix": " litro",
+        "support": "de agua por cada 100 g de pasta · medio kilo = 5 litros"
+      }
+    },
+    {
+      "from": 3372,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "El tamaño de la olla",
+        "left": {
+          "label": "Olla chica",
+          "sub": "el agua deja de hervir · la pasta se pega"
+        },
+        "right": {
+          "label": "Olla grande",
+          "sub": "sigue hirviendo · la pasta sale suelta"
+        }
+      }
+    },
+    {
+      "from": 8305,
+      "dur": 210,
+      "comp": "BigStat",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "La medida de la nonna",
+        "value": 10,
+        "suffix": " g",
+        "support": "de sal por cada litro de agua · 1 cucharada rasa"
+      }
+    },
+    {
+      "from": 8719,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Echa menos sal si la salsa lleva…",
+        "items": [
+          "Aceitunas",
+          "Alcaparras",
+          "Anchoas",
+          "Queso fuerte"
+        ]
+      }
+    },
+    {
+      "from": 10024,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Un chorrito de aceite en el agua evita que la pasta se pegue.",
+        "truth": "El aceite flota. Solo deja una capita que hace resbalar la salsa. Lo que evita que se pegue es mucha agua y revolver."
+      }
+    },
+    {
+      "from": 10680,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Para que no se pegue",
+        "items": [
+          "Mucha agua",
+          "Hervor fuerte",
+          "Revolver a los 30 segundos",
+          "Y otra vez al minuto"
+        ]
+      }
+    },
+    {
+      "from": 13111,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Sin partir nada",
+        "title": "Espaguetis enteros",
+        "steps": [
+          {
+            "title": "Agárralos con la mano",
+            "sub": "el manojo entero"
+          },
+          {
+            "title": "Ponlos parados en el agua hirviendo",
+            "sub": "y suéltalos"
+          },
+          {
+            "title": "Empújalos con la cuchara de madera",
+            "sub": "en medio minuto están adentro"
+          }
+        ]
+      }
+    },
+    {
+      "from": 14454,
+      "dur": 210,
+      "comp": "BigStat",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "El secreto",
+        "value": 2,
+        "suffix": " min",
+        "support": "antes de lo que dice el paquete · y a la sartén con la salsa"
+      }
+    },
+    {
+      "from": 15507,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Los últimos 2 minutos",
+        "left": {
+          "label": "En el agua",
+          "sub": "se llena de agua"
+        },
+        "right": {
+          "label": "En la salsa",
+          "sub": "se llena de salsa"
+        }
+      }
+    },
+    {
+      "from": 17084,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "El agua de oro",
+        "title": "La taza que nadie guarda",
+        "steps": [
+          {
+            "title": "Antes de escurrir, saca 1 taza",
+            "sub": "agua turbia, con almidón y sal"
+          },
+          {
+            "title": "Medio cucharón en la sartén",
+            "sub": "con la pasta y la salsa"
+          },
+          {
+            "title": "Revuelve fuerte",
+            "sub": "la salsa se vuelve cremosa y brillante"
+          }
+        ]
+      }
+    },
+    {
+      "from": 18635,
+      "dur": 210,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "earth",
+        "quote": "Es la misma receta. La diferencia es una taza de agua que todos tiran.",
+        "author": "Nonna Lucía"
+      }
+    },
+    {
+      "from": 22052,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El queso de sobre es lo mismo.",
+        "truth": "Trae un polvito para que no se pegue: no se derrite bien y hace grumos. Mejor un pedazo rallado en el momento."
+      }
+    },
+    {
+      "from": 23597,
+      "dur": 270,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "La salsa del domingo",
+        "title": "Como la hacía mi mamma",
+        "steps": [
+          {
+            "when": "7:00",
+            "text": "Olla al fuego antes de misa"
+          },
+          {
+            "when": "4-5 horas",
+            "text": "Fuego mínimo, tapa a medias"
+          },
+          {
+            "when": "Mediodía",
+            "text": "La salsa a la pasta, la carne de segundo"
+          }
+        ]
+      }
+    },
+    {
+      "from": 25748,
+      "dur": 360,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Las 7 reglas de la nonna",
+        "items": [
+          "1 litro de agua por cada 100 g",
+          "Sal cuando hierve: 10 g por litro",
+          "Nada de aceite: revolver",
+          "No partir los espaguetis",
+          "2 minutos antes y a la sartén",
+          "Guardar una taza de agua",
+          "Nunca enjuagar"
+        ],
+        "stamp": "¡Anótalo!"
+      }
+    }
+  ]
+}

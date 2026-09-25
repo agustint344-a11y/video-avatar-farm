@@ -55,8 +55,20 @@ export const BrollBeatView: React.FC<{ beat: BrollBeat }> = ({ beat }) => {
     extrapolateLeft: "clamp",
     extrapolateRight: "clamp",
   });
-  const scale = 1.06 + p * 0.08; // zoom lento
-  const x = p * -22; // paneo leve
+  // Ken Burns variado por beat (kb 0-5); sin kb = el movimiento clásico.
+  const kb = beat.kb ?? -1;
+  const KB = [
+    { s0: 1.04, s1: 1.14, x0: 0, x1: -30, y0: 0, y1: 0 },
+    { s0: 1.14, s1: 1.04, x0: -20, x1: 10, y0: 0, y1: 0 },
+    { s0: 1.06, s1: 1.13, x0: 25, x1: -10, y0: 10, y1: -12 },
+    { s0: 1.12, s1: 1.05, x0: 0, x1: 0, y0: -18, y1: 12 },
+    { s0: 1.05, s1: 1.12, x0: -25, x1: 20, y0: 0, y1: 0 },
+    { s0: 1.08, s1: 1.16, x0: 0, x1: 0, y0: 12, y1: -10 },
+  ];
+  const m = kb >= 0 ? KB[kb % KB.length] : { s0: 1.06, s1: 1.14, x0: 0, x1: -22, y0: 0, y1: 0 };
+  const scale = m.s0 + p * (m.s1 - m.s0);
+  const x = m.x0 + p * (m.x1 - m.x0);
+  const y = m.y0 + p * (m.y1 - m.y0);
   const src = staticFile(beat.src);
 
   return (
@@ -69,7 +81,7 @@ export const BrollBeatView: React.FC<{ beat: BrollBeat }> = ({ beat }) => {
           style={{
             width: "100%",
             height: "100%",
-            transform: `scale(${scale}) translateX(${x}px)`,
+            transform: `scale(${scale}) translate(${x}px, ${y}px)`,
           }}
         />
       ) : (
@@ -79,7 +91,7 @@ export const BrollBeatView: React.FC<{ beat: BrollBeat }> = ({ beat }) => {
             width: "100%",
             height: "100%",
             objectFit: "cover",
-            transform: `scale(${scale}) translateX(${x}px)`,
+            transform: `scale(${scale}) translate(${x}px, ${y}px)`,
           }}
         />
       )}

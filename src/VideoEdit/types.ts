@@ -6,6 +6,7 @@ export type BrollBeat = {
   dur: number;
   kind: "video" | "image";
   src: string; // relativo a public/, ej "broll/chia_s_01.mp4" | "img/foo.png"
+  kb?: number; // variante de Ken Burns (0-5) para imágenes
   pip?: boolean; // default true: muestra el avatar en PiP sobre este b-roll. false = b-roll full sin avatar.
 };
 
