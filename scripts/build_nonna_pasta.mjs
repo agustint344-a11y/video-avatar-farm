@@ -104,7 +104,7 @@ overlays.sort((x, y) => x.from - y.from);
 
 // ---------- B-ROLL por sección (imágenes Agnes, sin repetir dentro de la sección) ----------
 const plan = JSON.parse(fs.readFileSync(path.join(ROOT, "_v3", `${SLUG}_plan.json`), "utf8"));
-const secs = plan.map((s) => ({ sec: s.sec, from: at(s.anchor), imgs: s.p.map((_, i) => `img/${SLUG}_${s.sec}${String(i + 1).padStart(2, "0")}.png`).filter((f) => fs.existsSync(path.join(ROOT, "public", f))), used: 0 }));
+const secs = plan.map((s) => ({ sec: s.sec, from: at(s.anchor), imgs: s.p.map((_, i) => `img/${SLUG}_${s.sec}${String(i + 1).padStart(2, "0")}.png`).filter((f) => fs.existsSync(path.join(ROOT, "public", f))).sort((p, q) => { const hv = (f) => fs.existsSync(path.join(ROOT, "public", f.replace("img/" + SLUG + "_", "broll/" + SLUG + "_v_").replace(".png", ".mp4"))) ? 0 : 1; return hv(p) - hv(q); }), used: 0 }));
 const secMiss = secs.filter((s) => s.from == null).map((s) => s.sec);
 const secsOk = secs.filter((s) => s.from != null).sort((a, b) => a.from - b.from);
 secsOk[0].from = 0;
@@ -115,7 +115,7 @@ for (const r of blocked) { if (merged.length && r[0] <= merged[merged.length - 1
 const free = []; let cur = 0;
 for (const [a, b] of merged) { if (a > cur) free.push([cur, a]); cur = Math.max(cur, b); }
 if (cur < durationInFrames) free.push([cur, durationInFrames]);
-const PACE = [sec(4.8), sec(4.0), sec(5.6), sec(4.4), sec(5.2)]; // variedad, no metrónomo
+const PACE = [sec(6.0), sec(5.4), sec(6.0), sec(5.7), sec(6.0)]; // clips Agnes de 6 s // variedad, no metrónomo
 const MINB = sec(1.6);
 const broll = []; let n = 0; const reuse = [];
 for (const [a, b] of free) {
@@ -128,7 +128,7 @@ for (const [a, b] of free) {
     if (s.used < s.imgs.length) src = s.imgs[s.used++];
     else { // sección agotada: tomar la próxima sección con imágenes libres (vecina), si no, reciclar
       const alt = secsOk.find((x) => x.from > s.from && x.used < x.imgs.length) || secsOk.slice().reverse().find((x) => x.used < x.imgs.length);
-      if (alt) src = alt.imgs[alt.used++]; else { src = s.imgs[(s.used++) % s.imgs.length]; reuse.push(src); }
+      if (alt) src = alt.imgs[alt.used++]; else { const pool = s.imgs.length ? s : secsOk.filter((x) => x.imgs.length).sort((p, q) => Math.abs(p.from - f) - Math.abs(q.from - f))[0]; src = pool.imgs[(pool.used++) % pool.imgs.length]; reuse.push(src); }
     }
     // si existe el clip de VIDEO Agnes (la Nonna cocinando) se usa; si no, la imagen de respaldo
     const vid = src.replace("img/" + SLUG + "_", "broll/" + SLUG + "_v_").replace(".png", ".mp4");

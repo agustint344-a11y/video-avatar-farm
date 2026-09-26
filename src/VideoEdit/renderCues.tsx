@@ -57,13 +57,13 @@ export const BrollBeatView: React.FC<{ beat: BrollBeat }> = ({ beat }) => {
   });
   // Ken Burns variado por beat (kb 0-5); sin kb = el movimiento clásico.
   const kb = beat.kb ?? -1;
-  const KB = [
-    { s0: 1.04, s1: 1.14, x0: 0, x1: -30, y0: 0, y1: 0 },
-    { s0: 1.14, s1: 1.04, x0: -20, x1: 10, y0: 0, y1: 0 },
-    { s0: 1.06, s1: 1.13, x0: 25, x1: -10, y0: 10, y1: -12 },
-    { s0: 1.12, s1: 1.05, x0: 0, x1: 0, y0: -18, y1: 12 },
-    { s0: 1.05, s1: 1.12, x0: -25, x1: 20, y0: 0, y1: 0 },
-    { s0: 1.08, s1: 1.16, x0: 0, x1: 0, y0: 12, y1: -10 },
+  const KB = [ // sutil: casi quieto (el movimiento marcado se siente IA)
+    { s0: 1.0, s1: 1.035, x0: 0, x1: -8, y0: 0, y1: 0 },
+    { s0: 1.035, s1: 1.0, x0: -6, x1: 4, y0: 0, y1: 0 },
+    { s0: 1.01, s1: 1.04, x0: 6, x1: -4, y0: 3, y1: -4 },
+    { s0: 1.04, s1: 1.01, x0: 0, x1: 0, y0: -5, y1: 4 },
+    { s0: 1.0, s1: 1.03, x0: -6, x1: 6, y0: 0, y1: 0 },
+    { s0: 1.02, s1: 1.05, x0: 0, x1: 0, y0: 4, y1: -3 },
   ];
   const m = kb >= 0 ? KB[kb % KB.length] : { s0: 1.06, s1: 1.14, x0: 0, x1: -22, y0: 0, y1: 0 };
   const scale = m.s0 + p * (m.s1 - m.s0);
@@ -78,11 +78,8 @@ export const BrollBeatView: React.FC<{ beat: BrollBeat }> = ({ beat }) => {
           src={src}
           muted
           objectFit="cover"
-          style={{
-            width: "100%",
-            height: "100%",
-            transform: `scale(${scale}) translate(${x}px, ${y}px)`,
-          }}
+          // clips de video: SIN Ken Burns (plano fijo, pedido del usuario: el movimiento se siente IA)
+          style={{ width: "100%", height: "100%" }}
         />
       ) : (
         <Img

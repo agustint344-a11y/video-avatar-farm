@@ -74,7 +74,7 @@ jobs:
         run: |
           ENTRY="${{ github.event.inputs.entry }}"; [ -z "$ENTRY" ] && ENTRY="src/index.ts"
           mkdir -p out
-          TMPDIR=/dev/shm npx remotion render "$ENTRY" "${{ github.event.inputs.comp_id }}" "out/chunk_${{ matrix.idx }}.mp4" --frames=${{ steps.r.outputs.start }}-${{ steps.r.outputs.end }} --concurrency=2 --gl=angle
+          TMPDIR=/dev/shm npx remotion render "$ENTRY" "${{ github.event.inputs.comp_id }}" "out/chunk_${{ matrix.idx }}.mp4" --frames=${{ steps.r.outputs.start }}-${{ steps.r.outputs.end }} --concurrency=2 --gl=angle --jpeg-quality=95 --crf=15
       - uses: actions/upload-artifact@v4
         with:
           name: chunk-${{ matrix.idx }}
