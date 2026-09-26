@@ -1,0 +1,857 @@
+{
+  "slug": "nonna-lentejas",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 17627,
+  "audioSrc": "nonna-lentejas.mp3",
+  "avatarSrc": "nonna-lentejas_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 2,
+      "dur": 770,
+      "clip": 0
+    },
+    {
+      "from": 764,
+      "dur": 800,
+      "clip": 770
+    },
+    {
+      "from": 5344,
+      "dur": 998,
+      "clip": 1570
+    },
+    {
+      "from": 8605,
+      "dur": 610,
+      "clip": 2568
+    },
+    {
+      "from": 11003,
+      "dur": 570,
+      "clip": 3178
+    },
+    {
+      "from": 14490,
+      "dur": 777,
+      "clip": 3748
+    },
+    {
+      "from": 16374,
+      "dur": 498,
+      "clip": 4525
+    },
+    {
+      "from": 16864,
+      "dur": 727,
+      "clip": 5023
+    }
+  ],
+  "broll": [
+    {
+      "from": 1564,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_C01.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1744,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_C02.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 1906,
+      "dur": 80,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_C03.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2166,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_D01.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2337,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_D02.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2517,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_D03.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2697,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_D04.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2859,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_D05.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3039,
+      "dur": 56,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_D06.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3305,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_E01.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3485,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_E02.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3665,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_E03.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3827,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_F01.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4007,
+      "dur": 60,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_F02.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4277,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_G01.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4457,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_G02.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4637,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_G03.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4799,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_G04.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4979,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_G05.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5150,
+      "dur": 194,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_G06.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6342,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_G07.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6522,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_G08.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6684,
+      "dur": 203,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_G09.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7157,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_G10.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7328,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_H01.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7508,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_H03.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7688,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_H04.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7850,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_H05.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8030,
+      "dur": 182,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_I01.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8422,
+      "dur": 183,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_I02.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9215,
+      "dur": 159,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_I03.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9554,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_J01.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9716,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_J02.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9896,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_K01.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10067,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_K02.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10247,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_K03.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10427,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_K04.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10589,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_L02.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10769,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_L03.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10940,
+      "dur": 63,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_L04.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11573,
+      "dur": 56,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_L05.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11839,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_L06.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12001,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_L07.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12181,
+      "dur": 196,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_M01.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12557,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_M02.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12737,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_M03.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12917,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_M04.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13079,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_M05.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13259,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_N01.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13430,
+      "dur": 83,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_N02.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13663,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_O01.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13843,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_O02.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14005,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_O03.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14185,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_B01.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14356,
+      "dur": 134,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_B02.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15267,
+      "dur": 70,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_A01.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15697,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_A02.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15859,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_N01.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16039,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_N02.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16210,
+      "dur": 164,
+      "kind": "video",
+      "src": "broll/nonna-lentejas_v_N01.mp4",
+      "kb": 5,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1556,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "LA NONNA COCINA",
+        "title": "Nonna Lucía",
+        "sub": "hoy: las lentejas"
+      }
+    },
+    {
+      "from": 2442,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 1",
+        "title": "No revisarlas"
+      }
+    },
+    {
+      "from": 3893,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 2",
+        "title": "El remojo"
+      }
+    },
+    {
+      "from": 5344,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    },
+    {
+      "from": 6334,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 3",
+        "title": "Agua sola"
+      }
+    },
+    {
+      "from": 8102,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 4",
+        "title": "El fuego fuerte"
+      }
+    },
+    {
+      "from": 9207,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 5",
+        "title": "Agua fría"
+      }
+    },
+    {
+      "from": 10191,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    },
+    {
+      "from": 10846,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 6",
+        "title": "La sal y el tomate"
+      }
+    },
+    {
+      "from": 12262,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 7",
+        "title": "Servirlas enseguida"
+      }
+    },
+    {
+      "from": 13135,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ACEITE CRUDO",
+        "sub": "al servir, en el plato",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 14138,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MONEDITAS",
+        "sub": "lentejas el 1° de enero = plata todo el año",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 15259,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    },
+    {
+      "from": 16374,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 1986,
+      "dur": 180,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "earth",
+        "quote": "Las lentejas son la carne de los pobres.",
+        "author": "La mamma de la Nonna Lucía"
+      }
+    },
+    {
+      "from": 3095,
+      "dur": 210,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Error 1",
+        "title": "Revisarlas y lavarlas",
+        "steps": [
+          {
+            "title": "En un plato blanco",
+            "sub": "pásalas de a poco con el dedo"
+          },
+          {
+            "title": "Fuera piedritas y palitos",
+            "sub": "y las lentejas negras"
+          },
+          {
+            "title": "Lávalas en la bacha",
+            "sub": "hasta que el agua salga limpia"
+          }
+        ]
+      }
+    },
+    {
+      "from": 4067,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Las lentejas van en remojo toda la noche, como los garbanzos.",
+        "truth": "La lenteja común no lo necesita. Si quieres, una o dos horitas. Toda la noche se deshacen."
+      }
+    },
+    {
+      "from": 6887,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Error 3",
+        "title": "Primero, el sofrito",
+        "steps": [
+          {
+            "title": "Aceite, cebolla, zanahoria, apio y ajo",
+            "sub": "todo picadito"
+          },
+          {
+            "title": "Fuego bajo, 10 minutos",
+            "sub": "hasta que la cebolla se pone transparente"
+          },
+          {
+            "title": "Las lentejas, un minuto, y el agua",
+            "sub": "con una hojita de laurel"
+          }
+        ]
+      }
+    },
+    {
+      "from": 8212,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "El fuego",
+        "left": {
+          "label": "Hervor fuerte",
+          "sub": "se rompe la piel · puré"
+        },
+        "right": {
+          "label": "Apenas temblando",
+          "sub": "tiernas pero enteras · 30-40 min"
+        }
+      }
+    },
+    {
+      "from": 9374,
+      "dur": 180,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Si se secan",
+        "left": {
+          "label": "Agua fría",
+          "sub": "se corta la cocción"
+        },
+        "right": {
+          "label": "Agua caliente",
+          "sub": "sigue todo igual"
+        }
+      }
+    },
+    {
+      "from": 11629,
+      "dur": 210,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Error 6",
+        "title": "¿Cuándo va cada cosa?",
+        "steps": [
+          {
+            "when": "Al principio",
+            "text": "Sofrito, lentejas, agua y laurel"
+          },
+          {
+            "when": "Casi tiernas",
+            "text": "La sal"
+          },
+          {
+            "when": "Últimos 10 min",
+            "text": "El tomate (lo ácido)"
+          }
+        ]
+      }
+    },
+    {
+      "from": 12377,
+      "dur": 180,
+      "comp": "BigStat",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "El secreto",
+        "value": 1,
+        "suffix": " día",
+        "support": "de reposo: son más ricas al otro día"
+      }
+    },
+    {
+      "from": 13513,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "🧊",
+        "title": "Lo que sobra",
+        "sub": "apenas se enfría, tapado al refrigerador",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 15337,
+      "dur": 360,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Los 7 errores de las lentejas",
+        "items": [
+          "Revisarlas y lavarlas",
+          "Remojo: no hace falta",
+          "Primero el sofrito",
+          "Fuego suave",
+          "Agua caliente si se secan",
+          "Sal casi al final · tomate últimos 10 min",
+          "Reposo y aceite crudo al servir"
+        ],
+        "stamp": "¡Anótalo!"
+      }
+    }
+  ]
+}
