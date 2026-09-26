@@ -130,7 +130,10 @@ for (const [a, b] of free) {
       const alt = secsOk.find((x) => x.from > s.from && x.used < x.imgs.length) || secsOk.slice().reverse().find((x) => x.used < x.imgs.length);
       if (alt) src = alt.imgs[alt.used++]; else { src = s.imgs[(s.used++) % s.imgs.length]; reuse.push(src); }
     }
-    broll.push({ from: f, dur: d, kind: "image", src, kb: n % 6, pip: false });
+    // si existe el clip de VIDEO Agnes (la Nonna cocinando) se usa; si no, la imagen de respaldo
+    const vid = src.replace("img/" + SLUG + "_", "broll/" + SLUG + "_v_").replace(".png", ".mp4");
+    if (fs.existsSync(path.join(ROOT, "public", vid))) broll.push({ from: f, dur: d, kind: "video", src: vid, kb: n % 6, pip: false });
+    else broll.push({ from: f, dur: d, kind: "image", src, kb: n % 6, pip: false });
     n++; f += d;
   }
 }
@@ -147,5 +150,5 @@ const cf = components.reduce((s, c) => s + c.dur, 0);
 console.log(`avatar ${avatarSegs.length}/${avatarBeats.length} segs ${Math.round(avf / FPS)}s = ${Math.round(avf / durationInFrames * 100)}%${avatarMiss.length ? " MISS: " + avatarMiss.join(" | ") : ""}`);
 console.log(`componentes ${components.length}/${compBeats.length} ${Math.round(cf / FPS)}s${compMiss.length ? " MISS: " + compMiss.join(" | ") : ""}`);
 console.log(`overlays ${overlays.length}/${ovBeats.length} (QR ${overlays.filter((o) => o.comp === "QRTag").length})${ovMiss.length ? " MISS: " + ovMiss.join(" | ") : ""}`);
-console.log(`b-roll ${broll.length} imgs ${Math.round(bf / FPS)}s = ${Math.round(bf / durationInFrames * 100)}% · únicas ${new Set(broll.map((b) => b.src)).size} · recicladas ${reuse.length}${secMiss.length ? " · SECCIONES SIN ANCLA: " + secMiss.join(",") : ""}`);
+console.log(`b-roll ${broll.length} (videos ${broll.filter((b) => b.kind === "video").length}) ${Math.round(bf / FPS)}s = ${Math.round(bf / durationInFrames * 100)}% · únicas ${new Set(broll.map((b) => b.src)).size} · recicladas ${reuse.length}${secMiss.length ? " · SECCIONES SIN ANCLA: " + secMiss.join(",") : ""}`);
 console.log(`TOTAL ${(durationInFrames / FPS / 60).toFixed(1)} min`);
