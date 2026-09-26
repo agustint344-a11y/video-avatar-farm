@@ -3,7 +3,7 @@
 //   job: { out, prompt, images:[url], model?: "agnes-video-2.5-flash"|"agnes-video-2.5", seconds?: "5", size?: "720P" }
 import fs from "node:fs";
 const env = fs.readFileSync("C:/Users/Teje/Desktop/CLAUDE/video-avatar-farm/.env", "utf8");
-const KEYS = (env.match(/^AGNES_API_KEYS=(.*)$/m)?.[1] || env.match(/^AGNES_API_KEY=(.*)$/m)[1]).split(",").map((s) => s.trim()).filter(Boolean);
+const KEYS = (process.env.AGNES_KEYS || env.match(/^AGNES_API_KEYS=(.*)$/m)?.[1] || env.match(/^AGNES_API_KEYS=(.*)$/m)?.[1] || env.match(/^AGNES_API_KEY=(.*)$/m)[1]).split(",").map((s) => s.trim()).filter(Boolean);
 const BASE = "https://apihub.agnes-ai.com";
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const hdr = (k) => ({ Authorization: `Bearer ${k}`, "Content-Type": "application/json" });

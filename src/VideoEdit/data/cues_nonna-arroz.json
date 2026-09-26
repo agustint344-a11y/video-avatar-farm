@@ -1,0 +1,1022 @@
+{
+  "slug": "nonna-arroz",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 20812,
+  "audioSrc": "nonna-arroz.mp3",
+  "avatarSrc": "nonna-arroz_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 2,
+      "dur": 892,
+      "clip": 0
+    },
+    {
+      "from": 886,
+      "dur": 884,
+      "clip": 892
+    },
+    {
+      "from": 6598,
+      "dur": 1121,
+      "clip": 1776
+    },
+    {
+      "from": 10632,
+      "dur": 225,
+      "clip": 2897
+    },
+    {
+      "from": 11309,
+      "dur": 700,
+      "clip": 3122
+    },
+    {
+      "from": 14026,
+      "dur": 287,
+      "clip": 3822
+    },
+    {
+      "from": 17056,
+      "dur": 408,
+      "clip": 4109
+    },
+    {
+      "from": 19261,
+      "dur": 427,
+      "clip": 4517
+    },
+    {
+      "from": 19968,
+      "dur": 808,
+      "clip": 4944
+    }
+  ],
+  "broll": [
+    {
+      "from": 1770,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_C01.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1950,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_C02.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2112,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_C03.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2292,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_C04.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2463,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_D01.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2643,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_D02.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2823,
+      "dur": 205,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_D03.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3238,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_D04.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3418,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_D05.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3589,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_D06.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3769,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_D07.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3949,
+      "dur": 195,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_D08.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4354,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_E01.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4534,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_E02.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4705,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_E03.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4885,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_E04.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5065,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_E05.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5227,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_E06.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5407,
+      "dur": 185,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_F01.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5832,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_F02.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6012,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_F03.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6192,
+      "dur": 163,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_G01.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6505,
+      "dur": 93,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_G02.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7719,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_G03.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7890,
+      "dur": 79,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_G04.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8239,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_G05.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8419,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_G06.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8581,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_G07.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8761,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_G08.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8932,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_H01.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9112,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_H02.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9292,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_H03.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9454,
+      "dur": 188,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_H04.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9852,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_H05.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10023,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_I01.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10203,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_I02.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10383,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_I03.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10545,
+      "dur": 87,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_I04.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10857,
+      "dur": 110,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_I05.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11177,
+      "dur": 132,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_I06.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12009,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_I07.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12189,
+      "dur": 68,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_I08.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12437,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_J01.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12617,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_J02.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12788,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_K01.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12968,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_K02.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13148,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_K03.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13310,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_K04.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13490,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_K05.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13661,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_L01.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13841,
+      "dur": 185,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_L02.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14313,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_L03.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14475,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_L04.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14655,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_L05.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14826,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_L06.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15006,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_L07.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15186,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_M01.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15348,
+      "dur": 156,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_M02.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15624,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_M03.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15795,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_M04.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15975,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_M05.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16155,
+      "dur": 153,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_M06.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16578,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_M07.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16758,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_M08.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16929,
+      "dur": 127,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_M09.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17464,
+      "dur": 94,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_M10.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17738,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_N01.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17900,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_N02.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18080,
+      "dur": 100,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_O01.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18540,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_O02.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18720,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_O03.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18900,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_O04.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19062,
+      "dur": 199,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_B01.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19688,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_B02.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19859,
+      "dur": 109,
+      "kind": "video",
+      "src": "broll/nonna-arroz_v_B03.mp4",
+      "kb": 2,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1106,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "LA NONNA COCINA",
+        "title": "Nonna Lucía",
+        "sub": "hoy: el arroz"
+      }
+    },
+    {
+      "from": 2614,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 1",
+        "title": "No lavarlo"
+      }
+    },
+    {
+      "from": 4760,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 2",
+        "title": "La medida del agua"
+      }
+    },
+    {
+      "from": 6598,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    },
+    {
+      "from": 7711,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 3",
+        "title": "No tostarlo"
+      }
+    },
+    {
+      "from": 8815,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SE NACARA",
+        "sub": "cada grano con su abriguito",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 9544,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 4",
+        "title": "El agua fría"
+      }
+    },
+    {
+      "from": 10849,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 5",
+        "title": "Destapar y revolver"
+      }
+    },
+    {
+      "from": 13025,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    },
+    {
+      "from": 13583,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 6",
+        "title": "El fuego alto"
+      }
+    },
+    {
+      "from": 14782,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 7",
+        "title": "Servirlo enseguida"
+      }
+    },
+    {
+      "from": 15635,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CON TENEDOR",
+        "sub": "como si lo peinaras",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 16139,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    },
+    {
+      "from": 18037,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    },
+    {
+      "from": 19261,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 3028,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El arroz va directo del paquete a la olla.",
+        "truth": "Tiene un polvito de almidón que se hace engrudo. Lávalo hasta que el agua salga clarita."
+      }
+    },
+    {
+      "from": 4144,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Se lava o no se lava?",
+        "left": {
+          "label": "Arroz blanco suelto",
+          "sub": "sí: hasta que el agua salga clara"
+        },
+        "right": {
+          "label": "Risotto",
+          "sub": "nunca: queremos ese almidón"
+        }
+      }
+    },
+    {
+      "from": 5592,
+      "dur": 240,
+      "comp": "BigStat",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Por cada taza de arroz",
+        "value": 1.75,
+        "suffix": " tazas",
+        "support": "de agua · y mira siempre el paquete"
+      }
+    },
+    {
+      "from": 6355,
+      "dur": 150,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "La medida de la nonna",
+        "items": [
+          "1 taza de arroz",
+          "1 ¾ tazas de agua",
+          "1 cucharadita rasa de sal"
+        ]
+      }
+    },
+    {
+      "from": 7969,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Error 3",
+        "title": "Tostar antes del agua",
+        "steps": [
+          {
+            "title": "Un chorrito de aceite",
+            "sub": "poquito"
+          },
+          {
+            "title": "Medio diente de ajo aplastado",
+            "sub": "en el aceite tibio"
+          },
+          {
+            "title": "El arroz lavado, 2 minutos",
+            "sub": "revolviendo hasta que se ponga transparente"
+          }
+        ]
+      }
+    },
+    {
+      "from": 9642,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "El agua",
+        "left": {
+          "label": "Fría",
+          "sub": "se corta el hervor · queda harinoso"
+        },
+        "right": {
+          "label": "Caliente",
+          "sub": "sigue hirviendo · sale suelto"
+        }
+      }
+    },
+    {
+      "from": 10967,
+      "dur": 210,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Error 5",
+        "title": "No se toca",
+        "steps": [
+          {
+            "when": "Hierve",
+            "text": "Fuego al mínimo y tapa"
+          },
+          {
+            "when": "16-18 min",
+            "text": "Sin destapar ni revolver"
+          },
+          {
+            "when": "Apagar",
+            "text": "5 minutos más tapado"
+          }
+        ]
+      }
+    },
+    {
+      "from": 12257,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "⚠️",
+        "title": "Un trapo entre la olla y la tapa",
+        "sub": "con las puntas dobladas arriba, lejos del fuego",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 15504,
+      "dur": 120,
+      "comp": "BigStat",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "El secreto",
+        "value": 5,
+        "suffix": " min",
+        "support": "de reposo tapado · y lo sueltas con un tenedor"
+      }
+    },
+    {
+      "from": 16308,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Con el arroz que sobra",
+        "title": "Los arancini de mi mamma",
+        "steps": [
+          {
+            "title": "Arroz frío + 1 huevo + queso",
+            "sub": "del día anterior"
+          },
+          {
+            "title": "Bolita con queso adentro",
+            "sub": "con las manos mojadas"
+          },
+          {
+            "title": "Huevo, pan rallado y a la sartén",
+            "sub": "hasta que se dore"
+          }
+        ]
+      }
+    },
+    {
+      "from": 17558,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "🧊",
+        "title": "El arroz que sobra",
+        "sub": "apenas se enfría, tapado al refrigerador · no lo dejes horas afuera",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 18180,
+      "dur": 360,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Los 7 errores del arroz",
+        "items": [
+          "Lavarlo (menos el del risotto)",
+          "1 taza de arroz · 1 ¾ de agua",
+          "Tostarlo con aceite y ajo",
+          "Agua caliente, nunca fría",
+          "Tapa y no tocar: 16-18 min",
+          "Fuego al mínimo",
+          "5 min de reposo y tenedor"
+        ],
+        "stamp": "¡Anótalo!"
+      }
+    }
+  ]
+}
