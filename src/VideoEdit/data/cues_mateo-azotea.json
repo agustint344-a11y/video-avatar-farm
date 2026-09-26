@@ -1,0 +1,820 @@
+{
+  "slug": "mateo-azotea",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 15825,
+  "audioSrc": "mateo-azotea.mp3",
+  "avatarSrc": "mateo-azotea_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 2,
+      "dur": 184,
+      "clip": 0
+    },
+    {
+      "from": 715,
+      "dur": 277,
+      "clip": 184
+    },
+    {
+      "from": 1688,
+      "dur": 541,
+      "clip": 461
+    },
+    {
+      "from": 4302,
+      "dur": 161,
+      "clip": 1002
+    },
+    {
+      "from": 4455,
+      "dur": 728,
+      "clip": 1163
+    },
+    {
+      "from": 10618,
+      "dur": 387,
+      "clip": 1891
+    },
+    {
+      "from": 14624,
+      "dur": 600,
+      "clip": 2278
+    },
+    {
+      "from": 15216,
+      "dur": 566,
+      "clip": 2878
+    }
+  ],
+  "broll": [
+    {
+      "from": 186,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_A01.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 366,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_A02.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 528,
+      "dur": 187,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_A03.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 992,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_B01.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1163,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_B02.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1343,
+      "dur": 222,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_B03.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2229,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_D01.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2391,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_D02.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2571,
+      "dur": 59,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_D03.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2870,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_D04.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3050,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_D05.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3230,
+      "dur": 169,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_E01.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3609,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_E02.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3789,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_E03.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3960,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_E04.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4140,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_F01.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5183,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_G01.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5345,
+      "dur": 192,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_G02.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5807,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_G03.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5978,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_G04.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6158,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_G05.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6338,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_G07.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6500,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_G08.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6680,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_H01.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6851,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_H02.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7031,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_H03.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7211,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_H04.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7373,
+      "dur": 51,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_H05.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7694,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_H06.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7865,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_H07.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8045,
+      "dur": 133,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_H08.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8358,
+      "dur": 133,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_I01.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8671,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_I02.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8851,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_I03.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9022,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_I04.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9202,
+      "dur": 112,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_I05.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9584,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_I06.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9746,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_I07.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9926,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_I08.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10097,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_I09.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10277,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_J01.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10457,
+      "dur": 161,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_J02.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11005,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_K01.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11185,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_K02.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11356,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_K03.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11536,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_L01.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11716,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_L02.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11878,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_L03.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12058,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_M01.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12229,
+      "dur": 79,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_M02.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12548,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_M03.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12728,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_M04.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12890,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_M05.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13070,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_N01.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13241,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_N02.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13421,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_O01.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13601,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_O02.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13763,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_O03.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13943,
+      "dur": 205,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_O04.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14448,
+      "dur": 176,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_K04.mp4",
+      "kb": 5,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 715,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "15 AÑOS DE OBRA",
+        "title": "Mateo",
+        "sub": "arreglos de la casa que duran"
+      }
+    },
+    {
+      "from": 1565,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 4455,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 5175,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL ERROR N°1",
+        "title": "No preparar la superficie"
+      }
+    },
+    {
+      "from": 6781,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA MEZCLA",
+        "title": "Lechada reforzada"
+      }
+    },
+    {
+      "from": 8755,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO A PASO",
+        "title": "Cómo se aplica"
+      }
+    },
+    {
+      "from": 10997,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "EL AGUA CORRE",
+        "sub": "ya no se queda en la losa",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 13466,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "💡",
+        "title": "¿Por qué no te la venden?",
+        "sub": "nadie gana vendiéndote cemento y resina para que los mezcles tú",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 14068,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 14624,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 1565,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "La cuenta",
+        "left": {
+          "label": "Balde de marca",
+          "sub": "caro · hay que volver a ponerlo"
+        },
+        "right": {
+          "label": "Cemento + resina",
+          "sub": "mucho más barato · te sobra para retocar"
+        }
+      }
+    },
+    {
+      "from": 2630,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Lo que no ves",
+        "title": "Cómo se rompe una losa",
+        "steps": [
+          {
+            "title": "El agua entra por los poros",
+            "sub": "cada vez que llueve"
+          },
+          {
+            "title": "El hierro de adentro se oxida",
+            "sub": "y el óxido ocupa mucho más lugar"
+          },
+          {
+            "title": "Empuja y rompe el cemento",
+            "sub": "grietas y hierro a la vista"
+          }
+        ]
+      }
+    },
+    {
+      "from": 3399,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "La pintura de la ferretería es mala.",
+        "truth": "Casi siempre se pone mal: sobre losa sucia o húmeda. El agua atrapada hace vapor, se infla y se pela."
+      }
+    },
+    {
+      "from": 5537,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Preparar la azotea",
+        "items": [
+          "Barrer todo",
+          "Raspar el musgo",
+          "Lavar con agua y detergente",
+          "Secar 1-2 días de sol",
+          "Tapar antes las grietas grandes"
+        ]
+      }
+    },
+    {
+      "from": 7424,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "La mezcla",
+        "title": "Para una tanda chica",
+        "steps": [
+          {
+            "title": "4 litros de agua + 1 litro de resina acrílica",
+            "sub": "al agua, transparente"
+          },
+          {
+            "title": "Cemento blanco de a poco",
+            "sub": "unas 10 tazas: textura de pintura espesa"
+          },
+          {
+            "title": "Una cucharada de detergente",
+            "sub": "ayuda a que entre en los poros"
+          }
+        ]
+      }
+    },
+    {
+      "from": 8178,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "⚠️",
+        "title": "Guantes y antiparras",
+        "sub": "el cemento es muy alcalino: quema la piel y los ojos",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 8491,
+      "dur": 180,
+      "comp": "BigStat",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Empieza a fraguar",
+        "value": 1,
+        "suffix": " hora",
+        "support": "prepara solo lo que vas a usar en la próxima hora"
+      }
+    },
+    {
+      "from": 9314,
+      "dur": 270,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "La aplicación",
+        "title": "El horario importa",
+        "steps": [
+          {
+            "when": "Mañana temprano",
+            "text": "Losa fresca y apenas húmeda: 1ª mano con secador de goma y rodillo"
+          },
+          {
+            "when": "Tarde",
+            "text": "2ª mano cruzada, cuando baja el sol"
+          },
+          {
+            "when": "2-3 días",
+            "text": "Rocío de agua fina a la tarde: curar"
+          }
+        ]
+      }
+    },
+    {
+      "from": 12308,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que siempre me preguntan",
+        "items": [
+          "¿Cuánto dura? Varios años: revísala 1 vez al año",
+          "¿En chapa? No: solo cemento, ladrillo, revoque",
+          "¿Color? Sí, con colorante; el blanco es el más fresco",
+          "¿Pintura vieja? Sacar todo lo que se pela"
+        ]
+      }
+    },
+    {
+      "from": 14148,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Los 5 errores que arruinan todo",
+        "items": [
+          "Pintar sobre la losa sucia",
+          "Pintar sobre la losa mojada",
+          "Aplicar al mediodía con la losa caliente",
+          "Preparar más mezcla de la que usas en 1 hora",
+          "No curarla (secado de golpe)"
+        ],
+        "stamp": "¡Anótalo!"
+      }
+    }
+  ]
+}
