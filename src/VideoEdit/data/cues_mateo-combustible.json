@@ -34,7 +34,7 @@
     },
     {
       "from": 52103,
-      "dur": 1495,
+      "dur": 1461,
       "clip": 2078
     }
   ],
@@ -1845,6 +1845,14 @@
       "kind": "image",
       "src": "img/mateo-combustible_s156.png",
       "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 53564,
+      "dur": 41,
+      "kind": "image",
+      "src": "img/mateo-combustible_s157.png",
+      "kb": 4,
       "pip": false
     }
   ],
