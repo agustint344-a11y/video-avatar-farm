@@ -1,0 +1,1651 @@
+{
+  "slug": "mateo-temperatura",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 43155,
+  "audioSrc": "mateo-temperatura.mp3",
+  "avatarSrc": "mateo-temperatura_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 0,
+      "dur": 627,
+      "clip": 0
+    },
+    {
+      "from": 1169,
+      "dur": 593,
+      "clip": 627
+    },
+    {
+      "from": 6120,
+      "dur": 578,
+      "clip": 1220
+    },
+    {
+      "from": 32730,
+      "dur": 128,
+      "clip": 1798
+    },
+    {
+      "from": 42060,
+      "dur": 1050,
+      "clip": 1926
+    }
+  ],
+  "broll": [
+    {
+      "from": 627,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 957,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s03.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 1762,
+      "dur": 43,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2015,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s05.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2345,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s05.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2420,
+      "dur": 310,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s07.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2730,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s09.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2970,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3570,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s12.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3690,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s13.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4020,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s11.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4080,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s14.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4149,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s15.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4320,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s34.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4620,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s16.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4710,
+      "dur": 331,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s17.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5041,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s18.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5250,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5460,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s20.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5970,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6698,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s21.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6900,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s22.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7230,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s23.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7560,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s23.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7620,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s24.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7950,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s24.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8040,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s25.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8370,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s25.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8880,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s27.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9210,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s29.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9540,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s30.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9690,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s31.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9960,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s32.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10290,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s50.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10440,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s33.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10770,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s33.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10980,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s35.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11340,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s26.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11550,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s36.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11820,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s37.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11970,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s38.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12360,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s40.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12690,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s39.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12813,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s41.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13230,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s42.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13320,
+      "dur": 275,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s43.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13595,
+      "dur": 295,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s44.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13890,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s45.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14040,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s46.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14370,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s46.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14580,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s47.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14700,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s48.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15030,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s48.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15150,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s49.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15480,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s49.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15810,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s51.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16140,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s51.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16290,
+      "dur": 360,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s52.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16650,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s53.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16980,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s53.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17404,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s75.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17580,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s55.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17910,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s56.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18150,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s57.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18450,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s58.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18720,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s59.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18910,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s60.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19240,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s60.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19380,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s61.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19590,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s62.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20190,
+      "dur": 91,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s64.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20281,
+      "dur": 359,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s65.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20640,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s66.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20970,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s66.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21060,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s67.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21390,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s67.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21720,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s67.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21810,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s68.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22050,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s69.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22260,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s70.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22830,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s71.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22980,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s72.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23220,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s73.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23550,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s73.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23640,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s74.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23970,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s74.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24300,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s74.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24547,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s76.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24877,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s76.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24960,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s77.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25290,
+      "dur": 360,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s78.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25650,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s79.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25830,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s80.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26160,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s81.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26490,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s81.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26820,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s81.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26880,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s82.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27210,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s82.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27330,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s83.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27660,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s83.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27990,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s83.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28320,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s83.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28590,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s84.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28920,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s85.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29250,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s85.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29550,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s86.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29850,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s87.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30180,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s87.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30390,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s88.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30720,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s89.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31140,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s90.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31380,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s91.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31710,
+      "dur": 360,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s91.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32070,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s92.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32400,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s92.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32858,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s99.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32940,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s100.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33210,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s101.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33540,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s102.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33660,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s28.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33840,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s103.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34170,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s103.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34290,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s93.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 34530,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s94.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34860,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s94.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 35100,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s95.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 35430,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s95.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 35700,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s96.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 36030,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s96.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 36360,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s96.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 36690,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s97.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 37020,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s97.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 37080,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s98.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 37410,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s98.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 37860,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s104.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 38070,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s105.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 38400,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s105.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 38730,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s105.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 38790,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s106.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 38869,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s107.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 39199,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s107.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 39390,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s108.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 39720,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s108.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 39900,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s109.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 40230,
+      "dur": 61,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s109.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 40291,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s110.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 40621,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s110.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 41222,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s111.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 41552,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s111.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 41882,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s111.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 43110,
+      "dur": 45,
+      "kind": "image",
+      "src": "img/mateo-temperatura_s112.png",
+      "kb": 0,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1169,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "15 AÑOS DE OBRA Y TALLER",
+        "title": "Mateo",
+        "sub": "arreglos que te ahorran plata"
+      }
+    },
+    {
+      "from": 2970,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LO BÁSICO",
+        "title": "Cómo se enfría el motor"
+      }
+    },
+    {
+      "from": 6120,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 6690,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NÚMERO 1",
+        "title": "El electroventilador"
+      }
+    },
+    {
+      "from": 6690,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 7620,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "✋",
+        "title": "Cuidado con el ventilador",
+        "sub": "puede arrancar solo, aun con el motor apagado",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 10440,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NÚMERO 2",
+        "title": "El nivel del refrigerante"
+      }
+    },
+    {
+      "from": 12813,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NÚMERO 3",
+        "title": "¿Agua o refrigerante?"
+      }
+    },
+    {
+      "from": 14580,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NÚMERO 4",
+        "title": "El radiador tapado"
+      }
+    },
+    {
+      "from": 16650,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NÚMERO 5",
+        "title": "El termostato"
+      }
+    },
+    {
+      "from": 17910,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NÚMERO 6",
+        "title": "La bomba de agua"
+      }
+    },
+    {
+      "from": 18720,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NÚMERO 7",
+        "title": "La tapa"
+      }
+    },
+    {
+      "from": 19590,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EMERGENCIA",
+        "title": "Cuando la aguja sube"
+      }
+    },
+    {
+      "from": 23640,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "BONUS",
+        "title": "Mangueras, aire y viajes"
+      }
+    },
+    {
+      "from": 30720,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MITOS",
+        "title": "Tres mitos del recalentamiento"
+      }
+    },
+    {
+      "from": 37620,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 38790,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PREGUNTAS",
+        "title": "Lo que siempre me preguntan"
+      }
+    },
+    {
+      "from": 40742,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 42060,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 1805,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-temperatura_s06.png",
+        "eyebrow": "La regla más importante",
+        "phrase": "Nunca abras el radiador con el motor caliente.",
+        "accent": "Nunca"
+      }
+    },
+    {
+      "from": 3210,
+      "dur": 360,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "El sistema",
+        "title": "Cómo se enfría el motor",
+        "steps": [
+          {
+            "title": "El refrigerante se lleva el calor",
+            "sub": "lo mueve la bomba de agua"
+          },
+          {
+            "title": "El radiador lo enfría con aire",
+            "sub": "el termostato decide cuándo va"
+          },
+          {
+            "title": "En el tráfico, el aire lo da el electroventilador",
+            "sub": "en la ruta, el viento"
+          }
+        ]
+      }
+    },
+    {
+      "from": 5790,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-temperatura_s18.png",
+        "eyebrow": "Grábatelo",
+        "phrase": "Si se calienta en el tráfico y no en la ruta: el ventilador.",
+        "accent": "el ventilador"
+      }
+    },
+    {
+      "from": 8520,
+      "dur": 360,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Si el ventilador no arranca",
+        "items": [
+          "Fusible (barato)",
+          "Relé (barato, a mano)",
+          "Sensor o termocontacto",
+          "Cable o conector sulfatado",
+          "El motor del ventilador"
+        ]
+      }
+    },
+    {
+      "from": 11190,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-temperatura_s33.png",
+        "eyebrow": "El refrigerante",
+        "phrase": "No se gasta. Si baja, pierde.",
+        "accent": "pierde"
+      }
+    },
+    {
+      "from": 12150,
+      "dur": 210,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "⚠️",
+        "title": "Humo blanco dulce o aceite como batido",
+        "sub": "puede ser la junta de la tapa de cilindros: al taller ya",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 12990,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Agua de la canilla es lo mismo.",
+        "truth": "El refrigerante hierve más alto, no se congela y protege de la corrosión. El agua sola forma sarro."
+      }
+    },
+    {
+      "from": 17134,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Mangueras y correas",
+        "items": [
+          "Mangueras firmes y elásticas, sin grietas",
+          "Abrazaderas sin óxido ni costras",
+          "Correa de accesorios sin grietas ni brillo",
+          "Distribución: el cambio del manual"
+        ]
+      }
+    },
+    {
+      "from": 19770,
+      "dur": 420,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Cuando la aguja sube",
+        "title": "El truco que parece al revés",
+        "steps": [
+          {
+            "title": "Apaga el aire acondicionado",
+            "sub": ""
+          },
+          {
+            "title": "Calefacción al MÁXIMO + ventanillas",
+            "sub": "suma un segundo radiador"
+          },
+          {
+            "title": "Si llega al rojo: para y apaga",
+            "sub": "no abras nada en caliente"
+          }
+        ]
+      }
+    },
+    {
+      "from": 22560,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Una vez parado",
+        "items": [
+          "No abras el radiador: espera que enfríe",
+          "No tires agua fría al motor caliente",
+          "En frío: revisa y completa el nivel",
+          "Llévalo a revisar: va a volver a pasar"
+        ]
+      }
+    },
+    {
+      "from": 30900,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Si se calienta, abro el radiador para que respire.",
+        "truth": "Nunca: sale hirviendo a presión. El sistema trabaja cerrado."
+      }
+    },
+    {
+      "from": 37620,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "La cuenta",
+        "left": {
+          "label": "Motor recalentado",
+          "sub": "tapa deformada, junta quemada, a veces no conviene arreglarlo"
+        },
+        "right": {
+          "label": "Revisar y parar a tiempo",
+          "sub": "fusible, relé, sensor, tapa, termostato"
+        }
+      }
+    },
+    {
+      "from": 40742,
+      "dur": 480,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Se calienta en el tráfico",
+        "items": [
+          "Electroventilador (fusible, relé, sensor)",
+          "Nivel en frío y buscar la pérdida",
+          "Refrigerante, no agua",
+          "Radiador limpio por fuera y por dentro",
+          "Termostato y bomba de agua",
+          "La tapa",
+          "Aguja arriba: aire off, calefacción al máximo"
+        ],
+        "stamp": "¡Anótalo!"
+      }
+    }
+  ]
+}
