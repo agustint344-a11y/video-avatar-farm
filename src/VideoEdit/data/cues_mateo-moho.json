@@ -1,0 +1,1910 @@
+{
+  "slug": "mateo-moho",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 50475,
+  "audioSrc": "mateo-moho.mp3",
+  "avatarSrc": "mateo-moho_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 615,
+      "dur": 1464,
+      "clip": 0
+    },
+    {
+      "from": 8909,
+      "dur": 630,
+      "clip": 1464
+    },
+    {
+      "from": 29866,
+      "dur": 146,
+      "clip": 2094
+    },
+    {
+      "from": 49541,
+      "dur": 895,
+      "clip": 2240
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/mateo-moho_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 125,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/mateo-moho_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 208,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/mateo-moho_s03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 291,
+      "dur": 91,
+      "kind": "image",
+      "src": "img/mateo-moho_s04.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 382,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/mateo-moho_s05.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 489,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/mateo-moho_s06.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2079,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s11.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2409,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/mateo-moho_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2648,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/mateo-moho_s12.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3161,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/mateo-moho_s13.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3338,
+      "dur": 245,
+      "kind": "image",
+      "src": "img/mateo-moho_s14.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3583,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s15.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3913,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/mateo-moho_s15.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4035,
+      "dur": 289,
+      "kind": "image",
+      "src": "img/mateo-moho_s16.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4324,
+      "dur": 238,
+      "kind": "image",
+      "src": "img/mateo-moho_s17.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4832,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/mateo-moho_s19.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4960,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/mateo-moho_s20.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5237,
+      "dur": 333,
+      "kind": "image",
+      "src": "img/mateo-moho_s21.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5570,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/mateo-moho_s22.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5671,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s23.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6001,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/mateo-moho_s23.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6146,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/mateo-moho_s24.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6383,
+      "dur": 351,
+      "kind": "image",
+      "src": "img/mateo-moho_s25.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6734,
+      "dur": 218,
+      "kind": "image",
+      "src": "img/mateo-moho_s26.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6952,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/mateo-moho_s27.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7120,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s28.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7450,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/mateo-moho_s28.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7916,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/mateo-moho_s30.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8099,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/mateo-moho_s31.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8206,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/mateo-moho_s32.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8318,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/mateo-moho_s33.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8546,
+      "dur": 363,
+      "kind": "image",
+      "src": "img/mateo-moho_s34.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9539,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/mateo-moho_s29.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9608,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/mateo-moho_s35.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10001,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/mateo-moho_s37.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10133,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s42.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10463,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/mateo-moho_s38.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10679,
+      "dur": 288,
+      "kind": "image",
+      "src": "img/mateo-moho_s39.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11177,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s40.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11507,
+      "dur": 289,
+      "kind": "image",
+      "src": "img/mateo-moho_s40.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12096,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s41.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12426,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s41.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12756,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s41.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13086,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/mateo-moho_s41.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13210,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s43.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13540,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/mateo-moho_s43.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13672,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s44.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14002,
+      "dur": 265,
+      "kind": "image",
+      "src": "img/mateo-moho_s44.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14267,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/mateo-moho_s45.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14514,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/mateo-moho_s46.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14668,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s47.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14998,
+      "dur": 352,
+      "kind": "image",
+      "src": "img/mateo-moho_s47.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15350,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/mateo-moho_s48.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15946,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/mateo-moho_s50.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16154,
+      "dur": 269,
+      "kind": "image",
+      "src": "img/mateo-moho_s51.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16423,
+      "dur": 349,
+      "kind": "image",
+      "src": "img/mateo-moho_s52.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16772,
+      "dur": 245,
+      "kind": "image",
+      "src": "img/mateo-moho_s53.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17017,
+      "dur": 315,
+      "kind": "image",
+      "src": "img/mateo-moho_s54.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17332,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/mateo-moho_s55.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17446,
+      "dur": 267,
+      "kind": "image",
+      "src": "img/mateo-moho_s56.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17713,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s57.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18043,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/mateo-moho_s57.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18158,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/mateo-moho_s58.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18304,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/mateo-moho_s59.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18524,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s60.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18854,
+      "dur": 264,
+      "kind": "image",
+      "src": "img/mateo-moho_s60.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19118,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s61.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19448,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/mateo-moho_s61.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19513,
+      "dur": 361,
+      "kind": "image",
+      "src": "img/mateo-moho_s62.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19874,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/mateo-moho_s63.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19985,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/mateo-moho_s64.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20351,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/mateo-moho_s49.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20477,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/mateo-moho_s65.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20680,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s66.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21010,
+      "dur": 80,
+      "kind": "image",
+      "src": "img/mateo-moho_s66.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21240,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-moho_s68.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21390,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s69.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21720,
+      "dur": 335,
+      "kind": "image",
+      "src": "img/mateo-moho_s67.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22055,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/mateo-moho_s70.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22272,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/mateo-moho_s71.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22475,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s72.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22805,
+      "dur": 80,
+      "kind": "image",
+      "src": "img/mateo-moho_s72.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22885,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s73.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23215,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s73.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23545,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/mateo-moho_s73.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23716,
+      "dur": 344,
+      "kind": "image",
+      "src": "img/mateo-moho_s74.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24060,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/mateo-moho_s75.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24217,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/mateo-moho_s76.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24348,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/mateo-moho_s77.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24509,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s101.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24839,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s101.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25169,
+      "dur": 305,
+      "kind": "image",
+      "src": "img/mateo-moho_s101.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25474,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s103.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25804,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/mateo-moho_s103.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26008,
+      "dur": 271,
+      "kind": "image",
+      "src": "img/mateo-moho_s104.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26279,
+      "dur": 302,
+      "kind": "image",
+      "src": "img/mateo-moho_s105.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26581,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s106.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26911,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/mateo-moho_s106.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27160,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s107.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27490,
+      "dur": 268,
+      "kind": "image",
+      "src": "img/mateo-moho_s107.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27758,
+      "dur": 339,
+      "kind": "image",
+      "src": "img/mateo-moho_s108.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28097,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/mateo-moho_s109.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28603,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/mateo-moho_s36.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28672,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s110.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29002,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s110.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29332,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s110.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29662,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/mateo-moho_s110.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30012,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/mateo-moho_s111.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30130,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s112.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30460,
+      "dur": 51,
+      "kind": "image",
+      "src": "img/mateo-moho_s112.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30661,
+      "dur": 322,
+      "kind": "image",
+      "src": "img/mateo-moho_s114.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30983,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/mateo-moho_s115.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31178,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s116.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31508,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/mateo-moho_s116.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31571,
+      "dur": 377,
+      "kind": "image",
+      "src": "img/mateo-moho_s117.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31948,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-moho_s118.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32068,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/mateo-moho_s78.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32250,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s79.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32580,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/mateo-moho_s79.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32706,
+      "dur": 233,
+      "kind": "image",
+      "src": "img/mateo-moho_s81.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32939,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/mateo-moho_s82.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33187,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s83.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33517,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s83.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33847,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/mateo-moho_s83.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33924,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s84.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 34254,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s80.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 34584,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/mateo-moho_s80.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34754,
+      "dur": 336,
+      "kind": "image",
+      "src": "img/mateo-moho_s85.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 35090,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/mateo-moho_s86.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 35214,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s87.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 35544,
+      "dur": 251,
+      "kind": "image",
+      "src": "img/mateo-moho_s87.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 35795,
+      "dur": 261,
+      "kind": "image",
+      "src": "img/mateo-moho_s88.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 36056,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s89.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 36386,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/mateo-moho_s89.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 36625,
+      "dur": 299,
+      "kind": "image",
+      "src": "img/mateo-moho_s90.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 36924,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s91.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 37254,
+      "dur": 64,
+      "kind": "image",
+      "src": "img/mateo-moho_s91.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 37318,
+      "dur": 292,
+      "kind": "image",
+      "src": "img/mateo-moho_s92.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 37610,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/mateo-moho_s93.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 38196,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/mateo-moho_s94.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 38387,
+      "dur": 308,
+      "kind": "image",
+      "src": "img/mateo-moho_s95.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 38695,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s96.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 39025,
+      "dur": 289,
+      "kind": "image",
+      "src": "img/mateo-moho_s96.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 39314,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s97.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 39644,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/mateo-moho_s97.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 39739,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s98.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 40069,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s98.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 40399,
+      "dur": 297,
+      "kind": "image",
+      "src": "img/mateo-moho_s98.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 40696,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/mateo-moho_s99.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 40844,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s100.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 41174,
+      "dur": 299,
+      "kind": "image",
+      "src": "img/mateo-moho_s100.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 41473,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s119.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 41803,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s119.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 42133,
+      "dur": 265,
+      "kind": "image",
+      "src": "img/mateo-moho_s119.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 42698,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s121.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 43028,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/mateo-moho_s120.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 43194,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/mateo-moho_s122.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 43538,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s113.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 43868,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/mateo-moho_s113.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 44242,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s123.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 44572,
+      "dur": 339,
+      "kind": "image",
+      "src": "img/mateo-moho_s123.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 44911,
+      "dur": 341,
+      "kind": "image",
+      "src": "img/mateo-moho_s124.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 45252,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s125.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 45582,
+      "dur": 274,
+      "kind": "image",
+      "src": "img/mateo-moho_s125.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 45856,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s126.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 46186,
+      "dur": 303,
+      "kind": "image",
+      "src": "img/mateo-moho_s126.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 46699,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s127.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 47029,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/mateo-moho_s127.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 47198,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho_s128.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 47528,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/mateo-moho_s128.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 47758,
+      "dur": 294,
+      "kind": "image",
+      "src": "img/mateo-moho_s129.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 48052,
+      "dur": 331,
+      "kind": "image",
+      "src": "img/mateo-moho_s130.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 48383,
+      "dur": 317,
+      "kind": "image",
+      "src": "img/mateo-moho_s131.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 49180,
+      "dur": 361,
+      "kind": "image",
+      "src": "img/mateo-moho_s132.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 50436,
+      "dur": 39,
+      "kind": "image",
+      "src": "img/mateo-moho_s133.png",
+      "kb": 0,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1271,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "15 AÑOS DE OBRA",
+        "title": "Mateo",
+        "sub": "arreglos de la casa que duran"
+      }
+    },
+    {
+      "from": 2133,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LO BÁSICO",
+        "title": "¿Qué es el moho?"
+      }
+    },
+    {
+      "from": 5570,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA CLAVE",
+        "title": "La condensación"
+      }
+    },
+    {
+      "from": 6734,
+      "dur": 150,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "COMO UNA BOTELLA DE LA HELADERA",
+        "sub": "aire caliente + superficie fría = agua",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 8909,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 9608,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA LIMPIEZA",
+        "title": "Y el error de la lavandina"
+      }
+    },
+    {
+      "from": 13672,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "😷",
+        "title": "Guantes, barbijo y ventilación",
+        "sub": "al frotar se sueltan esporas al aire",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 15350,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA SOLUCIÓN",
+        "title": "Bajar la humedad del aire"
+      }
+    },
+    {
+      "from": 15350,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 17713,
+      "dur": 210,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "⚠️",
+        "title": "Monóxido de carbono",
+        "sub": "estufa sin salida = ventilación sí o sí. Mata sin avisar.",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 20477,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL TRUCO",
+        "title": "La pared fría"
+      }
+    },
+    {
+      "from": 24509,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO A PASO",
+        "title": "Aislar el rincón frío"
+      }
+    },
+    {
+      "from": 32068,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CASOS ESPECIALES",
+        "title": "Baño, placard y pintura"
+      }
+    },
+    {
+      "from": 41473,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "¿O ES OTRA COSA?",
+        "title": "Filtración o condensación"
+      }
+    },
+    {
+      "from": 43194,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MITOS",
+        "title": "Cinco mitos del moho"
+      }
+    },
+    {
+      "from": 46489,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 47198,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PREGUNTAS",
+        "title": "Lo que siempre me preguntan"
+      }
+    },
+    {
+      "from": 48700,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 49541,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 2921,
+      "dur": 240,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "🫁",
+        "title": "El moho también es salud",
+        "sub": "chicos, mayores, asma y alergias: si hay mucho, es prioridad",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 4562,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "El moho necesita 3 cosas",
+        "items": [
+          "Humedad (la única que controlas)",
+          "Comida: polvo, papel del yeso, pintura, madera",
+          "Temperatura templada"
+        ]
+      }
+    },
+    {
+      "from": 5087,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-moho_s16.png",
+        "eyebrow": "Grábatelo",
+        "phrase": "El moho se combate con la humedad, no con la lavandina.",
+        "accent": "la humedad"
+      }
+    },
+    {
+      "from": 7556,
+      "dur": 360,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "El vapor lo fabricamos nosotros",
+        "items": [
+          "Respirar toda la noche en el dormitorio",
+          "Cocinar sin tapa",
+          "Bañarse con agua caliente",
+          "Secar ropa adentro (la que más)",
+          "Estufas sin salida al exterior"
+        ]
+      }
+    },
+    {
+      "from": 9761,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Si queda blanco con lavandina, se terminó.",
+        "truth": "Blanquea lo de afuera; en lo poroso el moho sigue adentro. Y le das más agua."
+      }
+    },
+    {
+      "from": 10967,
+      "dur": 210,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "☠️",
+        "title": "Nunca mezcles lavandina",
+        "sub": "con amoníaco, vinagre ni limpiadores de baño: gases tóxicos",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 11796,
+      "dur": 300,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Cómo se limpia",
+        "left": {
+          "label": "Lisas: azulejo, vidrio, plástico",
+          "sub": "detergente + lavandina diluida 1:10"
+        },
+        "right": {
+          "label": "Porosas: pared, yeso, madera",
+          "sub": "antimoho o vinagre blanco, y secar bien"
+        }
+      }
+    },
+    {
+      "from": 15526,
+      "dur": 420,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Cortar la causa",
+        "items": [
+          "Ventilar 10-15 min cada mañana",
+          "Baño: extractor o ventana, puerta cerrada",
+          "Cocina: tapa y extractor",
+          "Ropa afuera, nunca en el dormitorio",
+          "Estufas con salida al exterior",
+          "Muebles a 5-10 cm de las paredes"
+        ]
+      }
+    },
+    {
+      "from": 20171,
+      "dur": 180,
+      "comp": "BigStat",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Higrómetro",
+        "value": 60,
+        "suffix": " %",
+        "support": "ideal entre 40 y 60 % de humedad adentro"
+      }
+    },
+    {
+      "from": 21090,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-moho_s66.png",
+        "eyebrow": "El truco de la pared fría",
+        "phrase": "El moho aparece donde la pared está más fría.",
+        "accent": "más fría"
+      }
+    },
+    {
+      "from": 28243,
+      "dur": 360,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Rutina de invierno",
+        "items": [
+          "Diario: ventilar, extractor, tapa, secar vidrios",
+          "Semanal: higrómetro y revisar rincones",
+          "Mensual: placards, deshumidificador, guías",
+          "Al empezar: estufas y muebles separados"
+        ]
+      }
+    },
+    {
+      "from": 30511,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-moho_s113.png",
+        "eyebrow": "El dormitorio del bebé",
+        "phrase": "El higrómetro marcaba 80 %.",
+        "accent": "80 %"
+      }
+    },
+    {
+      "from": 37806,
+      "dur": 390,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "El baño",
+        "title": "Pintar para que no vuelva",
+        "steps": [
+          {
+            "title": "Antimoho + lavar la grasa del jabón",
+            "sub": "y enjuagar"
+          },
+          {
+            "title": "Secar 1-2 días, raspar y lijar",
+            "sub": "fijador si está polvorienta"
+          },
+          {
+            "title": "Pintura lavable con fungicida",
+            "sub": "y después: extractor siempre"
+          }
+        ]
+      }
+    },
+    {
+      "from": 42398,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "¿Condensación o filtración?",
+        "title": "La prueba del aluminio",
+        "steps": [
+          {
+            "title": "Pega un cuadrado de aluminio",
+            "sub": "bien sellado con cinta"
+          },
+          {
+            "title": "Espera 1-2 días",
+            "sub": ""
+          },
+          {
+            "title": "Mojado afuera = condensación",
+            "sub": "mojado del lado de la pared = filtración"
+          }
+        ]
+      }
+    },
+    {
+      "from": 43388,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-moho_s122.png",
+        "eyebrow": "Mito 1",
+        "phrase": "El moho no es de casas sucias. Es de casas húmedas.",
+        "accent": "húmedas"
+      }
+    },
+    {
+      "from": 44002,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Ventilar en invierno enfría la casa y es peor.",
+        "truth": "10 minutos fuertes casi no enfrían paredes ni muebles, y el aire de afuera se calienta seco."
+      }
+    },
+    {
+      "from": 46489,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "La cuenta",
+        "left": {
+          "label": "Repintar cada invierno",
+          "sub": "y tirar colchones, ropa y muebles"
+        },
+        "right": {
+          "label": "Cortar la causa",
+          "sub": "antimoho, higrómetro y hábitos"
+        }
+      }
+    },
+    {
+      "from": 48700,
+      "dur": 480,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Por qué el moho vuelve",
+        "items": [
+          "Solo lavandina",
+          "Mezclar productos",
+          "No ventilar en invierno",
+          "Secar ropa adentro",
+          "Estufas sin salida",
+          "Muebles pegados a la pared",
+          "Pintar sin cortar la causa"
+        ],
+        "stamp": "¡Anótalo!"
+      }
+    }
+  ]
+}
