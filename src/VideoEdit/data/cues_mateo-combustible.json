@@ -1,0 +1,2637 @@
+{
+  "slug": "mateo-combustible",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 53605,
+  "audioSrc": "mateo-combustible.mp3",
+  "avatarSrc": "mateo-combustible_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 0,
+      "dur": 316,
+      "clip": 0
+    },
+    {
+      "from": 1187,
+      "dur": 726,
+      "clip": 316
+    },
+    {
+      "from": 9036,
+      "dur": -6256,
+      "clip": 1042
+    },
+    {
+      "from": 35995,
+      "dur": 229,
+      "clip": -5214
+    },
+    {
+      "from": 52103,
+      "dur": 1495,
+      "clip": -4985
+    }
+  ],
+  "broll": [
+    {
+      "from": 316,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/mateo-combustible_s158.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 493,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/mateo-combustible_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 600,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/mateo-combustible_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 721,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/mateo-combustible_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 976,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/mateo-combustible_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1134,
+      "dur": 53,
+      "kind": "image",
+      "src": "img/mateo-combustible_s05.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1913,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/mateo-combustible_s07.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2080,
+      "dur": 368,
+      "kind": "image",
+      "src": "img/mateo-combustible_s08.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2448,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/mateo-combustible_s53.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2678,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/mateo-combustible_s159.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2885,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/mateo-combustible_s11.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3044,
+      "dur": 259,
+      "kind": "image",
+      "src": "img/mateo-combustible_s12.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3303,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/mateo-combustible_s13.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3419,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/mateo-combustible_s160.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3542,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/mateo-combustible_s14.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3706,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/mateo-combustible_s15.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3815,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/mateo-combustible_s161.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4007,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/mateo-combustible_s16.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4131,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/mateo-combustible_s17.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4514,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/mateo-combustible_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4655,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/mateo-combustible_s18.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4764,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/mateo-combustible_s19.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4846,
+      "dur": 291,
+      "kind": "image",
+      "src": "img/mateo-combustible_s20.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5137,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/mateo-combustible_s21.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5315,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/mateo-combustible_s163.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5396,
+      "dur": 317,
+      "kind": "image",
+      "src": "img/mateo-combustible_s22.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5953,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/mateo-combustible_s164.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6194,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/mateo-combustible_s123.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6473,
+      "dur": 56,
+      "kind": "image",
+      "src": "img/mateo-combustible_s24.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6529,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/mateo-combustible_s25.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6605,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/mateo-combustible_s165.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6905,
+      "dur": 365,
+      "kind": "image",
+      "src": "img/mateo-combustible_s26.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7270,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/mateo-combustible_s27.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7507,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/mateo-combustible_s167.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7706,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/mateo-combustible_s28.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7833,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/mateo-combustible_s29.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8027,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-combustible_s30.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8357,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/mateo-combustible_s30.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8456,
+      "dur": 298,
+      "kind": "image",
+      "src": "img/mateo-combustible_s31.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8754,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/mateo-combustible_s32.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8837,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/mateo-combustible_s33.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8936,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/mateo-combustible_s168.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6473,
+      "dur": 56,
+      "kind": "image",
+      "src": "img/mateo-combustible_s23.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6529,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/mateo-combustible_s25.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6605,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/mateo-combustible_s165.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6905,
+      "dur": 365,
+      "kind": "image",
+      "src": "img/mateo-combustible_s26.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7270,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/mateo-combustible_s27.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7507,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/mateo-combustible_s167.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7706,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/mateo-combustible_s28.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7833,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/mateo-combustible_s29.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8027,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-combustible_s30.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8357,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/mateo-combustible_s30.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8456,
+      "dur": 298,
+      "kind": "image",
+      "src": "img/mateo-combustible_s31.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8754,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/mateo-combustible_s32.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8837,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/mateo-combustible_s33.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8936,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/mateo-combustible_s168.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9168,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-combustible_s152.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9498,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/mateo-combustible_s152.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9717,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/mateo-combustible_s34.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9828,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/mateo-combustible_s169.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10044,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/mateo-combustible_s80.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10171,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/mateo-combustible_s35.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10314,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/mateo-combustible_s36.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10422,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/mateo-combustible_s170.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10506,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/mateo-combustible_s37.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10638,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/mateo-combustible_s171.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10796,
+      "dur": 91,
+      "kind": "image",
+      "src": "img/mateo-combustible_s38.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10887,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-combustible_s39.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11217,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/mateo-combustible_s166.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11388,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/mateo-combustible_s172.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11573,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/mateo-combustible_s40.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11692,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/mateo-combustible_s41.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11869,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/mateo-combustible_s173.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11954,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/mateo-combustible_s42.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12076,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/mateo-combustible_s174.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12160,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/mateo-combustible_s43.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12323,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/mateo-combustible_s175.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12515,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/mateo-combustible_s44.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13008,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/mateo-combustible_s176.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13315,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/mateo-combustible_s47.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13568,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/mateo-combustible_s49.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13708,
+      "dur": 376,
+      "kind": "image",
+      "src": "img/mateo-combustible_s177.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14084,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/mateo-combustible_s178.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14233,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/mateo-combustible_s179.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14340,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/mateo-combustible_s50.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14679,
+      "dur": 56,
+      "kind": "image",
+      "src": "img/mateo-combustible_s51.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14735,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/mateo-combustible_s180.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14838,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-combustible_s52.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15168,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/mateo-combustible_s52.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15681,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/mateo-combustible_s54.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16064,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/mateo-combustible_s55.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16143,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/mateo-combustible_s56.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16320,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/mateo-combustible_s181.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16566,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/mateo-combustible_s57.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16683,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/mateo-combustible_s58.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16760,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/mateo-combustible_s182.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16944,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/mateo-combustible_s59.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17117,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/mateo-combustible_s60.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17203,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-combustible_s183.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17293,
+      "dur": 271,
+      "kind": "image",
+      "src": "img/mateo-combustible_s61.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17564,
+      "dur": 352,
+      "kind": "image",
+      "src": "img/mateo-combustible_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17916,
+      "dur": 287,
+      "kind": "image",
+      "src": "img/mateo-combustible_s63.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18203,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/mateo-combustible_s184.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18689,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/mateo-combustible_s64.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18876,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/mateo-combustible_s185.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19052,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/mateo-combustible_s65.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19190,
+      "dur": 311,
+      "kind": "image",
+      "src": "img/mateo-combustible_s186.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19501,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/mateo-combustible_s66.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19646,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/mateo-combustible_s67.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19731,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/mateo-combustible_s116.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19845,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/mateo-combustible_s187.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20231,
+      "dur": 61,
+      "kind": "image",
+      "src": "img/mateo-combustible_s188.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20292,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-combustible_s69.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20622,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/mateo-combustible_s70.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20963,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/mateo-combustible_s189.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21164,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/mateo-combustible_s72.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21309,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/mateo-combustible_s73.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21557,
+      "dur": 340,
+      "kind": "image",
+      "src": "img/mateo-combustible_s190.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21897,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/mateo-combustible_s191.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22283,
+      "dur": 54,
+      "kind": "image",
+      "src": "img/mateo-combustible_s77.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22337,
+      "dur": 236,
+      "kind": "image",
+      "src": "img/mateo-combustible_s192.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22573,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-combustible_s78.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22903,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/mateo-combustible_s76.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23258,
+      "dur": 272,
+      "kind": "image",
+      "src": "img/mateo-combustible_s79.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23530,
+      "dur": 229,
+      "kind": "image",
+      "src": "img/mateo-combustible_s193.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23969,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-combustible_s82.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24119,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/mateo-combustible_s194.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24326,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/mateo-combustible_s83.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24411,
+      "dur": 331,
+      "kind": "image",
+      "src": "img/mateo-combustible_s195.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24742,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/mateo-combustible_s84.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24879,
+      "dur": 338,
+      "kind": "image",
+      "src": "img/mateo-combustible_s85.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25217,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/mateo-combustible_s86.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25375,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-combustible_s196.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25705,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/mateo-combustible_s196.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25791,
+      "dur": 223,
+      "kind": "image",
+      "src": "img/mateo-combustible_s87.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26014,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-combustible_s88.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26344,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/mateo-combustible_s88.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26620,
+      "dur": 328,
+      "kind": "image",
+      "src": "img/mateo-combustible_s89.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26948,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/mateo-combustible_s90.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27426,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/mateo-combustible_s91.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27505,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/mateo-combustible_s92.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27757,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/mateo-combustible_s198.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28231,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/mateo-combustible_s93.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28444,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/mateo-combustible_s94.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28633,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-combustible_s95.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28963,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/mateo-combustible_s95.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29189,
+      "dur": 303,
+      "kind": "image",
+      "src": "img/mateo-combustible_s96.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29492,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/mateo-combustible_s97.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29575,
+      "dur": 372,
+      "kind": "image",
+      "src": "img/mateo-combustible_s199.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29947,
+      "dur": 238,
+      "kind": "image",
+      "src": "img/mateo-combustible_s98.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30185,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/mateo-combustible_s200.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30366,
+      "dur": 358,
+      "kind": "image",
+      "src": "img/mateo-combustible_s99.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30724,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/mateo-combustible_s101.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30917,
+      "dur": 263,
+      "kind": "image",
+      "src": "img/mateo-combustible_s201.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31180,
+      "dur": 306,
+      "kind": "image",
+      "src": "img/mateo-combustible_s102.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31486,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/mateo-combustible_s103.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31688,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/mateo-combustible_s202.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31930,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/mateo-combustible_s104.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32192,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/mateo-combustible_s203.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32311,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/mateo-combustible_s105.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32492,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/mateo-combustible_s204.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32617,
+      "dur": 49,
+      "kind": "image",
+      "src": "img/mateo-combustible_s106.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33086,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-combustible_s205.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33416,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/mateo-combustible_s205.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33489,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/mateo-combustible_s107.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33684,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-combustible_s108.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34014,
+      "dur": 64,
+      "kind": "image",
+      "src": "img/mateo-combustible_s108.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 34078,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-combustible_s109.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 34408,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/mateo-combustible_s109.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34566,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/mateo-combustible_s110.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34772,
+      "dur": 91,
+      "kind": "image",
+      "src": "img/mateo-combustible_s111.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 34863,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-combustible_s206.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 35013,
+      "dur": 67,
+      "kind": "image",
+      "src": "img/mateo-combustible_s112.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 35080,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/mateo-combustible_s207.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 35288,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/mateo-combustible_s113.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 35614,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-combustible_s114.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 35944,
+      "dur": 51,
+      "kind": "image",
+      "src": "img/mateo-combustible_s114.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 36224,
+      "dur": 264,
+      "kind": "image",
+      "src": "img/mateo-combustible_s115.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 36488,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-combustible_s121.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 36818,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/mateo-combustible_s121.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 36899,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/mateo-combustible_s117.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 37147,
+      "dur": 358,
+      "kind": "image",
+      "src": "img/mateo-combustible_s118.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 37505,
+      "dur": 267,
+      "kind": "image",
+      "src": "img/mateo-combustible_s119.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 37772,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-combustible_s120.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 38102,
+      "dur": 223,
+      "kind": "image",
+      "src": "img/mateo-combustible_s120.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 38325,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/mateo-combustible_s208.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 38468,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-combustible_s122.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 38798,
+      "dur": 268,
+      "kind": "image",
+      "src": "img/mateo-combustible_s122.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 39066,
+      "dur": 295,
+      "kind": "image",
+      "src": "img/mateo-combustible_s124.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 39361,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/mateo-combustible_s209.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 39445,
+      "dur": 254,
+      "kind": "image",
+      "src": "img/mateo-combustible_s125.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 39699,
+      "dur": 260,
+      "kind": "image",
+      "src": "img/mateo-combustible_s210.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 39959,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/mateo-combustible_s126.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 40111,
+      "dur": 288,
+      "kind": "image",
+      "src": "img/mateo-combustible_s127.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 40399,
+      "dur": 294,
+      "kind": "image",
+      "src": "img/mateo-combustible_s128.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 40693,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/mateo-combustible_s129.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 40888,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/mateo-combustible_s211.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 41070,
+      "dur": 263,
+      "kind": "image",
+      "src": "img/mateo-combustible_s130.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 41333,
+      "dur": 339,
+      "kind": "image",
+      "src": "img/mateo-combustible_s131.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 41672,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/mateo-combustible_s132.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 41737,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/mateo-combustible_s212.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 41971,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/mateo-combustible_s133.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 42224,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/mateo-combustible_s134.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 42316,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/mateo-combustible_s213.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 42682,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/mateo-combustible_s81.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 42745,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/mateo-combustible_s135.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 42949,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-combustible_s136.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 43279,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/mateo-combustible_s136.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 43387,
+      "dur": 71,
+      "kind": "image",
+      "src": "img/mateo-combustible_s214.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 43458,
+      "dur": 308,
+      "kind": "image",
+      "src": "img/mateo-combustible_s137.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 43766,
+      "dur": 218,
+      "kind": "image",
+      "src": "img/mateo-combustible_s138.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 43984,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/mateo-combustible_s215.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 44112,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/mateo-combustible_s139.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 44318,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/mateo-combustible_s216.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 44446,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/mateo-combustible_s140.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 44512,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/mateo-combustible_s217.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 44732,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/mateo-combustible_s141.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 44844,
+      "dur": 243,
+      "kind": "image",
+      "src": "img/mateo-combustible_s218.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 45087,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-combustible_s142.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 45417,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/mateo-combustible_s142.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 45773,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/mateo-combustible_s143.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 45856,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/mateo-combustible_s144.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 45991,
+      "dur": 289,
+      "kind": "image",
+      "src": "img/mateo-combustible_s219.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 46280,
+      "dur": 347,
+      "kind": "image",
+      "src": "img/mateo-combustible_s220.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 46627,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/mateo-combustible_s145.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 46723,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/mateo-combustible_s146.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 46860,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/mateo-combustible_s221.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 47035,
+      "dur": 233,
+      "kind": "image",
+      "src": "img/mateo-combustible_s147.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 47418,
+      "dur": 332,
+      "kind": "image",
+      "src": "img/mateo-combustible_s148.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 47750,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/mateo-combustible_s222.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 47862,
+      "dur": 265,
+      "kind": "image",
+      "src": "img/mateo-combustible_s149.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 48127,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/mateo-combustible_s150.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 48335,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/mateo-combustible_s223.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 48652,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-combustible_s151.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 48982,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/mateo-combustible_s151.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 49191,
+      "dur": 367,
+      "kind": "image",
+      "src": "img/mateo-combustible_s153.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 49558,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-combustible_s154.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 49888,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-combustible_s154.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 50218,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/mateo-combustible_s154.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 50302,
+      "dur": 268,
+      "kind": "image",
+      "src": "img/mateo-combustible_s155.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 50570,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/mateo-combustible_s224.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 51351,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-combustible_s156.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 51681,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-combustible_s156.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 52011,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/mateo-combustible_s156.png",
+      "kb": 3,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1187,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "15 AÑOS DE OBRA Y TALLER",
+        "title": "Mateo",
+        "sub": "arreglos que te ahorran plata"
+      }
+    },
+    {
+      "from": 2296,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LO BÁSICO",
+        "title": "Cómo funciona la bomba"
+      }
+    },
+    {
+      "from": 3138,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SE ENFRÍA CON COMBUSTIBLE",
+        "sub": "tanque vacío = bomba caliente",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 4655,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SITUACIÓN 1",
+        "title": "Siempre en reserva"
+      }
+    },
+    {
+      "from": 6905,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SITUACIÓN 2",
+        "title": "La mugre del fondo"
+      }
+    },
+    {
+      "from": 8456,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "🔧",
+        "title": "El filtro de combustible",
+        "sub": "tiene su cambio en el manual: de lo más olvidado",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 9036,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 9717,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SITUACIÓN 3",
+        "title": "El camión cisterna"
+      }
+    },
+    {
+      "from": 11101,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "🚛",
+        "title": "¿Ves el camión cisterna?",
+        "sub": "sigue de largo o espera una hora o más",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 11573,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SITUACIÓN 4",
+        "title": "Forzar después del clic"
+      }
+    },
+    {
+      "from": 13553,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SITUACIÓN 5",
+        "title": "Con el motor en marcha"
+      }
+    },
+    {
+      "from": 16566,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SITUACIÓN 6",
+        "title": "El bidón del garaje"
+      }
+    },
+    {
+      "from": 19073,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "⚠️",
+        "title": "Nunca en botellas de gaseosa",
+        "sub": "se ablandan, pierden y alguien las puede confundir",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 19501,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SITUACIÓN 7",
+        "title": "El combustible equivocado"
+      }
+    },
+    {
+      "from": 21557,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SITUACIÓN 10",
+        "title": "La tapa mal cerrada"
+      }
+    },
+    {
+      "from": 24326,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SITUACIÓN 8",
+        "title": "La estación desconocida"
+      }
+    },
+    {
+      "from": 29189,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SITUACIÓN 9",
+        "title": "Parado con el tanque vacío"
+      }
+    },
+    {
+      "from": 31486,
+      "dur": 150,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "HASTA EL CLIC",
+        "sub": "tapa floja = luz de fallas",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 32311,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SITUACIÓN 11",
+        "title": "Cuando el auto avisa"
+      }
+    },
+    {
+      "from": 34078,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SITUACIÓN 12",
+        "title": "La que más plata cuesta"
+      }
+    },
+    {
+      "from": 36216,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "BONUS 1",
+        "title": "Cómo cargo yo, paso a paso"
+      }
+    },
+    {
+      "from": 38468,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "BONUS 2",
+        "title": "Ahorrar combustible de verdad"
+      }
+    },
+    {
+      "from": 38468,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 42745,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "BONUS 3",
+        "title": "Si te quedas sin combustible"
+      }
+    },
+    {
+      "from": 47365,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 48658,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PREGUNTAS",
+        "title": "Lo que siempre me preguntan"
+      }
+    },
+    {
+      "from": 50811,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 52103,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 796,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-combustible_s03.png",
+        "eyebrow": "La verdad",
+        "phrase": "La bomba no se rompe sola. Se rompe por costumbres.",
+        "accent": "costumbres"
+      }
+    },
+    {
+      "from": 4274,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Todo se resume en dos cosas",
+        "items": [
+          "Que la bomba no se caliente",
+          "Que no le llegue mugre"
+        ]
+      }
+    },
+    {
+      "from": 5713,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Andar en reserva te rompe la bomba en una semana.",
+        "truth": "Es desgaste acumulado: hacerlo siempre, durante años, la acorta mucho."
+      }
+    },
+    {
+      "from": 6323,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-combustible_s24.png",
+        "eyebrow": "Mi regla",
+        "phrase": "A un cuarto de tanque, cargo.",
+        "accent": "un cuarto de tanque"
+      }
+    },
+    {
+      "from": 12708,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Después del clic",
+        "title": "Por qué no hay que forzar",
+        "steps": [
+          {
+            "title": "El tanque necesita aire arriba",
+            "sub": "para que el combustible se expanda"
+          },
+          {
+            "title": "El líquido empapa el cánister",
+            "sub": "un filtro de carbón hecho para vapor"
+          },
+          {
+            "title": "Luz de fallas y reparación cara",
+            "sub": "olor a combustible, auto que anda raro"
+          }
+        ]
+      }
+    },
+    {
+      "from": 13180,
+      "dur": 135,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-combustible_s47.png",
+        "eyebrow": "La regla",
+        "phrase": "Cuando corta, listo.",
+        "accent": "listo"
+      }
+    },
+    {
+      "from": 14514,
+      "dur": 165,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Mi rutina en la estación",
+        "items": [
+          "¿Camión cisterna? Sigo de largo",
+          "Motor apagado, llave afuera",
+          "Toco metal antes de la pistola",
+          "Confirmo el combustible",
+          "Cuando corta, listo",
+          "Tapa hasta el clic, manguera colgada"
+        ]
+      }
+    },
+    {
+      "from": 15441,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Contra la estática",
+        "items": [
+          "Toca metal del auto antes de la pistola",
+          "No te subas al auto mientras carga",
+          "Celular en el bolsillo, atención en lo que haces"
+        ]
+      }
+    },
+    {
+      "from": 15824,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El celular hace explotar la estación.",
+        "truth": "No hay casos comprobados. El riesgo real es la estática al volver a subirte al auto."
+      }
+    },
+    {
+      "from": 18419,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Combustible guardado",
+        "items": [
+          "Bidón aprobado, bien cerrado",
+          "A la sombra",
+          "Rótalo: úsalo y compra nuevo",
+          "Si no sabes cuánto tiene, no al auto"
+        ]
+      }
+    },
+    {
+      "from": 19961,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Cargar el equivocado",
+        "left": {
+          "label": "Gasolina en un diésel",
+          "sub": "puede arruinar la bomba y los inyectores"
+        },
+        "right": {
+          "label": "Diésel en un auto a gasolina",
+          "sub": "anda mal, humea y se para"
+        }
+      }
+    },
+    {
+      "from": 20783,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-combustible_s71.png",
+        "eyebrow": "Si cargaste mal",
+        "phrase": "No arranques el motor. Ni des contacto.",
+        "accent": "No arranques el motor."
+      }
+    },
+    {
+      "from": 22013,
+      "dur": 270,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El combustible más caro cuida el motor.",
+        "truth": "Carga el que dice el manual. Más octanos en un auto que no lo pide es pagar de más."
+      }
+    },
+    {
+      "from": 23018,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Temprano, con frío, te dan más combustible.",
+        "truth": "Los tanques están enterrados: la temperatura casi no cambia. Carga cuando te quede cómodo."
+      }
+    },
+    {
+      "from": 23759,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Un aditivo te hace gastar la mitad.",
+        "truth": "Algunos limpian inyectores. Ninguno hace milagros."
+      }
+    },
+    {
+      "from": 27156,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Que no te carguen de menos",
+        "items": [
+          "Surtidor en cero antes de empezar",
+          "Mira la pistola y el surtidor",
+          "Pide el ticket y guárdalo"
+        ]
+      }
+    },
+    {
+      "from": 27931,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Cuánto gasta tu auto",
+        "title": "Kilómetros por litro",
+        "steps": [
+          {
+            "title": "Llena hasta el corte",
+            "sub": "y pon el parcial en cero"
+          },
+          {
+            "title": "Usa el auto normal",
+            "sub": "como siempre"
+          },
+          {
+            "title": "Vuelve a llenar hasta el corte",
+            "sub": "kilómetros ÷ litros = km por litro"
+          }
+        ]
+      }
+    },
+    {
+      "from": 32666,
+      "dur": 420,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "La bomba te avisa",
+        "items": [
+          "Zumbido raro desde el tanque",
+          "Tironea o pierde fuerza en subidas",
+          "Le cuesta arrancar, sobre todo en caliente",
+          "Se corta en marcha y vuelve",
+          "Falla con el tanque bajo"
+        ]
+      }
+    },
+    {
+      "from": 35464,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-combustible_s110.png",
+        "eyebrow": "Lo más importante",
+        "phrase": "Los hábitos importan más que los repuestos.",
+        "accent": "hábitos"
+      }
+    },
+    {
+      "from": 42532,
+      "dur": 150,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Ahorrar combustible de verdad",
+        "items": [
+          "Presión de ruedas una vez por mes",
+          "Sacar peso y portaequipajes",
+          "Manejar anticipando, velocidad pareja",
+          "Ventanillas en ciudad, aire en ruta",
+          "Mantenimiento al día",
+          "No dejarlo andando parado"
+        ]
+      }
+    },
+    {
+      "from": 45503,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Si te quedas sin combustible",
+        "items": [
+          "Balizas y afuera de la ruta",
+          "Chaleco y triángulos",
+          "No darle arranque una y otra vez",
+          "Cargar varios litros, arranque en tandas cortas"
+        ]
+      }
+    },
+    {
+      "from": 47268,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-combustible_s147.png",
+        "eyebrow": "La idea",
+        "phrase": "No se trata de gastar más. Se trata de gastar bien.",
+        "accent": "gastar bien"
+      }
+    },
+    {
+      "from": 48502,
+      "dur": 150,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "La cuenta",
+        "left": {
+          "label": "Cambiar la bomba",
+          "sub": "repuesto + mano de obra + grúa"
+        },
+        "right": {
+          "label": "Cuidarla",
+          "sub": "hábitos y un filtro a tiempo: casi nada"
+        }
+      }
+    },
+    {
+      "from": 50811,
+      "dur": 540,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Cuándo NO cargar",
+        "items": [
+          "Siempre en reserva → a ¼ de tanque",
+          "Con el camión cisterna descargando",
+          "Forzando después del corte",
+          "Con el motor en marcha o subiéndote al auto",
+          "Con combustible viejo de un bidón",
+          "Sin mirar qué combustible lleva",
+          "En estaciones que no conoces (si puedes elegir)"
+        ],
+        "stamp": "¡Anótalo!"
+      }
+    }
+  ]
+}
