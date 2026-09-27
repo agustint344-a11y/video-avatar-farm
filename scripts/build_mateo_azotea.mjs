@@ -27,10 +27,7 @@ const MAXWIN = sec(35);
 const avatarBeats = [
   ["sube un segundo a tu", "tu cuarto ese rincon de"],                 // gancho inicial corto
   ["yo soy mateo trabajo de", "aprendi a los golpes"],               // presentación (si falla, sigue)
-  ["pero te voy a decir", "con monedas"],                               // honestidad
-  ["y esto que te voy a", "asi que quedate"],                           // retención
   ["antes de seguir una cosa", "sigamos"],                              // CTA1
-  ["y por favor cuando trabajes", "vale una caida"],                    // seguridad
   ["si quieres las medidas exactas", "en la descripcion"],              // CTA final
   ["y cuentame en los comentarios", "__END__"],                         // cierre
 ];
@@ -62,7 +59,7 @@ const compBeats = [
   ["mojas apenas la losa con", 9, "Timeline", { theme: T, eyebrow: "La aplicación", title: "El horario importa", steps: [{ when: "Mañana temprano", text: "Losa fresca y apenas húmeda: 1ª mano con secador de goma y rodillo" }, { when: "Tarde", text: "2ª mano cruzada, cuando baja el sol" }, { when: "2-3 días", text: "Rocío de agua fina a la tarde: curar" }] }],
   ["un balde de impermeabilizante de", 7, "Compare", { theme: T, title: "La cuenta", left: { label: "Balde de marca", sub: "caro · hay que volver a ponerlo" }, right: { label: "Cemento + resina", sub: "mucho más barato · te sobra para retocar" } }],
   ["cuanto dura bien hecha", 8, "Checklist", { theme: T, title: "Lo que siempre me preguntan", items: ["¿Cuánto dura? Varios años: revísala 1 vez al año", "¿En chapa? No: solo cemento, ladrillo, revoque", "¿Color? Sí, con colorante; el blanco es el más fresco", "¿Pintura vieja? Sacar todo lo que se pela"] }],
-  ["uno pintar sobre una losa", 10, "Checklist", { theme: T, title: "Los 5 errores que arruinan todo", items: ["Pintar sobre la losa sucia", "Pintar sobre la losa mojada", "Aplicar al mediodía con la losa caliente", "Preparar más mezcla de la que usas en 1 hora", "No curarla (secado de golpe)"], stamp: "¡Anótalo!" }],
+  ["1 pintar sobre una losa", 10, "Checklist", { theme: T, title: "Los 5 errores que arruinan todo", items: ["Pintar sobre la losa sucia", "Pintar sobre la losa mojada", "Aplicar al mediodía con la losa caliente", "Preparar más mezcla de la que usas en 1 hora", "No curarla (secado de golpe)"], stamp: "¡Anótalo!" }],
 ];
 const components = [];
 const compMiss = [];

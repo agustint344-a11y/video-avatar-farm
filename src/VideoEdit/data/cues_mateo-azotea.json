@@ -3,54 +3,39 @@
   "fps": 30,
   "width": 1920,
   "height": 1080,
-  "durationInFrames": 15825,
+  "durationInFrames": 16550,
   "audioSrc": "mateo-azotea.mp3",
   "avatarSrc": "mateo-azotea_avatar.mp4",
   "avatarSegs": [
     {
       "from": 2,
-      "dur": 184,
+      "dur": 186,
       "clip": 0
     },
     {
-      "from": 715,
-      "dur": 277,
-      "clip": 184
+      "from": 747,
+      "dur": 296,
+      "clip": 186
     },
     {
-      "from": 1688,
-      "dur": 541,
-      "clip": 461
+      "from": 4748,
+      "dur": 866,
+      "clip": 482
     },
     {
-      "from": 4302,
-      "dur": 161,
-      "clip": 1002
+      "from": 15305,
+      "dur": 608,
+      "clip": 1348
     },
     {
-      "from": 4455,
-      "dur": 728,
-      "clip": 1163
-    },
-    {
-      "from": 10618,
-      "dur": 387,
-      "clip": 1891
-    },
-    {
-      "from": 14624,
-      "dur": 600,
-      "clip": 2278
-    },
-    {
-      "from": 15216,
-      "dur": 566,
-      "clip": 2878
+      "from": 15905,
+      "dur": 590,
+      "clip": 1956
     }
   ],
   "broll": [
     {
-      "from": 186,
+      "from": 188,
       "dur": 180,
       "kind": "video",
       "src": "broll/mateo-azotea_v_A01.mp4",
@@ -58,7 +43,7 @@
       "pip": false
     },
     {
-      "from": 366,
+      "from": 368,
       "dur": 162,
       "kind": "video",
       "src": "broll/mateo-azotea_v_A02.mp4",
@@ -66,15 +51,15 @@
       "pip": false
     },
     {
-      "from": 528,
-      "dur": 187,
+      "from": 530,
+      "dur": 217,
       "kind": "video",
       "src": "broll/mateo-azotea_v_A03.mp4",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 992,
+      "from": 1043,
       "dur": 171,
       "kind": "video",
       "src": "broll/mateo-azotea_v_B01.mp4",
@@ -82,7 +67,7 @@
       "pip": false
     },
     {
-      "from": 1163,
+      "from": 1214,
       "dur": 180,
       "kind": "video",
       "src": "broll/mateo-azotea_v_B02.mp4",
@@ -90,449 +75,521 @@
       "pip": false
     },
     {
-      "from": 1343,
-      "dur": 222,
+      "from": 1394,
+      "dur": 180,
       "kind": "video",
       "src": "broll/mateo-azotea_v_B03.mp4",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 2229,
-      "dur": 162,
+      "from": 1574,
+      "dur": 80,
       "kind": "video",
-      "src": "broll/mateo-azotea_v_D01.mp4",
+      "src": "broll/mateo-azotea_v_C01.mp4",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 2391,
+      "from": 1864,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_C02.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2044,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_D01.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2215,
       "dur": 180,
       "kind": "video",
       "src": "broll/mateo-azotea_v_D02.mp4",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 2571,
-      "dur": 59,
-      "kind": "video",
-      "src": "broll/mateo-azotea_v_D03.mp4",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 2870,
-      "dur": 180,
-      "kind": "video",
-      "src": "broll/mateo-azotea_v_D04.mp4",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 3050,
+      "from": 2395,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_D03.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2575,
+      "dur": 209,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_D04.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3024,
       "dur": 180,
       "kind": "video",
       "src": "broll/mateo-azotea_v_D05.mp4",
-      "kb": 4,
+      "kb": 0,
       "pip": false
     },
     {
-      "from": 3230,
-      "dur": 169,
+      "from": 3204,
+      "dur": 171,
       "kind": "video",
       "src": "broll/mateo-azotea_v_E01.mp4",
-      "kb": 5,
+      "kb": 1,
       "pip": false
     },
     {
-      "from": 3609,
+      "from": 3375,
       "dur": 180,
       "kind": "video",
       "src": "broll/mateo-azotea_v_E02.mp4",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 3789,
-      "dur": 171,
-      "kind": "video",
-      "src": "broll/mateo-azotea_v_E03.mp4",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 3960,
-      "dur": 180,
-      "kind": "video",
-      "src": "broll/mateo-azotea_v_E04.mp4",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 4140,
+      "from": 3555,
+      "dur": 52,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_E03.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3817,
       "dur": 162,
       "kind": "video",
       "src": "broll/mateo-azotea_v_F01.mp4",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 5183,
-      "dur": 162,
-      "kind": "video",
-      "src": "broll/mateo-azotea_v_G01.mp4",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 5345,
-      "dur": 192,
+      "from": 3979,
+      "dur": 180,
       "kind": "video",
-      "src": "broll/mateo-azotea_v_G02.mp4",
+      "src": "broll/mateo-azotea_v_F02.mp4",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 5807,
+      "from": 4159,
       "dur": 171,
       "kind": "video",
-      "src": "broll/mateo-azotea_v_G03.mp4",
+      "src": "broll/mateo-azotea_v_G01.mp4",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 5978,
+      "from": 4330,
       "dur": 180,
       "kind": "video",
-      "src": "broll/mateo-azotea_v_G04.mp4",
+      "src": "broll/mateo-azotea_v_G02.mp4",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 6158,
+      "from": 4510,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_G03.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4690,
+      "dur": 58,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_G04.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5614,
       "dur": 180,
       "kind": "video",
       "src": "broll/mateo-azotea_v_G05.mp4",
-      "kb": 2,
+      "kb": 4,
       "pip": false
     },
     {
-      "from": 6338,
-      "dur": 162,
+      "from": 5794,
+      "dur": 128,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_G06.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6192,
+      "dur": 180,
       "kind": "video",
       "src": "broll/mateo-azotea_v_G07.mp4",
-      "kb": 3,
+      "kb": 0,
       "pip": false
     },
     {
-      "from": 6500,
+      "from": 6372,
       "dur": 180,
       "kind": "video",
       "src": "broll/mateo-azotea_v_G08.mp4",
-      "kb": 4,
+      "kb": 1,
       "pip": false
     },
     {
-      "from": 6680,
-      "dur": 171,
+      "from": 6552,
+      "dur": 162,
       "kind": "video",
       "src": "broll/mateo-azotea_v_H01.mp4",
-      "kb": 5,
+      "kb": 2,
       "pip": false
     },
     {
-      "from": 6851,
+      "from": 6714,
       "dur": 180,
       "kind": "video",
       "src": "broll/mateo-azotea_v_H02.mp4",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 7031,
-      "dur": 180,
-      "kind": "video",
-      "src": "broll/mateo-azotea_v_H03.mp4",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 7211,
-      "dur": 162,
-      "kind": "video",
-      "src": "broll/mateo-azotea_v_H04.mp4",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 7373,
-      "dur": 51,
-      "kind": "video",
-      "src": "broll/mateo-azotea_v_H05.mp4",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 7694,
+      "from": 6894,
       "dur": 171,
       "kind": "video",
-      "src": "broll/mateo-azotea_v_H06.mp4",
+      "src": "broll/mateo-azotea_v_H03.mp4",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 7865,
+      "from": 7065,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_H04.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7245,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_H05.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7425,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_H06.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7587,
       "dur": 180,
       "kind": "video",
       "src": "broll/mateo-azotea_v_H07.mp4",
-      "kb": 5,
+      "kb": 2,
       "pip": false
     },
     {
-      "from": 8045,
-      "dur": 133,
+      "from": 7767,
+      "dur": 197,
       "kind": "video",
       "src": "broll/mateo-azotea_v_H08.mp4",
-      "kb": 0,
+      "kb": 3,
       "pip": false
     },
     {
-      "from": 8358,
-      "dur": 133,
+      "from": 8234,
+      "dur": 180,
       "kind": "video",
       "src": "broll/mateo-azotea_v_I01.mp4",
-      "kb": 1,
+      "kb": 4,
       "pip": false
     },
     {
-      "from": 8671,
+      "from": 8414,
       "dur": 180,
       "kind": "video",
       "src": "broll/mateo-azotea_v_I02.mp4",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 8851,
-      "dur": 171,
-      "kind": "video",
-      "src": "broll/mateo-azotea_v_I03.mp4",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 9022,
-      "dur": 180,
-      "kind": "video",
-      "src": "broll/mateo-azotea_v_I04.mp4",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 9202,
-      "dur": 112,
-      "kind": "video",
-      "src": "broll/mateo-azotea_v_I05.mp4",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 9584,
-      "dur": 162,
+      "from": 8594,
+      "dur": 130,
       "kind": "video",
-      "src": "broll/mateo-azotea_v_I06.mp4",
+      "src": "broll/mateo-azotea_v_I03.mp4",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 9746,
+      "from": 8904,
+      "dur": 158,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_I04.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9242,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_I05.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9413,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_I06.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9593,
       "dur": 180,
       "kind": "video",
       "src": "broll/mateo-azotea_v_I07.mp4",
-      "kb": 1,
+      "kb": 4,
       "pip": false
     },
     {
-      "from": 9926,
-      "dur": 171,
+      "from": 9773,
+      "dur": 117,
       "kind": "video",
       "src": "broll/mateo-azotea_v_I08.mp4",
-      "kb": 2,
+      "kb": 5,
       "pip": false
     },
     {
-      "from": 10097,
+      "from": 10160,
       "dur": 180,
       "kind": "video",
       "src": "broll/mateo-azotea_v_I09.mp4",
-      "kb": 3,
+      "kb": 0,
       "pip": false
     },
     {
-      "from": 10277,
-      "dur": 180,
+      "from": 10340,
+      "dur": 171,
       "kind": "video",
       "src": "broll/mateo-azotea_v_J01.mp4",
-      "kb": 4,
+      "kb": 1,
       "pip": false
     },
     {
-      "from": 10457,
-      "dur": 161,
+      "from": 10511,
+      "dur": 180,
       "kind": "video",
       "src": "broll/mateo-azotea_v_J02.mp4",
-      "kb": 5,
+      "kb": 2,
       "pip": false
     },
     {
-      "from": 11005,
+      "from": 10691,
       "dur": 180,
       "kind": "video",
       "src": "broll/mateo-azotea_v_K01.mp4",
-      "kb": 0,
+      "kb": 3,
       "pip": false
     },
     {
-      "from": 11185,
-      "dur": 171,
+      "from": 10871,
+      "dur": 162,
       "kind": "video",
       "src": "broll/mateo-azotea_v_K02.mp4",
-      "kb": 1,
+      "kb": 4,
       "pip": false
     },
     {
-      "from": 11356,
+      "from": 11033,
       "dur": 180,
       "kind": "video",
       "src": "broll/mateo-azotea_v_K03.mp4",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 11536,
-      "dur": 180,
-      "kind": "video",
-      "src": "broll/mateo-azotea_v_L01.mp4",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 11716,
-      "dur": 162,
-      "kind": "video",
-      "src": "broll/mateo-azotea_v_L02.mp4",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 11878,
-      "dur": 180,
-      "kind": "video",
-      "src": "broll/mateo-azotea_v_L03.mp4",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 12058,
+      "from": 11213,
       "dur": 171,
       "kind": "video",
-      "src": "broll/mateo-azotea_v_M01.mp4",
+      "src": "broll/mateo-azotea_v_K04.mp4",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 12229,
-      "dur": 79,
+      "from": 11384,
+      "dur": 180,
       "kind": "video",
-      "src": "broll/mateo-azotea_v_M02.mp4",
+      "src": "broll/mateo-azotea_v_L01.mp4",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 12548,
+      "from": 11564,
       "dur": 180,
       "kind": "video",
-      "src": "broll/mateo-azotea_v_M03.mp4",
+      "src": "broll/mateo-azotea_v_L02.mp4",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 12728,
+      "from": 11744,
       "dur": 162,
       "kind": "video",
-      "src": "broll/mateo-azotea_v_M04.mp4",
+      "src": "broll/mateo-azotea_v_L03.mp4",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 12890,
+      "from": 11906,
       "dur": 180,
       "kind": "video",
-      "src": "broll/mateo-azotea_v_M05.mp4",
+      "src": "broll/mateo-azotea_v_M01.mp4",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 13070,
+      "from": 12086,
       "dur": 171,
       "kind": "video",
-      "src": "broll/mateo-azotea_v_N01.mp4",
+      "src": "broll/mateo-azotea_v_M02.mp4",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 13241,
+      "from": 12257,
       "dur": 180,
       "kind": "video",
-      "src": "broll/mateo-azotea_v_N02.mp4",
+      "src": "broll/mateo-azotea_v_M03.mp4",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 13421,
+      "from": 12437,
       "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_M04.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12617,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_M05.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12779,
+      "dur": 205,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_N01.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13224,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_N02.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13395,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_O01.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13575,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_O02.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13755,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_O04.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13917,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_B04.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14097,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_A04.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14268,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_N01.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14448,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_N02.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14628,
+      "dur": 206,
+      "kind": "video",
+      "src": "broll/mateo-azotea_v_N01.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15134,
+      "dur": 171,
       "kind": "video",
       "src": "broll/mateo-azotea_v_O01.mp4",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 13601,
-      "dur": 162,
+      "from": 16495,
+      "dur": 55,
       "kind": "video",
       "src": "broll/mateo-azotea_v_O02.mp4",
       "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 13763,
-      "dur": 180,
-      "kind": "video",
-      "src": "broll/mateo-azotea_v_O03.mp4",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 13943,
-      "dur": 205,
-      "kind": "video",
-      "src": "broll/mateo-azotea_v_O04.mp4",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 14448,
-      "dur": 176,
-      "kind": "video",
-      "src": "broll/mateo-azotea_v_K04.mp4",
-      "kb": 5,
       "pip": false
     }
   ],
   "overlays": [
     {
-      "from": 715,
+      "from": 747,
       "dur": 150,
       "comp": "LowerThird",
       "props": {
@@ -543,7 +600,7 @@
       }
     },
     {
-      "from": 1565,
+      "from": 1654,
       "dur": 210,
       "comp": "QRTag",
       "props": {
@@ -555,7 +612,7 @@
       }
     },
     {
-      "from": 4455,
+      "from": 4748,
       "dur": 240,
       "comp": "QRTag",
       "props": {
@@ -567,7 +624,7 @@
       }
     },
     {
-      "from": 5175,
+      "from": 5606,
       "dur": 135,
       "comp": "SectionTitle",
       "props": {
@@ -577,7 +634,7 @@
       }
     },
     {
-      "from": 6781,
+      "from": 7339,
       "dur": 135,
       "comp": "SectionTitle",
       "props": {
@@ -587,7 +644,7 @@
       }
     },
     {
-      "from": 8755,
+      "from": 9343,
       "dur": 135,
       "comp": "SectionTitle",
       "props": {
@@ -597,7 +654,7 @@
       }
     },
     {
-      "from": 10997,
+      "from": 11602,
       "dur": 120,
       "comp": "KeywordPop",
       "props": {
@@ -608,7 +665,7 @@
       }
     },
     {
-      "from": 13466,
+      "from": 14174,
       "dur": 150,
       "comp": "Callout",
       "props": {
@@ -620,7 +677,7 @@
       }
     },
     {
-      "from": 14068,
+      "from": 14764,
       "dur": 210,
       "comp": "QRTag",
       "props": {
@@ -632,7 +689,7 @@
       }
     },
     {
-      "from": 14624,
+      "from": 15305,
       "dur": 240,
       "comp": "QRTag",
       "props": {
@@ -646,7 +703,7 @@
   ],
   "components": [
     {
-      "from": 1565,
+      "from": 1654,
       "dur": 210,
       "comp": "Compare",
       "props": {
@@ -663,7 +720,7 @@
       }
     },
     {
-      "from": 2630,
+      "from": 2784,
       "dur": 240,
       "comp": "Steps",
       "props": {
@@ -687,7 +744,7 @@
       }
     },
     {
-      "from": 3399,
+      "from": 3607,
       "dur": 210,
       "comp": "MythVsTruth",
       "props": {
@@ -697,7 +754,7 @@
       }
     },
     {
-      "from": 5537,
+      "from": 5922,
       "dur": 270,
       "comp": "Checklist",
       "props": {
@@ -713,7 +770,7 @@
       }
     },
     {
-      "from": 7424,
+      "from": 7964,
       "dur": 270,
       "comp": "Steps",
       "props": {
@@ -737,7 +794,7 @@
       }
     },
     {
-      "from": 8178,
+      "from": 8724,
       "dur": 180,
       "comp": "Callout",
       "props": {
@@ -749,7 +806,7 @@
       }
     },
     {
-      "from": 8491,
+      "from": 9062,
       "dur": 180,
       "comp": "BigStat",
       "props": {
@@ -761,7 +818,7 @@
       }
     },
     {
-      "from": 9314,
+      "from": 9890,
       "dur": 270,
       "comp": "Timeline",
       "props": {
@@ -785,7 +842,7 @@
       }
     },
     {
-      "from": 12308,
+      "from": 12984,
       "dur": 240,
       "comp": "Checklist",
       "props": {
@@ -800,7 +857,7 @@
       }
     },
     {
-      "from": 14148,
+      "from": 14834,
       "dur": 300,
       "comp": "Checklist",
       "props": {

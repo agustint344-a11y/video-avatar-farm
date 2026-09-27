@@ -9,7 +9,7 @@ AVAF_SEC=$(node_modules/@remotion/compositor-win32-x64-msvc/ffmpeg.exe -hide_ban
 node -e 'const s=process.argv[1];const c=require("./src/VideoEdit/data/cues_"+s+".json");const set=new Set(c.broll.map(b=>b.src));[s+".mp3",s+"_avatar.mp4","img/qr_mateo.png"].forEach(x=>set.add(x));const fs=require("fs");const miss=[...set].filter(f=>!fs.existsSync("public/"+f));if(miss.length){console.error("FALTAN:",miss.join(" "));process.exit(1)}fs.writeFileSync("_"+s+"_assets.txt",[...set].join("\n")+"\n");console.log("assets",set.size)' "$SLUG"
 BR="$SLUG-render"
 git checkout -q -B "$BR"
-for p in "$BUILD" "src/VideoEdit/data/cues_$SLUG.json" "_${SLUG}_assets.txt" src/Root_nonna*.tsx src/index-nonna*.ts src/VideoEdit/renderCues.tsx src/VideoEdit/types.ts .github/workflows/render.yml scripts/finish_nonna.sh scripts/agnes_video.mjs scripts/cut_avatar_audio.mjs; do git add "$p" 2>/dev/null || echo "no add $p"; done
+for p in "$BUILD" "src/VideoEdit/data/cues_$SLUG.json" "_${SLUG}_assets.txt" src/Root_nonna*.tsx src/index-nonna*.ts src/Root_mateo*.tsx src/index-mateo*.ts src/VideoEdit/renderCues.tsx src/VideoEdit/types.ts .github/workflows/render.yml scripts/finish_nonna.sh scripts/agnes_video.mjs scripts/cut_avatar_audio.mjs; do git add "$p" 2>/dev/null || echo "no add $p"; done
 git commit -q -m "$SLUG render
 
 Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>" || true
