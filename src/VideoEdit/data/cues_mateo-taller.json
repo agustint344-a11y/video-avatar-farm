@@ -1,0 +1,1921 @@
+{
+  "slug": "mateo-taller",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 51869,
+  "audioSrc": "mateo-taller.mp3",
+  "avatarSrc": "mateo-taller_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 0,
+      "dur": 672,
+      "clip": 0
+    },
+    {
+      "from": 1337,
+      "dur": 628,
+      "clip": 672
+    },
+    {
+      "from": 12302,
+      "dur": 653,
+      "clip": 1300
+    },
+    {
+      "from": 36998,
+      "dur": 205,
+      "clip": 1953
+    },
+    {
+      "from": 46313,
+      "dur": 1050,
+      "clip": 2158
+    },
+    {
+      "from": 50819,
+      "dur": 1026,
+      "clip": 3208
+    }
+  ],
+  "broll": [
+    {
+      "from": 672,
+      "dur": 372,
+      "kind": "image",
+      "src": "img/mateo-taller_s04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1044,
+      "dur": 293,
+      "kind": "image",
+      "src": "img/mateo-taller_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 1965,
+      "dur": 223,
+      "kind": "image",
+      "src": "img/mateo-taller_s07.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2428,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/mateo-taller_s08.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2659,
+      "dur": 233,
+      "kind": "image",
+      "src": "img/mateo-taller_s09.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2892,
+      "dur": 340,
+      "kind": "image",
+      "src": "img/mateo-taller_s10.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3232,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s11.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3562,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/mateo-taller_s11.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3707,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/mateo-taller_s12.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3814,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s13.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4144,
+      "dur": 70,
+      "kind": "image",
+      "src": "img/mateo-taller_s13.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4214,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/mateo-taller_s14.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4446,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s15.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4776,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/mateo-taller_s15.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4853,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/mateo-taller_s16.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5081,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/mateo-taller_s17.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5282,
+      "dur": 291,
+      "kind": "image",
+      "src": "img/mateo-taller_s18.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5573,
+      "dur": 215,
+      "kind": "image",
+      "src": "img/mateo-taller_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5788,
+      "dur": 244,
+      "kind": "image",
+      "src": "img/mateo-taller_s20.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6032,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/mateo-taller_s21.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6382,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/mateo-taller_s22.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6859,
+      "dur": 256,
+      "kind": "image",
+      "src": "img/mateo-taller_s23.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7115,
+      "dur": 287,
+      "kind": "image",
+      "src": "img/mateo-taller_s24.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7402,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s25.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7732,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/mateo-taller_s25.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7944,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/mateo-taller_s26.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8206,
+      "dur": 289,
+      "kind": "image",
+      "src": "img/mateo-taller_s27.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8495,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/mateo-taller_s28.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8708,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/mateo-taller_s29.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9020,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/mateo-taller_s30.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9127,
+      "dur": 329,
+      "kind": "image",
+      "src": "img/mateo-taller_s31.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9456,
+      "dur": 368,
+      "kind": "image",
+      "src": "img/mateo-taller_s32.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9824,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s33.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10154,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/mateo-taller_s33.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10382,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/mateo-taller_s34.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10546,
+      "dur": 351,
+      "kind": "image",
+      "src": "img/mateo-taller_s35.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10897,
+      "dur": 373,
+      "kind": "image",
+      "src": "img/mateo-taller_s36.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11270,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/mateo-taller_s37.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11522,
+      "dur": 258,
+      "kind": "image",
+      "src": "img/mateo-taller_s38.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11780,
+      "dur": 322,
+      "kind": "image",
+      "src": "img/mateo-taller_s39.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12102,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/mateo-taller_s40.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12955,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s41.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13285,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/mateo-taller_s41.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13374,
+      "dur": 331,
+      "kind": "image",
+      "src": "img/mateo-taller_s42.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13705,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/mateo-taller_s43.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13840,
+      "dur": 334,
+      "kind": "image",
+      "src": "img/mateo-taller_s44.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14174,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/mateo-taller_s45.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14347,
+      "dur": 375,
+      "kind": "image",
+      "src": "img/mateo-taller_s46.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14722,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s47.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15052,
+      "dur": 50,
+      "kind": "image",
+      "src": "img/mateo-taller_s47.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15282,
+      "dur": 287,
+      "kind": "image",
+      "src": "img/mateo-taller_s48.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15569,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/mateo-taller_s49.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15822,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s50.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16152,
+      "dur": 362,
+      "kind": "image",
+      "src": "img/mateo-taller_s50.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16514,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s51.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16844,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/mateo-taller_s51.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16970,
+      "dur": 364,
+      "kind": "image",
+      "src": "img/mateo-taller_s52.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17334,
+      "dur": 49,
+      "kind": "image",
+      "src": "img/mateo-taller_s53.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17383,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s54.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17713,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/mateo-taller_s54.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18043,
+      "dur": 261,
+      "kind": "image",
+      "src": "img/mateo-taller_s55.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18304,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s56.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18634,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/mateo-taller_s56.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18728,
+      "dur": 251,
+      "kind": "image",
+      "src": "img/mateo-taller_s57.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18979,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s58.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19309,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/mateo-taller_s58.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19476,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/mateo-taller_s59.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19933,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/mateo-taller_s60.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20159,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/mateo-taller_s61.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20347,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/mateo-taller_s62.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20578,
+      "dur": 279,
+      "kind": "image",
+      "src": "img/mateo-taller_s63.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20857,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s64.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21187,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/mateo-taller_s64.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21440,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s65.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21770,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/mateo-taller_s65.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21938,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s66.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22268,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/mateo-taller_s66.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22488,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/mateo-taller_s67.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22633,
+      "dur": 307,
+      "kind": "image",
+      "src": "img/mateo-taller_s68.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23090,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/mateo-taller_s69.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23302,
+      "dur": 229,
+      "kind": "image",
+      "src": "img/mateo-taller_s70.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23531,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/mateo-taller_s71.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23709,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/mateo-taller_s72.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23801,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s73.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24131,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/mateo-taller_s73.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24479,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s75.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24809,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/mateo-taller_s74.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24895,
+      "dur": 355,
+      "kind": "image",
+      "src": "img/mateo-taller_s76.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25250,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/mateo-taller_s77.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25480,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/mateo-taller_s78.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25638,
+      "dur": 296,
+      "kind": "image",
+      "src": "img/mateo-taller_s79.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25934,
+      "dur": 269,
+      "kind": "image",
+      "src": "img/mateo-taller_s80.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26203,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/mateo-taller_s81.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26435,
+      "dur": 360,
+      "kind": "image",
+      "src": "img/mateo-taller_s82.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26795,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/mateo-taller_s83.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26980,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s84.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27310,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/mateo-taller_s84.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27499,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/mateo-taller_s85.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27617,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/mateo-taller_s86.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27854,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/mateo-taller_s87.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28058,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s88.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28388,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/mateo-taller_s88.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28582,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/mateo-taller_s89.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28656,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s90.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28986,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s90.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29316,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/mateo-taller_s90.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29497,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s91.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29827,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s91.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30157,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/mateo-taller_s91.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30406,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s93.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30736,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/mateo-taller_s93.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30998,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/mateo-taller_s94.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31268,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s95.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31598,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/mateo-taller_s95.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31990,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s97.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32320,
+      "dur": 291,
+      "kind": "image",
+      "src": "img/mateo-taller_s96.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32611,
+      "dur": 319,
+      "kind": "image",
+      "src": "img/mateo-taller_s98.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32930,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/mateo-taller_s99.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33157,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/mateo-taller_s100.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33356,
+      "dur": 256,
+      "kind": "image",
+      "src": "img/mateo-taller_s101.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33612,
+      "dur": 281,
+      "kind": "image",
+      "src": "img/mateo-taller_s102.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33893,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s103.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34223,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/mateo-taller_s103.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 34300,
+      "dur": 309,
+      "kind": "image",
+      "src": "img/mateo-taller_s104.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34609,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-taller_s105.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 35179,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/mateo-taller_s106.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 35298,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s107.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 35628,
+      "dur": 59,
+      "kind": "image",
+      "src": "img/mateo-taller_s107.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 35687,
+      "dur": 284,
+      "kind": "image",
+      "src": "img/mateo-taller_s108.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 35971,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/mateo-taller_s109.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 36145,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/mateo-taller_s110.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 36352,
+      "dur": 310,
+      "kind": "image",
+      "src": "img/mateo-taller_s111.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 36662,
+      "dur": 336,
+      "kind": "image",
+      "src": "img/mateo-taller_s112.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 37203,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/mateo-taller_s114.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 37744,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s115.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 38074,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/mateo-taller_s115.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 38230,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s116.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 38560,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/mateo-taller_s116.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 38712,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s117.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 39042,
+      "dur": 301,
+      "kind": "image",
+      "src": "img/mateo-taller_s117.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 39343,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s118.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 39673,
+      "dur": 229,
+      "kind": "image",
+      "src": "img/mateo-taller_s118.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 39902,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/mateo-taller_s119.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 40396,
+      "dur": 56,
+      "kind": "image",
+      "src": "img/mateo-taller_s120.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 40452,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s121.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 40782,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/mateo-taller_s121.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 40884,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s122.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 41214,
+      "dur": 269,
+      "kind": "image",
+      "src": "img/mateo-taller_s122.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 41483,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s123.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 41813,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/mateo-taller_s123.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 41918,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s124.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 42248,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/mateo-taller_s124.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 42388,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/mateo-taller_s125.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 43008,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/mateo-taller_s126.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 43232,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s127.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 43562,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/mateo-taller_s127.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 43794,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s128.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 44124,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/mateo-taller_s128.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 44377,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s129.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 44707,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s129.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 45037,
+      "dur": 233,
+      "kind": "image",
+      "src": "img/mateo-taller_s129.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 45270,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s130.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 45600,
+      "dur": 358,
+      "kind": "image",
+      "src": "img/mateo-taller_s130.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 45958,
+      "dur": 355,
+      "kind": "image",
+      "src": "img/mateo-taller_s131.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 47363,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/mateo-taller_s133.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 47750,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s134.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 48080,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s134.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 48410,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/mateo-taller_s134.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 48616,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/mateo-taller_s135.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 48694,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s136.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 49024,
+      "dur": 266,
+      "kind": "image",
+      "src": "img/mateo-taller_s136.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 49290,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-taller_s137.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 49620,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/mateo-taller_s137.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 49721,
+      "dur": 336,
+      "kind": "image",
+      "src": "img/mateo-taller_s138.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 50537,
+      "dur": 282,
+      "kind": "image",
+      "src": "img/mateo-taller_s139.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 51845,
+      "dur": 24,
+      "kind": "image",
+      "src": "img/mateo-taller_s140.png",
+      "kb": 1,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1337,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "15 AÑOS DE OBRA Y TALLER",
+        "title": "Mateo",
+        "sub": "arreglos que te ahorran plata"
+      }
+    },
+    {
+      "from": 3707,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NÚMERO 1",
+        "title": "Filtro de aire del motor"
+      }
+    },
+    {
+      "from": 7402,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NÚMERO 2",
+        "title": "Filtro de habitáculo"
+      }
+    },
+    {
+      "from": 9824,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NÚMERO 3",
+        "title": "Escobillas"
+      }
+    },
+    {
+      "from": 12302,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 12947,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NÚMERO 4",
+        "title": "Lamparitas"
+      }
+    },
+    {
+      "from": 15822,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NÚMERO 5",
+        "title": "Batería y bornes"
+      }
+    },
+    {
+      "from": 19476,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NÚMERO 6",
+        "title": "Niveles y fusibles"
+      }
+    },
+    {
+      "from": 23531,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NÚMERO 7",
+        "title": "La presión de los neumáticos"
+      }
+    },
+    {
+      "from": 23531,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 25934,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "UNA VEZ POR MES",
+        "sub": "y la rueda de auxilio también",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 26795,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "BONUS",
+        "title": "Cuatro más, cortitas"
+      }
+    },
+    {
+      "from": 31268,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL TABLERO",
+        "title": "Qué significa cada luz"
+      }
+    },
+    {
+      "from": 34609,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CUIDADO",
+        "title": "Lo que NO tienes que tocar"
+      }
+    },
+    {
+      "from": 37195,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "AHORRO 1",
+        "title": "Comprar repuestos"
+      }
+    },
+    {
+      "from": 39902,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "AHORRO 2",
+        "title": "Tratar con el taller"
+      }
+    },
+    {
+      "from": 42388,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "AHORRO 3",
+        "title": "Antes de un viaje largo"
+      }
+    },
+    {
+      "from": 47540,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 48616,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PREGUNTAS",
+        "title": "Lo que siempre me preguntan"
+      }
+    },
+    {
+      "from": 50057,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 50819,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 2188,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Siempre a mano",
+        "items": [
+          "El manual del auto",
+          "Un par de guantes",
+          "Una linterna"
+        ],
+        "stamp": "Motor frío y apagado"
+      }
+    },
+    {
+      "from": 6232,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-taller_s20.png",
+        "eyebrow": "Filtro de aire",
+        "phrase": "Mal asentado, entra aire sin filtrar al motor.",
+        "accent": "sin filtrar"
+      }
+    },
+    {
+      "from": 6619,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Sopletear el filtro de papel lo deja como nuevo.",
+        "truth": "El aire comprimido rompe los poros del papel y deja pasar polvo. Es barato: cámbialo."
+      }
+    },
+    {
+      "from": 8870,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-taller_s30.png",
+        "eyebrow": "Filtro de habitáculo",
+        "phrase": "Eso es lo que respiras todos los días.",
+        "accent": "respiras"
+      }
+    },
+    {
+      "from": 15102,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "💡",
+        "title": "No toques el vidrio de la lámpara",
+        "sub": "la grasa de los dedos la quema antes",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 17773,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Batería",
+        "title": "El orden que no falla",
+        "steps": [
+          {
+            "title": "Sacar: primero el negativo (−)",
+            "sub": "después el positivo (+)"
+          },
+          {
+            "title": "Limpiar con agua caliente y bicarbonato",
+            "sub": "cepillo, secar bien"
+          },
+          {
+            "title": "Poner: primero el positivo (+)",
+            "sub": "después el negativo (−), bien apretados"
+          }
+        ]
+      }
+    },
+    {
+      "from": 19573,
+      "dur": 360,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Los 4 niveles",
+        "items": [
+          "Aceite: entre las dos marcas de la varilla",
+          "Refrigerante: con el motor frío, nunca abrir en caliente",
+          "Líquido de frenos: si baja, al taller",
+          "Limpiaparabrisas: agua + limpiador, nunca detergente"
+        ]
+      }
+    },
+    {
+      "from": 22940,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-taller_s66.png",
+        "eyebrow": "Fusibles",
+        "phrase": "Nunca uno más grande, ni un alambre, ni papel de aluminio.",
+        "accent": "Nunca"
+      }
+    },
+    {
+      "from": 24239,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "La presión correcta es la que dice el costado del neumático.",
+        "truth": "Esa es la máxima. La de tu auto está en el marco de la puerta, la tapita del tanque o el manual."
+      }
+    },
+    {
+      "from": 31690,
+      "dur": 300,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Las luces del tablero",
+        "left": {
+          "label": "Amarilla / naranja",
+          "sub": "aviso: revisar pronto"
+        },
+        "right": {
+          "label": "Roja",
+          "sub": "para en un lugar seguro y apaga"
+        }
+      }
+    },
+    {
+      "from": 34759,
+      "dur": 420,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que NO se toca",
+        "items": [
+          "Frenos",
+          "Airbags y cinturones con pretensor",
+          "Correa de distribución",
+          "Sistema de combustible",
+          "Aire acondicionado",
+          "Híbridos: cables naranjas"
+        ],
+        "stamp": "Seguridad primero"
+      }
+    },
+    {
+      "from": 37444,
+      "dur": 300,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Tres tipos de repuesto",
+        "left": {
+          "label": "Original o primera marca",
+          "sub": "seguridad: frenos, dirección, suspensión"
+        },
+        "right": {
+          "label": "Alternativo",
+          "sub": "hay de todo: ojo con lo demasiado barato"
+        }
+      }
+    },
+    {
+      "from": 40036,
+      "dur": 360,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "En el taller",
+        "items": [
+          "Presupuesto escrito y detallado",
+          "Que te llamen antes de agregar trabajos",
+          "Pide las piezas viejas",
+          "Un mecánico de confianza",
+          "Segunda opinión para lo grande"
+        ]
+      }
+    },
+    {
+      "from": 42588,
+      "dur": 420,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Antes de un viaje largo",
+        "items": [
+          "Presión (auto cargado) y auxilio",
+          "Estado de los neumáticos",
+          "Los 4 niveles",
+          "Todas las luces",
+          "Escobillas",
+          "Baúl: gato, balizas, chaleco, matafuegos",
+          "Papeles y teléfono de asistencia"
+        ]
+      }
+    },
+    {
+      "from": 47540,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "La cuenta",
+        "left": {
+          "label": "En el taller",
+          "sub": "repuesto con recargo + mano de obra"
+        },
+        "right": {
+          "label": "Hecho por ti",
+          "sub": "repuestos solos + media hora"
+        }
+      }
+    },
+    {
+      "from": 50057,
+      "dur": 480,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Las 7 que puedes hacer tú",
+        "items": [
+          "Filtro de aire",
+          "Filtro de habitáculo",
+          "Escobillas",
+          "Lamparitas",
+          "Batería y bornes",
+          "Niveles y fusibles",
+          "Presión de neumáticos cada mes"
+        ],
+        "stamp": "¡Anótalo!"
+      }
+    }
+  ]
+}
