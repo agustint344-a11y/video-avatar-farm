@@ -1,0 +1,1391 @@
+{
+  "slug": "habitos60-elena",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 26579,
+  "audioSrc": "habitos60-elena.mp3",
+  "avatarSrc": "habitos60-elena_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 2,
+      "dur": 833,
+      "clip": 0
+    },
+    {
+      "from": 3764,
+      "dur": 870,
+      "clip": 833
+    },
+    {
+      "from": 4634,
+      "dur": 616,
+      "clip": 1703
+    },
+    {
+      "from": 20785,
+      "dur": 1260,
+      "clip": 2319
+    },
+    {
+      "from": 26041,
+      "dur": 453,
+      "clip": 3579
+    }
+  ],
+  "broll": [
+    {
+      "from": 835,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 985,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 1135,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 1285,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 1435,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 1585,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 1735,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 1885,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 2035,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 2185,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 2335,
+      "dur": 91,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 2681,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 2831,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 2981,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 3131,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 3281,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 3431,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 3581,
+      "dur": 183,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 5250,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 5400,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 5550,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 5700,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 5850,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 6000,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 6150,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 6300,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 6450,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 6600,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 6750,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 6900,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 7050,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 7200,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 7350,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 7500,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 7650,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 7800,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 7950,
+      "dur": 160,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_37.mp4",
+      "pip": false
+    },
+    {
+      "from": 8365,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_38.mp4",
+      "pip": false
+    },
+    {
+      "from": 8515,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_39.mp4",
+      "pip": false
+    },
+    {
+      "from": 8665,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_40.mp4",
+      "pip": false
+    },
+    {
+      "from": 8815,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_41.mp4",
+      "pip": false
+    },
+    {
+      "from": 8965,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_42.mp4",
+      "pip": false
+    },
+    {
+      "from": 9115,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_43.mp4",
+      "pip": false
+    },
+    {
+      "from": 9265,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_44.mp4",
+      "pip": false
+    },
+    {
+      "from": 9415,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_45.mp4",
+      "pip": false
+    },
+    {
+      "from": 9565,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_46.mp4",
+      "pip": false
+    },
+    {
+      "from": 9715,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_47.mp4",
+      "pip": false
+    },
+    {
+      "from": 9865,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_48.mp4",
+      "pip": false
+    },
+    {
+      "from": 10015,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 10165,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 10315,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 10465,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 10615,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 10765,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 10915,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 11065,
+      "dur": 60,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 11365,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 11515,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 11665,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 11815,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 11965,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 12115,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 12265,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 12415,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 12565,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 12715,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 12865,
+      "dur": 100,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 13220,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 13370,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 13520,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 13670,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 13820,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 13970,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 14120,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 14270,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 14420,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 14570,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 14720,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 14870,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 15020,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 15170,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 15320,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 15470,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 15620,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 15770,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_37.mp4",
+      "pip": false
+    },
+    {
+      "from": 15920,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_38.mp4",
+      "pip": false
+    },
+    {
+      "from": 16070,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_39.mp4",
+      "pip": false
+    },
+    {
+      "from": 16220,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_40.mp4",
+      "pip": false
+    },
+    {
+      "from": 16370,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_41.mp4",
+      "pip": false
+    },
+    {
+      "from": 16520,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_42.mp4",
+      "pip": false
+    },
+    {
+      "from": 16670,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_43.mp4",
+      "pip": false
+    },
+    {
+      "from": 16820,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_44.mp4",
+      "pip": false
+    },
+    {
+      "from": 16970,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_45.mp4",
+      "pip": false
+    },
+    {
+      "from": 17120,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_46.mp4",
+      "pip": false
+    },
+    {
+      "from": 17270,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_47.mp4",
+      "pip": false
+    },
+    {
+      "from": 17420,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_48.mp4",
+      "pip": false
+    },
+    {
+      "from": 17570,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 17720,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 17870,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 18020,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 18170,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 18320,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 18470,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 18620,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 18770,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 18920,
+      "dur": 85,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 19260,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 19410,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 19560,
+      "dur": 89,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 19904,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 20054,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 20204,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 20354,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 20504,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 20654,
+      "dur": 131,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 22045,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 22195,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 22345,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 22495,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 22645,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 22795,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 22945,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 23095,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 23245,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 23395,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 23545,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 23695,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 23845,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 23995,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 24145,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 24295,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 24445,
+      "dur": 62,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 24747,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_37.mp4",
+      "pip": false
+    },
+    {
+      "from": 24897,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_38.mp4",
+      "pip": false
+    },
+    {
+      "from": 25047,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_39.mp4",
+      "pip": false
+    },
+    {
+      "from": 25197,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_40.mp4",
+      "pip": false
+    },
+    {
+      "from": 25347,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_41.mp4",
+      "pip": false
+    },
+    {
+      "from": 25497,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_42.mp4",
+      "pip": false
+    },
+    {
+      "from": 25647,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_43.mp4",
+      "pip": false
+    },
+    {
+      "from": 25797,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_44.mp4",
+      "pip": false
+    },
+    {
+      "from": 25947,
+      "dur": 94,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_45.mp4",
+      "pip": false
+    },
+    {
+      "from": 26494,
+      "dur": 85,
+      "kind": "video",
+      "src": "broll/habitos60-elena_s_46.mp4",
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 3764,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "SALUD CON EVIDENCIA",
+        "title": "Dra. Elena Vidal",
+        "sub": "8 cosas que dejar después de los 60"
+      }
+    },
+    {
+      "from": 5141,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 5622,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "HÁBITO 1",
+        "title": "Pasar el día sentada",
+        "sub": "el sedentarismo es veneno lento"
+      }
+    },
+    {
+      "from": 7103,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "MOVIMIENTO",
+        "sub": "la pastilla antienvejecimiento, y gratis",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 7411,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "HÁBITO 2",
+        "title": "Comer \"livianito\"",
+        "sub": "después de los 60 necesitás MÁS proteína"
+      }
+    },
+    {
+      "from": 7989,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 9091,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "HÁBITO 3",
+        "title": "Aislarte",
+        "sub": "la soledad daña tanto como fumar"
+      }
+    },
+    {
+      "from": 10148,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "COMPAÑÍA",
+        "sub": "el corazón también se alimenta",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 10760,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "HÁBITO 4",
+        "title": "Resignarte a dormir mal",
+        "sub": "no es \"cosa de la edad\""
+      }
+    },
+    {
+      "from": 12126,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "HÁBITO 5",
+        "title": "Automedicarte",
+        "sub": "mezclar remedios sin control"
+      }
+    },
+    {
+      "from": 13567,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "HÁBITO 6",
+        "title": "Faltar a tus controles",
+        "sub": "lo que se detecta a tiempo se trata mejor"
+      }
+    },
+    {
+      "from": 14234,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 15134,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "HÁBITO 7",
+        "title": "Cargar rencores y estrés",
+        "sub": "suben la presión y te inflaman"
+      }
+    },
+    {
+      "from": 15851,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🕊️",
+        "title": "Soltar es salud",
+        "sub": "el rencor es tomar veneno esperando que se enferme el otro",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 16949,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "HÁBITO 8 · LA MÁS IMPORTANTE",
+        "title": "Dejar de aprender",
+        "sub": "tu mente necesita un para qué"
+      }
+    },
+    {
+      "from": 18119,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "IKIGAI",
+        "sub": "la razón para levantarte cada mañana",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 18119,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 20042,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 22256,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Con cabeza",
+        "sub": "de a poco; si hace mucho que no te movés o tenés corazón/presión → consultá",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 23293,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "La tristeza no es \"cosa de la edad\"",
+        "sub": "la depresión es común y se trata: contáselo a tu médico",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 25501,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi guía natural",
+        "items": [
+          "El paso a paso de los 8 hábitos",
+          "Rutinas simples",
+          "La alimentación que los acompaña"
+        ]
+      }
+    },
+    {
+      "from": 25888,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 2426,
+      "dur": 255,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Cómo envejecés depende de tus genes.",
+        "truth": "Los genes explican apenas una parte. La mayor parte la escriben tus hábitos de todos los días."
+      }
+    },
+    {
+      "from": 8110,
+      "dur": 255,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Proteína en cada comida",
+        "items": [
+          "Huevo",
+          "Carnes magras y pescado",
+          "Legumbres",
+          "Lácteos"
+        ]
+      }
+    },
+    {
+      "from": 11125,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Dormir mejor a cualquier edad",
+        "items": [
+          "Horarios regulares",
+          "Nada de pantallas en la cama",
+          "Cena liviana y temprano",
+          "Si no mejora: al médico"
+        ]
+      }
+    },
+    {
+      "from": 12965,
+      "dur": 255,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Consejo que salva vidas",
+        "title": "Tu lista de remedios",
+        "steps": [
+          {
+            "title": "Anotá TODO lo que tomás",
+            "sub": "remedios, vitaminas, hierbas, suplementos"
+          },
+          {
+            "title": "Con las dosis",
+            "sub": "cuánto y cuándo"
+          },
+          {
+            "title": "Llevala a cada consulta",
+            "sub": "y a la farmacia"
+          }
+        ]
+      }
+    },
+    {
+      "from": 19005,
+      "dur": 255,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Las 8, casi todas gratis",
+        "items": [
+          "Moverte y comer proteína",
+          "Ver gente y dormir bien",
+          "Ordenar remedios y controlarte",
+          "Soltar rencores y seguir aprendiendo"
+        ]
+      }
+    },
+    {
+      "from": 19649,
+      "dur": 255,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Cómo empezar",
+        "title": "Un escalón a la vez",
+        "steps": [
+          {
+            "title": "Elegí UNA esta semana",
+            "sub": "la más a tu alcance"
+          },
+          {
+            "title": "Cuando sea costumbre, sumá otra",
+            "sub": "pequeños cambios sostenidos"
+          },
+          {
+            "title": "En meses, otra persona",
+            "sub": "más energía y más ganas"
+          }
+        ]
+      }
+    },
+    {
+      "from": 24507,
+      "dur": 240,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "Los años te los da el calendario; la vida dentro de esos años, te la das vos.",
+        "author": "Dra. Elena Vidal"
+      }
+    }
+  ]
+}
