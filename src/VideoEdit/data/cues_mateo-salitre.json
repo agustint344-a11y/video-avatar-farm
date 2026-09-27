@@ -1,0 +1,2182 @@
+{
+  "slug": "mateo-salitre",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 51987,
+  "audioSrc": "mateo-salitre.mp3",
+  "avatarSrc": "mateo-salitre_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 680,
+      "dur": 1318,
+      "clip": 0
+    },
+    {
+      "from": 11530,
+      "dur": 639,
+      "clip": 1318
+    },
+    {
+      "from": 26670,
+      "dur": 115,
+      "clip": 1957
+    },
+    {
+      "from": 29258,
+      "dur": 166,
+      "clip": 2072
+    },
+    {
+      "from": 50732,
+      "dur": 1219,
+      "clip": 2238
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/mateo-salitre_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 98,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/mateo-salitre_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 279,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/mateo-salitre_s03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 387,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/mateo-salitre_s04.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 514,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/mateo-salitre_s05.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1998,
+      "dur": 64,
+      "kind": "image",
+      "src": "img/mateo-salitre_s11.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2062,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s12.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2392,
+      "dur": 340,
+      "kind": "image",
+      "src": "img/mateo-salitre_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2732,
+      "dur": 267,
+      "kind": "image",
+      "src": "img/mateo-salitre_s122.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2999,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/mateo-salitre_s13.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3225,
+      "dur": 255,
+      "kind": "image",
+      "src": "img/mateo-salitre_s14.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3480,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/mateo-salitre_s15.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3911,
+      "dur": 323,
+      "kind": "image",
+      "src": "img/mateo-salitre_s16.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4234,
+      "dur": 301,
+      "kind": "image",
+      "src": "img/mateo-salitre_s18.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4535,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/mateo-salitre_s19.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4640,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/mateo-salitre_s20.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4752,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/mateo-salitre_s21.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5001,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/mateo-salitre_s22.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5144,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/mateo-salitre_s23.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5381,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/mateo-salitre_s24.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5488,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/mateo-salitre_s25.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5610,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s26.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5940,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/mateo-salitre_s26.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6046,
+      "dur": 303,
+      "kind": "image",
+      "src": "img/mateo-salitre_s27.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6349,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/mateo-salitre_s28.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6489,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/mateo-salitre_s50.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6646,
+      "dur": 368,
+      "kind": "image",
+      "src": "img/mateo-salitre_s29.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7014,
+      "dur": 296,
+      "kind": "image",
+      "src": "img/mateo-salitre_s30.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7310,
+      "dur": 339,
+      "kind": "image",
+      "src": "img/mateo-salitre_s31.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7649,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s32.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7979,
+      "dur": 58,
+      "kind": "image",
+      "src": "img/mateo-salitre_s32.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8037,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/mateo-salitre_s33.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8248,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/mateo-salitre_s34.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8333,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s35.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8663,
+      "dur": 58,
+      "kind": "image",
+      "src": "img/mateo-salitre_s35.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8721,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/mateo-salitre_s36.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8935,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/mateo-salitre_s37.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9082,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/mateo-salitre_s38.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9312,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/mateo-salitre_s39.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9560,
+      "dur": 299,
+      "kind": "image",
+      "src": "img/mateo-salitre_s40.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9859,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/mateo-salitre_s41.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9958,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/mateo-salitre_s42.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10124,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/mateo-salitre_s43.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10260,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/mateo-salitre_s44.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10750,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/mateo-salitre_s46.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10958,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s47.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11288,
+      "dur": 50,
+      "kind": "image",
+      "src": "img/mateo-salitre_s45.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11338,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/mateo-salitre_s48.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12169,
+      "dur": 12,
+      "kind": "image",
+      "src": "img/mateo-salitre_s09.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12331,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/mateo-salitre_s08.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12553,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/mateo-salitre_s51.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12630,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/mateo-salitre_s52.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13006,
+      "dur": 291,
+      "kind": "image",
+      "src": "img/mateo-salitre_s53.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13297,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/mateo-salitre_s54.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13407,
+      "dur": 71,
+      "kind": "image",
+      "src": "img/mateo-salitre_s55.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13613,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/mateo-salitre_s57.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13747,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/mateo-salitre_s58.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13859,
+      "dur": 368,
+      "kind": "image",
+      "src": "img/mateo-salitre_s59.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14227,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/mateo-salitre_s61.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14418,
+      "dur": 266,
+      "kind": "image",
+      "src": "img/mateo-salitre_s62.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14684,
+      "dur": 263,
+      "kind": "image",
+      "src": "img/mateo-salitre_s63.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14947,
+      "dur": 70,
+      "kind": "image",
+      "src": "img/mateo-salitre_s64.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15017,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/mateo-salitre_s65.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15227,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/mateo-salitre_s66.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15454,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/mateo-salitre_s67.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15586,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/mateo-salitre_s68.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15788,
+      "dur": 285,
+      "kind": "image",
+      "src": "img/mateo-salitre_s69.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16073,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s70.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16403,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/mateo-salitre_s70.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16518,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s71.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16848,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/mateo-salitre_s71.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17221,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s74.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17551,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/mateo-salitre_s73.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17628,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s75.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17958,
+      "dur": 256,
+      "kind": "image",
+      "src": "img/mateo-salitre_s75.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18214,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s76.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18544,
+      "dur": 52,
+      "kind": "image",
+      "src": "img/mateo-salitre_s76.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18746,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/mateo-salitre_s77.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18917,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/mateo-salitre_s78.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19015,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/mateo-salitre_s79.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19229,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s80.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19559,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/mateo-salitre_s80.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19627,
+      "dur": 312,
+      "kind": "image",
+      "src": "img/mateo-salitre_s81.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19939,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/mateo-salitre_s82.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20104,
+      "dur": 238,
+      "kind": "image",
+      "src": "img/mateo-salitre_s83.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20342,
+      "dur": 322,
+      "kind": "image",
+      "src": "img/mateo-salitre_s84.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21024,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/mateo-salitre_s86.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21130,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/mateo-salitre_s87.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21356,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/mateo-salitre_s88.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21609,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s89.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21939,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/mateo-salitre_s89.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22340,
+      "dur": 375,
+      "kind": "image",
+      "src": "img/mateo-salitre_s91.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22715,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s92.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23045,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/mateo-salitre_s92.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23380,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/mateo-salitre_s93.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23586,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/mateo-salitre_s94.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23776,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/mateo-salitre_s95.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23987,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/mateo-salitre_s96.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24211,
+      "dur": 267,
+      "kind": "image",
+      "src": "img/mateo-salitre_s171.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24478,
+      "dur": 236,
+      "kind": "image",
+      "src": "img/mateo-salitre_s98.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25044,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/mateo-salitre_s100.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25195,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/mateo-salitre_s101.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25260,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s102.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25590,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/mateo-salitre_s99.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25730,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/mateo-salitre_s103.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25955,
+      "dur": 360,
+      "kind": "image",
+      "src": "img/mateo-salitre_s104.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26315,
+      "dur": 355,
+      "kind": "image",
+      "src": "img/mateo-salitre_s105.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26785,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/mateo-salitre_s106.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26970,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/mateo-salitre_s107.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27107,
+      "dur": 289,
+      "kind": "image",
+      "src": "img/mateo-salitre_s108.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27546,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/mateo-salitre_s110.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27816,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/mateo-salitre_s111.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28046,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/mateo-salitre_s112.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28238,
+      "dur": 328,
+      "kind": "image",
+      "src": "img/mateo-salitre_s113.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28566,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/mateo-salitre_s114.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28753,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/mateo-salitre_s115.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28841,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s116.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29171,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/mateo-salitre_s116.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29424,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/mateo-salitre_s117.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29509,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s118.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29839,
+      "dur": 49,
+      "kind": "image",
+      "src": "img/mateo-salitre_s118.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29888,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/mateo-salitre_s119.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30107,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s120.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30437,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-salitre_s120.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30527,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s121.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30857,
+      "dur": 278,
+      "kind": "image",
+      "src": "img/mateo-salitre_s121.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31135,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s123.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31465,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/mateo-salitre_s123.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31609,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s124.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31939,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/mateo-salitre_s124.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32106,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/mateo-salitre_s125.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32277,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/mateo-salitre_s126.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32981,
+      "dur": 267,
+      "kind": "image",
+      "src": "img/mateo-salitre_s127.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33248,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/mateo-salitre_s128.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33394,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s129.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33724,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/mateo-salitre_s129.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33807,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/mateo-salitre_s130.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 34015,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s131.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 34345,
+      "dur": 275,
+      "kind": "image",
+      "src": "img/mateo-salitre_s131.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34620,
+      "dur": 269,
+      "kind": "image",
+      "src": "img/mateo-salitre_s132.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34889,
+      "dur": 297,
+      "kind": "image",
+      "src": "img/mateo-salitre_s133.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 35186,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/mateo-salitre_s134.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 35418,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/mateo-salitre_s135.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 35665,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s136.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 35995,
+      "dur": 67,
+      "kind": "image",
+      "src": "img/mateo-salitre_s136.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 36062,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/mateo-salitre_s137.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 36233,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s138.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 36563,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/mateo-salitre_s138.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 36638,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s139.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 36968,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/mateo-salitre_s139.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 37147,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s140.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 37477,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s140.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 37807,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s140.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 38137,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/mateo-salitre_s140.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 38238,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/mateo-salitre_s142.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 38411,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s143.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 38741,
+      "dur": 269,
+      "kind": "image",
+      "src": "img/mateo-salitre_s143.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 39010,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/mateo-salitre_s144.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 39217,
+      "dur": 293,
+      "kind": "image",
+      "src": "img/mateo-salitre_s145.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 39510,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/mateo-salitre_s146.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 39702,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/mateo-salitre_s147.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 39919,
+      "dur": 368,
+      "kind": "image",
+      "src": "img/mateo-salitre_s148.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 40287,
+      "dur": 64,
+      "kind": "image",
+      "src": "img/mateo-salitre_s149.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 40351,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s150.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 40681,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/mateo-salitre_s150.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 40866,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/mateo-salitre_s151.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 41406,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s153.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 41736,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s152.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 42066,
+      "dur": 303,
+      "kind": "image",
+      "src": "img/mateo-salitre_s152.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 42369,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/mateo-salitre_s154.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 42601,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/mateo-salitre_s155.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 42822,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/mateo-salitre_s156.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 42971,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s157.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 43301,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/mateo-salitre_s157.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 43701,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s159.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 44031,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/mateo-salitre_s158.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 44248,
+      "dur": 340,
+      "kind": "image",
+      "src": "img/mateo-salitre_s160.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 44588,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/mateo-salitre_s161.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 44754,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s162.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 45084,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/mateo-salitre_s162.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 45158,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s163.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 45488,
+      "dur": 368,
+      "kind": "image",
+      "src": "img/mateo-salitre_s163.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 45856,
+      "dur": 310,
+      "kind": "image",
+      "src": "img/mateo-salitre_s164.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 46166,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s165.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 46496,
+      "dur": 304,
+      "kind": "image",
+      "src": "img/mateo-salitre_s165.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 47040,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s167.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 47370,
+      "dur": 375,
+      "kind": "image",
+      "src": "img/mateo-salitre_s166.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 47745,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/mateo-salitre_s169.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 47826,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s170.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 48156,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/mateo-salitre_s170.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 48390,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s172.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 48720,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/mateo-salitre_s172.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 48863,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s173.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 49193,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/mateo-salitre_s173.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 49303,
+      "dur": 331,
+      "kind": "image",
+      "src": "img/mateo-salitre_s174.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 49634,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre_s175.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 49964,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/mateo-salitre_s175.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 50531,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/mateo-salitre_s176.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 51951,
+      "dur": 36,
+      "kind": "image",
+      "src": "img/mateo-salitre_s177.png",
+      "kb": 0,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1225,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "15 AÑOS DE OBRA",
+        "title": "Mateo",
+        "sub": "arreglos de la casa que duran"
+      }
+    },
+    {
+      "from": 2062,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LO BÁSICO",
+        "title": "¿Qué es el salitre?"
+      }
+    },
+    {
+      "from": 2151,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LO MÁS IMPORTANTE",
+        "title": "¿De dónde viene el agua?"
+      }
+    },
+    {
+      "from": 4476,
+      "dur": 150,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "COMO UN PLATO DE AGUA SALADA",
+        "sub": "el agua se va, la sal se queda",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 6925,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "1 · SUBE DEL SUELO",
+        "sub": "abajo, parejo, hasta 1 metro",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 6925,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "2 · ENTRA DE AFUERA",
+        "sub": "lluvia con viento",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 8861,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "3 · UNA PÉRDIDA",
+        "sub": "caños, desagües, baño, cocina",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 9767,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "4 · AGUA DE ARRIBA",
+        "sub": "canaleta, techo, terraza",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 11530,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 14684,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "😷",
+        "title": "Barbijo y anteojos",
+        "sub": "el polvo de salitre no es para respirarlo",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 17258,
+      "dur": 210,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "⚠️",
+        "title": "Muriático: siempre el ácido sobre el agua",
+        "sub": "muy diluido, guantes, antiparras y ventilación",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 18917,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA SOLUCIÓN",
+        "title": "Cómo se repara la pared"
+      }
+    },
+    {
+      "from": 18917,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 21356,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "TIENE QUE RESPIRAR",
+        "sub": "cal, no cemento cerrado",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 24478,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL TRUCO",
+        "title": "¿Está activo o ya se frenó?"
+      }
+    },
+    {
+      "from": 29416,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "AFUERA",
+        "title": "Ladrillo visto, muros y pisos"
+      }
+    },
+    {
+      "from": 32277,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO A PASO",
+        "title": "Revocar a la cal"
+      }
+    },
+    {
+      "from": 38238,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CASOS ESPECIALES",
+        "title": "Baño, cocina y placards"
+      }
+    },
+    {
+      "from": 42601,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA DIFÍCIL",
+        "title": "Si no puedes cortar el agua"
+      }
+    },
+    {
+      "from": 46756,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 47745,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PREGUNTAS",
+        "title": "Lo que siempre me preguntan"
+      }
+    },
+    {
+      "from": 50051,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 50732,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 3611,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Qué es el salitre",
+        "title": "Cómo aparece el polvo blanco",
+        "steps": [
+          {
+            "title": "El agua entra y disuelve las sales",
+            "sub": "de los ladrillos, el cemento y la tierra"
+          },
+          {
+            "title": "Sale a la superficie y se evapora",
+            "sub": "el agua se va al aire"
+          },
+          {
+            "title": "La sal se queda y cristaliza",
+            "sub": "el polvo blanco que ves"
+          }
+        ]
+      }
+    },
+    {
+      "from": 10390,
+      "dur": 360,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "¿De dónde viene el agua?",
+        "items": [
+          "Abajo y parejo → sube del suelo",
+          "Pared que da afuera, peor con lluvia y viento → entra por la pared",
+          "Un lugar que crece, cerca de caños → pérdida",
+          "Empieza arriba y baja → canaleta, techo, terraza",
+          "Manchas negras → condensación (otro tema)"
+        ]
+      }
+    },
+    {
+      "from": 12181,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-salitre_s50.png",
+        "eyebrow": "El error",
+        "phrase": "Lavar el salitre con agua.",
+        "accent": "con agua"
+      }
+    },
+    {
+      "from": 12766,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Lavarlo con agua lo saca.",
+        "truth": "Lo disuelve y lo vuelve a meter en la pared. Y le das más agua."
+      }
+    },
+    {
+      "from": 13478,
+      "dur": 135,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-salitre_s57.png",
+        "eyebrow": "Regla de oro",
+        "phrase": "El salitre se saca en seco. Siempre en seco.",
+        "accent": "en seco"
+      }
+    },
+    {
+      "from": 16981,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Vinagre o muriático",
+        "left": {
+          "label": "Vinagre",
+          "sub": "ácido suave · solo superficies firmes · poco líquido"
+        },
+        "right": {
+          "label": "Ácido muriático",
+          "sub": "fuerte · muy diluido · mejor afuera y con cuidado"
+        }
+      }
+    },
+    {
+      "from": 18596,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-salitre_s76.png",
+        "eyebrow": "Los productos",
+        "phrase": "Ningún producto frena el agua.",
+        "accent": "frena el agua"
+      }
+    },
+    {
+      "from": 20664,
+      "dur": 360,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "La reparación",
+        "title": "Los 5 pasos",
+        "steps": [
+          {
+            "title": "Cortar el agua",
+            "sub": "según de dónde venga"
+          },
+          {
+            "title": "Sacar lo podrido",
+            "sub": "y 20-30 cm por encima de la mancha"
+          },
+          {
+            "title": "Dejar secar",
+            "sub": "semanas, cepillando en seco"
+          }
+        ]
+      }
+    },
+    {
+      "from": 22070,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Revoque que respira",
+        "title": "Mezcla a la cal (grueso)",
+        "steps": [
+          {
+            "title": "1 parte de cal",
+            "sub": "deja respirar la pared"
+          },
+          {
+            "title": "¼ de parte de cemento",
+            "sub": "para que tome dureza"
+          },
+          {
+            "title": "3 a 4 partes de arena",
+            "sub": "se ajusta según la arena y la zona"
+          }
+        ]
+      }
+    },
+    {
+      "from": 23230,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-salitre_s88.png",
+        "eyebrow": "Antes de revocar",
+        "phrase": "Pared apenas húmeda. No empapada.",
+        "accent": "apenas húmeda"
+      }
+    },
+    {
+      "from": 24714,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "El truco",
+        "title": "La prueba del nylon",
+        "steps": [
+          {
+            "title": "Cepilla en seco un pedazo",
+            "sub": "que quede limpio"
+          },
+          {
+            "title": "Pega un nylon de 40×40 cm",
+            "sub": "cinta de papel en los 4 bordes"
+          },
+          {
+            "title": "Espera 1-2 días",
+            "sub": "empañado o más oscuro = no pintes"
+          }
+        ]
+      }
+    },
+    {
+      "from": 27396,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-salitre_s109.png",
+        "eyebrow": "La casa del patio",
+        "phrase": "Lo primero que hice fue salir al patio.",
+        "accent": "salir al patio"
+      }
+    },
+    {
+      "from": 32518,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Errores de principiante",
+        "items": [
+          "Mezcla con mucha agua",
+          "Capas muy gruesas de una",
+          "No mojar la pared antes",
+          "Apurarse a pintar"
+        ]
+      }
+    },
+    {
+      "from": 32681,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que necesitas",
+        "items": [
+          "Balde o batea y cuchara de albañil",
+          "Fratacho y regla recta",
+          "Pulverizador o brocha para mojar",
+          "Cal, cemento, arena y agua",
+          "Guantes y antiparras"
+        ]
+      }
+    },
+    {
+      "from": 41106,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Una vez por año",
+        "items": [
+          "Paredes de abajo: ¿polvo blanco nuevo?",
+          "Canaletas destapadas",
+          "Canteros lejos de las paredes",
+          "Juntas del baño y la cocina",
+          "Muebles separados 5-10 cm"
+        ]
+      }
+    },
+    {
+      "from": 43431,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Si no puedes cortar el agua",
+        "items": [
+          "Habla: vecino, consorcio, dueño (por escrito)",
+          "Cepilla en seco y ventila",
+          "Deshumidificador en invierno",
+          "Revoque y pintura a la cal, nunca sellar",
+          "Fotos con fecha cada mes"
+        ]
+      }
+    },
+    {
+      "from": 46800,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "La cuenta",
+        "left": {
+          "label": "Pintar cada 6 meses",
+          "sub": "pinturas caras que prometen y no cumplen"
+        },
+        "right": {
+          "label": "Hacerlo bien una vez",
+          "sub": "cepillo, nylon, cal, arena y pintura a la cal"
+        }
+      }
+    },
+    {
+      "from": 50051,
+      "dur": 480,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Por qué el salitre vuelve",
+        "items": [
+          "Lavarlo con agua",
+          "Pintar sin cortar el agua",
+          "Pinturas y revoques que no respiran",
+          "Taparlo con cerámica",
+          "Sacar solo lo que se ve",
+          "Pintar antes de que se seque"
+        ],
+        "stamp": "¡Anótalo!"
+      }
+    }
+  ]
+}
