@@ -254,3 +254,21 @@ export const CornerLabel: React.FC<{ durationInFrames: number; theme?: Theme; te
   const pos: React.CSSProperties = corner === "tl" ? { top: 70, left: 70 } : corner === "tr" ? { top: 70, right: 70 } : corner === "br" ? { bottom: 70, right: 70 } : { bottom: 70, left: 70 };
   return <AbsoluteFill><div style={{ position: "absolute", ...pos, ...useRise(2), opacity: op, background: theme.panel, border: `1px solid ${theme.line}`, borderLeft: `6px solid ${theme.accent}`, borderRadius: 12, padding: "16px 24px", color: theme.ink, font: `600 34px/1.1 ${theme.sans}`, boxShadow: "0 16px 40px rgba(0,0,0,0.18)" }}>{text}</div></AbsoluteFill>;
 };
+
+// ───────────────────────────── PhraseCard — frase serif sobre la imagen oscurecida y desenfocada (estilo Constructor Libre) ─────────────────────────────
+export const PhraseCard: React.FC<{ durationInFrames: number; theme?: Theme; src?: string; eyebrow?: string; phrase: string; accent?: string }> = ({ durationInFrames, theme = THEME_EARTH, src, eyebrow, phrase, accent }) => {
+  const op = useOp(durationInFrames); const f = useCurrentFrame();
+  const scale = interpolate(f, [0, durationInFrames], [1.08, 1.14], { extrapolateRight: "clamp" });
+  const parts = accent && phrase.includes(accent) ? phrase.split(accent) : [phrase];
+  return <AbsoluteFill style={{ background: "#15130f", overflow: "hidden" }}>
+    {src && <Img src={src} style={{ position: "absolute", inset: 0, width: "100%", height: "100%", objectFit: "cover", transform: `scale(${scale})`, filter: "blur(14px) brightness(0.38) saturate(0.7)" }} />}
+    <AbsoluteFill style={{ justifyContent: "center", alignItems: "center", opacity: op }}>
+      <div style={{ maxWidth: 1400, textAlign: "center", padding: "0 80px" }}>
+        {eyebrow && <div style={{ ...useRise(2), color: "rgba(255,255,255,0.72)", font: `600 22px/1 ${theme.serif}`, letterSpacing: 6, textTransform: "uppercase", marginBottom: 26 }}>{eyebrow}</div>}
+        <div style={{ ...useRise(6, 18), color: "#f4efe6", font: `500 74px/1.2 ${theme.serif}`, textShadow: "0 4px 30px rgba(0,0,0,0.5)" }}>
+          {parts.length > 1 ? <>{parts[0]}<span style={{ color: "#e0835a" }}>{accent}</span>{parts[1]}</> : phrase}
+        </div>
+      </div>
+    </AbsoluteFill>
+  </AbsoluteFill>;
+};

@@ -1,0 +1,887 @@
+{
+  "slug": "mateo-humedad",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 15656,
+  "audioSrc": "mateo-humedad.mp3",
+  "avatarSrc": "mateo-humedad_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 0,
+      "dur": 150,
+      "clip": 0
+    },
+    {
+      "from": 806,
+      "dur": 198,
+      "clip": 150
+    },
+    {
+      "from": 4616,
+      "dur": 538,
+      "clip": 348
+    },
+    {
+      "from": 6860,
+      "dur": 82,
+      "clip": 886
+    },
+    {
+      "from": 14750,
+      "dur": 870,
+      "clip": 968
+    }
+  ],
+  "broll": [
+    {
+      "from": 150,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/mateo-humedad_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 247,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/mateo-humedad_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 334,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/mateo-humedad_s03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 431,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/mateo-humedad_s04.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 526,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/mateo-humedad_s05.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1004,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/mateo-humedad_s07.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1169,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/mateo-humedad_s08.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1295,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/mateo-humedad_s09.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 1426,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/mateo-humedad_s10.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1640,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/mateo-humedad_s11.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1703,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/mateo-humedad_s12.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1894,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/mateo-humedad_s13.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2017,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/mateo-humedad_s14.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2099,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/mateo-humedad_s15.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2270,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/mateo-humedad_s16.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2359,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/mateo-humedad_s17.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2580,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/mateo-humedad_s18.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2643,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/mateo-humedad_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2895,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/mateo-humedad_s20.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3108,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/mateo-humedad_s21.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3292,
+      "dur": 70,
+      "kind": "image",
+      "src": "img/mateo-humedad_s22.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3362,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/mateo-humedad_s23.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3744,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/mateo-humedad_s25.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3869,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/mateo-humedad_s26.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4316,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/mateo-humedad_s27.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5154,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/mateo-humedad_s29.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5407,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-humedad_s30.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5737,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/mateo-humedad_s30.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5792,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/mateo-humedad_s31.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6011,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/mateo-humedad_s32.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6164,
+      "dur": 236,
+      "kind": "image",
+      "src": "img/mateo-humedad_s33.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6400,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/mateo-humedad_s34.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6942,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/mateo-humedad_s36.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7004,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/mateo-humedad_s37.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7096,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/mateo-humedad_s38.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7219,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/mateo-humedad_s39.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7336,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/mateo-humedad_s40.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7738,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/mateo-humedad_s42.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7970,
+      "dur": 258,
+      "kind": "image",
+      "src": "img/mateo-humedad_s43.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8228,
+      "dur": 294,
+      "kind": "image",
+      "src": "img/mateo-humedad_s44.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8522,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/mateo-humedad_s45.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8720,
+      "dur": 250,
+      "kind": "image",
+      "src": "img/mateo-humedad_s46.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8970,
+      "dur": 268,
+      "kind": "image",
+      "src": "img/mateo-humedad_s47.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9538,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/mateo-humedad_s50.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9725,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/mateo-humedad_s51.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9973,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/mateo-humedad_s52.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10194,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/mateo-humedad_s53.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10456,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/mateo-humedad_s54.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10667,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/mateo-humedad_s55.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10984,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/mateo-humedad_s56.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11149,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/mateo-humedad_s57.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11317,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/mateo-humedad_s58.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11402,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/mateo-humedad_s59.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11537,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/mateo-humedad_s60.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11693,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/mateo-humedad_s61.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11875,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/mateo-humedad_s62.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12052,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/mateo-humedad_s63.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12139,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/mateo-humedad_s64.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12626,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/mateo-humedad_s65.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12896,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/mateo-humedad_s66.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13067,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/mateo-humedad_s67.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13164,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/mateo-humedad_s68.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13426,
+      "dur": 306,
+      "kind": "image",
+      "src": "img/mateo-humedad_s69.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13732,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/mateo-humedad_s70.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13924,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/mateo-humedad_s71.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14584,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/mateo-humedad_s49.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15620,
+      "dur": 36,
+      "kind": "image",
+      "src": "img/mateo-humedad_s48.png",
+      "kb": 0,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 806,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "15 AÑOS DE OBRA",
+        "title": "Mateo",
+        "sub": "arreglos de la casa que duran"
+      }
+    },
+    {
+      "from": 2017,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PROBLEMA",
+        "title": "El agua sube por la pared"
+      }
+    },
+    {
+      "from": 2580,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CAPILARIDAD",
+        "sub": "la pared chupa agua del suelo",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 4616,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 6011,
+      "dur": 210,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "💧",
+        "title": "La prueba del medidor",
+        "sub": "cierra todas las canillas: si la ruedita gira, hay una pérdida",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 7970,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA SOLUCIÓN",
+        "title": "Una barrera de silicato"
+      }
+    },
+    {
+      "from": 9973,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "⚠️",
+        "title": "Guantes y antiparras",
+        "sub": "el silicato es alcalino: irrita la piel y es peligroso en los ojos",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 11022,
+      "dur": 150,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "1 CM POR MES",
+        "sub": "la pared se seca de a poco",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 12436,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 14194,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 14750,
+      "dur": 240,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 703,
+      "dur": 103,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-humedad_s06.png",
+        "eyebrow": "Lo primero que tienes que saber",
+        "phrase": "Pintar encima no sirve. Nunca sirvió.",
+        "accent": "no sirve"
+      }
+    },
+    {
+      "from": 2715,
+      "dur": 180,
+      "comp": "BigStat",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Capilaridad",
+        "value": 1,
+        "suffix": " metro",
+        "support": "hasta ahí puede subir el agua del suelo por la pared"
+      }
+    },
+    {
+      "from": 3474,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "El polvo blanco",
+        "title": "De dónde sale el salitre",
+        "steps": [
+          {
+            "title": "El agua sube con sales de la tierra",
+            "sub": "disueltas, no se ven"
+          },
+          {
+            "title": "Llega a la superficie y se evapora",
+            "sub": "la sal se queda ahí"
+          },
+          {
+            "title": "La sal cristaliza y empuja",
+            "sub": "infla la pintura y rompe el revoque"
+          }
+        ]
+      }
+    },
+    {
+      "from": 4076,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Una buena pintura antihumedad lo frena.",
+        "truth": "La pintura plástica le tapa la salida: el agua sigue subiendo, y más alto."
+      }
+    },
+    {
+      "from": 4516,
+      "dur": 100,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-humedad_s28.png",
+        "eyebrow": "El error más común",
+        "phrase": "Mucha gente empeora su pared tratando de arreglarla.",
+        "accent": "empeora"
+      }
+    },
+    {
+      "from": 6610,
+      "dur": 250,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "¿Qué humedad tienes?",
+        "items": [
+          "Mancha pareja abajo, borde como ola y salitre → sube del piso",
+          "Un solo lugar que crece y está mojado → caño roto",
+          "Moho negro arriba y en esquinas → condensación"
+        ]
+      }
+    },
+    {
+      "from": 7528,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Mira afuera primero",
+        "items": [
+          "Tierra o cantero apoyado contra la pared",
+          "Patio o vereda más altos que el piso de adentro",
+          "Canaleta que tira el agua al pie de la pared"
+        ],
+        "stamp": "¡Gratis!"
+      }
+    },
+    {
+      "from": 9238,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "La barrera",
+        "title": "Dónde van los agujeros",
+        "steps": [
+          {
+            "title": "Línea a 15 cm del piso",
+            "sub": "toda la pared con humedad y un poco más a cada lado"
+          },
+          {
+            "title": "Mecha de 10-12 mm, cada 10-12 cm",
+            "sub": "sopla bien el polvo de cada agujero"
+          },
+          {
+            "title": "Inclinados a 45° hacia abajo",
+            "sub": "profundos: 2/3 del ancho, sin atravesar"
+          }
+        ]
+      }
+    },
+    {
+      "from": 10849,
+      "dur": 135,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-humedad_s56.png",
+        "eyebrow": "Lo que nadie te dice",
+        "phrase": "La pared no se seca al otro día.",
+        "accent": "no se seca"
+      }
+    },
+    {
+      "from": 12356,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Mientras la pared se seca",
+        "items": [
+          "No pintes: paciencia",
+          "Salitre con cepillo seco, nunca con agua",
+          "Revoque podrido: rehacer a la cal",
+          "Pintura a la cal o mineral, que respire"
+        ]
+      }
+    },
+    {
+      "from": 12686,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "La cuenta",
+        "left": {
+          "label": "Empresa con inyecciones",
+          "sub": "una fortuna"
+        },
+        "right": {
+          "label": "Hecho por ti",
+          "sub": "taladro prestado, silicato, botellas y paciencia"
+        }
+      }
+    },
+    {
+      "from": 14194,
+      "dur": 390,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Los 5 errores que empeoran la pared",
+        "items": [
+          "Pintar encima con pintura plástica",
+          "Lavar el salitre con agua",
+          "Tapar con cerámica",
+          "No revisar si es un caño roto",
+          "Pintar antes de que la pared se seque"
+        ],
+        "stamp": "¡Anótalo!"
+      }
+    }
+  ]
+}

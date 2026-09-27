@@ -26,7 +26,8 @@ export type ComponentBeat = {
     | "CornerLabel"
     | "Testimonial"
     | "AnnotatedImage"
-    | "BigNumberCard";
+    | "BigNumberCard"
+    | "PhraseCard";
   props: Record<string, unknown>;
 };
 

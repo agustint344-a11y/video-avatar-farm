@@ -17,6 +17,7 @@ import {
   Highlight,
   MythVsTruth,
   PullQuote,
+  PhraseCard,
   Steps,
   THEME_CLINIC,
   THEME_EARTH,
@@ -115,6 +116,7 @@ const MAP = {
   AntesDespues,
   Medidor,
   Timeline,
+  PhraseCard,
 } as const;
 
 export const ComponentBeatView: React.FC<{ beat: ComponentBeat }> = ({
@@ -124,7 +126,7 @@ export const ComponentBeatView: React.FC<{ beat: ComponentBeat }> = ({
   if (!Comp) return null;
   // FramedPhoto recibe src relativo a public/ → resolver con staticFile.
   const base =
-    beat.comp === "FramedPhoto" && typeof beat.props.src === "string"
+    (beat.comp === "FramedPhoto" || beat.comp === "PhraseCard") && typeof beat.props.src === "string"
       ? { ...beat.props, src: staticFile(beat.props.src as string) }
       : beat.props;
   return <Comp durationInFrames={beat.dur} {...withTheme(base)} />;
