@@ -1,0 +1,1342 @@
+{
+  "slug": "fruta-elena",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 27574,
+  "audioSrc": "fruta-elena.mp3",
+  "avatarSrc": "fruta-elena_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 4,
+      "dur": 990,
+      "clip": 0
+    },
+    {
+      "from": 1951,
+      "dur": 870,
+      "clip": 990
+    },
+    {
+      "from": 7461,
+      "dur": 703,
+      "clip": 1860
+    },
+    {
+      "from": 18843,
+      "dur": 1260,
+      "clip": 2563
+    },
+    {
+      "from": 26972,
+      "dur": 493,
+      "clip": 3823
+    }
+  ],
+  "broll": [
+    {
+      "from": 994,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 1144,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 1294,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 1444,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 1594,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 1744,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 1894,
+      "dur": 57,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 2821,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 2971,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 3121,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 3271,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 3421,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 3571,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 3721,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 3871,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 4021,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 4171,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 4321,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 4471,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 4621,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 4771,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 4921,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 5071,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 5221,
+      "dur": 156,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 5617,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 5767,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 5917,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 6067,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 6217,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 6367,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 6517,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 6667,
+      "dur": 77,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 6999,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 7149,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 7299,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 8164,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 8314,
+      "dur": 109,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_37.mp4",
+      "pip": false
+    },
+    {
+      "from": 8678,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_38.mp4",
+      "pip": false
+    },
+    {
+      "from": 8828,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_39.mp4",
+      "pip": false
+    },
+    {
+      "from": 8978,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_40.mp4",
+      "pip": false
+    },
+    {
+      "from": 9128,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_41.mp4",
+      "pip": false
+    },
+    {
+      "from": 9278,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_42.mp4",
+      "pip": false
+    },
+    {
+      "from": 9428,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_43.mp4",
+      "pip": false
+    },
+    {
+      "from": 9578,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_44.mp4",
+      "pip": false
+    },
+    {
+      "from": 9728,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_45.mp4",
+      "pip": false
+    },
+    {
+      "from": 9878,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_46.mp4",
+      "pip": false
+    },
+    {
+      "from": 10028,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_47.mp4",
+      "pip": false
+    },
+    {
+      "from": 10178,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_48.mp4",
+      "pip": false
+    },
+    {
+      "from": 10328,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 10478,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 10628,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 10778,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 10928,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 11078,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 11228,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 11378,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 11528,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 11678,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 11828,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 11978,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 12128,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 12278,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 12428,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 12578,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 12728,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 12878,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 13028,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 13178,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 13328,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 13478,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 13628,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 13778,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 13928,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 14078,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 14228,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 14378,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 14528,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 14678,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 14828,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 14978,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 15128,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 15278,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 15428,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 15578,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 15728,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_37.mp4",
+      "pip": false
+    },
+    {
+      "from": 15878,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_38.mp4",
+      "pip": false
+    },
+    {
+      "from": 16028,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_39.mp4",
+      "pip": false
+    },
+    {
+      "from": 16178,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_40.mp4",
+      "pip": false
+    },
+    {
+      "from": 16328,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_41.mp4",
+      "pip": false
+    },
+    {
+      "from": 16478,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_42.mp4",
+      "pip": false
+    },
+    {
+      "from": 16628,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_43.mp4",
+      "pip": false
+    },
+    {
+      "from": 16778,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_44.mp4",
+      "pip": false
+    },
+    {
+      "from": 16928,
+      "dur": 120,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_45.mp4",
+      "pip": false
+    },
+    {
+      "from": 17303,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_46.mp4",
+      "pip": false
+    },
+    {
+      "from": 17453,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_47.mp4",
+      "pip": false
+    },
+    {
+      "from": 17603,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_48.mp4",
+      "pip": false
+    },
+    {
+      "from": 17753,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 17903,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 18053,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 18203,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 18353,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 18503,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 18653,
+      "dur": 190,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 20103,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 20253,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 20403,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 20553,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 20703,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 20853,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 21003,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 21153,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 21303,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 21453,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 21603,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 21753,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 21903,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 22053,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 22203,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 22353,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 22503,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 22653,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 22803,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 22953,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 23103,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 23253,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 23403,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 23553,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 23703,
+      "dur": 183,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 24141,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 24291,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 24441,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 24591,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 24741,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_37.mp4",
+      "pip": false
+    },
+    {
+      "from": 24891,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_38.mp4",
+      "pip": false
+    },
+    {
+      "from": 25041,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_39.mp4",
+      "pip": false
+    },
+    {
+      "from": 25191,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_40.mp4",
+      "pip": false
+    },
+    {
+      "from": 25341,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_41.mp4",
+      "pip": false
+    },
+    {
+      "from": 25491,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_42.mp4",
+      "pip": false
+    },
+    {
+      "from": 25641,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_43.mp4",
+      "pip": false
+    },
+    {
+      "from": 25791,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_44.mp4",
+      "pip": false
+    },
+    {
+      "from": 25941,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_45.mp4",
+      "pip": false
+    },
+    {
+      "from": 26091,
+      "dur": 83,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_46.mp4",
+      "pip": false
+    },
+    {
+      "from": 26414,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_47.mp4",
+      "pip": false
+    },
+    {
+      "from": 26564,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_48.mp4",
+      "pip": false
+    },
+    {
+      "from": 26714,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 26864,
+      "dur": 108,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 27465,
+      "dur": 109,
+      "kind": "video",
+      "src": "broll/fruta-elena_s_03.mp4",
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1951,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "SALUD CON EVIDENCIA",
+        "title": "Dra. Elena Vidal",
+        "sub": "la fruta para dormir mejor"
+      }
+    },
+    {
+      "from": 3184,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "MELATONINA",
+        "sub": "la hormona del sueño: baja con la edad",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 8062,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 10371,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "CEREZAS Y DÁTILES",
+        "sub": "otras aliadas del sueño",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 13076,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 13501,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 1",
+        "title": "Dormir más rápido y profundo",
+        "sub": "menos despertares"
+      }
+    },
+    {
+      "from": 13501,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 14096,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 2",
+        "title": "Ánimo y memoria",
+        "sub": "el cerebro se limpia al dormir"
+      }
+    },
+    {
+      "from": 14796,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 3",
+        "title": "Corazón y presión",
+        "sub": "dormir mal la sube"
+      }
+    },
+    {
+      "from": 15419,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 4",
+        "title": "Peso y azúcar",
+        "sub": "el mal dormir da más hambre"
+      }
+    },
+    {
+      "from": 21000,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "El error #1",
+        "sub": "la fruta no gana contra el café tarde y el celular en la cama",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 21223,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "☕",
+        "title": "Higiene del sueño",
+        "sub": "sin cafeína de tarde; luces bajas y sin pantalla antes de dormir",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 22932,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Cuándo consultar",
+        "sub": "insomnio serio, ronquidos fuertes o apnea → al médico",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 23886,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 26689,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 27066,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 5377,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Los mayores duermen menos porque necesitan menos.",
+        "truth": "Falso. A cualquier edad necesitás 7-8 horas de buen sueño. Lo que baja es la melatonina, no la necesidad. Resignarte a dormir mal cuesta caro."
+      }
+    },
+    {
+      "from": 6744,
+      "dur": 255,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "¿El mal dormir te afecta?",
+        "items": [
+          "Te despertás cansada aunque duermas horas",
+          "Café/mate para no caerte a media tarde",
+          "Más irritable y olvidadiza",
+          "Te dormís en el sillón de tarde"
+        ]
+      }
+    },
+    {
+      "from": 8423,
+      "dur": 255,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Por qué el kiwi",
+        "items": [
+          "Serotonina: el ladrillo de la melatonina",
+          "Folato y antioxidantes",
+          "Fibra y agua: digestión liviana",
+          "Estudios: te dormís antes y mejor"
+        ]
+      }
+    },
+    {
+      "from": 17048,
+      "dur": 255,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Qué esperar",
+        "title": "El sueño vuelve, con paciencia",
+        "steps": [
+          {
+            "title": "Días: si el problema era leve",
+            "sub": "algunas mejoran rápido"
+          },
+          {
+            "title": "Semanas: si venía de años",
+            "sub": "el cuerpo vuelve a confiar en la noche"
+          },
+          {
+            "title": "La clave: no rendirse a las 2 noches",
+            "sub": "es como un jardín"
+          }
+        ]
+      }
+    },
+    {
+      "from": 23886,
+      "dur": 255,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Cómo hacerlo",
+        "title": "El plan en 3 pasos",
+        "steps": [
+          {
+            "title": "2 kiwis ~1 hora antes de dormir",
+            "sub": "o cerezas / dátiles"
+          },
+          {
+            "title": "Higiene del sueño",
+            "sub": "sin cafeína de tarde, sin pantallas, cena liviana"
+          },
+          {
+            "title": "Rutina constante cada noche",
+            "sub": "el cuerpo ama las rutinas"
+          }
+        ]
+      }
+    },
+    {
+      "from": 26174,
+      "dur": 240,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "Dormir mal con los años no es algo que tengas que aceptar. El secreto no es una pastilla más fuerte: es darle a tu cuerpo lo que necesita para volver a dormir.",
+        "author": "Dra. Elena Vidal"
+      }
+    }
+  ]
+}
