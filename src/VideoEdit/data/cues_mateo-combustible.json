@@ -19,18 +19,23 @@
     },
     {
       "from": 9036,
-      "dur": -6256,
+      "dur": 654,
       "clip": 1042
+    },
+    {
+      "from": 21839,
+      "dur": 153,
+      "clip": 1696
     },
     {
       "from": 35995,
       "dur": 229,
-      "clip": -5214
+      "clip": 1849
     },
     {
       "from": 52103,
       "dur": 1495,
-      "clip": -4985
+      "clip": 2078
     }
   ],
   "broll": [
@@ -244,17 +249,17 @@
     },
     {
       "from": 5953,
-      "dur": 241,
+      "dur": 215,
       "kind": "image",
       "src": "img/mateo-combustible_s164.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 6194,
-      "dur": 129,
+      "from": 6168,
+      "dur": 155,
       "kind": "image",
-      "src": "img/mateo-combustible_s123.png",
+      "src": "img/mateo-combustible_s23.png",
       "kb": 3,
       "pip": false
     },
@@ -371,155 +376,19 @@
       "pip": false
     },
     {
-      "from": 6473,
-      "dur": 56,
-      "kind": "image",
-      "src": "img/mateo-combustible_s23.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 6529,
-      "dur": 76,
-      "kind": "image",
-      "src": "img/mateo-combustible_s25.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 6605,
-      "dur": 300,
-      "kind": "image",
-      "src": "img/mateo-combustible_s165.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 6905,
-      "dur": 365,
-      "kind": "image",
-      "src": "img/mateo-combustible_s26.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 7270,
-      "dur": 237,
-      "kind": "image",
-      "src": "img/mateo-combustible_s27.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 7507,
-      "dur": 199,
-      "kind": "image",
-      "src": "img/mateo-combustible_s167.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 7706,
-      "dur": 127,
-      "kind": "image",
-      "src": "img/mateo-combustible_s28.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 7833,
-      "dur": 194,
-      "kind": "image",
-      "src": "img/mateo-combustible_s29.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 8027,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-combustible_s30.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 8357,
-      "dur": 99,
-      "kind": "image",
-      "src": "img/mateo-combustible_s30.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 8456,
-      "dur": 298,
-      "kind": "image",
-      "src": "img/mateo-combustible_s31.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 8754,
-      "dur": 83,
-      "kind": "image",
-      "src": "img/mateo-combustible_s32.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 8837,
-      "dur": 99,
-      "kind": "image",
-      "src": "img/mateo-combustible_s33.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 8936,
-      "dur": 232,
-      "kind": "image",
-      "src": "img/mateo-combustible_s168.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 9168,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-combustible_s152.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 9498,
-      "dur": 219,
-      "kind": "image",
-      "src": "img/mateo-combustible_s152.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 9717,
-      "dur": 111,
+      "from": 9690,
+      "dur": 138,
       "kind": "image",
       "src": "img/mateo-combustible_s34.png",
-      "kb": 4,
+      "kb": 0,
       "pip": false
     },
     {
       "from": 9828,
-      "dur": 216,
+      "dur": 343,
       "kind": "image",
       "src": "img/mateo-combustible_s169.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 10044,
-      "dur": 127,
-      "kind": "image",
-      "src": "img/mateo-combustible_s80.png",
-      "kb": 0,
+      "kb": 1,
       "pip": false
     },
     {
@@ -527,7 +396,7 @@
       "dur": 143,
       "kind": "image",
       "src": "img/mateo-combustible_s35.png",
-      "kb": 1,
+      "kb": 2,
       "pip": false
     },
     {
@@ -535,7 +404,7 @@
       "dur": 108,
       "kind": "image",
       "src": "img/mateo-combustible_s36.png",
-      "kb": 2,
+      "kb": 3,
       "pip": false
     },
     {
@@ -543,7 +412,7 @@
       "dur": 84,
       "kind": "image",
       "src": "img/mateo-combustible_s170.png",
-      "kb": 3,
+      "kb": 4,
       "pip": false
     },
     {
@@ -551,7 +420,7 @@
       "dur": 132,
       "kind": "image",
       "src": "img/mateo-combustible_s37.png",
-      "kb": 4,
+      "kb": 5,
       "pip": false
     },
     {
@@ -559,7 +428,7 @@
       "dur": 158,
       "kind": "image",
       "src": "img/mateo-combustible_s171.png",
-      "kb": 5,
+      "kb": 0,
       "pip": false
     },
     {
@@ -567,7 +436,7 @@
       "dur": 91,
       "kind": "image",
       "src": "img/mateo-combustible_s38.png",
-      "kb": 0,
+      "kb": 1,
       "pip": false
     },
     {
@@ -575,7 +444,7 @@
       "dur": 330,
       "kind": "image",
       "src": "img/mateo-combustible_s39.png",
-      "kb": 1,
+      "kb": 2,
       "pip": false
     },
     {
@@ -583,7 +452,7 @@
       "dur": 171,
       "kind": "image",
       "src": "img/mateo-combustible_s166.png",
-      "kb": 2,
+      "kb": 3,
       "pip": false
     },
     {
@@ -591,7 +460,7 @@
       "dur": 185,
       "kind": "image",
       "src": "img/mateo-combustible_s172.png",
-      "kb": 3,
+      "kb": 4,
       "pip": false
     },
     {
@@ -599,7 +468,7 @@
       "dur": 119,
       "kind": "image",
       "src": "img/mateo-combustible_s40.png",
-      "kb": 4,
+      "kb": 5,
       "pip": false
     },
     {
@@ -607,7 +476,7 @@
       "dur": 177,
       "kind": "image",
       "src": "img/mateo-combustible_s41.png",
-      "kb": 5,
+      "kb": 0,
       "pip": false
     },
     {
@@ -615,7 +484,7 @@
       "dur": 85,
       "kind": "image",
       "src": "img/mateo-combustible_s173.png",
-      "kb": 0,
+      "kb": 1,
       "pip": false
     },
     {
@@ -623,7 +492,7 @@
       "dur": 122,
       "kind": "image",
       "src": "img/mateo-combustible_s42.png",
-      "kb": 1,
+      "kb": 2,
       "pip": false
     },
     {
@@ -631,7 +500,7 @@
       "dur": 84,
       "kind": "image",
       "src": "img/mateo-combustible_s174.png",
-      "kb": 2,
+      "kb": 3,
       "pip": false
     },
     {
@@ -639,7 +508,7 @@
       "dur": 163,
       "kind": "image",
       "src": "img/mateo-combustible_s43.png",
-      "kb": 3,
+      "kb": 4,
       "pip": false
     },
     {
@@ -647,7 +516,7 @@
       "dur": 192,
       "kind": "image",
       "src": "img/mateo-combustible_s175.png",
-      "kb": 4,
+      "kb": 5,
       "pip": false
     },
     {
@@ -655,7 +524,7 @@
       "dur": 193,
       "kind": "image",
       "src": "img/mateo-combustible_s44.png",
-      "kb": 5,
+      "kb": 0,
       "pip": false
     },
     {
@@ -663,7 +532,7 @@
       "dur": 172,
       "kind": "image",
       "src": "img/mateo-combustible_s176.png",
-      "kb": 0,
+      "kb": 1,
       "pip": false
     },
     {
@@ -671,7 +540,7 @@
       "dur": 253,
       "kind": "image",
       "src": "img/mateo-combustible_s47.png",
-      "kb": 1,
+      "kb": 2,
       "pip": false
     },
     {
@@ -679,7 +548,7 @@
       "dur": 140,
       "kind": "image",
       "src": "img/mateo-combustible_s49.png",
-      "kb": 2,
+      "kb": 3,
       "pip": false
     },
     {
@@ -687,7 +556,7 @@
       "dur": 376,
       "kind": "image",
       "src": "img/mateo-combustible_s177.png",
-      "kb": 3,
+      "kb": 4,
       "pip": false
     },
     {
@@ -695,7 +564,7 @@
       "dur": 149,
       "kind": "image",
       "src": "img/mateo-combustible_s178.png",
-      "kb": 4,
+      "kb": 5,
       "pip": false
     },
     {
@@ -703,7 +572,7 @@
       "dur": 107,
       "kind": "image",
       "src": "img/mateo-combustible_s179.png",
-      "kb": 5,
+      "kb": 0,
       "pip": false
     },
     {
@@ -711,7 +580,7 @@
       "dur": 174,
       "kind": "image",
       "src": "img/mateo-combustible_s50.png",
-      "kb": 0,
+      "kb": 1,
       "pip": false
     },
     {
@@ -719,7 +588,7 @@
       "dur": 56,
       "kind": "image",
       "src": "img/mateo-combustible_s51.png",
-      "kb": 1,
+      "kb": 2,
       "pip": false
     },
     {
@@ -727,7 +596,7 @@
       "dur": 103,
       "kind": "image",
       "src": "img/mateo-combustible_s180.png",
-      "kb": 2,
+      "kb": 3,
       "pip": false
     },
     {
@@ -735,7 +604,7 @@
       "dur": 330,
       "kind": "image",
       "src": "img/mateo-combustible_s52.png",
-      "kb": 3,
+      "kb": 4,
       "pip": false
     },
     {
@@ -743,7 +612,7 @@
       "dur": 273,
       "kind": "image",
       "src": "img/mateo-combustible_s52.png",
-      "kb": 4,
+      "kb": 5,
       "pip": false
     },
     {
@@ -751,7 +620,7 @@
       "dur": 143,
       "kind": "image",
       "src": "img/mateo-combustible_s54.png",
-      "kb": 5,
+      "kb": 0,
       "pip": false
     },
     {
@@ -759,7 +628,7 @@
       "dur": 79,
       "kind": "image",
       "src": "img/mateo-combustible_s55.png",
-      "kb": 0,
+      "kb": 1,
       "pip": false
     },
     {
@@ -767,7 +636,7 @@
       "dur": 177,
       "kind": "image",
       "src": "img/mateo-combustible_s56.png",
-      "kb": 1,
+      "kb": 2,
       "pip": false
     },
     {
@@ -775,7 +644,7 @@
       "dur": 246,
       "kind": "image",
       "src": "img/mateo-combustible_s181.png",
-      "kb": 2,
+      "kb": 3,
       "pip": false
     },
     {
@@ -783,7 +652,7 @@
       "dur": 117,
       "kind": "image",
       "src": "img/mateo-combustible_s57.png",
-      "kb": 3,
+      "kb": 4,
       "pip": false
     },
     {
@@ -791,7 +660,7 @@
       "dur": 77,
       "kind": "image",
       "src": "img/mateo-combustible_s58.png",
-      "kb": 4,
+      "kb": 5,
       "pip": false
     },
     {
@@ -799,7 +668,7 @@
       "dur": 184,
       "kind": "image",
       "src": "img/mateo-combustible_s182.png",
-      "kb": 5,
+      "kb": 0,
       "pip": false
     },
     {
@@ -807,7 +676,7 @@
       "dur": 173,
       "kind": "image",
       "src": "img/mateo-combustible_s59.png",
-      "kb": 0,
+      "kb": 1,
       "pip": false
     },
     {
@@ -815,7 +684,7 @@
       "dur": 86,
       "kind": "image",
       "src": "img/mateo-combustible_s60.png",
-      "kb": 1,
+      "kb": 2,
       "pip": false
     },
     {
@@ -823,7 +692,7 @@
       "dur": 90,
       "kind": "image",
       "src": "img/mateo-combustible_s183.png",
-      "kb": 2,
+      "kb": 3,
       "pip": false
     },
     {
@@ -831,7 +700,7 @@
       "dur": 271,
       "kind": "image",
       "src": "img/mateo-combustible_s61.png",
-      "kb": 3,
+      "kb": 4,
       "pip": false
     },
     {
@@ -839,7 +708,7 @@
       "dur": 352,
       "kind": "image",
       "src": "img/mateo-combustible_s62.png",
-      "kb": 4,
+      "kb": 5,
       "pip": false
     },
     {
@@ -847,7 +716,7 @@
       "dur": 287,
       "kind": "image",
       "src": "img/mateo-combustible_s63.png",
-      "kb": 5,
+      "kb": 0,
       "pip": false
     },
     {
@@ -855,7 +724,7 @@
       "dur": 216,
       "kind": "image",
       "src": "img/mateo-combustible_s184.png",
-      "kb": 0,
+      "kb": 1,
       "pip": false
     },
     {
@@ -863,7 +732,7 @@
       "dur": 187,
       "kind": "image",
       "src": "img/mateo-combustible_s64.png",
-      "kb": 1,
+      "kb": 2,
       "pip": false
     },
     {
@@ -871,7 +740,7 @@
       "dur": 176,
       "kind": "image",
       "src": "img/mateo-combustible_s185.png",
-      "kb": 2,
+      "kb": 3,
       "pip": false
     },
     {
@@ -879,7 +748,7 @@
       "dur": 138,
       "kind": "image",
       "src": "img/mateo-combustible_s65.png",
-      "kb": 3,
+      "kb": 4,
       "pip": false
     },
     {
@@ -887,7 +756,7 @@
       "dur": 311,
       "kind": "image",
       "src": "img/mateo-combustible_s186.png",
-      "kb": 4,
+      "kb": 5,
       "pip": false
     },
     {
@@ -895,7 +764,7 @@
       "dur": 145,
       "kind": "image",
       "src": "img/mateo-combustible_s66.png",
-      "kb": 5,
+      "kb": 0,
       "pip": false
     },
     {
@@ -903,7 +772,7 @@
       "dur": 85,
       "kind": "image",
       "src": "img/mateo-combustible_s67.png",
-      "kb": 0,
+      "kb": 1,
       "pip": false
     },
     {
@@ -911,7 +780,7 @@
       "dur": 114,
       "kind": "image",
       "src": "img/mateo-combustible_s116.png",
-      "kb": 1,
+      "kb": 2,
       "pip": false
     },
     {
@@ -919,7 +788,7 @@
       "dur": 116,
       "kind": "image",
       "src": "img/mateo-combustible_s187.png",
-      "kb": 2,
+      "kb": 3,
       "pip": false
     },
     {
@@ -927,7 +796,7 @@
       "dur": 61,
       "kind": "image",
       "src": "img/mateo-combustible_s188.png",
-      "kb": 3,
+      "kb": 4,
       "pip": false
     },
     {
@@ -935,7 +804,7 @@
       "dur": 330,
       "kind": "image",
       "src": "img/mateo-combustible_s69.png",
-      "kb": 4,
+      "kb": 5,
       "pip": false
     },
     {
@@ -943,22 +812,14 @@
       "dur": 161,
       "kind": "image",
       "src": "img/mateo-combustible_s70.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 20963,
-      "dur": 201,
-      "kind": "image",
-      "src": "img/mateo-combustible_s189.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 21164,
-      "dur": 145,
+      "from": 20963,
+      "dur": 346,
       "kind": "image",
-      "src": "img/mateo-combustible_s72.png",
+      "src": "img/mateo-combustible_s189.png",
       "kb": 1,
       "pip": false
     },
@@ -972,15 +833,15 @@
     },
     {
       "from": 21557,
-      "dur": 340,
+      "dur": 282,
       "kind": "image",
       "src": "img/mateo-combustible_s190.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 21897,
-      "dur": 116,
+      "from": 21992,
+      "dur": 21,
       "kind": "image",
       "src": "img/mateo-combustible_s191.png",
       "kb": 4,
@@ -1022,7 +883,7 @@
       "from": 23258,
       "dur": 272,
       "kind": "image",
-      "src": "img/mateo-combustible_s79.png",
+      "src": "img/mateo-combustible_s80.png",
       "kb": 3,
       "pip": false
     },
@@ -1524,17 +1385,17 @@
     },
     {
       "from": 38468,
-      "dur": 330,
+      "dur": 306,
       "kind": "image",
       "src": "img/mateo-combustible_s122.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 38798,
-      "dur": 268,
+      "from": 38774,
+      "dur": 292,
       "kind": "image",
-      "src": "img/mateo-combustible_s122.png",
+      "src": "img/mateo-combustible_s123.png",
       "kb": 1,
       "pip": false
     },
