@@ -1,0 +1,1788 @@
+{
+  "slug": "mateo-techo",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 47154,
+  "audioSrc": "mateo-techo.mp3",
+  "avatarSrc": "mateo-techo_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 31,
+      "dur": 575,
+      "clip": 0
+    },
+    {
+      "from": 1847,
+      "dur": 473,
+      "clip": 575
+    },
+    {
+      "from": 10504,
+      "dur": 486,
+      "clip": 1048
+    },
+    {
+      "from": 40041,
+      "dur": 146,
+      "clip": 1534
+    },
+    {
+      "from": 46024,
+      "dur": 1090,
+      "clip": 1680
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 31,
+      "kind": "image",
+      "src": "img/mateo-techo_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 606,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/mateo-techo_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 713,
+      "dur": 368,
+      "kind": "image",
+      "src": "img/mateo-techo_s06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1081,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/mateo-techo_s08.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1240,
+      "dur": 268,
+      "kind": "image",
+      "src": "img/mateo-techo_s09.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1508,
+      "dur": 339,
+      "kind": "image",
+      "src": "img/mateo-techo_s10.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2320,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/mateo-techo_s13.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2620,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/mateo-techo_s14.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2781,
+      "dur": 292,
+      "kind": "image",
+      "src": "img/mateo-techo_s15.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3073,
+      "dur": 337,
+      "kind": "image",
+      "src": "img/mateo-techo_s16.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3410,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/mateo-techo_s17.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3497,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/mateo-techo_s26.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3699,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s18.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4029,
+      "dur": 377,
+      "kind": "image",
+      "src": "img/mateo-techo_s18.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4406,
+      "dur": 362,
+      "kind": "image",
+      "src": "img/mateo-techo_s20.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4768,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/mateo-techo_s21.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5200,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/mateo-techo_s22.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5381,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/mateo-techo_s23.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5607,
+      "dur": 54,
+      "kind": "image",
+      "src": "img/mateo-techo_s109.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5661,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/mateo-techo_s24.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6191,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s25.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6521,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/mateo-techo_s25.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6856,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/mateo-techo_s27.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6963,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s28.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7293,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s28.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7623,
+      "dur": 356,
+      "kind": "image",
+      "src": "img/mateo-techo_s28.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7979,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s29.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8309,
+      "dur": 260,
+      "kind": "image",
+      "src": "img/mateo-techo_s29.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8569,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s30.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8899,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/mateo-techo_s30.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9015,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s31.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9345,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/mateo-techo_s31.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9607,
+      "dur": 251,
+      "kind": "image",
+      "src": "img/mateo-techo_s32.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9858,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/mateo-techo_s33.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10065,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s34.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10395,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/mateo-techo_s34.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10990,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/mateo-techo_s35.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11251,
+      "dur": 50,
+      "kind": "image",
+      "src": "img/mateo-techo_s12.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11301,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s36.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11631,
+      "dur": 52,
+      "kind": "image",
+      "src": "img/mateo-techo_s36.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12013,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-techo_s37.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12103,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s38.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12433,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/mateo-techo_s38.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12596,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s39.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12926,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/mateo-techo_s39.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13142,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s40.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13472,
+      "dur": 307,
+      "kind": "image",
+      "src": "img/mateo-techo_s40.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13779,
+      "dur": 238,
+      "kind": "image",
+      "src": "img/mateo-techo_s41.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14017,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/mateo-techo_s42.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14242,
+      "dur": 264,
+      "kind": "image",
+      "src": "img/mateo-techo_s43.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14506,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s44.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14836,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/mateo-techo_s44.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15077,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/mateo-techo_s45.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15243,
+      "dur": 326,
+      "kind": "image",
+      "src": "img/mateo-techo_s46.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15569,
+      "dur": 369,
+      "kind": "image",
+      "src": "img/mateo-techo_s47.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15938,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s48.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16268,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/mateo-techo_s48.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16624,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s50.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16954,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s49.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17284,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/mateo-techo_s49.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17339,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s51.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17669,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/mateo-techo_s51.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17793,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s52.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18123,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/mateo-techo_s52.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18267,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s53.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18597,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/mateo-techo_s53.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18859,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/mateo-techo_s54.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19045,
+      "dur": 261,
+      "kind": "image",
+      "src": "img/mateo-techo_s55.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19306,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s56.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19636,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/mateo-techo_s56.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19721,
+      "dur": 326,
+      "kind": "image",
+      "src": "img/mateo-techo_s57.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20047,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/mateo-techo_s58.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20491,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/mateo-techo_s59.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20591,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s60.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20921,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/mateo-techo_s60.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21020,
+      "dur": 257,
+      "kind": "image",
+      "src": "img/mateo-techo_s61.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21277,
+      "dur": 320,
+      "kind": "image",
+      "src": "img/mateo-techo_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21597,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/mateo-techo_s63.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21725,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s64.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22055,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/mateo-techo_s64.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22491,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/mateo-techo_s66.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22679,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s67.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23009,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s65.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23339,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/mateo-techo_s65.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23415,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s69.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23745,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/mateo-techo_s69.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23919,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/mateo-techo_s70.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24266,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s71.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24596,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/mateo-techo_s71.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24710,
+      "dur": 279,
+      "kind": "image",
+      "src": "img/mateo-techo_s72.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25169,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/mateo-techo_s73.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25256,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/mateo-techo_s74.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25438,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/mateo-techo_s75.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25619,
+      "dur": 345,
+      "kind": "image",
+      "src": "img/mateo-techo_s76.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25964,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s77.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26294,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s77.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26624,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/mateo-techo_s77.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26686,
+      "dur": 347,
+      "kind": "image",
+      "src": "img/mateo-techo_s78.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27033,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s79.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27363,
+      "dur": 280,
+      "kind": "image",
+      "src": "img/mateo-techo_s79.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28003,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/mateo-techo_s80.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28096,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s81.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28426,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/mateo-techo_s81.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28605,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s82.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28935,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/mateo-techo_s82.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29116,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/mateo-techo_s83.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29351,
+      "dur": 360,
+      "kind": "image",
+      "src": "img/mateo-techo_s84.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29711,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s85.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30041,
+      "dur": 353,
+      "kind": "image",
+      "src": "img/mateo-techo_s85.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30394,
+      "dur": 351,
+      "kind": "image",
+      "src": "img/mateo-techo_s86.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30745,
+      "dur": 354,
+      "kind": "image",
+      "src": "img/mateo-techo_s87.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31099,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s88.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31429,
+      "dur": 70,
+      "kind": "image",
+      "src": "img/mateo-techo_s88.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31499,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/mateo-techo_s89.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32135,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s90.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32465,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/mateo-techo_s90.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32559,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s92.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32889,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/mateo-techo_s92.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33086,
+      "dur": 343,
+      "kind": "image",
+      "src": "img/mateo-techo_s93.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33429,
+      "dur": 350,
+      "kind": "image",
+      "src": "img/mateo-techo_s94.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33779,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/mateo-techo_s95.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34276,
+      "dur": 372,
+      "kind": "image",
+      "src": "img/mateo-techo_s96.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34648,
+      "dur": 261,
+      "kind": "image",
+      "src": "img/mateo-techo_s97.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 34909,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s98.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 35239,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s98.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 35569,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/mateo-techo_s98.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 35740,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/mateo-techo_s100.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 36040,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s101.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 36370,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s101.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 36700,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s101.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 37030,
+      "dur": 341,
+      "kind": "image",
+      "src": "img/mateo-techo_s101.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 37371,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s102.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 37701,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/mateo-techo_s102.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 37885,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s103.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 38215,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s103.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 38545,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/mateo-techo_s103.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 38620,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s104.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 38950,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/mateo-techo_s104.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 39075,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s105.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 39405,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s105.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 39735,
+      "dur": 306,
+      "kind": "image",
+      "src": "img/mateo-techo_s105.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 40187,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/mateo-techo_s106.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 40364,
+      "dur": 333,
+      "kind": "image",
+      "src": "img/mateo-techo_s107.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 40697,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s108.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 41027,
+      "dur": 245,
+      "kind": "image",
+      "src": "img/mateo-techo_s108.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 41272,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s110.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 41602,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s110.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 41932,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/mateo-techo_s110.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 42041,
+      "dur": 287,
+      "kind": "image",
+      "src": "img/mateo-techo_s111.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 42538,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s112.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 42868,
+      "dur": 372,
+      "kind": "image",
+      "src": "img/mateo-techo_s112.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 43240,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/mateo-techo_s113.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 43317,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s114.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 43647,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s114.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 43977,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/mateo-techo_s114.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 44053,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/mateo-techo_s115.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 44290,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s116.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 44620,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/mateo-techo_s116.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 44786,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/mateo-techo_s117.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 45506,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-techo_s118.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 45836,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/mateo-techo_s118.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 47114,
+      "dur": 40,
+      "kind": "image",
+      "src": "img/mateo-techo_s119.png",
+      "kb": 5,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1847,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "15 AÑOS DE OBRA",
+        "title": "Mateo",
+        "sub": "arreglos de la casa que duran"
+      }
+    },
+    {
+      "from": 2620,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LO BÁSICO",
+        "title": "Cómo entra el calor"
+      }
+    },
+    {
+      "from": 4406,
+      "dur": 150,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "LA LOSA ES UNA BATERÍA",
+        "sub": "junta calor de día y lo larga de noche",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 5381,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NÚMERO 1",
+        "title": "El techo blanco"
+      }
+    },
+    {
+      "from": 10504,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 10982,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NÚMERO 2",
+        "title": "La aislación"
+      }
+    },
+    {
+      "from": 10982,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 15569,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NÚMERO 3",
+        "title": "Ventilar el techo"
+      }
+    },
+    {
+      "from": 17339,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NÚMERO 4",
+        "title": "La sombra"
+      }
+    },
+    {
+      "from": 19721,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NÚMERO 5",
+        "title": "Las ventanas"
+      }
+    },
+    {
+      "from": 21597,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "GRATIS",
+        "title": "El truco de la noche"
+      }
+    },
+    {
+      "from": 25619,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO A PASO",
+        "title": "Aislar una chapa por abajo"
+      }
+    },
+    {
+      "from": 29116,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MEDIR",
+        "title": "Conoce tu casa en una semana"
+      }
+    },
+    {
+      "from": 31499,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SIN AIRE",
+        "title": "Noches más frescas"
+      }
+    },
+    {
+      "from": 35740,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL AIRE",
+        "title": "Elegirlo y ubicarlo bien"
+      }
+    },
+    {
+      "from": 42328,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 43240,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PREGUNTAS",
+        "title": "Lo que siempre me preguntan"
+      }
+    },
+    {
+      "from": 45026,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 46024,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 4930,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Tres cosas para una casa fresca",
+        "items": [
+          "Que el techo absorba menos",
+          "Que el calor que absorbe no baje",
+          "Sacar el calor que ya entró"
+        ]
+      }
+    },
+    {
+      "from": 5891,
+      "dur": 300,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "La verdad sobre el techo blanco",
+        "left": {
+          "label": "Superficie del techo",
+          "sub": "de ~70 °C a ~35-40 °C: real y medible"
+        },
+        "right": {
+          "label": "Adentro de la casa",
+          "sub": "varios grados si no hay aislación; poco si ya la hay"
+        }
+      }
+    },
+    {
+      "from": 6706,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-techo_s27.png",
+        "eyebrow": "Ojo con las promesas",
+        "phrase": "No esperes veinte grados menos adentro.",
+        "accent": "veinte grados"
+      }
+    },
+    {
+      "from": 11101,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-techo_s35.png",
+        "eyebrow": "La aislación",
+        "phrase": "La inversión que se paga dos veces.",
+        "accent": "dos veces"
+      }
+    },
+    {
+      "from": 11683,
+      "dur": 330,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Dónde va el aislante",
+        "items": [
+          "Losa: placas arriba + carpeta + impermeabilización",
+          "Losa (si no se puede arriba): cielorraso con aislante",
+          "Chapa: membrana con aluminio + cámara de aire",
+          "Tejas: lana de vidrio sobre el cielorraso"
+        ]
+      }
+    },
+    {
+      "from": 16384,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Efecto chimenea",
+        "title": "Ventilar el entretecho",
+        "steps": [
+          {
+            "title": "Entrada abajo",
+            "sub": "rejillas en los aleros"
+          },
+          {
+            "title": "Salida arriba",
+            "sub": "cumbrera ventilada o extractor eólico"
+          },
+          {
+            "title": "El aire caliente sale solo",
+            "sub": "sin electricidad"
+          }
+        ]
+      }
+    },
+    {
+      "from": 20281,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Ventanas: dónde frenar el sol",
+        "left": {
+          "label": "Cortina adentro",
+          "sub": "el sol ya entró: ayuda poco"
+        },
+        "right": {
+          "label": "Persiana, toldo, alero afuera",
+          "sub": "frena el calor antes del vidrio"
+        }
+      }
+    },
+    {
+      "from": 22161,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "El truco de la noche",
+        "title": "Descargar la batería",
+        "steps": [
+          {
+            "title": "De noche: abrir lados opuestos",
+            "sub": "ventilador en la ventana sacando aire"
+          },
+          {
+            "title": "Todo la noche enfría paredes y techo",
+            "sub": ""
+          },
+          {
+            "title": "A la mañana: cerrar todo",
+            "sub": "persianas bajas del lado del sol"
+          }
+        ]
+      }
+    },
+    {
+      "from": 24056,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El ventilador enfría el cuarto.",
+        "truth": "Te enfría a ti: mueve el aire sobre tu piel. En un cuarto vacío no sirve."
+      }
+    },
+    {
+      "from": 24989,
+      "dur": 180,
+      "comp": "BigStat",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Aire acondicionado",
+        "value": 24,
+        "suffix": " °C",
+        "support": "cada grado de menos gasta bastante más"
+      }
+    },
+    {
+      "from": 27643,
+      "dur": 360,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Chapa por abajo",
+        "title": "Aislar paso a paso",
+        "steps": [
+          {
+            "title": "Arreglar óxido y goteras primero",
+            "sub": ""
+          },
+          {
+            "title": "Listones bajo las correas",
+            "sub": "dejando cámara de aire"
+          },
+          {
+            "title": "Membrana, aluminio hacia la chapa",
+            "sub": "juntas con cinta de aluminio"
+          }
+        ]
+      }
+    },
+    {
+      "from": 31775,
+      "dur": 360,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Noches sin aire",
+        "items": [
+          "Dormitorio cerrado y a oscuras de día",
+          "Ventilador hacia ti (+ botella helada)",
+          "Sábanas de algodón o lino",
+          "Ducha tibia, no helada",
+          "Apagar lo que calienta"
+        ]
+      }
+    },
+    {
+      "from": 33916,
+      "dur": 360,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Errores de cada verano",
+        "items": [
+          "Techo oscuro o rojo",
+          "Membrana negra sin proteger",
+          "Abrir todo de día",
+          "Aire en 18 °C",
+          "Cortinas oscuras adentro"
+        ]
+      }
+    },
+    {
+      "from": 42328,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "La cuenta",
+        "left": {
+          "label": "Aire prendido todo el verano",
+          "sub": "y la cuenta de luz"
+        },
+        "right": {
+          "label": "Techo blanco, sombra, noche",
+          "sub": "baratos o gratis"
+        }
+      }
+    },
+    {
+      "from": 45026,
+      "dur": 480,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "De lo más barato a lo más caro",
+        "items": [
+          "Ventilar de noche, cerrar de día",
+          "Frenar el sol en las ventanas desde afuera",
+          "Techo blanco reflectivo (y lavarlo)",
+          "Ventilar el entretecho",
+          "Sombra: media sombra y árboles",
+          "Aislar: verano e invierno"
+        ],
+        "stamp": "¡Anótalo!"
+      }
+    }
+  ]
+}
