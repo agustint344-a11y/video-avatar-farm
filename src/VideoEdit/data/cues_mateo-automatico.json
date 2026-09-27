@@ -1,0 +1,2292 @@
+{
+  "slug": "mateo-automatico",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 52901,
+  "audioSrc": "mateo-automatico.mp3",
+  "avatarSrc": "mateo-automatico_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 0,
+      "dur": 538,
+      "clip": 0
+    },
+    {
+      "from": 904,
+      "dur": 696,
+      "clip": 538
+    },
+    {
+      "from": 10985,
+      "dur": 642,
+      "clip": 1234
+    },
+    {
+      "from": 29221,
+      "dur": 167,
+      "clip": 1876
+    },
+    {
+      "from": 33833,
+      "dur": 350,
+      "clip": 2043
+    },
+    {
+      "from": 51538,
+      "dur": 1330,
+      "clip": 2393
+    }
+  ],
+  "broll": [
+    {
+      "from": 538,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/mateo-automatico_s03.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 819,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/mateo-automatico_s152.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 1600,
+      "dur": 338,
+      "kind": "image",
+      "src": "img/mateo-automatico_s06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1938,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/mateo-automatico_s154.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2110,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/mateo-automatico_s07.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2231,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/mateo-automatico_s08.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2368,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/mateo-automatico_s155.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2524,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/mateo-automatico_s156.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2626,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/mateo-automatico_s10.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2695,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/mateo-automatico_s11.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2943,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/mateo-automatico_s12.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3088,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/mateo-automatico_s13.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3257,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/mateo-automatico_s157.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3394,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/mateo-automatico_s14.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3947,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/mateo-automatico_s16.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4059,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/mateo-automatico_s17.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4223,
+      "dur": 245,
+      "kind": "image",
+      "src": "img/mateo-automatico_s158.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4648,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-automatico_s159.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4768,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/mateo-automatico_s19.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4985,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/mateo-automatico_s20.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5160,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/mateo-automatico_s161.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5308,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/mateo-automatico_s22.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5485,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-automatico_s23.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5815,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/mateo-automatico_s24.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5970,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/mateo-automatico_s25.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6121,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/mateo-automatico_s162.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6311,
+      "dur": 205,
+      "kind": "image",
+      "src": "img/mateo-automatico_s26.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6516,
+      "dur": 325,
+      "kind": "image",
+      "src": "img/mateo-automatico_s27.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7081,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/mateo-automatico_s28.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7157,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/mateo-automatico_s164.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7319,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/mateo-automatico_s29.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7493,
+      "dur": 53,
+      "kind": "image",
+      "src": "img/mateo-automatico_s30.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7546,
+      "dur": 293,
+      "kind": "image",
+      "src": "img/mateo-automatico_s165.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7839,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/mateo-automatico_s166.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8190,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/mateo-automatico_s167.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8409,
+      "dur": 359,
+      "kind": "image",
+      "src": "img/mateo-automatico_s32.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8768,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/mateo-automatico_s33.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8875,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/mateo-automatico_s168.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9089,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/mateo-automatico_s34.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9331,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-automatico_s35.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9661,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/mateo-automatico_s35.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9755,
+      "dur": 80,
+      "kind": "image",
+      "src": "img/mateo-automatico_s169.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9835,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-automatico_s36.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10165,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-automatico_s36.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10495,
+      "dur": 257,
+      "kind": "image",
+      "src": "img/mateo-automatico_s38.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10752,
+      "dur": 233,
+      "kind": "image",
+      "src": "img/mateo-automatico_s170.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11627,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/mateo-automatico_s39.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11751,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-automatico_s40.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12081,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/mateo-automatico_s40.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12325,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-automatico_s41.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12445,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/mateo-automatico_s42.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12685,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/mateo-automatico_s43.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12860,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/mateo-automatico_s172.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13002,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-automatico_s44.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13332,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/mateo-automatico_s44.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13409,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/mateo-automatico_s45.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13572,
+      "dur": 263,
+      "kind": "image",
+      "src": "img/mateo-automatico_s173.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13835,
+      "dur": 361,
+      "kind": "image",
+      "src": "img/mateo-automatico_s46.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14196,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/mateo-automatico_s47.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14351,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/mateo-automatico_s174.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14496,
+      "dur": 277,
+      "kind": "image",
+      "src": "img/mateo-automatico_s48.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14773,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/mateo-automatico_s49.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14949,
+      "dur": 61,
+      "kind": "image",
+      "src": "img/mateo-automatico_s175.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15430,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/mateo-automatico_s53.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15599,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/mateo-automatico_s176.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15709,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/mateo-automatico_s54.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15837,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/mateo-automatico_s55.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16099,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/mateo-automatico_s56.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16341,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/mateo-automatico_s57.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16438,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/mateo-automatico_s177.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16658,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/mateo-automatico_s58.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16829,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/mateo-automatico_s61.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17002,
+      "dur": 294,
+      "kind": "image",
+      "src": "img/mateo-automatico_s60.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17296,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/mateo-automatico_s178.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17513,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/mateo-automatico_s179.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17590,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/mateo-automatico_s62.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17674,
+      "dur": 306,
+      "kind": "image",
+      "src": "img/mateo-automatico_s180.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17980,
+      "dur": 370,
+      "kind": "image",
+      "src": "img/mateo-automatico_s63.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18350,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/mateo-automatico_s181.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18668,
+      "dur": 304,
+      "kind": "image",
+      "src": "img/mateo-automatico_s65.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18972,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/mateo-automatico_s66.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19126,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/mateo-automatico_s67.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19310,
+      "dur": 260,
+      "kind": "image",
+      "src": "img/mateo-automatico_s68.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19810,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/mateo-automatico_s69.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19865,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/mateo-automatico_s70.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20027,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/mateo-automatico_s184.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20150,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/mateo-automatico_s71.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20389,
+      "dur": 49,
+      "kind": "image",
+      "src": "img/mateo-automatico_s185.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20438,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-automatico_s72.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20768,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/mateo-automatico_s72.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20989,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/mateo-automatico_s73.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21205,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/mateo-automatico_s186.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21342,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/mateo-automatico_s74.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21642,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/mateo-automatico_s187.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21776,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/mateo-automatico_s75.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21945,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-automatico_s145.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22275,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/mateo-automatico_s76.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22394,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/mateo-automatico_s188.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22512,
+      "dur": 347,
+      "kind": "image",
+      "src": "img/mateo-automatico_s77.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22859,
+      "dur": 52,
+      "kind": "image",
+      "src": "img/mateo-automatico_s189.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22911,
+      "dur": 321,
+      "kind": "image",
+      "src": "img/mateo-automatico_s78.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23232,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/mateo-automatico_s79.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23396,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/mateo-automatico_s80.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23537,
+      "dur": 339,
+      "kind": "image",
+      "src": "img/mateo-automatico_s190.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23876,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/mateo-automatico_s81.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24077,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/mateo-automatico_s82.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24304,
+      "dur": 268,
+      "kind": "image",
+      "src": "img/mateo-automatico_s191.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24572,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/mateo-automatico_s83.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24780,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/mateo-automatico_s192.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25285,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/mateo-automatico_s85.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25395,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/mateo-automatico_s193.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25614,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/mateo-automatico_s86.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25733,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-automatico_s194.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26063,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/mateo-automatico_s194.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26180,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/mateo-automatico_s87.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26344,
+      "dur": 345,
+      "kind": "image",
+      "src": "img/mateo-automatico_s88.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26689,
+      "dur": 284,
+      "kind": "image",
+      "src": "img/mateo-automatico_s89.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26973,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/mateo-automatico_s195.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27078,
+      "dur": 325,
+      "kind": "image",
+      "src": "img/mateo-automatico_s90.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27403,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/mateo-automatico_s196.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27603,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/mateo-automatico_s91.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27792,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-automatico_s197.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27942,
+      "dur": 358,
+      "kind": "image",
+      "src": "img/mateo-automatico_s92.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28300,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-automatico_s93.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28630,
+      "dur": 58,
+      "kind": "image",
+      "src": "img/mateo-automatico_s93.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28688,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/mateo-automatico_s198.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28781,
+      "dur": 261,
+      "kind": "image",
+      "src": "img/mateo-automatico_s94.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29042,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/mateo-automatico_s199.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29388,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/mateo-automatico_s95.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29500,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-automatico_s96.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29620,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/mateo-automatico_s97.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29775,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/mateo-automatico_s98.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29952,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/mateo-automatico_s99.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30038,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/mateo-automatico_s100.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30160,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/mateo-automatico_s200.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30301,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/mateo-automatico_s101.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30456,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-automatico_s201.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30726,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/mateo-automatico_s102.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30889,
+      "dur": 223,
+      "kind": "image",
+      "src": "img/mateo-automatico_s103.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31112,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/mateo-automatico_s202.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31333,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/mateo-automatico_s104.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31585,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/mateo-automatico_s203.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31697,
+      "dur": 311,
+      "kind": "image",
+      "src": "img/mateo-automatico_s105.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32008,
+      "dur": 250,
+      "kind": "image",
+      "src": "img/mateo-automatico_s106.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32258,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/mateo-automatico_s107.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32445,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-automatico_s108.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32775,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/mateo-automatico_s108.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33266,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/mateo-automatico_s204.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33414,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/mateo-automatico_s111.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33495,
+      "dur": 338,
+      "kind": "image",
+      "src": "img/mateo-automatico_s205.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 34183,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/mateo-automatico_s113.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34369,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/mateo-automatico_s114.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34499,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/mateo-automatico_s115.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 34661,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/mateo-automatico_s116.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34788,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/mateo-automatico_s117.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 34932,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/mateo-automatico_s118.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 35028,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/mateo-automatico_s119.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 35602,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/mateo-automatico_s120.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 35712,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-automatico_s121.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 36042,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/mateo-automatico_s121.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 36129,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/mateo-automatico_s206.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 36228,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/mateo-automatico_s122.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 36361,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/mateo-automatico_s207.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 36623,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/mateo-automatico_s123.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 36802,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/mateo-automatico_s124.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 36956,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/mateo-automatico_s208.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 37153,
+      "dur": 267,
+      "kind": "image",
+      "src": "img/mateo-automatico_s209.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 37420,
+      "dur": 356,
+      "kind": "image",
+      "src": "img/mateo-automatico_s125.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 37776,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/mateo-automatico_s126.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 37930,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-automatico_s127.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 38260,
+      "dur": 285,
+      "kind": "image",
+      "src": "img/mateo-automatico_s127.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 38545,
+      "dur": 255,
+      "kind": "image",
+      "src": "img/mateo-automatico_s210.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 38800,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/mateo-automatico_s128.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 39035,
+      "dur": 359,
+      "kind": "image",
+      "src": "img/mateo-automatico_s129.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 39394,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-automatico_s211.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 39724,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/mateo-automatico_s211.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 39895,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-automatico_s130.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 40225,
+      "dur": 304,
+      "kind": "image",
+      "src": "img/mateo-automatico_s130.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 40529,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/mateo-automatico_s212.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 40662,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/mateo-automatico_s131.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 40843,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/mateo-automatico_s132.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 40972,
+      "dur": 310,
+      "kind": "image",
+      "src": "img/mateo-automatico_s213.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 41282,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/mateo-automatico_s133.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 41384,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-automatico_s214.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 41714,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-automatico_s214.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 42044,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/mateo-automatico_s214.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 42222,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/mateo-automatico_s134.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 42332,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-automatico_s215.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 42662,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-automatico_s215.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 42992,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/mateo-automatico_s215.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 43114,
+      "dur": 258,
+      "kind": "image",
+      "src": "img/mateo-automatico_s216.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 43372,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/mateo-automatico_s135.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 43584,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/mateo-automatico_s136.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 43854,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-automatico_s137.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 44184,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-automatico_s137.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 44514,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/mateo-automatico_s137.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 44611,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/mateo-automatico_s138.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 44747,
+      "dur": 271,
+      "kind": "image",
+      "src": "img/mateo-automatico_s217.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 45018,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/mateo-automatico_s139.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 45248,
+      "dur": 321,
+      "kind": "image",
+      "src": "img/mateo-automatico_s140.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 45869,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/mateo-automatico_s141.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 45950,
+      "dur": 307,
+      "kind": "image",
+      "src": "img/mateo-automatico_s218.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 46257,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/mateo-automatico_s219.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 46447,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-automatico_s142.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 46777,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/mateo-automatico_s142.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 46929,
+      "dur": 347,
+      "kind": "image",
+      "src": "img/mateo-automatico_s143.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 47276,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/mateo-automatico_s144.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 47552,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-automatico_s220.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 47882,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/mateo-automatico_s220.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 48068,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/mateo-automatico_s221.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 48285,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-automatico_s146.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 48615,
+      "dur": 70,
+      "kind": "image",
+      "src": "img/mateo-automatico_s146.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 48685,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-automatico_s222.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 49015,
+      "dur": 274,
+      "kind": "image",
+      "src": "img/mateo-automatico_s222.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 49289,
+      "dur": 218,
+      "kind": "image",
+      "src": "img/mateo-automatico_s223.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 49747,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/mateo-automatico_s224.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 49878,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/mateo-automatico_s225.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 49975,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-automatico_s148.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 50305,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/mateo-automatico_s147.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 50973,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-automatico_s149.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 51303,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/mateo-automatico_s149.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 52868,
+      "dur": 33,
+      "kind": "image",
+      "src": "img/mateo-automatico_s150.png",
+      "kb": 5,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 904,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "15 AÑOS DE OBRA Y TALLER",
+        "title": "Mateo",
+        "sub": "arreglos que te ahorran plata"
+      }
+    },
+    {
+      "from": 1809,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LO BÁSICO",
+        "title": "Cómo funciona un automático"
+      }
+    },
+    {
+      "from": 2943,
+      "dur": 150,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CONVERTIDOR DE PAR",
+        "sub": "dos ventiladores en un baño de aceite",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 4985,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NÚMERO 1",
+        "title": "P o R en movimiento"
+      }
+    },
+    {
+      "from": 5528,
+      "dur": 150,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "LA P NO ES UN FRENO",
+        "sub": "es una trabita de metal",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 7319,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NÚMERO 2",
+        "title": "Neutro en las bajadas"
+      }
+    },
+    {
+      "from": 10985,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 11619,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NÚMERO 3",
+        "title": "Acelerar en N y meter D"
+      }
+    },
+    {
+      "from": 13835,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NÚMERO 4",
+        "title": "La P como freno de mano"
+      }
+    },
+    {
+      "from": 16658,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NÚMERO 5",
+        "title": "Empujarlo o remolcarlo mal"
+      }
+    },
+    {
+      "from": 19126,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NÚMERO 6",
+        "title": "El aceite «de por vida»"
+      }
+    },
+    {
+      "from": 23876,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NÚMERO 7",
+        "title": "El calor: el asesino silencioso"
+      }
+    },
+    {
+      "from": 23876,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 30889,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LAS SEÑALES",
+        "title": "Cuando la caja avisa"
+      }
+    },
+    {
+      "from": 37776,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "BONUS",
+        "title": "Si recién pasas a un automático"
+      }
+    },
+    {
+      "from": 43584,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO A PASO",
+        "title": "Revisar el aceite de la caja"
+      }
+    },
+    {
+      "from": 49507,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 50433,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 51538,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 669,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-automatico_s03.png",
+        "eyebrow": "La verdad",
+        "phrase": "Las cajas no se rompen por mala suerte. Se rompen por hábitos.",
+        "accent": "hábitos"
+      }
+    },
+    {
+      "from": 3647,
+      "dur": 300,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Tres tipos de automático",
+        "left": {
+          "label": "Clásico con convertidor",
+          "sub": "el más aguantador"
+        },
+        "right": {
+          "label": "CVT o doble embrague",
+          "sub": "más eficientes, más delicados con el calor"
+        }
+      }
+    },
+    {
+      "from": 4468,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-automatico_s18.png",
+        "eyebrow": "Grábatelo",
+        "phrase": "La caja vive y muere por el aceite y el calor.",
+        "accent": "el aceite y el calor"
+      }
+    },
+    {
+      "from": 6841,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Regla 1",
+        "title": "Antes de cambiar P · R · N · D",
+        "steps": [
+          {
+            "title": "Auto detenido del todo",
+            "sub": "con el freno de pie"
+          },
+          {
+            "title": "Pie en el freno y cambias",
+            "sub": "nunca rodando"
+          },
+          {
+            "title": "Esperas un segundo",
+            "sub": "a sentir que entró, y aceleras"
+          }
+        ]
+      }
+    },
+    {
+      "from": 7920,
+      "dur": 270,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "En neutro, en la bajada, ahorras combustible.",
+        "truth": "En D con el pie levantado la inyección corta: gasta casi cero. En N gasta más y pierdes freno motor."
+      }
+    },
+    {
+      "from": 10255,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "¿Y en el semáforo?",
+        "items": [
+          "Parada corta: D con el pie en el freno",
+          "Espera larga: N con freno, sin problema",
+          "Lo que desgasta: jugar con la palanca D-N-D-N"
+        ]
+      }
+    },
+    {
+      "from": 12175,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-automatico_s40.png",
+        "eyebrow": "Número 3",
+        "phrase": "Acelerar en N y meter la D: un golpe seco a toda la caja.",
+        "accent": "golpe seco"
+      }
+    },
+    {
+      "from": 15010,
+      "dur": 420,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Número 4",
+        "title": "Estacionar en pendiente",
+        "steps": [
+          {
+            "title": "Freno de pie · pones N",
+            "sub": "sin soltar el freno"
+          },
+          {
+            "title": "Freno de mano firme",
+            "sub": "sueltas el pie despacito: se apoya en el de mano"
+          },
+          {
+            "title": "Pie en el freno · pones P · apagas",
+            "sub": "la traba del Park queda sin carga"
+          }
+        ]
+      }
+    },
+    {
+      "from": 18428,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Remolcar un automático",
+        "items": [
+          "Mejor: grúa de plataforma, 4 ruedas arriba",
+          "O con las ruedas de tracción levantadas",
+          "Si no: kilómetros y velocidad máxima del manual",
+          "Avisa al de la grúa: es automático"
+        ]
+      }
+    },
+    {
+      "from": 19570,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El aceite de la caja es de por vida.",
+        "truth": "Se gasta, se calienta y se contamina. En uso severo, casi todos los fabricantes piden cambiarlo antes."
+      }
+    },
+    {
+      "from": 24895,
+      "dur": 390,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que cocina la caja",
+        "items": [
+          "Sostener el auto en subida con el acelerador",
+          "Frenar y acelerar al mismo tiempo",
+          "Remolcar o ir muy cargado en verano",
+          "Mecer D-R a lo bruto en barro o arena",
+          "Bajadas largas en D frenando todo el tiempo"
+        ]
+      }
+    },
+    {
+      "from": 30576,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-automatico_s101.png",
+        "eyebrow": "La camioneta de la playa",
+        "phrase": "Media hora de meneo le costó más que diez años de mantenimiento.",
+        "accent": "diez años"
+      }
+    },
+    {
+      "from": 32906,
+      "dur": 360,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "La caja te avisa",
+        "items": [
+          "Golpes al cambiar",
+          "Patina: sube de vueltas y no acelera",
+          "Tarda en entrar D o R",
+          "Zumbidos o silbidos",
+          "Manchas de aceite rojizo",
+          "Olor a quemado",
+          "Luz de la caja o modo emergencia"
+        ]
+      }
+    },
+    {
+      "from": 35242,
+      "dur": 360,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Mi rutina con un automático",
+        "items": [
+          "Parado del todo antes de cambiar",
+          "En movimiento, siempre D",
+          "Salidas suaves en frío",
+          "Pendiente: freno de mano, después P",
+          "Subidas: freno, nunca acelerador",
+          "Bajadas largas: marcha más baja",
+          "Aceite de caja en plazo de uso severo"
+        ]
+      }
+    },
+    {
+      "from": 45569,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "El color del aceite",
+        "items": [
+          "Rojo o rosado, transparente → bien",
+          "Marrón oscuro → cambiarlo pronto",
+          "Negro y olor a quemado → al taller ya",
+          "Brillitos de metal o espuma → al taller",
+          "Rosado lechoso → entró agua"
+        ]
+      }
+    },
+    {
+      "from": 49507,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "La cuenta",
+        "left": {
+          "label": "Caja reparada o cambiada",
+          "sub": "de las cuentas más grandes de un auto"
+        },
+        "right": {
+          "label": "Cuidarla",
+          "sub": "hábitos gratis + aceite a tiempo"
+        }
+      }
+    },
+    {
+      "from": 50433,
+      "dur": 540,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Las 7 cosas que nunca",
+        "items": [
+          "P o R con el auto en movimiento",
+          "Neutro en bajadas o para ahorrar",
+          "Acelerar en N y meter D",
+          "La P como freno de mano en pendiente",
+          "Empujarlo o remolcarlo con la tracción en el piso",
+          "Creer que el aceite es de por vida",
+          "Cocinarla con calor"
+        ],
+        "stamp": "¡Anótalo!"
+      }
+    }
+  ]
+}
