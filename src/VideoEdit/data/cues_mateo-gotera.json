@@ -1,0 +1,1910 @@
+{
+  "slug": "mateo-gotera",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 50867,
+  "audioSrc": "mateo-gotera.mp3",
+  "avatarSrc": "mateo-gotera_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 562,
+      "dur": 1122,
+      "clip": 0
+    },
+    {
+      "from": 8299,
+      "dur": 535,
+      "clip": 1122
+    },
+    {
+      "from": 34046,
+      "dur": 167,
+      "clip": 1657
+    },
+    {
+      "from": 49757,
+      "dur": 1073,
+      "clip": 1824
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 260,
+      "kind": "image",
+      "src": "img/mateo-gotera_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 260,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-gotera_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 410,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/mateo-gotera_s03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1684,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/mateo-gotera_s09.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1912,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s32.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2242,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s08.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2572,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-gotera_s08.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2692,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/mateo-gotera_s11.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2861,
+      "dur": 233,
+      "kind": "image",
+      "src": "img/mateo-gotera_s12.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3454,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/mateo-gotera_s15.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3662,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s17.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3992,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s16.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4322,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/mateo-gotera_s16.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4395,
+      "dur": 251,
+      "kind": "image",
+      "src": "img/mateo-gotera_s19.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4646,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/mateo-gotera_s20.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4774,
+      "dur": 346,
+      "kind": "image",
+      "src": "img/mateo-gotera_s21.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5120,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/mateo-gotera_s22.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5283,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/mateo-gotera_s23.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5529,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s24.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5859,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/mateo-gotera_s24.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5919,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s25.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6249,
+      "dur": 64,
+      "kind": "image",
+      "src": "img/mateo-gotera_s25.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6313,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s27.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6643,
+      "dur": 288,
+      "kind": "image",
+      "src": "img/mateo-gotera_s26.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7111,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/mateo-gotera_s14.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7535,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/mateo-gotera_s30.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7688,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/mateo-gotera_s108.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7907,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s31.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8237,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/mateo-gotera_s29.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8834,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/mateo-gotera_s28.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8932,
+      "dur": 356,
+      "kind": "image",
+      "src": "img/mateo-gotera_s33.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9288,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/mateo-gotera_s34.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9731,
+      "dur": 328,
+      "kind": "image",
+      "src": "img/mateo-gotera_s36.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10059,
+      "dur": 218,
+      "kind": "image",
+      "src": "img/mateo-gotera_s37.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10277,
+      "dur": 335,
+      "kind": "image",
+      "src": "img/mateo-gotera_s38.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10612,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s39.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10942,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/mateo-gotera_s39.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11095,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11425,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/mateo-gotera_s40.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11558,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/mateo-gotera_s41.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11640,
+      "dur": 302,
+      "kind": "image",
+      "src": "img/mateo-gotera_s42.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11942,
+      "dur": 310,
+      "kind": "image",
+      "src": "img/mateo-gotera_s43.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12252,
+      "dur": 302,
+      "kind": "image",
+      "src": "img/mateo-gotera_s44.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12554,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/mateo-gotera_s45.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12724,
+      "dur": 265,
+      "kind": "image",
+      "src": "img/mateo-gotera_s80.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12989,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/mateo-gotera_s46.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13429,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s48.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13759,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s47.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14089,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s47.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14419,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s47.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14749,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/mateo-gotera_s47.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14857,
+      "dur": 292,
+      "kind": "image",
+      "src": "img/mateo-gotera_s51.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15149,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/mateo-gotera_s52.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15662,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/mateo-gotera_s53.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15728,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s54.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16058,
+      "dur": 268,
+      "kind": "image",
+      "src": "img/mateo-gotera_s54.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16326,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/mateo-gotera_s55.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16477,
+      "dur": 275,
+      "kind": "image",
+      "src": "img/mateo-gotera_s56.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16752,
+      "dur": 312,
+      "kind": "image",
+      "src": "img/mateo-gotera_s57.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17064,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/mateo-gotera_s65.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17160,
+      "dur": 368,
+      "kind": "image",
+      "src": "img/mateo-gotera_s58.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17528,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s59.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17858,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/mateo-gotera_s59.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17924,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/mateo-gotera_s60.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18300,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s61.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18630,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/mateo-gotera_s61.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18703,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s62.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19033,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s62.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19363,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/mateo-gotera_s62.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19439,
+      "dur": 215,
+      "kind": "image",
+      "src": "img/mateo-gotera_s63.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19654,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s64.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19984,
+      "dur": 356,
+      "kind": "image",
+      "src": "img/mateo-gotera_s64.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20340,
+      "dur": 325,
+      "kind": "image",
+      "src": "img/mateo-gotera_s66.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20665,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s67.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20995,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/mateo-gotera_s67.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21353,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s68.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21683,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s68.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22013,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/mateo-gotera_s68.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22091,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s70.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22421,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/mateo-gotera_s70.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22476,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s71.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22806,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/mateo-gotera_s71.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22987,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/mateo-gotera_s73.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23176,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s74.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23506,
+      "dur": 71,
+      "kind": "image",
+      "src": "img/mateo-gotera_s74.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23577,
+      "dur": 280,
+      "kind": "image",
+      "src": "img/mateo-gotera_s75.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23857,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/mateo-gotera_s76.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24058,
+      "dur": 301,
+      "kind": "image",
+      "src": "img/mateo-gotera_s77.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24359,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s78.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24689,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/mateo-gotera_s78.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24833,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s79.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25163,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s79.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25493,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/mateo-gotera_s79.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25724,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s81.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26054,
+      "dur": 54,
+      "kind": "image",
+      "src": "img/mateo-gotera_s81.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26468,
+      "dur": 264,
+      "kind": "image",
+      "src": "img/mateo-gotera_s83.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26732,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s84.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27062,
+      "dur": 218,
+      "kind": "image",
+      "src": "img/mateo-gotera_s84.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27280,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s85.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27610,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/mateo-gotera_s85.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27782,
+      "dur": 365,
+      "kind": "image",
+      "src": "img/mateo-gotera_s86.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28147,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s87.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28477,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/mateo-gotera_s87.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28586,
+      "dur": 366,
+      "kind": "image",
+      "src": "img/mateo-gotera_s88.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28952,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/mateo-gotera_s89.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29193,
+      "dur": 359,
+      "kind": "image",
+      "src": "img/mateo-gotera_s90.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29552,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s91.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29882,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/mateo-gotera_s91.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29992,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s92.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30322,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/mateo-gotera_s92.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30514,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s93.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30844,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s93.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31174,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/mateo-gotera_s93.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31269,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s94.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31599,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/mateo-gotera_s94.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31825,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/mateo-gotera_s95.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32020,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/mateo-gotera_s96.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32504,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/mateo-gotera_s99.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32715,
+      "dur": 348,
+      "kind": "image",
+      "src": "img/mateo-gotera_s100.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33063,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/mateo-gotera_s101.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33217,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s102.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33547,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/mateo-gotera_s102.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33626,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s103.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33956,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-gotera_s103.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34213,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/mateo-gotera_s104.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 34365,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/mateo-gotera_s105.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 34579,
+      "dur": 233,
+      "kind": "image",
+      "src": "img/mateo-gotera_s106.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34812,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s107.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 35142,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s107.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 35472,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/mateo-gotera_s107.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 35555,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/mateo-gotera_s109.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 35801,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/mateo-gotera_s126.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 36322,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/mateo-gotera_s127.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 36543,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s128.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 36873,
+      "dur": 229,
+      "kind": "image",
+      "src": "img/mateo-gotera_s128.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 37102,
+      "dur": 343,
+      "kind": "image",
+      "src": "img/mateo-gotera_s129.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 37445,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s110.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 37775,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s110.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 38105,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s110.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 38435,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s110.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 38765,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/mateo-gotera_s110.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 38838,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/mateo-gotera_s111.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 39039,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s112.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 39369,
+      "dur": 278,
+      "kind": "image",
+      "src": "img/mateo-gotera_s112.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 39647,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s113.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 39977,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/mateo-gotera_s113.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 40225,
+      "dur": 343,
+      "kind": "image",
+      "src": "img/mateo-gotera_s114.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 40568,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s115.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 40898,
+      "dur": 71,
+      "kind": "image",
+      "src": "img/mateo-gotera_s115.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 41209,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s116.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 41539,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/mateo-gotera_s116.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 41778,
+      "dur": 349,
+      "kind": "image",
+      "src": "img/mateo-gotera_s117.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 42127,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s118.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 42457,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s118.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 42787,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s118.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 43117,
+      "dur": 338,
+      "kind": "image",
+      "src": "img/mateo-gotera_s118.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 43455,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s121.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 43785,
+      "dur": 244,
+      "kind": "image",
+      "src": "img/mateo-gotera_s121.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 44029,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s122.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 44359,
+      "dur": 52,
+      "kind": "image",
+      "src": "img/mateo-gotera_s122.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 44651,
+      "dur": 328,
+      "kind": "image",
+      "src": "img/mateo-gotera_s123.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 44979,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s124.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 45309,
+      "dur": 272,
+      "kind": "image",
+      "src": "img/mateo-gotera_s124.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 45581,
+      "dur": 331,
+      "kind": "image",
+      "src": "img/mateo-gotera_s125.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 46122,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s130.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 46452,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s130.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 46782,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/mateo-gotera_s130.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 46882,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/mateo-gotera_s131.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 46957,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s132.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 47287,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/mateo-gotera_s132.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 47400,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s133.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 47730,
+      "dur": 56,
+      "kind": "image",
+      "src": "img/mateo-gotera_s133.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 47786,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s134.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 48116,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s134.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 48446,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/mateo-gotera_s134.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 48523,
+      "dur": 359,
+      "kind": "image",
+      "src": "img/mateo-gotera_s135.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 49362,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-gotera_s136.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 49692,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/mateo-gotera_s136.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 50830,
+      "dur": 37,
+      "kind": "image",
+      "src": "img/mateo-gotera_s137.png",
+      "kb": 4,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1069,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "15 AÑOS DE OBRA",
+        "title": "Mateo",
+        "sub": "arreglos de la casa que duran"
+      }
+    },
+    {
+      "from": 1912,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL MÉTODO",
+        "title": "La prueba de la manguera"
+      }
+    },
+    {
+      "from": 2692,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LO PRIMERO",
+        "title": "La seguridad"
+      }
+    },
+    {
+      "from": 4292,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LO BÁSICO",
+        "title": "Cómo viaja el agua"
+      }
+    },
+    {
+      "from": 4701,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "EL AGUA CAMINA",
+        "sub": "a veces metros",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 8299,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 12989,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TECHO 1",
+        "title": "Losa de cemento"
+      }
+    },
+    {
+      "from": 16752,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "LA MALLA DE REFUERZO",
+        "sub": "el truco que hace que no vuelva",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 16752,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 19439,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TECHO 2",
+        "title": "Chapa"
+      }
+    },
+    {
+      "from": 23857,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TECHO 3",
+        "title": "Tejas"
+      }
+    },
+    {
+      "from": 28952,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NO ES EL TECHO",
+        "title": "Ventanas y claraboyas"
+      }
+    },
+    {
+      "from": 32020,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EMERGENCIA",
+        "title": "Cuando está lloviendo"
+      }
+    },
+    {
+      "from": 37445,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO A PASO",
+        "title": "La membrana líquida"
+      }
+    },
+    {
+      "from": 45912,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 46882,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PREGUNTAS",
+        "title": "Lo que siempre me preguntan"
+      }
+    },
+    {
+      "from": 48882,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 49757,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 3094,
+      "dur": 360,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Antes de subir al techo",
+        "items": [
+          "Nunca mojado, con viento ni de noche",
+          "Calzado con suela de goma",
+          "Arnés si hay pendiente o altura",
+          "Chapa: pisa sobre la línea de tornillos",
+          "Alguien tiene que saber que estás arriba"
+        ]
+      }
+    },
+    {
+      "from": 6931,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-gotera_s19.png",
+        "eyebrow": "Grábatelo",
+        "phrase": "Se busca más arriba en la pendiente. El agua no sube.",
+        "accent": "más arriba"
+      }
+    },
+    {
+      "from": 7205,
+      "dur": 330,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "No siempre es el techo",
+        "items": [
+          "Canaleta que rebalsa",
+          "Tanque de agua o sus caños",
+          "Encuentro con una pared más alta",
+          "Ventana o claraboya",
+          "Condensación en chapa (días fríos sin lluvia)"
+        ]
+      }
+    },
+    {
+      "from": 9371,
+      "dur": 360,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "La prueba de la manguera",
+        "title": "De abajo hacia arriba",
+        "steps": [
+          {
+            "title": "Marca adentro dónde cae",
+            "sub": "uno arriba, otro abajo, con el celular"
+          },
+          {
+            "title": "Moja 1 metro, 5-10 minutos",
+            "sub": "como lluvia, sin chorro fuerte"
+          },
+          {
+            "title": "Sube un metro y repite",
+            "sub": "hasta que abajo grite: ¡ahí está!"
+          }
+        ]
+      }
+    },
+    {
+      "from": 13189,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Una fisura se tapa con silicona por arriba.",
+        "truth": "Dura un verano. Hay que abrirla en V, limpiarla, rellenarla con sellador elástico y reforzarla."
+      }
+    },
+    {
+      "from": 15272,
+      "dur": 390,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Fisura en losa",
+        "title": "Los 5 pasos",
+        "steps": [
+          {
+            "title": "Abrir en V: 1-2 cm",
+            "sub": "amoladora o cortafierro"
+          },
+          {
+            "title": "Limpiar y secar",
+            "sub": "cepillo de alambre y pincel"
+          },
+          {
+            "title": "Imprimación + poliuretano",
+            "sub": "rellenar desde el fondo y alisar"
+          }
+        ]
+      }
+    },
+    {
+      "from": 18120,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-gotera_s59.png",
+        "eyebrow": "El truco",
+        "phrase": "La malla es como el hierro en el cemento.",
+        "accent": "el hierro"
+      }
+    },
+    {
+      "from": 21143,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Dónde va el tornillo?",
+        "left": {
+          "label": "En el valle de la onda",
+          "sub": "por donde corre el agua: gotera segura"
+        },
+        "right": {
+          "label": "En la cresta",
+          "sub": "arriba, donde el agua no se junta"
+        }
+      }
+    },
+    {
+      "from": 26108,
+      "dur": 360,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Los preferidos de las goteras",
+        "items": [
+          "Encuentro con una pared más alta (babeta)",
+          "Caños que atraviesan el techo",
+          "El tanque de agua y su base",
+          "Canaletas y bajadas",
+          "Soportes de aires y antenas"
+        ]
+      }
+    },
+    {
+      "from": 32204,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Emergencia: está lloviendo",
+        "items": [
+          "Balde con un trapo adentro",
+          "Correr muebles y aparatos",
+          "Cielorraso con panza: agujerito con balde abajo",
+          "Cortar la luz si hay agua cerca de cables",
+          "Afuera, solo si es seguro: lona con peso"
+        ]
+      }
+    },
+    {
+      "from": 35696,
+      "dur": 105,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-gotera_s109.png",
+        "eyebrow": "La gota sobre la cama",
+        "phrase": "Entraba a cuatro metros de donde caía.",
+        "accent": "cuatro metros"
+      }
+    },
+    {
+      "from": 35992,
+      "dur": 330,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Dos veces por año",
+        "items": [
+          "Limpiar canaletas y bajadas",
+          "Mirar la membrana: ampollas y cortes",
+          "Tornillos de chapa y tejas",
+          "Babetas y encuentros con paredes",
+          "Podar ramas que tocan el techo"
+        ]
+      }
+    },
+    {
+      "from": 40969,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-gotera_s116.png",
+        "eyebrow": "El error más grande",
+        "phrase": "Estirar el balde para que rinda más.",
+        "accent": "Estirar el balde"
+      }
+    },
+    {
+      "from": 44411,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Tres manos de látex tapan la mancha.",
+        "truth": "La mancha de humedad atraviesa la pintura. Primero un sellador bloqueador de manchas."
+      }
+    },
+    {
+      "from": 45912,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "La cuenta",
+        "left": {
+          "label": "Cielorraso, pared, colchón",
+          "sub": "y alguien que venga a sellar cada año"
+        },
+        "right": {
+          "label": "Arreglarlo bien",
+          "sub": "manguera, sellador, malla y membrana"
+        }
+      }
+    },
+    {
+      "from": 48882,
+      "dur": 480,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Por qué la gotera vuelve",
+        "items": [
+          "Sellar justo arriba de la gota",
+          "Silicona por arriba sin abrir la fisura",
+          "Sin malla donde la losa se mueve",
+          "Sellar sobre polvo o humedad",
+          "Olvidar encuentros, caños y canaletas",
+          "No revisar el techo"
+        ],
+        "stamp": "¡Anótalo!"
+      }
+    }
+  ]
+}
