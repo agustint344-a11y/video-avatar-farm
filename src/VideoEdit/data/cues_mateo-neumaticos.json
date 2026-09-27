@@ -1,0 +1,1822 @@
+{
+  "slug": "mateo-neumaticos",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 47418,
+  "audioSrc": "mateo-neumaticos.mp3",
+  "avatarSrc": "mateo-neumaticos_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 0,
+      "dur": 923,
+      "clip": 0
+    },
+    {
+      "from": 1342,
+      "dur": 787,
+      "clip": 923
+    },
+    {
+      "from": 11342,
+      "dur": 700,
+      "clip": 1710
+    },
+    {
+      "from": 40845,
+      "dur": 116,
+      "clip": 2410
+    },
+    {
+      "from": 46187,
+      "dur": 1196,
+      "clip": 2526
+    }
+  ],
+  "broll": [
+    {
+      "from": 923,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1136,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2129,
+      "dur": 325,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s09.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2454,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s10.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2828,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s11.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2933,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s12.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3073,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s13.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3295,
+      "dur": 331,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s14.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3626,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s15.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3936,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s16.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4143,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s19.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4507,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s18.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4837,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s18.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5167,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s18.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5325,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s20.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5655,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s20.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5731,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s21.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6061,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s21.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6292,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s22.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6622,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s22.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6747,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s23.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7077,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s23.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7256,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s24.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7586,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s24.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7779,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s25.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7918,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s26.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8248,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s26.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8296,
+      "dur": 346,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s27.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8942,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s28.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9272,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s28.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9688,
+      "dur": 284,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s08.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9972,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s29.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10302,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s29.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10400,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s30.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10730,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s30.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10931,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s31.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11261,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s31.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12042,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s32.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12671,
+      "dur": 361,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s34.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13032,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s35.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13362,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s35.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13568,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s36.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13898,
+      "dur": 64,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s36.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13962,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s37.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14262,
+      "dur": 361,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s98.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14623,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s38.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14953,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s38.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15094,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s39.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15424,
+      "dur": 341,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s39.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15765,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15904,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s41.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16234,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s41.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16571,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s33.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16720,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s42.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17050,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s42.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17295,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s43.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17625,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s43.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17816,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s44.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17988,
+      "dur": 338,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s45.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18326,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s46.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18656,
+      "dur": 315,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s46.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19151,
+      "dur": 326,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s47.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19477,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s48.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19858,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s49.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20188,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s49.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20267,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s50.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20514,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s51.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20685,
+      "dur": 371,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s52.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21056,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s90.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21295,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s91.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21625,
+      "dur": 215,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s91.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22110,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s92.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22440,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s92.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22770,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s92.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22872,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s93.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23202,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s93.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23532,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s93.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23660,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s94.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23990,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s94.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24076,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s53.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24632,
+      "dur": 67,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s54.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24699,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s55.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25029,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s55.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25107,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s56.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25437,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s56.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25492,
+      "dur": 318,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s57.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25810,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s58.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26086,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s59.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26219,
+      "dur": 320,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s60.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26539,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s61.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26869,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s61.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26968,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s62.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27298,
+      "dur": 229,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s62.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27797,
+      "dur": 318,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s64.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28115,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s65.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28445,
+      "dur": 52,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s65.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28497,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s66.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28827,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s66.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28942,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s67.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29272,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s67.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29469,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s68.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29799,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s68.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30356,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s69.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30460,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s70.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30790,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s70.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31120,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s70.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31450,
+      "dur": 351,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s70.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31801,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s72.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32131,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s72.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32461,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s72.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32791,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s72.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32925,
+      "dur": 254,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s73.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33179,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s74.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33509,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s74.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33656,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s75.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33986,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s75.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34316,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s75.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 34445,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s76.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34775,
+      "dur": 223,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s76.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 34998,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s77.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 35328,
+      "dur": 347,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s77.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 35675,
+      "dur": 267,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s78.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 35942,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s79.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 36272,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s79.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 36602,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s79.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 36800,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s80.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 36914,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s81.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 37573,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s82.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 37695,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s83.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 38025,
+      "dur": 348,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s83.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 38373,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s84.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 38703,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s84.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 38768,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s85.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 39098,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s85.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 39186,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s86.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 39516,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s86.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 39643,
+      "dur": 261,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s87.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 39904,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s88.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 40234,
+      "dur": 375,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s88.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 40609,
+      "dur": 236,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s89.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 40961,
+      "dur": 57,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s95.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 41018,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s96.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 41348,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s96.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 41403,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s97.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 41733,
+      "dur": 350,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s97.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 42083,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s99.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 42307,
+      "dur": 295,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s100.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 42812,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s102.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 43142,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s101.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 43472,
+      "dur": 54,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s101.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 43526,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s103.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 43615,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s104.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 43945,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s104.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 44170,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s105.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 44500,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s105.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 44555,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s106.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 44885,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s106.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 44951,
+      "dur": 341,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s107.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 45772,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s108.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 46102,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s108.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 47383,
+      "dur": 35,
+      "kind": "image",
+      "src": "img/mateo-neumaticos_s109.png",
+      "kb": 4,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1342,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "15 AÑOS DE OBRA Y TALLER",
+        "title": "Mateo",
+        "sub": "arreglos que te ahorran plata"
+      }
+    },
+    {
+      "from": 2454,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LO BÁSICO",
+        "title": "¿Para qué sirve el dibujo?"
+      }
+    },
+    {
+      "from": 3524,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "AQUAPLANING",
+        "sub": "el neumático flota sobre el agua",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 5731,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "TESTIGOS · TWI",
+        "sub": "taquitos al mínimo legal",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 7779,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NÚMERO 2",
+        "title": "La fecha de fabricación"
+      }
+    },
+    {
+      "from": 11342,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 12034,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NÚMERO 3",
+        "title": "Leer el desgaste"
+      }
+    },
+    {
+      "from": 12034,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 16720,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NÚMERO 4",
+        "title": "Bultos, cortes y clavos"
+      }
+    },
+    {
+      "from": 19477,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NÚMERO 5",
+        "title": "Las vibraciones"
+      }
+    },
+    {
+      "from": 21056,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EMERGENCIA",
+        "title": "Si revienta en la ruta"
+      }
+    },
+    {
+      "from": 24076,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "AHORRO",
+        "title": "Que te duren mucho más"
+      }
+    },
+    {
+      "from": 26539,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL ERROR",
+        "title": "Cambiar solo dos"
+      }
+    },
+    {
+      "from": 29469,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL CÓDIGO",
+        "title": "Leer el costado del neumático"
+      }
+    },
+    {
+      "from": 32925,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "COMPRAR",
+        "title": "Sin que te vendan de más"
+      }
+    },
+    {
+      "from": 35675,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO A PASO",
+        "title": "Cambiar una rueda"
+      }
+    },
+    {
+      "from": 42602,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 43526,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PREGUNTAS",
+        "title": "Lo que siempre me preguntan"
+      }
+    },
+    {
+      "from": 45292,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    },
+    {
+      "from": 46187,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Manual del Maestro"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 2588,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El dibujo es para agarrarse al piso.",
+        "truth": "En seco, un neumático liso agarra mucho. El dibujo está para sacar el agua."
+      }
+    },
+    {
+      "from": 3786,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-neumaticos_s15.png",
+        "eyebrow": "Aquaplaning",
+        "phrase": "En mojado, sin dibujo, no hay dirección ni freno.",
+        "accent": "ni freno"
+      }
+    },
+    {
+      "from": 4267,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Cuánto dibujo?",
+        "left": {
+          "label": "1,6 mm",
+          "sub": "mínimo legal en muchos países"
+        },
+        "right": {
+          "label": "~3 mm",
+          "sub": "cuando conviene empezar a cambiar"
+        }
+      }
+    },
+    {
+      "from": 8642,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "La fecha",
+        "title": "Leer el código DOT",
+        "steps": [
+          {
+            "title": "Busca «DOT» en el costado",
+            "sub": "al final, 4 números en un óvalo"
+          },
+          {
+            "title": "Los 2 primeros: la semana",
+            "sub": "23 = semana 23"
+          },
+          {
+            "title": "Los 2 últimos: el año",
+            "sub": "2319 = junio de 2019"
+          }
+        ]
+      }
+    },
+    {
+      "from": 9478,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "La edad del neumático",
+        "items": [
+          "Desde 5 años: revisarlos con cuidado",
+          "10 años: cambiarlos aunque tengan dibujo",
+          "La auxilio: casi siempre la más vieja",
+          "Nuevos: menos de 1-2 años al montarlos"
+        ]
+      }
+    },
+    {
+      "from": 12191,
+      "dur": 480,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Leer el desgaste",
+        "items": [
+          "Los dos bordes → falta presión",
+          "El centro → exceso de presión",
+          "Un solo lado → alineación",
+          "Dientes de sierra → convergencia",
+          "Manchones → amortiguadores o balanceo",
+          "Un punto plano → frenada bloqueada"
+        ]
+      }
+    },
+    {
+      "from": 16421,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/mateo-neumaticos_s36.png",
+        "eyebrow": "Grábatelo",
+        "phrase": "Arregla la causa antes de cambiar los neumáticos.",
+        "accent": "la causa"
+      }
+    },
+    {
+      "from": 17115,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "⚠️",
+        "title": "Bulto en el costado: cambio YA",
+        "sub": "se rompieron las cuerdas de adentro: puede reventar",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 18971,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "🔩",
+        "title": "¿Un clavo? No lo saques",
+        "sub": "tapa el agujero: anda despacio a la gomería",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 19588,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Las vibraciones",
+        "items": [
+          "Volante a 80-100 km/h → balanceo adelante",
+          "En el asiento → ruedas de atrás",
+          "Solo al frenar → discos de freno",
+          "Tira para un lado → presión o alineación"
+        ]
+      }
+    },
+    {
+      "from": 21840,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Si revienta en la ruta",
+        "items": [
+          "Volante firme, auto derecho",
+          "NO frenar de golpe",
+          "Soltar el acelerador de a poco",
+          "Frenar suave cuando ya vas despacio",
+          "Balizas y banquina"
+        ]
+      }
+    },
+    {
+      "from": 24242,
+      "dur": 390,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Que te duren mucho más",
+        "items": [
+          "Presión una vez por mes, en frío",
+          "Rotación cada ~10.000 km",
+          "Alineación y balanceo siempre al cambiar",
+          "Manejo suave, sin golpear cordones",
+          "Presión de carga completa si vas cargado"
+        ]
+      }
+    },
+    {
+      "from": 27527,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Si cambias solo dos",
+        "left": {
+          "label": "Nuevos adelante",
+          "sub": "en curva mojada se va de cola: trompo"
+        },
+        "right": {
+          "label": "Nuevos ATRÁS",
+          "sub": "si se abre, levantas el pie y se recupera"
+        }
+      }
+    },
+    {
+      "from": 29996,
+      "dur": 360,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "205/55 R16 91V",
+        "title": "Leer el costado",
+        "steps": [
+          {
+            "title": "205: ancho · 55: perfil (%)",
+            "sub": "más chico = costado más bajo"
+          },
+          {
+            "title": "R: radial · 16: llanta en pulgadas",
+            "sub": ""
+          },
+          {
+            "title": "91: carga · V: velocidad",
+            "sub": "igual o más alto que lo que pide el auto"
+          }
+        ]
+      }
+    },
+    {
+      "from": 37153,
+      "dur": 420,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Cambiar una rueda",
+        "title": "El orden que importa",
+        "steps": [
+          {
+            "title": "Lugar seguro, balizas, freno de mano",
+            "sub": "cuñas en la rueda diagonal"
+          },
+          {
+            "title": "Aflojar las tuercas con la rueda en el piso",
+            "sub": "gato en el punto del manual"
+          },
+          {
+            "title": "Ajustar en cruz, bajar y reajustar",
+            "sub": "nunca el cuerpo debajo del auto"
+          }
+        ]
+      }
+    },
+    {
+      "from": 42602,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "La cuenta",
+        "left": {
+          "label": "Un juego de 4 neumáticos",
+          "sub": "de los gastos más grandes"
+        },
+        "right": {
+          "label": "Medidores + alineación + rotación",
+          "sub": "que te duren uno o dos años más"
+        }
+      }
+    },
+    {
+      "from": 45292,
+      "dur": 480,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Antes de cambiar neumáticos",
+        "items": [
+          "Moneda o medidor en varios canales",
+          "Fecha DOT (y la auxilio)",
+          "Desgaste raro: arreglar la causa",
+          "Bultos: cambio inmediato",
+          "Vibraciones: balanceo",
+          "Presión, rotación, alineación",
+          "Si cambias dos: los nuevos atrás"
+        ],
+        "stamp": "¡Anótalo!"
+      }
+    }
+  ]
+}
