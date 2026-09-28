@@ -1,0 +1,760 @@
+{
+  "slug": "nonna-domingo",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 19855,
+  "audioSrc": "nonna-domingo.mp3",
+  "avatarSrc": "nonna-domingo_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 0,
+      "dur": 839,
+      "clip": 0
+    },
+    {
+      "from": 1582,
+      "dur": 781,
+      "clip": 839
+    },
+    {
+      "from": 7912,
+      "dur": 1050,
+      "clip": 1620
+    },
+    {
+      "from": 18706,
+      "dur": 1127,
+      "clip": 2670
+    }
+  ],
+  "broll": [
+    {
+      "from": 839,
+      "dur": 272,
+      "kind": "image",
+      "src": "img/nonna-domingo_s03.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1111,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/nonna-domingo_s44.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 1207,
+      "dur": 256,
+      "kind": "image",
+      "src": "img/nonna-domingo_s04.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1463,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/nonna-domingo_s45.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2363,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/nonna-domingo_s06.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2819,
+      "dur": 260,
+      "kind": "image",
+      "src": "img/nonna-domingo_s47.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3079,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/nonna-domingo_s48.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3187,
+      "dur": 304,
+      "kind": "image",
+      "src": "img/nonna-domingo_s49.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3491,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-domingo_s08.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3821,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/nonna-domingo_s08.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3989,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/nonna-domingo_s50.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4093,
+      "dur": 327,
+      "kind": "image",
+      "src": "img/nonna-domingo_s09.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4570,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/nonna-domingo_s10.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4647,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/nonna-domingo_s11.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4740,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-domingo_s12.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5070,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/nonna-domingo_s12.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5230,
+      "dur": 57,
+      "kind": "image",
+      "src": "img/nonna-domingo_s22.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5287,
+      "dur": 357,
+      "kind": "image",
+      "src": "img/nonna-domingo_s13.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5644,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/nonna-domingo_s51.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5801,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-domingo_s14.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6131,
+      "dur": 67,
+      "kind": "image",
+      "src": "img/nonna-domingo_s14.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6198,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/nonna-domingo_s15.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6414,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-domingo_s16.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6744,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-domingo_s52.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7074,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/nonna-domingo_s52.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7245,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/nonna-domingo_s53.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7317,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-domingo_s18.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7647,
+      "dur": 265,
+      "kind": "image",
+      "src": "img/nonna-domingo_s18.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8962,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/nonna-domingo_s19.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9038,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-domingo_s20.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9368,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/nonna-domingo_s20.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9509,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-domingo_s21.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9839,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/nonna-domingo_s21.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9894,
+      "dur": 334,
+      "kind": "image",
+      "src": "img/nonna-domingo_s54.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10408,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-domingo_s55.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10738,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/nonna-domingo_s23.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10930,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/nonna-domingo_s25.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11049,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/nonna-domingo_s26.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11191,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/nonna-domingo_s56.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11301,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/nonna-domingo_s27.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11521,
+      "dur": 256,
+      "kind": "image",
+      "src": "img/nonna-domingo_s57.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11777,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/nonna-domingo_s28.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11949,
+      "dur": 320,
+      "kind": "image",
+      "src": "img/nonna-domingo_s58.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12479,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-domingo_s29.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12809,
+      "dur": 264,
+      "kind": "image",
+      "src": "img/nonna-domingo_s29.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13373,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-domingo_s31.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13703,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/nonna-domingo_s30.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13886,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-domingo_s32.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14216,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/nonna-domingo_s32.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14462,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/nonna-domingo_s59.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14662,
+      "dur": 364,
+      "kind": "image",
+      "src": "img/nonna-domingo_s33.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15026,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/nonna-domingo_s34.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15273,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/nonna-domingo_s60.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15507,
+      "dur": 323,
+      "kind": "image",
+      "src": "img/nonna-domingo_s35.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15830,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/nonna-domingo_s42.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15981,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-domingo_s36.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16311,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/nonna-domingo_s36.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16418,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/nonna-domingo_s61.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16595,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-domingo_s37.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16925,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-domingo_s37.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17255,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/nonna-domingo_s37.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17315,
+      "dur": 264,
+      "kind": "image",
+      "src": "img/nonna-domingo_s38.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17579,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/nonna-domingo_s62.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17655,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-domingo_s39.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17985,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-domingo_s39.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18315,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-domingo_s39.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18645,
+      "dur": 61,
+      "kind": "image",
+      "src": "img/nonna-domingo_s39.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19833,
+      "dur": 22,
+      "kind": "image",
+      "src": "img/nonna-domingo_s41.png",
+      "kb": 1,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1582,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "SICILIA · 1974",
+        "title": "Nonna Lucía",
+        "sub": "la cocina de mi mamma"
+      }
+    },
+    {
+      "from": 2385,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 1",
+        "title": "La carne barata"
+      }
+    },
+    {
+      "from": 4647,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 2",
+        "title": "El sofrito"
+      }
+    },
+    {
+      "from": 5801,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 3",
+        "title": "Dorar la carne"
+      }
+    },
+    {
+      "from": 7912,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    },
+    {
+      "from": 9038,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 4",
+        "title": "Tomate y tiempo"
+      }
+    },
+    {
+      "from": 12767,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL TRUCO DEL SUR",
+        "title": "Un kilo para diez"
+      }
+    },
+    {
+      "from": 12767,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    },
+    {
+      "from": 16595,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    },
+    {
+      "from": 18706,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 2579,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Para una buena salsa, carne cara.",
+        "truth": "La carne dura, con hueso y cartílago, se vuelve tierna con horas y le da cuerpo a la salsa."
+      }
+    },
+    {
+      "from": 4420,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/nonna-domingo_s10.png",
+        "eyebrow": "Mi mamma decía",
+        "phrase": "El carnicero es tu amigo.",
+        "accent": "tu amigo"
+      }
+    },
+    {
+      "from": 10228,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/nonna-domingo_s23.png",
+        "eyebrow": "El secreto",
+        "phrase": "La salsa del domingo no hierve: sonríe.",
+        "accent": "sonríe"
+      }
+    },
+    {
+      "from": 12269,
+      "dur": 210,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "⚠️",
+        "title": "Tres horas de olla",
+        "sub": "mango hacia adentro, y si sales de casa, apágala",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 13073,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Un kilo para diez",
+        "title": "Dos platos de una olla",
+        "steps": [
+          {
+            "title": "Sacas la carne a una fuente",
+            "sub": ""
+          },
+          {
+            "title": "Primero: pasta con la salsa",
+            "sub": "todos quedan bastante llenos"
+          },
+          {
+            "title": "Después: la carne con pan",
+            "sub": "cada uno un pedacito"
+          }
+        ]
+      }
+    }
+  ]
+}
