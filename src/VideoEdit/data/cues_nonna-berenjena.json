@@ -1,0 +1,725 @@
+{
+  "slug": "nonna-berenjena",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 17865,
+  "audioSrc": "nonna-berenjena.mp3",
+  "avatarSrc": "nonna-berenjena_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 0,
+      "dur": 2010,
+      "clip": 0
+    },
+    {
+      "from": 5730,
+      "dur": 1050,
+      "clip": 2010
+    },
+    {
+      "from": 16710,
+      "dur": 1116,
+      "clip": 3060
+    }
+  ],
+  "broll": [
+    {
+      "from": 2010,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s39.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2190,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2640,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2730,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s40.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3000,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s07.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3180,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s41.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3300,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s19.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3600,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s42.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4140,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s10.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4320,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s11.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4470,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s43.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4530,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s12.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4830,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s13.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5160,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s13.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5340,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s44.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5670,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s44.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6780,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s09.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6840,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s14.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7050,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s45.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7350,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s46.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7770,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s15.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7920,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s47.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8340,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s16.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8670,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s16.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8910,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s17.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9030,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s48.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9240,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s18.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9330,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s49.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9660,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s49.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9750,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s50.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9930,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s20.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10470,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s21.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10800,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s21.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11010,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s22.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11070,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s51.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11183,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s23.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11513,
+      "dur": 67,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s23.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11580,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s24.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11910,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s24.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12003,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s52.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12240,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s25.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12420,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s26.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12720,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s53.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13020,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s27.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13290,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s28.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13620,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s28.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13800,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s54.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14160,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s29.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14400,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s55.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14550,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s30.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14700,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s31.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14970,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s56.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15150,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s57.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15240,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s32.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15570,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s32.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15900,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s32.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16440,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s33.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17826,
+      "dur": 39,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s35.png",
+      "kb": 3,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 960,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "SICILIA · 1974",
+        "title": "Nonna Lucía",
+        "sub": "la cocina de mi mamma"
+      }
+    },
+    {
+      "from": 2190,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PRIMERO",
+        "title": "Elegir la berenjena"
+      }
+    },
+    {
+      "from": 3300,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 1",
+        "title": "El agua amarga"
+      }
+    },
+    {
+      "from": 3300,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 4",
+        "title": "No escurrirlas"
+      }
+    },
+    {
+      "from": 5730,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    },
+    {
+      "from": 6840,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 2",
+        "title": "El aceite frío"
+      }
+    },
+    {
+      "from": 8910,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 3",
+        "title": "Amontonarlas"
+      }
+    },
+    {
+      "from": 12090,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SICILIA",
+        "title": "Tres recetas"
+      }
+    },
+    {
+      "from": 12090,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    },
+    {
+      "from": 15240,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    },
+    {
+      "from": 16710,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 2370,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Elegir la berenjena",
+        "items": [
+          "Que pese para su tamaño",
+          "Piel brillante, lisa, sin manchas",
+          "Cabito verde y fresco",
+          "Cede un poquito y vuelve"
+        ]
+      }
+    },
+    {
+      "from": 3840,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Error 1",
+        "title": "Sacarle el agua amarga",
+        "steps": [
+          {
+            "title": "Rodajas con sal gruesa en un colador",
+            "sub": "y peso encima"
+          },
+          {
+            "title": "Una hora: larga el agua oscura",
+            "sub": ""
+          },
+          {
+            "title": "Enjuagar y SECAR muy bien",
+            "sub": "la esponja se cierra: chupa menos aceite"
+          }
+        ]
+      }
+    },
+    {
+      "from": 7620,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/nonna-berenjena_s14.png",
+        "eyebrow": "El truco del pan",
+        "phrase": "Si el pan burbujea y sube, el aceite está listo.",
+        "accent": "burbujea"
+      }
+    },
+    {
+      "from": 8130,
+      "dur": 210,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "🔥",
+        "title": "Aceite caliente",
+        "sub": "rodajas bien secas, chicos lejos; si se prende fuego, tapa y apaga",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 10200,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Sin freír",
+        "left": {
+          "label": "Al horno",
+          "sub": "pintadas con pincel, 20 min fuerte"
+        },
+        "right": {
+          "label": "A la plancha",
+          "sub": "sin aceite, y después ajo, aceite y vinagre"
+        }
+      }
+    },
+    {
+      "from": 13980,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/nonna-berenjena_s29.png",
+        "eyebrow": "El consejo de mi mamma",
+        "phrase": "La parmigiana se deja reposar.",
+        "accent": "reposar"
+      }
+    },
+    {
+      "from": 16020,
+      "dur": 420,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Berenjena sin aceite de más",
+        "items": [
+          "Pesada, brillante y firme",
+          "Sal gruesa y peso una hora, secar bien",
+          "Aceite bien caliente (prueba del pan)",
+          "Pocas por vez",
+          "Escurrir en papel o de pie",
+          "O al horno / a la plancha"
+        ],
+        "stamp": "¡Anótalo!"
+      }
+    }
+  ]
+}
