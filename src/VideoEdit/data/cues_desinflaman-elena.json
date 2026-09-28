@@ -1,0 +1,1678 @@
+{
+  "slug": "desinflaman-elena",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 32537,
+  "audioSrc": "desinflaman-elena.mp3",
+  "avatarSrc": "desinflaman-elena_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 2,
+      "dur": 1139,
+      "clip": 0
+    },
+    {
+      "from": 2282,
+      "dur": 862,
+      "clip": 1139
+    },
+    {
+      "from": 3171,
+      "dur": 670,
+      "clip": 2001
+    },
+    {
+      "from": 22486,
+      "dur": 1260,
+      "clip": 2671
+    },
+    {
+      "from": 32030,
+      "dur": 449,
+      "clip": 3931
+    }
+  ],
+  "broll": [
+    {
+      "from": 1141,
+      "dur": 184,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 1580,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 1730,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 1880,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 2030,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 2180,
+      "dur": 102,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 3841,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 3991,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 4141,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 4291,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 4441,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 4591,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 4741,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 4891,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 5041,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 5191,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 5341,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 5491,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 5641,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 5791,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 5941,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 6091,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 6241,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 6391,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 6541,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 6691,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 6841,
+      "dur": 159,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 7270,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 7420,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 7570,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 7720,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 7870,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 8020,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 8170,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 8320,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 8470,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 8620,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_37.mp4",
+      "pip": false
+    },
+    {
+      "from": 8770,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_38.mp4",
+      "pip": false
+    },
+    {
+      "from": 8920,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_39.mp4",
+      "pip": false
+    },
+    {
+      "from": 9070,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_40.mp4",
+      "pip": false
+    },
+    {
+      "from": 9220,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_41.mp4",
+      "pip": false
+    },
+    {
+      "from": 9370,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_42.mp4",
+      "pip": false
+    },
+    {
+      "from": 9520,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_43.mp4",
+      "pip": false
+    },
+    {
+      "from": 9670,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_44.mp4",
+      "pip": false
+    },
+    {
+      "from": 9820,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_45.mp4",
+      "pip": false
+    },
+    {
+      "from": 9970,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_46.mp4",
+      "pip": false
+    },
+    {
+      "from": 10120,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_47.mp4",
+      "pip": false
+    },
+    {
+      "from": 10270,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_48.mp4",
+      "pip": false
+    },
+    {
+      "from": 10420,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 10570,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 10720,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 10870,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 11020,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 11170,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 11320,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 11470,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 11620,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 11770,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 11920,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 12070,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 12220,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 12370,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 12520,
+      "dur": 123,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 12883,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 13033,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 13183,
+      "dur": 196,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 13679,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 13829,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 13979,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 14129,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 14279,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 14429,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 14579,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 14729,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 14879,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 15029,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 15179,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 15329,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 15479,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 15629,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 15779,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 15929,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 16079,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 16229,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 16379,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_37.mp4",
+      "pip": false
+    },
+    {
+      "from": 16529,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_38.mp4",
+      "pip": false
+    },
+    {
+      "from": 16679,
+      "dur": 114,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_39.mp4",
+      "pip": false
+    },
+    {
+      "from": 17063,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_40.mp4",
+      "pip": false
+    },
+    {
+      "from": 17213,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_41.mp4",
+      "pip": false
+    },
+    {
+      "from": 17363,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_42.mp4",
+      "pip": false
+    },
+    {
+      "from": 17513,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_43.mp4",
+      "pip": false
+    },
+    {
+      "from": 17663,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_44.mp4",
+      "pip": false
+    },
+    {
+      "from": 17813,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_45.mp4",
+      "pip": false
+    },
+    {
+      "from": 17963,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_46.mp4",
+      "pip": false
+    },
+    {
+      "from": 18113,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_47.mp4",
+      "pip": false
+    },
+    {
+      "from": 18263,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_48.mp4",
+      "pip": false
+    },
+    {
+      "from": 18413,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 18563,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 18713,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 18863,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 19013,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 19163,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 19313,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 19463,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 19613,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 19763,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 19913,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 20063,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 20213,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 20363,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 20513,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 20663,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 20813,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 20963,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 21113,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 21263,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 21413,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 21563,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 21713,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 21863,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 22013,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 22163,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 22313,
+      "dur": 173,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 23746,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 23896,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 24046,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 24196,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 24346,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 24496,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 24646,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 24796,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 24946,
+      "dur": 149,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 25350,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_37.mp4",
+      "pip": false
+    },
+    {
+      "from": 25500,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_38.mp4",
+      "pip": false
+    },
+    {
+      "from": 25650,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_39.mp4",
+      "pip": false
+    },
+    {
+      "from": 25800,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_40.mp4",
+      "pip": false
+    },
+    {
+      "from": 25950,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_41.mp4",
+      "pip": false
+    },
+    {
+      "from": 26100,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_42.mp4",
+      "pip": false
+    },
+    {
+      "from": 26250,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_43.mp4",
+      "pip": false
+    },
+    {
+      "from": 26400,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_44.mp4",
+      "pip": false
+    },
+    {
+      "from": 26550,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_45.mp4",
+      "pip": false
+    },
+    {
+      "from": 26700,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_46.mp4",
+      "pip": false
+    },
+    {
+      "from": 26850,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_47.mp4",
+      "pip": false
+    },
+    {
+      "from": 27000,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_48.mp4",
+      "pip": false
+    },
+    {
+      "from": 27150,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 27300,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 27450,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 27600,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 27750,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 27900,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 28050,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 28200,
+      "dur": 92,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 28562,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 28712,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 28862,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 29012,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 29162,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 29312,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 29462,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 29612,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 29762,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 29912,
+      "dur": 173,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 30325,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 30475,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 30625,
+      "dur": 131,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 30996,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 31146,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 31296,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 31446,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 31596,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 31746,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 31896,
+      "dur": 134,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 32479,
+      "dur": 58,
+      "kind": "video",
+      "src": "broll/desinflaman-elena_s_29.mp4",
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2282,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "SALUD CON EVIDENCIA",
+        "title": "Dra. Elena Vidal",
+        "sub": "33 alimentos que desinflaman"
+      }
+    },
+    {
+      "from": 3732,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 5347,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "INFLAMACIÓN SILENCIOSA",
+        "sub": "no la sentís, pero te desgasta",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 6548,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🔥",
+        "title": "Por qué sube después de los 50",
+        "sub": "grasa abdominal · menos músculo · intestino desordenado",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 8276,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "GRUPO 1",
+        "title": "Hojas verdes",
+        "sub": "espinaca, acelga, rúcula, kale, brócoli"
+      }
+    },
+    {
+      "from": 8968,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "GRUPO 2",
+        "title": "Vegetales de colores",
+        "sub": "tomate, zanahoria, calabaza, ajo, cebolla"
+      }
+    },
+    {
+      "from": 9666,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "GRUPO 3",
+        "title": "Frutas del bosque y cítricos",
+        "sub": "arándanos, frutillas, naranja, cerezas"
+      }
+    },
+    {
+      "from": 10330,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "GRUPO 4",
+        "title": "Grasas buenas",
+        "sub": "oliva extra virgen, palta, pescado azul, nueces"
+      }
+    },
+    {
+      "from": 10330,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 10867,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "OMEGA 3",
+        "sub": "el gran apagafuegos",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 11297,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "GRUPO 5",
+        "title": "Especias y hierbas",
+        "sub": "cúrcuma, jengibre, canela, romero, orégano"
+      }
+    },
+    {
+      "from": 11469,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "CÚRCUMA + PIMIENTA",
+        "sub": "sin pimienta casi no se absorbe",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 11908,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "GRUPO 6",
+        "title": "Té verde, legumbres, avena, yogur",
+        "sub": "y chocolate amargo con moderación"
+      }
+    },
+    {
+      "from": 15001,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🍳",
+        "title": "Truco de cocina",
+        "sub": "vapor u horno > hervido largo · ajo picado reposado · tomate con oliva",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 16445,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 18056,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 1",
+        "title": "Menos dolor",
+        "sub": "articulaciones menos rígidas"
+      }
+    },
+    {
+      "from": 18056,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 18617,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 2",
+        "title": "Más energía",
+        "sub": "la inflamación agota"
+      }
+    },
+    {
+      "from": 19070,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 3",
+        "title": "Corazón y cerebro",
+        "sub": "arterias y memoria cuidadas desde el plato"
+      }
+    },
+    {
+      "from": 19673,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 4",
+        "title": "Piel más luminosa",
+        "sub": "se nota por fuera"
+      }
+    },
+    {
+      "from": 25758,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "NUNCA ES TARDE",
+        "sub": "el cuerpo responde a cualquier edad",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 26486,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "El error #1",
+        "sub": "un arándano no compensa un día de azúcar y frituras",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 27390,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Con medicación, consultá",
+        "sub": "anticoagulantes: hojas verdes estables · diabetes: ojo con la fruta",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 28540,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 31449,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi guía natural",
+        "items": [
+          "La lista completa de los 33",
+          "Recetas para combinarlos",
+          "Plan de comidas antiinflamatorias"
+        ]
+      }
+    },
+    {
+      "from": 31805,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 1325,
+      "dur": 255,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Hay un alimento milagroso que cura la inflamación.",
+        "truth": "Ninguno solo cura nada. Lo que baja el fuego es lo que comés TODOS los días, con tu tratamiento."
+      }
+    },
+    {
+      "from": 7000,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "¿Tu fuego interno está alto?",
+        "items": [
+          "Te levantás rígida, manos o rodillas duras",
+          "Hinchada aunque comas poco",
+          "Cansada sin motivo",
+          "Más olvidos y piel apagada"
+        ]
+      }
+    },
+    {
+      "from": 12643,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Los 6 grupos bomberos",
+        "items": [
+          "Hojas verdes y crucíferas · vegetales de colores",
+          "Frutas del bosque y cítricos",
+          "Grasas buenas: oliva, palta, pescado, nueces",
+          "Especias · té verde · legumbres · yogur"
+        ]
+      }
+    },
+    {
+      "from": 13379,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Un día de ejemplo",
+        "title": "Comer para desinflamar",
+        "steps": [
+          {
+            "title": "Desayuno",
+            "sub": "yogur + avena + frutos rojos + chía · té verde"
+          },
+          {
+            "title": "Almuerzo",
+            "sub": "½ plato de hojas y colores con oliva + pescado o lentejas"
+          },
+          {
+            "title": "Cena",
+            "sub": "verduras al horno con cúrcuma, pimienta y romero + huevo o pollo"
+          }
+        ]
+      }
+    },
+    {
+      "from": 16793,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Lo que echa nafta al fuego",
+        "items": [
+          "Azúcar y dulces industriales",
+          "Harinas refinadas, pan blanco, galletitas",
+          "Ultraprocesados y fritos",
+          "Fiambres, embutidos y alcohol en exceso"
+        ]
+      }
+    },
+    {
+      "from": 25095,
+      "dur": 255,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Comer sano es caro.",
+        "truth": "Lentejas, avena, zanahoria, ajo, repollo y sardinas están entre lo más barato… y lo más antiinflamatorio."
+      }
+    },
+    {
+      "from": 28292,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Cómo empezar hoy",
+        "title": "Los primeros 3 pasos",
+        "steps": [
+          {
+            "title": "½ plato de verduras y colores",
+            "sub": "almuerzo y cena"
+          },
+          {
+            "title": "Grasas buenas",
+            "sub": "oliva, palta, frutos secos, pescado graso"
+          },
+          {
+            "title": "Reemplazá de a uno",
+            "sub": "fruta en vez de postre, agua en vez de gaseosa"
+          }
+        ]
+      }
+    },
+    {
+      "from": 30085,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Y además…",
+        "items": [
+          "Especias todos los días",
+          "Intestino: yogur o kéfir, legumbres, fibra",
+          "Caminata diaria de 20-30 min",
+          "Dormir 7-8 horas"
+        ]
+      }
+    },
+    {
+      "from": 30756,
+      "dur": 240,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "Ese fuego no se apaga con una pastilla carísima: se apaga tres veces por día, cada vez que elegís qué ponés en tu plato.",
+        "author": "Dra. Elena Vidal"
+      }
+    }
+  ]
+}

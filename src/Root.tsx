@@ -52,6 +52,8 @@ import garbanzoElenaCues from "./VideoEdit/data/cues_garbanzo-elena.json";
 import arteriasElenaCues from "./VideoEdit/data/cues_arterias-elena.json";
 import frutaElenaCues from "./VideoEdit/data/cues_fruta-elena.json";
 import habitos60ElenaCues from "./VideoEdit/data/cues_habitos60-elena.json";
+import bebidasRinonesElenaCues from "./VideoEdit/data/cues_bebidas-rinones-elena.json";
+import desinflamanElenaCues from "./VideoEdit/data/cues_desinflaman-elena.json";
 
 export const RemotionRoot: React.FC = () => {
   const chia = chiaCues as Cues;
@@ -102,6 +104,8 @@ export const RemotionRoot: React.FC = () => {
   const arteriasElena = arteriasElenaCues as Cues;
   const frutaElena = frutaElenaCues as Cues;
   const habitos60Elena = habitos60ElenaCues as Cues;
+  const bebidasRinonesElena = bebidasRinonesElenaCues as Cues;
+  const desinflamanElena = desinflamanElenaCues as Cues;
   return (
     <>
       <Composition
@@ -304,6 +308,8 @@ export const RemotionRoot: React.FC = () => {
       <Composition id="ArteriasElena" component={VideoMain} durationInFrames={arteriasElena.durationInFrames} fps={arteriasElena.fps} width={arteriasElena.width} height={arteriasElena.height} defaultProps={{ cues: arteriasElena }} />
       <Composition id="FrutaElena" component={VideoMain} durationInFrames={frutaElena.durationInFrames} fps={frutaElena.fps} width={frutaElena.width} height={frutaElena.height} defaultProps={{ cues: frutaElena }} />
       <Composition id="Habitos60Elena" component={VideoMain} durationInFrames={habitos60Elena.durationInFrames} fps={habitos60Elena.fps} width={habitos60Elena.width} height={habitos60Elena.height} defaultProps={{ cues: habitos60Elena }} />
+      <Composition id="BebidasRinonesElena" component={VideoMain} durationInFrames={bebidasRinonesElena.durationInFrames} fps={bebidasRinonesElena.fps} width={bebidasRinonesElena.width} height={bebidasRinonesElena.height} defaultProps={{ cues: bebidasRinonesElena }} />
+      <Composition id="DesinflamanElena" component={VideoMain} durationInFrames={desinflamanElena.durationInFrames} fps={desinflamanElena.fps} width={desinflamanElena.width} height={desinflamanElena.height} defaultProps={{ cues: desinflamanElena }} />
     </>
   );
 };

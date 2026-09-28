@@ -1,0 +1,1344 @@
+{
+  "slug": "bebidas-rinones-elena",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 25837,
+  "audioSrc": "bebidas-rinones-elena.mp3",
+  "avatarSrc": "bebidas-rinones-elena_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 2,
+      "dur": 772,
+      "clip": 0
+    },
+    {
+      "from": 1964,
+      "dur": 945,
+      "clip": 772
+    },
+    {
+      "from": 7479,
+      "dur": 676,
+      "clip": 1717
+    },
+    {
+      "from": 17919,
+      "dur": 1260,
+      "clip": 2393
+    },
+    {
+      "from": 25296,
+      "dur": 485,
+      "clip": 3653
+    }
+  ],
+  "broll": [
+    {
+      "from": 774,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 924,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 1074,
+      "dur": 109,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 1438,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 1588,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 1738,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 1888,
+      "dur": 76,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 2909,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 3059,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 3209,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 3359,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 3509,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 3659,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 3809,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 3959,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 4109,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 4259,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 4409,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 4559,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 4709,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 4859,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 5009,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 5159,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 5309,
+      "dur": 104,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 5683,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 5833,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 5983,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 6133,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 6283,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 6433,
+      "dur": 181,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 6869,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 7019,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 7169,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 7319,
+      "dur": 160,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 8155,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 8305,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 8455,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_37.mp4",
+      "pip": false
+    },
+    {
+      "from": 8605,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_38.mp4",
+      "pip": false
+    },
+    {
+      "from": 8755,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_39.mp4",
+      "pip": false
+    },
+    {
+      "from": 8905,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_40.mp4",
+      "pip": false
+    },
+    {
+      "from": 9055,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_41.mp4",
+      "pip": false
+    },
+    {
+      "from": 9205,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_42.mp4",
+      "pip": false
+    },
+    {
+      "from": 9355,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_43.mp4",
+      "pip": false
+    },
+    {
+      "from": 9505,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_44.mp4",
+      "pip": false
+    },
+    {
+      "from": 9655,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_45.mp4",
+      "pip": false
+    },
+    {
+      "from": 9805,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_46.mp4",
+      "pip": false
+    },
+    {
+      "from": 9955,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_47.mp4",
+      "pip": false
+    },
+    {
+      "from": 10105,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_48.mp4",
+      "pip": false
+    },
+    {
+      "from": 10255,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 10405,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 10555,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 10705,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 10855,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 11005,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 11155,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 11305,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 11455,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 11605,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 11755,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 11905,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 12055,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 12205,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 12355,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 12505,
+      "dur": 94,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 12854,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 13004,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 13154,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 13304,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 13454,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 13604,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 13754,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 13904,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 14054,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 14204,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 14354,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 14504,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 14654,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 14804,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 14954,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 15104,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 15254,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 15404,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 15554,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 15704,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 15854,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_37.mp4",
+      "pip": false
+    },
+    {
+      "from": 16004,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_38.mp4",
+      "pip": false
+    },
+    {
+      "from": 16154,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_39.mp4",
+      "pip": false
+    },
+    {
+      "from": 16304,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_40.mp4",
+      "pip": false
+    },
+    {
+      "from": 16454,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_41.mp4",
+      "pip": false
+    },
+    {
+      "from": 16604,
+      "dur": 56,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_42.mp4",
+      "pip": false
+    },
+    {
+      "from": 16915,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_43.mp4",
+      "pip": false
+    },
+    {
+      "from": 17065,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_44.mp4",
+      "pip": false
+    },
+    {
+      "from": 17215,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_45.mp4",
+      "pip": false
+    },
+    {
+      "from": 17365,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_46.mp4",
+      "pip": false
+    },
+    {
+      "from": 17515,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_47.mp4",
+      "pip": false
+    },
+    {
+      "from": 17665,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_48.mp4",
+      "pip": false
+    },
+    {
+      "from": 17815,
+      "dur": 104,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_01.mp4",
+      "pip": false
+    },
+    {
+      "from": 19179,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_02.mp4",
+      "pip": false
+    },
+    {
+      "from": 19329,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_03.mp4",
+      "pip": false
+    },
+    {
+      "from": 19479,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_04.mp4",
+      "pip": false
+    },
+    {
+      "from": 19629,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_05.mp4",
+      "pip": false
+    },
+    {
+      "from": 19779,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_06.mp4",
+      "pip": false
+    },
+    {
+      "from": 19929,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_07.mp4",
+      "pip": false
+    },
+    {
+      "from": 20079,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_08.mp4",
+      "pip": false
+    },
+    {
+      "from": 20229,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_09.mp4",
+      "pip": false
+    },
+    {
+      "from": 20379,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_10.mp4",
+      "pip": false
+    },
+    {
+      "from": 20529,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_11.mp4",
+      "pip": false
+    },
+    {
+      "from": 20679,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_12.mp4",
+      "pip": false
+    },
+    {
+      "from": 20829,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_13.mp4",
+      "pip": false
+    },
+    {
+      "from": 20979,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_14.mp4",
+      "pip": false
+    },
+    {
+      "from": 21129,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_15.mp4",
+      "pip": false
+    },
+    {
+      "from": 21279,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_16.mp4",
+      "pip": false
+    },
+    {
+      "from": 21429,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_17.mp4",
+      "pip": false
+    },
+    {
+      "from": 21579,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_18.mp4",
+      "pip": false
+    },
+    {
+      "from": 21729,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_19.mp4",
+      "pip": false
+    },
+    {
+      "from": 21879,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_20.mp4",
+      "pip": false
+    },
+    {
+      "from": 22029,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_21.mp4",
+      "pip": false
+    },
+    {
+      "from": 22179,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_22.mp4",
+      "pip": false
+    },
+    {
+      "from": 22329,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_23.mp4",
+      "pip": false
+    },
+    {
+      "from": 22479,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_24.mp4",
+      "pip": false
+    },
+    {
+      "from": 22629,
+      "dur": 74,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_25.mp4",
+      "pip": false
+    },
+    {
+      "from": 22973,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_26.mp4",
+      "pip": false
+    },
+    {
+      "from": 23123,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_27.mp4",
+      "pip": false
+    },
+    {
+      "from": 23273,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_28.mp4",
+      "pip": false
+    },
+    {
+      "from": 23423,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_29.mp4",
+      "pip": false
+    },
+    {
+      "from": 23573,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_30.mp4",
+      "pip": false
+    },
+    {
+      "from": 23723,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_31.mp4",
+      "pip": false
+    },
+    {
+      "from": 23873,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_32.mp4",
+      "pip": false
+    },
+    {
+      "from": 24023,
+      "dur": 92,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_33.mp4",
+      "pip": false
+    },
+    {
+      "from": 24355,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_34.mp4",
+      "pip": false
+    },
+    {
+      "from": 24505,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_35.mp4",
+      "pip": false
+    },
+    {
+      "from": 24655,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_36.mp4",
+      "pip": false
+    },
+    {
+      "from": 24805,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_37.mp4",
+      "pip": false
+    },
+    {
+      "from": 24955,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_38.mp4",
+      "pip": false
+    },
+    {
+      "from": 25105,
+      "dur": 191,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_39.mp4",
+      "pip": false
+    },
+    {
+      "from": 25781,
+      "dur": 56,
+      "kind": "video",
+      "src": "broll/bebidas-rinones-elena_s_40.mp4",
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1964,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "SALUD CON EVIDENCIA",
+        "title": "Dra. Elena Vidal",
+        "sub": "4 bebidas matutinas para tus riñones"
+      }
+    },
+    {
+      "from": 3208,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "2 FILTROS",
+        "sub": "filtran toda tu sangre muchas veces por día",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 5971,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "💧",
+        "title": "Con los años baja la sed",
+        "sub": "muchos mayores andan deshidratados sin darse cuenta",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 8043,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 8507,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BEBIDA 1 · LA MÁS IMPORTANTE",
+        "title": "Un vaso de agua natural",
+        "sub": "apenas te levantás"
+      }
+    },
+    {
+      "from": 9495,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BEBIDA 2",
+        "title": "Agua tibia con limón",
+        "sub": "medio limón, en ayunas"
+      }
+    },
+    {
+      "from": 9718,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "CITRATO",
+        "sub": "ayuda a prevenir piedras en el riñón",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 10435,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BEBIDA 3",
+        "title": "Infusión suave de jengibre",
+        "sub": "antiinflamatoria y tibia"
+      }
+    },
+    {
+      "from": 10435,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 11279,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BEBIDA 4",
+        "title": "Agua de cebada",
+        "sub": "el remedio de la abuela"
+      }
+    },
+    {
+      "from": 13134,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 13445,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 1",
+        "title": "Mejor eliminación",
+        "sub": "menos desechos, menos hinchazón"
+      }
+    },
+    {
+      "from": 14008,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 2",
+        "title": "Menos piedras en el riñón",
+        "sub": "hidratación + citrato"
+      }
+    },
+    {
+      "from": 14599,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 3",
+        "title": "Presión y corazón",
+        "sub": "cuidás uno, cuidás el otro"
+      }
+    },
+    {
+      "from": 15143,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BENEFICIO 4",
+        "title": "Energía y claridad",
+        "sub": "la deshidratación cansa y nubla"
+      }
+    },
+    {
+      "from": 16660,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 19771,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "El error #1",
+        "sub": "creer que es un \"detox\" y seguir con gaseosas y sal",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 20292,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "SAL Y AZÚCAR",
+        "sub": "los grandes enemigos del riñón",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 21007,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "¿Ya tenés enfermedad renal?",
+        "sub": "líquidos y potasio los decide tu nefrólogo, no un video",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 22981,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    },
+    {
+      "from": 24719,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "eyebrow": "En resumen",
+        "title": "Mi guía natural",
+        "items": [
+          "Las recetas de las 4 bebidas",
+          "Cantidades exactas",
+          "Alimentos que cuidan tus riñones"
+        ]
+      }
+    },
+    {
+      "from": 25014,
+      "dur": 225,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_guia.png"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 1183,
+      "dur": 255,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Hay que \"limpiar\" los riñones con una bebida mágica.",
+        "truth": "Tus riñones SON el filtro y se limpian solos 24 h. Vos les das las condiciones: agua y menos carga."
+      }
+    },
+    {
+      "from": 5413,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "¿Tus riñones piden agua?",
+        "items": [
+          "Orina amarillo oscuro, no clarita",
+          "Casi todo té, mate o gaseosa",
+          "Cansancio, boca seca, dolor de cabeza",
+          "Pies o tobillos hinchados a la noche"
+        ]
+      }
+    },
+    {
+      "from": 6614,
+      "dur": 255,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Necesitás tés y jugos \"detox\" caros.",
+        "truth": "Tu detox ya existe: riñones e hígado. Necesitan agua, buena comida y menos sal, azúcar y alcohol."
+      }
+    },
+    {
+      "from": 12599,
+      "dur": 255,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Las 4 bebidas de la mañana",
+        "items": [
+          "Vaso de agua natural al levantarte",
+          "Agua tibia con medio limón",
+          "Infusión suave de jengibre",
+          "Agua de cebada"
+        ]
+      }
+    },
+    {
+      "from": 16660,
+      "dur": 255,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Qué esperar",
+        "title": "Cuidado y prevención",
+        "steps": [
+          {
+            "title": "Días: más energía, menos hinchazón",
+            "sub": "orina más clara"
+          },
+          {
+            "title": "Meses: riñones y presión cuidados",
+            "sub": "no se siente, se construye"
+          },
+          {
+            "title": "La clave: constancia",
+            "sub": "como los cimientos de una casa"
+          }
+        ]
+      }
+    },
+    {
+      "from": 22703,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Cómo hacerlo",
+        "title": "Mañana temprano, en 3 pasos",
+        "steps": [
+          {
+            "title": "Vaso de agua al levantarte",
+            "sub": "antes del café"
+          },
+          {
+            "title": "Sumá UNA de las otras tres",
+            "sub": "limón, jengibre o cebada"
+          },
+          {
+            "title": "Cuidá el resto del día",
+            "sub": "agua, menos sal y gaseosas, presión y azúcar"
+          }
+        ]
+      }
+    },
+    {
+      "from": 24115,
+      "dur": 240,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "Tus riñones no necesitan pociones mágicas: necesitan agua, buenas condiciones y constancia.",
+        "author": "Dra. Elena Vidal"
+      }
+    }
+  ]
+}
