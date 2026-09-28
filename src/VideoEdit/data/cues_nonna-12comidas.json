@@ -1,0 +1,851 @@
+{
+  "slug": "nonna-12comidas",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 21451,
+  "audioSrc": "nonna-12comidas.mp3",
+  "avatarSrc": "nonna-12comidas_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 0,
+      "dur": 1050,
+      "clip": 0
+    },
+    {
+      "from": 1088,
+      "dur": 496,
+      "clip": 1050
+    },
+    {
+      "from": 6480,
+      "dur": 1050,
+      "clip": 1546
+    },
+    {
+      "from": 19008,
+      "dur": 440,
+      "clip": 2596
+    },
+    {
+      "from": 20239,
+      "dur": 1190,
+      "clip": 3036
+    }
+  ],
+  "broll": [
+    {
+      "from": 1050,
+      "dur": 38,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s48.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1584,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s50.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 1876,
+      "dur": 352,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s42.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2228,
+      "dur": 282,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s39.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2510,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s05.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2646,
+      "dur": 370,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s51.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3016,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s07.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3157,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s08.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3346,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s52.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3676,
+      "dur": 243,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s52.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3919,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s09.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4249,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s09.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4379,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s10.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4709,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4812,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s53.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5082,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s11.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5232,
+      "dur": 296,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s54.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5528,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s12.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5658,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s13.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5988,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s13.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6107,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s14.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6196,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s56.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6274,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s19.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7530,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s15.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7639,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s16.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7763,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s17.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7980,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s18.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8214,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s57.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8544,
+      "dur": 251,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s57.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8795,
+      "dur": 229,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s20.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9024,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s58.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9354,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s58.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9452,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s55.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9658,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s22.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9988,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s21.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10085,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s23.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10257,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s59.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10405,
+      "dur": 265,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s24.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10670,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s25.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10895,
+      "dur": 260,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s60.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11155,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s26.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11485,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s26.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11621,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s27.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11731,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s61.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11977,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s28.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12307,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s28.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12502,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12832,
+      "dur": 290,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s62.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13122,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s30.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13262,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s31.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13459,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s63.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13789,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s63.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13948,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s32.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14278,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s32.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14608,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s32.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14743,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s64.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14936,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s34.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15266,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s34.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15364,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s35.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15542,
+      "dur": 338,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s65.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15880,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s36.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16210,
+      "dur": 282,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s36.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16492,
+      "dur": 317,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s37.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16809,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s38.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17011,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s66.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17341,
+      "dur": 261,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s66.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17602,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s40.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17932,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18262,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s40.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18696,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s41.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18772,
+      "dur": 236,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s67.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19448,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s43.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19778,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s43.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20108,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s43.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21429,
+      "dur": 22,
+      "kind": "image",
+      "src": "img/nonna-12comidas_s45.png",
+      "kb": 2,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1088,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "SICILIA · 1974",
+        "title": "Nonna Lucía",
+        "sub": "la cocina de mi mamma"
+      }
+    },
+    {
+      "from": 2273,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Nº 1",
+        "title": "Ajo, aceite y ají"
+      }
+    },
+    {
+      "from": 3770,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Nº 2",
+        "title": "Pasta con papas"
+      }
+    },
+    {
+      "from": 5357,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Nº 3",
+        "title": "La frittata"
+      }
+    },
+    {
+      "from": 6480,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    },
+    {
+      "from": 7579,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Nº 4",
+        "title": "La polenta"
+      }
+    },
+    {
+      "from": 8645,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Nº 5",
+        "title": "Minestrone"
+      }
+    },
+    {
+      "from": 9857,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Nº 6",
+        "title": "Pasta con porotos"
+      }
+    },
+    {
+      "from": 11041,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Nº 7",
+        "title": "Pan con tomate"
+      }
+    },
+    {
+      "from": 11041,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    },
+    {
+      "from": 11882,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Nº 8",
+        "title": "Huevos en el purgatorio"
+      }
+    },
+    {
+      "from": 12640,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Nº 9",
+        "title": "Pasta de harina y agua"
+      }
+    },
+    {
+      "from": 13824,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Nº 10",
+        "title": "Verdura salteada"
+      }
+    },
+    {
+      "from": 14810,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Nº 11",
+        "title": "Papas al horno"
+      }
+    },
+    {
+      "from": 15722,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Nº 12",
+        "title": "El pancotto"
+      }
+    },
+    {
+      "from": 17602,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    },
+    {
+      "from": 20239,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 1726,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/nonna-12comidas_s01.png",
+        "eyebrow": "La verdad",
+        "phrase": "Nacieron de la pobreza. Se volvieron famosas porque son buenísimas.",
+        "accent": "buenísimas"
+      }
+    },
+    {
+      "from": 18336,
+      "dur": 360,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "La despensa de la nonna",
+        "items": [
+          "Pasta y harina",
+          "Legumbres secas y arroz",
+          "Harina de maíz",
+          "Latas de tomate",
+          "Ajo, cebolla y aceite",
+          "Huevos"
+        ],
+        "stamp": "Nunca falta una comida"
+      }
+    }
+  ]
+}
