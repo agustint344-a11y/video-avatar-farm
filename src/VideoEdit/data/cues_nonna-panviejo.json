@@ -1,0 +1,801 @@
+{
+  "slug": "nonna-panviejo",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 19677,
+  "audioSrc": "nonna-panviejo.mp3",
+  "avatarSrc": "nonna-panviejo_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 0,
+      "dur": 479,
+      "clip": 0
+    },
+    {
+      "from": 614,
+      "dur": 936,
+      "clip": 479
+    },
+    {
+      "from": 7016,
+      "dur": 960,
+      "clip": 1415
+    },
+    {
+      "from": 18421,
+      "dur": 1238,
+      "clip": 2375
+    }
+  ],
+  "broll": [
+    {
+      "from": 479,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s02.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1550,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 1693,
+      "dur": 327,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s49.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2020,
+      "dur": 265,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s06.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2495,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s07.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2653,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s51.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2729,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s50.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2858,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s08.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3062,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s52.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3288,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s09.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3618,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s09.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3753,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s10.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3879,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s11.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4020,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s53.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4233,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s54.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4542,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s12.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4779,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s13.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5079,
+      "dur": 274,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s55.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5353,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s14.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5524,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s56.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5958,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s16.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6207,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s17.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6537,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s15.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6714,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s18.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6864,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s57.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7976,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s48.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8133,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s19.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8262,
+      "dur": 366,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s20.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8628,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s21.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8880,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s22.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9210,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s22.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9276,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s58.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9447,
+      "dur": 285,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s59.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9732,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s23.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9912,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s24.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10050,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s60.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10149,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s37.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10215,
+      "dur": 345,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s25.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10560,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s26.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10719,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s61.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10932,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s27.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11034,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s28.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11364,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s28.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11499,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s29.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11607,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s30.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11742,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s62.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11892,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s45.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12297,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s31.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12627,
+      "dur": 257,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s31.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12884,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s32.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13214,
+      "dur": 372,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s32.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13586,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s34.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13763,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s35.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13993,
+      "dur": 337,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s63.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14330,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s36.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14660,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s36.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14990,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s36.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15164,
+      "dur": 313,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s38.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15477,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s39.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15711,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s64.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15948,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s40.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16278,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16446,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s65.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16776,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s65.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17127,
+      "dur": 261,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s66.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17868,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s43.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18198,
+      "dur": 223,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s43.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19659,
+      "dur": 18,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s44.png",
+      "kb": 1,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 614,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "SICILIA · 1974",
+        "title": "Nonna Lucía",
+        "sub": "la cocina de mi mamma"
+      }
+    },
+    {
+      "from": 3606,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RECETA 1",
+        "title": "Pan rallado"
+      }
+    },
+    {
+      "from": 5613,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RECETA 2",
+        "title": "Bruschetta"
+      }
+    },
+    {
+      "from": 7016,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    },
+    {
+      "from": 7968,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RECETA 3",
+        "title": "Panzanella"
+      }
+    },
+    {
+      "from": 9568,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RECETA 4",
+        "title": "Sopa de pan"
+      }
+    },
+    {
+      "from": 10779,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RECETA 5",
+        "title": "Albóndigas de pan"
+      }
+    },
+    {
+      "from": 10779,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    },
+    {
+      "from": 12729,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RECETA 6",
+        "title": "Budín de pan"
+      }
+    },
+    {
+      "from": 14127,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RECETA 7",
+        "title": "Bolas de pan en caldo"
+      }
+    },
+    {
+      "from": 15948,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    },
+    {
+      "from": 18421,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 2285,
+      "dur": 210,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "⚠️",
+        "title": "Pan con moho: a la basura",
+        "sub": "entero, no le cortes la parte mala",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 4392,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/nonna-panviejo_s12.png",
+        "eyebrow": "En Sicilia",
+        "phrase": "El queso de los pobres.",
+        "accent": "queso de los pobres"
+      }
+    },
+    {
+      "from": 5718,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Receta 2",
+        "title": "La bruschetta",
+        "steps": [
+          {
+            "title": "Rebanadas gruesas tostadas",
+            "sub": "sartén, parrilla u horno"
+          },
+          {
+            "title": "Frotar ajo crudo en caliente",
+            "sub": "el pan es el rallador"
+          },
+          {
+            "title": "Aceite de oliva y sal",
+            "sub": "o tomate y albahaca"
+          }
+        ]
+      }
+    },
+    {
+      "from": 12087,
+      "dur": 210,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "🔥",
+        "title": "Aceite caliente",
+        "sub": "si se prende fuego, nunca agua: tapa y apaga",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 16977,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/nonna-panviejo_s42.png",
+        "eyebrow": "Mi papá",
+        "phrase": "Tirar el pan era faltarle el respeto al trabajo.",
+        "accent": "respeto"
+      }
+    },
+    {
+      "from": 17388,
+      "dur": 480,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "7 recetas con pan viejo",
+        "items": [
+          "Pan rallado y el queso de los pobres",
+          "Bruschetta",
+          "Panzanella",
+          "Sopa de pan con tomate",
+          "Albóndigas de pan",
+          "Budín dulce",
+          "Bolas de pan en caldo"
+        ],
+        "stamp": "¡Nunca más a la basura!"
+      }
+    }
+  ]
+}
