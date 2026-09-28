@@ -1,0 +1,744 @@
+{
+  "slug": "nonna-pizza",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 18735,
+  "audioSrc": "nonna-pizza.mp3",
+  "avatarSrc": "nonna-pizza_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 5520,
+      "dur": 1050,
+      "clip": 0
+    },
+    {
+      "from": 15900,
+      "dur": 613,
+      "clip": 1050
+    },
+    {
+      "from": 17250,
+      "dur": 1441,
+      "clip": 1663
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 67,
+      "kind": "image",
+      "src": "img/nonna-pizza_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 67,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/nonna-pizza_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 286,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/nonna-pizza_s41.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 409,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/nonna-pizza_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 539,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pizza_s42.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 869,
+      "dur": 61,
+      "kind": "image",
+      "src": "img/nonna-pizza_s42.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 930,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/nonna-pizza_s43.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1170,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/nonna-pizza_s04.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 1351,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/nonna-pizza_s44.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1530,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pizza_s05.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1860,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pizza_s05.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2190,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/nonna-pizza_s06.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2550,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pizza_s06.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2880,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/nonna-pizza_s06.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2970,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/nonna-pizza_s45.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3180,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/nonna-pizza_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3304,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/nonna-pizza_s08.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3521,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/nonna-pizza_s09.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3660,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/nonna-pizza_s46.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3930,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pizza_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4260,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/nonna-pizza_s10.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4530,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/nonna-pizza_s47.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4592,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/nonna-pizza_s11.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4680,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-pizza_s12.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4800,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/nonna-pizza_s48.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5070,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/nonna-pizza_s13.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5283,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/nonna-pizza_s49.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6570,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/nonna-pizza_s14.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6720,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/nonna-pizza_s15.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6870,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/nonna-pizza_s50.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7230,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/nonna-pizza_s16.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7470,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pizza_s17.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7800,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/nonna-pizza_s51.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8250,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-pizza_s53.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8430,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/nonna-pizza_s19.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8730,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-pizza_s20.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8910,
+      "dur": 360,
+      "kind": "image",
+      "src": "img/nonna-pizza_s54.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9270,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/nonna-pizza_s21.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9570,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pizza_s22.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9900,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-pizza_s22.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10020,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/nonna-pizza_s23.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10260,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/nonna-pizza_s55.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10320,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pizza_s24.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10650,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/nonna-pizza_s24.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10710,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/nonna-pizza_s25.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10980,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/nonna-pizza_s56.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11220,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-pizza_s26.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11400,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/nonna-pizza_s27.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11610,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/nonna-pizza_s57.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11700,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pizza_s28.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12030,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pizza_s28.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12360,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/nonna-pizza_s28.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12660,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pizza_s29.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12990,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/nonna-pizza_s29.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13174,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pizza_s30.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13504,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/nonna-pizza_s30.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13650,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-pizza_s58.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13770,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/nonna-pizza_s31.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13898,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pizza_s59.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14228,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/nonna-pizza_s59.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14400,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-pizza_s32.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14520,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/nonna-pizza_s33.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14940,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/nonna-pizza_s34.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15210,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/nonna-pizza_s35.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15510,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pizza_s36.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15840,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/nonna-pizza_s36.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16513,
+      "dur": 17,
+      "kind": "image",
+      "src": "img/nonna-pizza_s61.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16950,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/nonna-pizza_s38.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18691,
+      "dur": 44,
+      "kind": "image",
+      "src": "img/nonna-pizza_s62.png",
+      "kb": 2,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2190,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 1",
+        "title": "La masa"
+      }
+    },
+    {
+      "from": 5520,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    },
+    {
+      "from": 6600,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 2",
+        "title": "La sartén"
+      }
+    },
+    {
+      "from": 12660,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "BONUS",
+        "title": "Sin levadura y la pizza frita"
+      }
+    },
+    {
+      "from": 12660,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    },
+    {
+      "from": 15210,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    },
+    {
+      "from": 17250,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 2250,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Para dos pizzas medianas",
+        "items": [
+          "Harina: 300 g",
+          "Agua tibia: 200 ml",
+          "Sal: 1 cucharadita",
+          "Aceite de oliva: 1 cucharada",
+          "Levadura: 3 g fresca o 1 g seca"
+        ]
+      }
+    },
+    {
+      "from": 7080,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/nonna-pizza_s15.png",
+        "eyebrow": "El truco",
+        "phrase": "La tapa es el horno.",
+        "accent": "La tapa"
+      }
+    },
+    {
+      "from": 7890,
+      "dur": 360,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Sin horno",
+        "title": "Los tres secretos",
+        "steps": [
+          {
+            "title": "Primero la base sola",
+            "sub": "2-3 minutos hasta dorar abajo"
+          },
+          {
+            "title": "Poquita salsa",
+            "sub": "2-3 cucharadas, borde libre"
+          },
+          {
+            "title": "Queso seco, fuego mínimo y tapado",
+            "sub": "5-6 minutos"
+          }
+        ]
+      }
+    },
+    {
+      "from": 14730,
+      "dur": 210,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "🔥",
+        "title": "Aceite caliente",
+        "sub": "masa seca, chicos lejos; si se prende fuego, tapa y apaga",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 16530,
+      "dur": 420,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "La pizza de la nonna",
+        "items": [
+          "Poca levadura y tiempo",
+          "Estirada fina: 1 cm",
+          "Sartén de fondo grueso con tapa",
+          "Primero la base sola",
+          "Poquita salsa y queso seco",
+          "Fuego mínimo y tapado"
+        ],
+        "stamp": "¡Anótalo!"
+      }
+    }
+  ]
+}
