@@ -1,0 +1,937 @@
+{
+  "slug": "nonna-pan",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 21815,
+  "audioSrc": "nonna-pan.mp3",
+  "avatarSrc": "nonna-pan_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 0,
+      "dur": 1543,
+      "clip": 0
+    },
+    {
+      "from": 8334,
+      "dur": 1050,
+      "clip": 1543
+    },
+    {
+      "from": 20765,
+      "dur": 1038,
+      "clip": 2593
+    }
+  ],
+  "broll": [
+    {
+      "from": 1543,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/nonna-pan_s58.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1729,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/nonna-pan_s59.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2075,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/nonna-pan_s05.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2270,
+      "dur": 236,
+      "kind": "image",
+      "src": "img/nonna-pan_s06.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2506,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/nonna-pan_s07.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2746,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/nonna-pan_s60.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2843,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/nonna-pan_s08.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2977,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/nonna-pan_s61.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3356,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pan_s10.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3686,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/nonna-pan_s10.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3778,
+      "dur": 346,
+      "kind": "image",
+      "src": "img/nonna-pan_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4124,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/nonna-pan_s63.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4207,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pan_s12.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4537,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/nonna-pan_s12.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4800,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/nonna-pan_s64.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4975,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/nonna-pan_s13.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5130,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/nonna-pan_s14.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5513,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/nonna-pan_s15.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5689,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/nonna-pan_s16.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5881,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/nonna-pan_s17.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6094,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/nonna-pan_s18.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6553,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/nonna-pan_s65.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6650,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/nonna-pan_s66.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6775,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/nonna-pan_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7217,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/nonna-pan_s67.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7378,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pan_s21.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7708,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/nonna-pan_s20.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7866,
+      "dur": 281,
+      "kind": "image",
+      "src": "img/nonna-pan_s22.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8147,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/nonna-pan_s68.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9384,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/nonna-pan_s23.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9507,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pan_s24.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9837,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/nonna-pan_s24.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9923,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/nonna-pan_s25.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10051,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/nonna-pan_s69.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10129,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/nonna-pan_s26.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10493,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/nonna-pan_s27.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10727,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pan_s70.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11057,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/nonna-pan_s70.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11133,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/nonna-pan_s28.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11380,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/nonna-pan_s29.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11524,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-pan_s30.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11704,
+      "dur": 256,
+      "kind": "image",
+      "src": "img/nonna-pan_s31.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11960,
+      "dur": 314,
+      "kind": "image",
+      "src": "img/nonna-pan_s71.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12274,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pan_s32.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12604,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/nonna-pan_s32.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12678,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/nonna-pan_s42.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12738,
+      "dur": 257,
+      "kind": "image",
+      "src": "img/nonna-pan_s33.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12995,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/nonna-pan_s72.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13516,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pan_s35.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13846,
+      "dur": 271,
+      "kind": "image",
+      "src": "img/nonna-pan_s34.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14327,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pan_s36.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14657,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/nonna-pan_s36.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14712,
+      "dur": 320,
+      "kind": "image",
+      "src": "img/nonna-pan_s38.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15032,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pan_s39.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15362,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/nonna-pan_s39.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15533,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/nonna-pan_s74.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15688,
+      "dur": 307,
+      "kind": "image",
+      "src": "img/nonna-pan_s41.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15995,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pan_s75.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16325,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/nonna-pan_s75.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16544,
+      "dur": 266,
+      "kind": "image",
+      "src": "img/nonna-pan_s43.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16810,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/nonna-pan_s76.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16900,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/nonna-pan_s44.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17366,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/nonna-pan_s45.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17555,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/nonna-pan_s77.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17708,
+      "dur": 206,
+      "kind": "video",
+      "src": "broll/nonna-pan_v_s46.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17914,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pan_s47.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18244,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/nonna-pan_s47.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18323,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/nonna-pan_s48.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18482,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/nonna-pan_s78.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18646,
+      "dur": 362,
+      "kind": "image",
+      "src": "img/nonna-pan_s49.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19248,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/nonna-pan_s50.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19475,
+      "dur": 374,
+      "kind": "image",
+      "src": "img/nonna-pan_s51.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19849,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/nonna-pan_s79.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20348,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pan_s52.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20678,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/nonna-pan_s52.png",
+      "kb": 2,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 896,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "SICILIA · 1974",
+        "title": "Nonna Lucía",
+        "sub": "la cocina de mi mamma"
+      }
+    },
+    {
+      "from": 8334,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    },
+    {
+      "from": 9507,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL LEVADO",
+        "title": "El tiempo largo"
+      }
+    },
+    {
+      "from": 9507,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    },
+    {
+      "from": 10668,
+      "dur": 210,
+      "comp": "TimerCocina",
+      "props": {
+        "theme": "earth",
+        "minutes": 18,
+        "unit": "HORAS",
+        "label": "en la heladera"
+      }
+    },
+    {
+      "from": 11380,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA FORMA",
+        "title": "Formar el pan"
+      }
+    },
+    {
+      "from": 19008,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    },
+    {
+      "from": 20765,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "El Cuaderno de la Nonna"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 1865,
+      "dur": 210,
+      "comp": "PolaroidRecuerdo",
+      "props": {
+        "theme": "earth",
+        "src": "img/nonna-pan_s05.png",
+        "caption": "Sicilia, sábado a la noche",
+        "sub": "la masa tapada con una manta"
+      }
+    },
+    {
+      "from": 3056,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Cuatro ingredientes",
+        "items": [
+          "Harina: 500 g",
+          "Agua tibia: 350 ml",
+          "Levadura: 5 g fresca o 2 g seca",
+          "Sal: 10 g"
+        ],
+        "stamp": "Nada más"
+      }
+    },
+    {
+      "from": 4650,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/nonna-pan_s12.png",
+        "eyebrow": "El primer secreto",
+        "phrase": "Poca levadura y mucho tiempo.",
+        "accent": "mucho tiempo"
+      }
+    },
+    {
+      "from": 5243,
+      "dur": 270,
+      "comp": "CuadernoReceta",
+      "props": {
+        "theme": "earth",
+        "src": "img/nonna-pan_s15.png",
+        "title": "El pan de mi mamma",
+        "items": [
+          "500 g de harina",
+          "350 ml de agua tibia",
+          "5 g de levadura fresca",
+          "10 g de sal"
+        ],
+        "note": "¡nada más!"
+      }
+    },
+    {
+      "from": 6313,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Si se pega a las manos, le falta harina.",
+        "truth": "La masa húmeda es la que da agujeritos y miga suave. Con harina de más, queda dura."
+      }
+    },
+    {
+      "from": 6917,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "En vez de amasar",
+        "title": "Un pliegue",
+        "steps": [
+          {
+            "title": "Mano mojada: estira un borde",
+            "sub": "sin romperlo"
+          },
+          {
+            "title": "Dóblalo sobre el centro",
+            "sub": "gira el bol un cuarto"
+          },
+          {
+            "title": "Cuatro veces y tapa",
+            "sub": "cada media hora, 3 o 4 veces"
+          }
+        ]
+      }
+    },
+    {
+      "from": 10313,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/nonna-pan_s27.png",
+        "eyebrow": "El truco de mi mamma",
+        "phrase": "Una noche en la heladera.",
+        "accent": "la heladera"
+      }
+    },
+    {
+      "from": 13216,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "La corteza que canta",
+        "title": "El horno",
+        "steps": [
+          {
+            "title": "Olla de hierro vacía, horno al máximo",
+            "sub": "240-250 °C, media hora"
+          },
+          {
+            "title": "Pan en papel, corte y a la olla tapada",
+            "sub": "30 minutos: el vapor"
+          },
+          {
+            "title": "Destapada 15-20 minutos",
+            "sub": "hasta bien dorado"
+          }
+        ]
+      }
+    },
+    {
+      "from": 14117,
+      "dur": 210,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "icon": "🔥",
+        "title": "Guantes gruesos, los dos",
+        "sub": "nunca metas la mano adentro de la olla caliente",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 16394,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/nonna-pan_s42.png",
+        "eyebrow": "Paciencia",
+        "phrase": "Una hora antes de cortarlo.",
+        "accent": "Una hora"
+      }
+    },
+    {
+      "from": 17126,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Guardar el pan",
+        "left": {
+          "label": "Bolsa de plástico",
+          "sub": "corteza gomosa y moho"
+        },
+        "right": {
+          "label": "Trapo de algodón",
+          "sub": "cortar desde el medio y juntar las mitades"
+        }
+      }
+    },
+    {
+      "from": 19008,
+      "dur": 240,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "src": "img/nonna-pan_s50.png",
+        "title": "LA CUENTA",
+        "rows": [
+          {
+            "label": "1 pan de panadería",
+            "price": "$$$",
+            "bad": true
+          },
+          {
+            "label": "½ kg de harina",
+            "price": "$"
+          },
+          {
+            "label": "Levadura, sal y agua",
+            "price": "¢"
+          }
+        ],
+        "total": {
+          "label": "EN CASA",
+          "price": "VARIOS PANES"
+        },
+        "stamp": "APROVECHÁ EL HORNO"
+      }
+    },
+    {
+      "from": 19928,
+      "dur": 420,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "El pan de mi mamma",
+        "items": [
+          "Masa pegajosa: no agregues harina",
+          "Pliegues en vez de amasar",
+          "Levado largo (o una noche en la heladera)",
+          "Formar suave, sin aplastar",
+          "Horno al máximo, con vapor, olla tapada",
+          "Cortarlo frío, guardarlo en un trapo"
+        ],
+        "stamp": "¡Anótalo!"
+      }
+    }
+  ]
+}
