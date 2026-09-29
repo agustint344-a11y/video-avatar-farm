@@ -1,0 +1,1543 @@
+{
+  "slug": "kidneys-vital",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 35671,
+  "audioSrc": "kidneys-vital.mp3",
+  "avatarSrc": "kidneys-vital_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 0,
+      "dur": 472,
+      "clip": 0
+    },
+    {
+      "from": 2108,
+      "dur": 1013,
+      "clip": 472
+    },
+    {
+      "from": 13750,
+      "dur": 1008,
+      "clip": 1485
+    },
+    {
+      "from": 25561,
+      "dur": 510,
+      "clip": 2493
+    },
+    {
+      "from": 30382,
+      "dur": 207,
+      "clip": 3003
+    },
+    {
+      "from": 34398,
+      "dur": 1045,
+      "clip": 3210
+    }
+  ],
+  "broll": [
+    {
+      "from": 472,
+      "dur": 289,
+      "kind": "image",
+      "src": "img/kidneys-vital_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 761,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/kidneys-vital_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 945,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/kidneys-vital_s03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1088,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/kidneys-vital_v_s04.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1262,
+      "dur": 68,
+      "kind": "video",
+      "src": "broll/kidneys-vital_v_s04.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1330,
+      "dur": 284,
+      "kind": "image",
+      "src": "img/kidneys-vital_s05.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1614,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/kidneys-vital_s06.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1944,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/kidneys-vital_s06.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3121,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/kidneys-vital_v_s07.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3295,
+      "dur": 100,
+      "kind": "video",
+      "src": "broll/kidneys-vital_v_s07.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3635,
+      "dur": 255,
+      "kind": "image",
+      "src": "img/kidneys-vital_s09.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3890,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/kidneys-vital_s10.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4041,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/kidneys-vital_s11.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4128,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/kidneys-vital_s12.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4194,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/kidneys-vital_s13.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4318,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/kidneys-vital_s14.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4717,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/kidneys-vital_s16.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4840,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/kidneys-vital_s17.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4997,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/kidneys-vital_s18.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5159,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/kidneys-vital_v_s19.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5333,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/kidneys-vital_s15.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5414,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/kidneys-vital_s20.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5663,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/kidneys-vital_s21.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6116,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/kidneys-vital_s23.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6238,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/kidneys-vital_s24.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6458,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/kidneys-vital_s25.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6557,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/kidneys-vital_s26.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6689,
+      "dur": 341,
+      "kind": "image",
+      "src": "img/kidneys-vital_s27.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7030,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/kidneys-vital_s28.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7187,
+      "dur": 293,
+      "kind": "image",
+      "src": "img/kidneys-vital_s29.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7480,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/kidneys-vital_s30.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7810,
+      "dur": 57,
+      "kind": "image",
+      "src": "img/kidneys-vital_s30.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7867,
+      "dur": 250,
+      "kind": "image",
+      "src": "img/kidneys-vital_s31.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8117,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/kidneys-vital_s32.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8447,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/kidneys-vital_s32.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8522,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/kidneys-vital_s33.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8607,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/kidneys-vital_s34.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8787,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/kidneys-vital_s35.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9117,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/kidneys-vital_s35.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9172,
+      "dur": 339,
+      "kind": "image",
+      "src": "img/kidneys-vital_s36.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9511,
+      "dur": 250,
+      "kind": "image",
+      "src": "img/kidneys-vital_s104.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9761,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/kidneys-vital_s38.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9931,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/kidneys-vital_v_s39.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10105,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/kidneys-vital_s37.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10192,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/kidneys-vital_s40.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10366,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/kidneys-vital_s41.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10696,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/kidneys-vital_s41.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10777,
+      "dur": 277,
+      "kind": "image",
+      "src": "img/kidneys-vital_s42.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11054,
+      "dur": 272,
+      "kind": "image",
+      "src": "img/kidneys-vital_s43.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11326,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/kidneys-vital_s44.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11515,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/kidneys-vital_s45.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11971,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/kidneys-vital_s47.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12301,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/kidneys-vital_s46.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12433,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/kidneys-vital_s48.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12549,
+      "dur": 371,
+      "kind": "image",
+      "src": "img/kidneys-vital_s49.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12920,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/kidneys-vital_s50.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13075,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/kidneys-vital_s51.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13183,
+      "dur": 259,
+      "kind": "image",
+      "src": "img/kidneys-vital_s52.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13442,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/kidneys-vital_v_s53.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13616,
+      "dur": 134,
+      "kind": "video",
+      "src": "broll/kidneys-vital_v_s53.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14758,
+      "dur": 372,
+      "kind": "image",
+      "src": "img/kidneys-vital_s54.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15130,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/kidneys-vital_s55.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15275,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/kidneys-vital_s56.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15382,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/kidneys-vital_s57.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15616,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/kidneys-vital_s58.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15779,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/kidneys-vital_s59.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16148,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/kidneys-vital_v_s61.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16322,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/kidneys-vital_s60.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16495,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/kidneys-vital_s62.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16703,
+      "dur": 238,
+      "kind": "image",
+      "src": "img/kidneys-vital_s63.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16941,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/kidneys-vital_s64.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17271,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/kidneys-vital_s64.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17368,
+      "dur": 355,
+      "kind": "image",
+      "src": "img/kidneys-vital_s65.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17723,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/kidneys-vital_s66.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18053,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/kidneys-vital_s66.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18137,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/kidneys-vital_s67.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18399,
+      "dur": 323,
+      "kind": "image",
+      "src": "img/kidneys-vital_s68.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18722,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/kidneys-vital_v_s69.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18896,
+      "dur": 76,
+      "kind": "video",
+      "src": "broll/kidneys-vital_v_s69.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19242,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/kidneys-vital_s70.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19741,
+      "dur": 340,
+      "kind": "image",
+      "src": "img/kidneys-vital_s73.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20081,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/kidneys-vital_s74.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20295,
+      "dur": 271,
+      "kind": "image",
+      "src": "img/kidneys-vital_s75.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20566,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/kidneys-vital_s76.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20641,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/kidneys-vital_s77.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20971,
+      "dur": 50,
+      "kind": "image",
+      "src": "img/kidneys-vital_s77.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21021,
+      "dur": 356,
+      "kind": "image",
+      "src": "img/kidneys-vital_s78.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21377,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/kidneys-vital_s79.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21477,
+      "dur": 298,
+      "kind": "image",
+      "src": "img/kidneys-vital_s80.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21775,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/kidneys-vital_s81.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21935,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/kidneys-vital_s82.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22265,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/kidneys-vital_s82.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22664,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/kidneys-vital_s84.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22771,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/kidneys-vital_s85.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22922,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/kidneys-vital_s86.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23003,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/kidneys-vital_s87.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23333,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/kidneys-vital_s87.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23444,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/kidneys-vital_s88.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23774,
+      "dur": 291,
+      "kind": "image",
+      "src": "img/kidneys-vital_s88.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24065,
+      "dur": 345,
+      "kind": "image",
+      "src": "img/kidneys-vital_s89.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24410,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/kidneys-vital_s90.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24619,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/kidneys-vital_s91.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24949,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/kidneys-vital_s91.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25011,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/kidneys-vital_s92.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25341,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/kidneys-vital_s92.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26071,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/kidneys-vital_s93.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26200,
+      "dur": 310,
+      "kind": "image",
+      "src": "img/kidneys-vital_s94.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26510,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/kidneys-vital_s95.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26668,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/kidneys-vital_s96.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26996,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/kidneys-vital_s97.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27105,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/kidneys-vital_s98.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27435,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/kidneys-vital_s98.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27490,
+      "dur": 295,
+      "kind": "image",
+      "src": "img/kidneys-vital_s99.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27785,
+      "dur": 205,
+      "kind": "video",
+      "src": "broll/kidneys-vital_v_s100.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27990,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/kidneys-vital_s101.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28320,
+      "dur": 244,
+      "kind": "image",
+      "src": "img/kidneys-vital_s101.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28564,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/kidneys-vital_s102.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28894,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/kidneys-vital_s102.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29224,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/kidneys-vital_s102.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29581,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/kidneys-vital_s103.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29911,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/kidneys-vital_s103.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30044,
+      "dur": 338,
+      "kind": "image",
+      "src": "img/kidneys-vital_s105.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30589,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/kidneys-vital_s106.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30919,
+      "dur": 359,
+      "kind": "image",
+      "src": "img/kidneys-vital_s106.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31278,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/kidneys-vital_s107.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31608,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/kidneys-vital_s107.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31797,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/kidneys-vital_s108.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32127,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/kidneys-vital_s108.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32326,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/kidneys-vital_s109.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32656,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/kidneys-vital_s109.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32970,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/kidneys-vital_s111.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33300,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/kidneys-vital_v_s110.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33474,
+      "dur": 187,
+      "kind": "video",
+      "src": "broll/kidneys-vital_v_s110.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33661,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/kidneys-vital_s112.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33991,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/kidneys-vital_s112.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 34321,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/kidneys-vital_s112.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 35443,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/kidneys-vital_s83.png",
+      "kb": 4,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2108,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "EVIDENCE-BASED",
+        "title": "Dr. Alan Brooks",
+        "sub": "protect your kidneys after 60"
+      }
+    },
+    {
+      "from": 5816,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN FOR THE FREE GUIDE",
+        "label": "The Natural Wellness Method"
+      }
+    },
+    {
+      "from": 6238,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "PILL #1",
+        "title": "Anti-inflammatory painkillers",
+        "sub": "narrow the vessels that feed the kidney"
+      }
+    },
+    {
+      "from": 8117,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "PILL #2",
+        "title": "Long-term heartburn pills",
+        "sub": "started for a month, still taken years later"
+      }
+    },
+    {
+      "from": 9172,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "PILL #3",
+        "title": "Megadose supplements",
+        "sub": "natural is not automatically gentle"
+      }
+    },
+    {
+      "from": 9931,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "PILL #4",
+        "title": "Some antibiotics & antivirals",
+        "sub": "drink well while you take them"
+      }
+    },
+    {
+      "from": 10777,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "THE COMBINATION",
+        "sub": "several pills on a dehydrated body",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 14474,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN FOR THE FREE GUIDE",
+        "label": "The Natural Wellness Method"
+      }
+    },
+    {
+      "from": 15130,
+      "dur": 180,
+      "comp": "MarcaCirculo",
+      "props": {
+        "theme": "clinic",
+        "x": 50,
+        "y": 68,
+        "w": 520,
+        "h": 300,
+        "note": "new ankle swelling"
+      }
+    },
+    {
+      "from": 16941,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "CREATININE → eGFR",
+        "sub": "your kidney power",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 25141,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "In the guide",
+        "title": "The Natural Wellness Method",
+        "items": [
+          "Questions for your doctor",
+          "Kidney-friendly food list",
+          "The warning signs, written out"
+        ]
+      }
+    },
+    {
+      "from": 25468,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN FOR THE FREE GUIDE",
+        "label": "The Natural Wellness Method"
+      }
+    },
+    {
+      "from": 27990,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "clinic",
+        "label": "MYTH",
+        "num": 1,
+        "text": "You would feel back pain"
+      }
+    },
+    {
+      "from": 28564,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "clinic",
+        "label": "MYTH",
+        "num": 2,
+        "text": "Gallons of water flush the damage"
+      }
+    },
+    {
+      "from": 30581,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Golden rule",
+        "sub": "NEVER stop a prescribed pill on your own — take your list to your doctor",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 31797,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Over-the-counter ≠ harmless",
+        "sub": "respect them like a prescription",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 32326,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🧪",
+        "title": "Get the simple test",
+        "sub": "blood + urine kidney check after 60",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 35152,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN FOR THE FREE GUIDE",
+        "label": "The Natural Wellness Method"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 3395,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Your kidneys are just a drain.",
+        "truth": "They are a control center: they filter ALL your blood, control blood pressure, balance minerals and help make red blood cells."
+      }
+    },
+    {
+      "from": 4507,
+      "dur": 210,
+      "comp": "BigStat",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "In each kidney",
+        "value": 1000000,
+        "suffix": "",
+        "support": "tiny filters — and they do NOT grow back"
+      }
+    },
+    {
+      "from": 5816,
+      "dur": 300,
+      "comp": "CuadernoReceta",
+      "props": {
+        "theme": "clinic",
+        "src": "img/kidneys-vital_s22.png",
+        "title": "5 pills hardest on the kidneys",
+        "items": [
+          "Daily anti-inflammatory painkillers",
+          "Long-term strong heartburn pills",
+          "Megadose supplements & vitamins",
+          "Some antibiotics when dehydrated",
+          "The COMBINATION of several"
+        ],
+        "note": "ordinary pills!"
+      }
+    },
+    {
+      "from": 11701,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Why after 60?",
+        "title": "3 reasons that stack up",
+        "steps": [
+          {
+            "title": "Less reserve every year",
+            "sub": "from about age 40"
+          },
+          {
+            "title": "Less water in the body",
+            "sub": "thirst comes later"
+          },
+          {
+            "title": "A longer list of pills",
+            "sub": "nobody adds it up"
+          }
+        ]
+      }
+    },
+    {
+      "from": 15878,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Quiet warning signs",
+        "items": [
+          "Swollen ankles, puffy eyes",
+          "Unusual tiredness",
+          "Foamy or scarce urine, night trips",
+          "Itchy skin, metallic taste, no appetite"
+        ]
+      }
+    },
+    {
+      "from": 18972,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "clinic",
+        "title": "The 2 tests to ask for",
+        "left": {
+          "label": "Blood: creatinine → eGFR",
+          "sub": "how well you filter"
+        },
+        "right": {
+          "label": "Urine: albumin",
+          "sub": "the earliest leak"
+        }
+      }
+    },
+    {
+      "from": 19441,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Protect them",
+        "title": "The honest way",
+        "steps": [
+          {
+            "title": "Drink steadily",
+            "sub": "unless your doctor limits fluids"
+          },
+          {
+            "title": "Gentle with painkillers",
+            "sub": "heat, movement, topical gels first"
+          },
+          {
+            "title": "Less salt & processed food",
+            "sub": "real food is a gift to your filter"
+          }
+        ]
+      }
+    },
+    {
+      "from": 22394,
+      "dur": 270,
+      "comp": "CuadernoReceta",
+      "props": {
+        "theme": "clinic",
+        "src": "img/kidneys-vital_s83.png",
+        "title": "Kidney-friendly plate",
+        "items": [
+          "Peppers, cabbage, cauliflower",
+          "Berries, apples, grapes",
+          "Olive oil, fish twice a week",
+          "Beans & lentils in small portions",
+          "Garlic & herbs instead of salt"
+        ]
+      }
+    },
+    {
+      "from": 26786,
+      "dur": 210,
+      "comp": "PolaroidRecuerdo",
+      "props": {
+        "theme": "clinic",
+        "src": "img/kidneys-vital_s93.png",
+        "caption": "Three years of 'just a pill'",
+        "sub": "painkiller + heartburn pill + supplements"
+      }
+    },
+    {
+      "from": 29311,
+      "dur": 270,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "clinic",
+        "src": "img/kidneys-vital_s103.png",
+        "title": "THE BILL",
+        "rows": [
+          {
+            "label": "Detox kidney tea",
+            "price": "$$$",
+            "bad": true
+          },
+          {
+            "label": "Kidney cleanse pills",
+            "price": "$$$",
+            "bad": true
+          },
+          {
+            "label": "Water + real food",
+            "price": "$"
+          }
+        ],
+        "total": {
+          "label": "WHAT WORKS",
+          "price": "A TEST"
+        },
+        "stamp": "YOUR KIDNEYS CLEAN THEMSELVES"
+      }
+    },
+    {
+      "from": 32760,
+      "dur": 210,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "You cannot feel your kidney numbers. You can only measure them. What gets measured gets protected.",
+        "author": "Dr. Alan Brooks"
+      }
+    }
+  ]
+}
