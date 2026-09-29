@@ -144,8 +144,8 @@
     {
       "from": 4785,
       "dur": 218,
-      "kind": "image",
-      "src": "img/nonna-albondigas_s11.png",
+      "kind": "video",
+      "src": "broll/nonna-albondigas_v_s11.mp4",
       "kb": 2,
       "pip": false
     },
@@ -200,8 +200,8 @@
     {
       "from": 7742,
       "dur": 167,
-      "kind": "image",
-      "src": "img/nonna-albondigas_s16.png",
+      "kind": "video",
+      "src": "broll/nonna-albondigas_v_s16.mp4",
       "kb": 3,
       "pip": false
     },
@@ -214,19 +214,27 @@
       "pip": false
     },
     {
-      "from": 8398,
-      "dur": 330,
+      "from": 8338,
+      "dur": 86,
       "kind": "image",
-      "src": "img/nonna-albondigas_s18.png",
+      "src": "img/nonna-albondigas_s17.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 8728,
-      "dur": 215,
+      "from": 8424,
+      "dur": 330,
       "kind": "image",
-      "src": "img/nonna-albondigas_s17.png",
+      "src": "img/nonna-albondigas_s18.png",
       "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8754,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/nonna-albondigas_s18.png",
+      "kb": 1,
       "pip": false
     },
     {
@@ -234,7 +242,7 @@
       "dur": 227,
       "kind": "image",
       "src": "img/nonna-albondigas_s19.png",
-      "kb": 1,
+      "kb": 2,
       "pip": false
     },
     {
@@ -242,7 +250,7 @@
       "dur": 156,
       "kind": "image",
       "src": "img/nonna-albondigas_s20.png",
-      "kb": 2,
+      "kb": 3,
       "pip": false
     },
     {
@@ -250,15 +258,23 @@
       "dur": 214,
       "kind": "image",
       "src": "img/nonna-albondigas_s21.png",
-      "kb": 3,
+      "kb": 4,
       "pip": false
     },
     {
       "from": 9540,
-      "dur": 288,
-      "kind": "image",
-      "src": "img/nonna-albondigas_s22.png",
-      "kb": 4,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/nonna-albondigas_v_s22.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9714,
+      "dur": 114,
+      "kind": "video",
+      "src": "broll/nonna-albondigas_v_s22.mp4",
+      "kb": 0,
       "pip": false
     },
     {
@@ -266,7 +282,7 @@
       "dur": 128,
       "kind": "image",
       "src": "img/nonna-albondigas_s23.png",
-      "kb": 5,
+      "kb": 1,
       "pip": false
     },
     {
@@ -274,7 +290,7 @@
       "dur": 194,
       "kind": "image",
       "src": "img/nonna-albondigas_s52.png",
-      "kb": 0,
+      "kb": 2,
       "pip": false
     },
     {
@@ -282,7 +298,7 @@
       "dur": 106,
       "kind": "image",
       "src": "img/nonna-albondigas_s24.png",
-      "kb": 1,
+      "kb": 3,
       "pip": false
     },
     {
@@ -290,7 +306,7 @@
       "dur": 114,
       "kind": "image",
       "src": "img/nonna-albondigas_s53.png",
-      "kb": 2,
+      "kb": 4,
       "pip": false
     },
     {
@@ -298,7 +314,7 @@
       "dur": 112,
       "kind": "image",
       "src": "img/nonna-albondigas_s25.png",
-      "kb": 3,
+      "kb": 5,
       "pip": false
     },
     {
@@ -306,7 +322,7 @@
       "dur": 245,
       "kind": "image",
       "src": "img/nonna-albondigas_s27.png",
-      "kb": 4,
+      "kb": 0,
       "pip": false
     },
     {
@@ -314,7 +330,7 @@
       "dur": 190,
       "kind": "image",
       "src": "img/nonna-albondigas_s28.png",
-      "kb": 5,
+      "kb": 1,
       "pip": false
     },
     {
@@ -322,7 +338,7 @@
       "dur": 330,
       "kind": "image",
       "src": "img/nonna-albondigas_s29.png",
-      "kb": 0,
+      "kb": 2,
       "pip": false
     },
     {
@@ -330,7 +346,7 @@
       "dur": 80,
       "kind": "image",
       "src": "img/nonna-albondigas_s29.png",
-      "kb": 1,
+      "kb": 3,
       "pip": false
     },
     {
@@ -338,23 +354,31 @@
       "dur": 114,
       "kind": "image",
       "src": "img/nonna-albondigas_s55.png",
-      "kb": 2,
+      "kb": 4,
       "pip": false
     },
     {
       "from": 12101,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/nonna-albondigas_s30.png",
-      "kb": 3,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/nonna-albondigas_v_s30.mp4",
+      "kb": 5,
       "pip": false
     },
     {
-      "from": 12431,
-      "dur": 197,
-      "kind": "image",
-      "src": "img/nonna-albondigas_s30.png",
-      "kb": 4,
+      "from": 12275,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/nonna-albondigas_v_s30.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12449,
+      "dur": 179,
+      "kind": "video",
+      "src": "broll/nonna-albondigas_v_s30.mp4",
+      "kb": 1,
       "pip": false
     },
     {
@@ -362,7 +386,7 @@
       "dur": 244,
       "kind": "image",
       "src": "img/nonna-albondigas_s31.png",
-      "kb": 5,
+      "kb": 2,
       "pip": false
     },
     {
@@ -370,15 +394,23 @@
       "dur": 212,
       "kind": "image",
       "src": "img/nonna-albondigas_s56.png",
-      "kb": 0,
+      "kb": 3,
       "pip": false
     },
     {
       "from": 13084,
-      "dur": 356,
-      "kind": "image",
-      "src": "img/nonna-albondigas_s32.png",
-      "kb": 1,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/nonna-albondigas_v_s32.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13258,
+      "dur": 182,
+      "kind": "video",
+      "src": "broll/nonna-albondigas_v_s32.mp4",
+      "kb": 5,
       "pip": false
     },
     {
@@ -386,7 +418,7 @@
       "dur": 266,
       "kind": "image",
       "src": "img/nonna-albondigas_s33.png",
-      "kb": 2,
+      "kb": 0,
       "pip": false
     },
     {
@@ -394,7 +426,7 @@
       "dur": 284,
       "kind": "image",
       "src": "img/nonna-albondigas_s57.png",
-      "kb": 3,
+      "kb": 1,
       "pip": false
     },
     {
@@ -402,7 +434,7 @@
       "dur": 231,
       "kind": "image",
       "src": "img/nonna-albondigas_s58.png",
-      "kb": 4,
+      "kb": 2,
       "pip": false
     },
     {
@@ -410,23 +442,15 @@
       "dur": 352,
       "kind": "image",
       "src": "img/nonna-albondigas_s34.png",
-      "kb": 5,
+      "kb": 3,
       "pip": false
     },
     {
-      "from": 14573,
-      "dur": 330,
+      "from": 14813,
+      "dur": 213,
       "kind": "image",
       "src": "img/nonna-albondigas_s35.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 14903,
-      "dur": 123,
-      "kind": "image",
-      "src": "img/nonna-albondigas_s35.png",
-      "kb": 1,
+      "kb": 4,
       "pip": false
     },
     {
@@ -434,7 +458,7 @@
       "dur": 357,
       "kind": "image",
       "src": "img/nonna-albondigas_s59.png",
-      "kb": 2,
+      "kb": 5,
       "pip": false
     },
     {
@@ -442,7 +466,7 @@
       "dur": 330,
       "kind": "image",
       "src": "img/nonna-albondigas_s36.png",
-      "kb": 3,
+      "kb": 0,
       "pip": false
     },
     {
@@ -450,7 +474,7 @@
       "dur": 275,
       "kind": "image",
       "src": "img/nonna-albondigas_s36.png",
-      "kb": 4,
+      "kb": 1,
       "pip": false
     },
     {
@@ -458,7 +482,7 @@
       "dur": 23,
       "kind": "image",
       "src": "img/nonna-albondigas_s38.png",
-      "kb": 5,
+      "kb": 2,
       "pip": false
     }
   ],
@@ -477,21 +501,31 @@
     {
       "from": 2363,
       "dur": 135,
-      "comp": "SectionTitle",
+      "comp": "SelloError",
       "props": {
         "theme": "earth",
-        "eyebrow": "ERROR 1",
-        "title": "La carne muy magra"
+        "num": 1,
+        "text": "La carne muy magra"
       }
     },
     {
       "from": 3509,
       "dur": 135,
-      "comp": "SectionTitle",
+      "comp": "SelloError",
       "props": {
         "theme": "earth",
-        "eyebrow": "ERROR 2",
-        "title": "El pan rallado seco"
+        "num": 2,
+        "text": "El pan rallado seco"
+      }
+    },
+    {
+      "from": 4627,
+      "dur": 180,
+      "comp": "TimerCocina",
+      "props": {
+        "theme": "earth",
+        "minutes": 10,
+        "label": "la miga en leche"
       }
     },
     {
@@ -509,31 +543,31 @@
     {
       "from": 7274,
       "dur": 135,
-      "comp": "SectionTitle",
+      "comp": "SelloError",
       "props": {
         "theme": "earth",
-        "eyebrow": "ERROR 3",
-        "title": "Amasar demasiado"
+        "num": 3,
+        "text": "Amasar demasiado"
       }
     },
     {
       "from": 9170,
       "dur": 135,
-      "comp": "SectionTitle",
+      "comp": "SelloError",
       "props": {
         "theme": "earth",
-        "eyebrow": "ERROR 4",
-        "title": "Formarlas apretando"
+        "num": 4,
+        "text": "Formarlas apretando"
       }
     },
     {
       "from": 10520,
       "dur": 135,
-      "comp": "SectionTitle",
+      "comp": "SelloError",
       "props": {
         "theme": "earth",
-        "eyebrow": "ERROR 5",
-        "title": "Cocinarlas mal"
+        "num": 5,
+        "text": "Cocinarlas mal"
       }
     },
     {
@@ -608,19 +642,20 @@
     },
     {
       "from": 8068,
-      "dur": 330,
-      "comp": "Checklist",
+      "dur": 270,
+      "comp": "CuadernoReceta",
       "props": {
         "theme": "earth",
-        "title": "Para medio kilo de carne",
+        "src": "img/nonna-albondigas_s17.png",
+        "title": "La mezcla de mi mamma",
         "items": [
-          "Miga remojada en leche, estrujada",
+          "½ kg de carne picada",
+          "Miga remojada en leche",
           "1 huevo",
-          "Un puñado de queso rallado",
-          "1 ajo muy picado y perejil",
-          "Sal, pimienta (nuez moscada)"
+          "Queso rallado",
+          "Ajo, perejil, sal"
         ],
-        "stamp": "Mezclar suave"
+        "note": "¡suave!"
       }
     },
     {
@@ -662,6 +697,31 @@
         "title": "Aceite caliente",
         "sub": "albóndigas secas, chicos lejos; si se prende fuego, tapa y apaga",
         "tone": "warn"
+      }
+    },
+    {
+      "from": 14573,
+      "dur": 240,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "src": "img/nonna-albondigas_s35.png",
+        "title": "LA CUENTA",
+        "rows": [
+          {
+            "label": "½ kg carne picada",
+            "price": "$"
+          },
+          {
+            "label": "Miga, huevo y queso",
+            "price": "¢"
+          }
+        ],
+        "total": {
+          "label": "ALBÓNDIGAS",
+          "price": "40"
+        },
+        "stamp": "PARA TODA LA FAMILIA"
       }
     },
     {
