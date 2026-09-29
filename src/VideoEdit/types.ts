@@ -27,7 +27,10 @@ export type ComponentBeat = {
     | "Testimonial"
     | "AnnotatedImage"
     | "BigNumberCard"
-    | "PhraseCard";
+    | "PhraseCard"
+    | "CuadernoReceta"
+    | "TicketPrecio"
+    | "PolaroidRecuerdo";
   props: Record<string, unknown>;
 };
 
@@ -35,7 +38,7 @@ export type ComponentBeat = {
 export type OverlayBeat = {
   from: number;
   dur: number;
-  comp: "LowerThird" | "KeywordPop" | "StatChip" | "IconRow" | "StatBar" | "SectionTitle" | "Callout" | "SplitInfo";
+  comp: "LowerThird" | "KeywordPop" | "StatChip" | "IconRow" | "StatBar" | "SectionTitle" | "Callout" | "SplitInfo" | "SelloError" | "TimerCocina" | "MarcaCirculo";
   props: Record<string, unknown>;
 };
 

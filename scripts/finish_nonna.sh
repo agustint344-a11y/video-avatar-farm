@@ -11,17 +11,20 @@ until mkdir C:/Users/Teje/AppData/Local/Temp/farmlock 2>/dev/null; do sleep 20; 
 trap "rmdir C:/Users/Teje/AppData/Local/Temp/farmlock 2>/dev/null" EXIT
 BR="$SLUG-render"
 git checkout -q -B "$BR"
-for p in "$BUILD" "src/VideoEdit/data/cues_$SLUG.json" "_${SLUG}_assets.txt" src/Root_nonna*.tsx src/index-nonna*.ts src/Root_mateo*.tsx src/index-mateo*.ts src/VideoEdit/renderCues.tsx src/VideoEdit/types.ts src/VideoEdit/kit/kit.tsx .github/workflows/render.yml scripts/finish_nonna.sh scripts/agnes_video.mjs scripts/cut_avatar_audio.mjs; do git add "$p" 2>/dev/null || echo "no add $p"; done
+for p in "$BUILD" "src/VideoEdit/data/cues_$SLUG.json" "_${SLUG}_assets.txt" src/Root_nonna*.tsx src/index-nonna*.ts src/Root_mateo*.tsx src/index-mateo*.ts src/VideoEdit/renderCues.tsx src/VideoEdit/types.ts src/VideoEdit/kit/kit.tsx src/VideoEdit/kit/kit5.tsx package.json package-lock.json .github/workflows/render.yml scripts/finish_nonna.sh scripts/agnes_video.mjs scripts/cut_avatar_audio.mjs; do git add "$p" 2>/dev/null || echo "no add $p"; done
 git commit -q -m "$SLUG render
 
 Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>" || true
 git push -q -f origin "$BR"
+OLDRUNS=$(gh run list --branch "$BR" --json databaseId -q ".[].databaseId" 2>/dev/null | tr "
+" " ")
 TF=$(node -e 'console.log(require("./src/VideoEdit/data/cues_'"$SLUG"'.json").durationInFrames)')
 FARM_REF="$BR" ENTRY="$ENTRY" node scripts/farm.mjs "$SLUG" "$COMP" "$TF" 40 "@_${SLUG}_assets.txt" | grep -E "disparado|rror" || true
 SHA=$(git rev-parse HEAD)
 rmdir C:/Users/Teje/AppData/Local/Temp/farmlock 2>/dev/null || true
 while true; do
   L=$(gh run list --branch "$BR" --json databaseId,headSha,status,conclusion -q ".[] | select(.headSha==\"$SHA\") | \"\(.databaseId) \(.status) \(.conclusion)\"" 2>/dev/null | head -1)
+  ID0=${L%% *}; case " $OLDRUNS " in *" $ID0 "*) L="";; esac  # ignorar corridas viejas (re-render sin commit nuevo)
   case "$L" in *completed*) echo "RUN $L"; break;; esac; sleep 90
 done
 gh release download "$SLUG" --repo agustint344-a11y/video-avatar-farm --pattern "$SLUG.mp4" --dir D:/CLAUDE/out --clobber

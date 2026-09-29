@@ -46,6 +46,7 @@ import {
   Testimonial,
 } from "./kit/kit3";
 import { AntesDespues, Medidor, QRTag, Timeline, Top5Reveal } from "./kit/kit4";
+import { CuadernoReceta, MarcaCirculo, PolaroidRecuerdo, SelloError, TicketPrecio, TimerCocina } from "./kit/kit5";
 import type { BrollBeat, ComponentBeat, OverlayBeat } from "./types";
 
 /* ─────────────────────────  b-roll a pantalla completa (Ken Burns)  ───────────────────────── */
@@ -117,6 +118,9 @@ const MAP = {
   Medidor,
   Timeline,
   PhraseCard,
+  CuadernoReceta,
+  TicketPrecio,
+  PolaroidRecuerdo,
 } as const;
 
 export const ComponentBeatView: React.FC<{ beat: ComponentBeat }> = ({
@@ -126,7 +130,7 @@ export const ComponentBeatView: React.FC<{ beat: ComponentBeat }> = ({
   if (!Comp) return null;
   // FramedPhoto recibe src relativo a public/ → resolver con staticFile.
   const base =
-    (beat.comp === "FramedPhoto" || beat.comp === "PhraseCard") && typeof beat.props.src === "string"
+    ["FramedPhoto", "PhraseCard", "CuadernoReceta", "TicketPrecio", "PolaroidRecuerdo"].includes(beat.comp) && typeof beat.props.src === "string"
       ? { ...beat.props, src: staticFile(beat.props.src as string) }
       : beat.props;
   return <Comp durationInFrames={beat.dur} {...withTheme(base)} />;
@@ -143,6 +147,9 @@ const OMAP = {
   Callout,
   SplitInfo,
   QRTag,
+  SelloError,
+  TimerCocina,
+  MarcaCirculo,
 } as const;
 
 export const OverlayBeatView: React.FC<{ beat: OverlayBeat }> = ({ beat }) => {

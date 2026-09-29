@@ -47,9 +47,9 @@ export const CuadernoReceta: React.FC<{ durationInFrames: number; src?: string; 
       <Backdrop src={src} dur={dur} />
       <AbsoluteFill style={{ alignItems: "center", justifyContent: "center" }}>
         <div style={{
-          width: 1180, height: 880, position: "relative", borderRadius: 10,
-          background: `repeating-linear-gradient(to bottom, transparent 0 67px, ${C.line} 67px 69px), radial-gradient(ellipse at 30% 20%, ${C.paper} 0%, ${C.paper2} 100%)`,
-          backgroundPosition: "0 150px, 0 0",
+          width: 1240, height: 960, position: "relative", borderRadius: 10,
+          background: `repeating-linear-gradient(to bottom, transparent 0 94px, ${C.line} 94px 96px), radial-gradient(ellipse at 30% 20%, ${C.paper} 0%, ${C.paper2} 100%)`,
+          backgroundPosition: "0 178px, 0 0",
           boxShadow: "0 40px 80px rgba(0,0,0,.55), inset 0 0 90px rgba(120,90,40,.18)",
           rotate: `${interpolate(f, [0, 16], [-5, -1.5], { ...cl, easing: OUT })}deg`,
           translate: `0px ${interpolate(f, [0, 16], [120, 0], { ...cl, easing: OUT })}px`,
@@ -60,28 +60,28 @@ export const CuadernoReceta: React.FC<{ durationInFrames: number; src?: string; 
           {Array.from({ length: 9 }).map((_, i) => (
             <div key={i} style={{ position: "absolute", left: 46, top: 60 + i * 92, width: 34, height: 34, borderRadius: 17, background: "#1b1510", boxShadow: "inset 0 3px 6px rgba(0,0,0,.6)" }} />
           ))}
-          <div style={{ position: "absolute", left: 190, top: 44, fontFamily: HAND, fontSize: 92, color: C.ink, lineHeight: 1 }}>
+          <div style={{ position: "absolute", left: 190, top: 40, fontFamily: HAND, fontSize: 104, color: C.ink, lineHeight: 1 }}>
             <Underline progress={interpolate(f, [8, 22], [0, 1], cl)} color={C.red} strokeWidth={4} iterations={2}>
               <span>{title}</span>
             </Underline>
           </div>
-          <div style={{ position: "absolute", left: 200, top: 176, right: 60 }}>
+          <div style={{ position: "absolute", left: 196, top: 184, right: 60 }}>
             {items.map((it, i) => {
               const a = t0 + i * per;
               const w = interpolate(f, [a, a + per * 0.75], [0, 100], { ...cl, easing: Easing.bezier(0.4, 0, 0.6, 1) });
               const tick = interpolate(f, [a + per * 0.7, a + per * 0.95], [0, 1], cl);
               return (
-                <div key={i} style={{ height: 68, display: "flex", alignItems: "center", gap: 22 }}>
-                  <svg width="48" height="48" viewBox="0 0 48 48" style={{ flex: "none" }}>
+                <div key={i} style={{ height: 96, display: "flex", alignItems: "center", gap: 24 }}>
+                  <svg width="60" height="60" viewBox="0 0 48 48" style={{ flex: "none" }}>
                     <path d="M6 26 L19 38 L43 8" fill="none" stroke={C.olive} strokeWidth="6" strokeLinecap="round" strokeLinejoin="round" strokeDasharray="70" strokeDashoffset={70 - 70 * tick} />
                   </svg>
-                  <div style={{ fontFamily: HAND, fontSize: 60, color: C.blue, whiteSpace: "nowrap", clipPath: `inset(-20px ${100 - w}% -20px 0)` }}>{it}</div>
+                  <div style={{ fontFamily: HAND, fontSize: 80, color: C.blue, whiteSpace: "nowrap", clipPath: `inset(-20px ${100 - w}% -20px 0)` }}>{it}</div>
                 </div>
               );
             })}
           </div>
           {note ? (
-            <div style={{ position: "absolute", right: 70, bottom: 56, fontFamily: HAND, fontSize: 58, color: C.red, rotate: "-4deg", opacity: interpolate(f, [noteAt, noteAt + 8], [0, 1], cl) }}>
+            <div style={{ position: "absolute", right: 80, bottom: 60, fontFamily: HAND, fontSize: 72, color: C.red, rotate: "-4deg", opacity: interpolate(f, [noteAt, noteAt + 8], [0, 1], cl) }}>
               <Circle progress={interpolate(f, [noteAt + 4, noteAt + 20], [0, 1], cl)} color={C.red} strokeWidth={3} padding={{ top: 14, bottom: 14, left: 26, right: 26 }}>
                 <span>{note}</span>
               </Circle>
@@ -106,8 +106,8 @@ export const SelloError: React.FC<{ durationInFrames: number; label?: string; nu
       <AbsoluteFill style={{ background: "radial-gradient(ellipse at center, rgba(0,0,0,0) 35%, rgba(0,0,0,.55) 100%)", opacity: interpolate(f, [0, hit], [0, 1], cl) }} />
       <svg width="0" height="0" style={{ position: "absolute" }}>
         <filter id="tinta">
-          <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="7" result="n" />
-          <feColorMatrix in="n" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -1.6 1.25" result="m" />
+          <feTurbulence type="fractalNoise" baseFrequency="0.6" numOctaves="2" seed="7" result="n" />
+          <feColorMatrix in="n" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -0.7 1.45" result="m" />
           <feComposite in="SourceGraphic" in2="m" operator="in" result="c" />
           <feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="2" seed="3" result="w" />
           <feDisplacementMap in="c" in2="w" scale="7" />
