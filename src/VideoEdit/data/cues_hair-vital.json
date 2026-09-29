@@ -1,0 +1,1684 @@
+{
+  "slug": "hair-vital",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 36947,
+  "audioSrc": "hair-vital.mp3",
+  "avatarSrc": "hair-vital_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 0,
+      "dur": 367,
+      "clip": 0
+    },
+    {
+      "from": 2075,
+      "dur": 835,
+      "clip": 367
+    },
+    {
+      "from": 6737,
+      "dur": 938,
+      "clip": 1202
+    },
+    {
+      "from": 23312,
+      "dur": 471,
+      "clip": 2140
+    },
+    {
+      "from": 29164,
+      "dur": 730,
+      "clip": 2611
+    },
+    {
+      "from": 35879,
+      "dur": 1048,
+      "clip": 3341
+    }
+  ],
+  "broll": [
+    {
+      "from": 367,
+      "dur": 250,
+      "kind": "image",
+      "src": "img/hair-vital_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 617,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/hair-vital_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 779,
+      "dur": 264,
+      "kind": "image",
+      "src": "img/hair-vital_s03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1043,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/hair-vital_s47.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1243,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/hair-vital_s05.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1457,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/hair-vital_s06.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1697,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/hair-vital_s07.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2027,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/hair-vital_s07.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2910,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/hair-vital_v_s08.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3084,
+      "dur": 59,
+      "kind": "video",
+      "src": "broll/hair-vital_v_s08.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3413,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/hair-vital_s09.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3683,
+      "dur": 326,
+      "kind": "image",
+      "src": "img/hair-vital_s10.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4009,
+      "dur": 331,
+      "kind": "image",
+      "src": "img/hair-vital_s11.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4340,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/hair-vital_s12.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4533,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/hair-vital_s48.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4863,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/hair-vital_s13.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5065,
+      "dur": 269,
+      "kind": "image",
+      "src": "img/hair-vital_s14.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5334,
+      "dur": 64,
+      "kind": "image",
+      "src": "img/hair-vital_s15.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5398,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/hair-vital_s16.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5845,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/hair-vital_s17.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5981,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/hair-vital_s19.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6044,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/hair-vital_s20.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6260,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/hair-vital_s38.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6362,
+      "dur": 375,
+      "kind": "image",
+      "src": "img/hair-vital_s22.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7675,
+      "dur": 11,
+      "kind": "image",
+      "src": "img/hair-vital_s21.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7956,
+      "dur": 360,
+      "kind": "image",
+      "src": "img/hair-vital_s24.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8316,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/hair-vital_s25.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8586,
+      "dur": 263,
+      "kind": "image",
+      "src": "img/hair-vital_s26.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8849,
+      "dur": 326,
+      "kind": "image",
+      "src": "img/hair-vital_s27.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9175,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/hair-vital_s28.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9505,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/hair-vital_s28.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9736,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/hair-vital_s29.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10066,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/hair-vital_s29.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10220,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/hair-vital_s30.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10550,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/hair-vital_s30.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10737,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/hair-vital_s31.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11067,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/hair-vital_s31.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11273,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/hair-vital_s32.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11615,
+      "dur": 314,
+      "kind": "image",
+      "src": "img/hair-vital_s34.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11929,
+      "dur": 327,
+      "kind": "image",
+      "src": "img/hair-vital_s35.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12256,
+      "dur": 212,
+      "kind": "video",
+      "src": "broll/hair-vital_v_s36.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12468,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/hair-vital_s37.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12798,
+      "dur": 325,
+      "kind": "image",
+      "src": "img/hair-vital_s37.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13123,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/hair-vital_s39.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13251,
+      "dur": 299,
+      "kind": "image",
+      "src": "img/hair-vital_s40.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13550,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/hair-vital_s41.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13644,
+      "dur": 90,
+      "kind": "video",
+      "src": "broll/hair-vital_v_s42.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13734,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/hair-vital_s43.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13880,
+      "dur": 327,
+      "kind": "image",
+      "src": "img/hair-vital_s44.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14207,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/hair-vital_s45.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14460,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/hair-vital_s46.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14790,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/hair-vital_s46.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15120,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/hair-vital_s46.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15390,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/hair-vital_s49.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15508,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/hair-vital_s50.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15674,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/hair-vital_s51.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16004,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/hair-vital_s51.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16125,
+      "dur": 332,
+      "kind": "image",
+      "src": "img/hair-vital_s52.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16457,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/hair-vital_s54.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16684,
+      "dur": 91,
+      "kind": "image",
+      "src": "img/hair-vital_s55.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16775,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/hair-vital_s56.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16867,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/hair-vital_s57.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17006,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/hair-vital_s58.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17141,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/hair-vital_s59.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17333,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/hair-vital_s60.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17730,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/hair-vital_s61.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17785,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/hair-vital_s62.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18024,
+      "dur": 269,
+      "kind": "image",
+      "src": "img/hair-vital_s63.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18293,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/hair-vital_s64.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18623,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/hair-vital_s64.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18734,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/hair-vital_v_s65.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18908,
+      "dur": 156,
+      "kind": "video",
+      "src": "broll/hair-vital_v_s65.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19064,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/hair-vital_s66.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19141,
+      "dur": 229,
+      "kind": "image",
+      "src": "img/hair-vital_s67.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19370,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/hair-vital_s68.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19700,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/hair-vital_s68.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19783,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/hair-vital_s69.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19862,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/hair-vital_s70.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19937,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/hair-vital_s71.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20237,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/hair-vital_s72.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20357,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/hair-vital_s73.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20440,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/hair-vital_s74.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20770,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/hair-vital_s74.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20832,
+      "dur": 275,
+      "kind": "image",
+      "src": "img/hair-vital_s75.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21407,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/hair-vital_s77.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21513,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/hair-vital_s78.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21618,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/hair-vital_s79.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21810,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/hair-vital_s80.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21979,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/hair-vital_s81.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22214,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/hair-vital_s82.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22544,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/hair-vital_s82.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22751,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/hair-vital_s83.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23081,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/hair-vital_s83.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23783,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/hair-vital_s84.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23923,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/hair-vital_s85.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24199,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/hair-vital_s86.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24382,
+      "dur": 357,
+      "kind": "image",
+      "src": "img/hair-vital_s87.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24739,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/hair-vital_s88.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24964,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/hair-vital_s89.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25077,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/hair-vital_s90.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25635,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/hair-vital_s92.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25965,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/hair-vital_s91.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26295,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/hair-vital_s91.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26458,
+      "dur": 274,
+      "kind": "image",
+      "src": "img/hair-vital_s100.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26732,
+      "dur": 357,
+      "kind": "image",
+      "src": "img/hair-vital_s94.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27359,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/hair-vital_s95.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27512,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/hair-vital_s96.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27842,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/hair-vital_s96.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28010,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/hair-vital_s97.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28340,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/hair-vital_s97.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28570,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/hair-vital_v_s98.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28744,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/hair-vital_v_s98.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28918,
+      "dur": 132,
+      "kind": "video",
+      "src": "broll/hair-vital_v_s98.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29050,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/hair-vital_s99.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29894,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/hair-vital_s101.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30224,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/hair-vital_s101.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30297,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/hair-vital_s102.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30397,
+      "dur": 197,
+      "kind": "video",
+      "src": "broll/hair-vital_v_s103.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30594,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/hair-vital_s104.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30924,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/hair-vital_s104.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31243,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/hair-vital_s105.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31343,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/hair-vital_s106.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31592,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/hair-vital_s107.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31922,
+      "dur": 290,
+      "kind": "image",
+      "src": "img/hair-vital_s107.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32212,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/hair-vital_s108.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32404,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/hair-vital_s109.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32734,
+      "dur": 282,
+      "kind": "image",
+      "src": "img/hair-vital_s109.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33016,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/hair-vital_s110.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33346,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/hair-vital_s110.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33412,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/hair-vital_s111.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33742,
+      "dur": 261,
+      "kind": "image",
+      "src": "img/hair-vital_s111.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 34003,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/hair-vital_s112.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 34333,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/hair-vital_s112.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34667,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/hair-vital_s113.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34997,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/hair-vital_s113.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 35327,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/hair-vital_s113.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 35657,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/hair-vital_s113.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 36927,
+      "dur": 20,
+      "kind": "image",
+      "src": "img/hair-vital_s93.png",
+      "kb": 5,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2075,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "EVIDENCE-BASED",
+        "title": "Dr. Alan Brooks",
+        "sub": "thicker hair after 60"
+      }
+    },
+    {
+      "from": 5334,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "HAIR IS A LUXURY",
+        "sub": "your body feeds heart, brain and blood first",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 7398,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN FOR THE FREE GUIDE",
+        "label": "The Natural Wellness Method"
+      }
+    },
+    {
+      "from": 9545,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "DHT",
+        "sub": "the hormone that slowly shrinks follicles",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 11273,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "IRON (FERRITIN)",
+        "sub": "the #1 hidden cause",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 12468,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "HIDDEN CAUSE #2",
+        "title": "Protein",
+        "sub": "hair is made of keratin"
+      }
+    },
+    {
+      "from": 13123,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "#3 & #4",
+        "title": "Zinc & vitamin D",
+        "sub": "both often low after 60"
+      }
+    },
+    {
+      "from": 13550,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "ADD THIS TO YOUR WATER",
+        "title": "Stinging nettle"
+      }
+    },
+    {
+      "from": 13550,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN FOR THE FREE GUIDE",
+        "label": "The Natural Wellness Method"
+      }
+    },
+    {
+      "from": 14207,
+      "dur": 165,
+      "comp": "IconRow",
+      "props": {
+        "theme": "clinic",
+        "items": [
+          {
+            "icon": "🩸",
+            "label": "Iron"
+          },
+          {
+            "icon": "💎",
+            "label": "Silica"
+          },
+          {
+            "icon": "🦴",
+            "label": "Calcium"
+          },
+          {
+            "icon": "⚡",
+            "label": "Magnesium"
+          }
+        ]
+      }
+    },
+    {
+      "from": 15508,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "+ LEMON",
+        "sub": "vitamin C multiplies plant-iron absorption",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 16125,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Timing matters",
+        "sub": "keep tea, coffee and milk 1 hour away — they block iron",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 16775,
+      "dur": 180,
+      "comp": "TimerCocina",
+      "props": {
+        "theme": "clinic",
+        "minutes": 15,
+        "unit": "MIN",
+        "label": "steep, covered",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 17785,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "STEP 1",
+        "title": "Protein at every meal",
+        "sub": "eggs, fish, beans, yogurt"
+      }
+    },
+    {
+      "from": 18293,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "STEP 2",
+        "title": "Iron & zinc from food",
+        "sub": "always with a little vitamin C"
+      }
+    },
+    {
+      "from": 18734,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "STEP 3",
+        "title": "Scalp massage",
+        "sub": "2–3 min a day, fingertips, optional rosemary oil"
+      }
+    },
+    {
+      "from": 19862,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "STEP 4",
+        "title": "Handle it kindly",
+        "sub": "no tight ponytails, wide-tooth comb"
+      }
+    },
+    {
+      "from": 20357,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "STEP 5",
+        "title": "Sleep & calm",
+        "sub": "stress sheds hair 2–3 months later"
+      }
+    },
+    {
+      "from": 22890,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "In the guide",
+        "title": "The Natural Wellness Method",
+        "items": [
+          "The exact nettle recipe",
+          "The hair-feeding food list",
+          "The daily scalp routine"
+        ]
+      }
+    },
+    {
+      "from": 23219,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN FOR THE FREE GUIDE",
+        "label": "The Natural Wellness Method"
+      }
+    },
+    {
+      "from": 25077,
+      "dur": 150,
+      "comp": "MarcaCirculo",
+      "props": {
+        "theme": "clinic",
+        "x": 50,
+        "y": 48,
+        "w": 520,
+        "h": 300,
+        "note": "tiny new hairs"
+      }
+    },
+    {
+      "from": 30594,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "clinic",
+        "label": "MYTH",
+        "num": 1,
+        "text": "Washing makes hair fall out"
+      }
+    },
+    {
+      "from": 31592,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "clinic",
+        "label": "MYTH",
+        "num": 3,
+        "text": "More supplements = more hair"
+      }
+    },
+    {
+      "from": 32404,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🩺",
+        "title": "See your doctor",
+        "sub": "sudden or patchy loss, itching, redness, tiredness, feeling cold",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 33016,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "No iron pills blindly",
+        "sub": "test ferritin first — too much iron is harmful",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 33412,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Nettle + medicines",
+        "sub": "blood thinners, BP, diabetes, lithium, water pills, kidneys: ask first",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 36463,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN FOR THE FREE GUIDE",
+        "label": "The Natural Wellness Method"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 3143,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "How hair grows",
+        "title": "The hair cycle",
+        "steps": [
+          {
+            "title": "Growing phase",
+            "sub": "lasts several years"
+          },
+          {
+            "title": "Resting phase",
+            "sub": "a few weeks"
+          },
+          {
+            "title": "Shedding phase",
+            "sub": "50–100 hairs a day is normal"
+          }
+        ]
+      }
+    },
+    {
+      "from": 5575,
+      "dur": 270,
+      "comp": "CuadernoReceta",
+      "props": {
+        "theme": "clinic",
+        "src": "img/hair-vital_s17.png",
+        "title": "Why hair thins after 60",
+        "items": [
+          "Hormones shrink the follicles",
+          "Less blood flow to the scalp",
+          "Less acid → less iron, zinc, B12",
+          "Too little protein",
+          "Medicines, thyroid, stress"
+        ]
+      }
+    },
+    {
+      "from": 7686,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "clinic",
+        "title": "Which thinning do you have?",
+        "left": {
+          "label": "Thinning ALL OVER",
+          "sub": "iron, protein, thyroid, stress, meds"
+        },
+        "right": {
+          "label": "Crown · part · temples",
+          "sub": "the hormonal, inherited pattern"
+        }
+      }
+    },
+    {
+      "from": 11375,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "My blood count is normal, so my iron is fine.",
+        "truth": "You can have a NORMAL blood count and still low FERRITIN — enough to thin your hair. Ask your doctor to check it."
+      }
+    },
+    {
+      "from": 17460,
+      "dur": 270,
+      "comp": "CuadernoReceta",
+      "props": {
+        "theme": "clinic",
+        "src": "img/hair-vital_s56.png",
+        "title": "Nettle water",
+        "items": [
+          "1–2 tsp dried nettle leaf",
+          "1 cup hot, not boiling, water",
+          "Cover, steep 10–15 min, strain",
+          "Juice of ½ lemon",
+          "1 cup a day, between meals"
+        ],
+        "note": "pennies a day!"
+      }
+    },
+    {
+      "from": 21107,
+      "dur": 300,
+      "comp": "Timeline",
+      "props": {
+        "theme": "clinic",
+        "title": "A day of eating for your hair",
+        "steps": [
+          {
+            "when": "Breakfast",
+            "text": "2 eggs + spinach + orange or strawberries"
+          },
+          {
+            "when": "Mid-morning",
+            "text": "Nettle water with lemon"
+          },
+          {
+            "when": "Lunch",
+            "text": "Lentil soup + fish or chicken + salad"
+          },
+          {
+            "when": "Dinner",
+            "text": "Protein + colorful vegetables"
+          }
+        ]
+      }
+    },
+    {
+      "from": 25232,
+      "dur": 180,
+      "comp": "PolaroidRecuerdo",
+      "props": {
+        "theme": "clinic",
+        "src": "img/hair-vital_s90.png",
+        "caption": "Month 6: new hairs along the part",
+        "sub": "iron + vitamin D + protein + nettle water"
+      }
+    },
+    {
+      "from": 25335,
+      "dur": 300,
+      "comp": "Timeline",
+      "props": {
+        "theme": "clinic",
+        "title": "What to expect",
+        "steps": [
+          {
+            "when": "Month 1",
+            "text": "Nothing visible — fixing what is under the skin"
+          },
+          {
+            "when": "Months 2–3",
+            "text": "Less hair in the shower and brush"
+          },
+          {
+            "when": "Months 3–6",
+            "text": "Short new hairs along the part"
+          },
+          {
+            "when": "6–12 months",
+            "text": "New hairs add real thickness"
+          }
+        ]
+      }
+    },
+    {
+      "from": 27089,
+      "dur": 270,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "clinic",
+        "src": "img/hair-vital_s95.png",
+        "title": "THE BILL",
+        "rows": [
+          {
+            "label": "Biotin gummies",
+            "price": "$$",
+            "bad": true
+          },
+          {
+            "label": "Hair, skin & nails pills",
+            "price": "$$$",
+            "bad": true
+          },
+          {
+            "label": "Miracle serums",
+            "price": "$$$",
+            "bad": true
+          },
+          {
+            "label": "Blood test + real food",
+            "price": "$"
+          }
+        ],
+        "total": {
+          "label": "WHAT WORKS",
+          "price": "TEST FIRST"
+        },
+        "stamp": "FIX WHAT IS ACTUALLY LOW"
+      }
+    },
+    {
+      "from": 31018,
+      "dur": 225,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Expensive shampoos can regrow hair.",
+        "truth": "Shampoo only cleans the hair you have. It cannot reach the follicle or fix a deficiency inside the body."
+      }
+    },
+    {
+      "from": 34457,
+      "dur": 210,
+      "comp": "PullQuote",
+      "props": {
+        "theme": "clinic",
+        "quote": "Hair is a luxury to your body. Feed the follicle from the inside, be patient for months, and it answers.",
+        "author": "Dr. Alan Brooks"
+      }
+    }
+  ]
+}
