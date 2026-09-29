@@ -1,0 +1,1517 @@
+{
+  "slug": "memory-vital",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 37543,
+  "audioSrc": "memory-vital.mp3",
+  "avatarSrc": "memory-vital_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 0,
+      "dur": 314,
+      "clip": 0
+    },
+    {
+      "from": 2144,
+      "dur": 830,
+      "clip": 314
+    },
+    {
+      "from": 6063,
+      "dur": 918,
+      "clip": 1144
+    },
+    {
+      "from": 17295,
+      "dur": 1050,
+      "clip": 2062
+    },
+    {
+      "from": 31291,
+      "dur": 296,
+      "clip": 3112
+    },
+    {
+      "from": 36494,
+      "dur": 1036,
+      "clip": 3408
+    }
+  ],
+  "broll": [
+    {
+      "from": 314,
+      "dur": 51,
+      "kind": "image",
+      "src": "img/memory-vital_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 365,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/memory-vital_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 488,
+      "dur": 355,
+      "kind": "image",
+      "src": "img/memory-vital_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 843,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/memory-vital_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 965,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s46.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1295,
+      "dur": 80,
+      "kind": "image",
+      "src": "img/memory-vital_s04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1375,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1705,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/memory-vital_s06.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 1913,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/memory-vital_s07.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2974,
+      "dur": 20,
+      "kind": "image",
+      "src": "img/memory-vital_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3264,
+      "dur": 366,
+      "kind": "image",
+      "src": "img/memory-vital_s09.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3630,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/memory-vital_s10.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3741,
+      "dur": 317,
+      "kind": "image",
+      "src": "img/memory-vital_s11.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4058,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/memory-vital_s12.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4310,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/memory-vital_s13.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4552,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/memory-vital_s14.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4708,
+      "dur": 286,
+      "kind": "image",
+      "src": "img/memory-vital_s15.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4994,
+      "dur": 57,
+      "kind": "image",
+      "src": "img/memory-vital_s16.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5291,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/memory-vital_s17.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5374,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s18.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5704,
+      "dur": 359,
+      "kind": "image",
+      "src": "img/memory-vital_s18.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6981,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/memory-vital_s19.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7193,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/memory-vital_s20.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7433,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/memory-vital_s21.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7682,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/memory-vital_s22.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7829,
+      "dur": 282,
+      "kind": "image",
+      "src": "img/memory-vital_s23.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8111,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s24.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8441,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/memory-vital_s24.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8594,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s25.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8924,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/memory-vital_s25.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8999,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/memory-vital_s26.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9194,
+      "dur": 333,
+      "kind": "image",
+      "src": "img/memory-vital_s27.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9527,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s28.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9857,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/memory-vital_s28.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9979,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/memory-vital_s29.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10133,
+      "dur": 291,
+      "kind": "image",
+      "src": "img/memory-vital_s30.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10424,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s31.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10754,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/memory-vital_s31.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10820,
+      "dur": 298,
+      "kind": "image",
+      "src": "img/memory-vital_s32.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11118,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s33.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11448,
+      "dur": 287,
+      "kind": "image",
+      "src": "img/memory-vital_s33.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11735,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s34.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12065,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/memory-vital_s34.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12204,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s35.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12534,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/memory-vital_s35.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12663,
+      "dur": 353,
+      "kind": "image",
+      "src": "img/memory-vital_s36.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13016,
+      "dur": 320,
+      "kind": "image",
+      "src": "img/memory-vital_s37.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13606,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/memory-vital_s39.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13703,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/memory-vital_s40.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13791,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/memory-vital_s41.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13974,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/memory-vital_s42.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14170,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/memory-vital_s43.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14359,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s44.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14689,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/memory-vital_s44.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14815,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s45.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15145,
+      "dur": 358,
+      "kind": "image",
+      "src": "img/memory-vital_s45.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15503,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s47.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15833,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/memory-vital_s47.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16278,
+      "dur": 64,
+      "kind": "image",
+      "src": "img/memory-vital_s49.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16342,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/memory-vital_s50.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16523,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s51.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16853,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/memory-vital_s48.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16936,
+      "dur": 359,
+      "kind": "image",
+      "src": "img/memory-vital_s52.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18345,
+      "dur": 215,
+      "kind": "image",
+      "src": "img/memory-vital_s57.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18560,
+      "dur": 364,
+      "kind": "image",
+      "src": "img/memory-vital_s58.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18924,
+      "dur": 338,
+      "kind": "image",
+      "src": "img/memory-vital_s59.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19262,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/memory-vital_s60.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19357,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/memory-vital_s61.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19538,
+      "dur": 268,
+      "kind": "image",
+      "src": "img/memory-vital_s62.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19806,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s63.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20136,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/memory-vital_s63.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20293,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s64.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20623,
+      "dur": 229,
+      "kind": "image",
+      "src": "img/memory-vital_s64.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20852,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s65.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21182,
+      "dur": 268,
+      "kind": "image",
+      "src": "img/memory-vital_s65.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21450,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/memory-vital_s66.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21617,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/memory-vital_s67.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21814,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/memory-vital_s68.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21874,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/memory-vital_s69.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22025,
+      "dur": 312,
+      "kind": "image",
+      "src": "img/memory-vital_s70.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22637,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/memory-vital_s72.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22774,
+      "dur": 339,
+      "kind": "image",
+      "src": "img/memory-vital_s73.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23113,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/memory-vital_s74.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23322,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/memory-vital_s75.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23529,
+      "dur": 258,
+      "kind": "image",
+      "src": "img/memory-vital_s76.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23787,
+      "dur": 317,
+      "kind": "image",
+      "src": "img/memory-vital_s77.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24104,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s78.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24434,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s78.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24764,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/memory-vital_s78.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24992,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/memory-vital_s79.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25196,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s80.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25526,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/memory-vital_s80.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25644,
+      "dur": 303,
+      "kind": "image",
+      "src": "img/memory-vital_s81.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26127,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s83.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26457,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/memory-vital_s82.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26590,
+      "dur": 260,
+      "kind": "image",
+      "src": "img/memory-vital_s85.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26850,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s86.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27180,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/memory-vital_s86.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27278,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/memory-vital_s87.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27519,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s88.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27849,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/memory-vital_s88.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28047,
+      "dur": 307,
+      "kind": "image",
+      "src": "img/memory-vital_s89.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28354,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s90.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28684,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/memory-vital_s90.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28848,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s91.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29178,
+      "dur": 267,
+      "kind": "image",
+      "src": "img/memory-vital_s91.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29445,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/memory-vital_s92.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29864,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s93.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30194,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/memory-vital_s93.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30336,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s94.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30666,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/memory-vital_s94.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30754,
+      "dur": 366,
+      "kind": "image",
+      "src": "img/memory-vital_s95.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31120,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/memory-vital_s96.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31587,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s97.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31917,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s97.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32247,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/memory-vital_s97.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32656,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/memory-vital_s99.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32758,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s100.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33088,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s98.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33418,
+      "dur": 287,
+      "kind": "image",
+      "src": "img/memory-vital_s98.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33705,
+      "dur": 277,
+      "kind": "image",
+      "src": "img/memory-vital_s101.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33982,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s102.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34312,
+      "dur": 324,
+      "kind": "image",
+      "src": "img/memory-vital_s102.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 34636,
+      "dur": 291,
+      "kind": "image",
+      "src": "img/memory-vital_s103.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34927,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s104.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 35257,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s104.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 35587,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s104.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 35917,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s104.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 36247,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/memory-vital_s104.png",
+      "kb": 2,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2144,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "EVIDENCE-BASED",
+        "title": "Dr. Alan Brooks",
+        "sub": "medicines & memory after 60"
+      }
+    },
+    {
+      "from": 3293,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "ACETYLCHOLINE",
+        "sub": "the brain's memory messenger",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 4884,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "ANTICHOLINERGIC",
+        "sub": "the memory-blocking effect",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 6698,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN FOR THE FREE GUIDE",
+        "label": "The Natural Wellness Method"
+      }
+    },
+    {
+      "from": 7433,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "#1",
+        "title": "Old antihistamines",
+        "sub": "PM sleep aids & allergy pills"
+      }
+    },
+    {
+      "from": 8594,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "#2",
+        "title": "Bladder pills",
+        "sub": "newer options are gentler"
+      }
+    },
+    {
+      "from": 9194,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "#3",
+        "title": "Benzodiazepines",
+        "sub": "never stop suddenly"
+      }
+    },
+    {
+      "from": 9979,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "#4",
+        "title": "Z-drug sleeping pills",
+        "sub": "memory gaps, night falls"
+      }
+    },
+    {
+      "from": 10424,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "#5",
+        "title": "Tricyclic antidepressants",
+        "sub": "strong memory-blocking effect"
+      }
+    },
+    {
+      "from": 11118,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "#6",
+        "title": "Opioid painkillers",
+        "sub": "dose and duration matter"
+      }
+    },
+    {
+      "from": 11735,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "#7",
+        "title": "Muscle relaxants",
+        "sub": "sedating, unsteady"
+      }
+    },
+    {
+      "from": 12204,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "#8",
+        "title": "Nausea & cramp pills",
+        "sub": "often continued for months"
+      }
+    },
+    {
+      "from": 17484,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN FOR THE FREE GUIDE",
+        "label": "The Natural Wellness Method"
+      }
+    },
+    {
+      "from": 18560,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "💊",
+        "title": "Ask your pharmacist",
+        "sub": "many do a free medication review",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 18924,
+      "dur": 165,
+      "comp": "IconRow",
+      "props": {
+        "theme": "clinic",
+        "items": [
+          {
+            "icon": "💊",
+            "label": "What & when"
+          },
+          {
+            "icon": "🧠",
+            "label": "Fog 1–5"
+          },
+          {
+            "icon": "📝",
+            "label": "Anything unusual"
+          }
+        ]
+      }
+    },
+    {
+      "from": 20414,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "In the guide",
+        "title": "The Natural Wellness Method",
+        "items": [
+          "The 8 medicine types",
+          "A printable question sheet",
+          "The brown bag checklist"
+        ]
+      }
+    },
+    {
+      "from": 20758,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN FOR THE FREE GUIDE",
+        "label": "The Natural Wellness Method"
+      }
+    },
+    {
+      "from": 26850,
+      "dur": 150,
+      "comp": "MarcaCirculo",
+      "props": {
+        "theme": "clinic",
+        "x": 50,
+        "y": 50,
+        "w": 480,
+        "h": 260,
+        "note": "diphenhydramine / doxylamine"
+      }
+    },
+    {
+      "from": 30336,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "clinic",
+        "label": "MYTH",
+        "num": 2,
+        "text": "Shelf pills can't touch your brain"
+      }
+    },
+    {
+      "from": 30754,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "clinic",
+        "label": "MYTH",
+        "num": 3,
+        "text": "Nothing can be done"
+      }
+    },
+    {
+      "from": 31579,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Never stop suddenly",
+        "sub": "calming & sleeping pills can cause dangerous withdrawal",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 33982,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🚨",
+        "title": "Sudden changes = urgent",
+        "sub": "confusion over hours or days, fever, weakness, trouble speaking",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 34636,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🤝",
+        "title": "Bring someone with you",
+        "sub": "a second pair of ears and notes",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 37048,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN FOR THE FREE GUIDE",
+        "label": "The Natural Wellness Method"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 2994,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Why an older brain is more sensitive",
+        "items": [
+          "We make less of the memory messenger",
+          "Liver & kidneys clear pills more slowly",
+          "The brain barrier is more permeable"
+        ]
+      }
+    },
+    {
+      "from": 5051,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "One pill at a time cannot do much.",
+        "truth": "The memory-blocking effect ADDS UP. Two, three or four such pills together build a load linked to more confusion and memory problems."
+      }
+    },
+    {
+      "from": 13336,
+      "dur": 270,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "clinic",
+        "src": "img/memory-vital_s38.png",
+        "title": "HIS LIST",
+        "rows": [
+          {
+            "label": "Night-time sleep aid",
+            "price": "+",
+            "bad": true
+          },
+          {
+            "label": "Daily allergy tablet",
+            "price": "+",
+            "bad": true
+          },
+          {
+            "label": "Bladder pill",
+            "price": "+",
+            "bad": true
+          },
+          {
+            "label": "Muscle relaxant",
+            "price": "+",
+            "bad": true
+          }
+        ],
+        "total": {
+          "label": "MEMORY LOAD",
+          "price": "HIGH"
+        },
+        "stamp": "NOBODY ADDED IT UP"
+      }
+    },
+    {
+      "from": 16008,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Clues a medicine is the cause",
+        "items": [
+          "Started after a new pill or higher dose",
+          "Worse the morning after a night pill",
+          "Drowsy, dry mouth, constipation, blurry vision",
+          "Came on over weeks, not years",
+          "More falls or near-falls"
+        ]
+      }
+    },
+    {
+      "from": 22337,
+      "dur": 300,
+      "comp": "Timeline",
+      "props": {
+        "theme": "clinic",
+        "title": "Better sleep without pills",
+        "steps": [
+          {
+            "when": "Wake",
+            "text": "Same time daily + 10 min of daylight"
+          },
+          {
+            "when": "Noon",
+            "text": "Last caffeine of the day"
+          },
+          {
+            "when": "Evening",
+            "text": "Modest alcohol · cool, dark bedroom"
+          },
+          {
+            "when": "Night",
+            "text": "Awake 20 min? Get up, stay calm, return sleepy"
+          }
+        ]
+      }
+    },
+    {
+      "from": 25947,
+      "dur": 180,
+      "comp": "PolaroidRecuerdo",
+      "props": {
+        "theme": "clinic",
+        "src": "img/memory-vital_s82.png",
+        "caption": "\"Like getting my mother back\"",
+        "sub": "sleep aid, bladder & allergy pills adjusted"
+      }
+    },
+    {
+      "from": 29624,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Memory loss always means dementia is starting.",
+        "truth": "Many causes are treatable: medicines, poor sleep, depression, hearing loss, thyroid, low B12, infections, dehydration."
+      }
+    },
+    {
+      "from": 32386,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "A safe plan",
+        "title": "Slow and steady",
+        "steps": [
+          {
+            "title": "One medicine at a time",
+            "sub": "so you know what changed"
+          },
+          {
+            "title": "Small steps every 1–2 weeks",
+            "sub": "for calming & sleeping pills"
+          },
+          {
+            "title": "Lowest dose that truly helps",
+            "sub": "or a gentler alternative"
+          }
+        ]
+      }
+    }
+  ]
+}
