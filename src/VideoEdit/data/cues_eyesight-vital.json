@@ -1,0 +1,1508 @@
+{
+  "slug": "eyesight-vital",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 36508,
+  "audioSrc": "eyesight-vital.mp3",
+  "avatarSrc": "eyesight-vital_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 0,
+      "dur": 281,
+      "clip": 0
+    },
+    {
+      "from": 1961,
+      "dur": 833,
+      "clip": 281
+    },
+    {
+      "from": 6733,
+      "dur": 886,
+      "clip": 1114
+    },
+    {
+      "from": 27103,
+      "dur": 379,
+      "clip": 2000
+    },
+    {
+      "from": 35414,
+      "dur": 1047,
+      "clip": 2379
+    }
+  ],
+  "broll": [
+    {
+      "from": 281,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/eyesight-vital_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 343,
+      "dur": 91,
+      "kind": "image",
+      "src": "img/eyesight-vital_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 434,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/eyesight-vital_s03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 565,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/eyesight-vital_s04.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 721,
+      "dur": 373,
+      "kind": "image",
+      "src": "img/eyesight-vital_s05.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1094,
+      "dur": 185,
+      "kind": "video",
+      "src": "broll/eyesight-vital_v_s06.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1279,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s07.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1609,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/eyesight-vital_s07.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 1697,
+      "dur": 264,
+      "kind": "image",
+      "src": "img/eyesight-vital_s08.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2794,
+      "dur": 215,
+      "kind": "video",
+      "src": "broll/eyesight-vital_v_s09.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3279,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/eyesight-vital_s11.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3406,
+      "dur": 327,
+      "kind": "image",
+      "src": "img/eyesight-vital_s12.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3733,
+      "dur": 205,
+      "kind": "image",
+      "src": "img/eyesight-vital_s13.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3938,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/eyesight-vital_s14.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4019,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/eyesight-vital_s15.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4433,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/eyesight-vital_s17.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4526,
+      "dur": 350,
+      "kind": "image",
+      "src": "img/eyesight-vital_s18.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4876,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/eyesight-vital_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5123,
+      "dur": 377,
+      "kind": "image",
+      "src": "img/eyesight-vital_s20.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5500,
+      "dur": 319,
+      "kind": "image",
+      "src": "img/eyesight-vital_s21.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5819,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s22.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6149,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/eyesight-vital_s22.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6260,
+      "dur": 251,
+      "kind": "image",
+      "src": "img/eyesight-vital_s23.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6511,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/eyesight-vital_s24.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7619,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/eyesight-vital_v_s25.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7793,
+      "dur": 68,
+      "kind": "video",
+      "src": "broll/eyesight-vital_v_s25.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7861,
+      "dur": 313,
+      "kind": "image",
+      "src": "img/eyesight-vital_s26.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8174,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/eyesight-vital_s27.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8422,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/eyesight-vital_s28.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8746,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/eyesight-vital_s29.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8905,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s30.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9235,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/eyesight-vital_s30.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9348,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s31.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9678,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/eyesight-vital_s31.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10194,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/eyesight-vital_s32.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10306,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/eyesight-vital_s33.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10442,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/eyesight-vital_s34.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10661,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/eyesight-vital_v_s35.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10835,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/eyesight-vital_v_s35.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11009,
+      "dur": 81,
+      "kind": "video",
+      "src": "broll/eyesight-vital_v_s35.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11330,
+      "dur": 266,
+      "kind": "image",
+      "src": "img/eyesight-vital_s36.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11596,
+      "dur": 251,
+      "kind": "image",
+      "src": "img/eyesight-vital_s37.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11847,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/eyesight-vital_s38.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11980,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s39.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12310,
+      "dur": 298,
+      "kind": "image",
+      "src": "img/eyesight-vital_s39.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12608,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/eyesight-vital_s40.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12790,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s41.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13120,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/eyesight-vital_s41.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13210,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/eyesight-vital_s42.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13444,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s43.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13774,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s43.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14104,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/eyesight-vital_s43.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14227,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s44.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14557,
+      "dur": 263,
+      "kind": "image",
+      "src": "img/eyesight-vital_s44.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15105,
+      "dur": 310,
+      "kind": "image",
+      "src": "img/eyesight-vital_s46.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15415,
+      "dur": 295,
+      "kind": "image",
+      "src": "img/eyesight-vital_s47.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15710,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/eyesight-vital_s48.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15905,
+      "dur": 257,
+      "kind": "image",
+      "src": "img/eyesight-vital_s49.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16162,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/eyesight-vital_v_s50.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16336,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/eyesight-vital_v_s50.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16510,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/eyesight-vital_v_s50.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16684,
+      "dur": 167,
+      "kind": "video",
+      "src": "broll/eyesight-vital_v_s50.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16851,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s51.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17181,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/eyesight-vital_s51.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17638,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/eyesight-vital_s53.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17735,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/eyesight-vital_s54.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17915,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s55.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18245,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/eyesight-vital_s55.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18366,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s56.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18696,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/eyesight-vital_s56.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18792,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s57.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19122,
+      "dur": 303,
+      "kind": "image",
+      "src": "img/eyesight-vital_s57.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19425,
+      "dur": 302,
+      "kind": "image",
+      "src": "img/eyesight-vital_s59.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19727,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s60.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20057,
+      "dur": 332,
+      "kind": "image",
+      "src": "img/eyesight-vital_s60.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20389,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/eyesight-vital_s61.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20508,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20838,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/eyesight-vital_s62.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21038,
+      "dur": 349,
+      "kind": "image",
+      "src": "img/eyesight-vital_s63.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21387,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/eyesight-vital_s64.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21542,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s65.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21872,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/eyesight-vital_s65.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21979,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/eyesight-vital_s66.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22181,
+      "dur": 364,
+      "kind": "image",
+      "src": "img/eyesight-vital_s67.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22545,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/eyesight-vital_s68.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22734,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/eyesight-vital_s69.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22982,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/eyesight-vital_s70.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23112,
+      "dur": 359,
+      "kind": "image",
+      "src": "img/eyesight-vital_s71.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23471,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s72.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23801,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/eyesight-vital_s72.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24018,
+      "dur": 281,
+      "kind": "image",
+      "src": "img/eyesight-vital_s73.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24299,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s74.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24629,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/eyesight-vital_s74.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24856,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s75.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25186,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/eyesight-vital_s75.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25306,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s76.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25636,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s76.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25966,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s76.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26296,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/eyesight-vital_s76.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26356,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s77.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26686,
+      "dur": 251,
+      "kind": "image",
+      "src": "img/eyesight-vital_s77.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27482,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s78.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27812,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/eyesight-vital_s79.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28049,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/eyesight-vital_s80.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28196,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/eyesight-vital_s81.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28364,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/eyesight-vital_s82.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28661,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s84.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28991,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/eyesight-vital_s83.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29136,
+      "dur": 104,
+      "kind": "video",
+      "src": "broll/eyesight-vital_v_s85.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29240,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s86.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29570,
+      "dur": 205,
+      "kind": "image",
+      "src": "img/eyesight-vital_s86.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29775,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s87.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30105,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/eyesight-vital_s87.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30406,
+      "dur": 346,
+      "kind": "image",
+      "src": "img/eyesight-vital_s88.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30752,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/eyesight-vital_s89.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30942,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s90.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31272,
+      "dur": 377,
+      "kind": "image",
+      "src": "img/eyesight-vital_s90.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31649,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s91.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31979,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s91.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32309,
+      "dur": 309,
+      "kind": "image",
+      "src": "img/eyesight-vital_s91.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32618,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s92.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32948,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/eyesight-vital_s92.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33060,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s93.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33390,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s93.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33720,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/eyesight-vital_s93.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33962,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s94.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 34292,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s94.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34622,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s94.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34952,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/eyesight-vital_s94.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 35282,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/eyesight-vital_s94.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 36461,
+      "dur": 47,
+      "kind": "image",
+      "src": "img/eyesight-vital_s52.png",
+      "kb": 4,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1961,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "EVIDENCE-BASED",
+        "title": "Dr. Alan Brooks",
+        "sub": "your eyes after 60"
+      }
+    },
+    {
+      "from": 3581,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "THE MACULA",
+        "sub": "your sharp central vision",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 7363,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN FOR THE FREE GUIDE",
+        "label": "The Natural Wellness Method"
+      }
+    },
+    {
+      "from": 7625,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "THE #1 FRUIT",
+        "title": "Goji berries"
+      }
+    },
+    {
+      "from": 7625,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN FOR THE FREE GUIDE",
+        "label": "The Natural Wellness Method"
+      }
+    },
+    {
+      "from": 10306,
+      "dur": 180,
+      "comp": "TimerCocina",
+      "props": {
+        "theme": "clinic",
+        "minutes": 10,
+        "unit": "MIN",
+        "label": "soak to plump",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 12725,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "RUNNER-UP",
+        "title": "Kiwi",
+        "sub": "2 kiwis 1 hour before bed: faster sleep in a study"
+      }
+    },
+    {
+      "from": 13444,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "ALSO",
+        "title": "Blueberries",
+        "sub": "anthocyanins support the tiny eye vessels"
+      }
+    },
+    {
+      "from": 14368,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "In the guide",
+        "title": "The Natural Wellness Method",
+        "items": [
+          "Exact goji amounts",
+          "The full list of eye foods",
+          "The daily eye routine"
+        ]
+      }
+    },
+    {
+      "from": 14738,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN FOR THE FREE GUIDE",
+        "label": "The Natural Wellness Method"
+      }
+    },
+    {
+      "from": 18485,
+      "dur": 165,
+      "comp": "IconRow",
+      "props": {
+        "theme": "clinic",
+        "items": [
+          {
+            "icon": "🕶️",
+            "label": "UV sunglasses"
+          },
+          {
+            "icon": "🚭",
+            "label": "No smoking"
+          },
+          {
+            "icon": "👀",
+            "label": "20-20-20 rule"
+          },
+          {
+            "icon": "💡",
+            "label": "Bright reading light"
+          }
+        ]
+      }
+    },
+    {
+      "from": 19727,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "👁️",
+        "title": "Cataracts",
+        "sub": "antioxidant foods may lower risk · surgery is simple and safe when needed",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 21542,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "DRY EYES",
+        "title": "Blink · hydrate · omega-3",
+        "sub": "warm compress, preservative-free drops"
+      }
+    },
+    {
+      "from": 23017,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "NIGHT DRIVING",
+        "title": "Clean glass · look at the right edge",
+        "sub": "slower, more distance · check for cataracts"
+      }
+    },
+    {
+      "from": 23471,
+      "dur": 150,
+      "comp": "MarcaCirculo",
+      "props": {
+        "theme": "clinic",
+        "x": 72,
+        "y": 70,
+        "w": 320,
+        "h": 220,
+        "note": "look at the right edge"
+      }
+    },
+    {
+      "from": 29240,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "clinic",
+        "label": "MYTH",
+        "num": 1,
+        "text": "Carrots = perfect night vision"
+      }
+    },
+    {
+      "from": 29775,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "clinic",
+        "label": "MYTH",
+        "num": 2,
+        "text": "Dim light damages your eyes"
+      }
+    },
+    {
+      "from": 30942,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Goji + warfarin",
+        "sub": "can raise bleeding risk — ask your doctor first",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 31649,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🚨",
+        "title": "Sudden vision change = urgent",
+        "sub": "wavy lines, dark spot, flashes, floaters, a curtain, eye pain",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 36056,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN FOR THE FREE GUIDE",
+        "label": "The Natural Wellness Method"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 3009,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "How you see",
+        "title": "Your eye is a camera",
+        "steps": [
+          {
+            "title": "Cornea & lens",
+            "sub": "focus the light"
+          },
+          {
+            "title": "Retina",
+            "sub": "the film at the back"
+          },
+          {
+            "title": "Macula",
+            "sub": "your sharp central vision"
+          }
+        ]
+      }
+    },
+    {
+      "from": 4163,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Your eye's natural shield",
+        "items": [
+          "Lutein & zeaxanthin — from FOOD only",
+          "Built-in sunglasses: filters harsh blue light",
+          "An antioxidant shield for the macula"
+        ]
+      }
+    },
+    {
+      "from": 8506,
+      "dur": 240,
+      "comp": "BigStat",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Goji berry study",
+        "value": 28,
+        "suffix": " g",
+        "support": "a small handful, 5× a week for 3 months → more macular pigment"
+      }
+    },
+    {
+      "from": 9924,
+      "dur": 270,
+      "comp": "CuadernoReceta",
+      "props": {
+        "theme": "clinic",
+        "src": "img/eyesight-vital_s32.png",
+        "title": "Goji evening habit",
+        "items": [
+          "About 28 g — a small handful",
+          "Straight, soaked, on yogurt or oats",
+          "With a little fat: walnuts or yogurt",
+          "Most days of the week",
+          "+ a kiwi for sleep"
+        ]
+      }
+    },
+    {
+      "from": 11090,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "The exact hour is what matters most.",
+        "truth": "CONSISTENCY matters most. The evening simply makes it an easy daily ritual — and it can replace the biscuits."
+      }
+    },
+    {
+      "from": 14820,
+      "dur": 285,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Other foods that feed the shield",
+        "items": [
+          "Kale, spinach, collards (lutein)",
+          "Egg yolks (easy to absorb)",
+          "Corn, orange peppers, squash",
+          "Salmon & sardines (omega-3)"
+        ]
+      }
+    },
+    {
+      "from": 17338,
+      "dur": 300,
+      "comp": "Timeline",
+      "props": {
+        "theme": "clinic",
+        "title": "One day for your eyes",
+        "steps": [
+          {
+            "when": "Morning",
+            "text": "2 eggs with spinach in olive oil"
+          },
+          {
+            "when": "Lunch",
+            "text": "Leafy greens + orange peppers + salmon"
+          },
+          {
+            "when": "Evening",
+            "text": "Goji berries + walnuts + a kiwi"
+          },
+          {
+            "when": "All day",
+            "text": "Water for moist, comfortable eyes"
+          }
+        ]
+      }
+    },
+    {
+      "from": 26937,
+      "dur": 166,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "clinic",
+        "src": "img/eyesight-vital_s78.png",
+        "title": "THE BILL",
+        "rows": [
+          {
+            "label": "Blue-light glasses",
+            "price": "$$",
+            "bad": true
+          },
+          {
+            "label": "Good UV sunglasses",
+            "price": "$"
+          },
+          {
+            "label": "Blinking + 20-20-20",
+            "price": "FREE"
+          }
+        ],
+        "total": {
+          "label": "PROTECTS THE MACULA",
+          "price": "SUNGLASSES"
+        },
+        "stamp": "SCREENS DON'T HARM THE MACULA"
+      }
+    },
+    {
+      "from": 28481,
+      "dur": 180,
+      "comp": "PolaroidRecuerdo",
+      "props": {
+        "theme": "clinic",
+        "src": "img/eyesight-vital_s81.png",
+        "caption": "Biscuits → goji, walnuts & kiwi",
+        "sub": "stable at every eye check that year"
+      }
+    },
+    {
+      "from": 30181,
+      "dur": 225,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "If I see well, my eyes are healthy.",
+        "truth": "Glaucoma and early macular degeneration often have NO symptoms. Get checked every 1–2 years after 60."
+      }
+    }
+  ]
+}
