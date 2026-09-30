@@ -1,0 +1,1351 @@
+{
+  "slug": "castoroil-vital",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 36124,
+  "audioSrc": "castoroil-vital.mp3",
+  "avatarSrc": "castoroil-vital_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 0,
+      "dur": 465,
+      "clip": 0
+    },
+    {
+      "from": 2145,
+      "dur": 858,
+      "clip": 465
+    },
+    {
+      "from": 6101,
+      "dur": 891,
+      "clip": 1323
+    },
+    {
+      "from": 11811,
+      "dur": 1050,
+      "clip": 2214
+    },
+    {
+      "from": 19512,
+      "dur": 413,
+      "clip": 3264
+    },
+    {
+      "from": 35123,
+      "dur": 988,
+      "clip": 3677
+    }
+  ],
+  "broll": [
+    {
+      "from": 465,
+      "dur": 302,
+      "kind": "image",
+      "src": "img/castoroil-vital_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 767,
+      "dur": 282,
+      "kind": "image",
+      "src": "img/castoroil-vital_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 1049,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/castoroil-vital_v_s03.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1223,
+      "dur": 97,
+      "kind": "video",
+      "src": "broll/castoroil-vital_v_s03.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1320,
+      "dur": 363,
+      "kind": "image",
+      "src": "img/castoroil-vital_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1683,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s05.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2013,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/castoroil-vital_s05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3003,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/castoroil-vital_v_s06.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3177,
+      "dur": 129,
+      "kind": "video",
+      "src": "broll/castoroil-vital_v_s06.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3576,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s08.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3906,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/castoroil-vital_s07.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4034,
+      "dur": 284,
+      "kind": "image",
+      "src": "img/castoroil-vital_s09.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4318,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s10.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4648,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/castoroil-vital_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4730,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/castoroil-vital_s11.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4929,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/castoroil-vital_s12.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5353,
+      "dur": 369,
+      "kind": "image",
+      "src": "img/castoroil-vital_s13.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5722,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s14.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6052,
+      "dur": 49,
+      "kind": "image",
+      "src": "img/castoroil-vital_s14.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6992,
+      "dur": 41,
+      "kind": "image",
+      "src": "img/castoroil-vital_s14.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7288,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s16.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7618,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/castoroil-vital_s15.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7666,
+      "dur": 324,
+      "kind": "image",
+      "src": "img/castoroil-vital_s17.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7990,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s18.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8320,
+      "dur": 258,
+      "kind": "image",
+      "src": "img/castoroil-vital_s18.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8878,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s20.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9208,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/castoroil-vital_v_s19.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9382,
+      "dur": 67,
+      "kind": "video",
+      "src": "broll/castoroil-vital_v_s19.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9449,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s21.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9779,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/castoroil-vital_s21.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9905,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s22.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10235,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/castoroil-vital_s22.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10367,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s23.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10697,
+      "dur": 293,
+      "kind": "image",
+      "src": "img/castoroil-vital_s23.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10990,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s24.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11320,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/castoroil-vital_s24.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11510,
+      "dur": 301,
+      "kind": "image",
+      "src": "img/castoroil-vital_s25.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12861,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s29.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13191,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/castoroil-vital_s28.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13331,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s30.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13661,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/castoroil-vital_s30.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13790,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/castoroil-vital_s31.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14063,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/castoroil-vital_s32.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14283,
+      "dur": 349,
+      "kind": "image",
+      "src": "img/castoroil-vital_s33.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14632,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/castoroil-vital_s34.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14780,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s35.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15110,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/castoroil-vital_s35.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15266,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s36.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15596,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/castoroil-vital_s36.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15754,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s37.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16084,
+      "dur": 362,
+      "kind": "image",
+      "src": "img/castoroil-vital_s37.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16446,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/castoroil-vital_s38.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16573,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/castoroil-vital_s39.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16825,
+      "dur": 345,
+      "kind": "image",
+      "src": "img/castoroil-vital_s58.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17170,
+      "dur": 290,
+      "kind": "image",
+      "src": "img/castoroil-vital_s41.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17460,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/castoroil-vital_s51.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17534,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s42.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17864,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/castoroil-vital_s42.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18110,
+      "dur": 317,
+      "kind": "image",
+      "src": "img/castoroil-vital_s43.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18427,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s44.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18757,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s44.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19087,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s44.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19417,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/castoroil-vital_s44.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19925,
+      "dur": 213,
+      "kind": "video",
+      "src": "broll/castoroil-vital_v_s45.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20138,
+      "dur": 288,
+      "kind": "image",
+      "src": "img/castoroil-vital_s46.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20426,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s47.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20756,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/castoroil-vital_s47.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20839,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s48.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21169,
+      "dur": 236,
+      "kind": "image",
+      "src": "img/castoroil-vital_s48.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21405,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s49.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21735,
+      "dur": 50,
+      "kind": "image",
+      "src": "img/castoroil-vital_s49.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22085,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s50.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22415,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/castoroil-vital_s50.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22559,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s52.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22889,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/castoroil-vital_s52.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23138,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s53.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23468,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s53.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23798,
+      "dur": 50,
+      "kind": "image",
+      "src": "img/castoroil-vital_s53.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23848,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s54.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24178,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/castoroil-vital_s54.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24273,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s55.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24603,
+      "dur": 51,
+      "kind": "image",
+      "src": "img/castoroil-vital_s55.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24654,
+      "dur": 356,
+      "kind": "image",
+      "src": "img/castoroil-vital_s56.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25010,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s57.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25340,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s57.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25670,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s57.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26000,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/castoroil-vital_s57.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26150,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/castoroil-vital_s59.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26340,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s60.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26670,
+      "dur": 370,
+      "kind": "image",
+      "src": "img/castoroil-vital_s60.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27040,
+      "dur": 340,
+      "kind": "image",
+      "src": "img/castoroil-vital_s61.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27380,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/castoroil-vital_s62.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27497,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/castoroil-vital_s63.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27669,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s64.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27999,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/castoroil-vital_s64.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28312,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/castoroil-vital_s65.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28553,
+      "dur": 107,
+      "kind": "video",
+      "src": "broll/castoroil-vital_v_s66.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28885,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/castoroil-vital_s67.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29252,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/castoroil-vital_s68.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29473,
+      "dur": 332,
+      "kind": "image",
+      "src": "img/castoroil-vital_s69.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29805,
+      "dur": 218,
+      "kind": "image",
+      "src": "img/castoroil-vital_s70.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30023,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s71.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30353,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s71.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30683,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/castoroil-vital_s71.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30828,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s72.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31158,
+      "dur": 61,
+      "kind": "image",
+      "src": "img/castoroil-vital_s72.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31219,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s73.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31549,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/castoroil-vital_s73.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31716,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s74.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32046,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/castoroil-vital_s74.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32253,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s75.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32583,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s75.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32913,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s75.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33243,
+      "dur": 359,
+      "kind": "image",
+      "src": "img/castoroil-vital_s75.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33602,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s76.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33932,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s76.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34262,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s76.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 34592,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/castoroil-vital_s76.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34922,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/castoroil-vital_s76.png",
+      "kb": 4,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2145,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "EVIDENCE-BASED",
+        "title": "Dr. Alan Brooks",
+        "sub": "castor oil — the right way"
+      }
+    },
+    {
+      "from": 6734,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN FOR THE FREE GUIDE",
+        "label": "The Natural Wellness Method"
+      }
+    },
+    {
+      "from": 7404,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "RICINOLEIC ACID",
+        "sub": "about 90% of castor oil",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 11811,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN FOR THE FREE GUIDE",
+        "label": "The Natural Wellness Method"
+      }
+    },
+    {
+      "from": 13331,
+      "dur": 180,
+      "comp": "TimerCocina",
+      "props": {
+        "theme": "clinic",
+        "minutes": 24,
+        "unit": "HOURS",
+        "label": "patch test",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 15766,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "DON'T FORGET",
+        "title": "Neck & backs of hands",
+        "sub": "thin skin, lots of sun"
+      }
+    },
+    {
+      "from": 17170,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "CLEANSING",
+        "title": "Lukewarm, never hot",
+        "sub": "mild fragrance-free cleanser · pat dry"
+      }
+    },
+    {
+      "from": 19080,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "In the guide",
+        "title": "The Natural Wellness Method",
+        "items": [
+          "The exact castor oil blend",
+          "The night routine step by step",
+          "The proven skin habits"
+        ]
+      }
+    },
+    {
+      "from": 19415,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN FOR THE FREE GUIDE",
+        "label": "The Natural Wellness Method"
+      }
+    },
+    {
+      "from": 19847,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "SUNSCREEN SPF 30+",
+        "sub": "the #1 anti-aging habit, by far",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 23848,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BONUS USE",
+        "title": "Cracked heels",
+        "sub": "blend + cotton socks overnight"
+      }
+    },
+    {
+      "from": 29473,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "clinic",
+        "label": "MYTH",
+        "num": 3,
+        "text": "Natural = no side effects"
+      }
+    },
+    {
+      "from": 30023,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🚨",
+        "title": "Never drink it",
+        "sub": "a strong laxative: cramps, dehydration, low potassium",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 30828,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Keep it out of your eyes",
+        "sub": "rinse with water · ask your eye doctor first",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 31716,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🩺",
+        "title": "New or changing spot?",
+        "sub": "see a doctor — never treat it with oil",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 35709,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN FOR THE FREE GUIDE",
+        "label": "The Natural Wellness Method"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 3306,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Your skin",
+        "title": "Three layers",
+        "steps": [
+          {
+            "title": "Epidermis",
+            "sub": "the barrier: keeps water in"
+          },
+          {
+            "title": "Dermis",
+            "sub": "collagen & elastin springs"
+          },
+          {
+            "title": "Fat layer",
+            "sub": "gives the face its fullness"
+          }
+        ]
+      }
+    },
+    {
+      "from": 5113,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "clinic",
+        "title": "What an oil can and cannot do",
+        "left": {
+          "label": "CAN help",
+          "sub": "dryness & weak barrier → softer fine lines"
+        },
+        "right": {
+          "label": "CANNOT fix",
+          "sub": "lost collagen, deep wrinkles, sagging"
+        }
+      }
+    },
+    {
+      "from": 7033,
+      "dur": 255,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Castor oil",
+        "title": "How it works",
+        "steps": [
+          {
+            "title": "About 90% ricinoleic acid",
+            "sub": "unique, thick and sticky"
+          },
+          {
+            "title": "An emollient",
+            "sub": "smooths and softens the surface"
+          },
+          {
+            "title": "Partly occlusive",
+            "sub": "slows water loss"
+          }
+        ]
+      }
+    },
+    {
+      "from": 8578,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "The 6 common mistakes",
+        "items": [
+          "Pure and thick on the whole face",
+          "Too much — a spoonful!",
+          "No patch test",
+          "In or near the eyes",
+          "Low-quality or industrial oil",
+          "Swallowing it"
+        ]
+      }
+    },
+    {
+      "from": 21785,
+      "dur": 300,
+      "comp": "Timeline",
+      "props": {
+        "theme": "clinic",
+        "title": "Your daily skin routine",
+        "steps": [
+          {
+            "when": "Morning",
+            "text": "Lukewarm rinse + moisturizer"
+          },
+          {
+            "when": "Morning",
+            "text": "SPF 30+ on face, neck & hands"
+          },
+          {
+            "when": "Evening",
+            "text": "Gentle cleanse · retinoid on alternate nights"
+          },
+          {
+            "when": "Night",
+            "text": "2–3 drops of the castor blend on damp skin"
+          }
+        ]
+      }
+    },
+    {
+      "from": 28132,
+      "dur": 180,
+      "comp": "PolaroidRecuerdo",
+      "props": {
+        "theme": "clinic",
+        "src": "img/castoroil-vital_s65.png",
+        "caption": "Pure oil → 1:3 blend + sunscreen",
+        "sub": "clear skin and comfortable eyes in a month"
+      }
+    },
+    {
+      "from": 28660,
+      "dur": 225,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Castor oil works like Botox.",
+        "truth": "It does not relax muscles, so it cannot remove expression wrinkles. It hydrates, so fine lines look softer."
+      }
+    },
+    {
+      "from": 29027,
+      "dur": 225,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "clinic",
+        "src": "img/castoroil-vital_s45.png",
+        "title": "WHAT REALLY WORKS",
+        "rows": [
+          {
+            "label": "'Natural Botox' oils",
+            "price": "✗",
+            "bad": true
+          },
+          {
+            "label": "Sunscreen SPF 30+",
+            "price": "#1"
+          },
+          {
+            "label": "Moisturizer + retinoid",
+            "price": "#2"
+          },
+          {
+            "label": "Castor blend",
+            "price": "helper"
+          }
+        ],
+        "total": {
+          "label": "YOUNGER-LOOKING SKIN",
+          "price": "SUN FIRST"
+        },
+        "stamp": "OILS CANNOT LIFT SAGGING"
+      }
+    }
+  ]
+}
