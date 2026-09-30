@@ -1,0 +1,1407 @@
+{
+  "slug": "foodsmemory-vital",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 35858,
+  "audioSrc": "foodsmemory-vital.mp3",
+  "avatarSrc": "foodsmemory-vital_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 0,
+      "dur": 247,
+      "clip": 0
+    },
+    {
+      "from": 1806,
+      "dur": 796,
+      "clip": 247
+    },
+    {
+      "from": 5839,
+      "dur": 869,
+      "clip": 1043
+    },
+    {
+      "from": 25214,
+      "dur": 545,
+      "clip": 1912
+    },
+    {
+      "from": 32448,
+      "dur": 859,
+      "clip": 2457
+    },
+    {
+      "from": 34767,
+      "dur": 1046,
+      "clip": 3316
+    }
+  ],
+  "broll": [
+    {
+      "from": 247,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 360,
+      "dur": 254,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 614,
+      "dur": 315,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 929,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s04.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1259,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1387,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s05.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1717,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2602,
+      "dur": 220,
+      "kind": "video",
+      "src": "broll/foodsmemory-vital_v_s06.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3092,
+      "dur": 284,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s08.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3376,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s09.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3618,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s10.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3801,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s11.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4131,
+      "dur": 71,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s11.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4202,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s12.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4357,
+      "dur": 317,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s13.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4674,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s14.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5119,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s16.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5300,
+      "dur": 350,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s17.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5650,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s18.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6708,
+      "dur": 10,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s15.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6958,
+      "dur": 332,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s20.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7290,
+      "dur": 49,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s21.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7339,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s22.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7669,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s22.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7795,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s23.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8022,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s24.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8352,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s24.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8485,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s25.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8652,
+      "dur": 325,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s26.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8977,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s27.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9307,
+      "dur": 325,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s27.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9632,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s28.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9819,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s29.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9976,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s30.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10306,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s30.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10385,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s31.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10715,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s31.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10808,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s32.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11138,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s32.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11342,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s33.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11579,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s34.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11909,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s34.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12239,
+      "dur": 236,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s34.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12475,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s35.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12805,
+      "dur": 356,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s35.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13446,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s37.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13776,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s36.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13998,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s38.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14328,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s38.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14658,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s38.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15195,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s40.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15429,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s41.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15643,
+      "dur": 243,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s42.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15886,
+      "dur": 346,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s43.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16232,
+      "dur": 259,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s44.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16491,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s45.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16560,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s46.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16763,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s47.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17093,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s47.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17182,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s48.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17512,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s48.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17842,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s48.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18088,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s49.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18330,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s50.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18660,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s50.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18990,
+      "dur": 59,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s50.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19319,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s52.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19619,
+      "dur": 215,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s53.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19834,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s54.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20164,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s54.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20494,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s54.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20583,
+      "dur": 365,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s55.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20948,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s56.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21154,
+      "dur": 364,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s57.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21518,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s58.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21848,
+      "dur": 50,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s58.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21898,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s59.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22228,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s59.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22405,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s60.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22608,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s61.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22938,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s61.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23111,
+      "dur": 348,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s62.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23459,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/foodsmemory-vital_v_s63.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23633,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/foodsmemory-vital_v_s63.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23807,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/foodsmemory-vital_v_s63.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23981,
+      "dur": 214,
+      "kind": "video",
+      "src": "broll/foodsmemory-vital_v_s63.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24480,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s65.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24564,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s66.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24728,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s67.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25058,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s64.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25759,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s68.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25891,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s69.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26093,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s70.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26279,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s71.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26432,
+      "dur": 292,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s72.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26904,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s73.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27234,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s73.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27299,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s75.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27617,
+      "dur": 297,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s76.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28139,
+      "dur": 258,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s77.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28397,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s78.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28727,
+      "dur": 91,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s78.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28818,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s79.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28997,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s80.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29327,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s80.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29657,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s80.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29733,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s81.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30063,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s81.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30144,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s82.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30474,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s82.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30564,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s83.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30894,
+      "dur": 364,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s83.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31258,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s84.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31588,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s84.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31918,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s84.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32248,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s84.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33307,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s86.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33637,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s86.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33967,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s86.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 34297,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s86.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 34627,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s86.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 35813,
+      "dur": 45,
+      "kind": "image",
+      "src": "img/foodsmemory-vital_s85.png",
+      "kb": 1,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1806,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "EVIDENCE-BASED",
+        "title": "Dr. Alan Brooks",
+        "sub": "memory & sleep after 60"
+      }
+    },
+    {
+      "from": 3323,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "HIPPOCAMPUS",
+        "sub": "your brain's memory inbox",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 4136,
+      "dur": 114,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "clinic",
+        "word": "MEMORY CONSOLIDATION",
+        "sub": "filing today's memories during deep sleep",
+        "pos": "center"
+      }
+    },
+    {
+      "from": 6459,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN FOR THE FREE GUIDE",
+        "label": "The Natural Wellness Method"
+      }
+    },
+    {
+      "from": 7290,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "FOOD #1",
+        "title": "Walnuts",
+        "sub": "omega-3, polyphenols, a little melatonin · ~7 halves"
+      }
+    },
+    {
+      "from": 8652,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "FOOD #2",
+        "title": "Blueberries",
+        "sub": "anthocyanins reach the brain · ½–1 cup"
+      }
+    },
+    {
+      "from": 9819,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "FOOD #3",
+        "title": "Greek yogurt or warm milk",
+        "sub": "tryptophan, calcium, protein"
+      }
+    },
+    {
+      "from": 11342,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "FOOD #4",
+        "title": "Kiwi",
+        "sub": "2 kiwis 1 hour before bed: faster sleep in a study"
+      }
+    },
+    {
+      "from": 12475,
+      "dur": 135,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "BONUS",
+        "title": "Tart cherries",
+        "sub": "natural melatonin · a small unsweetened glass"
+      }
+    },
+    {
+      "from": 13161,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN FOR THE FREE GUIDE",
+        "label": "The Natural Wellness Method"
+      }
+    },
+    {
+      "from": 14381,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "In the guide",
+        "title": "The Natural Wellness Method",
+        "items": [
+          "The 4 foods & exact amounts",
+          "A simple bedtime routine",
+          "The brain-friendly food list"
+        ]
+      }
+    },
+    {
+      "from": 14796,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN FOR THE FREE GUIDE",
+        "label": "The Natural Wellness Method"
+      }
+    },
+    {
+      "from": 16763,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "💊",
+        "title": "Melatonin pills?",
+        "sub": "doses vary wildly · grogginess · interactions — ask first",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 18088,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "NAPS",
+        "title": "20–30 minutes, before 3 p.m.",
+        "sub": "long or late naps steal deep sleep"
+      }
+    },
+    {
+      "from": 28397,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "clinic",
+        "label": "MYTH",
+        "num": 3,
+        "text": "Older people need less sleep"
+      }
+    },
+    {
+      "from": 28997,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "See your doctor",
+        "sub": "getting lost, repeating questions, trouble with money or medicines",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 29733,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🚨",
+        "title": "Urgent",
+        "sub": "sudden confusion, trouble speaking, one-sided weakness, severe headache",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 30144,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Loud snoring?",
+        "sub": "ask about sleep apnea — it harms sleep and memory",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 35388,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN FOR THE FREE GUIDE",
+        "label": "The Natural Wellness Method"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 2822,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Memory at night",
+        "title": "How your brain files memories",
+        "steps": [
+          {
+            "title": "Daytime: the hippocampus",
+            "sub": "a small, fragile inbox"
+          },
+          {
+            "title": "Deep sleep: replay & transfer",
+            "sub": "into long-term storage"
+          },
+          {
+            "title": "Plus a cleaning system",
+            "sub": "flushes out waste proteins"
+          }
+        ]
+      }
+    },
+    {
+      "from": 4849,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Sleep after 60",
+        "items": [
+          "Less deep sleep",
+          "More waking during the night",
+          "Earlier to bed, earlier awake",
+          "Pain, bathroom trips, apnea, medicines"
+        ]
+      }
+    },
+    {
+      "from": 6718,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "clinic",
+        "title": "What evening food can do",
+        "left": {
+          "label": "Better sleep",
+          "sub": "tryptophan, melatonin, magnesium"
+        },
+        "right": {
+          "label": "Brain nourishment",
+          "sub": "omega-3, antioxidants, vitamin C"
+        }
+      }
+    },
+    {
+      "from": 13161,
+      "dur": 285,
+      "comp": "CuadernoReceta",
+      "props": {
+        "theme": "clinic",
+        "src": "img/foodsmemory-vital_s36.png",
+        "title": "The memory bowl",
+        "items": [
+          "½–¾ cup Greek yogurt",
+          "½ cup blueberries",
+          "About 7 walnut halves",
+          "1–2 kiwis on the side",
+          "1–2 hours before bed"
+        ],
+        "note": "light & sleep-friendly"
+      }
+    },
+    {
+      "from": 14895,
+      "dur": 300,
+      "comp": "Timeline",
+      "props": {
+        "theme": "clinic",
+        "title": "Your memory-friendly day",
+        "steps": [
+          {
+            "when": "Morning",
+            "text": "Bright daylight · the same wake time"
+          },
+          {
+            "when": "Noon",
+            "text": "The last caffeine of the day"
+          },
+          {
+            "when": "Evening",
+            "text": "A light, early dinner · the memory bowl"
+          },
+          {
+            "when": "Last hour",
+            "text": "Dim lights, no screens, cool dark room"
+          }
+        ]
+      }
+    },
+    {
+      "from": 19049,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Awake at 3 a.m.?",
+        "items": [
+          "Do not look at the clock",
+          "No phone",
+          "Slow breathing: in 4, out 6",
+          "Still awake after 20 min? Get up, read, return when sleepy"
+        ]
+      }
+    },
+    {
+      "from": 24195,
+      "dur": 285,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "The MIND way of eating",
+        "items": [
+          "Leafy greens most days",
+          "Berries at least 2× a week",
+          "Nuts most days · beans 3–4× a week",
+          "Fish weekly · poultry 2× a week",
+          "Olive oil as your main fat"
+        ]
+      }
+    },
+    {
+      "from": 26724,
+      "dur": 180,
+      "comp": "PolaroidRecuerdo",
+      "props": {
+        "theme": "clinic",
+        "src": "img/foodsmemory-vital_s72.png",
+        "caption": "Tea in the morning, bowl at night",
+        "sub": "deeper sleep and no more morning fog"
+      }
+    },
+    {
+      "from": 27392,
+      "dur": 225,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Memory loss is an inevitable part of aging.",
+        "truth": "Some slowing is normal, but real memory loss is not — and many causes (sleep, medicines, B12, thyroid, hearing) are treatable."
+      }
+    },
+    {
+      "from": 27914,
+      "dur": 225,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Sleeping pills improve memory by helping you sleep.",
+        "truth": "Many disrupt natural deep sleep and cause confusion and falls in older adults."
+      }
+    }
+  ]
+}
