@@ -1,0 +1,1476 @@
+{
+  "slug": "bakingsoda-vital",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 36945,
+  "audioSrc": "bakingsoda-vital.mp3",
+  "avatarSrc": "bakingsoda-vital_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 0,
+      "dur": 251,
+      "clip": 0
+    },
+    {
+      "from": 1966,
+      "dur": 848,
+      "clip": 251
+    },
+    {
+      "from": 6488,
+      "dur": 861,
+      "clip": 1099
+    },
+    {
+      "from": 27356,
+      "dur": 439,
+      "clip": 1960
+    },
+    {
+      "from": 33624,
+      "dur": 701,
+      "clip": 2399
+    },
+    {
+      "from": 35882,
+      "dur": 1047,
+      "clip": 3100
+    }
+  ],
+  "broll": [
+    {
+      "from": 251,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 394,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 603,
+      "dur": 304,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 907,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s04.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1068,
+      "dur": 184,
+      "kind": "video",
+      "src": "broll/bakingsoda-vital_v_s05.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1252,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s06.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1582,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s06.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1900,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s07.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2814,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/bakingsoda-vital_v_s08.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2988,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/bakingsoda-vital_v_s08.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3162,
+      "dur": 67,
+      "kind": "video",
+      "src": "broll/bakingsoda-vital_v_s08.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3229,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s09.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3344,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s10.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3521,
+      "dur": 312,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s11.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3833,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s12.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4029,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s13.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4359,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s13.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4535,
+      "dur": 375,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s14.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5180,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s15.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5389,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s16.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5573,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s17.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5748,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s18.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6078,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s18.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6288,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7349,
+      "dur": 10,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s19.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7659,
+      "dur": 151,
+      "kind": "video",
+      "src": "broll/bakingsoda-vital_v_s20.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7810,
+      "dur": 283,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s21.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8093,
+      "dur": 365,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s22.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8458,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s23.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8788,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s23.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8892,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s24.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9222,
+      "dur": 333,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s24.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9555,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s25.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9885,
+      "dur": 315,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s25.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10470,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s27.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10623,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s28.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10953,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s26.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11129,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s29.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11302,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s30.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11632,
+      "dur": 332,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s30.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11964,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s31.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12210,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s32.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12540,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s32.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12618,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s33.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12948,
+      "dur": 324,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s33.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13272,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s34.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13602,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s34.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13670,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s35.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13798,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s36.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13924,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s37.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14254,
+      "dur": 274,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s37.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14798,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s38.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14902,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s39.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15098,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s55.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15233,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s40.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15563,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15674,
+      "dur": 319,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s41.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15993,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s42.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16123,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s43.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16453,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s43.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16783,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s43.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16999,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s45.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17329,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s45.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17416,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s46.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17746,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s46.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17900,
+      "dur": 214,
+      "kind": "video",
+      "src": "broll/bakingsoda-vital_v_s47.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18114,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s48.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18341,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s49.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18671,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s49.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19001,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s49.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19088,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s50.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19418,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s50.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19881,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s52.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20069,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s53.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20244,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s54.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20574,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s54.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20904,
+      "dur": 70,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s54.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20974,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s56.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21304,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s56.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21469,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/bakingsoda-vital_v_s57.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21844,
+      "dur": 263,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s58.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22347,
+      "dur": 299,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s59.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22646,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s60.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22817,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s61.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23147,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s61.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23246,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s62.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23576,
+      "dur": 298,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s62.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24144,
+      "dur": 352,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s63.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24496,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s64.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24718,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s65.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25048,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s65.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25197,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s66.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25527,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s66.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25665,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s67.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25995,
+      "dur": 272,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s67.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26267,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s68.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26597,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s68.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26927,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s68.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27051,
+      "dur": 305,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s69.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27795,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s51.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27909,
+      "dur": 283,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s70.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28192,
+      "dur": 355,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s71.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28547,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s72.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28712,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s73.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28915,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s74.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29334,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s76.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29564,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s77.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29894,
+      "dur": 326,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s75.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30220,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s78.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30550,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s78.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30880,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s78.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30979,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s79.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31309,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s79.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31433,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s80.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31763,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s80.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31917,
+      "dur": 337,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s81.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32254,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s82.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32584,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s82.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32914,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s82.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33244,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s82.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33437,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s83.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34325,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s85.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34655,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s84.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 34985,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s84.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 35315,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s84.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 35645,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/bakingsoda-vital_s84.png",
+      "kb": 5,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1966,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "EVIDENCE-BASED",
+        "title": "Dr. Alan Brooks",
+        "sub": "baking soda — the right way"
+      }
+    },
+    {
+      "from": 7074,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN FOR THE FREE GUIDE",
+        "label": "The Natural Wellness Method"
+      }
+    },
+    {
+      "from": 7359,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN FOR THE FREE GUIDE",
+        "label": "The Natural Wellness Method"
+      }
+    },
+    {
+      "from": 7810,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "#1",
+        "title": "Occasional heartburn",
+        "sub": "½ tsp in water · not daily · not after a big meal"
+      }
+    },
+    {
+      "from": 8892,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "#2",
+        "title": "Mouth & throat rinse",
+        "sub": "rinse and spit — one of the safest uses"
+      }
+    },
+    {
+      "from": 12210,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "#4",
+        "title": "Cleaning dentures",
+        "sub": "warm water + 1 spoon, rinse well"
+      }
+    },
+    {
+      "from": 13272,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "#6",
+        "title": "Itchy skin bath",
+        "sub": "½ cup in a lukewarm bath"
+      }
+    },
+    {
+      "from": 13670,
+      "dur": 180,
+      "comp": "TimerCocina",
+      "props": {
+        "theme": "clinic",
+        "minutes": 15,
+        "unit": "MIN",
+        "label": "lukewarm soak",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 13924,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "#7",
+        "title": "Insect bites",
+        "sub": "a paste with a little water, 10 min"
+      }
+    },
+    {
+      "from": 15233,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "#9",
+        "title": "Wash your produce",
+        "sub": "1 tsp in 2 cups water, 12–15 min, rinse"
+      }
+    },
+    {
+      "from": 17900,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "clinic",
+        "accentText": "#13",
+        "title": "Kidney acidosis",
+        "sub": "ONLY as a prescribed, monitored treatment"
+      }
+    },
+    {
+      "from": 19213,
+      "dur": 180,
+      "comp": "SplitInfo",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "In the guide",
+        "title": "The Natural Wellness Method",
+        "items": [
+          "Exact amounts for all 13 uses",
+          "The safe limits",
+          "The full list of warnings"
+        ]
+      }
+    },
+    {
+      "from": 19517,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN FOR THE FREE GUIDE",
+        "label": "The Natural Wellness Method"
+      }
+    },
+    {
+      "from": 22817,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "clinic",
+        "label": "MYTH",
+        "num": 3,
+        "text": "It cures urinary infections"
+      }
+    },
+    {
+      "from": 23246,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "clinic",
+        "label": "MYTH",
+        "num": 4,
+        "text": "It dissolves stones at home"
+      }
+    },
+    {
+      "from": 24718,
+      "dur": 150,
+      "comp": "MarcaCirculo",
+      "props": {
+        "theme": "clinic",
+        "x": 50,
+        "y": 50,
+        "w": 480,
+        "h": 300,
+        "note": "CAUSTIC — not for remedies"
+      }
+    },
+    {
+      "from": 27051,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🚨",
+        "title": "'Heartburn' + sweating or breathlessness",
+        "sub": "could be the heart — call emergency services",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 29564,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "The sodium",
+        "sub": "high BP, heart failure, kidney/liver disease: do not swallow it regularly",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 30220,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "🚨",
+        "title": "Never large doses",
+        "sub": "never on a very full stomach — rare stomach rupture reports",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 30979,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "clinic",
+        "icon": "⚠️",
+        "title": "Your medicines",
+        "sub": "separate by 2+ hours · ask your pharmacist",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 36529,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN FOR THE FREE GUIDE",
+        "label": "The Natural Wellness Method"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 1645,
+      "dur": 255,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "What it is",
+        "title": "Sodium bicarbonate",
+        "steps": [
+          {
+            "title": "A mild alkali",
+            "sub": "the opposite of an acid"
+          },
+          {
+            "title": "It neutralizes acid",
+            "sub": "that explains most of its uses"
+          },
+          {
+            "title": "But it is SODIUM",
+            "sub": "about 1,200 mg per teaspoon"
+          }
+        ]
+      }
+    },
+    {
+      "from": 4910,
+      "dur": 270,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "clinic",
+        "src": "img/bakingsoda-vital_s15.png",
+        "title": "SODIUM TODAY",
+        "rows": [
+          {
+            "label": "Slice of bread",
+            "price": "200 mg"
+          },
+          {
+            "label": "Bowl of canned soup",
+            "price": "800 mg"
+          },
+          {
+            "label": "Cheese",
+            "price": "300 mg"
+          },
+          {
+            "label": "1 tsp baking soda",
+            "price": "1,200 mg",
+            "bad": true
+          }
+        ],
+        "total": {
+          "label": "TOTAL",
+          "price": "2,500 mg"
+        },
+        "stamp": "OVER THE LIMIT"
+      }
+    },
+    {
+      "from": 7359,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "13 real uses · 1 to 7",
+        "items": [
+          "Occasional heartburn",
+          "Mouth sores & sore throat",
+          "Dry mouth after meals",
+          "Cleaning dentures",
+          "Gentle teeth cleaning",
+          "Itchy skin bath",
+          "Insect bites"
+        ]
+      }
+    },
+    {
+      "from": 10200,
+      "dur": 270,
+      "comp": "CuadernoReceta",
+      "props": {
+        "theme": "clinic",
+        "src": "img/bakingsoda-vital_s26.png",
+        "title": "The mouth rinse",
+        "items": [
+          "½ tsp baking soda",
+          "½ glass lukewarm water",
+          "Stir until dissolved",
+          "Swish 30 s or gargle",
+          "Spit — 2–3× a day"
+        ],
+        "note": "rinse & spit!"
+      }
+    },
+    {
+      "from": 14528,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "13 real uses · 8 to 13",
+        "items": [
+          "Tired, smelly feet",
+          "Washing fruit & vegetables",
+          "Body odor",
+          "Nasal rinse (sterile water!)",
+          "Mild sunburn",
+          "Kidney acidosis — ONLY prescribed"
+        ]
+      }
+    },
+    {
+      "from": 19596,
+      "dur": 285,
+      "comp": "Checklist",
+      "props": {
+        "theme": "clinic",
+        "title": "Better for frequent heartburn",
+        "items": [
+          "Smaller meals · stop 2–3 h before bed",
+          "Raise the head of the bed",
+          "Know your triggers",
+          "Lose waist weight · stop smoking",
+          "More than 2× a week? See your doctor"
+        ]
+      }
+    },
+    {
+      "from": 21619,
+      "dur": 225,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Baking soda cures cancer.",
+        "truth": "FALSE — and people have delayed real treatment because of this claim."
+      }
+    },
+    {
+      "from": 22107,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "clinic",
+        "myth": "Baking soda alkalizes your blood.",
+        "truth": "Your lungs and kidneys keep blood pH in a tight range by themselves. Blood too alkaline is a medical EMERGENCY."
+      }
+    },
+    {
+      "from": 23874,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "clinic",
+        "title": "Three look-alike white powders",
+        "left": {
+          "label": "Baking soda",
+          "sub": "sodium bicarbonate — the gentle one"
+        },
+        "right": {
+          "label": "Washing soda",
+          "sub": "sodium carbonate — CAUSTIC, never swallow"
+        }
+      }
+    },
+    {
+      "from": 29154,
+      "dur": 180,
+      "comp": "PolaroidRecuerdo",
+      "props": {
+        "theme": "clinic",
+        "src": "img/bakingsoda-vital_s71.png",
+        "caption": "A heaping teaspoon every morning",
+        "sub": "= swollen ankles & higher blood pressure"
+      }
+    }
+  ]
+}
