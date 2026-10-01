@@ -3,7 +3,7 @@
   "fps": 30,
   "width": 1920,
   "height": 1080,
-  "durationInFrames": 24219,
+  "durationInFrames": 24973,
   "audioSrc": "nonna-salsa.mp3",
   "avatarSrc": "nonna-salsa_avatar.mp4",
   "avatarSegs": [
@@ -14,13 +14,18 @@
     },
     {
       "from": 5564,
-      "dur": 1050,
+      "dur": 454,
       "clip": 1620
     },
     {
-      "from": 22927,
-      "dur": 1282,
-      "clip": 2670
+      "from": 6739,
+      "dur": 96,
+      "clip": 2074
+    },
+    {
+      "from": 24053,
+      "dur": 909,
+      "clip": 2170
     }
   ],
   "broll": [
@@ -193,539 +198,571 @@
       "pip": false
     },
     {
-      "from": 6614,
-      "dur": 122,
+      "from": 6018,
+      "dur": 121,
       "kind": "image",
       "src": "img/nonna-salsa_s19.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 7006,
-      "dur": 74,
-      "kind": "video",
-      "src": "broll/nonna-salsa_v_s21.mp4",
+      "from": 6589,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/nonna-salsa_s09.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 7080,
+      "from": 6835,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/nonna-salsa_s66.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7226,
+      "dur": 75,
+      "kind": "video",
+      "src": "broll/nonna-salsa_v_s21.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7301,
       "dur": 253,
       "kind": "image",
       "src": "img/nonna-salsa_s22.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 7333,
-      "dur": 157,
-      "kind": "image",
-      "src": "img/nonna-salsa_s23.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 7490,
-      "dur": 142,
-      "kind": "image",
-      "src": "img/nonna-salsa_s24.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 7632,
-      "dur": 268,
+      "from": 7554,
+      "dur": 156,
       "kind": "image",
-      "src": "img/nonna-salsa_s74.png",
+      "src": "img/nonna-salsa_s23.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 7900,
-      "dur": 368,
+      "from": 7710,
+      "dur": 143,
       "kind": "image",
-      "src": "img/nonna-salsa_s25.png",
+      "src": "img/nonna-salsa_s24.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 8268,
-      "dur": 330,
+      "from": 7853,
+      "dur": 267,
       "kind": "image",
-      "src": "img/nonna-salsa_s26.png",
+      "src": "img/nonna-salsa_s74.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 8598,
-      "dur": 77,
+      "from": 8120,
+      "dur": 369,
       "kind": "image",
-      "src": "img/nonna-salsa_s26.png",
+      "src": "img/nonna-salsa_s25.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 8675,
-      "dur": 87,
+      "from": 8489,
+      "dur": 330,
       "kind": "image",
-      "src": "img/nonna-salsa_s27.png",
+      "src": "img/nonna-salsa_s26.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 8762,
-      "dur": 105,
+      "from": 8819,
+      "dur": 76,
       "kind": "image",
-      "src": "img/nonna-salsa_s75.png",
+      "src": "img/nonna-salsa_s26.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 8867,
+      "from": 8895,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/nonna-salsa_s27.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8983,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/nonna-salsa_s75.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9087,
       "dur": 150,
       "kind": "image",
       "src": "img/nonna-salsa_s28.png",
-      "kb": 2,
+      "kb": 4,
       "pip": false
     },
     {
-      "from": 9197,
+      "from": 9417,
       "dur": 330,
       "kind": "image",
       "src": "img/nonna-salsa_s30.png",
-      "kb": 3,
+      "kb": 5,
       "pip": false
     },
     {
-      "from": 9527,
+      "from": 9747,
       "dur": 60,
       "kind": "image",
       "src": "img/nonna-salsa_s29.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 9587,
-      "dur": 174,
-      "kind": "video",
-      "src": "broll/nonna-salsa_v_s31.mp4",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 9761,
-      "dur": 174,
-      "kind": "video",
-      "src": "broll/nonna-salsa_v_s31.mp4",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 9935,
-      "dur": 133,
-      "kind": "image",
-      "src": "img/nonna-salsa_s32.png",
+      "from": 9807,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/nonna-salsa_v_s31.mp4",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 10068,
+      "from": 9981,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/nonna-salsa_v_s31.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10155,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/nonna-salsa_s32.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10289,
       "dur": 56,
       "kind": "image",
       "src": "img/nonna-salsa_s76.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 10124,
-      "dur": 140,
-      "kind": "image",
-      "src": "img/nonna-salsa_s33.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 10264,
-      "dur": 124,
-      "kind": "image",
-      "src": "img/nonna-salsa_s34.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 10658,
-      "dur": 177,
+      "from": 10345,
+      "dur": 139,
       "kind": "image",
-      "src": "img/nonna-salsa_s35.png",
+      "src": "img/nonna-salsa_s33.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 10835,
-      "dur": 330,
+      "from": 10484,
+      "dur": 125,
       "kind": "image",
-      "src": "img/nonna-salsa_s36.png",
+      "src": "img/nonna-salsa_s34.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 11165,
-      "dur": 87,
+      "from": 10879,
+      "dur": 176,
       "kind": "image",
-      "src": "img/nonna-salsa_s36.png",
+      "src": "img/nonna-salsa_s35.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 11252,
+      "from": 11055,
       "dur": 330,
       "kind": "image",
-      "src": "img/nonna-salsa_s37.png",
+      "src": "img/nonna-salsa_s36.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 11582,
+      "from": 11385,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/nonna-salsa_s36.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11685,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/nonna-salsa_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11762,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa_s37.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12092,
       "dur": 79,
       "kind": "image",
       "src": "img/nonna-salsa_s37.png",
-      "kb": 3,
+      "kb": 0,
       "pip": false
     },
     {
-      "from": 11661,
+      "from": 12171,
       "dur": 291,
       "kind": "image",
       "src": "img/nonna-salsa_s38.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 11952,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/nonna-salsa_s39.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 12282,
-      "dur": 70,
-      "kind": "image",
-      "src": "img/nonna-salsa_s39.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 12352,
-      "dur": 174,
-      "kind": "video",
-      "src": "broll/nonna-salsa_v_s40.mp4",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 12526,
-      "dur": 218,
-      "kind": "video",
-      "src": "broll/nonna-salsa_v_s40.mp4",
+      "from": 12462,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa_s39.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 12984,
+      "from": 12792,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/nonna-salsa_s39.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12861,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/nonna-salsa_v_s40.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13035,
+      "dur": 219,
+      "kind": "video",
+      "src": "broll/nonna-salsa_v_s40.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13494,
       "dur": 169,
       "kind": "image",
       "src": "img/nonna-salsa_s41.png",
-      "kb": 3,
+      "kb": 0,
       "pip": false
     },
     {
-      "from": 13153,
+      "from": 13663,
       "dur": 330,
       "kind": "image",
       "src": "img/nonna-salsa_s78.png",
-      "kb": 4,
+      "kb": 1,
       "pip": false
     },
     {
-      "from": 13483,
+      "from": 13993,
       "dur": 59,
       "kind": "image",
       "src": "img/nonna-salsa_s78.png",
-      "kb": 5,
+      "kb": 2,
       "pip": false
     },
     {
-      "from": 13542,
+      "from": 14052,
       "dur": 212,
       "kind": "image",
       "src": "img/nonna-salsa_s42.png",
-      "kb": 0,
+      "kb": 3,
       "pip": false
     },
     {
-      "from": 13964,
+      "from": 14474,
       "dur": 283,
       "kind": "image",
       "src": "img/nonna-salsa_s79.png",
-      "kb": 1,
+      "kb": 4,
       "pip": false
     },
     {
-      "from": 14247,
+      "from": 14757,
       "dur": 207,
       "kind": "image",
       "src": "img/nonna-salsa_s45.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 14454,
-      "dur": 196,
-      "kind": "image",
-      "src": "img/nonna-salsa_s46.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 14650,
-      "dur": 224,
-      "kind": "image",
-      "src": "img/nonna-salsa_s47.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 14874,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/nonna-salsa_s48.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 15204,
+      "from": 14964,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/nonna-salsa_s46.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15159,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/nonna-salsa_s47.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15384,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa_s48.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15714,
       "dur": 307,
       "kind": "image",
       "src": "img/nonna-salsa_s48.png",
-      "kb": 0,
+      "kb": 3,
       "pip": false
     },
     {
-      "from": 15511,
+      "from": 16021,
       "dur": 252,
       "kind": "image",
       "src": "img/nonna-salsa_s80.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 16033,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/nonna-salsa_s49.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 16363,
-      "dur": 87,
-      "kind": "image",
-      "src": "img/nonna-salsa_s49.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 16450,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/nonna-salsa_s50.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 16780,
+      "from": 16543,
       "dur": 330,
       "kind": "image",
-      "src": "img/nonna-salsa_s50.png",
+      "src": "img/nonna-salsa_s49.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 17110,
-      "dur": 262,
+      "from": 16873,
+      "dur": 86,
       "kind": "image",
-      "src": "img/nonna-salsa_s50.png",
+      "src": "img/nonna-salsa_s49.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 17372,
-      "dur": 174,
-      "kind": "video",
-      "src": "broll/nonna-salsa_v_s51.mp4",
+      "from": 16959,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa_s50.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 17546,
-      "dur": 174,
-      "kind": "video",
-      "src": "broll/nonna-salsa_v_s51.mp4",
+      "from": 17289,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa_s50.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 17720,
+      "from": 17619,
+      "dur": 263,
+      "kind": "image",
+      "src": "img/nonna-salsa_s50.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17882,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/nonna-salsa_v_s51.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18056,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/nonna-salsa_v_s51.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18230,
       "dur": 146,
       "kind": "video",
       "src": "broll/nonna-salsa_v_s51.mp4",
-      "kb": 3,
+      "kb": 0,
       "pip": false
     },
     {
-      "from": 17866,
+      "from": 18376,
       "dur": 85,
       "kind": "image",
       "src": "img/nonna-salsa_s52.png",
-      "kb": 4,
+      "kb": 1,
       "pip": false
     },
     {
-      "from": 17951,
+      "from": 18461,
       "dur": 270,
       "kind": "image",
       "src": "img/nonna-salsa_s82.png",
-      "kb": 5,
+      "kb": 2,
       "pip": false
     },
     {
-      "from": 18491,
+      "from": 19001,
       "dur": 330,
       "kind": "image",
       "src": "img/nonna-salsa_s54.png",
-      "kb": 0,
+      "kb": 3,
       "pip": false
     },
     {
-      "from": 18821,
+      "from": 19331,
       "dur": 139,
       "kind": "image",
       "src": "img/nonna-salsa_s53.png",
-      "kb": 1,
+      "kb": 4,
       "pip": false
     },
     {
-      "from": 18960,
+      "from": 19470,
       "dur": 330,
       "kind": "image",
       "src": "img/nonna-salsa_s55.png",
-      "kb": 2,
+      "kb": 5,
       "pip": false
     },
     {
-      "from": 19290,
+      "from": 19800,
       "dur": 78,
       "kind": "image",
       "src": "img/nonna-salsa_s55.png",
-      "kb": 3,
+      "kb": 0,
       "pip": false
     },
     {
-      "from": 19368,
+      "from": 19878,
       "dur": 161,
       "kind": "image",
       "src": "img/nonna-salsa_s83.png",
-      "kb": 4,
+      "kb": 1,
       "pip": false
     },
     {
-      "from": 19529,
+      "from": 20039,
       "dur": 330,
       "kind": "image",
       "src": "img/nonna-salsa_s56.png",
-      "kb": 5,
+      "kb": 2,
       "pip": false
     },
     {
-      "from": 19859,
+      "from": 20369,
       "dur": 186,
       "kind": "image",
       "src": "img/nonna-salsa_s56.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 20045,
-      "dur": 306,
-      "kind": "image",
-      "src": "img/nonna-salsa_s57.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 20351,
-      "dur": 175,
-      "kind": "image",
-      "src": "img/nonna-salsa_s84.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 20766,
-      "dur": 282,
-      "kind": "image",
-      "src": "img/nonna-salsa_s59.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 21048,
-      "dur": 323,
+      "from": 20555,
+      "dur": 306,
       "kind": "image",
-      "src": "img/nonna-salsa_s85.png",
+      "src": "img/nonna-salsa_s57.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 21371,
-      "dur": 252,
+      "from": 20861,
+      "dur": 175,
       "kind": "image",
-      "src": "img/nonna-salsa_s60.png",
+      "src": "img/nonna-salsa_s84.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 21623,
-      "dur": 110,
+      "from": 21276,
+      "dur": 282,
       "kind": "image",
-      "src": "img/nonna-salsa_s86.png",
+      "src": "img/nonna-salsa_s59.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 21733,
-      "dur": 265,
+      "from": 21558,
+      "dur": 323,
       "kind": "image",
-      "src": "img/nonna-salsa_s61.png",
+      "src": "img/nonna-salsa_s85.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 22418,
-      "dur": 330,
+      "from": 21881,
+      "dur": 252,
       "kind": "image",
-      "src": "img/nonna-salsa_s62.png",
+      "src": "img/nonna-salsa_s60.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 22748,
-      "dur": 179,
+      "from": 22133,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/nonna-salsa_s86.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22243,
+      "dur": 265,
+      "kind": "image",
+      "src": "img/nonna-salsa_s61.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22928,
+      "dur": 330,
       "kind": "image",
       "src": "img/nonna-salsa_s62.png",
-      "kb": 3,
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23258,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa_s62.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23588,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/nonna-salsa_s62.png",
+      "kb": 1,
       "pip": false
     }
   ],
@@ -768,13 +805,13 @@
       "props": {
         "theme": "earth",
         "corner": "bl",
-        "src": "img/qr_nonna.png",
+        "src": "img/qr_guia_nonna.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "El Cuaderno de la Nonna"
+        "label": "Las guías de la Nonna"
       }
     },
     {
-      "from": 7490,
+      "from": 7710,
       "dur": 135,
       "comp": "SelloError",
       "props": {
@@ -784,7 +821,7 @@
       }
     },
     {
-      "from": 8314,
+      "from": 8534,
       "dur": 240,
       "comp": "TimerCocina",
       "props": {
@@ -794,7 +831,7 @@
       }
     },
     {
-      "from": 10264,
+      "from": 10484,
       "dur": 135,
       "comp": "SectionTitle",
       "props": {
@@ -804,7 +841,7 @@
       }
     },
     {
-      "from": 13542,
+      "from": 14052,
       "dur": 135,
       "comp": "SectionTitle",
       "props": {
@@ -814,19 +851,19 @@
       }
     },
     {
-      "from": 13542,
+      "from": 14052,
       "dur": 210,
       "comp": "QRTag",
       "props": {
         "theme": "earth",
         "corner": "bl",
-        "src": "img/qr_nonna.png",
+        "src": "img/qr_guia_nonna.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "El Cuaderno de la Nonna"
+        "label": "Las guías de la Nonna"
       }
     },
     {
-      "from": 17372,
+      "from": 17882,
       "dur": 150,
       "comp": "KeywordPop",
       "props": {
@@ -837,27 +874,27 @@
       }
     },
     {
-      "from": 20526,
+      "from": 21036,
       "dur": 210,
       "comp": "QRTag",
       "props": {
         "theme": "earth",
         "corner": "bl",
-        "src": "img/qr_nonna.png",
+        "src": "img/qr_guia_nonna.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "El Cuaderno de la Nonna"
+        "label": "Las guías de la Nonna"
       }
     },
     {
-      "from": 22927,
+      "from": 23439,
       "dur": 210,
       "comp": "QRTag",
       "props": {
         "theme": "earth",
         "corner": "bl",
-        "src": "img/qr_nonna.png",
+        "src": "img/qr_guia_nonna.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "El Cuaderno de la Nonna"
+        "label": "Las guías de la Nonna"
       }
     }
   ],
@@ -916,7 +953,25 @@
       }
     },
     {
-      "from": 6736,
+      "from": 6139,
+      "dur": 450,
+      "comp": "GuiasNonna",
+      "props": {
+        "theme": "earth",
+        "covers": [
+          "img/guias/nonna-recetario.jpg",
+          "img/guias/nonna-masas.jpg"
+        ],
+        "labels": [
+          "El Gran Recetario",
+          "El Libro de las Masas"
+        ],
+        "title": "Mi cuaderno, en limpio",
+        "qr": "img/qr_guia_nonna.png"
+      }
+    },
+    {
+      "from": 6956,
       "dur": 270,
       "comp": "CuadernoReceta",
       "props": {
@@ -934,7 +989,7 @@
       }
     },
     {
-      "from": 9017,
+      "from": 9237,
       "dur": 180,
       "comp": "PhraseCard",
       "props": {
@@ -946,7 +1001,7 @@
       }
     },
     {
-      "from": 10388,
+      "from": 10609,
       "dur": 270,
       "comp": "MythVsTruth",
       "props": {
@@ -956,7 +1011,20 @@
       }
     },
     {
-      "from": 12744,
+      "from": 11475,
+      "dur": 210,
+      "comp": "GuiasNonna",
+      "props": {
+        "theme": "earth",
+        "covers": [
+          "img/guias/nonna-recetario.jpg"
+        ],
+        "title": "El Gran Recetario de la Nonna",
+        "qr": "img/qr_guia_nonna.png"
+      }
+    },
+    {
+      "from": 13254,
       "dur": 240,
       "comp": "Checklist",
       "props": {
@@ -971,7 +1039,7 @@
       }
     },
     {
-      "from": 13754,
+      "from": 14264,
       "dur": 210,
       "comp": "PolaroidRecuerdo",
       "props": {
@@ -982,7 +1050,7 @@
       }
     },
     {
-      "from": 15763,
+      "from": 16273,
       "dur": 270,
       "comp": "Callout",
       "props": {
@@ -994,7 +1062,7 @@
       }
     },
     {
-      "from": 18221,
+      "from": 18731,
       "dur": 270,
       "comp": "Checklist",
       "props": {
@@ -1008,7 +1076,7 @@
       }
     },
     {
-      "from": 20526,
+      "from": 21036,
       "dur": 240,
       "comp": "TicketPrecio",
       "props": {
@@ -1038,7 +1106,7 @@
       }
     },
     {
-      "from": 21998,
+      "from": 22508,
       "dur": 420,
       "comp": "Checklist",
       "props": {
@@ -1053,6 +1121,27 @@
           "Nada de azúcar: tiempo (y zanahoria)"
         ],
         "stamp": "¡Anótalo!"
+      }
+    },
+    {
+      "from": 23778,
+      "dur": 275,
+      "comp": "GuiasNonna",
+      "props": {
+        "theme": "earth",
+        "covers": [
+          "img/guias/nonna-recetario.jpg",
+          "img/guias/nonna-masas.jpg",
+          "img/guias/nonna-kit.jpg"
+        ],
+        "labels": [
+          "Recetario",
+          "Masas",
+          "La Colección"
+        ],
+        "focus": 2,
+        "title": "Los dos juntos: la Colección",
+        "qr": "img/qr_guia_nonna.png"
       }
     }
   ]

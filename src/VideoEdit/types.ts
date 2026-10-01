@@ -30,7 +30,8 @@ export type ComponentBeat = {
     | "PhraseCard"
     | "CuadernoReceta"
     | "TicketPrecio"
-    | "PolaroidRecuerdo";
+    | "PolaroidRecuerdo"
+    | "GuiasNonna";
   props: Record<string, unknown>;
 };
 

@@ -271,3 +271,48 @@ export const MarcaCirculo: React.FC<{ durationInFrames: number; x: number; y: nu
     </AbsoluteFill>
   );
 };
+
+/* ───────────── 7) LIBROS DE LA NONNA: las tapas reales de las guías + QR (CTA) ───────────── */
+// covers: rutas ya resueltas (staticFile) · focus: índice de la tapa destacada (-1 = todas iguales)
+export const GuiasNonna: React.FC<{ durationInFrames: number; src?: string; covers: string[]; labels?: string[]; focus?: number; eyebrow?: string; title?: string; qr?: string; foot?: string }> = ({ durationInFrames: dur, src, covers, labels = [], focus = -1, eyebrow = "LOS LIBROS DE LA NONNA", title, qr, foot = "En el primer comentario y en la descripción" }) => {
+  const f = useCurrentFrame();
+  const out = useOut(dur);
+  const n = covers.length;
+  const W = n >= 3 ? 470 : 540;
+  return (
+    <AbsoluteFill style={{ opacity: out }}>
+      <Backdrop src={src} dur={dur} dark={0.62} />
+      <AbsoluteFill style={{ alignItems: "center", paddingTop: 70 }}>
+        <div style={{ fontFamily: SERIF, fontSize: 30, letterSpacing: 8, color: "#e9d9b6", opacity: interpolate(f, [0, 10], [0, 1], cl) }}>{eyebrow}</div>
+        {title ? <div style={{ fontFamily: HAND, fontSize: 84, color: "#fff", marginTop: 4, textShadow: "0 4px 16px rgba(0,0,0,.7)", opacity: interpolate(f, [4, 14], [0, 1], cl), translate: `0px ${interpolate(f, [4, 14], [18, 0], { ...cl, easing: OUT })}px` }}>{title}</div> : null}
+      </AbsoluteFill>
+      <AbsoluteFill style={{ alignItems: "center", justifyContent: "center", paddingTop: 110 }}>
+        <div style={{ display: "flex", gap: 46, alignItems: "flex-end" }}>
+          {covers.map((c, i) => {
+            const a = 8 + i * 7;
+            const isF = focus === i;
+            const dim = focus >= 0 && !isF ? 0.55 : 1;
+            const rot = (i - (n - 1) / 2) * 4;
+            return (
+              <div key={i} style={{ display: "flex", flexDirection: "column", alignItems: "center",
+                translate: `0px ${interpolate(f, [a, a + 14], [500, 0], { ...cl, easing: Easing.bezier(0.2, 1.25, 0.4, 1) })}px`,
+                rotate: `${rot}deg`, scale: isF ? interpolate(f, [a + 14, a + 24], [1, 1.08], cl) : 1, opacity: interpolate(f, [a, a + 6], [0, 1], cl) }}>
+                <div style={{ width: W, height: W, borderRadius: 10, overflow: "hidden", boxShadow: isF ? "0 0 0 6px #ffd23f, 0 40px 70px rgba(0,0,0,.6)" : "0 34px 60px rgba(0,0,0,.55)", filter: `brightness(${dim})` }}>
+                  <Img src={c} style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+                </div>
+                {labels[i] ? <div style={{ marginTop: 18, fontFamily: HAND, fontSize: 50, color: "#fff", textShadow: "0 3px 10px rgba(0,0,0,.8)", opacity: interpolate(f, [a + 12, a + 20], [0, dim], cl) }}>{labels[i]}</div> : null}
+              </div>
+            );
+          })}
+        </div>
+      </AbsoluteFill>
+      <AbsoluteFill style={{ justifyContent: "flex-end", alignItems: "center", paddingBottom: 46 }}>
+        <div style={{ display: "flex", alignItems: "center", gap: 26, background: "rgba(246,239,220,.96)", borderRadius: 22, padding: qr ? "14px 34px 14px 14px" : "18px 40px", boxShadow: "0 16px 40px rgba(0,0,0,.45)",
+          opacity: interpolate(f, [26, 36], [0, 1], cl), translate: `0px ${interpolate(f, [26, 36], [40, 0], { ...cl, easing: OUT })}px` }}>
+          {qr ? <Img src={qr} style={{ width: 128, height: 128, borderRadius: 8 }} /> : null}
+          <div style={{ fontFamily: SERIF, fontSize: 40, fontWeight: 600, color: C.ink }}>👇 {foot}</div>
+        </div>
+      </AbsoluteFill>
+    </AbsoluteFill>
+  );
+};

@@ -46,7 +46,7 @@ import {
   Testimonial,
 } from "./kit/kit3";
 import { AntesDespues, Medidor, QRTag, Timeline, Top5Reveal } from "./kit/kit4";
-import { CuadernoReceta, MarcaCirculo, PolaroidRecuerdo, SelloError, TicketPrecio, TimerCocina } from "./kit/kit5";
+import { CuadernoReceta, GuiasNonna, MarcaCirculo, PolaroidRecuerdo, SelloError, TicketPrecio, TimerCocina } from "./kit/kit5";
 import type { BrollBeat, ComponentBeat, OverlayBeat } from "./types";
 
 /* ─────────────────────────  b-roll a pantalla completa (Ken Burns)  ───────────────────────── */
@@ -121,6 +121,7 @@ const MAP = {
   CuadernoReceta,
   TicketPrecio,
   PolaroidRecuerdo,
+  GuiasNonna,
 } as const;
 
 export const ComponentBeatView: React.FC<{ beat: ComponentBeat }> = ({
@@ -130,10 +131,11 @@ export const ComponentBeatView: React.FC<{ beat: ComponentBeat }> = ({
   if (!Comp) return null;
   // FramedPhoto recibe src relativo a public/ → resolver con staticFile.
   const base =
-    ["FramedPhoto", "PhraseCard", "CuadernoReceta", "TicketPrecio", "PolaroidRecuerdo"].includes(beat.comp) && typeof beat.props.src === "string"
+    ["FramedPhoto", "PhraseCard", "CuadernoReceta", "TicketPrecio", "PolaroidRecuerdo", "GuiasNonna"].includes(beat.comp) && typeof beat.props.src === "string"
       ? { ...beat.props, src: staticFile(beat.props.src as string) }
       : beat.props;
-  return <Comp durationInFrames={beat.dur} {...withTheme(base)} />;
+  const base2 = beat.comp === "GuiasNonna" ? { ...base, covers: ((base.covers as string[]) || []).map((c) => staticFile(c)), qr: typeof base.qr === "string" ? staticFile(base.qr as string) : undefined } : base;
+  return <Comp durationInFrames={beat.dur} {...withTheme(base2)} />;
 };
 
 /* ─────────────────────────  overlays (transparentes, sobre avatar/b-roll)  ───────────────────────── */
