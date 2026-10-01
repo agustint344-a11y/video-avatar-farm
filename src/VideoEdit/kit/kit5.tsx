@@ -278,16 +278,17 @@ export const GuiasNonna: React.FC<{ durationInFrames: number; src?: string; cove
   const f = useCurrentFrame();
   const out = useOut(dur);
   const n = covers.length;
-  const W = n >= 3 ? 470 : 540;
+  const W = n >= 3 ? 390 : n === 2 ? 440 : 470;
   return (
     <AbsoluteFill style={{ opacity: out }}>
       <Backdrop src={src} dur={dur} dark={0.62} />
-      <AbsoluteFill style={{ alignItems: "center", paddingTop: 70 }}>
+      {!src ? <AbsoluteFill style={{ background: "radial-gradient(ellipse at 50% 45%, #4a2a1c 0%, #1b1510 70%)" }} /> : null}
+      <AbsoluteFill style={{ alignItems: "center", paddingTop: 60 }}>
         <div style={{ fontFamily: SERIF, fontSize: 30, letterSpacing: 8, color: "#e9d9b6", opacity: interpolate(f, [0, 10], [0, 1], cl) }}>{eyebrow}</div>
         {title ? <div style={{ fontFamily: HAND, fontSize: 84, color: "#fff", marginTop: 4, textShadow: "0 4px 16px rgba(0,0,0,.7)", opacity: interpolate(f, [4, 14], [0, 1], cl), translate: `0px ${interpolate(f, [4, 14], [18, 0], { ...cl, easing: OUT })}px` }}>{title}</div> : null}
       </AbsoluteFill>
-      <AbsoluteFill style={{ alignItems: "center", justifyContent: "center", paddingTop: 110 }}>
-        <div style={{ display: "flex", gap: 46, alignItems: "flex-end" }}>
+      <AbsoluteFill style={{ alignItems: "center", justifyContent: "center", paddingTop: 40, paddingBottom: 150 }}>
+        <div style={{ display: "flex", gap: 56, alignItems: "flex-end" }}>
           {covers.map((c, i) => {
             const a = 8 + i * 7;
             const isF = focus === i;
