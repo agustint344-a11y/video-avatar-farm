@@ -3,64 +3,72 @@
   "fps": 30,
   "width": 1920,
   "height": 1080,
-  "durationInFrames": 37543,
+  "durationInFrames": 37627,
   "audioSrc": "memory-vital.mp3",
   "avatarSrc": "memory-vital_avatar.mp4",
   "avatarSegs": [
     {
       "from": 0,
-      "dur": 314,
+      "dur": 294,
       "clip": 0
     },
     {
-      "from": 2144,
-      "dur": 830,
-      "clip": 314
+      "from": 2109,
+      "dur": 825,
+      "clip": 294
     },
     {
-      "from": 6063,
-      "dur": 918,
-      "clip": 1144
+      "from": 5925,
+      "dur": 865,
+      "clip": 1119
     },
     {
-      "from": 17295,
+      "from": 17211,
       "dur": 1050,
-      "clip": 2062
+      "clip": 1984
     },
     {
-      "from": 31291,
-      "dur": 296,
-      "clip": 3112
+      "from": 31197,
+      "dur": 307,
+      "clip": 3034
     },
     {
-      "from": 36494,
-      "dur": 1036,
-      "clip": 3408
+      "from": 36544,
+      "dur": 1042,
+      "clip": 3341
     }
   ],
   "broll": [
     {
-      "from": 314,
-      "dur": 51,
+      "from": 294,
+      "dur": 52,
       "kind": "image",
       "src": "img/memory-vital_s01.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 365,
-      "dur": 123,
+      "from": 346,
+      "dur": 96,
       "kind": "image",
       "src": "img/memory-vital_s01.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 488,
-      "dur": 355,
+      "from": 442,
+      "dur": 330,
       "kind": "image",
       "src": "img/memory-vital_s02.png",
       "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 772,
+      "dur": 71,
+      "kind": "image",
+      "src": "img/memory-vital_s02.png",
+      "kb": 3,
       "pip": false
     },
     {
@@ -68,7 +76,7 @@
       "dur": 122,
       "kind": "image",
       "src": "img/memory-vital_s03.png",
-      "kb": 3,
+      "kb": 4,
       "pip": false
     },
     {
@@ -76,979 +84,971 @@
       "dur": 330,
       "kind": "image",
       "src": "img/memory-vital_s46.png",
-      "kb": 4,
+      "kb": 5,
       "pip": false
     },
     {
       "from": 1295,
-      "dur": 80,
-      "kind": "image",
-      "src": "img/memory-vital_s04.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 1375,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/memory-vital_s05.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 1705,
-      "dur": 208,
-      "kind": "image",
-      "src": "img/memory-vital_s06.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 1913,
-      "dur": 231,
-      "kind": "image",
-      "src": "img/memory-vital_s07.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 2974,
-      "dur": 20,
-      "kind": "image",
-      "src": "img/memory-vital_s07.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 3264,
-      "dur": 366,
-      "kind": "image",
-      "src": "img/memory-vital_s09.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 3630,
-      "dur": 111,
-      "kind": "image",
-      "src": "img/memory-vital_s10.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 3741,
-      "dur": 317,
-      "kind": "image",
-      "src": "img/memory-vital_s11.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 4058,
-      "dur": 252,
-      "kind": "image",
-      "src": "img/memory-vital_s12.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 4310,
-      "dur": 242,
-      "kind": "image",
-      "src": "img/memory-vital_s13.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 4552,
-      "dur": 156,
-      "kind": "image",
-      "src": "img/memory-vital_s14.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 4708,
-      "dur": 286,
-      "kind": "image",
-      "src": "img/memory-vital_s15.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 4994,
-      "dur": 57,
-      "kind": "image",
-      "src": "img/memory-vital_s16.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 5291,
-      "dur": 83,
-      "kind": "image",
-      "src": "img/memory-vital_s17.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 5374,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/memory-vital_s18.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 5704,
-      "dur": 359,
-      "kind": "image",
-      "src": "img/memory-vital_s18.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 6981,
-      "dur": 212,
-      "kind": "image",
-      "src": "img/memory-vital_s19.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 7193,
-      "dur": 240,
-      "kind": "image",
-      "src": "img/memory-vital_s20.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 7433,
-      "dur": 249,
-      "kind": "image",
-      "src": "img/memory-vital_s21.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 7682,
-      "dur": 147,
-      "kind": "image",
-      "src": "img/memory-vital_s22.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 7829,
-      "dur": 282,
-      "kind": "image",
-      "src": "img/memory-vital_s23.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 8111,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/memory-vital_s24.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 8441,
-      "dur": 153,
-      "kind": "image",
-      "src": "img/memory-vital_s24.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 8594,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/memory-vital_s25.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 8924,
-      "dur": 75,
-      "kind": "image",
-      "src": "img/memory-vital_s25.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 8999,
-      "dur": 195,
-      "kind": "image",
-      "src": "img/memory-vital_s26.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 9194,
-      "dur": 333,
-      "kind": "image",
-      "src": "img/memory-vital_s27.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 9527,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/memory-vital_s28.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 9857,
-      "dur": 122,
-      "kind": "image",
-      "src": "img/memory-vital_s28.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 9979,
-      "dur": 154,
-      "kind": "image",
-      "src": "img/memory-vital_s29.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 10133,
-      "dur": 291,
-      "kind": "image",
-      "src": "img/memory-vital_s30.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 10424,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/memory-vital_s31.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 10754,
       "dur": 66,
       "kind": "image",
+      "src": "img/memory-vital_s04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1361,
+      "dur": 318,
+      "kind": "image",
+      "src": "img/memory-vital_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 1679,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/memory-vital_s06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1895,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/memory-vital_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2934,
+      "dur": 15,
+      "kind": "image",
+      "src": "img/memory-vital_s07.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3219,
+      "dur": 374,
+      "kind": "image",
+      "src": "img/memory-vital_s09.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3593,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/memory-vital_s10.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3693,
+      "dur": 313,
+      "kind": "image",
+      "src": "img/memory-vital_s11.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4006,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/memory-vital_s12.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4241,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/memory-vital_s13.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4478,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/memory-vital_s14.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4640,
+      "dur": 267,
+      "kind": "image",
+      "src": "img/memory-vital_s15.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4907,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/memory-vital_s16.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5221,
+      "dur": 51,
+      "kind": "image",
+      "src": "img/memory-vital_s17.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5272,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s18.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5602,
+      "dur": 323,
+      "kind": "image",
+      "src": "img/memory-vital_s18.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6790,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/memory-vital_s19.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6992,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/memory-vital_s20.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7226,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/memory-vital_s21.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7460,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/memory-vital_s22.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7591,
+      "dur": 292,
+      "kind": "image",
+      "src": "img/memory-vital_s23.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7883,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s24.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8213,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/memory-vital_s24.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8352,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s25.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8682,
+      "dur": 52,
+      "kind": "image",
+      "src": "img/memory-vital_s25.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8734,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/memory-vital_s26.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8926,
+      "dur": 334,
+      "kind": "image",
+      "src": "img/memory-vital_s27.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9260,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s28.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9590,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/memory-vital_s28.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9706,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/memory-vital_s29.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9855,
+      "dur": 308,
+      "kind": "image",
+      "src": "img/memory-vital_s30.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10163,
+      "dur": 330,
+      "kind": "image",
       "src": "img/memory-vital_s31.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 10820,
-      "dur": 298,
+      "from": 10493,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/memory-vital_s31.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10565,
+      "dur": 293,
       "kind": "image",
       "src": "img/memory-vital_s32.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 11118,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/memory-vital_s33.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 11448,
-      "dur": 287,
+      "from": 10858,
+      "dur": 330,
       "kind": "image",
       "src": "img/memory-vital_s33.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 11735,
-      "dur": 330,
+      "from": 11188,
+      "dur": 296,
       "kind": "image",
-      "src": "img/memory-vital_s34.png",
+      "src": "img/memory-vital_s33.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 12065,
-      "dur": 139,
+      "from": 11484,
+      "dur": 330,
       "kind": "image",
       "src": "img/memory-vital_s34.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 12204,
-      "dur": 330,
+      "from": 11814,
+      "dur": 179,
       "kind": "image",
-      "src": "img/memory-vital_s35.png",
+      "src": "img/memory-vital_s34.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 12534,
-      "dur": 129,
+      "from": 11993,
+      "dur": 330,
       "kind": "image",
       "src": "img/memory-vital_s35.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 12663,
-      "dur": 353,
+      "from": 12323,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/memory-vital_s35.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12447,
+      "dur": 330,
       "kind": "image",
       "src": "img/memory-vital_s36.png",
-      "kb": 3,
+      "kb": 4,
       "pip": false
     },
     {
-      "from": 13016,
-      "dur": 320,
+      "from": 12777,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/memory-vital_s36.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12843,
+      "dur": 323,
       "kind": "image",
       "src": "img/memory-vital_s37.png",
-      "kb": 4,
+      "kb": 0,
       "pip": false
     },
     {
-      "from": 13606,
-      "dur": 97,
+      "from": 13436,
+      "dur": 110,
       "kind": "image",
       "src": "img/memory-vital_s39.png",
-      "kb": 5,
+      "kb": 1,
       "pip": false
     },
     {
-      "from": 13703,
-      "dur": 88,
+      "from": 13546,
+      "dur": 107,
       "kind": "image",
       "src": "img/memory-vital_s40.png",
-      "kb": 0,
+      "kb": 2,
       "pip": false
     },
     {
-      "from": 13791,
-      "dur": 183,
+      "from": 13653,
+      "dur": 169,
       "kind": "image",
       "src": "img/memory-vital_s41.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 13974,
-      "dur": 196,
-      "kind": "image",
-      "src": "img/memory-vital_s42.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 14170,
-      "dur": 189,
-      "kind": "image",
-      "src": "img/memory-vital_s43.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 14359,
-      "dur": 330,
+      "from": 13822,
+      "dur": 165,
       "kind": "image",
-      "src": "img/memory-vital_s44.png",
+      "src": "img/memory-vital_s42.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 14689,
-      "dur": 126,
+      "from": 13987,
+      "dur": 206,
       "kind": "image",
-      "src": "img/memory-vital_s44.png",
+      "src": "img/memory-vital_s43.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 14815,
+      "from": 14193,
       "dur": 330,
       "kind": "image",
-      "src": "img/memory-vital_s45.png",
+      "src": "img/memory-vital_s44.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 15145,
-      "dur": 358,
+      "from": 14523,
+      "dur": 148,
       "kind": "image",
-      "src": "img/memory-vital_s45.png",
+      "src": "img/memory-vital_s44.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 15503,
+      "from": 14671,
       "dur": 330,
       "kind": "image",
-      "src": "img/memory-vital_s47.png",
+      "src": "img/memory-vital_s45.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 15833,
-      "dur": 175,
+      "from": 15001,
+      "dur": 366,
       "kind": "image",
-      "src": "img/memory-vital_s47.png",
+      "src": "img/memory-vital_s45.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 16278,
-      "dur": 64,
+      "from": 15367,
+      "dur": 330,
       "kind": "image",
-      "src": "img/memory-vital_s49.png",
+      "src": "img/memory-vital_s47.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 16342,
-      "dur": 181,
+      "from": 15697,
+      "dur": 211,
       "kind": "image",
-      "src": "img/memory-vital_s50.png",
+      "src": "img/memory-vital_s47.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 16523,
+      "from": 16178,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/memory-vital_s49.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16261,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/memory-vital_s50.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16440,
       "dur": 330,
       "kind": "image",
       "src": "img/memory-vital_s51.png",
-      "kb": 0,
+      "kb": 2,
       "pip": false
     },
     {
-      "from": 16853,
-      "dur": 83,
+      "from": 16770,
+      "dur": 89,
       "kind": "image",
       "src": "img/memory-vital_s48.png",
-      "kb": 1,
+      "kb": 3,
       "pip": false
     },
     {
-      "from": 16936,
-      "dur": 359,
+      "from": 16859,
+      "dur": 352,
       "kind": "image",
       "src": "img/memory-vital_s52.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 18345,
-      "dur": 215,
-      "kind": "image",
-      "src": "img/memory-vital_s57.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 18560,
-      "dur": 364,
-      "kind": "image",
-      "src": "img/memory-vital_s58.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 18924,
-      "dur": 338,
-      "kind": "image",
-      "src": "img/memory-vital_s59.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 19262,
-      "dur": 95,
-      "kind": "image",
-      "src": "img/memory-vital_s60.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 19357,
-      "dur": 181,
-      "kind": "image",
-      "src": "img/memory-vital_s61.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 19538,
-      "dur": 268,
-      "kind": "image",
-      "src": "img/memory-vital_s62.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 19806,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/memory-vital_s63.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 20136,
-      "dur": 157,
-      "kind": "image",
-      "src": "img/memory-vital_s63.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 20293,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/memory-vital_s64.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 20623,
-      "dur": 229,
-      "kind": "image",
-      "src": "img/memory-vital_s64.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 20852,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/memory-vital_s65.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 21182,
-      "dur": 268,
-      "kind": "image",
-      "src": "img/memory-vital_s65.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 21450,
-      "dur": 167,
-      "kind": "image",
-      "src": "img/memory-vital_s66.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 21617,
-      "dur": 197,
-      "kind": "image",
-      "src": "img/memory-vital_s67.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 21814,
-      "dur": 60,
-      "kind": "image",
-      "src": "img/memory-vital_s68.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 21874,
-      "dur": 151,
-      "kind": "image",
-      "src": "img/memory-vital_s69.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 22025,
-      "dur": 312,
-      "kind": "image",
-      "src": "img/memory-vital_s70.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 22637,
-      "dur": 137,
-      "kind": "image",
-      "src": "img/memory-vital_s72.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 22774,
-      "dur": 339,
-      "kind": "image",
-      "src": "img/memory-vital_s73.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 23113,
-      "dur": 209,
-      "kind": "image",
-      "src": "img/memory-vital_s74.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 23322,
+      "from": 18261,
       "dur": 207,
       "kind": "image",
-      "src": "img/memory-vital_s75.png",
+      "src": "img/memory-vital_s57.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 23529,
-      "dur": 258,
+      "from": 18468,
+      "dur": 367,
       "kind": "image",
-      "src": "img/memory-vital_s76.png",
+      "src": "img/memory-vital_s58.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 23787,
-      "dur": 317,
+      "from": 18835,
+      "dur": 304,
       "kind": "image",
-      "src": "img/memory-vital_s77.png",
+      "src": "img/memory-vital_s59.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 24104,
-      "dur": 330,
+      "from": 19139,
+      "dur": 92,
       "kind": "image",
-      "src": "img/memory-vital_s78.png",
+      "src": "img/memory-vital_s60.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 24434,
-      "dur": 330,
+      "from": 19231,
+      "dur": 211,
       "kind": "image",
-      "src": "img/memory-vital_s78.png",
+      "src": "img/memory-vital_s61.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 24764,
-      "dur": 228,
+      "from": 19442,
+      "dur": 257,
+      "kind": "image",
+      "src": "img/memory-vital_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19699,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s63.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20029,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/memory-vital_s63.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20196,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s64.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20526,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/memory-vital_s64.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20710,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s65.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21040,
+      "dur": 312,
+      "kind": "image",
+      "src": "img/memory-vital_s65.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21352,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/memory-vital_s66.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21551,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/memory-vital_s67.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21718,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/memory-vital_s68.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21781,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/memory-vital_s69.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21935,
+      "dur": 296,
+      "kind": "image",
+      "src": "img/memory-vital_s70.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22531,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/memory-vital_s72.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22697,
+      "dur": 367,
+      "kind": "image",
+      "src": "img/memory-vital_s73.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23064,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/memory-vital_s74.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23283,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/memory-vital_s75.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23522,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/memory-vital_s76.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23774,
+      "dur": 315,
+      "kind": "image",
+      "src": "img/memory-vital_s77.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24089,
+      "dur": 330,
       "kind": "image",
       "src": "img/memory-vital_s78.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 24992,
-      "dur": 204,
+      "from": 24419,
+      "dur": 330,
       "kind": "image",
-      "src": "img/memory-vital_s79.png",
+      "src": "img/memory-vital_s78.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 25196,
-      "dur": 330,
+      "from": 24749,
+      "dur": 195,
       "kind": "image",
-      "src": "img/memory-vital_s80.png",
+      "src": "img/memory-vital_s78.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 25526,
-      "dur": 118,
+      "from": 24944,
+      "dur": 203,
       "kind": "image",
-      "src": "img/memory-vital_s80.png",
+      "src": "img/memory-vital_s79.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 25644,
-      "dur": 303,
+      "from": 25147,
+      "dur": 330,
       "kind": "image",
-      "src": "img/memory-vital_s81.png",
+      "src": "img/memory-vital_s80.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 26127,
+      "from": 25477,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/memory-vital_s80.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25605,
+      "dur": 278,
+      "kind": "image",
+      "src": "img/memory-vital_s81.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26063,
       "dur": 330,
       "kind": "image",
       "src": "img/memory-vital_s83.png",
-      "kb": 3,
+      "kb": 5,
       "pip": false
     },
     {
-      "from": 26457,
-      "dur": 133,
+      "from": 26393,
+      "dur": 177,
       "kind": "image",
       "src": "img/memory-vital_s82.png",
-      "kb": 4,
+      "kb": 0,
       "pip": false
     },
     {
-      "from": 26590,
-      "dur": 260,
+      "from": 26570,
+      "dur": 232,
       "kind": "image",
       "src": "img/memory-vital_s85.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 26850,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/memory-vital_s86.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 27180,
-      "dur": 98,
-      "kind": "image",
-      "src": "img/memory-vital_s86.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 27278,
-      "dur": 241,
+      "from": 26802,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s86.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27132,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/memory-vital_s86.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27257,
+      "dur": 218,
       "kind": "image",
       "src": "img/memory-vital_s87.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 27519,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/memory-vital_s88.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 27849,
-      "dur": 198,
-      "kind": "image",
-      "src": "img/memory-vital_s88.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 28047,
-      "dur": 307,
+      "from": 27475,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s88.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27805,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/memory-vital_s88.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27999,
+      "dur": 287,
       "kind": "image",
       "src": "img/memory-vital_s89.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 28354,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/memory-vital_s90.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 28684,
-      "dur": 164,
-      "kind": "image",
-      "src": "img/memory-vital_s90.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 28848,
+      "from": 28286,
       "dur": 330,
       "kind": "image",
-      "src": "img/memory-vital_s91.png",
+      "src": "img/memory-vital_s90.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 29178,
-      "dur": 267,
+      "from": 28616,
+      "dur": 155,
       "kind": "image",
-      "src": "img/memory-vital_s91.png",
+      "src": "img/memory-vital_s90.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 29445,
-      "dur": 179,
+      "from": 28771,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s91.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29101,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/memory-vital_s91.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29341,
+      "dur": 172,
       "kind": "image",
       "src": "img/memory-vital_s92.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 29864,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/memory-vital_s93.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 30194,
-      "dur": 142,
-      "kind": "image",
-      "src": "img/memory-vital_s93.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 30336,
+      "from": 29753,
       "dur": 330,
       "kind": "image",
-      "src": "img/memory-vital_s94.png",
+      "src": "img/memory-vital_s93.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 30666,
-      "dur": 88,
+      "from": 30083,
+      "dur": 115,
       "kind": "image",
-      "src": "img/memory-vital_s94.png",
+      "src": "img/memory-vital_s93.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 30754,
-      "dur": 366,
+      "from": 30198,
+      "dur": 330,
       "kind": "image",
-      "src": "img/memory-vital_s95.png",
+      "src": "img/memory-vital_s94.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 31120,
-      "dur": 171,
+      "from": 30528,
+      "dur": 109,
       "kind": "image",
-      "src": "img/memory-vital_s96.png",
+      "src": "img/memory-vital_s94.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 31587,
-      "dur": 330,
+      "from": 30637,
+      "dur": 369,
       "kind": "image",
-      "src": "img/memory-vital_s97.png",
+      "src": "img/memory-vital_s95.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 31917,
-      "dur": 330,
+      "from": 31006,
+      "dur": 191,
       "kind": "image",
-      "src": "img/memory-vital_s97.png",
+      "src": "img/memory-vital_s96.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 32247,
-      "dur": 139,
+      "from": 31504,
+      "dur": 330,
       "kind": "image",
       "src": "img/memory-vital_s97.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 32656,
-      "dur": 102,
+      "from": 31834,
+      "dur": 330,
       "kind": "image",
-      "src": "img/memory-vital_s99.png",
+      "src": "img/memory-vital_s97.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 32758,
+      "from": 32164,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/memory-vital_s97.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32620,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/memory-vital_s99.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32762,
       "dur": 330,
       "kind": "image",
       "src": "img/memory-vital_s100.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 33088,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/memory-vital_s98.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 33418,
-      "dur": 287,
-      "kind": "image",
-      "src": "img/memory-vital_s98.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 33705,
-      "dur": 277,
+      "from": 33092,
+      "dur": 330,
       "kind": "image",
-      "src": "img/memory-vital_s101.png",
+      "src": "img/memory-vital_s98.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 33982,
-      "dur": 330,
+      "from": 33422,
+      "dur": 316,
       "kind": "image",
-      "src": "img/memory-vital_s102.png",
+      "src": "img/memory-vital_s98.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 34312,
-      "dur": 324,
+      "from": 33738,
+      "dur": 301,
       "kind": "image",
-      "src": "img/memory-vital_s102.png",
+      "src": "img/memory-vital_s101.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 34636,
+      "from": 34039,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s102.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34369,
+      "dur": 336,
+      "kind": "image",
+      "src": "img/memory-vital_s102.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 34705,
       "dur": 291,
       "kind": "image",
       "src": "img/memory-vital_s103.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 34927,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/memory-vital_s104.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 35257,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/memory-vital_s104.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 35587,
+      "from": 34996,
       "dur": 330,
       "kind": "image",
       "src": "img/memory-vital_s104.png",
@@ -1056,7 +1056,7 @@
       "pip": false
     },
     {
-      "from": 35917,
+      "from": 35326,
       "dur": 330,
       "kind": "image",
       "src": "img/memory-vital_s104.png",
@@ -1064,17 +1064,41 @@
       "pip": false
     },
     {
-      "from": 36247,
-      "dur": 247,
+      "from": 35656,
+      "dur": 330,
       "kind": "image",
       "src": "img/memory-vital_s104.png",
       "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 35986,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/memory-vital_s104.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 36316,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/memory-vital_s104.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 37586,
+      "dur": 41,
+      "kind": "image",
+      "src": "img/memory-vital_s71.png",
+      "kb": 5,
       "pip": false
     }
   ],
   "overlays": [
     {
-      "from": 2144,
+      "from": 2109,
       "dur": 150,
       "comp": "LowerThird",
       "props": {
@@ -1085,7 +1109,7 @@
       }
     },
     {
-      "from": 3293,
+      "from": 3272,
       "dur": 114,
       "comp": "KeywordPop",
       "props": {
@@ -1096,7 +1120,7 @@
       }
     },
     {
-      "from": 4884,
+      "from": 4802,
       "dur": 114,
       "comp": "KeywordPop",
       "props": {
@@ -1107,19 +1131,19 @@
       }
     },
     {
-      "from": 6698,
+      "from": 6615,
       "dur": 210,
       "comp": "QRTag",
       "props": {
         "theme": "clinic",
         "corner": "bl",
         "src": "img/qr_vital.png",
-        "eyebrow": "SCAN FOR THE FREE GUIDE",
-        "label": "The Natural Wellness Method"
+        "eyebrow": "SCAN TO SEE THE GUIDES",
+        "label": "The Vital After 60 Playbook"
       }
     },
     {
-      "from": 7433,
+      "from": 7226,
       "dur": 150,
       "comp": "LowerThird",
       "props": {
@@ -1130,7 +1154,7 @@
       }
     },
     {
-      "from": 8594,
+      "from": 8352,
       "dur": 150,
       "comp": "LowerThird",
       "props": {
@@ -1141,7 +1165,7 @@
       }
     },
     {
-      "from": 9194,
+      "from": 8926,
       "dur": 150,
       "comp": "LowerThird",
       "props": {
@@ -1152,7 +1176,7 @@
       }
     },
     {
-      "from": 9979,
+      "from": 9706,
       "dur": 150,
       "comp": "LowerThird",
       "props": {
@@ -1163,7 +1187,7 @@
       }
     },
     {
-      "from": 10424,
+      "from": 10163,
       "dur": 150,
       "comp": "LowerThird",
       "props": {
@@ -1174,7 +1198,7 @@
       }
     },
     {
-      "from": 11118,
+      "from": 10858,
       "dur": 150,
       "comp": "LowerThird",
       "props": {
@@ -1185,7 +1209,7 @@
       }
     },
     {
-      "from": 11735,
+      "from": 11484,
       "dur": 150,
       "comp": "LowerThird",
       "props": {
@@ -1196,7 +1220,7 @@
       }
     },
     {
-      "from": 12204,
+      "from": 11993,
       "dur": 150,
       "comp": "LowerThird",
       "props": {
@@ -1207,19 +1231,19 @@
       }
     },
     {
-      "from": 17484,
+      "from": 17399,
       "dur": 210,
       "comp": "QRTag",
       "props": {
         "theme": "clinic",
         "corner": "bl",
         "src": "img/qr_vital.png",
-        "eyebrow": "SCAN FOR THE FREE GUIDE",
-        "label": "The Natural Wellness Method"
+        "eyebrow": "SCAN TO SEE THE GUIDES",
+        "label": "The Vital After 60 Playbook"
       }
     },
     {
-      "from": 18560,
+      "from": 18468,
       "dur": 150,
       "comp": "Callout",
       "props": {
@@ -1231,7 +1255,7 @@
       }
     },
     {
-      "from": 18924,
+      "from": 18835,
       "dur": 165,
       "comp": "IconRow",
       "props": {
@@ -1253,13 +1277,25 @@
       }
     },
     {
-      "from": 20414,
+      "from": 20239,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN TO SEE THE GUIDES",
+        "label": "The Vital After 60 Playbook"
+      }
+    },
+    {
+      "from": 20322,
       "dur": 180,
       "comp": "SplitInfo",
       "props": {
         "theme": "clinic",
         "eyebrow": "In the guide",
-        "title": "The Natural Wellness Method",
+        "title": "The Vital After 60 Playbook",
         "items": [
           "The 8 medicine types",
           "A printable question sheet",
@@ -1268,19 +1304,7 @@
       }
     },
     {
-      "from": 20758,
-      "dur": 210,
-      "comp": "QRTag",
-      "props": {
-        "theme": "clinic",
-        "corner": "bl",
-        "src": "img/qr_vital.png",
-        "eyebrow": "SCAN FOR THE FREE GUIDE",
-        "label": "The Natural Wellness Method"
-      }
-    },
-    {
-      "from": 26850,
+      "from": 26802,
       "dur": 150,
       "comp": "MarcaCirculo",
       "props": {
@@ -1293,7 +1317,7 @@
       }
     },
     {
-      "from": 30336,
+      "from": 30198,
       "dur": 135,
       "comp": "SelloError",
       "props": {
@@ -1304,7 +1328,7 @@
       }
     },
     {
-      "from": 30754,
+      "from": 30637,
       "dur": 135,
       "comp": "SelloError",
       "props": {
@@ -1315,7 +1339,7 @@
       }
     },
     {
-      "from": 31579,
+      "from": 31496,
       "dur": 180,
       "comp": "Callout",
       "props": {
@@ -1327,7 +1351,7 @@
       }
     },
     {
-      "from": 33982,
+      "from": 34039,
       "dur": 180,
       "comp": "Callout",
       "props": {
@@ -1339,7 +1363,7 @@
       }
     },
     {
-      "from": 34636,
+      "from": 34705,
       "dur": 150,
       "comp": "Callout",
       "props": {
@@ -1351,21 +1375,21 @@
       }
     },
     {
-      "from": 37048,
+      "from": 37155,
       "dur": 210,
       "comp": "QRTag",
       "props": {
         "theme": "clinic",
         "corner": "bl",
         "src": "img/qr_vital.png",
-        "eyebrow": "SCAN FOR THE FREE GUIDE",
-        "label": "The Natural Wellness Method"
+        "eyebrow": "SCAN TO SEE THE GUIDES",
+        "label": "The Vital After 60 Playbook"
       }
     }
   ],
   "components": [
     {
-      "from": 2994,
+      "from": 2949,
       "dur": 270,
       "comp": "Checklist",
       "props": {
@@ -1379,7 +1403,7 @@
       }
     },
     {
-      "from": 5051,
+      "from": 4981,
       "dur": 240,
       "comp": "MythVsTruth",
       "props": {
@@ -1389,7 +1413,7 @@
       }
     },
     {
-      "from": 13336,
+      "from": 13166,
       "dur": 270,
       "comp": "TicketPrecio",
       "props": {
@@ -1426,7 +1450,7 @@
       }
     },
     {
-      "from": 16008,
+      "from": 15908,
       "dur": 270,
       "comp": "Checklist",
       "props": {
@@ -1442,7 +1466,7 @@
       }
     },
     {
-      "from": 22337,
+      "from": 22231,
       "dur": 300,
       "comp": "Timeline",
       "props": {
@@ -1469,7 +1493,7 @@
       }
     },
     {
-      "from": 25947,
+      "from": 25883,
       "dur": 180,
       "comp": "PolaroidRecuerdo",
       "props": {
@@ -1480,7 +1504,7 @@
       }
     },
     {
-      "from": 29624,
+      "from": 29513,
       "dur": 240,
       "comp": "MythVsTruth",
       "props": {
@@ -1490,7 +1514,7 @@
       }
     },
     {
-      "from": 32386,
+      "from": 32350,
       "dur": 270,
       "comp": "Steps",
       "props": {
