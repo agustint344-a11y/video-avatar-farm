@@ -3,7 +3,7 @@
   "fps": 30,
   "width": 1920,
   "height": 1080,
-  "durationInFrames": 17865,
+  "durationInFrames": 18636,
   "audioSrc": "nonna-berenjena.mp3",
   "avatarSrc": "nonna-berenjena_avatar.mp4",
   "avatarSegs": [
@@ -14,13 +14,18 @@
     },
     {
       "from": 5730,
-      "dur": 1050,
+      "dur": 509,
       "clip": 2010
     },
     {
-      "from": 16710,
-      "dur": 1116,
-      "clip": 3060
+      "from": 6943,
+      "dur": 56,
+      "clip": 2519
+    },
+    {
+      "from": 17810,
+      "dur": 788,
+      "clip": 2575
     }
   ],
   "broll": [
@@ -169,327 +174,327 @@
       "pip": false
     },
     {
-      "from": 6780,
-      "dur": 60,
+      "from": 6239,
+      "dur": 118,
       "kind": "video",
       "src": "broll/nonna-berenjena_v_s08.mp4",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 6840,
+      "from": 6807,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s38.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6999,
+      "dur": 59,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s04.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7058,
       "dur": 210,
       "kind": "image",
       "src": "img/nonna-berenjena_s14.png",
-      "kb": 1,
+      "kb": 3,
       "pip": false
     },
     {
-      "from": 7050,
+      "from": 7268,
       "dur": 300,
       "kind": "image",
       "src": "img/nonna-berenjena_s45.png",
-      "kb": 2,
+      "kb": 4,
       "pip": false
     },
     {
-      "from": 7350,
+      "from": 7568,
       "dur": 270,
       "kind": "image",
       "src": "img/nonna-berenjena_s46.png",
-      "kb": 3,
+      "kb": 5,
       "pip": false
     },
     {
-      "from": 7770,
+      "from": 7988,
       "dur": 150,
       "kind": "video",
       "src": "broll/nonna-berenjena_v_s15.mp4",
-      "kb": 4,
+      "kb": 0,
       "pip": false
     },
     {
-      "from": 7920,
+      "from": 8138,
       "dur": 210,
       "kind": "image",
       "src": "img/nonna-berenjena_s47.png",
-      "kb": 5,
+      "kb": 1,
       "pip": false
     },
     {
-      "from": 8340,
+      "from": 8558,
       "dur": 330,
       "kind": "image",
       "src": "img/nonna-berenjena_s16.png",
-      "kb": 0,
+      "kb": 2,
       "pip": false
     },
     {
-      "from": 8670,
+      "from": 8888,
       "dur": 240,
       "kind": "image",
       "src": "img/nonna-berenjena_s16.png",
-      "kb": 1,
+      "kb": 3,
       "pip": false
     },
     {
-      "from": 8910,
+      "from": 9128,
       "dur": 120,
       "kind": "image",
       "src": "img/nonna-berenjena_s17.png",
-      "kb": 2,
+      "kb": 4,
       "pip": false
     },
     {
-      "from": 9030,
+      "from": 9248,
       "dur": 210,
       "kind": "image",
       "src": "img/nonna-berenjena_s48.png",
-      "kb": 3,
+      "kb": 5,
       "pip": false
     },
     {
-      "from": 9240,
+      "from": 9458,
       "dur": 90,
       "kind": "video",
       "src": "broll/nonna-berenjena_v_s18.mp4",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 9330,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/nonna-berenjena_s49.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 9660,
-      "dur": 90,
-      "kind": "image",
-      "src": "img/nonna-berenjena_s49.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 9750,
+      "from": 9548,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s49.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9878,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s49.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9968,
       "dur": 180,
       "kind": "image",
       "src": "img/nonna-berenjena_s50.png",
-      "kb": 1,
+      "kb": 3,
       "pip": false
     },
     {
-      "from": 9930,
+      "from": 10148,
       "dur": 270,
       "kind": "image",
       "src": "img/nonna-berenjena_s20.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 10470,
-      "dur": 174,
-      "kind": "video",
-      "src": "broll/nonna-berenjena_v_s21.mp4",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 10644,
-      "dur": 174,
-      "kind": "video",
-      "src": "broll/nonna-berenjena_v_s21.mp4",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 10818,
+      "from": 10688,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/nonna-berenjena_v_s21.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10862,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/nonna-berenjena_v_s21.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11036,
       "dur": 192,
       "kind": "video",
       "src": "broll/nonna-berenjena_v_s21.mp4",
-      "kb": 5,
+      "kb": 1,
       "pip": false
     },
     {
-      "from": 11010,
+      "from": 11228,
       "dur": 60,
       "kind": "image",
       "src": "img/nonna-berenjena_s22.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 11070,
-      "dur": 113,
-      "kind": "image",
-      "src": "img/nonna-berenjena_s51.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 11183,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/nonna-berenjena_s23.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 11513,
-      "dur": 67,
+      "from": 11288,
+      "dur": 258,
       "kind": "image",
-      "src": "img/nonna-berenjena_s23.png",
+      "src": "img/nonna-berenjena_s51.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 11580,
-      "dur": 330,
+      "from": 11756,
+      "dur": 324,
       "kind": "image",
-      "src": "img/nonna-berenjena_s24.png",
+      "src": "img/nonna-berenjena_s23.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 11910,
+      "from": 12080,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s24.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12410,
       "dur": 93,
       "kind": "image",
       "src": "img/nonna-berenjena_s24.png",
-      "kb": 5,
+      "kb": 0,
       "pip": false
     },
     {
-      "from": 12003,
+      "from": 12503,
       "dur": 237,
       "kind": "image",
       "src": "img/nonna-berenjena_s52.png",
-      "kb": 0,
+      "kb": 1,
       "pip": false
     },
     {
-      "from": 12240,
+      "from": 12740,
       "dur": 180,
       "kind": "image",
       "src": "img/nonna-berenjena_s25.png",
-      "kb": 1,
+      "kb": 2,
       "pip": false
     },
     {
-      "from": 12420,
+      "from": 12920,
       "dur": 300,
       "kind": "image",
       "src": "img/nonna-berenjena_s26.png",
-      "kb": 2,
+      "kb": 3,
       "pip": false
     },
     {
-      "from": 12720,
+      "from": 13220,
       "dur": 300,
       "kind": "image",
       "src": "img/nonna-berenjena_s53.png",
-      "kb": 3,
+      "kb": 4,
       "pip": false
     },
     {
-      "from": 13020,
+      "from": 13520,
       "dur": 270,
       "kind": "image",
       "src": "img/nonna-berenjena_s27.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 13290,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/nonna-berenjena_s28.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 13620,
-      "dur": 180,
+      "from": 13790,
+      "dur": 330,
       "kind": "image",
       "src": "img/nonna-berenjena_s28.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 13800,
+      "from": 14120,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s28.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14300,
       "dur": 180,
       "kind": "image",
       "src": "img/nonna-berenjena_s54.png",
-      "kb": 1,
+      "kb": 2,
       "pip": false
     },
     {
-      "from": 14160,
+      "from": 14660,
       "dur": 174,
       "kind": "video",
       "src": "broll/nonna-berenjena_v_s29.mp4",
-      "kb": 2,
+      "kb": 3,
       "pip": false
     },
     {
-      "from": 14334,
+      "from": 14834,
       "dur": 66,
       "kind": "video",
       "src": "broll/nonna-berenjena_v_s29.mp4",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 14400,
-      "dur": 150,
-      "kind": "image",
-      "src": "img/nonna-berenjena_s55.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 14550,
+      "from": 14900,
       "dur": 150,
       "kind": "image",
-      "src": "img/nonna-berenjena_s30.png",
+      "src": "img/nonna-berenjena_s55.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 14700,
-      "dur": 270,
+      "from": 15050,
+      "dur": 150,
       "kind": "image",
-      "src": "img/nonna-berenjena_s31.png",
+      "src": "img/nonna-berenjena_s30.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 14970,
-      "dur": 180,
+      "from": 15200,
+      "dur": 270,
       "kind": "image",
-      "src": "img/nonna-berenjena_s56.png",
+      "src": "img/nonna-berenjena_s31.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 15150,
-      "dur": 90,
+      "from": 15470,
+      "dur": 180,
       "kind": "image",
-      "src": "img/nonna-berenjena_s57.png",
+      "src": "img/nonna-berenjena_s56.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 15240,
-      "dur": 330,
+      "from": 15650,
+      "dur": 90,
       "kind": "image",
-      "src": "img/nonna-berenjena_s32.png",
+      "src": "img/nonna-berenjena_s57.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 15570,
+      "from": 15740,
       "dur": 330,
       "kind": "image",
       "src": "img/nonna-berenjena_s32.png",
@@ -497,27 +502,43 @@
       "pip": false
     },
     {
-      "from": 15900,
-      "dur": 120,
+      "from": 16070,
+      "dur": 330,
       "kind": "image",
       "src": "img/nonna-berenjena_s32.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 16440,
-      "dur": 270,
+      "from": 16400,
+      "dur": 120,
       "kind": "image",
-      "src": "img/nonna-berenjena_s33.png",
+      "src": "img/nonna-berenjena_s32.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 17826,
-      "dur": 39,
+      "from": 16940,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s33.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17270,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/nonna-berenjena_s33.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18598,
+      "dur": 38,
       "kind": "image",
       "src": "img/nonna-berenjena_s35.png",
-      "kb": 1,
+      "kb": 3,
       "pip": false
     }
   ],
@@ -560,13 +581,13 @@
       "props": {
         "theme": "earth",
         "corner": "bl",
-        "src": "img/qr_nonna.png",
+        "src": "img/qr_guia_nonna.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "El Cuaderno de la Nonna"
+        "label": "Las guías de la Nonna"
       }
     },
     {
-      "from": 6840,
+      "from": 7058,
       "dur": 135,
       "comp": "SelloError",
       "props": {
@@ -576,7 +597,7 @@
       }
     },
     {
-      "from": 8910,
+      "from": 9128,
       "dur": 135,
       "comp": "SelloError",
       "props": {
@@ -586,7 +607,7 @@
       }
     },
     {
-      "from": 9503,
+      "from": 9720,
       "dur": 135,
       "comp": "SelloError",
       "props": {
@@ -596,7 +617,7 @@
       }
     },
     {
-      "from": 10770,
+      "from": 10988,
       "dur": 210,
       "comp": "TimerCocina",
       "props": {
@@ -606,7 +627,7 @@
       }
     },
     {
-      "from": 12090,
+      "from": 12590,
       "dur": 135,
       "comp": "SectionTitle",
       "props": {
@@ -616,39 +637,39 @@
       }
     },
     {
-      "from": 12090,
+      "from": 12590,
       "dur": 210,
       "comp": "QRTag",
       "props": {
         "theme": "earth",
         "corner": "bl",
-        "src": "img/qr_nonna.png",
+        "src": "img/qr_guia_nonna.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "El Cuaderno de la Nonna"
+        "label": "Las guías de la Nonna"
       }
     },
     {
-      "from": 15240,
+      "from": 15740,
       "dur": 210,
       "comp": "QRTag",
       "props": {
         "theme": "earth",
         "corner": "bl",
-        "src": "img/qr_nonna.png",
+        "src": "img/qr_guia_nonna.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "El Cuaderno de la Nonna"
+        "label": "Las guías de la Nonna"
       }
     },
     {
-      "from": 16710,
+      "from": 17212,
       "dur": 210,
       "comp": "QRTag",
       "props": {
         "theme": "earth",
         "corner": "bl",
-        "src": "img/qr_nonna.png",
+        "src": "img/qr_guia_nonna.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "El Cuaderno de la Nonna"
+        "label": "Las guías de la Nonna"
       }
     }
   ],
@@ -693,7 +714,25 @@
       }
     },
     {
-      "from": 7620,
+      "from": 6357,
+      "dur": 450,
+      "comp": "GuiasNonna",
+      "props": {
+        "theme": "earth",
+        "covers": [
+          "img/guias/nonna-recetario.jpg",
+          "img/guias/nonna-masas.jpg"
+        ],
+        "labels": [
+          "El Gran Recetario",
+          "El Libro de las Masas"
+        ],
+        "title": "Mi cuaderno, en limpio",
+        "qr": "img/qr_guia_nonna.png"
+      }
+    },
+    {
+      "from": 7838,
       "dur": 150,
       "comp": "PhraseCard",
       "props": {
@@ -705,7 +744,7 @@
       }
     },
     {
-      "from": 8130,
+      "from": 8348,
       "dur": 210,
       "comp": "Callout",
       "props": {
@@ -717,7 +756,7 @@
       }
     },
     {
-      "from": 10200,
+      "from": 10418,
       "dur": 270,
       "comp": "Compare",
       "props": {
@@ -734,7 +773,20 @@
       }
     },
     {
-      "from": 13980,
+      "from": 11546,
+      "dur": 210,
+      "comp": "GuiasNonna",
+      "props": {
+        "theme": "earth",
+        "covers": [
+          "img/guias/nonna-recetario.jpg"
+        ],
+        "title": "El Gran Recetario de la Nonna",
+        "qr": "img/qr_guia_nonna.png"
+      }
+    },
+    {
+      "from": 14480,
       "dur": 180,
       "comp": "PhraseCard",
       "props": {
@@ -746,7 +798,7 @@
       }
     },
     {
-      "from": 16020,
+      "from": 16520,
       "dur": 420,
       "comp": "Checklist",
       "props": {
@@ -761,6 +813,27 @@
           "O al horno / a la plancha"
         ],
         "stamp": "¡Anótalo!"
+      }
+    },
+    {
+      "from": 17500,
+      "dur": 310,
+      "comp": "GuiasNonna",
+      "props": {
+        "theme": "earth",
+        "covers": [
+          "img/guias/nonna-recetario.jpg",
+          "img/guias/nonna-masas.jpg",
+          "img/guias/nonna-kit.jpg"
+        ],
+        "labels": [
+          "Recetario",
+          "Masas",
+          "La Colección"
+        ],
+        "focus": 2,
+        "title": "Los dos juntos: la Colección",
+        "qr": "img/qr_guia_nonna.png"
       }
     }
   ]
