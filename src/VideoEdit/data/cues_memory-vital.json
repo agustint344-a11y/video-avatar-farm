@@ -1139,7 +1139,8 @@
         "corner": "bl",
         "src": "img/qr_vital.png",
         "eyebrow": "SCAN TO SEE THE GUIDES",
-        "label": "The Vital After 60 Playbook"
+        "label": "The Vital After 60 Playbook",
+        "hint": "point your phone camera 📷"
       }
     },
     {
@@ -1239,7 +1240,8 @@
         "corner": "bl",
         "src": "img/qr_vital.png",
         "eyebrow": "SCAN TO SEE THE GUIDES",
-        "label": "The Vital After 60 Playbook"
+        "label": "The Vital After 60 Playbook",
+        "hint": "point your phone camera 📷"
       }
     },
     {
@@ -1285,7 +1287,8 @@
         "corner": "bl",
         "src": "img/qr_vital.png",
         "eyebrow": "SCAN TO SEE THE GUIDES",
-        "label": "The Vital After 60 Playbook"
+        "label": "The Vital After 60 Playbook",
+        "hint": "point your phone camera 📷"
       }
     },
     {
@@ -1383,7 +1386,8 @@
         "corner": "bl",
         "src": "img/qr_vital.png",
         "eyebrow": "SCAN TO SEE THE GUIDES",
-        "label": "The Vital After 60 Playbook"
+        "label": "The Vital After 60 Playbook",
+        "hint": "point your phone camera 📷"
       }
     }
   ],
@@ -1408,6 +1412,8 @@
       "comp": "MythVsTruth",
       "props": {
         "theme": "clinic",
+        "mythLabel": "Myth",
+        "truthLabel": "Truth",
         "myth": "One pill at a time cannot do much.",
         "truth": "The memory-blocking effect ADDS UP. Two, three or four such pills together build a load linked to more confusion and memory problems."
       }
@@ -1509,6 +1515,8 @@
       "comp": "MythVsTruth",
       "props": {
         "theme": "clinic",
+        "mythLabel": "Myth",
+        "truthLabel": "Truth",
         "myth": "Memory loss always means dementia is starting.",
         "truth": "Many causes are treatable: medicines, poor sleep, depression, hearing loss, thyroid, low B12, infections, dehydration."
       }
