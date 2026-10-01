@@ -3,24 +3,29 @@
   "fps": 30,
   "width": 1920,
   "height": 1080,
-  "durationInFrames": 18735,
+  "durationInFrames": 19530,
   "audioSrc": "nonna-pizza.mp3",
   "avatarSrc": "nonna-pizza_avatar.mp4",
   "avatarSegs": [
     {
       "from": 5520,
-      "dur": 1050,
+      "dur": 479,
       "clip": 0
     },
     {
-      "from": 15900,
-      "dur": 613,
-      "clip": 1050
+      "from": 6707,
+      "dur": 91,
+      "clip": 479
     },
     {
-      "from": 17250,
-      "dur": 1441,
-      "clip": 1663
+      "from": 16436,
+      "dur": 613,
+      "clip": 570
+    },
+    {
+      "from": 18404,
+      "dur": 1077,
+      "clip": 1183
     }
   ],
   "broll": [
@@ -233,223 +238,223 @@
       "pip": false
     },
     {
-      "from": 6570,
+      "from": 5999,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/nonna-pizza_s49.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6568,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/nonna-pizza_s49.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6798,
       "dur": 150,
       "kind": "image",
       "src": "img/nonna-pizza_s14.png",
-      "kb": 2,
+      "kb": 4,
       "pip": false
     },
     {
-      "from": 6720,
+      "from": 6948,
       "dur": 150,
       "kind": "image",
       "src": "img/nonna-pizza_s15.png",
-      "kb": 3,
+      "kb": 5,
       "pip": false
     },
     {
-      "from": 6870,
+      "from": 7098,
       "dur": 210,
       "kind": "image",
       "src": "img/nonna-pizza_s50.png",
-      "kb": 4,
+      "kb": 0,
       "pip": false
     },
     {
-      "from": 7230,
+      "from": 7458,
       "dur": 240,
       "kind": "image",
       "src": "img/nonna-pizza_s16.png",
-      "kb": 5,
+      "kb": 1,
       "pip": false
     },
     {
-      "from": 7470,
+      "from": 7698,
       "dur": 174,
       "kind": "video",
       "src": "broll/nonna-pizza_v_s17.mp4",
-      "kb": 0,
+      "kb": 2,
       "pip": false
     },
     {
-      "from": 7644,
+      "from": 7872,
       "dur": 246,
       "kind": "image",
       "src": "img/nonna-pizza_s51.png",
-      "kb": 1,
+      "kb": 3,
       "pip": false
     },
     {
-      "from": 8250,
+      "from": 8478,
       "dur": 180,
       "kind": "image",
       "src": "img/nonna-pizza_s53.png",
-      "kb": 2,
+      "kb": 4,
       "pip": false
     },
     {
-      "from": 8430,
+      "from": 8658,
       "dur": 174,
       "kind": "video",
       "src": "broll/nonna-pizza_v_s19.mp4",
-      "kb": 3,
+      "kb": 5,
       "pip": false
     },
     {
-      "from": 8604,
+      "from": 8832,
       "dur": 126,
       "kind": "image",
       "src": "img/nonna-pizza_s18.png",
-      "kb": 4,
+      "kb": 0,
       "pip": false
     },
     {
-      "from": 8730,
+      "from": 8958,
       "dur": 180,
       "kind": "video",
       "src": "broll/nonna-pizza_v_s20.mp4",
-      "kb": 5,
+      "kb": 1,
       "pip": false
     },
     {
-      "from": 8910,
+      "from": 9138,
       "dur": 360,
       "kind": "image",
       "src": "img/nonna-pizza_s54.png",
-      "kb": 0,
+      "kb": 2,
       "pip": false
     },
     {
-      "from": 9270,
+      "from": 9498,
       "dur": 300,
       "kind": "image",
       "src": "img/nonna-pizza_s21.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 9570,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/nonna-pizza_s22.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 9900,
-      "dur": 120,
-      "kind": "image",
-      "src": "img/nonna-pizza_s22.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 10020,
-      "dur": 174,
-      "kind": "video",
-      "src": "broll/nonna-pizza_v_s23.mp4",
+      "from": 9798,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pizza_s22.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 10194,
+      "from": 10128,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-pizza_s22.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10248,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/nonna-pizza_v_s23.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10422,
       "dur": 66,
       "kind": "video",
       "src": "broll/nonna-pizza_v_s23.mp4",
-      "kb": 5,
+      "kb": 1,
       "pip": false
     },
     {
-      "from": 10260,
+      "from": 10488,
       "dur": 60,
       "kind": "image",
       "src": "img/nonna-pizza_s55.png",
-      "kb": 0,
+      "kb": 2,
       "pip": false
     },
     {
-      "from": 10320,
+      "from": 10548,
       "dur": 174,
       "kind": "video",
       "src": "broll/nonna-pizza_v_s24.mp4",
-      "kb": 1,
+      "kb": 3,
       "pip": false
     },
     {
-      "from": 10494,
+      "from": 10722,
       "dur": 216,
       "kind": "video",
       "src": "broll/nonna-pizza_v_s24.mp4",
-      "kb": 2,
+      "kb": 4,
       "pip": false
     },
     {
-      "from": 10710,
+      "from": 10938,
       "dur": 270,
       "kind": "image",
       "src": "img/nonna-pizza_s25.png",
-      "kb": 3,
+      "kb": 5,
       "pip": false
     },
     {
-      "from": 10980,
-      "dur": 240,
+      "from": 11208,
+      "dur": 243,
       "kind": "image",
       "src": "img/nonna-pizza_s56.png",
-      "kb": 4,
+      "kb": 0,
       "pip": false
     },
     {
-      "from": 11220,
+      "from": 11661,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/nonna-pizza_s56.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11756,
       "dur": 180,
       "kind": "video",
       "src": "broll/nonna-pizza_v_s26.mp4",
-      "kb": 5,
+      "kb": 2,
       "pip": false
     },
     {
-      "from": 11400,
+      "from": 11936,
       "dur": 210,
       "kind": "image",
       "src": "img/nonna-pizza_s27.png",
-      "kb": 0,
+      "kb": 3,
       "pip": false
     },
     {
-      "from": 11610,
+      "from": 12146,
       "dur": 90,
       "kind": "image",
       "src": "img/nonna-pizza_s57.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 11700,
-      "dur": 174,
-      "kind": "video",
-      "src": "broll/nonna-pizza_v_s28.mp4",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 11874,
-      "dur": 174,
-      "kind": "video",
-      "src": "broll/nonna-pizza_v_s28.mp4",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 12048,
-      "dur": 174,
-      "kind": "video",
-      "src": "broll/nonna-pizza_v_s28.mp4",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 12222,
+      "from": 12236,
       "dur": 174,
       "kind": "video",
       "src": "broll/nonna-pizza_v_s28.mp4",
@@ -457,7 +462,7 @@
       "pip": false
     },
     {
-      "from": 12396,
+      "from": 12410,
       "dur": 174,
       "kind": "video",
       "src": "broll/nonna-pizza_v_s28.mp4",
@@ -465,147 +470,179 @@
       "pip": false
     },
     {
-      "from": 12570,
+      "from": 12584,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/nonna-pizza_v_s28.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12758,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/nonna-pizza_v_s28.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12932,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/nonna-pizza_v_s28.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13106,
       "dur": 90,
       "kind": "video",
       "src": "broll/nonna-pizza_v_s28.mp4",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 12660,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/nonna-pizza_s29.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 12990,
-      "dur": 184,
-      "kind": "image",
-      "src": "img/nonna-pizza_s29.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 13174,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/nonna-pizza_s30.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 13504,
-      "dur": 146,
+      "from": 13196,
+      "dur": 330,
       "kind": "image",
-      "src": "img/nonna-pizza_s30.png",
+      "src": "img/nonna-pizza_s29.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 13650,
+      "from": 13526,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/nonna-pizza_s29.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13709,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pizza_s30.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14039,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/nonna-pizza_s30.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14186,
       "dur": 120,
       "kind": "image",
       "src": "img/nonna-pizza_s58.png",
-      "kb": 0,
+      "kb": 3,
       "pip": false
     },
     {
-      "from": 13770,
+      "from": 14306,
       "dur": 128,
       "kind": "image",
       "src": "img/nonna-pizza_s31.png",
-      "kb": 1,
+      "kb": 4,
       "pip": false
     },
     {
-      "from": 13898,
+      "from": 14434,
       "dur": 330,
       "kind": "image",
       "src": "img/nonna-pizza_s59.png",
-      "kb": 2,
+      "kb": 5,
       "pip": false
     },
     {
-      "from": 14228,
+      "from": 14764,
       "dur": 172,
       "kind": "image",
       "src": "img/nonna-pizza_s59.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 14400,
-      "dur": 120,
-      "kind": "image",
-      "src": "img/nonna-pizza_s32.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 14520,
-      "dur": 210,
-      "kind": "image",
-      "src": "img/nonna-pizza_s33.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 14940,
-      "dur": 270,
-      "kind": "image",
-      "src": "img/nonna-pizza_s34.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 15450,
-      "dur": 60,
+      "from": 14936,
+      "dur": 120,
       "kind": "image",
-      "src": "img/nonna-pizza_s35.png",
+      "src": "img/nonna-pizza_s32.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 15510,
-      "dur": 330,
+      "from": 15056,
+      "dur": 210,
       "kind": "image",
-      "src": "img/nonna-pizza_s36.png",
+      "src": "img/nonna-pizza_s33.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 15840,
-      "dur": 60,
+      "from": 15476,
+      "dur": 270,
       "kind": "image",
-      "src": "img/nonna-pizza_s36.png",
+      "src": "img/nonna-pizza_s34.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 16513,
-      "dur": 17,
+      "from": 15986,
+      "dur": 60,
       "kind": "image",
-      "src": "img/nonna-pizza_s61.png",
+      "src": "img/nonna-pizza_s35.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 16950,
-      "dur": 300,
+      "from": 16046,
+      "dur": 330,
       "kind": "image",
-      "src": "img/nonna-pizza_s38.png",
+      "src": "img/nonna-pizza_s36.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 18691,
-      "dur": 44,
+      "from": 16376,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/nonna-pizza_s36.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17049,
+      "dur": 17,
+      "kind": "image",
+      "src": "img/nonna-pizza_s61.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17486,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pizza_s38.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17816,
+      "dur": 295,
+      "kind": "image",
+      "src": "img/nonna-pizza_s38.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19481,
+      "dur": 49,
       "kind": "image",
       "src": "img/nonna-pizza_s62.png",
-      "kb": 0,
+      "kb": 4,
       "pip": false
     }
   ],
@@ -638,13 +675,13 @@
       "props": {
         "theme": "earth",
         "corner": "bl",
-        "src": "img/qr_nonna.png",
+        "src": "img/qr_guia_nonna.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "El Cuaderno de la Nonna"
+        "label": "Las guías de la Nonna"
       }
     },
     {
-      "from": 6600,
+      "from": 6828,
       "dur": 135,
       "comp": "SectionTitle",
       "props": {
@@ -654,7 +691,7 @@
       }
     },
     {
-      "from": 10620,
+      "from": 10848,
       "dur": 180,
       "comp": "TimerCocina",
       "props": {
@@ -664,7 +701,7 @@
       }
     },
     {
-      "from": 12660,
+      "from": 13196,
       "dur": 135,
       "comp": "SectionTitle",
       "props": {
@@ -674,39 +711,39 @@
       }
     },
     {
-      "from": 12660,
+      "from": 13196,
       "dur": 210,
       "comp": "QRTag",
       "props": {
         "theme": "earth",
         "corner": "bl",
-        "src": "img/qr_nonna.png",
+        "src": "img/qr_guia_nonna.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "El Cuaderno de la Nonna"
+        "label": "Las guías de la Nonna"
       }
     },
     {
-      "from": 15210,
+      "from": 15746,
       "dur": 210,
       "comp": "QRTag",
       "props": {
         "theme": "earth",
         "corner": "bl",
-        "src": "img/qr_nonna.png",
+        "src": "img/qr_guia_nonna.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "El Cuaderno de la Nonna"
+        "label": "Las guías de la Nonna"
       }
     },
     {
-      "from": 17250,
+      "from": 17788,
       "dur": 210,
       "comp": "QRTag",
       "props": {
         "theme": "earth",
         "corner": "bl",
-        "src": "img/qr_nonna.png",
+        "src": "img/qr_guia_nonna.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "El Cuaderno de la Nonna"
+        "label": "Las guías de la Nonna"
       }
     }
   ],
@@ -741,7 +778,25 @@
       }
     },
     {
-      "from": 7080,
+      "from": 6118,
+      "dur": 450,
+      "comp": "GuiasNonna",
+      "props": {
+        "theme": "earth",
+        "covers": [
+          "img/guias/nonna-recetario.jpg",
+          "img/guias/nonna-masas.jpg"
+        ],
+        "labels": [
+          "El Gran Recetario",
+          "El Libro de las Masas"
+        ],
+        "title": "Mi cuaderno, en limpio",
+        "qr": "img/qr_guia_nonna.png"
+      }
+    },
+    {
+      "from": 7308,
       "dur": 150,
       "comp": "PhraseCard",
       "props": {
@@ -753,7 +808,7 @@
       }
     },
     {
-      "from": 7890,
+      "from": 8118,
       "dur": 360,
       "comp": "Steps",
       "props": {
@@ -777,7 +832,20 @@
       }
     },
     {
-      "from": 14730,
+      "from": 11451,
+      "dur": 210,
+      "comp": "GuiasNonna",
+      "props": {
+        "theme": "earth",
+        "covers": [
+          "img/guias/nonna-masas.jpg"
+        ],
+        "title": "El Libro de las Masas",
+        "qr": "img/qr_guia_nonna.png"
+      }
+    },
+    {
+      "from": 15266,
       "dur": 210,
       "comp": "Callout",
       "props": {
@@ -789,7 +857,7 @@
       }
     },
     {
-      "from": 15210,
+      "from": 15746,
       "dur": 240,
       "comp": "TicketPrecio",
       "props": {
@@ -820,7 +888,7 @@
       }
     },
     {
-      "from": 16530,
+      "from": 17066,
       "dur": 420,
       "comp": "Checklist",
       "props": {
@@ -835,6 +903,27 @@
           "Fuego mínimo y tapado"
         ],
         "stamp": "¡Anótalo!"
+      }
+    },
+    {
+      "from": 18111,
+      "dur": 293,
+      "comp": "GuiasNonna",
+      "props": {
+        "theme": "earth",
+        "covers": [
+          "img/guias/nonna-recetario.jpg",
+          "img/guias/nonna-masas.jpg",
+          "img/guias/nonna-kit.jpg"
+        ],
+        "labels": [
+          "Recetario",
+          "Masas",
+          "La Colección"
+        ],
+        "focus": 2,
+        "title": "Los dos juntos: la Colección",
+        "qr": "img/qr_guia_nonna.png"
       }
     }
   ]
