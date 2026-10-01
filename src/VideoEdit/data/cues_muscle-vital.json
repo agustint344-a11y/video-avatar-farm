@@ -3,71 +3,71 @@
   "fps": 30,
   "width": 1920,
   "height": 1080,
-  "durationInFrames": 38157,
+  "durationInFrames": 37635,
   "audioSrc": "muscle-vital.mp3",
   "avatarSrc": "muscle-vital_avatar.mp4",
   "avatarSegs": [
     {
       "from": 0,
-      "dur": 292,
+      "dur": 279,
       "clip": 0
     },
     {
-      "from": 2226,
-      "dur": 946,
-      "clip": 292
+      "from": 2100,
+      "dur": 911,
+      "clip": 279
     },
     {
-      "from": 9115,
-      "dur": 912,
-      "clip": 1238
+      "from": 8910,
+      "dur": 920,
+      "clip": 1190
     },
     {
-      "from": 30230,
-      "dur": 649,
-      "clip": 2150
+      "from": 29790,
+      "dur": 668,
+      "clip": 2110
     },
     {
-      "from": 37106,
-      "dur": 1041,
-      "clip": 2799
+      "from": 36570,
+      "dur": 1045,
+      "clip": 2778
     }
   ],
   "broll": [
     {
-      "from": 292,
-      "dur": 73,
+      "from": 279,
+      "dur": 74,
       "kind": "image",
       "src": "img/muscle-vital_s01.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 365,
-      "dur": 235,
+      "from": 353,
+      "dur": 217,
       "kind": "image",
       "src": "img/muscle-vital_s02.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 600,
-      "dur": 299,
+      "from": 570,
+      "dur": 271,
       "kind": "image",
       "src": "img/muscle-vital_s03.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 899,
-      "dur": 349,
+      "from": 841,
+      "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s81.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 1248,
+      "from": 1171,
       "dur": 174,
       "kind": "video",
       "src": "broll/muscle-vital_v_s05.mp4",
@@ -75,295 +75,295 @@
       "pip": false
     },
     {
-      "from": 1422,
-      "dur": 260,
+      "from": 1345,
+      "dur": 281,
       "kind": "image",
       "src": "img/muscle-vital_s04.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 1682,
-      "dur": 144,
+      "from": 1626,
+      "dur": 158,
       "kind": "image",
       "src": "img/muscle-vital_s06.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 1826,
-      "dur": 330,
+      "from": 1784,
+      "dur": 316,
       "kind": "image",
       "src": "img/muscle-vital_s07.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 2156,
-      "dur": 70,
-      "kind": "image",
-      "src": "img/muscle-vital_s07.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 3172,
+      "from": 3011,
       "dur": 174,
       "kind": "video",
       "src": "broll/muscle-vital_v_s08.mp4",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 3346,
-      "dur": 97,
-      "kind": "video",
-      "src": "broll/muscle-vital_v_s08.mp4",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 3443,
-      "dur": 266,
-      "kind": "image",
-      "src": "img/muscle-vital_s09.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 3709,
-      "dur": 299,
-      "kind": "image",
-      "src": "img/muscle-vital_s10.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 4008,
-      "dur": 281,
-      "kind": "image",
-      "src": "img/muscle-vital_s11.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 4574,
-      "dur": 160,
-      "kind": "image",
-      "src": "img/muscle-vital_s13.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 4734,
-      "dur": 214,
-      "kind": "image",
-      "src": "img/muscle-vital_s14.png",
+      "from": 3185,
+      "dur": 55,
+      "kind": "video",
+      "src": "broll/muscle-vital_v_s08.mp4",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 4948,
+      "from": 3240,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/muscle-vital_s09.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3479,
+      "dur": 301,
+      "kind": "image",
+      "src": "img/muscle-vital_s10.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3780,
+      "dur": 305,
+      "kind": "image",
+      "src": "img/muscle-vital_s11.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4370,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/muscle-vital_s13.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4536,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/muscle-vital_s14.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4726,
       "dur": 284,
       "kind": "image",
       "src": "img/muscle-vital_s15.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5010,
+      "dur": 298,
+      "kind": "image",
+      "src": "img/muscle-vital_s16.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 5232,
-      "dur": 289,
+      "from": 5308,
+      "dur": 244,
       "kind": "image",
-      "src": "img/muscle-vital_s16.png",
+      "src": "img/muscle-vital_s17.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 5521,
-      "dur": 253,
+      "from": 5552,
+      "dur": 137,
       "kind": "image",
-      "src": "img/muscle-vital_s17.png",
+      "src": "img/muscle-vital_s18.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 5774,
-      "dur": 125,
+      "from": 5689,
+      "dur": 141,
       "kind": "image",
-      "src": "img/muscle-vital_s18.png",
+      "src": "img/muscle-vital_s19.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 5899,
-      "dur": 149,
-      "kind": "image",
-      "src": "img/muscle-vital_s19.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 6048,
+      "from": 5830,
       "dur": 377,
       "kind": "image",
       "src": "img/muscle-vital_s20.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 6425,
-      "dur": 87,
-      "kind": "image",
-      "src": "img/muscle-vital_s21.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 6512,
-      "dur": 282,
-      "kind": "image",
-      "src": "img/muscle-vital_s22.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 6794,
-      "dur": 186,
-      "kind": "image",
-      "src": "img/muscle-vital_s23.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 7304,
-      "dur": 333,
-      "kind": "image",
-      "src": "img/muscle-vital_s25.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 7637,
-      "dur": 348,
-      "kind": "image",
-      "src": "img/muscle-vital_s26.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 7985,
-      "dur": 273,
+      "from": 6207,
+      "dur": 78,
       "kind": "image",
-      "src": "img/muscle-vital_s27.png",
+      "src": "img/muscle-vital_s21.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 8258,
-      "dur": 293,
+      "from": 6285,
+      "dur": 291,
       "kind": "image",
-      "src": "img/muscle-vital_s28.png",
+      "src": "img/muscle-vital_s22.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 8551,
-      "dur": 236,
+      "from": 6576,
+      "dur": 198,
       "kind": "image",
-      "src": "img/muscle-vital_s29.png",
+      "src": "img/muscle-vital_s23.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 8787,
-      "dur": 328,
+      "from": 7088,
+      "dur": 330,
       "kind": "image",
-      "src": "img/muscle-vital_s30.png",
+      "src": "img/muscle-vital_s25.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 10027,
-      "dur": 10,
+      "from": 7418,
+      "dur": 52,
       "kind": "image",
       "src": "img/muscle-vital_s66.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 10307,
-      "dur": 356,
+      "from": 7470,
+      "dur": 259,
+      "kind": "image",
+      "src": "img/muscle-vital_s26.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7729,
+      "dur": 281,
+      "kind": "image",
+      "src": "img/muscle-vital_s27.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8010,
+      "dur": 285,
+      "kind": "image",
+      "src": "img/muscle-vital_s28.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8295,
+      "dur": 255,
+      "kind": "image",
+      "src": "img/muscle-vital_s29.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8550,
+      "dur": 360,
+      "kind": "image",
+      "src": "img/muscle-vital_s30.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9830,
+      "dur": 18,
+      "kind": "image",
+      "src": "img/muscle-vital_s47.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10118,
+      "dur": 257,
       "kind": "image",
       "src": "img/muscle-vital_s33.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 10663,
-      "dur": 147,
+      "from": 10375,
+      "dur": 155,
       "kind": "image",
       "src": "img/muscle-vital_s34.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 10810,
-      "dur": 187,
+      "from": 10530,
+      "dur": 181,
       "kind": "image",
       "src": "img/muscle-vital_s35.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 10997,
-      "dur": 300,
+      "from": 10711,
+      "dur": 345,
       "kind": "image",
       "src": "img/muscle-vital_s36.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 11507,
-      "dur": 147,
+      "from": 11266,
+      "dur": 139,
       "kind": "image",
       "src": "img/muscle-vital_s32.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 11654,
-      "dur": 370,
+      "from": 11405,
+      "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s37.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 12024,
-      "dur": 235,
+      "from": 11735,
+      "dur": 55,
       "kind": "image",
-      "src": "img/muscle-vital_s38.png",
+      "src": "img/muscle-vital_s37.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 12259,
-      "dur": 330,
+      "from": 11790,
+      "dur": 360,
       "kind": "image",
-      "src": "img/muscle-vital_s39.png",
+      "src": "img/muscle-vital_s38.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 12589,
-      "dur": 100,
+      "from": 12150,
+      "dur": 326,
       "kind": "image",
       "src": "img/muscle-vital_s39.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 12689,
+      "from": 12476,
       "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s40.png",
@@ -371,71 +371,71 @@
       "pip": false
     },
     {
-      "from": 13019,
-      "dur": 107,
+      "from": 12806,
+      "dur": 129,
       "kind": "image",
       "src": "img/muscle-vital_s40.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 13126,
-      "dur": 330,
+      "from": 12935,
+      "dur": 358,
       "kind": "image",
       "src": "img/muscle-vital_s41.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 13456,
-      "dur": 51,
-      "kind": "image",
-      "src": "img/muscle-vital_s41.png",
+      "from": 13293,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/muscle-vital_v_s42.mp4",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 13507,
-      "dur": 221,
+      "from": 13467,
+      "dur": 65,
       "kind": "video",
       "src": "broll/muscle-vital_v_s42.mp4",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 13728,
-      "dur": 245,
+      "from": 13532,
+      "dur": 238,
       "kind": "image",
       "src": "img/muscle-vital_s43.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 13973,
-      "dur": 325,
+      "from": 13770,
+      "dur": 323,
       "kind": "image",
       "src": "img/muscle-vital_s44.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 14298,
-      "dur": 75,
+      "from": 14093,
+      "dur": 90,
       "kind": "image",
       "src": "img/muscle-vital_s45.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 14373,
-      "dur": 152,
+      "from": 14183,
+      "dur": 157,
       "kind": "image",
       "src": "img/muscle-vital_s56.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 14525,
+      "from": 14340,
       "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s46.png",
@@ -443,55 +443,55 @@
       "pip": false
     },
     {
-      "from": 14855,
-      "dur": 359,
+      "from": 14670,
+      "dur": 373,
       "kind": "image",
       "src": "img/muscle-vital_s46.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 15214,
-      "dur": 180,
+      "from": 15043,
+      "dur": 167,
       "kind": "image",
       "src": "img/muscle-vital_s48.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 15394,
-      "dur": 242,
+      "from": 15210,
+      "dur": 240,
       "kind": "image",
       "src": "img/muscle-vital_s49.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 15636,
-      "dur": 77,
+      "from": 15450,
+      "dur": 79,
       "kind": "image",
       "src": "img/muscle-vital_s50.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 15713,
-      "dur": 171,
+      "from": 15529,
+      "dur": 161,
       "kind": "image",
       "src": "img/muscle-vital_s53.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 15884,
-      "dur": 352,
+      "from": 15690,
+      "dur": 360,
       "kind": "image",
       "src": "img/muscle-vital_s51.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 16236,
+      "from": 16050,
       "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s52.png",
@@ -499,7 +499,7 @@
       "pip": false
     },
     {
-      "from": 16566,
+      "from": 16380,
       "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s52.png",
@@ -507,31 +507,31 @@
       "pip": false
     },
     {
-      "from": 16896,
-      "dur": 266,
+      "from": 16710,
+      "dur": 270,
       "kind": "image",
       "src": "img/muscle-vital_s52.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 17462,
-      "dur": 122,
+      "from": 17280,
+      "dur": 120,
       "kind": "image",
       "src": "img/muscle-vital_s55.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 17584,
-      "dur": 166,
+      "from": 17400,
+      "dur": 180,
       "kind": "image",
       "src": "img/muscle-vital_s58.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 17750,
+      "from": 17580,
       "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s57.png",
@@ -539,7 +539,7 @@
       "pip": false
     },
     {
-      "from": 18080,
+      "from": 17910,
       "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s57.png",
@@ -547,23 +547,23 @@
       "pip": false
     },
     {
-      "from": 18410,
-      "dur": 156,
+      "from": 18240,
+      "dur": 167,
       "kind": "image",
       "src": "img/muscle-vital_s57.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 18566,
-      "dur": 192,
+      "from": 18407,
+      "dur": 193,
       "kind": "image",
       "src": "img/muscle-vital_s59.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 18758,
+      "from": 18600,
       "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s60.png",
@@ -571,23 +571,23 @@
       "pip": false
     },
     {
-      "from": 19088,
-      "dur": 87,
+      "from": 18930,
+      "dur": 66,
       "kind": "image",
       "src": "img/muscle-vital_s60.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 19175,
-      "dur": 246,
+      "from": 18996,
+      "dur": 272,
       "kind": "image",
       "src": "img/muscle-vital_s61.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 19421,
+      "from": 19268,
       "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s62.png",
@@ -595,7 +595,7 @@
       "pip": false
     },
     {
-      "from": 19751,
+      "from": 19598,
       "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s62.png",
@@ -603,31 +603,31 @@
       "pip": false
     },
     {
-      "from": 20081,
-      "dur": 319,
+      "from": 19928,
+      "dur": 232,
       "kind": "image",
       "src": "img/muscle-vital_s62.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 20400,
-      "dur": 209,
+      "from": 20160,
+      "dur": 210,
       "kind": "image",
       "src": "img/muscle-vital_s63.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 20834,
-      "dur": 339,
+      "from": 20595,
+      "dur": 323,
       "kind": "image",
       "src": "img/muscle-vital_s64.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 21173,
+      "from": 20918,
       "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s65.png",
@@ -635,15 +635,15 @@
       "pip": false
     },
     {
-      "from": 21503,
-      "dur": 277,
+      "from": 21248,
+      "dur": 262,
       "kind": "image",
       "src": "img/muscle-vital_s65.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 21780,
+      "from": 21510,
       "dur": 174,
       "kind": "video",
       "src": "broll/muscle-vital_v_s67.mp4",
@@ -651,7 +651,7 @@
       "pip": false
     },
     {
-      "from": 21954,
+      "from": 21684,
       "dur": 174,
       "kind": "video",
       "src": "broll/muscle-vital_v_s67.mp4",
@@ -659,7 +659,7 @@
       "pip": false
     },
     {
-      "from": 22128,
+      "from": 21858,
       "dur": 174,
       "kind": "video",
       "src": "broll/muscle-vital_v_s67.mp4",
@@ -667,15 +667,15 @@
       "pip": false
     },
     {
-      "from": 22302,
-      "dur": 107,
+      "from": 22032,
+      "dur": 78,
       "kind": "video",
       "src": "broll/muscle-vital_v_s67.mp4",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 22409,
+      "from": 22110,
       "dur": 300,
       "kind": "image",
       "src": "img/muscle-vital_s68.png",
@@ -683,7 +683,7 @@
       "pip": false
     },
     {
-      "from": 22709,
+      "from": 22410,
       "dur": 174,
       "kind": "video",
       "src": "broll/muscle-vital_v_s69.mp4",
@@ -691,7 +691,7 @@
       "pip": false
     },
     {
-      "from": 22883,
+      "from": 22584,
       "dur": 174,
       "kind": "video",
       "src": "broll/muscle-vital_v_s69.mp4",
@@ -699,15 +699,15 @@
       "pip": false
     },
     {
-      "from": 23057,
-      "dur": 206,
+      "from": 22758,
+      "dur": 192,
       "kind": "video",
       "src": "broll/muscle-vital_v_s69.mp4",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 23263,
+      "from": 22950,
       "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s70.png",
@@ -715,15 +715,15 @@
       "pip": false
     },
     {
-      "from": 23593,
-      "dur": 114,
+      "from": 23280,
+      "dur": 90,
       "kind": "image",
       "src": "img/muscle-vital_s70.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 23707,
+      "from": 23370,
       "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s71.png",
@@ -731,15 +731,15 @@
       "pip": false
     },
     {
-      "from": 24037,
-      "dur": 100,
+      "from": 23700,
+      "dur": 60,
       "kind": "image",
       "src": "img/muscle-vital_s71.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 24137,
+      "from": 23760,
       "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s72.png",
@@ -747,23 +747,23 @@
       "pip": false
     },
     {
-      "from": 24467,
-      "dur": 85,
+      "from": 24090,
+      "dur": 90,
       "kind": "image",
       "src": "img/muscle-vital_s72.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 24822,
-      "dur": 160,
+      "from": 24450,
+      "dur": 152,
       "kind": "image",
       "src": "img/muscle-vital_s73.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 24982,
+      "from": 24602,
       "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s74.png",
@@ -771,15 +771,15 @@
       "pip": false
     },
     {
-      "from": 25312,
-      "dur": 92,
+      "from": 24932,
+      "dur": 58,
       "kind": "image",
       "src": "img/muscle-vital_s74.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 25404,
+      "from": 24990,
       "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s75.png",
@@ -787,15 +787,15 @@
       "pip": false
     },
     {
-      "from": 25734,
-      "dur": 246,
+      "from": 25320,
+      "dur": 240,
       "kind": "image",
       "src": "img/muscle-vital_s75.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 25980,
+      "from": 25560,
       "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s76.png",
@@ -803,47 +803,47 @@
       "pip": false
     },
     {
-      "from": 26310,
+      "from": 25890,
       "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s76.png",
       "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26220,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/muscle-vital_s76.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26550,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/muscle-vital_s76.png",
+      "kb": 2,
       "pip": false
     },
     {
       "from": 26640,
       "dur": 330,
       "kind": "image",
-      "src": "img/muscle-vital_s76.png",
-      "kb": 1,
+      "src": "img/muscle-vital_s77.png",
+      "kb": 3,
       "pip": false
     },
     {
       "from": 26970,
-      "dur": 102,
-      "kind": "image",
-      "src": "img/muscle-vital_s76.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 27072,
       "dur": 330,
-      "kind": "image",
-      "src": "img/muscle-vital_s77.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 27402,
-      "dur": 337,
       "kind": "image",
       "src": "img/muscle-vital_s77.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 27739,
+      "from": 27300,
       "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s78.png",
@@ -851,15 +851,15 @@
       "pip": false
     },
     {
-      "from": 28069,
-      "dur": 318,
+      "from": 27630,
+      "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s78.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 28387,
+      "from": 27960,
       "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s79.png",
@@ -867,7 +867,7 @@
       "pip": false
     },
     {
-      "from": 28717,
+      "from": 28290,
       "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s79.png",
@@ -875,23 +875,23 @@
       "pip": false
     },
     {
-      "from": 29047,
-      "dur": 259,
+      "from": 28620,
+      "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s79.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 29306,
-      "dur": 330,
+      "from": 28950,
+      "dur": 90,
       "kind": "image",
-      "src": "img/muscle-vital_s80.png",
+      "src": "img/muscle-vital_s79.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 29636,
+      "from": 29040,
       "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s80.png",
@@ -899,127 +899,127 @@
       "pip": false
     },
     {
-      "from": 29966,
-      "dur": 264,
+      "from": 29370,
+      "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s80.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 30879,
-      "dur": 58,
+      "from": 29700,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/muscle-vital_s80.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30458,
+      "dur": 54,
       "kind": "image",
       "src": "img/muscle-vital_s82.png",
-      "kb": 1,
+      "kb": 2,
       "pip": false
     },
     {
-      "from": 30937,
-      "dur": 271,
+      "from": 30512,
+      "dur": 239,
       "kind": "image",
       "src": "img/muscle-vital_s83.png",
-      "kb": 2,
+      "kb": 3,
       "pip": false
     },
     {
-      "from": 31208,
-      "dur": 155,
+      "from": 30751,
+      "dur": 149,
       "kind": "image",
       "src": "img/muscle-vital_s84.png",
-      "kb": 3,
+      "kb": 4,
       "pip": false
     },
     {
-      "from": 31363,
-      "dur": 349,
+      "from": 30900,
+      "dur": 331,
       "kind": "image",
       "src": "img/muscle-vital_s85.png",
-      "kb": 4,
+      "kb": 5,
       "pip": false
     },
     {
-      "from": 31712,
-      "dur": 186,
+      "from": 31231,
+      "dur": 179,
       "kind": "image",
       "src": "img/muscle-vital_s86.png",
-      "kb": 5,
+      "kb": 0,
       "pip": false
     },
     {
-      "from": 32078,
-      "dur": 111,
+      "from": 31590,
+      "dur": 90,
       "kind": "image",
       "src": "img/muscle-vital_s87.png",
-      "kb": 0,
+      "kb": 1,
       "pip": false
     },
     {
-      "from": 32189,
-      "dur": 141,
+      "from": 31680,
+      "dur": 150,
       "kind": "video",
       "src": "broll/muscle-vital_v_s88.mp4",
-      "kb": 1,
+      "kb": 2,
       "pip": false
     },
     {
-      "from": 32555,
-      "dur": 253,
+      "from": 32055,
+      "dur": 261,
       "kind": "image",
       "src": "img/muscle-vital_s89.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 32808,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/muscle-vital_s90.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 33138,
-      "dur": 256,
+      "from": 32316,
+      "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s90.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 33394,
-      "dur": 330,
+      "from": 32646,
+      "dur": 204,
       "kind": "image",
-      "src": "img/muscle-vital_s91.png",
+      "src": "img/muscle-vital_s90.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 33724,
-      "dur": 226,
+      "from": 32850,
+      "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s91.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 33950,
-      "dur": 197,
+      "from": 33180,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/muscle-vital_s91.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33420,
+      "dur": 190,
       "kind": "image",
       "src": "img/muscle-vital_s92.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 34147,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/muscle-vital_s93.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 34477,
+      "from": 33610,
       "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s93.png",
@@ -1027,55 +1027,55 @@
       "pip": false
     },
     {
-      "from": 34807,
-      "dur": 80,
+      "from": 33940,
+      "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s93.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 34887,
-      "dur": 330,
+      "from": 34270,
+      "dur": 50,
       "kind": "image",
-      "src": "img/muscle-vital_s94.png",
+      "src": "img/muscle-vital_s93.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 35217,
-      "dur": 253,
+      "from": 34320,
+      "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s94.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 35470,
-      "dur": 330,
+      "from": 34650,
+      "dur": 270,
       "kind": "image",
-      "src": "img/muscle-vital_s95.png",
+      "src": "img/muscle-vital_s94.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 35800,
-      "dur": 109,
+      "from": 34920,
+      "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s95.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 35909,
-      "dur": 330,
+      "from": 35250,
+      "dur": 120,
       "kind": "image",
-      "src": "img/muscle-vital_s96.png",
+      "src": "img/muscle-vital_s95.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 36239,
+      "from": 35370,
       "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s96.png",
@@ -1083,7 +1083,7 @@
       "pip": false
     },
     {
-      "from": 36569,
+      "from": 35700,
       "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s96.png",
@@ -1091,17 +1091,33 @@
       "pip": false
     },
     {
-      "from": 36899,
-      "dur": 207,
+      "from": 36030,
+      "dur": 330,
       "kind": "image",
       "src": "img/muscle-vital_s96.png",
       "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 36360,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/muscle-vital_s96.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 37615,
+      "dur": 20,
+      "kind": "video",
+      "src": "broll/muscle-vital_v_s54.mp4",
+      "kb": 2,
       "pip": false
     }
   ],
   "overlays": [
     {
-      "from": 2226,
+      "from": 2100,
       "dur": 150,
       "comp": "LowerThird",
       "props": {
@@ -1112,7 +1128,7 @@
       }
     },
     {
-      "from": 4113,
+      "from": 3901,
       "dur": 114,
       "comp": "KeywordPop",
       "props": {
@@ -1123,7 +1139,7 @@
       }
     },
     {
-      "from": 6425,
+      "from": 6207,
       "dur": 114,
       "comp": "KeywordPop",
       "props": {
@@ -1134,19 +1150,20 @@
       }
     },
     {
-      "from": 9753,
+      "from": 9552,
       "dur": 210,
       "comp": "QRTag",
       "props": {
         "theme": "clinic",
         "corner": "bl",
         "src": "img/qr_vital.png",
-        "eyebrow": "SCAN FOR THE FREE GUIDE",
-        "label": "The Natural Wellness Method"
+        "eyebrow": "SCAN TO SEE THE GUIDES",
+        "label": "The Vital After 60 Playbook",
+        "hint": "point your phone camera 📷"
       }
     },
     {
-      "from": 12806,
+      "from": 12601,
       "dur": 114,
       "comp": "KeywordPop",
       "props": {
@@ -1157,7 +1174,7 @@
       }
     },
     {
-      "from": 13507,
+      "from": 13293,
       "dur": 135,
       "comp": "SectionTitle",
       "props": {
@@ -1167,25 +1184,39 @@
       }
     },
     {
-      "from": 13507,
+      "from": 13293,
       "dur": 210,
       "comp": "QRTag",
       "props": {
         "theme": "clinic",
         "corner": "bl",
         "src": "img/qr_vital.png",
-        "eyebrow": "SCAN FOR THE FREE GUIDE",
-        "label": "The Natural Wellness Method"
+        "eyebrow": "SCAN TO SEE THE GUIDES",
+        "label": "The Vital After 60 Playbook",
+        "hint": "point your phone camera 📷"
       }
     },
     {
-      "from": 19989,
+      "from": 19727,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN TO SEE THE GUIDES",
+        "label": "The Vital After 60 Playbook",
+        "hint": "point your phone camera 📷"
+      }
+    },
+    {
+      "from": 19800,
       "dur": 180,
       "comp": "SplitInfo",
       "props": {
         "theme": "clinic",
         "eyebrow": "In the guide",
-        "title": "The Natural Wellness Method",
+        "title": "The Vital After 60 Playbook",
         "items": [
           "5 muscle breakfasts",
           "Protein amounts per meal",
@@ -1194,19 +1225,7 @@
       }
     },
     {
-      "from": 20308,
-      "dur": 210,
-      "comp": "QRTag",
-      "props": {
-        "theme": "clinic",
-        "corner": "bl",
-        "src": "img/qr_vital.png",
-        "eyebrow": "SCAN FOR THE FREE GUIDE",
-        "label": "The Natural Wellness Method"
-      }
-    },
-    {
-      "from": 21780,
+      "from": 21510,
       "dur": 150,
       "comp": "LowerThird",
       "props": {
@@ -1217,7 +1236,7 @@
       }
     },
     {
-      "from": 22709,
+      "from": 22410,
       "dur": 150,
       "comp": "LowerThird",
       "props": {
@@ -1228,7 +1247,7 @@
       }
     },
     {
-      "from": 23263,
+      "from": 22950,
       "dur": 150,
       "comp": "LowerThird",
       "props": {
@@ -1239,7 +1258,7 @@
       }
     },
     {
-      "from": 23707,
+      "from": 23370,
       "dur": 150,
       "comp": "LowerThird",
       "props": {
@@ -1250,7 +1269,7 @@
       }
     },
     {
-      "from": 24137,
+      "from": 23760,
       "dur": 150,
       "comp": "LowerThird",
       "props": {
@@ -1261,7 +1280,7 @@
       }
     },
     {
-      "from": 25980,
+      "from": 25560,
       "dur": 165,
       "comp": "Callout",
       "props": {
@@ -1273,7 +1292,7 @@
       }
     },
     {
-      "from": 32808,
+      "from": 32316,
       "dur": 135,
       "comp": "SelloError",
       "props": {
@@ -1284,7 +1303,7 @@
       }
     },
     {
-      "from": 33394,
+      "from": 32850,
       "dur": 135,
       "comp": "SelloError",
       "props": {
@@ -1295,7 +1314,7 @@
       }
     },
     {
-      "from": 34147,
+      "from": 33610,
       "dur": 180,
       "comp": "Callout",
       "props": {
@@ -1307,7 +1326,7 @@
       }
     },
     {
-      "from": 35254,
+      "from": 34710,
       "dur": 165,
       "comp": "Callout",
       "props": {
@@ -1319,7 +1338,7 @@
       }
     },
     {
-      "from": 35470,
+      "from": 34920,
       "dur": 165,
       "comp": "Callout",
       "props": {
@@ -1331,21 +1350,22 @@
       }
     },
     {
-      "from": 37695,
+      "from": 37181,
       "dur": 210,
       "comp": "QRTag",
       "props": {
         "theme": "clinic",
         "corner": "bl",
         "src": "img/qr_vital.png",
-        "eyebrow": "SCAN FOR THE FREE GUIDE",
-        "label": "The Natural Wellness Method"
+        "eyebrow": "SCAN TO SEE THE GUIDES",
+        "label": "The Vital After 60 Playbook",
+        "hint": "point your phone camera 📷"
       }
     }
   ],
   "components": [
     {
-      "from": 4289,
+      "from": 4085,
       "dur": 285,
       "comp": "Checklist",
       "props": {
@@ -1360,7 +1380,7 @@
       }
     },
     {
-      "from": 6980,
+      "from": 6774,
       "dur": 300,
       "comp": "Checklist",
       "props": {
@@ -1374,7 +1394,7 @@
       }
     },
     {
-      "from": 7004,
+      "from": 6788,
       "dur": 300,
       "comp": "CuadernoReceta",
       "props": {
@@ -1391,7 +1411,7 @@
       }
     },
     {
-      "from": 10037,
+      "from": 9848,
       "dur": 270,
       "comp": "Compare",
       "props": {
@@ -1408,7 +1428,7 @@
       }
     },
     {
-      "from": 11297,
+      "from": 11056,
       "dur": 210,
       "comp": "BigStat",
       "props": {
@@ -1421,7 +1441,7 @@
       }
     },
     {
-      "from": 17162,
+      "from": 16980,
       "dur": 300,
       "comp": "TicketPrecio",
       "props": {
@@ -1446,17 +1466,19 @@
       }
     },
     {
-      "from": 20609,
+      "from": 20370,
       "dur": 225,
       "comp": "MythVsTruth",
       "props": {
         "theme": "clinic",
+        "mythLabel": "Myth",
+        "truthLabel": "Truth",
         "myth": "Eating more protein builds muscle.",
         "truth": "Protein is the BRICKS. Movement is the BUILDER. Without resistance, your body has no reason to keep muscle."
       }
     },
     {
-      "from": 24552,
+      "from": 24180,
       "dur": 270,
       "comp": "Steps",
       "props": {
@@ -1480,7 +1502,7 @@
       }
     },
     {
-      "from": 31898,
+      "from": 31410,
       "dur": 180,
       "comp": "PolaroidRecuerdo",
       "props": {
@@ -1491,11 +1513,13 @@
       }
     },
     {
-      "from": 32330,
+      "from": 31830,
       "dur": 225,
       "comp": "MythVsTruth",
       "props": {
         "theme": "clinic",
+        "mythLabel": "Myth",
+        "truthLabel": "Truth",
         "myth": "It is too late to build muscle after 70 or 80.",
         "truth": "People in their 80s and 90s gain real strength within weeks to months."
       }
