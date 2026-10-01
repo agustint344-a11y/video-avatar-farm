@@ -3,47 +3,47 @@
   "fps": 30,
   "width": 1920,
   "height": 1080,
-  "durationInFrames": 37007,
+  "durationInFrames": 36878,
   "audioSrc": "turmeric-vital.mp3",
   "avatarSrc": "turmeric-vital_avatar.mp4",
   "avatarSegs": [
     {
       "from": 0,
-      "dur": 350,
+      "dur": 355,
       "clip": 0
     },
     {
-      "from": 2147,
+      "from": 2158,
       "dur": 768,
-      "clip": 350
+      "clip": 355
     },
     {
-      "from": 7961,
-      "dur": 848,
-      "clip": 1118
+      "from": 7855,
+      "dur": 804,
+      "clip": 1123
     },
     {
-      "from": 26951,
-      "dur": 655,
-      "clip": 1966
+      "from": 26802,
+      "dur": 621,
+      "clip": 1927
     },
     {
-      "from": 35990,
-      "dur": 1007,
-      "clip": 2621
+      "from": 35820,
+      "dur": 1044,
+      "clip": 2548
     }
   ],
   "broll": [
     {
-      "from": 350,
-      "dur": 286,
+      "from": 355,
+      "dur": 274,
       "kind": "image",
       "src": "img/turmeric-vital_s01.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 636,
+      "from": 629,
       "dur": 66,
       "kind": "image",
       "src": "img/turmeric-vital_s02.png",
@@ -51,7 +51,7 @@
       "pip": false
     },
     {
-      "from": 702,
+      "from": 695,
       "dur": 330,
       "kind": "image",
       "src": "img/turmeric-vital_s03.png",
@@ -59,39 +59,39 @@
       "pip": false
     },
     {
-      "from": 1032,
-      "dur": 89,
+      "from": 1025,
+      "dur": 109,
       "kind": "image",
       "src": "img/turmeric-vital_s03.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 1121,
-      "dur": 206,
+      "from": 1134,
+      "dur": 181,
       "kind": "image",
       "src": "img/turmeric-vital_s32.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 1327,
-      "dur": 164,
+      "from": 1315,
+      "dur": 194,
       "kind": "image",
       "src": "img/turmeric-vital_s05.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 1491,
-      "dur": 237,
+      "from": 1509,
+      "dur": 236,
       "kind": "image",
       "src": "img/turmeric-vital_s06.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 1728,
+      "from": 1745,
       "dur": 330,
       "kind": "image",
       "src": "img/turmeric-vital_s07.png",
@@ -99,15 +99,15 @@
       "pip": false
     },
     {
-      "from": 2058,
-      "dur": 89,
+      "from": 2075,
+      "dur": 83,
       "kind": "image",
       "src": "img/turmeric-vital_s07.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 2915,
+      "from": 2926,
       "dur": 174,
       "kind": "video",
       "src": "broll/turmeric-vital_v_s08.mp4",
@@ -115,119 +115,119 @@
       "pip": false
     },
     {
-      "from": 3089,
-      "dur": 77,
+      "from": 3100,
+      "dur": 86,
       "kind": "image",
       "src": "img/turmeric-vital_s19.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 3421,
-      "dur": 248,
+      "from": 3441,
+      "dur": 251,
       "kind": "image",
       "src": "img/turmeric-vital_s10.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 3669,
-      "dur": 207,
+      "from": 3692,
+      "dur": 180,
       "kind": "image",
       "src": "img/turmeric-vital_s11.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 3876,
-      "dur": 171,
+      "from": 3872,
+      "dur": 144,
       "kind": "image",
       "src": "img/turmeric-vital_s12.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 4047,
-      "dur": 308,
+      "from": 4016,
+      "dur": 299,
       "kind": "image",
       "src": "img/turmeric-vital_s13.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 4625,
-      "dur": 52,
+      "from": 4585,
+      "dur": 221,
       "kind": "image",
-      "src": "img/turmeric-vital_s14.png",
+      "src": "img/turmeric-vital_s15.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 4677,
-      "dur": 199,
+      "from": 4806,
+      "dur": 257,
       "kind": "image",
-      "src": "img/turmeric-vital_s15.png",
+      "src": "img/turmeric-vital_s16.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 4876,
-      "dur": 230,
+      "from": 5063,
+      "dur": 349,
       "kind": "image",
-      "src": "img/turmeric-vital_s16.png",
+      "src": "img/turmeric-vital_s17.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 5106,
-      "dur": 353,
+      "from": 5412,
+      "dur": 330,
       "kind": "image",
-      "src": "img/turmeric-vital_s17.png",
+      "src": "img/turmeric-vital_s18.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 5459,
-      "dur": 330,
+      "from": 5742,
+      "dur": 114,
       "kind": "image",
       "src": "img/turmeric-vital_s18.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 5789,
-      "dur": 122,
+      "from": 6156,
+      "dur": 202,
       "kind": "image",
-      "src": "img/turmeric-vital_s18.png",
+      "src": "img/turmeric-vital_s20.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 6211,
-      "dur": 194,
+      "from": 6358,
+      "dur": 298,
       "kind": "image",
-      "src": "img/turmeric-vital_s20.png",
+      "src": "img/turmeric-vital_s21.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 6405,
-      "dur": 305,
+      "from": 6656,
+      "dur": 330,
       "kind": "image",
-      "src": "img/turmeric-vital_s21.png",
+      "src": "img/turmeric-vital_s22.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 6710,
-      "dur": 377,
+      "from": 6986,
+      "dur": 56,
       "kind": "image",
       "src": "img/turmeric-vital_s22.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 7087,
+      "from": 7042,
       "dur": 330,
       "kind": "image",
       "src": "img/turmeric-vital_s23.png",
@@ -235,23 +235,23 @@
       "pip": false
     },
     {
-      "from": 7417,
-      "dur": 123,
+      "from": 7372,
+      "dur": 80,
       "kind": "image",
       "src": "img/turmeric-vital_s23.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 7540,
-      "dur": 91,
+      "from": 7452,
+      "dur": 73,
       "kind": "image",
       "src": "img/turmeric-vital_s24.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 7631,
+      "from": 7525,
       "dur": 330,
       "kind": "image",
       "src": "img/turmeric-vital_s25.png",
@@ -259,849 +259,825 @@
       "pip": false
     },
     {
-      "from": 8809,
-      "dur": 92,
-      "kind": "video",
-      "src": "broll/turmeric-vital_v_s26.mp4",
+      "from": 8659,
+      "dur": 12,
+      "kind": "image",
+      "src": "img/turmeric-vital_s14.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 8901,
-      "dur": 130,
-      "kind": "image",
-      "src": "img/turmeric-vital_s27.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 9031,
-      "dur": 202,
+      "from": 8941,
+      "dur": 112,
       "kind": "image",
       "src": "img/turmeric-vital_s28.png",
-      "kb": 0,
+      "kb": 5,
       "pip": false
     },
     {
-      "from": 9233,
-      "dur": 242,
+      "from": 9053,
+      "dur": 240,
       "kind": "image",
       "src": "img/turmeric-vital_s29.png",
-      "kb": 1,
+      "kb": 0,
       "pip": false
     },
     {
-      "from": 9475,
-      "dur": 301,
+      "from": 9293,
+      "dur": 309,
       "kind": "image",
       "src": "img/turmeric-vital_s30.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 9776,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/turmeric-vital_s31.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 10106,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/turmeric-vital_s31.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 10436,
-      "dur": 202,
-      "kind": "image",
-      "src": "img/turmeric-vital_s31.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 10638,
-      "dur": 145,
-      "kind": "video",
-      "src": "broll/turmeric-vital_v_s33.mp4",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 10783,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/turmeric-vital_s34.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 11113,
-      "dur": 62,
+      "from": 9602,
+      "dur": 330,
       "kind": "image",
-      "src": "img/turmeric-vital_s34.png",
+      "src": "img/turmeric-vital_s31.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 11175,
-      "dur": 117,
+      "from": 9932,
+      "dur": 330,
       "kind": "image",
-      "src": "img/turmeric-vital_s35.png",
+      "src": "img/turmeric-vital_s31.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 11292,
-      "dur": 280,
-      "kind": "image",
-      "src": "img/turmeric-vital_s36.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 11572,
-      "dur": 152,
-      "kind": "image",
-      "src": "img/turmeric-vital_s37.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 11724,
-      "dur": 159,
-      "kind": "image",
-      "src": "img/turmeric-vital_s38.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 11883,
-      "dur": 184,
-      "kind": "image",
-      "src": "img/turmeric-vital_s39.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 12277,
-      "dur": 97,
-      "kind": "image",
-      "src": "img/turmeric-vital_s40.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 12374,
-      "dur": 158,
-      "kind": "image",
-      "src": "img/turmeric-vital_s41.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 12532,
-      "dur": 147,
-      "kind": "image",
-      "src": "img/turmeric-vital_s42.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 12679,
-      "dur": 132,
-      "kind": "image",
-      "src": "img/turmeric-vital_s43.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 12811,
-      "dur": 360,
-      "kind": "image",
-      "src": "img/turmeric-vital_s44.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 13171,
+      "from": 10262,
       "dur": 197,
       "kind": "image",
-      "src": "img/turmeric-vital_s45.png",
+      "src": "img/turmeric-vital_s31.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10459,
+      "dur": 168,
+      "kind": "video",
+      "src": "broll/turmeric-vital_v_s33.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10627,
+      "dur": 372,
+      "kind": "image",
+      "src": "img/turmeric-vital_s34.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10999,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/turmeric-vital_s35.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 13368,
-      "dur": 330,
+      "from": 11138,
+      "dur": 265,
       "kind": "image",
-      "src": "img/turmeric-vital_s46.png",
+      "src": "img/turmeric-vital_s36.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 13698,
-      "dur": 157,
+      "from": 11403,
+      "dur": 156,
       "kind": "image",
-      "src": "img/turmeric-vital_s46.png",
+      "src": "img/turmeric-vital_s37.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 14110,
-      "dur": 158,
+      "from": 11559,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/turmeric-vital_s38.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11708,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/turmeric-vital_s39.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12112,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/turmeric-vital_s40.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12236,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/turmeric-vital_s41.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12377,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/turmeric-vital_s42.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12529,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/turmeric-vital_s43.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12658,
+      "dur": 355,
+      "kind": "image",
+      "src": "img/turmeric-vital_s44.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13013,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/turmeric-vital_s45.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13230,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/turmeric-vital_s46.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13560,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/turmeric-vital_s46.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13948,
+      "dur": 175,
       "kind": "video",
       "src": "broll/turmeric-vital_v_s47.mp4",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 14268,
-      "dur": 196,
-      "kind": "image",
-      "src": "img/turmeric-vital_s48.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 14464,
-      "dur": 343,
-      "kind": "image",
-      "src": "img/turmeric-vital_s49.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 14807,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/turmeric-vital_s50.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 15137,
-      "dur": 283,
-      "kind": "image",
-      "src": "img/turmeric-vital_s50.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 15420,
-      "dur": 330,
+      "from": 14123,
+      "dur": 198,
       "kind": "image",
-      "src": "img/turmeric-vital_s52.png",
+      "src": "img/turmeric-vital_s48.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 15750,
-      "dur": 108,
+      "from": 14321,
+      "dur": 323,
       "kind": "image",
-      "src": "img/turmeric-vital_s52.png",
+      "src": "img/turmeric-vital_s49.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 15858,
-      "dur": 330,
+      "from": 14644,
+      "dur": 376,
       "kind": "image",
-      "src": "img/turmeric-vital_s53.png",
+      "src": "img/turmeric-vital_s50.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 16188,
-      "dur": 231,
+      "from": 15020,
+      "dur": 244,
       "kind": "image",
-      "src": "img/turmeric-vital_s53.png",
+      "src": "img/turmeric-vital_s51.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 16419,
-      "dur": 164,
+      "from": 15264,
+      "dur": 330,
       "kind": "image",
-      "src": "img/turmeric-vital_s54.png",
+      "src": "img/turmeric-vital_s52.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 16583,
+      "from": 15594,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/turmeric-vital_s52.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15677,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/turmeric-vital_s53.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16007,
+      "dur": 293,
+      "kind": "image",
+      "src": "img/turmeric-vital_s53.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16300,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/turmeric-vital_s54.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16455,
       "dur": 330,
       "kind": "image",
       "src": "img/turmeric-vital_s58.png",
-      "kb": 2,
+      "kb": 0,
       "pip": false
     },
     {
-      "from": 16913,
-      "dur": 264,
+      "from": 16785,
+      "dur": 238,
       "kind": "image",
       "src": "img/turmeric-vital_s55.png",
-      "kb": 3,
+      "kb": 1,
       "pip": false
     },
     {
-      "from": 17477,
+      "from": 17323,
       "dur": 330,
       "kind": "image",
       "src": "img/turmeric-vital_s57.png",
-      "kb": 4,
+      "kb": 2,
       "pip": false
     },
     {
-      "from": 17807,
-      "dur": 126,
+      "from": 17653,
+      "dur": 107,
       "kind": "video",
       "src": "broll/turmeric-vital_v_s56.mp4",
-      "kb": 5,
+      "kb": 3,
       "pip": false
     },
     {
-      "from": 17933,
-      "dur": 139,
-      "kind": "image",
-      "src": "img/turmeric-vital_s59.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 18072,
-      "dur": 71,
-      "kind": "image",
-      "src": "img/turmeric-vital_s60.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 18143,
+      "from": 17760,
       "dur": 115,
       "kind": "image",
-      "src": "img/turmeric-vital_s61.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 18258,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/turmeric-vital_s62.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 18588,
-      "dur": 254,
-      "kind": "image",
-      "src": "img/turmeric-vital_s62.png",
+      "src": "img/turmeric-vital_s59.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 18842,
-      "dur": 330,
+      "from": 17875,
+      "dur": 85,
       "kind": "image",
-      "src": "img/turmeric-vital_s63.png",
+      "src": "img/turmeric-vital_s60.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 19172,
-      "dur": 171,
+      "from": 17960,
+      "dur": 100,
       "kind": "image",
-      "src": "img/turmeric-vital_s63.png",
+      "src": "img/turmeric-vital_s61.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 19343,
+      "from": 18060,
       "dur": 330,
       "kind": "image",
-      "src": "img/turmeric-vital_s64.png",
+      "src": "img/turmeric-vital_s62.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 19673,
-      "dur": 233,
+      "from": 18390,
+      "dur": 275,
       "kind": "image",
-      "src": "img/turmeric-vital_s64.png",
+      "src": "img/turmeric-vital_s62.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 19906,
-      "dur": 309,
+      "from": 18665,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/turmeric-vital_s63.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18995,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/turmeric-vital_s63.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19146,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/turmeric-vital_s64.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19476,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/turmeric-vital_s64.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19663,
+      "dur": 295,
       "kind": "image",
       "src": "img/turmeric-vital_s65.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 20215,
-      "dur": 204,
-      "kind": "image",
-      "src": "img/turmeric-vital_s66.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 20419,
-      "dur": 205,
-      "kind": "image",
-      "src": "img/turmeric-vital_s67.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 20624,
-      "dur": 150,
-      "kind": "image",
-      "src": "img/turmeric-vital_s68.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 20774,
-      "dur": 372,
-      "kind": "image",
-      "src": "img/turmeric-vital_s69.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 21146,
-      "dur": 365,
-      "kind": "image",
-      "src": "img/turmeric-vital_s70.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 21511,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/turmeric-vital_s71.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 21841,
-      "dur": 157,
-      "kind": "image",
-      "src": "img/turmeric-vital_s71.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 21998,
-      "dur": 183,
-      "kind": "image",
-      "src": "img/turmeric-vital_s72.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 22181,
-      "dur": 247,
-      "kind": "image",
-      "src": "img/turmeric-vital_s73.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 22728,
-      "dur": 145,
-      "kind": "image",
-      "src": "img/turmeric-vital_s76.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 22873,
-      "dur": 148,
-      "kind": "image",
-      "src": "img/turmeric-vital_s77.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 23021,
-      "dur": 129,
-      "kind": "image",
-      "src": "img/turmeric-vital_s78.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 23150,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/turmeric-vital_s79.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 23480,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/turmeric-vital_s79.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 23810,
-      "dur": 52,
-      "kind": "image",
-      "src": "img/turmeric-vital_s79.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 23862,
-      "dur": 317,
-      "kind": "image",
-      "src": "img/turmeric-vital_s80.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 24179,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/turmeric-vital_s81.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 24509,
-      "dur": 138,
-      "kind": "image",
-      "src": "img/turmeric-vital_s81.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 24647,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/turmeric-vital_s82.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 24977,
-      "dur": 97,
-      "kind": "image",
-      "src": "img/turmeric-vital_s82.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 25074,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/turmeric-vital_s83.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 25404,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/turmeric-vital_s83.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 25734,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/turmeric-vital_s83.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 26064,
+      "from": 19958,
       "dur": 221,
       "kind": "image",
+      "src": "img/turmeric-vital_s66.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20179,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/turmeric-vital_s67.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20377,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/turmeric-vital_s68.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20567,
+      "dur": 344,
+      "kind": "image",
+      "src": "img/turmeric-vital_s69.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20911,
+      "dur": 372,
+      "kind": "image",
+      "src": "img/turmeric-vital_s70.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21283,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/turmeric-vital_s71.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21613,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/turmeric-vital_s71.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21817,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/turmeric-vital_s72.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21977,
+      "dur": 290,
+      "kind": "image",
+      "src": "img/turmeric-vital_s73.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22567,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/turmeric-vital_s76.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22711,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/turmeric-vital_s77.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22865,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/turmeric-vital_s78.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22987,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/turmeric-vital_s79.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23317,
+      "dur": 369,
+      "kind": "image",
+      "src": "img/turmeric-vital_s79.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23686,
+      "dur": 340,
+      "kind": "image",
+      "src": "img/turmeric-vital_s80.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24026,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/turmeric-vital_s81.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24356,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/turmeric-vital_s81.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24473,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/turmeric-vital_s82.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24803,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/turmeric-vital_s82.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24925,
+      "dur": 330,
+      "kind": "image",
       "src": "img/turmeric-vital_s83.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 26285,
-      "dur": 273,
+      "from": 25255,
+      "dur": 330,
       "kind": "image",
-      "src": "img/turmeric-vital_s84.png",
+      "src": "img/turmeric-vital_s83.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 26558,
+      "from": 25585,
       "dur": 330,
       "kind": "image",
-      "src": "img/turmeric-vital_s85.png",
+      "src": "img/turmeric-vital_s83.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 26888,
-      "dur": 63,
+      "from": 25915,
+      "dur": 330,
       "kind": "image",
-      "src": "img/turmeric-vital_s85.png",
+      "src": "img/turmeric-vital_s83.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 27606,
+      "from": 26245,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/turmeric-vital_s83.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26415,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/turmeric-vital_s85.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26745,
+      "dur": 57,
+      "kind": "image",
+      "src": "img/turmeric-vital_s85.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27423,
       "dur": 330,
       "kind": "image",
       "src": "img/turmeric-vital_s87.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 27936,
-      "dur": 81,
-      "kind": "image",
-      "src": "img/turmeric-vital_s86.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 28017,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/turmeric-vital_s88.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 28347,
-      "dur": 109,
-      "kind": "image",
-      "src": "img/turmeric-vital_s88.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 28636,
-      "dur": 224,
+      "from": 27753,
+      "dur": 91,
       "kind": "image",
-      "src": "img/turmeric-vital_s89.png",
+      "src": "img/turmeric-vital_s86.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 28860,
-      "dur": 233,
+      "from": 27844,
+      "dur": 330,
       "kind": "image",
-      "src": "img/turmeric-vital_s90.png",
+      "src": "img/turmeric-vital_s88.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 29093,
-      "dur": 98,
-      "kind": "video",
-      "src": "broll/turmeric-vital_v_s91.mp4",
+      "from": 28174,
+      "dur": 71,
+      "kind": "image",
+      "src": "img/turmeric-vital_s88.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 29416,
-      "dur": 320,
+      "from": 28425,
+      "dur": 221,
       "kind": "image",
-      "src": "img/turmeric-vital_s92.png",
+      "src": "img/turmeric-vital_s89.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 29736,
-      "dur": 330,
+      "from": 28646,
+      "dur": 222,
       "kind": "image",
-      "src": "img/turmeric-vital_s93.png",
+      "src": "img/turmeric-vital_s90.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 30066,
-      "dur": 200,
-      "kind": "image",
-      "src": "img/turmeric-vital_s93.png",
+      "from": 28868,
+      "dur": 97,
+      "kind": "video",
+      "src": "broll/turmeric-vital_v_s91.mp4",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 30266,
-      "dur": 295,
+      "from": 29190,
+      "dur": 293,
       "kind": "image",
-      "src": "img/turmeric-vital_s94.png",
+      "src": "img/turmeric-vital_s92.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 30561,
+      "from": 29483,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/turmeric-vital_s93.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29813,
+      "dur": 223,
+      "kind": "image",
+      "src": "img/turmeric-vital_s93.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30036,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/turmeric-vital_s94.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30336,
       "dur": 180,
       "kind": "image",
       "src": "img/turmeric-vital_s95.png",
-      "kb": 0,
+      "kb": 3,
       "pip": false
     },
     {
-      "from": 30741,
+      "from": 30516,
       "dur": 330,
       "kind": "image",
       "src": "img/turmeric-vital_s96.png",
-      "kb": 1,
+      "kb": 4,
       "pip": false
     },
     {
-      "from": 31071,
-      "dur": 240,
+      "from": 30846,
+      "dur": 252,
       "kind": "image",
       "src": "img/turmeric-vital_s96.png",
-      "kb": 2,
+      "kb": 5,
       "pip": false
     },
     {
-      "from": 31311,
-      "dur": 325,
+      "from": 31098,
+      "dur": 377,
       "kind": "image",
       "src": "img/turmeric-vital_s97.png",
-      "kb": 3,
+      "kb": 0,
       "pip": false
     },
     {
-      "from": 31636,
-      "dur": 335,
-      "kind": "image",
-      "src": "img/turmeric-vital_s98.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 31971,
+      "from": 31475,
       "dur": 300,
       "kind": "image",
+      "src": "img/turmeric-vital_s98.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31775,
+      "dur": 340,
+      "kind": "image",
       "src": "img/turmeric-vital_s99.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 32271,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/turmeric-vital_s100.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 32601,
-      "dur": 101,
-      "kind": "image",
-      "src": "img/turmeric-vital_s100.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 32702,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/turmeric-vital_s101.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 33032,
+      "from": 32115,
       "dur": 330,
       "kind": "image",
-      "src": "img/turmeric-vital_s101.png",
+      "src": "img/turmeric-vital_s100.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 33362,
-      "dur": 178,
+      "from": 32445,
+      "dur": 141,
       "kind": "image",
-      "src": "img/turmeric-vital_s101.png",
+      "src": "img/turmeric-vital_s100.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 33540,
+      "from": 32586,
       "dur": 330,
       "kind": "image",
-      "src": "img/turmeric-vital_s102.png",
+      "src": "img/turmeric-vital_s101.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 33870,
+      "from": 32916,
       "dur": 330,
       "kind": "image",
-      "src": "img/turmeric-vital_s102.png",
+      "src": "img/turmeric-vital_s101.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 34200,
-      "dur": 330,
+      "from": 33246,
+      "dur": 156,
       "kind": "image",
-      "src": "img/turmeric-vital_s102.png",
+      "src": "img/turmeric-vital_s101.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 34530,
-      "dur": 164,
+      "from": 33402,
+      "dur": 330,
       "kind": "image",
       "src": "img/turmeric-vital_s102.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 34694,
+      "from": 33732,
       "dur": 330,
       "kind": "image",
-      "src": "img/turmeric-vital_s103.png",
+      "src": "img/turmeric-vital_s102.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 35024,
+      "from": 34062,
       "dur": 330,
       "kind": "image",
-      "src": "img/turmeric-vital_s103.png",
+      "src": "img/turmeric-vital_s102.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 35354,
-      "dur": 330,
+      "from": 34392,
+      "dur": 143,
       "kind": "image",
-      "src": "img/turmeric-vital_s103.png",
+      "src": "img/turmeric-vital_s102.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 35684,
-      "dur": 306,
+      "from": 34535,
+      "dur": 330,
       "kind": "image",
       "src": "img/turmeric-vital_s103.png",
       "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34865,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/turmeric-vital_s103.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 35195,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/turmeric-vital_s103.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 35525,
+      "dur": 295,
+      "kind": "image",
+      "src": "img/turmeric-vital_s103.png",
+      "kb": 3,
       "pip": false
     }
   ],
   "overlays": [
     {
-      "from": 2147,
+      "from": 2158,
       "dur": 150,
       "comp": "LowerThird",
       "props": {
@@ -1112,7 +1088,7 @@
       }
     },
     {
-      "from": 3961,
+      "from": 3933,
       "dur": 114,
       "comp": "KeywordPop",
       "props": {
@@ -1123,19 +1099,20 @@
       }
     },
     {
-      "from": 8533,
+      "from": 8465,
       "dur": 210,
       "comp": "QRTag",
       "props": {
         "theme": "clinic",
         "corner": "bl",
         "src": "img/qr_vital.png",
-        "eyebrow": "SCAN FOR THE FREE GUIDE",
-        "label": "The Natural Wellness Method"
+        "eyebrow": "SCAN TO SEE THE GUIDES",
+        "label": "The Vital After 60 Playbook",
+        "hint": "point your phone camera 📷"
       }
     },
     {
-      "from": 9146,
+      "from": 8951,
       "dur": 114,
       "comp": "KeywordPop",
       "props": {
@@ -1146,7 +1123,7 @@
       }
     },
     {
-      "from": 11724,
+      "from": 11559,
       "dur": 114,
       "comp": "KeywordPop",
       "props": {
@@ -1157,7 +1134,7 @@
       }
     },
     {
-      "from": 12679,
+      "from": 12529,
       "dur": 114,
       "comp": "KeywordPop",
       "props": {
@@ -1168,7 +1145,7 @@
       }
     },
     {
-      "from": 15858,
+      "from": 15677,
       "dur": 165,
       "comp": "MarcaCirculo",
       "props": {
@@ -1181,19 +1158,20 @@
       }
     },
     {
-      "from": 17177,
+      "from": 17023,
       "dur": 210,
       "comp": "QRTag",
       "props": {
         "theme": "clinic",
         "corner": "bl",
         "src": "img/qr_vital.png",
-        "eyebrow": "SCAN FOR THE FREE GUIDE",
-        "label": "The Natural Wellness Method"
+        "eyebrow": "SCAN TO SEE THE GUIDES",
+        "label": "The Vital After 60 Playbook",
+        "hint": "point your phone camera 📷"
       }
     },
     {
-      "from": 17933,
+      "from": 17760,
       "dur": 180,
       "comp": "TimerCocina",
       "props": {
@@ -1205,13 +1183,26 @@
       }
     },
     {
-      "from": 19463,
+      "from": 19191,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN TO SEE THE GUIDES",
+        "label": "The Vital After 60 Playbook",
+        "hint": "point your phone camera 📷"
+      }
+    },
+    {
+      "from": 19290,
       "dur": 180,
       "comp": "SplitInfo",
       "props": {
         "theme": "clinic",
         "eyebrow": "In the guide",
-        "title": "The Natural Wellness Method",
+        "title": "The Vital After 60 Playbook",
         "items": [
           "The golden milk recipe",
           "Turmeric cooking ideas",
@@ -1220,19 +1211,7 @@
       }
     },
     {
-      "from": 19811,
-      "dur": 210,
-      "comp": "QRTag",
-      "props": {
-        "theme": "clinic",
-        "corner": "bl",
-        "src": "img/qr_vital.png",
-        "eyebrow": "SCAN FOR THE FREE GUIDE",
-        "label": "The Natural Wellness Method"
-      }
-    },
-    {
-      "from": 29736,
+      "from": 29483,
       "dur": 135,
       "comp": "SelloError",
       "props": {
@@ -1243,7 +1222,7 @@
       }
     },
     {
-      "from": 30266,
+      "from": 30036,
       "dur": 135,
       "comp": "SelloError",
       "props": {
@@ -1254,7 +1233,7 @@
       }
     },
     {
-      "from": 30741,
+      "from": 30516,
       "dur": 165,
       "comp": "Callout",
       "props": {
@@ -1266,7 +1245,7 @@
       }
     },
     {
-      "from": 31311,
+      "from": 31098,
       "dur": 150,
       "comp": "Callout",
       "props": {
@@ -1278,7 +1257,7 @@
       }
     },
     {
-      "from": 31636,
+      "from": 31475,
       "dur": 150,
       "comp": "Callout",
       "props": {
@@ -1290,7 +1269,7 @@
       }
     },
     {
-      "from": 32702,
+      "from": 32586,
       "dur": 180,
       "comp": "Callout",
       "props": {
@@ -1302,21 +1281,22 @@
       }
     },
     {
-      "from": 36509,
+      "from": 36398,
       "dur": 210,
       "comp": "QRTag",
       "props": {
         "theme": "clinic",
         "corner": "bl",
         "src": "img/qr_vital.png",
-        "eyebrow": "SCAN FOR THE FREE GUIDE",
-        "label": "The Natural Wellness Method"
+        "eyebrow": "SCAN TO SEE THE GUIDES",
+        "label": "The Vital After 60 Playbook",
+        "hint": "point your phone camera 📷"
       }
     }
   ],
   "components": [
     {
-      "from": 3166,
+      "from": 3186,
       "dur": 255,
       "comp": "Compare",
       "props": {
@@ -1333,17 +1313,19 @@
       }
     },
     {
-      "from": 4355,
+      "from": 4315,
       "dur": 270,
       "comp": "MythVsTruth",
       "props": {
         "theme": "clinic",
+        "mythLabel": "Myth",
+        "truthLabel": "Truth",
         "myth": "Plaque is just cholesterol sticking like grease in a pipe.",
         "truth": "It starts with an irritated, INFLAMED lining. Artery damage is an inflammation problem — the hidden fire."
       }
     },
     {
-      "from": 5911,
+      "from": 5856,
       "dur": 300,
       "comp": "Checklist",
       "props": {
@@ -1359,7 +1341,31 @@
       }
     },
     {
-      "from": 12067,
+      "from": 8671,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "clinic",
+        "eyebrow": "Curcumin",
+        "title": "What it does",
+        "steps": [
+          {
+            "title": "Calms inflammation signals",
+            "sub": "the hidden fire"
+          },
+          {
+            "title": "Antioxidant",
+            "sub": "protects cholesterol from damage"
+          },
+          {
+            "title": "Supports the artery lining",
+            "sub": "helps vessels relax"
+          }
+        ]
+      }
+    },
+    {
+      "from": 11902,
       "dur": 210,
       "comp": "BigStat",
       "props": {
@@ -1372,7 +1378,7 @@
       }
     },
     {
-      "from": 13855,
+      "from": 13693,
       "dur": 255,
       "comp": "Steps",
       "props": {
@@ -1396,7 +1402,7 @@
       }
     },
     {
-      "from": 17177,
+      "from": 17023,
       "dur": 300,
       "comp": "CuadernoReceta",
       "props": {
@@ -1414,7 +1420,7 @@
       }
     },
     {
-      "from": 22428,
+      "from": 22267,
       "dur": 300,
       "comp": "Timeline",
       "props": {
@@ -1441,7 +1447,7 @@
       }
     },
     {
-      "from": 28456,
+      "from": 28245,
       "dur": 180,
       "comp": "PolaroidRecuerdo",
       "props": {
@@ -1452,11 +1458,13 @@
       }
     },
     {
-      "from": 29191,
+      "from": 28965,
       "dur": 225,
       "comp": "MythVsTruth",
       "props": {
         "theme": "clinic",
+        "mythLabel": "Myth",
+        "truthLabel": "Truth",
         "myth": "Turmeric cleans the plaque out of your arteries.",
         "truth": "It does NOT dissolve plaque. It helps calm the inflammation behind the damage — support, not a cleaning service."
       }
