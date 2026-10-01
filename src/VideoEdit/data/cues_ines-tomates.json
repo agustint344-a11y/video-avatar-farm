@@ -1,0 +1,1980 @@
+{
+  "slug": "ines-tomates",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 41235,
+  "audioSrc": "ines-tomates.mp3",
+  "avatarSrc": "ines-tomates_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 529,
+      "dur": 1050,
+      "clip": 0
+    },
+    {
+      "from": 2152,
+      "dur": 582,
+      "clip": 1050
+    },
+    {
+      "from": 15248,
+      "dur": 312,
+      "clip": 1632
+    },
+    {
+      "from": 24022,
+      "dur": 957,
+      "clip": 1944
+    },
+    {
+      "from": 30439,
+      "dur": 620,
+      "clip": 2901
+    },
+    {
+      "from": 37056,
+      "dur": 217,
+      "clip": 3521
+    },
+    {
+      "from": 37546,
+      "dur": 117,
+      "clip": 3738
+    },
+    {
+      "from": 39186,
+      "dur": 1045,
+      "clip": 3855
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/ines-tomates_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 77,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/ines-tomates_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 156,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/ines-tomates_s03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 295,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/ines-tomates_s04.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 407,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/ines-tomates_s05.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1579,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/ines-tomates_s05.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1746,
+      "dur": 308,
+      "kind": "image",
+      "src": "img/ines-tomates_s06.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2054,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/ines-tomates_s07.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2734,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/ines-tomates_s08.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3125,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/ines-tomates_s11.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3270,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/ines-tomates_s12.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3496,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-tomates_s13.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3826,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/ines-tomates_s10.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3922,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/ines-tomates_s14.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3988,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/ines-tomates_s15.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4100,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/ines-tomates_s16.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4511,
+      "dur": 288,
+      "kind": "image",
+      "src": "img/ines-tomates_s18.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4799,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/ines-tomates_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4891,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/ines-tomates_s20.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5092,
+      "dur": 218,
+      "kind": "image",
+      "src": "img/ines-tomates_s21.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5310,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/ines-tomates_s22.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5698,
+      "dur": 360,
+      "kind": "image",
+      "src": "img/ines-tomates_s27.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6058,
+      "dur": 80,
+      "kind": "image",
+      "src": "img/ines-tomates_s25.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6138,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-tomates_s26.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6468,
+      "dur": 312,
+      "kind": "image",
+      "src": "img/ines-tomates_s24.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7110,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/ines-tomates_s29.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7277,
+      "dur": 339,
+      "kind": "image",
+      "src": "img/ines-tomates_s30.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7946,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/ines-tomates_s33.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8057,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/ines-tomates_s34.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8188,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/ines-tomates_s35.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8414,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/ines-tomates_s36.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8549,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/ines-tomates_s37.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8688,
+      "dur": 361,
+      "kind": "image",
+      "src": "img/ines-tomates_s38.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9049,
+      "dur": 316,
+      "kind": "image",
+      "src": "img/ines-tomates_s40.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9365,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/ines-tomates_s41.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9523,
+      "dur": 245,
+      "kind": "image",
+      "src": "img/ines-tomates_s42.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9768,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/ines-tomates_s43.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9989,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-tomates_s44.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10319,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/ines-tomates_s44.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10520,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/ines-tomates_s45.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10787,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/ines-tomates_s55.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11033,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/ines-tomates_s48.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11413,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/ines-tomates_s49.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11482,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/ines-tomates_s50.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11706,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/ines-tomates_s51.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12202,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/ines-tomates_s52.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12353,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/ines-tomates_s53.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12464,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-tomates_s54.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12794,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/ines-tomates_s54.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13016,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-tomates_s56.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13346,
+      "dur": 80,
+      "kind": "image",
+      "src": "img/ines-tomates_s57.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13426,
+      "dur": 297,
+      "kind": "image",
+      "src": "img/ines-tomates_s58.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13723,
+      "dur": 359,
+      "kind": "image",
+      "src": "img/ines-tomates_s59.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14082,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/ines-tomates_s60.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14203,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/ines-tomates_s61.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14340,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/ines-tomates_s62.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14506,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/ines-tomates_s63.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14681,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/ines-tomates_s64.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14887,
+      "dur": 361,
+      "kind": "image",
+      "src": "img/ines-tomates_s65.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15560,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/ines-tomates_s66.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15719,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-tomates_s67.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16049,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/ines-tomates_s67.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16187,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/ines-tomates_s68.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16414,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/ines-tomates_s69.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16523,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/ines-tomates_s70.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16716,
+      "dur": 334,
+      "kind": "image",
+      "src": "img/ines-tomates_s71.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17050,
+      "dur": 307,
+      "kind": "image",
+      "src": "img/ines-tomates_s72.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17597,
+      "dur": 19,
+      "kind": "image",
+      "src": "img/ines-tomates_s73.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17766,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/ines-tomates_s74.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17994,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/ines-tomates_s75.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18173,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/ines-tomates_s134.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18346,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/ines-tomates_s76.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18415,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/ines-tomates_s77.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18559,
+      "dur": 305,
+      "kind": "image",
+      "src": "img/ines-tomates_s78.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19134,
+      "dur": 218,
+      "kind": "image",
+      "src": "img/ines-tomates_s80.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19622,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/ines-tomates_s83.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19935,
+      "dur": 319,
+      "kind": "image",
+      "src": "img/ines-tomates_s85.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20254,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/ines-tomates_s86.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20419,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/ines-tomates_s87.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20584,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/ines-tomates_s88.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20822,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/ines-tomates_s89.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20923,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/ines-tomates_s90.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21058,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/ines-tomates_s91.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21251,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/ines-tomates_s92.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21380,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-tomates_s93.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21710,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/ines-tomates_s93.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21860,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/ines-tomates_s94.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21988,
+      "dur": 250,
+      "kind": "image",
+      "src": "img/ines-tomates_s95.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22238,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/ines-tomates_s96.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22358,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/ines-tomates_s97.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22792,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/ines-tomates_s100.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22940,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/ines-tomates_s101.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23162,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/ines-tomates_s102.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23376,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/ines-tomates_s103.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23772,
+      "dur": 49,
+      "kind": "image",
+      "src": "img/ines-tomates_s105.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23821,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/ines-tomates_s106.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24979,
+      "dur": 272,
+      "kind": "image",
+      "src": "img/ines-tomates_s108.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25671,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-tomates_s107.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26001,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-tomates_s107.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26331,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-tomates_s107.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26661,
+      "dur": 71,
+      "kind": "image",
+      "src": "img/ines-tomates_s107.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26732,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/ines-tomates_s109.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26916,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/ines-tomates_s110.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27108,
+      "dur": 264,
+      "kind": "image",
+      "src": "img/ines-tomates_s111.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27372,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/ines-tomates_s112.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27440,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/ines-tomates_s113.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27791,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/ines-tomates_s115.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27977,
+      "dur": 205,
+      "kind": "image",
+      "src": "img/ines-tomates_s116.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28182,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/ines-tomates_s117.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28283,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/ines-tomates_s118.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28504,
+      "dur": 336,
+      "kind": "image",
+      "src": "img/ines-tomates_s119.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28840,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/ines-tomates_s120.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29027,
+      "dur": 294,
+      "kind": "image",
+      "src": "img/ines-tomates_s121.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29321,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/ines-tomates_s122.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29404,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/ines-tomates_s123.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29543,
+      "dur": 80,
+      "kind": "image",
+      "src": "img/ines-tomates_s124.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29623,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/ines-tomates_s125.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29743,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/ines-tomates_s126.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29935,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/ines-tomates_s127.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30055,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/ines-tomates_s128.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30168,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/ines-tomates_s129.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30265,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/ines-tomates_s130.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31059,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/ines-tomates_s131.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31567,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/ines-tomates_s133.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31717,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/ines-tomates_s135.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31810,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/ines-tomates_s136.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31923,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/ines-tomates_s137.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31996,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/ines-tomates_s138.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32059,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/ines-tomates_s139.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32194,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/ines-tomates_s140.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32321,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/ines-tomates_s141.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32486,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/ines-tomates_s142.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32668,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/ines-tomates_s143.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32818,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/ines-tomates_s144.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32908,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/ines-tomates_s145.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33114,
+      "dur": 49,
+      "kind": "image",
+      "src": "img/ines-tomates_s146.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33163,
+      "dur": 67,
+      "kind": "image",
+      "src": "img/ines-tomates_s147.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33230,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/ines-tomates_s148.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33407,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/ines-tomates_s149.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33583,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/ines-tomates_s150.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33638,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/ines-tomates_s151.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33835,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/ines-tomates_s152.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34001,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/ines-tomates_s153.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 34223,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/ines-tomates_s154.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 34571,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/ines-tomates_s155.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34694,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/ines-tomates_s156.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34837,
+      "dur": 285,
+      "kind": "image",
+      "src": "img/ines-tomates_s157.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 35122,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/ines-tomates_s158.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 35245,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/ines-tomates_s159.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 35535,
+      "dur": 275,
+      "kind": "image",
+      "src": "img/ines-tomates_s161.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 35810,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/ines-tomates_s162.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 36011,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/ines-tomates_s163.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 36114,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/ines-tomates_s164.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 36311,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/ines-tomates_s165.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 36485,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/ines-tomates_s166.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 36635,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-tomates_s167.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 36965,
+      "dur": 91,
+      "kind": "image",
+      "src": "img/ines-tomates_s167.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 37273,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/ines-tomates_s160.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 37663,
+      "dur": 56,
+      "kind": "image",
+      "src": "img/ines-tomates_s168.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 38019,
+      "dur": 51,
+      "kind": "image",
+      "src": "img/ines-tomates_s170.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 38070,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/ines-tomates_s171.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 38268,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/ines-tomates_s172.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 38834,
+      "dur": 352,
+      "kind": "image",
+      "src": "img/ines-tomates_s169.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 40231,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-tomates_s173.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 40561,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-tomates_s173.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 40891,
+      "dur": 344,
+      "kind": "image",
+      "src": "img/ines-tomates_s173.png",
+      "kb": 3,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1084,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "HUERTA EN MACETAS Y BALCÓN",
+        "title": "Inés",
+        "sub": "cultiva su comida en 3 m²"
+      }
+    },
+    {
+      "from": 2152,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real"
+      }
+    },
+    {
+      "from": 2726,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LO BÁSICO",
+        "title": "Cómo funciona un tomate"
+      }
+    },
+    {
+      "from": 5310,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "La maceta es demasiado chica"
+      }
+    },
+    {
+      "from": 9989,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real"
+      }
+    },
+    {
+      "from": 10520,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "Falta sol"
+      }
+    },
+    {
+      "from": 14082,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "Exceso de abono con nitrógeno"
+      }
+    },
+    {
+      "from": 14203,
+      "dur": 150,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "EL ERROR QUE NADIE CUENTA",
+        "sub": "demasiado nitrógeno",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 18245,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "title": "Riego irregular"
+      }
+    },
+    {
+      "from": 20848,
+      "dur": 150,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "RIEGA LA TIERRA, NO LAS HOJAS",
+        "sub": "las hojas mojadas favorecen los hongos",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 21860,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 5",
+        "title": "Las flores no se polinizan"
+      }
+    },
+    {
+      "from": 24971,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "¿Cuál es tu caso?"
+      }
+    },
+    {
+      "from": 26732,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DESDE CERO",
+        "title": "Cómo armo mis tomates"
+      }
+    },
+    {
+      "from": 28182,
+      "dur": 150,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ENTIERRA EL TALLO",
+        "sub": "echa raíces en todo lo que queda bajo tierra",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 29935,
+      "dur": 150,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "QUITA LOS CHUPONES",
+        "sub": "2 o 3 tallos por planta, no más",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 30439,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real"
+      }
+    },
+    {
+      "from": 36114,
+      "dur": 150,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "JABÓN POTÁSICO",
+        "sub": "a la tarde, cada 5 a 7 días",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 36635,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real"
+      }
+    },
+    {
+      "from": 39186,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 2855,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Cómo funciona",
+        "title": "El camino de un tomate",
+        "steps": [
+          {
+            "title": "Primero hojas y tallos",
+            "sub": "la planta se asegura de estar fuerte"
+          },
+          {
+            "title": "Después las flores",
+            "sub": "solo cuando se siente segura"
+          },
+          {
+            "title": "De cada flor, un fruto",
+            "sub": "si algo falla, se queda en modo hojas"
+          }
+        ]
+      }
+    },
+    {
+      "from": 4211,
+      "dur": 300,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Dos tipos de tomate",
+        "left": {
+          "label": "Determinado",
+          "sub": "crece hasta cierta altura y da la cosecha junta"
+        },
+        "right": {
+          "label": "Indeterminado",
+          "sub": "sigue creciendo todo el verano; los cherry casi siempre"
+        }
+      }
+    },
+    {
+      "from": 5428,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Litros de tierra mínimos",
+        "items": [
+          "Tomate cherry: 20 litros",
+          "Tomate grande: 30 litros o más",
+          "Cherry compacto: 10 a 12 litros",
+          "Con agujeros de drenaje, siempre"
+        ]
+      }
+    },
+    {
+      "from": 6780,
+      "dur": 330,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Señales de maceta chica",
+        "items": [
+          "Se seca todos los días a la mañana",
+          "Ves raíces asomando por el fondo",
+          "Mustia al mediodía con tierra húmeda abajo"
+        ]
+      }
+    },
+    {
+      "from": 7616,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Razón 1 · Cómo arreglarlo",
+        "title": "Trasplante en 3 pasos",
+        "steps": [
+          {
+            "title": "Maceta de 20 a 30 litros",
+            "sub": "o un balde grande con agujeros"
+          },
+          {
+            "title": "Suelta las raíces con los dedos",
+            "sub": "y rellena los costados con sustrato nuevo"
+          },
+          {
+            "title": "Riego profundo y sombra",
+            "sub": "un par de días, a la tarde"
+          }
+        ]
+      }
+    },
+    {
+      "from": 10607,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/ines-tomates_s46.png",
+        "eyebrow": "Razón 2",
+        "phrase": "El tomate necesita de seis a ocho horas de sol directo.",
+        "accent": "sol directo"
+      }
+    },
+    {
+      "from": 11143,
+      "dur": 270,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Mi balcón es luminoso, así que tiene sol.",
+        "truth": "Luminoso no es soleado. El tomate pide 6 a 8 horas de sol directo, no luz que rebota."
+      }
+    },
+    {
+      "from": 11902,
+      "dur": 300,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Según el sol que tengas",
+        "left": {
+          "label": "Cuatro horas de sol",
+          "sub": "lechuga, rúcula, perejil, menta y cebollín"
+        },
+        "right": {
+          "label": "Seis a ocho horas",
+          "sub": "ahí sí: tomate"
+        }
+      }
+    },
+    {
+      "from": 17357,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Razón 3 · La regla",
+        "title": "Nitrógeno primero, potasio después",
+        "steps": [
+          {
+            "title": "Planta chica",
+            "sub": "un poco de nitrógeno para crecer"
+          },
+          {
+            "title": "Aparece la flor",
+            "sub": "abono rico en potasio"
+          },
+          {
+            "title": "Nunca al revés",
+            "sub": "y para el abono si hay exceso de hojas"
+          }
+        ]
+      }
+    },
+    {
+      "from": 17616,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/ines-tomates_s73.png",
+        "eyebrow": "Grábatelo",
+        "phrase": "Más abono no es más tomates.",
+        "accent": "más tomates"
+      }
+    },
+    {
+      "from": 18864,
+      "dur": 270,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "La mancha negra del tomate es un hongo.",
+        "truth": "Es podredumbre apical: falta de calcio por riego desparejo."
+      }
+    },
+    {
+      "from": 19352,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Razón 4 · Cómo regar",
+        "title": "Riego profundo y parejo",
+        "steps": [
+          {
+            "title": "Dedo a tres centímetros",
+            "sub": "si está seca, riegas"
+          },
+          {
+            "title": "Hasta que salga agua por abajo",
+            "sub": "profundo, no un chorrito"
+          },
+          {
+            "title": "Si está húmeda, esperas",
+            "sub": "el dedo manda, no el calendario"
+          }
+        ]
+      }
+    },
+    {
+      "from": 19755,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/ines-tomates_s84.png",
+        "eyebrow": "El mulch",
+        "phrase": "Cubrir la tierra reduce el riego casi a la mitad.",
+        "accent": "casi a la mitad"
+      }
+    },
+    {
+      "from": 20672,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/ines-tomates_s88.png",
+        "eyebrow": "Regla de oro",
+        "phrase": "El dedo es mejor que el calendario.",
+        "accent": "el dedo"
+      }
+    },
+    {
+      "from": 22522,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Ayuda a la polinización",
+        "items": [
+          "Sacude el tutor a media mañana",
+          "O toca cada flor con un pincel suave",
+          "Caléndula, lavanda y albahaca cerca"
+        ]
+      }
+    },
+    {
+      "from": 23502,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "El calor y el polen",
+        "left": {
+          "label": "Hasta 32 °C de día",
+          "sub": "y 21 °C de noche: el polen funciona"
+        },
+        "right": {
+          "label": "Más calor que eso",
+          "sub": "polen estéril: sombra de tarde y riego parejo"
+        }
+      }
+    },
+    {
+      "from": 25251,
+      "dur": 420,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Diagnóstico en 5 preguntas",
+        "items": [
+          "¿Maceta de menos de 20 litros?",
+          "¿Menos de 6 horas de sol directo?",
+          "¿Abonas más de 1 vez cada 2 semanas?",
+          "¿La tierra pasa de seca a encharcada?",
+          "¿Flores que se caen sin dejar fruto?"
+        ]
+      }
+    },
+    {
+      "from": 27521,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Mi sustrato para tomate",
+        "title": "4 · 3 · 2",
+        "steps": [
+          {
+            "title": "4 partes de sustrato",
+            "sub": "nunca tierra de jardín sola"
+          },
+          {
+            "title": "3 partes de compost",
+            "sub": "alimento de fondo"
+          },
+          {
+            "title": "2 partes de perlita",
+            "sub": "las piedritas blancas que airean"
+          }
+        ]
+      }
+    },
+    {
+      "from": 31147,
+      "dur": 420,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "El plan de 6 semanas",
+        "steps": [
+          {
+            "when": "Semana 1",
+            "text": "Trasplanta, tutor, mulch y deja de abonar"
+          },
+          {
+            "when": "Semana 2",
+            "text": "Riego parejo y quita chupones"
+          },
+          {
+            "when": "Semana 3",
+            "text": "Primeros racimos: potasio suave"
+          },
+          {
+            "when": "Semana 4",
+            "text": "Frutitos del tamaño de una arveja"
+          },
+          {
+            "when": "Semana 5",
+            "text": "Riego parejo y potasio cada 10 a 15 días"
+          },
+          {
+            "when": "Semana 6",
+            "text": "Cambio de color: a cosechar"
+          }
+        ]
+      }
+    },
+    {
+      "from": 34271,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Tres sospechosos extra",
+        "items": [
+          "La variedad: los tomates grandes piden más",
+          "La temperatura fuera de 20 a 27 °C",
+          "Las plagas: mira el envés de las hojas"
+        ]
+      }
+    },
+    {
+      "from": 35355,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "src": "img/ines-tomates_s159.png",
+        "eyebrow": "Temperatura",
+        "phrase": "El tomate es feliz entre veinte y veintisiete grados.",
+        "accent": "veinte y veintisiete grados"
+      }
+    },
+    {
+      "from": 37719,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Cuánto se tarda",
+        "items": [
+          "Cherry bien cuidado: 70 a 90 días tras el trasplante",
+          "Racimos cuajando: unas 6 semanas después",
+          "1 a 2 kilos por planta en 30 litros"
+        ]
+      }
+    },
+    {
+      "from": 38384,
+      "dur": 450,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Las 5 razones",
+        "items": [
+          "1 · Maceta chica: 20 a 30 litros",
+          "2 · Falta sol: 6 a 8 horas directas",
+          "3 · Exceso de nitrógeno: potasio en la flor",
+          "4 · Riego irregular: profundo, parejo, mulch",
+          "5 · Poca polinización: sacude o pincel"
+        ]
+      }
+    }
+  ]
+}
