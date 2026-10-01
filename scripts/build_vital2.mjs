@@ -54,7 +54,8 @@ const inAvatar = (f) => avatarRanges.some(([a, b]) => f >= a - sec(0.3) && f < b
 
 // ---------- COMPONENTES full-screen (tarjetas de frase oscuras + crema, como la referencia) ----------
 const fixSrc = (p) => { if (typeof p.src !== "string") return p; if (p.src.startsWith("IMG:")) return { ...p, src: IMG(+p.src.slice(4)) }; if (p.src.startsWith("AT:")) { const k = SHOTS.findIndex(([a]) => a === p.src.slice(3)); return { ...p, src: IMG(k + 1) }; } return p; };
-const compBeats = CFG.COMPS.map(([a, d, c, p]) => [a, d, c, fixSrc({ theme: T, ...p })]);
+const EN = (c) => c === "MythVsTruth" ? { mythLabel: "Myth", truthLabel: "Truth" } : c === "BeforeAfter" ? { beforeLabel: "BEFORE", afterLabel: "AFTER" } : {}; // defaults del kit vienen en español
+const compBeats = CFG.COMPS.map(([a, d, c, p]) => [a, d, c, fixSrc({ theme: T, ...EN(c), ...p })]);
 const components = [];
 const compMiss = [];
 for (const [a, d, comp, props] of compBeats) { const from = at(a); if (from == null) { compMiss.push(a); continue; } if (inAvatar(from)) { compMiss.push(`${a} (avatar)`); continue; } const nxA = avatarSegs.map((s) => s.from).filter((x) => x > from).sort((x, y) => x - y)[0]; const dd = Math.min(sec(d), nxA != null ? nxA - from : Infinity); components.push({ from, dur: dd, comp, props }); }
@@ -63,8 +64,8 @@ const compRanges = components.map((c) => [c.from, c.from + c.dur]);
 const inComp = (f) => compRanges.some(([a, b]) => f >= a - sec(0.3) && f < b);
 
 // ---------- OVERLAYS ----------
-const QRP = { theme: T, corner: "bl", src: QR, eyebrow: CFG.QREYEBROW || "SCAN TO SEE THE GUIDES", label: CFG.QRLABEL || "The Vital After 60 Playbook" };
-const ovBeats = [...CFG.OVS.map(([a, d, c, p]) => [a, d, c, { theme: T, ...p }]), ...(CFG.QRS || []).map((a) => [a, 7, "QRTag", QRP])];
+const QRP = { theme: T, corner: "bl", src: QR, eyebrow: CFG.QREYEBROW || "SCAN TO SEE THE GUIDES", label: CFG.QRLABEL || "The Vital After 60 Playbook", hint: "point your phone camera 📷" };
+const ovBeats = [...CFG.OVS.map(([a, d, c, p]) => [a, d, c, { theme: T, ...EN(c), ...p }]), ...(CFG.QRS || []).map((a) => [a, 7, "QRTag", QRP])];
 const overlays = [];
 const ovMiss = [];
 for (const [a, d, comp, props] of ovBeats) { const from = at(a); if (from == null) { ovMiss.push(a); continue; } if (comp !== "QRTag" && inComp(from)) { ovMiss.push(`${a} (comp)`); continue; } overlays.push({ from, dur: sec(d), comp, props }); }

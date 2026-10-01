@@ -301,8 +301,8 @@ export const Timeline: React.FC<{
 /* ═══════════════ 5) QRTag — QR en la esquina para escanear (aparece en los CTAs) ═══════════════ */
 export const QRTag: React.FC<{
   durationInFrames: number; theme?: Theme; src?: string;
-  eyebrow?: string; label?: string; corner?: "bl" | "br" | "tl" | "tr";
-}> = ({ durationInFrames, theme = THEME_CLINIC, src = "img/qr_guia.png", eyebrow = "ESCANEÁ EL CÓDIGO", label = "y llevate la guía", corner = "bl" }) => {
+  eyebrow?: string; label?: string; hint?: string; corner?: "bl" | "br" | "tl" | "tr";
+}> = ({ durationInFrames, theme = THEME_CLINIC, src = "img/qr_guia.png", eyebrow = "ESCANEÁ EL CÓDIGO", label = "y llevate la guía", hint = "apuntá la cámara 📷", corner = "bl" }) => {
   const { fps } = useVideoConfig();
   const f = useCurrentFrame();
   const t = f / fps;
@@ -321,7 +321,7 @@ export const QRTag: React.FC<{
         <div style={{ maxWidth: 240 }}>
           <div style={{ color: theme.accent, font: `800 24px/1 ${theme.sans}`, letterSpacing: 2, textTransform: "uppercase" }}>{eyebrow}</div>
           <div style={{ color: theme.ink, font: `700 34px/1.1 ${theme.serif}`, marginTop: 8 }}>{label}</div>
-          <div style={{ color: theme.muted, font: `500 22px/1.2 ${theme.sans}`, marginTop: 8 }}>apuntá la cámara 📷</div>
+          <div style={{ color: theme.muted, font: `500 22px/1.2 ${theme.sans}`, marginTop: 8 }}>{hint}</div>
         </div>
       </div>
     </AbsoluteFill>

@@ -1149,7 +1149,8 @@
         "corner": "bl",
         "src": "img/qr_vital.png",
         "eyebrow": "SCAN TO SEE THE GUIDES",
-        "label": "The Vital After 60 Playbook"
+        "label": "The Vital After 60 Playbook",
+        "hint": "point your phone camera 📷"
       }
     },
     {
@@ -1216,7 +1217,8 @@
         "corner": "bl",
         "src": "img/qr_vital.png",
         "eyebrow": "SCAN TO SEE THE GUIDES",
-        "label": "The Vital After 60 Playbook"
+        "label": "The Vital After 60 Playbook",
+        "hint": "point your phone camera 📷"
       }
     },
     {
@@ -1252,7 +1254,8 @@
         "corner": "bl",
         "src": "img/qr_vital.png",
         "eyebrow": "SCAN TO SEE THE GUIDES",
-        "label": "The Vital After 60 Playbook"
+        "label": "The Vital After 60 Playbook",
+        "hint": "point your phone camera 📷"
       }
     },
     {
@@ -1337,7 +1340,8 @@
         "corner": "bl",
         "src": "img/qr_vital.png",
         "eyebrow": "SCAN TO SEE THE GUIDES",
-        "label": "The Vital After 60 Playbook"
+        "label": "The Vital After 60 Playbook",
+        "hint": "point your phone camera 📷"
       }
     }
   ],
@@ -1348,6 +1352,8 @@
       "comp": "MythVsTruth",
       "props": {
         "theme": "clinic",
+        "mythLabel": "Myth",
+        "truthLabel": "Truth",
         "myth": "Your kidneys are just a drain.",
         "truth": "They are a control center: they filter ALL your blood, control blood pressure, balance minerals and help make red blood cells."
       }
