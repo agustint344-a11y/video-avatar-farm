@@ -3,87 +3,87 @@
   "fps": 30,
   "width": 1920,
   "height": 1080,
-  "durationInFrames": 36220,
+  "durationInFrames": 36232,
   "audioSrc": "bloodflow-vital.mp3",
   "avatarSrc": "bloodflow-vital_avatar.mp4",
   "avatarSegs": [
     {
       "from": 0,
-      "dur": 271,
+      "dur": 254,
       "clip": 0
     },
     {
-      "from": 2005,
-      "dur": 868,
-      "clip": 271
+      "from": 1935,
+      "dur": 847,
+      "clip": 254
     },
     {
-      "from": 8480,
-      "dur": 841,
-      "clip": 1139
+      "from": 8427,
+      "dur": 790,
+      "clip": 1101
     },
     {
-      "from": 26949,
-      "dur": 529,
-      "clip": 1980
+      "from": 26805,
+      "dur": 549,
+      "clip": 1891
     },
     {
-      "from": 35174,
-      "dur": 1034,
-      "clip": 2509
+      "from": 35152,
+      "dur": 1043,
+      "clip": 2440
     }
   ],
   "broll": [
     {
-      "from": 271,
-      "dur": 70,
+      "from": 254,
+      "dur": 58,
       "kind": "image",
       "src": "img/bloodflow-vital_s01.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 341,
-      "dur": 90,
+      "from": 312,
+      "dur": 100,
       "kind": "image",
       "src": "img/bloodflow-vital_s02.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 431,
-      "dur": 201,
+      "from": 412,
+      "dur": 200,
       "kind": "image",
       "src": "img/bloodflow-vital_s03.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 632,
-      "dur": 310,
+      "from": 612,
+      "dur": 302,
       "kind": "image",
       "src": "img/bloodflow-vital_s04.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 942,
-      "dur": 214,
+      "from": 914,
+      "dur": 202,
       "kind": "video",
       "src": "broll/bloodflow-vital_v_s05.mp4",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 1156,
-      "dur": 316,
+      "from": 1116,
+      "dur": 295,
       "kind": "image",
       "src": "img/bloodflow-vital_s06.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 1472,
+      "from": 1411,
       "dur": 330,
       "kind": "image",
       "src": "img/bloodflow-vital_s07.png",
@@ -91,63 +91,63 @@
       "pip": false
     },
     {
-      "from": 1802,
-      "dur": 203,
+      "from": 1741,
+      "dur": 194,
       "kind": "image",
       "src": "img/bloodflow-vital_s07.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 2873,
-      "dur": 193,
+      "from": 2782,
+      "dur": 218,
       "kind": "video",
       "src": "broll/bloodflow-vital_v_s08.mp4",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 3276,
-      "dur": 314,
+      "from": 3210,
+      "dur": 287,
       "kind": "image",
       "src": "img/bloodflow-vital_s10.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 3590,
-      "dur": 231,
+      "from": 3497,
+      "dur": 215,
       "kind": "image",
       "src": "img/bloodflow-vital_s11.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 3821,
-      "dur": 180,
+      "from": 3712,
+      "dur": 207,
       "kind": "image",
       "src": "img/bloodflow-vital_s12.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 4001,
-      "dur": 155,
+      "from": 3919,
+      "dur": 166,
       "kind": "image",
       "src": "img/bloodflow-vital_s13.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 4156,
-      "dur": 254,
+      "from": 4085,
+      "dur": 261,
       "kind": "image",
       "src": "img/bloodflow-vital_s14.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 4410,
+      "from": 4346,
       "dur": 330,
       "kind": "image",
       "src": "img/bloodflow-vital_s15.png",
@@ -155,63 +155,63 @@
       "pip": false
     },
     {
-      "from": 4740,
-      "dur": 137,
+      "from": 4676,
+      "dur": 98,
       "kind": "image",
       "src": "img/bloodflow-vital_s15.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 4877,
-      "dur": 92,
+      "from": 4774,
+      "dur": 76,
       "kind": "image",
       "src": "img/bloodflow-vital_s16.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 4969,
-      "dur": 218,
+      "from": 4850,
+      "dur": 229,
       "kind": "image",
       "src": "img/bloodflow-vital_s17.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 5427,
-      "dur": 259,
+      "from": 5319,
+      "dur": 248,
       "kind": "image",
       "src": "img/bloodflow-vital_s19.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 5686,
-      "dur": 155,
+      "from": 5567,
+      "dur": 160,
       "kind": "image",
       "src": "img/bloodflow-vital_s89.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 5841,
-      "dur": 186,
+      "from": 5727,
+      "dur": 188,
       "kind": "image",
       "src": "img/bloodflow-vital_s21.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 6027,
-      "dur": 258,
+      "from": 5915,
+      "dur": 271,
       "kind": "image",
       "src": "img/bloodflow-vital_s22.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 6285,
+      "from": 6186,
       "dur": 206,
       "kind": "image",
       "src": "img/bloodflow-vital_s23.png",
@@ -219,103 +219,103 @@
       "pip": false
     },
     {
-      "from": 6491,
-      "dur": 190,
+      "from": 6392,
+      "dur": 195,
       "kind": "image",
       "src": "img/bloodflow-vital_s24.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 6981,
-      "dur": 298,
+      "from": 6887,
+      "dur": 323,
       "kind": "image",
       "src": "img/bloodflow-vital_s26.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 7279,
-      "dur": 341,
+      "from": 7210,
+      "dur": 349,
       "kind": "image",
       "src": "img/bloodflow-vital_s27.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 7620,
-      "dur": 330,
+      "from": 7559,
+      "dur": 323,
       "kind": "image",
       "src": "img/bloodflow-vital_s28.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 7950,
-      "dur": 373,
+      "from": 7882,
+      "dur": 330,
       "kind": "image",
-      "src": "img/bloodflow-vital_s28.png",
+      "src": "img/bloodflow-vital_s29.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 8323,
-      "dur": 157,
+      "from": 8212,
+      "dur": 58,
       "kind": "image",
-      "src": "img/bloodflow-vital_s30.png",
+      "src": "img/bloodflow-vital_s29.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 9321,
-      "dur": 159,
-      "kind": "video",
-      "src": "broll/bloodflow-vital_v_s31.mp4",
+      "from": 8270,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/bloodflow-vital_s30.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 9480,
-      "dur": 323,
-      "kind": "image",
-      "src": "img/bloodflow-vital_s32.png",
+      "from": 9217,
+      "dur": 155,
+      "kind": "video",
+      "src": "broll/bloodflow-vital_v_s31.mp4",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 9803,
-      "dur": 239,
+      "from": 9372,
+      "dur": 322,
       "kind": "image",
-      "src": "img/bloodflow-vital_s33.png",
+      "src": "img/bloodflow-vital_s32.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 10327,
-      "dur": 173,
+      "from": 9694,
+      "dur": 253,
       "kind": "image",
-      "src": "img/bloodflow-vital_s35.png",
+      "src": "img/bloodflow-vital_s33.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 10500,
-      "dur": 164,
+      "from": 10232,
+      "dur": 297,
       "kind": "image",
-      "src": "img/bloodflow-vital_s36.png",
+      "src": "img/bloodflow-vital_s35.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 10664,
-      "dur": 349,
+      "from": 10529,
+      "dur": 376,
       "kind": "image",
       "src": "img/bloodflow-vital_s37.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 11013,
+      "from": 10905,
       "dur": 218,
       "kind": "image",
       "src": "img/bloodflow-vital_s38.png",
@@ -323,47 +323,47 @@
       "pip": false
     },
     {
-      "from": 11231,
-      "dur": 218,
+      "from": 11123,
+      "dur": 215,
       "kind": "image",
       "src": "img/bloodflow-vital_s39.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 11449,
-      "dur": 125,
+      "from": 11338,
+      "dur": 118,
       "kind": "video",
       "src": "broll/bloodflow-vital_v_s40.mp4",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 11574,
-      "dur": 199,
+      "from": 11456,
+      "dur": 177,
       "kind": "image",
       "src": "img/bloodflow-vital_s41.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 11773,
-      "dur": 297,
+      "from": 11633,
+      "dur": 317,
       "kind": "image",
       "src": "img/bloodflow-vital_s42.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 12070,
-      "dur": 211,
+      "from": 11950,
+      "dur": 218,
       "kind": "image",
       "src": "img/bloodflow-vital_s43.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 12281,
+      "from": 12168,
       "dur": 330,
       "kind": "image",
       "src": "img/bloodflow-vital_s44.png",
@@ -371,7 +371,7 @@
       "pip": false
     },
     {
-      "from": 12611,
+      "from": 12498,
       "dur": 330,
       "kind": "image",
       "src": "img/bloodflow-vital_s44.png",
@@ -379,623 +379,623 @@
       "pip": false
     },
     {
-      "from": 12941,
-      "dur": 149,
+      "from": 12828,
+      "dur": 147,
       "kind": "image",
       "src": "img/bloodflow-vital_s44.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 13090,
-      "dur": 156,
+      "from": 12975,
+      "dur": 180,
       "kind": "image",
       "src": "img/bloodflow-vital_s46.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 13246,
-      "dur": 219,
+      "from": 13155,
+      "dur": 207,
       "kind": "image",
       "src": "img/bloodflow-vital_s47.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 13465,
-      "dur": 271,
+      "from": 13362,
+      "dur": 253,
       "kind": "image",
       "src": "img/bloodflow-vital_s48.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 13736,
-      "dur": 285,
+      "from": 13615,
+      "dur": 262,
       "kind": "image",
       "src": "img/bloodflow-vital_s49.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 14021,
-      "dur": 69,
+      "from": 13877,
+      "dur": 96,
       "kind": "image",
       "src": "img/bloodflow-vital_s50.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 14090,
-      "dur": 330,
+      "from": 13973,
+      "dur": 349,
       "kind": "image",
       "src": "img/bloodflow-vital_s51.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 14420,
-      "dur": 330,
+      "from": 14322,
+      "dur": 371,
       "kind": "image",
       "src": "img/bloodflow-vital_s52.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 14750,
-      "dur": 56,
+      "from": 14963,
+      "dur": 154,
       "kind": "image",
-      "src": "img/bloodflow-vital_s52.png",
+      "src": "img/bloodflow-vital_s54.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 15076,
-      "dur": 164,
-      "kind": "image",
-      "src": "img/bloodflow-vital_s54.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 15240,
+      "from": 15117,
       "dur": 330,
       "kind": "image",
       "src": "img/bloodflow-vital_s55.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15447,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/bloodflow-vital_s53.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 15570,
-      "dur": 181,
+      "from": 15571,
+      "dur": 200,
       "kind": "image",
-      "src": "img/bloodflow-vital_s53.png",
+      "src": "img/bloodflow-vital_s56.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 15751,
-      "dur": 208,
+      "from": 15771,
+      "dur": 91,
       "kind": "image",
-      "src": "img/bloodflow-vital_s56.png",
+      "src": "img/bloodflow-vital_s57.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 15959,
-      "dur": 96,
+      "from": 15862,
+      "dur": 330,
       "kind": "image",
-      "src": "img/bloodflow-vital_s57.png",
+      "src": "img/bloodflow-vital_s58.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 16055,
-      "dur": 330,
+      "from": 16192,
+      "dur": 204,
       "kind": "image",
       "src": "img/bloodflow-vital_s58.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 16385,
-      "dur": 211,
-      "kind": "image",
-      "src": "img/bloodflow-vital_s58.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 16596,
+      "from": 16396,
       "dur": 174,
       "kind": "video",
       "src": "broll/bloodflow-vital_v_s59.mp4",
-      "kb": 5,
+      "kb": 4,
       "pip": false
     },
     {
-      "from": 16770,
-      "dur": 127,
+      "from": 16570,
+      "dur": 107,
       "kind": "video",
       "src": "broll/bloodflow-vital_v_s59.mp4",
-      "kb": 0,
+      "kb": 5,
       "pip": false
     },
     {
-      "from": 16897,
-      "dur": 172,
+      "from": 16677,
+      "dur": 153,
       "kind": "image",
       "src": "img/bloodflow-vital_s60.png",
-      "kb": 1,
+      "kb": 0,
       "pip": false
     },
     {
-      "from": 17069,
-      "dur": 321,
+      "from": 16830,
+      "dur": 317,
       "kind": "image",
       "src": "img/bloodflow-vital_s61.png",
-      "kb": 2,
+      "kb": 1,
       "pip": false
     },
     {
-      "from": 17390,
-      "dur": 125,
+      "from": 17147,
+      "dur": 111,
       "kind": "image",
       "src": "img/bloodflow-vital_s62.png",
-      "kb": 3,
+      "kb": 2,
       "pip": false
     },
     {
-      "from": 17515,
-      "dur": 343,
+      "from": 17258,
+      "dur": 347,
       "kind": "image",
       "src": "img/bloodflow-vital_s63.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17605,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bloodflow-vital_s64.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 17858,
-      "dur": 330,
+      "from": 17935,
+      "dur": 199,
       "kind": "image",
       "src": "img/bloodflow-vital_s64.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 18188,
-      "dur": 234,
-      "kind": "image",
-      "src": "img/bloodflow-vital_s64.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 18422,
-      "dur": 306,
+      "from": 18134,
+      "dur": 286,
       "kind": "image",
       "src": "img/bloodflow-vital_s65.png",
-      "kb": 1,
+      "kb": 0,
       "pip": false
     },
     {
-      "from": 18728,
-      "dur": 185,
+      "from": 18420,
+      "dur": 200,
       "kind": "image",
       "src": "img/bloodflow-vital_s66.png",
-      "kb": 2,
+      "kb": 1,
       "pip": false
     },
     {
-      "from": 18913,
-      "dur": 114,
+      "from": 18620,
+      "dur": 113,
       "kind": "image",
       "src": "img/bloodflow-vital_s67.png",
-      "kb": 3,
+      "kb": 2,
       "pip": false
     },
     {
-      "from": 19027,
-      "dur": 215,
+      "from": 18733,
+      "dur": 213,
       "kind": "image",
       "src": "img/bloodflow-vital_s68.png",
-      "kb": 4,
+      "kb": 3,
       "pip": false
     },
     {
-      "from": 19242,
-      "dur": 272,
+      "from": 18946,
+      "dur": 268,
       "kind": "image",
       "src": "img/bloodflow-vital_s69.png",
-      "kb": 5,
+      "kb": 4,
       "pip": false
     },
     {
-      "from": 19514,
-      "dur": 356,
+      "from": 19214,
+      "dur": 322,
       "kind": "image",
       "src": "img/bloodflow-vital_s71.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19536,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bloodflow-vital_s72.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 19870,
-      "dur": 330,
+      "from": 19866,
+      "dur": 86,
       "kind": "image",
       "src": "img/bloodflow-vital_s72.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 20200,
-      "dur": 73,
-      "kind": "image",
-      "src": "img/bloodflow-vital_s72.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 20273,
-      "dur": 216,
+      "from": 19952,
+      "dur": 215,
       "kind": "image",
       "src": "img/bloodflow-vital_s73.png",
-      "kb": 3,
+      "kb": 2,
       "pip": false
     },
     {
-      "from": 20489,
-      "dur": 293,
+      "from": 20167,
+      "dur": 290,
       "kind": "image",
       "src": "img/bloodflow-vital_s74.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 20782,
-      "dur": 169,
-      "kind": "image",
-      "src": "img/bloodflow-vital_s75.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 20951,
-      "dur": 253,
-      "kind": "image",
-      "src": "img/bloodflow-vital_s76.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 21204,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/bloodflow-vital_s77.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 21534,
-      "dur": 59,
-      "kind": "image",
-      "src": "img/bloodflow-vital_s77.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 21593,
-      "dur": 251,
-      "kind": "image",
-      "src": "img/bloodflow-vital_s78.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 21844,
-      "dur": 164,
-      "kind": "image",
-      "src": "img/bloodflow-vital_s79.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 22008,
-      "dur": 321,
-      "kind": "image",
-      "src": "img/bloodflow-vital_s80.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 22329,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/bloodflow-vital_s81.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 22659,
-      "dur": 70,
-      "kind": "image",
-      "src": "img/bloodflow-vital_s81.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 22729,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/bloodflow-vital_s82.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 23059,
-      "dur": 211,
-      "kind": "image",
-      "src": "img/bloodflow-vital_s82.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 23570,
-      "dur": 154,
-      "kind": "image",
-      "src": "img/bloodflow-vital_s83.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 23724,
-      "dur": 165,
-      "kind": "image",
-      "src": "img/bloodflow-vital_s84.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 23889,
+      "from": 20457,
       "dur": 166,
       "kind": "image",
-      "src": "img/bloodflow-vital_s85.png",
+      "src": "img/bloodflow-vital_s75.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20623,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/bloodflow-vital_s76.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20871,
+      "dur": 377,
+      "kind": "image",
+      "src": "img/bloodflow-vital_s77.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 24055,
-      "dur": 330,
+      "from": 21248,
+      "dur": 225,
       "kind": "image",
-      "src": "img/bloodflow-vital_s86.png",
+      "src": "img/bloodflow-vital_s78.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 24385,
-      "dur": 100,
+      "from": 21473,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/bloodflow-vital_s79.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21656,
+      "dur": 298,
+      "kind": "image",
+      "src": "img/bloodflow-vital_s80.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21954,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bloodflow-vital_s81.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22284,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/bloodflow-vital_s81.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22373,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bloodflow-vital_s82.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22703,
+      "dur": 229,
+      "kind": "image",
+      "src": "img/bloodflow-vital_s82.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23232,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/bloodflow-vital_s83.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23366,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/bloodflow-vital_s84.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23549,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/bloodflow-vital_s85.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23741,
+      "dur": 330,
       "kind": "image",
       "src": "img/bloodflow-vital_s86.png",
-      "kb": 2,
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24071,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/bloodflow-vital_s86.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24194,
+      "dur": 291,
+      "kind": "image",
+      "src": "img/bloodflow-vital_s87.png",
+      "kb": 1,
       "pip": false
     },
     {
       "from": 24485,
-      "dur": 264,
-      "kind": "image",
-      "src": "img/bloodflow-vital_s87.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 24749,
       "dur": 330,
       "kind": "image",
       "src": "img/bloodflow-vital_s88.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 25079,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/bloodflow-vital_s88.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 25409,
-      "dur": 177,
-      "kind": "image",
-      "src": "img/bloodflow-vital_s88.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 25586,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/bloodflow-vital_s90.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 25916,
-      "dur": 256,
-      "kind": "image",
-      "src": "img/bloodflow-vital_s90.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 26172,
+      "from": 24815,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bloodflow-vital_s88.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25145,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/bloodflow-vital_s88.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25358,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bloodflow-vital_s90.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25688,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/bloodflow-vital_s90.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25964,
       "dur": 174,
+      "kind": "video",
+      "src": "broll/bloodflow-vital_v_s91.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26138,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/bloodflow-vital_v_s91.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26312,
+      "dur": 57,
       "kind": "video",
       "src": "broll/bloodflow-vital_v_s91.mp4",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 26346,
-      "dur": 174,
-      "kind": "video",
-      "src": "broll/bloodflow-vital_v_s91.mp4",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 26520,
-      "dur": 58,
-      "kind": "video",
-      "src": "broll/bloodflow-vital_v_s91.mp4",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 26578,
-      "dur": 371,
+      "from": 26369,
+      "dur": 330,
       "kind": "image",
       "src": "img/bloodflow-vital_s92.png",
-      "kb": 0,
+      "kb": 4,
       "pip": false
     },
     {
-      "from": 27478,
-      "dur": 278,
+      "from": 26699,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/bloodflow-vital_s92.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27354,
+      "dur": 290,
       "kind": "image",
       "src": "img/bloodflow-vital_s94.png",
-      "kb": 1,
+      "kb": 0,
       "pip": false
     },
     {
-      "from": 27756,
-      "dur": 301,
+      "from": 27644,
+      "dur": 289,
       "kind": "image",
       "src": "img/bloodflow-vital_s95.png",
-      "kb": 2,
+      "kb": 1,
       "pip": false
     },
     {
-      "from": 28057,
-      "dur": 201,
+      "from": 27933,
+      "dur": 224,
       "kind": "image",
       "src": "img/bloodflow-vital_s96.png",
-      "kb": 3,
+      "kb": 2,
       "pip": false
     },
     {
-      "from": 28258,
-      "dur": 99,
+      "from": 28157,
+      "dur": 112,
       "kind": "image",
       "src": "img/bloodflow-vital_s97.png",
-      "kb": 4,
+      "kb": 3,
       "pip": false
     },
     {
-      "from": 28537,
-      "dur": 279,
+      "from": 28449,
+      "dur": 308,
       "kind": "image",
       "src": "img/bloodflow-vital_s99.png",
-      "kb": 5,
+      "kb": 4,
       "pip": false
     },
     {
-      "from": 28816,
-      "dur": 132,
+      "from": 28757,
+      "dur": 129,
       "kind": "video",
       "src": "broll/bloodflow-vital_v_s100.mp4",
-      "kb": 0,
+      "kb": 5,
       "pip": false
     },
     {
-      "from": 29173,
-      "dur": 294,
+      "from": 29111,
+      "dur": 330,
       "kind": "image",
       "src": "img/bloodflow-vital_s101.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 29467,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/bloodflow-vital_s102.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 29797,
-      "dur": 238,
-      "kind": "image",
-      "src": "img/bloodflow-vital_s102.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 30035,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/bloodflow-vital_s103.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 30365,
-      "dur": 152,
-      "kind": "image",
-      "src": "img/bloodflow-vital_s103.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 30517,
-      "dur": 201,
-      "kind": "image",
-      "src": "img/bloodflow-vital_s104.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 30718,
+      "from": 29441,
       "dur": 330,
       "kind": "image",
-      "src": "img/bloodflow-vital_s105.png",
+      "src": "img/bloodflow-vital_s102.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 31048,
-      "dur": 330,
+      "from": 29771,
+      "dur": 262,
       "kind": "image",
-      "src": "img/bloodflow-vital_s105.png",
+      "src": "img/bloodflow-vital_s102.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 31378,
-      "dur": 143,
+      "from": 30033,
+      "dur": 330,
       "kind": "image",
-      "src": "img/bloodflow-vital_s105.png",
+      "src": "img/bloodflow-vital_s103.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 31521,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/bloodflow-vital_s106.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 31851,
+      "from": 30363,
       "dur": 159,
       "kind": "image",
-      "src": "img/bloodflow-vital_s106.png",
+      "src": "img/bloodflow-vital_s103.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30522,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/bloodflow-vital_s104.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 32010,
+      "from": 30726,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bloodflow-vital_s105.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31056,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bloodflow-vital_s105.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31386,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/bloodflow-vital_s105.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31494,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bloodflow-vital_s106.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31824,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/bloodflow-vital_s106.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31969,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/bloodflow-vital_s107.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32299,
       "dur": 330,
       "kind": "image",
       "src": "img/bloodflow-vital_s107.png",
@@ -1003,23 +1003,23 @@
       "pip": false
     },
     {
-      "from": 32340,
-      "dur": 330,
+      "from": 32629,
+      "dur": 210,
       "kind": "image",
       "src": "img/bloodflow-vital_s107.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 32670,
-      "dur": 222,
+      "from": 32839,
+      "dur": 330,
       "kind": "image",
-      "src": "img/bloodflow-vital_s107.png",
+      "src": "img/bloodflow-vital_s108.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 32892,
+      "from": 33169,
       "dur": 330,
       "kind": "image",
       "src": "img/bloodflow-vital_s108.png",
@@ -1027,23 +1027,23 @@
       "pip": false
     },
     {
-      "from": 33222,
-      "dur": 330,
+      "from": 33499,
+      "dur": 254,
       "kind": "image",
       "src": "img/bloodflow-vital_s108.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 33552,
-      "dur": 242,
+      "from": 33753,
+      "dur": 330,
       "kind": "image",
-      "src": "img/bloodflow-vital_s108.png",
+      "src": "img/bloodflow-vital_s109.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 33794,
+      "from": 34083,
       "dur": 330,
       "kind": "image",
       "src": "img/bloodflow-vital_s109.png",
@@ -1051,7 +1051,7 @@
       "pip": false
     },
     {
-      "from": 34124,
+      "from": 34413,
       "dur": 330,
       "kind": "image",
       "src": "img/bloodflow-vital_s109.png",
@@ -1059,7 +1059,7 @@
       "pip": false
     },
     {
-      "from": 34454,
+      "from": 34743,
       "dur": 330,
       "kind": "image",
       "src": "img/bloodflow-vital_s109.png",
@@ -1067,25 +1067,25 @@
       "pip": false
     },
     {
-      "from": 34784,
-      "dur": 330,
+      "from": 35073,
+      "dur": 79,
       "kind": "image",
       "src": "img/bloodflow-vital_s109.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 35114,
-      "dur": 60,
+      "from": 36195,
+      "dur": 37,
       "kind": "image",
-      "src": "img/bloodflow-vital_s109.png",
+      "src": "img/bloodflow-vital_s98.png",
       "kb": 4,
       "pip": false
     }
   ],
   "overlays": [
     {
-      "from": 2005,
+      "from": 1935,
       "dur": 150,
       "comp": "LowerThird",
       "props": {
@@ -1096,7 +1096,7 @@
       }
     },
     {
-      "from": 4877,
+      "from": 4774,
       "dur": 114,
       "comp": "KeywordPop",
       "props": {
@@ -1107,19 +1107,20 @@
       }
     },
     {
-      "from": 9082,
+      "from": 9046,
       "dur": 210,
       "comp": "QRTag",
       "props": {
         "theme": "clinic",
         "corner": "bl",
         "src": "img/qr_vital.png",
-        "eyebrow": "SCAN FOR THE FREE GUIDE",
-        "label": "The Natural Wellness Method"
+        "eyebrow": "SCAN TO SEE THE GUIDES",
+        "label": "The Vital After 60 Playbook",
+        "hint": "point your phone camera 📷"
       }
     },
     {
-      "from": 11449,
+      "from": 11338,
       "dur": 135,
       "comp": "SectionTitle",
       "props": {
@@ -1129,19 +1130,20 @@
       }
     },
     {
-      "from": 11449,
+      "from": 11338,
       "dur": 210,
       "comp": "QRTag",
       "props": {
         "theme": "clinic",
         "corner": "bl",
         "src": "img/qr_vital.png",
-        "eyebrow": "SCAN FOR THE FREE GUIDE",
-        "label": "The Natural Wellness Method"
+        "eyebrow": "SCAN TO SEE THE GUIDES",
+        "label": "The Vital After 60 Playbook",
+        "hint": "point your phone camera 📷"
       }
     },
     {
-      "from": 13465,
+      "from": 13362,
       "dur": 180,
       "comp": "TimerCocina",
       "props": {
@@ -1153,7 +1155,7 @@
       }
     },
     {
-      "from": 16596,
+      "from": 16396,
       "dur": 165,
       "comp": "Callout",
       "props": {
@@ -1165,13 +1167,26 @@
       }
     },
     {
-      "from": 17992,
+      "from": 17652,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN TO SEE THE GUIDES",
+        "label": "The Vital After 60 Playbook",
+        "hint": "point your phone camera 📷"
+      }
+    },
+    {
+      "from": 17749,
       "dur": 180,
       "comp": "SplitInfo",
       "props": {
         "theme": "clinic",
         "eyebrow": "In the guide",
-        "title": "The Natural Wellness Method",
+        "title": "The Vital After 60 Playbook",
         "items": [
           "Exact beetroot amounts",
           "The blood-flow food list",
@@ -1180,19 +1195,7 @@
       }
     },
     {
-      "from": 18333,
-      "dur": 210,
-      "comp": "QRTag",
-      "props": {
-        "theme": "clinic",
-        "corner": "bl",
-        "src": "img/qr_vital.png",
-        "eyebrow": "SCAN FOR THE FREE GUIDE",
-        "label": "The Natural Wellness Method"
-      }
-    },
-    {
-      "from": 18913,
+      "from": 18620,
       "dur": 114,
       "comp": "KeywordPop",
       "props": {
@@ -1203,7 +1206,7 @@
       }
     },
     {
-      "from": 20951,
+      "from": 20623,
       "dur": 150,
       "comp": "LowerThird",
       "props": {
@@ -1214,7 +1217,7 @@
       }
     },
     {
-      "from": 22008,
+      "from": 21656,
       "dur": 150,
       "comp": "Callout",
       "props": {
@@ -1226,7 +1229,7 @@
       }
     },
     {
-      "from": 24749,
+      "from": 24485,
       "dur": 150,
       "comp": "StatChip",
       "props": {
@@ -1238,7 +1241,7 @@
       }
     },
     {
-      "from": 29467,
+      "from": 29441,
       "dur": 135,
       "comp": "SelloError",
       "props": {
@@ -1249,7 +1252,7 @@
       }
     },
     {
-      "from": 30035,
+      "from": 30033,
       "dur": 135,
       "comp": "SelloError",
       "props": {
@@ -1260,7 +1263,7 @@
       }
     },
     {
-      "from": 30718,
+      "from": 30726,
       "dur": 180,
       "comp": "Callout",
       "props": {
@@ -1272,7 +1275,7 @@
       }
     },
     {
-      "from": 31521,
+      "from": 31494,
       "dur": 165,
       "comp": "Callout",
       "props": {
@@ -1284,7 +1287,7 @@
       }
     },
     {
-      "from": 32010,
+      "from": 31969,
       "dur": 180,
       "comp": "Callout",
       "props": {
@@ -1296,21 +1299,22 @@
       }
     },
     {
-      "from": 35739,
+      "from": 35792,
       "dur": 210,
       "comp": "QRTag",
       "props": {
         "theme": "clinic",
         "corner": "bl",
         "src": "img/qr_vital.png",
-        "eyebrow": "SCAN FOR THE FREE GUIDE",
-        "label": "The Natural Wellness Method"
+        "eyebrow": "SCAN TO SEE THE GUIDES",
+        "label": "The Vital After 60 Playbook",
+        "hint": "point your phone camera 📷"
       }
     }
   ],
   "components": [
     {
-      "from": 3066,
+      "from": 3000,
       "dur": 210,
       "comp": "BigStat",
       "props": {
@@ -1322,17 +1326,19 @@
       }
     },
     {
-      "from": 5187,
+      "from": 5079,
       "dur": 240,
       "comp": "MythVsTruth",
       "props": {
         "theme": "clinic",
+        "mythLabel": "Myth",
+        "truthLabel": "Truth",
         "myth": "Arteries are rigid pipes.",
         "truth": "They are LIVING tubes. Their lining releases NITRIC OXIDE — the key that tells them to relax and widen."
       }
     },
     {
-      "from": 6681,
+      "from": 6587,
       "dur": 285,
       "comp": "Checklist",
       "props": {
@@ -1347,7 +1353,7 @@
       }
     },
     {
-      "from": 6681,
+      "from": 6587,
       "dur": 285,
       "comp": "CuadernoReceta",
       "props": {
@@ -1365,7 +1371,7 @@
       }
     },
     {
-      "from": 6681,
+      "from": 6587,
       "dur": 300,
       "comp": "Checklist",
       "props": {
@@ -1381,7 +1387,7 @@
       }
     },
     {
-      "from": 10042,
+      "from": 9947,
       "dur": 285,
       "comp": "Steps",
       "props": {
@@ -1405,7 +1411,7 @@
       }
     },
     {
-      "from": 14806,
+      "from": 14693,
       "dur": 270,
       "comp": "Checklist",
       "props": {
@@ -1421,7 +1427,7 @@
       }
     },
     {
-      "from": 23270,
+      "from": 22932,
       "dur": 300,
       "comp": "Timeline",
       "props": {
@@ -1448,7 +1454,7 @@
       }
     },
     {
-      "from": 28357,
+      "from": 28269,
       "dur": 180,
       "comp": "PolaroidRecuerdo",
       "props": {
@@ -1459,7 +1465,7 @@
       }
     },
     {
-      "from": 28948,
+      "from": 28886,
       "dur": 225,
       "comp": "TicketPrecio",
       "props": {
