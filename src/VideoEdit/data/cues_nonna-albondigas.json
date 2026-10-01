@@ -3,42 +3,47 @@
   "fps": 30,
   "width": 1920,
   "height": 1080,
-  "durationInFrames": 17588,
+  "durationInFrames": 18299,
   "audioSrc": "nonna-albondigas.mp3",
   "avatarSrc": "nonna-albondigas_avatar.mp4",
   "avatarSegs": [
     {
       "from": 0,
-      "dur": 963,
+      "dur": 964,
       "clip": 0
     },
     {
       "from": 989,
-      "dur": 839,
-      "clip": 963
+      "dur": 841,
+      "clip": 964
     },
     {
       "from": 6197,
-      "dur": 1050,
-      "clip": 1802
+      "dur": 486,
+      "clip": 1805
     },
     {
-      "from": 16408,
-      "dur": 1157,
-      "clip": 2852
+      "from": 7398,
+      "dur": 74,
+      "clip": 2291
+    },
+    {
+      "from": 17474,
+      "dur": 803,
+      "clip": 2365
     }
   ],
   "broll": [
     {
-      "from": 963,
-      "dur": 26,
+      "from": 964,
+      "dur": 25,
       "kind": "image",
       "src": "img/nonna-albondigas_s40.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 1828,
+      "from": 1830,
       "dur": 330,
       "kind": "image",
       "src": "img/nonna-albondigas_s04.png",
@@ -46,8 +51,8 @@
       "pip": false
     },
     {
-      "from": 2158,
-      "dur": 205,
+      "from": 2160,
+      "dur": 203,
       "kind": "image",
       "src": "img/nonna-albondigas_s04.png",
       "kb": 2,
@@ -182,307 +187,339 @@
       "pip": false
     },
     {
-      "from": 7247,
-      "dur": 323,
+      "from": 6683,
+      "dur": 120,
       "kind": "image",
-      "src": "img/nonna-albondigas_s15.png",
+      "src": "img/nonna-albondigas_s14.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 7570,
-      "dur": 172,
+      "from": 7253,
+      "dur": 145,
       "kind": "image",
-      "src": "img/nonna-albondigas_s49.png",
+      "src": "img/nonna-albondigas_s41.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 7742,
+      "from": 7472,
+      "dur": 321,
+      "kind": "image",
+      "src": "img/nonna-albondigas_s15.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7793,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/nonna-albondigas_s49.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7966,
       "dur": 167,
       "kind": "video",
       "src": "broll/nonna-albondigas_v_s16.mp4",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 7909,
-      "dur": 159,
-      "kind": "image",
-      "src": "img/nonna-albondigas_s50.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 8338,
-      "dur": 86,
-      "kind": "image",
-      "src": "img/nonna-albondigas_s17.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 8424,
-      "dur": 330,
+      "from": 8133,
+      "dur": 158,
       "kind": "image",
-      "src": "img/nonna-albondigas_s18.png",
+      "src": "img/nonna-albondigas_s50.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 8754,
-      "dur": 189,
+      "from": 8561,
+      "dur": 87,
       "kind": "image",
-      "src": "img/nonna-albondigas_s18.png",
+      "src": "img/nonna-albondigas_s17.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 8943,
-      "dur": 227,
+      "from": 8648,
+      "dur": 330,
       "kind": "image",
-      "src": "img/nonna-albondigas_s19.png",
+      "src": "img/nonna-albondigas_s18.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 9170,
+      "from": 8978,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/nonna-albondigas_s18.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9166,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/nonna-albondigas_s19.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9394,
       "dur": 156,
       "kind": "image",
       "src": "img/nonna-albondigas_s20.png",
-      "kb": 3,
+      "kb": 5,
       "pip": false
     },
     {
-      "from": 9326,
+      "from": 9550,
       "dur": 214,
       "kind": "image",
       "src": "img/nonna-albondigas_s21.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 9540,
-      "dur": 174,
-      "kind": "video",
-      "src": "broll/nonna-albondigas_v_s22.mp4",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 9714,
-      "dur": 114,
-      "kind": "video",
-      "src": "broll/nonna-albondigas_v_s22.mp4",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 9828,
+      "from": 9764,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/nonna-albondigas_v_s22.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9938,
+      "dur": 114,
+      "kind": "video",
+      "src": "broll/nonna-albondigas_v_s22.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10052,
       "dur": 128,
       "kind": "image",
       "src": "img/nonna-albondigas_s23.png",
-      "kb": 1,
+      "kb": 3,
       "pip": false
     },
     {
-      "from": 9956,
-      "dur": 194,
+      "from": 10180,
+      "dur": 193,
       "kind": "image",
       "src": "img/nonna-albondigas_s52.png",
-      "kb": 2,
+      "kb": 4,
       "pip": false
     },
     {
-      "from": 10300,
+      "from": 10523,
       "dur": 106,
       "kind": "image",
       "src": "img/nonna-albondigas_s24.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 10406,
-      "dur": 114,
-      "kind": "image",
-      "src": "img/nonna-albondigas_s53.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 10520,
-      "dur": 112,
-      "kind": "image",
-      "src": "img/nonna-albondigas_s25.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 10932,
+      "from": 10629,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/nonna-albondigas_s53.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10744,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/nonna-albondigas_s25.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11068,
+      "dur": 54,
+      "kind": "image",
+      "src": "img/nonna-albondigas_s03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11422,
       "dur": 245,
       "kind": "image",
       "src": "img/nonna-albondigas_s27.png",
-      "kb": 0,
+      "kb": 3,
       "pip": false
     },
     {
-      "from": 11387,
+      "from": 11877,
       "dur": 190,
       "kind": "image",
       "src": "img/nonna-albondigas_s28.png",
-      "kb": 1,
+      "kb": 4,
       "pip": false
     },
     {
-      "from": 11577,
+      "from": 12067,
       "dur": 330,
       "kind": "image",
       "src": "img/nonna-albondigas_s29.png",
-      "kb": 2,
+      "kb": 5,
       "pip": false
     },
     {
-      "from": 11907,
+      "from": 12397,
       "dur": 80,
       "kind": "image",
       "src": "img/nonna-albondigas_s29.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 11987,
-      "dur": 114,
-      "kind": "image",
-      "src": "img/nonna-albondigas_s55.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 12101,
-      "dur": 174,
-      "kind": "video",
-      "src": "broll/nonna-albondigas_v_s30.mp4",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 12275,
-      "dur": 174,
-      "kind": "video",
-      "src": "broll/nonna-albondigas_v_s30.mp4",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 12449,
-      "dur": 179,
-      "kind": "video",
-      "src": "broll/nonna-albondigas_v_s30.mp4",
+      "from": 12477,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/nonna-albondigas_s55.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 12628,
+      "from": 12590,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/nonna-albondigas_v_s30.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12764,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/nonna-albondigas_v_s30.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12938,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/nonna-albondigas_v_s30.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13118,
       "dur": 244,
       "kind": "image",
       "src": "img/nonna-albondigas_s31.png",
-      "kb": 2,
+      "kb": 5,
       "pip": false
     },
     {
-      "from": 12872,
+      "from": 13362,
       "dur": 212,
       "kind": "image",
       "src": "img/nonna-albondigas_s56.png",
-      "kb": 3,
+      "kb": 0,
       "pip": false
     },
     {
-      "from": 13084,
+      "from": 13574,
       "dur": 174,
       "kind": "video",
       "src": "broll/nonna-albondigas_v_s32.mp4",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 13258,
-      "dur": 182,
-      "kind": "video",
-      "src": "broll/nonna-albondigas_v_s32.mp4",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 13440,
-      "dur": 266,
-      "kind": "image",
-      "src": "img/nonna-albondigas_s33.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 13706,
-      "dur": 284,
-      "kind": "image",
-      "src": "img/nonna-albondigas_s57.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 13990,
-      "dur": 231,
-      "kind": "image",
-      "src": "img/nonna-albondigas_s58.png",
+      "from": 13748,
+      "dur": 182,
+      "kind": "video",
+      "src": "broll/nonna-albondigas_v_s32.mp4",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 14221,
-      "dur": 352,
+      "from": 13930,
+      "dur": 266,
       "kind": "image",
-      "src": "img/nonna-albondigas_s34.png",
+      "src": "img/nonna-albondigas_s33.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 14813,
-      "dur": 213,
+      "from": 14196,
+      "dur": 284,
       "kind": "image",
-      "src": "img/nonna-albondigas_s35.png",
+      "src": "img/nonna-albondigas_s57.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 15026,
-      "dur": 357,
+      "from": 14480,
+      "dur": 231,
       "kind": "image",
-      "src": "img/nonna-albondigas_s59.png",
+      "src": "img/nonna-albondigas_s58.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 15803,
-      "dur": 330,
+      "from": 14711,
+      "dur": 352,
       "kind": "image",
-      "src": "img/nonna-albondigas_s36.png",
+      "src": "img/nonna-albondigas_s34.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 16133,
-      "dur": 275,
+      "from": 15303,
+      "dur": 213,
       "kind": "image",
-      "src": "img/nonna-albondigas_s36.png",
+      "src": "img/nonna-albondigas_s35.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 17565,
-      "dur": 23,
+      "from": 15516,
+      "dur": 357,
+      "kind": "image",
+      "src": "img/nonna-albondigas_s59.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16293,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-albondigas_s36.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16623,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-albondigas_s36.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16953,
+      "dur": 250,
+      "kind": "image",
+      "src": "img/nonna-albondigas_s36.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18277,
+      "dur": 22,
       "kind": "image",
       "src": "img/nonna-albondigas_s38.png",
-      "kb": 2,
+      "kb": 0,
       "pip": false
     }
   ],
@@ -535,13 +572,13 @@
       "props": {
         "theme": "earth",
         "corner": "bl",
-        "src": "img/qr_nonna.png",
+        "src": "img/qr_guia_nonna.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "El Cuaderno de la Nonna"
+        "label": "Las guías de la Nonna"
       }
     },
     {
-      "from": 7274,
+      "from": 7498,
       "dur": 135,
       "comp": "SelloError",
       "props": {
@@ -551,7 +588,7 @@
       }
     },
     {
-      "from": 9170,
+      "from": 9394,
       "dur": 135,
       "comp": "SelloError",
       "props": {
@@ -561,7 +598,7 @@
       }
     },
     {
-      "from": 10520,
+      "from": 10744,
       "dur": 135,
       "comp": "SelloError",
       "props": {
@@ -571,19 +608,19 @@
       }
     },
     {
-      "from": 10520,
+      "from": 10744,
       "dur": 210,
       "comp": "QRTag",
       "props": {
         "theme": "earth",
         "corner": "bl",
-        "src": "img/qr_nonna.png",
+        "src": "img/qr_guia_nonna.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "El Cuaderno de la Nonna"
+        "label": "Las guías de la Nonna"
       }
     },
     {
-      "from": 13084,
+      "from": 13574,
       "dur": 135,
       "comp": "SectionTitle",
       "props": {
@@ -593,27 +630,27 @@
       }
     },
     {
-      "from": 14573,
+      "from": 15063,
       "dur": 210,
       "comp": "QRTag",
       "props": {
         "theme": "earth",
         "corner": "bl",
-        "src": "img/qr_nonna.png",
+        "src": "img/qr_guia_nonna.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "El Cuaderno de la Nonna"
+        "label": "Las guías de la Nonna"
       }
     },
     {
-      "from": 16408,
+      "from": 16900,
       "dur": 210,
       "comp": "QRTag",
       "props": {
         "theme": "earth",
         "corner": "bl",
-        "src": "img/qr_nonna.png",
+        "src": "img/qr_guia_nonna.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "El Cuaderno de la Nonna"
+        "label": "Las guías de la Nonna"
       }
     }
   ],
@@ -641,7 +678,25 @@
       }
     },
     {
-      "from": 8068,
+      "from": 6803,
+      "dur": 450,
+      "comp": "GuiasNonna",
+      "props": {
+        "theme": "earth",
+        "covers": [
+          "img/guias/nonna-recetario.jpg",
+          "img/guias/nonna-masas.jpg"
+        ],
+        "labels": [
+          "El Gran Recetario",
+          "El Libro de las Masas"
+        ],
+        "title": "Mi cuaderno, en limpio",
+        "qr": "img/qr_guia_nonna.png"
+      }
+    },
+    {
+      "from": 8291,
       "dur": 270,
       "comp": "CuadernoReceta",
       "props": {
@@ -659,7 +714,7 @@
       }
     },
     {
-      "from": 10150,
+      "from": 10373,
       "dur": 150,
       "comp": "PhraseCard",
       "props": {
@@ -671,7 +726,20 @@
       }
     },
     {
-      "from": 10632,
+      "from": 10858,
+      "dur": 210,
+      "comp": "GuiasNonna",
+      "props": {
+        "theme": "earth",
+        "covers": [
+          "img/guias/nonna-recetario.jpg"
+        ],
+        "title": "El Gran Recetario de la Nonna",
+        "qr": "img/qr_guia_nonna.png"
+      }
+    },
+    {
+      "from": 11122,
       "dur": 300,
       "comp": "Compare",
       "props": {
@@ -688,7 +756,7 @@
       }
     },
     {
-      "from": 11177,
+      "from": 11667,
       "dur": 210,
       "comp": "Callout",
       "props": {
@@ -700,7 +768,7 @@
       }
     },
     {
-      "from": 14573,
+      "from": 15063,
       "dur": 240,
       "comp": "TicketPrecio",
       "props": {
@@ -725,7 +793,7 @@
       }
     },
     {
-      "from": 15383,
+      "from": 15873,
       "dur": 420,
       "comp": "Checklist",
       "props": {
@@ -739,6 +807,27 @@
           "Cocinarlas mal"
         ],
         "stamp": "¡Anótalo!"
+      }
+    },
+    {
+      "from": 17203,
+      "dur": 271,
+      "comp": "GuiasNonna",
+      "props": {
+        "theme": "earth",
+        "covers": [
+          "img/guias/nonna-recetario.jpg",
+          "img/guias/nonna-masas.jpg",
+          "img/guias/nonna-kit.jpg"
+        ],
+        "labels": [
+          "Recetario",
+          "Masas",
+          "La Colección"
+        ],
+        "focus": 2,
+        "title": "Los dos juntos: la Colección",
+        "qr": "img/qr_guia_nonna.png"
       }
     }
   ]
