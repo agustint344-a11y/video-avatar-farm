@@ -3,92 +3,92 @@
   "fps": 30,
   "width": 1920,
   "height": 1080,
-  "durationInFrames": 36947,
+  "durationInFrames": 37165,
   "audioSrc": "hair-vital.mp3",
   "avatarSrc": "hair-vital_avatar.mp4",
   "avatarSegs": [
     {
       "from": 0,
-      "dur": 367,
+      "dur": 386,
       "clip": 0
     },
     {
-      "from": 2075,
-      "dur": 835,
-      "clip": 367
+      "from": 2134,
+      "dur": 870,
+      "clip": 386
     },
     {
-      "from": 6737,
-      "dur": 938,
-      "clip": 1202
+      "from": 6791,
+      "dur": 890,
+      "clip": 1256
     },
     {
-      "from": 23312,
-      "dur": 471,
-      "clip": 2140
+      "from": 23158,
+      "dur": 477,
+      "clip": 2146
     },
     {
-      "from": 29164,
-      "dur": 730,
-      "clip": 2611
+      "from": 29203,
+      "dur": 751,
+      "clip": 2623
     },
     {
-      "from": 35879,
-      "dur": 1048,
-      "clip": 3341
+      "from": 36059,
+      "dur": 1043,
+      "clip": 3374
     }
   ],
   "broll": [
     {
-      "from": 367,
-      "dur": 250,
+      "from": 386,
+      "dur": 254,
       "kind": "image",
       "src": "img/hair-vital_s01.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 617,
-      "dur": 162,
+      "from": 640,
+      "dur": 165,
       "kind": "image",
       "src": "img/hair-vital_s02.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 779,
-      "dur": 264,
+      "from": 805,
+      "dur": 280,
       "kind": "image",
       "src": "img/hair-vital_s03.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 1043,
-      "dur": 200,
+      "from": 1085,
+      "dur": 197,
       "kind": "image",
       "src": "img/hair-vital_s47.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 1243,
-      "dur": 214,
+      "from": 1282,
+      "dur": 217,
       "kind": "image",
       "src": "img/hair-vital_s05.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 1457,
-      "dur": 240,
+      "from": 1499,
+      "dur": 254,
       "kind": "image",
       "src": "img/hair-vital_s06.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 1697,
+      "from": 1753,
       "dur": 330,
       "kind": "image",
       "src": "img/hair-vital_s07.png",
@@ -96,15 +96,15 @@
       "pip": false
     },
     {
-      "from": 2027,
-      "dur": 48,
+      "from": 2083,
+      "dur": 51,
       "kind": "image",
       "src": "img/hair-vital_s07.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 2910,
+      "from": 3004,
       "dur": 174,
       "kind": "video",
       "src": "broll/hair-vital_v_s08.mp4",
@@ -112,47 +112,47 @@
       "pip": false
     },
     {
-      "from": 3084,
-      "dur": 59,
+      "from": 3178,
+      "dur": 66,
       "kind": "video",
       "src": "broll/hair-vital_v_s08.mp4",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 3413,
-      "dur": 270,
+      "from": 3514,
+      "dur": 273,
       "kind": "image",
       "src": "img/hair-vital_s09.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 3683,
-      "dur": 326,
+      "from": 3787,
+      "dur": 328,
       "kind": "image",
       "src": "img/hair-vital_s10.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 4009,
-      "dur": 331,
+      "from": 4115,
+      "dur": 328,
       "kind": "image",
       "src": "img/hair-vital_s11.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 4340,
-      "dur": 193,
+      "from": 4443,
+      "dur": 202,
       "kind": "image",
       "src": "img/hair-vital_s12.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 4533,
+      "from": 4645,
       "dur": 330,
       "kind": "image",
       "src": "img/hair-vital_s48.png",
@@ -160,119 +160,119 @@
       "pip": false
     },
     {
-      "from": 4863,
-      "dur": 202,
+      "from": 4975,
+      "dur": 206,
       "kind": "image",
       "src": "img/hair-vital_s13.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 5065,
-      "dur": 269,
+      "from": 5181,
+      "dur": 262,
       "kind": "image",
       "src": "img/hair-vital_s14.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 5334,
-      "dur": 64,
+      "from": 5443,
+      "dur": 59,
       "kind": "image",
       "src": "img/hair-vital_s15.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 5398,
-      "dur": 177,
+      "from": 5502,
+      "dur": 173,
       "kind": "image",
       "src": "img/hair-vital_s16.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 5845,
-      "dur": 136,
+      "from": 5945,
+      "dur": 126,
       "kind": "image",
-      "src": "img/hair-vital_s17.png",
+      "src": "img/hair-vital_s18.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 5981,
-      "dur": 63,
+      "from": 6071,
+      "dur": 59,
       "kind": "image",
       "src": "img/hair-vital_s19.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 6044,
-      "dur": 216,
+      "from": 6130,
+      "dur": 209,
       "kind": "image",
       "src": "img/hair-vital_s20.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 6260,
-      "dur": 102,
+      "from": 6339,
+      "dur": 94,
       "kind": "image",
       "src": "img/hair-vital_s38.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 6362,
-      "dur": 375,
+      "from": 6433,
+      "dur": 358,
       "kind": "image",
       "src": "img/hair-vital_s22.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 7675,
-      "dur": 11,
+      "from": 7681,
+      "dur": 10,
       "kind": "image",
       "src": "img/hair-vital_s21.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 7956,
-      "dur": 360,
+      "from": 7961,
+      "dur": 361,
       "kind": "image",
       "src": "img/hair-vital_s24.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 8316,
-      "dur": 270,
+      "from": 8322,
+      "dur": 257,
       "kind": "image",
       "src": "img/hair-vital_s25.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 8586,
-      "dur": 263,
+      "from": 8579,
+      "dur": 252,
       "kind": "image",
       "src": "img/hair-vital_s26.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 8849,
-      "dur": 326,
+      "from": 8831,
+      "dur": 315,
       "kind": "image",
       "src": "img/hair-vital_s27.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 9175,
+      "from": 9146,
       "dur": 330,
       "kind": "image",
       "src": "img/hair-vital_s28.png",
@@ -280,15 +280,15 @@
       "pip": false
     },
     {
-      "from": 9505,
-      "dur": 231,
+      "from": 9476,
+      "dur": 220,
       "kind": "image",
       "src": "img/hair-vital_s28.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 9736,
+      "from": 9696,
       "dur": 330,
       "kind": "image",
       "src": "img/hair-vital_s29.png",
@@ -296,15 +296,15 @@
       "pip": false
     },
     {
-      "from": 10066,
-      "dur": 154,
+      "from": 10026,
+      "dur": 149,
       "kind": "image",
       "src": "img/hair-vital_s29.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 10220,
+      "from": 10175,
       "dur": 330,
       "kind": "image",
       "src": "img/hair-vital_s30.png",
@@ -312,15 +312,15 @@
       "pip": false
     },
     {
-      "from": 10550,
-      "dur": 187,
+      "from": 10505,
+      "dur": 164,
       "kind": "image",
       "src": "img/hair-vital_s30.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 10737,
+      "from": 10669,
       "dur": 330,
       "kind": "image",
       "src": "img/hair-vital_s31.png",
@@ -328,47 +328,47 @@
       "pip": false
     },
     {
-      "from": 11067,
-      "dur": 206,
+      "from": 10999,
+      "dur": 186,
       "kind": "image",
       "src": "img/hair-vital_s31.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 11273,
-      "dur": 102,
+      "from": 11185,
+      "dur": 92,
       "kind": "image",
       "src": "img/hair-vital_s32.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 11615,
-      "dur": 314,
+      "from": 11517,
+      "dur": 302,
       "kind": "image",
       "src": "img/hair-vital_s34.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 11929,
-      "dur": 327,
+      "from": 11819,
+      "dur": 315,
       "kind": "image",
       "src": "img/hair-vital_s35.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 12256,
-      "dur": 212,
+      "from": 12134,
+      "dur": 202,
       "kind": "video",
       "src": "broll/hair-vital_v_s36.mp4",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 12468,
+      "from": 12336,
       "dur": 330,
       "kind": "image",
       "src": "img/hair-vital_s37.png",
@@ -376,71 +376,71 @@
       "pip": false
     },
     {
-      "from": 12798,
-      "dur": 325,
+      "from": 12666,
+      "dur": 294,
       "kind": "image",
       "src": "img/hair-vital_s37.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 13123,
-      "dur": 128,
+      "from": 12960,
+      "dur": 118,
       "kind": "image",
       "src": "img/hair-vital_s39.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 13251,
-      "dur": 299,
+      "from": 13078,
+      "dur": 271,
       "kind": "image",
       "src": "img/hair-vital_s40.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 13550,
-      "dur": 94,
+      "from": 13349,
+      "dur": 107,
       "kind": "image",
       "src": "img/hair-vital_s41.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 13644,
-      "dur": 90,
+      "from": 13456,
+      "dur": 94,
       "kind": "video",
       "src": "broll/hair-vital_v_s42.mp4",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 13734,
-      "dur": 146,
+      "from": 13550,
+      "dur": 149,
       "kind": "image",
       "src": "img/hair-vital_s43.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 13880,
-      "dur": 327,
+      "from": 13699,
+      "dur": 326,
       "kind": "image",
       "src": "img/hair-vital_s44.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 14207,
-      "dur": 253,
+      "from": 14025,
+      "dur": 256,
       "kind": "image",
       "src": "img/hair-vital_s45.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 14460,
+      "from": 14281,
       "dur": 330,
       "kind": "image",
       "src": "img/hair-vital_s46.png",
@@ -448,7 +448,7 @@
       "pip": false
     },
     {
-      "from": 14790,
+      "from": 14611,
       "dur": 330,
       "kind": "image",
       "src": "img/hair-vital_s46.png",
@@ -456,31 +456,31 @@
       "pip": false
     },
     {
-      "from": 15120,
-      "dur": 270,
+      "from": 14941,
+      "dur": 295,
       "kind": "image",
       "src": "img/hair-vital_s46.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 15390,
-      "dur": 118,
+      "from": 15236,
+      "dur": 125,
       "kind": "image",
       "src": "img/hair-vital_s49.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 15508,
-      "dur": 166,
+      "from": 15361,
+      "dur": 153,
       "kind": "image",
       "src": "img/hair-vital_s50.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 15674,
+      "from": 15514,
       "dur": 330,
       "kind": "image",
       "src": "img/hair-vital_s51.png",
@@ -488,103 +488,103 @@
       "pip": false
     },
     {
-      "from": 16004,
-      "dur": 121,
+      "from": 15844,
+      "dur": 143,
       "kind": "image",
       "src": "img/hair-vital_s51.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 16125,
-      "dur": 332,
+      "from": 15987,
+      "dur": 343,
       "kind": "image",
       "src": "img/hair-vital_s52.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 16457,
-      "dur": 227,
+      "from": 16330,
+      "dur": 238,
       "kind": "image",
       "src": "img/hair-vital_s54.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 16684,
-      "dur": 91,
+      "from": 16568,
+      "dur": 94,
       "kind": "image",
       "src": "img/hair-vital_s55.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 16775,
-      "dur": 92,
+      "from": 16662,
+      "dur": 95,
       "kind": "image",
       "src": "img/hair-vital_s56.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 16867,
-      "dur": 139,
+      "from": 16757,
+      "dur": 140,
       "kind": "image",
       "src": "img/hair-vital_s57.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 17006,
-      "dur": 135,
+      "from": 16897,
+      "dur": 141,
       "kind": "image",
       "src": "img/hair-vital_s58.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 17141,
-      "dur": 192,
+      "from": 17038,
+      "dur": 188,
       "kind": "image",
       "src": "img/hair-vital_s59.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 17333,
-      "dur": 127,
+      "from": 17226,
+      "dur": 136,
       "kind": "image",
       "src": "img/hair-vital_s60.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 17730,
-      "dur": 55,
+      "from": 17632,
+      "dur": 67,
       "kind": "image",
       "src": "img/hair-vital_s61.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 17785,
-      "dur": 239,
+      "from": 17699,
+      "dur": 243,
       "kind": "image",
       "src": "img/hair-vital_s62.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 18024,
-      "dur": 269,
+      "from": 17942,
+      "dur": 276,
       "kind": "image",
       "src": "img/hair-vital_s63.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 18293,
+      "from": 18218,
       "dur": 330,
       "kind": "image",
       "src": "img/hair-vital_s64.png",
@@ -592,15 +592,15 @@
       "pip": false
     },
     {
-      "from": 18623,
-      "dur": 111,
+      "from": 18548,
+      "dur": 113,
       "kind": "image",
       "src": "img/hair-vital_s64.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 18734,
+      "from": 18661,
       "dur": 174,
       "kind": "video",
       "src": "broll/hair-vital_v_s65.mp4",
@@ -608,31 +608,31 @@
       "pip": false
     },
     {
-      "from": 18908,
-      "dur": 156,
+      "from": 18835,
+      "dur": 159,
       "kind": "video",
       "src": "broll/hair-vital_v_s65.mp4",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 19064,
-      "dur": 77,
+      "from": 18994,
+      "dur": 74,
       "kind": "image",
       "src": "img/hair-vital_s66.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 19141,
-      "dur": 229,
+      "from": 19068,
+      "dur": 218,
       "kind": "image",
       "src": "img/hair-vital_s67.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 19370,
+      "from": 19286,
       "dur": 330,
       "kind": "image",
       "src": "img/hair-vital_s68.png",
@@ -640,55 +640,55 @@
       "pip": false
     },
     {
-      "from": 19700,
-      "dur": 83,
+      "from": 19616,
+      "dur": 96,
       "kind": "image",
       "src": "img/hair-vital_s68.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 19783,
-      "dur": 79,
+      "from": 19712,
+      "dur": 83,
       "kind": "image",
       "src": "img/hair-vital_s69.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 19862,
-      "dur": 75,
+      "from": 19795,
+      "dur": 82,
       "kind": "image",
       "src": "img/hair-vital_s70.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 19937,
-      "dur": 300,
+      "from": 19877,
+      "dur": 304,
       "kind": "image",
       "src": "img/hair-vital_s71.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 20237,
-      "dur": 120,
+      "from": 20181,
+      "dur": 123,
       "kind": "image",
       "src": "img/hair-vital_s72.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 20357,
-      "dur": 83,
+      "from": 20304,
+      "dur": 89,
       "kind": "image",
       "src": "img/hair-vital_s73.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 20440,
+      "from": 20393,
       "dur": 330,
       "kind": "image",
       "src": "img/hair-vital_s74.png",
@@ -696,39 +696,39 @@
       "pip": false
     },
     {
-      "from": 20770,
-      "dur": 62,
+      "from": 20723,
+      "dur": 65,
       "kind": "image",
       "src": "img/hair-vital_s74.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 20832,
-      "dur": 275,
+      "from": 20788,
+      "dur": 279,
       "kind": "image",
       "src": "img/hair-vital_s75.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 21407,
-      "dur": 106,
+      "from": 21367,
+      "dur": 94,
       "kind": "image",
       "src": "img/hair-vital_s77.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 21513,
-      "dur": 105,
+      "from": 21461,
+      "dur": 104,
       "kind": "image",
       "src": "img/hair-vital_s78.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 21618,
+      "from": 21565,
       "dur": 192,
       "kind": "image",
       "src": "img/hair-vital_s79.png",
@@ -736,23 +736,23 @@
       "pip": false
     },
     {
-      "from": 21810,
-      "dur": 169,
+      "from": 21757,
+      "dur": 156,
       "kind": "image",
       "src": "img/hair-vital_s80.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 21979,
-      "dur": 235,
+      "from": 21913,
+      "dur": 226,
       "kind": "image",
       "src": "img/hair-vital_s81.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 22214,
+      "from": 22139,
       "dur": 330,
       "kind": "image",
       "src": "img/hair-vital_s82.png",
@@ -760,15 +760,15 @@
       "pip": false
     },
     {
-      "from": 22544,
-      "dur": 207,
+      "from": 22469,
+      "dur": 198,
       "kind": "image",
       "src": "img/hair-vital_s82.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 22751,
+      "from": 22667,
       "dur": 330,
       "kind": "image",
       "src": "img/hair-vital_s83.png",
@@ -776,71 +776,71 @@
       "pip": false
     },
     {
-      "from": 23081,
-      "dur": 231,
+      "from": 22997,
+      "dur": 161,
       "kind": "image",
       "src": "img/hair-vital_s83.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 23783,
-      "dur": 140,
+      "from": 23635,
+      "dur": 119,
       "kind": "image",
       "src": "img/hair-vital_s84.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 23923,
-      "dur": 276,
+      "from": 23754,
+      "dur": 288,
       "kind": "image",
       "src": "img/hair-vital_s85.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 24199,
-      "dur": 183,
+      "from": 24042,
+      "dur": 196,
       "kind": "image",
       "src": "img/hair-vital_s86.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 24382,
-      "dur": 357,
+      "from": 24238,
+      "dur": 376,
       "kind": "image",
       "src": "img/hair-vital_s87.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 24739,
-      "dur": 225,
+      "from": 24614,
+      "dur": 234,
       "kind": "image",
       "src": "img/hair-vital_s88.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 24964,
-      "dur": 113,
+      "from": 24848,
+      "dur": 122,
       "kind": "image",
       "src": "img/hair-vital_s89.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 25077,
-      "dur": 155,
+      "from": 24970,
+      "dur": 170,
       "kind": "image",
       "src": "img/hair-vital_s90.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 25635,
+      "from": 25548,
       "dur": 330,
       "kind": "image",
       "src": "img/hair-vital_s92.png",
@@ -848,7 +848,7 @@
       "pip": false
     },
     {
-      "from": 25965,
+      "from": 25878,
       "dur": 330,
       "kind": "image",
       "src": "img/hair-vital_s91.png",
@@ -856,39 +856,39 @@
       "pip": false
     },
     {
-      "from": 26295,
-      "dur": 163,
+      "from": 26208,
+      "dur": 202,
       "kind": "image",
       "src": "img/hair-vital_s91.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 26458,
-      "dur": 274,
+      "from": 26410,
+      "dur": 283,
       "kind": "image",
       "src": "img/hair-vital_s100.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 26732,
-      "dur": 357,
+      "from": 26693,
+      "dur": 353,
       "kind": "image",
       "src": "img/hair-vital_s94.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 27359,
-      "dur": 153,
+      "from": 27316,
+      "dur": 168,
       "kind": "image",
       "src": "img/hair-vital_s95.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 27512,
+      "from": 27484,
       "dur": 330,
       "kind": "image",
       "src": "img/hair-vital_s96.png",
@@ -896,15 +896,15 @@
       "pip": false
     },
     {
-      "from": 27842,
-      "dur": 168,
+      "from": 27814,
+      "dur": 200,
       "kind": "image",
       "src": "img/hair-vital_s96.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 28010,
+      "from": 28014,
       "dur": 330,
       "kind": "image",
       "src": "img/hair-vital_s97.png",
@@ -912,15 +912,15 @@
       "pip": false
     },
     {
-      "from": 28340,
-      "dur": 230,
+      "from": 28344,
+      "dur": 260,
       "kind": "image",
       "src": "img/hair-vital_s97.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 28570,
+      "from": 28604,
       "dur": 174,
       "kind": "video",
       "src": "broll/hair-vital_v_s98.mp4",
@@ -928,7 +928,7 @@
       "pip": false
     },
     {
-      "from": 28744,
+      "from": 28778,
       "dur": 174,
       "kind": "video",
       "src": "broll/hair-vital_v_s98.mp4",
@@ -936,23 +936,23 @@
       "pip": false
     },
     {
-      "from": 28918,
-      "dur": 132,
+      "from": 28952,
+      "dur": 130,
       "kind": "video",
       "src": "broll/hair-vital_v_s98.mp4",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 29050,
-      "dur": 114,
+      "from": 29082,
+      "dur": 121,
       "kind": "image",
       "src": "img/hair-vital_s99.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 29894,
+      "from": 29954,
       "dur": 330,
       "kind": "image",
       "src": "img/hair-vital_s101.png",
@@ -960,31 +960,31 @@
       "pip": false
     },
     {
-      "from": 30224,
-      "dur": 73,
+      "from": 30284,
+      "dur": 120,
       "kind": "image",
       "src": "img/hair-vital_s101.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 30297,
-      "dur": 100,
+      "from": 30404,
+      "dur": 99,
       "kind": "image",
       "src": "img/hair-vital_s102.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 30397,
-      "dur": 197,
+      "from": 30503,
+      "dur": 213,
       "kind": "video",
       "src": "broll/hair-vital_v_s103.mp4",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 30594,
+      "from": 30716,
       "dur": 330,
       "kind": "image",
       "src": "img/hair-vital_s104.png",
@@ -992,31 +992,31 @@
       "pip": false
     },
     {
-      "from": 30924,
-      "dur": 94,
+      "from": 31046,
+      "dur": 123,
       "kind": "image",
       "src": "img/hair-vital_s104.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 31243,
-      "dur": 100,
+      "from": 31394,
+      "dur": 121,
       "kind": "image",
       "src": "img/hair-vital_s105.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 31343,
-      "dur": 249,
+      "from": 31515,
+      "dur": 257,
       "kind": "image",
       "src": "img/hair-vital_s106.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 31592,
+      "from": 31772,
       "dur": 330,
       "kind": "image",
       "src": "img/hair-vital_s107.png",
@@ -1024,23 +1024,23 @@
       "pip": false
     },
     {
-      "from": 31922,
-      "dur": 290,
+      "from": 32102,
+      "dur": 301,
       "kind": "image",
       "src": "img/hair-vital_s107.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 32212,
-      "dur": 192,
+      "from": 32403,
+      "dur": 190,
       "kind": "image",
       "src": "img/hair-vital_s108.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 32404,
+      "from": 32593,
       "dur": 330,
       "kind": "image",
       "src": "img/hair-vital_s109.png",
@@ -1048,15 +1048,15 @@
       "pip": false
     },
     {
-      "from": 32734,
-      "dur": 282,
+      "from": 32923,
+      "dur": 300,
       "kind": "image",
       "src": "img/hair-vital_s109.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 33016,
+      "from": 33223,
       "dur": 330,
       "kind": "image",
       "src": "img/hair-vital_s110.png",
@@ -1064,15 +1064,15 @@
       "pip": false
     },
     {
-      "from": 33346,
-      "dur": 66,
+      "from": 33553,
+      "dur": 70,
       "kind": "image",
       "src": "img/hair-vital_s110.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 33412,
+      "from": 33623,
       "dur": 330,
       "kind": "image",
       "src": "img/hair-vital_s111.png",
@@ -1080,15 +1080,15 @@
       "pip": false
     },
     {
-      "from": 33742,
-      "dur": 261,
+      "from": 33953,
+      "dur": 276,
       "kind": "image",
       "src": "img/hair-vital_s111.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 34003,
+      "from": 34229,
       "dur": 330,
       "kind": "image",
       "src": "img/hair-vital_s112.png",
@@ -1096,15 +1096,15 @@
       "pip": false
     },
     {
-      "from": 34333,
-      "dur": 124,
+      "from": 34559,
+      "dur": 120,
       "kind": "image",
       "src": "img/hair-vital_s112.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 34667,
+      "from": 34889,
       "dur": 330,
       "kind": "image",
       "src": "img/hair-vital_s113.png",
@@ -1112,7 +1112,7 @@
       "pip": false
     },
     {
-      "from": 34997,
+      "from": 35219,
       "dur": 330,
       "kind": "image",
       "src": "img/hair-vital_s113.png",
@@ -1120,7 +1120,7 @@
       "pip": false
     },
     {
-      "from": 35327,
+      "from": 35549,
       "dur": 330,
       "kind": "image",
       "src": "img/hair-vital_s113.png",
@@ -1128,16 +1128,16 @@
       "pip": false
     },
     {
-      "from": 35657,
-      "dur": 222,
+      "from": 35879,
+      "dur": 180,
       "kind": "image",
       "src": "img/hair-vital_s113.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 36927,
-      "dur": 20,
+      "from": 37102,
+      "dur": 63,
       "kind": "image",
       "src": "img/hair-vital_s93.png",
       "kb": 5,
@@ -1146,7 +1146,7 @@
   ],
   "overlays": [
     {
-      "from": 2075,
+      "from": 2134,
       "dur": 150,
       "comp": "LowerThird",
       "props": {
@@ -1157,7 +1157,7 @@
       }
     },
     {
-      "from": 5334,
+      "from": 5443,
       "dur": 114,
       "comp": "KeywordPop",
       "props": {
@@ -1168,19 +1168,19 @@
       }
     },
     {
-      "from": 7398,
+      "from": 7493,
       "dur": 210,
       "comp": "QRTag",
       "props": {
         "theme": "clinic",
         "corner": "bl",
         "src": "img/qr_vital.png",
-        "eyebrow": "SCAN FOR THE FREE GUIDE",
-        "label": "The Natural Wellness Method"
+        "eyebrow": "SCAN TO SEE THE GUIDES",
+        "label": "The Vital After 60 Playbook"
       }
     },
     {
-      "from": 9545,
+      "from": 9512,
       "dur": 114,
       "comp": "KeywordPop",
       "props": {
@@ -1191,7 +1191,7 @@
       }
     },
     {
-      "from": 11273,
+      "from": 11185,
       "dur": 114,
       "comp": "KeywordPop",
       "props": {
@@ -1202,7 +1202,7 @@
       }
     },
     {
-      "from": 12468,
+      "from": 12336,
       "dur": 150,
       "comp": "LowerThird",
       "props": {
@@ -1213,7 +1213,7 @@
       }
     },
     {
-      "from": 13123,
+      "from": 12960,
       "dur": 150,
       "comp": "LowerThird",
       "props": {
@@ -1224,7 +1224,7 @@
       }
     },
     {
-      "from": 13550,
+      "from": 13349,
       "dur": 135,
       "comp": "SectionTitle",
       "props": {
@@ -1234,19 +1234,19 @@
       }
     },
     {
-      "from": 13550,
+      "from": 13349,
       "dur": 210,
       "comp": "QRTag",
       "props": {
         "theme": "clinic",
         "corner": "bl",
         "src": "img/qr_vital.png",
-        "eyebrow": "SCAN FOR THE FREE GUIDE",
-        "label": "The Natural Wellness Method"
+        "eyebrow": "SCAN TO SEE THE GUIDES",
+        "label": "The Vital After 60 Playbook"
       }
     },
     {
-      "from": 14207,
+      "from": 14025,
       "dur": 165,
       "comp": "IconRow",
       "props": {
@@ -1272,7 +1272,7 @@
       }
     },
     {
-      "from": 15508,
+      "from": 15361,
       "dur": 114,
       "comp": "KeywordPop",
       "props": {
@@ -1283,7 +1283,7 @@
       }
     },
     {
-      "from": 16125,
+      "from": 15987,
       "dur": 165,
       "comp": "Callout",
       "props": {
@@ -1295,7 +1295,7 @@
       }
     },
     {
-      "from": 16775,
+      "from": 16662,
       "dur": 180,
       "comp": "TimerCocina",
       "props": {
@@ -1307,7 +1307,7 @@
       }
     },
     {
-      "from": 17785,
+      "from": 17699,
       "dur": 150,
       "comp": "LowerThird",
       "props": {
@@ -1318,7 +1318,7 @@
       }
     },
     {
-      "from": 18293,
+      "from": 18218,
       "dur": 150,
       "comp": "LowerThird",
       "props": {
@@ -1329,7 +1329,7 @@
       }
     },
     {
-      "from": 18734,
+      "from": 18661,
       "dur": 150,
       "comp": "LowerThird",
       "props": {
@@ -1340,7 +1340,7 @@
       }
     },
     {
-      "from": 19862,
+      "from": 19795,
       "dur": 150,
       "comp": "LowerThird",
       "props": {
@@ -1351,7 +1351,7 @@
       }
     },
     {
-      "from": 20357,
+      "from": 20304,
       "dur": 150,
       "comp": "LowerThird",
       "props": {
@@ -1362,13 +1362,25 @@
       }
     },
     {
-      "from": 22890,
+      "from": 22714,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "clinic",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN TO SEE THE GUIDES",
+        "label": "The Vital After 60 Playbook"
+      }
+    },
+    {
+      "from": 22795,
       "dur": 180,
       "comp": "SplitInfo",
       "props": {
         "theme": "clinic",
         "eyebrow": "In the guide",
-        "title": "The Natural Wellness Method",
+        "title": "The Vital After 60 Playbook",
         "items": [
           "The exact nettle recipe",
           "The hair-feeding food list",
@@ -1377,19 +1389,7 @@
       }
     },
     {
-      "from": 23219,
-      "dur": 210,
-      "comp": "QRTag",
-      "props": {
-        "theme": "clinic",
-        "corner": "bl",
-        "src": "img/qr_vital.png",
-        "eyebrow": "SCAN FOR THE FREE GUIDE",
-        "label": "The Natural Wellness Method"
-      }
-    },
-    {
-      "from": 25077,
+      "from": 24970,
       "dur": 150,
       "comp": "MarcaCirculo",
       "props": {
@@ -1402,7 +1402,7 @@
       }
     },
     {
-      "from": 30594,
+      "from": 30716,
       "dur": 135,
       "comp": "SelloError",
       "props": {
@@ -1413,7 +1413,7 @@
       }
     },
     {
-      "from": 31592,
+      "from": 31772,
       "dur": 135,
       "comp": "SelloError",
       "props": {
@@ -1424,7 +1424,7 @@
       }
     },
     {
-      "from": 32404,
+      "from": 32593,
       "dur": 165,
       "comp": "Callout",
       "props": {
@@ -1436,7 +1436,7 @@
       }
     },
     {
-      "from": 33016,
+      "from": 33223,
       "dur": 165,
       "comp": "Callout",
       "props": {
@@ -1448,7 +1448,7 @@
       }
     },
     {
-      "from": 33412,
+      "from": 33623,
       "dur": 165,
       "comp": "Callout",
       "props": {
@@ -1460,21 +1460,21 @@
       }
     },
     {
-      "from": 36463,
+      "from": 36699,
       "dur": 210,
       "comp": "QRTag",
       "props": {
         "theme": "clinic",
         "corner": "bl",
         "src": "img/qr_vital.png",
-        "eyebrow": "SCAN FOR THE FREE GUIDE",
-        "label": "The Natural Wellness Method"
+        "eyebrow": "SCAN TO SEE THE GUIDES",
+        "label": "The Vital After 60 Playbook"
       }
     }
   ],
   "components": [
     {
-      "from": 3143,
+      "from": 3244,
       "dur": 270,
       "comp": "Steps",
       "props": {
@@ -1498,7 +1498,7 @@
       }
     },
     {
-      "from": 5575,
+      "from": 5675,
       "dur": 270,
       "comp": "CuadernoReceta",
       "props": {
@@ -1515,7 +1515,7 @@
       }
     },
     {
-      "from": 7686,
+      "from": 7691,
       "dur": 270,
       "comp": "Compare",
       "props": {
@@ -1532,7 +1532,7 @@
       }
     },
     {
-      "from": 11375,
+      "from": 11277,
       "dur": 240,
       "comp": "MythVsTruth",
       "props": {
@@ -1542,7 +1542,7 @@
       }
     },
     {
-      "from": 17460,
+      "from": 17362,
       "dur": 270,
       "comp": "CuadernoReceta",
       "props": {
@@ -1560,7 +1560,7 @@
       }
     },
     {
-      "from": 21107,
+      "from": 21067,
       "dur": 300,
       "comp": "Timeline",
       "props": {
@@ -1587,7 +1587,7 @@
       }
     },
     {
-      "from": 25232,
+      "from": 25140,
       "dur": 180,
       "comp": "PolaroidRecuerdo",
       "props": {
@@ -1598,7 +1598,7 @@
       }
     },
     {
-      "from": 25335,
+      "from": 25248,
       "dur": 300,
       "comp": "Timeline",
       "props": {
@@ -1625,7 +1625,7 @@
       }
     },
     {
-      "from": 27089,
+      "from": 27046,
       "dur": 270,
       "comp": "TicketPrecio",
       "props": {
@@ -1661,7 +1661,7 @@
       }
     },
     {
-      "from": 31018,
+      "from": 31169,
       "dur": 225,
       "comp": "MythVsTruth",
       "props": {
@@ -1671,7 +1671,7 @@
       }
     },
     {
-      "from": 34457,
+      "from": 34679,
       "dur": 210,
       "comp": "PullQuote",
       "props": {
