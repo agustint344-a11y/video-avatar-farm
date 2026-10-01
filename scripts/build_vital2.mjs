@@ -63,7 +63,7 @@ const compRanges = components.map((c) => [c.from, c.from + c.dur]);
 const inComp = (f) => compRanges.some(([a, b]) => f >= a - sec(0.3) && f < b);
 
 // ---------- OVERLAYS ----------
-const QRP = { theme: T, corner: "bl", src: QR, eyebrow: CFG.QREYEBROW || "SCAN FOR THE FREE GUIDE", label: CFG.QRLABEL || "The Natural Wellness Method" };
+const QRP = { theme: T, corner: "bl", src: QR, eyebrow: CFG.QREYEBROW || "SCAN TO SEE THE GUIDES", label: CFG.QRLABEL || "The Vital After 60 Playbook" };
 const ovBeats = [...CFG.OVS.map(([a, d, c, p]) => [a, d, c, { theme: T, ...p }]), ...(CFG.QRS || []).map((a) => [a, 7, "QRTag", QRP])];
 const overlays = [];
 const ovMiss = [];
