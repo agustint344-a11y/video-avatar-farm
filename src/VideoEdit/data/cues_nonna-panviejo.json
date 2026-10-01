@@ -3,43 +3,48 @@
   "fps": 30,
   "width": 1920,
   "height": 1080,
-  "durationInFrames": 19677,
+  "durationInFrames": 20339,
   "audioSrc": "nonna-panviejo.mp3",
   "avatarSrc": "nonna-panviejo_avatar.mp4",
   "avatarSegs": [
     {
       "from": 0,
-      "dur": 479,
+      "dur": 480,
       "clip": 0
     },
     {
       "from": 614,
-      "dur": 936,
-      "clip": 479
+      "dur": 937,
+      "clip": 480
     },
     {
       "from": 7016,
-      "dur": 960,
-      "clip": 1415
+      "dur": 389,
+      "clip": 1417
     },
     {
-      "from": 18421,
-      "dur": 1238,
-      "clip": 2375
+      "from": 8101,
+      "dur": 68,
+      "clip": 1806
+    },
+    {
+      "from": 19495,
+      "dur": 827,
+      "clip": 1874
     }
   ],
   "broll": [
     {
-      "from": 479,
-      "dur": 135,
+      "from": 480,
+      "dur": 134,
       "kind": "image",
       "src": "img/nonna-panviejo_s02.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 1550,
-      "dur": 143,
+      "from": 1551,
+      "dur": 142,
       "kind": "image",
       "src": "img/nonna-panviejo_s05.png",
       "kb": 1,
@@ -222,363 +227,379 @@
       "pip": false
     },
     {
-      "from": 7976,
-      "dur": 157,
+      "from": 7405,
+      "dur": 116,
       "kind": "image",
       "src": "img/nonna-panviejo_s48.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 8133,
+      "from": 7971,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s04.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8169,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s47.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8326,
       "dur": 129,
       "kind": "image",
       "src": "img/nonna-panviejo_s19.png",
-      "kb": 1,
+      "kb": 3,
       "pip": false
     },
     {
-      "from": 8262,
+      "from": 8455,
       "dur": 366,
       "kind": "image",
       "src": "img/nonna-panviejo_s20.png",
-      "kb": 2,
+      "kb": 4,
       "pip": false
     },
     {
-      "from": 8628,
+      "from": 8821,
       "dur": 174,
       "kind": "video",
       "src": "broll/nonna-panviejo_v_s21.mp4",
-      "kb": 3,
+      "kb": 5,
       "pip": false
     },
     {
-      "from": 8802,
+      "from": 8995,
       "dur": 78,
       "kind": "video",
       "src": "broll/nonna-panviejo_v_s21.mp4",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 8880,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/nonna-panviejo_s22.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 9210,
-      "dur": 66,
-      "kind": "image",
-      "src": "img/nonna-panviejo_s22.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 9276,
+      "from": 9073,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s22.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9403,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s22.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9469,
       "dur": 171,
       "kind": "image",
       "src": "img/nonna-panviejo_s58.png",
-      "kb": 1,
+      "kb": 3,
       "pip": false
     },
     {
-      "from": 9447,
+      "from": 9640,
       "dur": 285,
       "kind": "image",
       "src": "img/nonna-panviejo_s59.png",
-      "kb": 2,
+      "kb": 4,
       "pip": false
     },
     {
-      "from": 9732,
+      "from": 9925,
       "dur": 180,
       "kind": "image",
       "src": "img/nonna-panviejo_s23.png",
-      "kb": 3,
+      "kb": 5,
       "pip": false
     },
     {
-      "from": 9912,
+      "from": 10105,
       "dur": 138,
       "kind": "image",
       "src": "img/nonna-panviejo_s24.png",
-      "kb": 4,
+      "kb": 0,
       "pip": false
     },
     {
-      "from": 10050,
+      "from": 10243,
       "dur": 99,
       "kind": "image",
       "src": "img/nonna-panviejo_s60.png",
-      "kb": 5,
+      "kb": 1,
       "pip": false
     },
     {
-      "from": 10149,
+      "from": 10342,
       "dur": 66,
       "kind": "image",
       "src": "img/nonna-panviejo_s37.png",
-      "kb": 0,
+      "kb": 2,
       "pip": false
     },
     {
-      "from": 10215,
+      "from": 10408,
       "dur": 345,
       "kind": "image",
       "src": "img/nonna-panviejo_s25.png",
-      "kb": 1,
+      "kb": 3,
       "pip": false
     },
     {
-      "from": 10560,
+      "from": 10753,
       "dur": 159,
       "kind": "image",
       "src": "img/nonna-panviejo_s26.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 10719,
-      "dur": 213,
-      "kind": "image",
-      "src": "img/nonna-panviejo_s61.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 10932,
-      "dur": 102,
-      "kind": "image",
-      "src": "img/nonna-panviejo_s27.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 11034,
-      "dur": 174,
-      "kind": "video",
-      "src": "broll/nonna-panviejo_v_s28.mp4",
+      "from": 10912,
+      "dur": 215,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s61.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 11208,
-      "dur": 174,
-      "kind": "video",
-      "src": "broll/nonna-panviejo_v_s28.mp4",
+      "from": 11337,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s27.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 11382,
+      "from": 11480,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/nonna-panviejo_v_s28.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11654,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/nonna-panviejo_v_s28.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11828,
       "dur": 117,
       "kind": "video",
       "src": "broll/nonna-panviejo_v_s28.mp4",
-      "kb": 1,
+      "kb": 3,
       "pip": false
     },
     {
-      "from": 11499,
+      "from": 11945,
       "dur": 108,
       "kind": "video",
       "src": "broll/nonna-panviejo_v_s29.mp4",
-      "kb": 2,
+      "kb": 4,
       "pip": false
     },
     {
-      "from": 11607,
+      "from": 12053,
       "dur": 135,
       "kind": "image",
       "src": "img/nonna-panviejo_s30.png",
-      "kb": 3,
+      "kb": 5,
       "pip": false
     },
     {
-      "from": 11742,
+      "from": 12188,
       "dur": 150,
       "kind": "image",
       "src": "img/nonna-panviejo_s62.png",
-      "kb": 4,
+      "kb": 0,
       "pip": false
     },
     {
-      "from": 11892,
+      "from": 12338,
       "dur": 195,
       "kind": "image",
       "src": "img/nonna-panviejo_s45.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 12297,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/nonna-panviejo_s31.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 12627,
-      "dur": 257,
-      "kind": "image",
-      "src": "img/nonna-panviejo_s31.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 12884,
+      "from": 12743,
       "dur": 330,
       "kind": "image",
-      "src": "img/nonna-panviejo_s32.png",
+      "src": "img/nonna-panviejo_s31.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 13214,
+      "from": 13073,
+      "dur": 258,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s31.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13331,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s32.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13661,
       "dur": 372,
       "kind": "image",
       "src": "img/nonna-panviejo_s32.png",
-      "kb": 3,
+      "kb": 5,
       "pip": false
     },
     {
-      "from": 13586,
+      "from": 14033,
       "dur": 177,
       "kind": "image",
       "src": "img/nonna-panviejo_s34.png",
-      "kb": 4,
+      "kb": 0,
       "pip": false
     },
     {
-      "from": 13763,
+      "from": 14210,
       "dur": 230,
       "kind": "image",
       "src": "img/nonna-panviejo_s35.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 13993,
-      "dur": 337,
-      "kind": "image",
-      "src": "img/nonna-panviejo_s63.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 14330,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/nonna-panviejo_s36.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 14660,
-      "dur": 330,
+      "from": 14440,
+      "dur": 336,
       "kind": "image",
-      "src": "img/nonna-panviejo_s36.png",
+      "src": "img/nonna-panviejo_s63.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 14990,
-      "dur": 174,
+      "from": 14776,
+      "dur": 330,
       "kind": "image",
       "src": "img/nonna-panviejo_s36.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 15164,
-      "dur": 174,
-      "kind": "video",
-      "src": "broll/nonna-panviejo_v_s38.mp4",
+      "from": 15106,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s36.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 15338,
-      "dur": 139,
-      "kind": "video",
-      "src": "broll/nonna-panviejo_v_s38.mp4",
+      "from": 15436,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s36.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 15477,
+      "from": 15611,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/nonna-panviejo_v_s38.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15785,
+      "dur": 138,
+      "kind": "video",
+      "src": "broll/nonna-panviejo_v_s38.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15923,
       "dur": 234,
       "kind": "image",
       "src": "img/nonna-panviejo_s39.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 15711,
-      "dur": 237,
-      "kind": "image",
-      "src": "img/nonna-panviejo_s64.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 16188,
-      "dur": 258,
-      "kind": "image",
-      "src": "img/nonna-panviejo_s40.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 16446,
-      "dur": 330,
+      "from": 16157,
+      "dur": 237,
       "kind": "image",
-      "src": "img/nonna-panviejo_s65.png",
+      "src": "img/nonna-panviejo_s64.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 16776,
-      "dur": 201,
+      "from": 16634,
+      "dur": 258,
       "kind": "image",
-      "src": "img/nonna-panviejo_s65.png",
+      "src": "img/nonna-panviejo_s40.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 17127,
-      "dur": 261,
+      "from": 16892,
+      "dur": 330,
       "kind": "image",
-      "src": "img/nonna-panviejo_s66.png",
+      "src": "img/nonna-panviejo_s65.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 17868,
-      "dur": 330,
+      "from": 17222,
+      "dur": 201,
       "kind": "image",
-      "src": "img/nonna-panviejo_s43.png",
+      "src": "img/nonna-panviejo_s65.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 18198,
-      "dur": 223,
+      "from": 17573,
+      "dur": 261,
       "kind": "image",
-      "src": "img/nonna-panviejo_s43.png",
+      "src": "img/nonna-panviejo_s66.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 19659,
-      "dur": 18,
+      "from": 18314,
+      "dur": 330,
       "kind": "image",
-      "src": "img/nonna-panviejo_s44.png",
+      "src": "img/nonna-panviejo_s43.png",
       "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18644,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s43.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18974,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/nonna-panviejo_s43.png",
+      "kb": 4,
       "pip": false
     }
   ],
@@ -621,13 +642,13 @@
       "props": {
         "theme": "earth",
         "corner": "bl",
-        "src": "img/qr_nonna.png",
+        "src": "img/qr_guia_nonna.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "El Cuaderno de la Nonna"
+        "label": "Las guías de la Nonna"
       }
     },
     {
-      "from": 7968,
+      "from": 8161,
       "dur": 135,
       "comp": "SectionTitle",
       "props": {
@@ -637,7 +658,7 @@
       }
     },
     {
-      "from": 9568,
+      "from": 9760,
       "dur": 135,
       "comp": "SectionTitle",
       "props": {
@@ -647,7 +668,7 @@
       }
     },
     {
-      "from": 10779,
+      "from": 10972,
       "dur": 135,
       "comp": "SectionTitle",
       "props": {
@@ -657,19 +678,19 @@
       }
     },
     {
-      "from": 10779,
+      "from": 10972,
       "dur": 210,
       "comp": "QRTag",
       "props": {
         "theme": "earth",
         "corner": "bl",
-        "src": "img/qr_nonna.png",
+        "src": "img/qr_guia_nonna.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "El Cuaderno de la Nonna"
+        "label": "Las guías de la Nonna"
       }
     },
     {
-      "from": 12729,
+      "from": 13175,
       "dur": 135,
       "comp": "SectionTitle",
       "props": {
@@ -679,7 +700,7 @@
       }
     },
     {
-      "from": 14127,
+      "from": 14573,
       "dur": 135,
       "comp": "SectionTitle",
       "props": {
@@ -689,7 +710,7 @@
       }
     },
     {
-      "from": 15336,
+      "from": 15782,
       "dur": 210,
       "comp": "TimerCocina",
       "props": {
@@ -699,27 +720,27 @@
       }
     },
     {
-      "from": 15948,
+      "from": 16394,
       "dur": 210,
       "comp": "QRTag",
       "props": {
         "theme": "earth",
         "corner": "bl",
-        "src": "img/qr_nonna.png",
+        "src": "img/qr_guia_nonna.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "El Cuaderno de la Nonna"
+        "label": "Las guías de la Nonna"
       }
     },
     {
-      "from": 18421,
+      "from": 18869,
       "dur": 210,
       "comp": "QRTag",
       "props": {
         "theme": "earth",
         "corner": "bl",
-        "src": "img/qr_nonna.png",
+        "src": "img/qr_guia_nonna.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "El Cuaderno de la Nonna"
+        "label": "Las guías de la Nonna"
       }
     }
   ],
@@ -784,7 +805,38 @@
       }
     },
     {
-      "from": 12087,
+      "from": 7521,
+      "dur": 450,
+      "comp": "GuiasNonna",
+      "props": {
+        "theme": "earth",
+        "covers": [
+          "img/guias/nonna-recetario.jpg",
+          "img/guias/nonna-masas.jpg"
+        ],
+        "labels": [
+          "El Gran Recetario",
+          "El Libro de las Masas"
+        ],
+        "title": "Mi cuaderno, en limpio",
+        "qr": "img/qr_guia_nonna.png"
+      }
+    },
+    {
+      "from": 11127,
+      "dur": 210,
+      "comp": "GuiasNonna",
+      "props": {
+        "theme": "earth",
+        "covers": [
+          "img/guias/nonna-recetario.jpg"
+        ],
+        "title": "El Gran Recetario de la Nonna",
+        "qr": "img/qr_guia_nonna.png"
+      }
+    },
+    {
+      "from": 12533,
       "dur": 210,
       "comp": "Callout",
       "props": {
@@ -796,7 +848,7 @@
       }
     },
     {
-      "from": 15948,
+      "from": 16394,
       "dur": 240,
       "comp": "TicketPrecio",
       "props": {
@@ -822,7 +874,7 @@
       }
     },
     {
-      "from": 16977,
+      "from": 17423,
       "dur": 150,
       "comp": "PhraseCard",
       "props": {
@@ -834,7 +886,7 @@
       }
     },
     {
-      "from": 17388,
+      "from": 17834,
       "dur": 480,
       "comp": "Checklist",
       "props": {
@@ -850,6 +902,27 @@
           "Bolas de pan en caldo"
         ],
         "stamp": "¡Nunca más a la basura!"
+      }
+    },
+    {
+      "from": 19221,
+      "dur": 274,
+      "comp": "GuiasNonna",
+      "props": {
+        "theme": "earth",
+        "covers": [
+          "img/guias/nonna-recetario.jpg",
+          "img/guias/nonna-masas.jpg",
+          "img/guias/nonna-kit.jpg"
+        ],
+        "labels": [
+          "Recetario",
+          "Masas",
+          "La Colección"
+        ],
+        "focus": 2,
+        "title": "Los dos juntos: la Colección",
+        "qr": "img/qr_guia_nonna.png"
       }
     }
   ]
