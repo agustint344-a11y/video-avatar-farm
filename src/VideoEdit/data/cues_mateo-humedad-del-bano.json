@@ -1,0 +1,1680 @@
+{
+  "slug": "mateo-humedad-del-bano",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 37293,
+  "audioSrc": "mateo-humedad-del-bano.mp3",
+  "avatarSrc": "mateo-humedad-del-bano_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 598,
+      "dur": 718,
+      "clip": 0
+    },
+    {
+      "from": 2508,
+      "dur": 669,
+      "clip": 718
+    },
+    {
+      "from": 21188,
+      "dur": 742,
+      "clip": 1387
+    },
+    {
+      "from": 33258,
+      "dur": 1050,
+      "clip": 2129
+    },
+    {
+      "from": 35332,
+      "dur": 714,
+      "clip": 3179
+    },
+    {
+      "from": 36323,
+      "dur": 929,
+      "clip": 3893
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 4,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 244,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 361,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1316,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s01.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1646,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s01.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1908,
+      "dur": 281,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s02.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2189,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s03.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2452,
+      "dur": 56,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s03.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3177,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3306,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s04.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3388,
+      "dur": 285,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s05.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3673,
+      "dur": 294,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s06.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4267,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s06.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4480,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s07.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4704,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s08.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5101,
+      "dur": 328,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s08.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5429,
+      "dur": 365,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s09.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5794,
+      "dur": 347,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s10.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6141,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s12.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6538,
+      "dur": 218,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s11.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6756,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s13.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6943,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s14.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7399,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s14.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7568,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s15.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7734,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s16.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8064,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s16.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8294,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s17.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8821,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s17.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8909,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s18.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9239,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s18.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9331,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s19.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9557,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s20.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9956,
+      "dur": 329,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s20.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10285,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s21.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10397,
+      "dur": 312,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s22.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10889,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s22.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11219,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s22.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11317,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s23.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11402,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s24.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11890,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s34.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12073,
+      "dur": 307,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s25.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12380,
+      "dur": 335,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s26.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12715,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s27.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13318,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s27.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13500,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s28.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13713,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s29.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13876,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s30.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14206,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s30.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14291,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s31.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14621,
+      "dur": 57,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s31.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14678,
+      "dur": 368,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s32.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15046,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s33.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15420,
+      "dur": 293,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s33.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15713,
+      "dur": 257,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s35.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15970,
+      "dur": 367,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s36.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16337,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s37.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16857,
+      "dur": 335,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s38.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17192,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s39.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17433,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s40.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17763,
+      "dur": 49,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s40.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17812,
+      "dur": 335,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s41.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18147,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s42.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18512,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s42.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18842,
+      "dur": 52,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s42.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18894,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s43.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19194,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s44.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19524,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s44.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19936,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s44.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20118,
+      "dur": 277,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s45.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20395,
+      "dur": 245,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s65.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20640,
+      "dur": 332,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s47.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20972,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s48.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21930,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s49.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22277,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s46.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22490,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s50.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22718,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s51.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23183,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s51.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23296,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s52.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23543,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s53.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23950,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s53.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24280,
+      "dur": 50,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s53.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24330,
+      "dur": 373,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s54.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24703,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s55.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24949,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s56.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25300,
+      "dur": 289,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s56.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25589,
+      "dur": 351,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s57.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25940,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s58.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26162,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s59.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26708,
+      "dur": 54,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s61.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26762,
+      "dur": 335,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s60.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27097,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s62.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27216,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s63.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27395,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s70.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27797,
+      "dur": 356,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s64.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28153,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s66.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28483,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s67.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28573,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s68.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28746,
+      "dur": 307,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s69.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29053,
+      "dur": 238,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s71.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29291,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s72.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29405,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s73.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29588,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s74.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29794,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s75.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29993,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s76.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30083,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s77.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30484,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s77.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30719,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s78.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30935,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s79.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31265,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s79.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31505,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s79.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31835,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s79.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31908,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s80.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32075,
+      "dur": 313,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s81.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32658,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s81.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32802,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s82.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32974,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s83.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33099,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s84.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 34308,
+      "dur": 302,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s84.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34610,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s85.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 35063,
+      "dur": 269,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s86.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 36046,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s87.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 36154,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s88.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 37252,
+      "dur": 41,
+      "kind": "image",
+      "src": "img/mateo-humedad-del-bano_s88.png",
+      "kb": 2,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 755,
+      "dur": 135,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "EL CONSTRUCTOR LIBRE",
+        "title": "Mateo Arregla",
+        "sub": "Arreglos caseros sin vueltas"
+      }
+    },
+    {
+      "from": 3169,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL ENFOQUE",
+        "title": "No es limpieza, es origen"
+      }
+    },
+    {
+      "from": 5794,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "La silicona vencida"
+      }
+    },
+    {
+      "from": 10397,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "Falta de ventilación"
+      }
+    },
+    {
+      "from": 14291,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "Filtración de cañería"
+      }
+    },
+    {
+      "from": 17433,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "FILTRACIÓN",
+        "sub": "puede dañar la estructura",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 17812,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "title": "Pintura sin preparación"
+      }
+    },
+    {
+      "from": 20464,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "PREPARACIÓN",
+        "sub": "la clave antes de pintar",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 21553,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla"
+      }
+    },
+    {
+      "from": 21704,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla"
+      }
+    },
+    {
+      "from": 21922,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 5",
+        "title": "Piso sin pendiente"
+      }
+    },
+    {
+      "from": 24548,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "12-24 HS",
+        "sub": "secado del sellador de juntas",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 24703,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "FACTOR EXTRA",
+        "title": "Objetos contra la pared"
+      }
+    },
+    {
+      "from": 25940,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PLAN",
+        "title": "4 semanas para resolverlo"
+      }
+    },
+    {
+      "from": 29993,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERRORES COMUNES",
+        "title": "Lo que no debes hacer"
+      }
+    },
+    {
+      "from": 30719,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "1 MES",
+        "sub": "el moho vuelve si no corregís la causa",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 32974,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MISMO PRECIO",
+        "sub": "silicona sanitaria vs. uso general",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 33099,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REPASO",
+        "title": "Las 5 causas, en resumen"
+      }
+    },
+    {
+      "from": 35725,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla"
+      }
+    },
+    {
+      "from": 35852,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla"
+      }
+    },
+    {
+      "from": 36038,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CIERRE",
+        "title": "Antes de que te vayas"
+      }
+    },
+    {
+      "from": 37213,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 4,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL VERDADERO PROBLEMA",
+        "phrase": "La humedad no vuelve por falta de limpieza",
+        "accent": "no vuelve por falta de limpieza",
+        "src": "img/mateo-humedad-del-bano_s01.png"
+      }
+    },
+    {
+      "from": 2272,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA REALIDAD",
+        "phrase": "Ningún balde de pintura tapa una grieta que sigue filtrando",
+        "accent": "sigue filtrando",
+        "src": "img/mateo-humedad-del-bano_s03.png"
+      }
+    },
+    {
+      "from": 3967,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LO QUE VAS A VER",
+        "title": "El plan de este video",
+        "steps": [
+          {
+            "title": "Las causas",
+            "sub": "una por una, con ejemplos"
+          },
+          {
+            "title": "Cómo confirmar la tuya",
+            "sub": "pruebas simples y gratuitas"
+          },
+          {
+            "title": "El arreglo real",
+            "sub": "pasos y plan de varias semanas"
+          }
+        ]
+      }
+    },
+    {
+      "from": 4861,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Existe una solución mágica para siempre",
+        "truth": "Con la causa identificada, el problema deja de repetirse"
+      }
+    },
+    {
+      "from": 6328,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DATO CLAVE",
+        "phrase": "La silicona dura entre uno y tres años",
+        "accent": "uno y tres años",
+        "src": "img/mateo-humedad-del-bano_s12.png"
+      }
+    },
+    {
+      "from": 7099,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PRUEBA SIN COMPRAR NADA",
+        "title": "¿Tu silicona está vencida?",
+        "steps": [
+          {
+            "title": "Pasa la uña",
+            "sub": "por todo el borde, no solo un punto"
+          },
+          {
+            "title": "Mira el color",
+            "sub": "puntos negros o grises es moho"
+          },
+          {
+            "title": "Revisa la textura",
+            "sub": "arrugada u ondulada perdió elasticidad"
+          }
+        ]
+      }
+    },
+    {
+      "from": 8461,
+      "dur": 360,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL ARREGLO REAL",
+        "title": "Cómo cambiar la silicona",
+        "steps": [
+          {
+            "title": "Retirar la vieja",
+            "sub": "con espátula, sin rayar"
+          },
+          {
+            "title": "Limpiar con alcohol",
+            "sub": "sin grasa ni residuos"
+          },
+          {
+            "title": "Aplicar la nueva",
+            "sub": "línea continua, sin cortes"
+          }
+        ]
+      }
+    },
+    {
+      "from": 9776,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL COSTO REAL",
+        "phrase": "Un tubo de silicona sanitaria cuesta entre uno y tres dólares",
+        "accent": "uno y tres dólares",
+        "src": "img/mateo-humedad-del-bano_s20.png"
+      }
+    },
+    {
+      "from": 10709,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA CLAVE",
+        "phrase": "El vapor necesita un lugar adónde ir",
+        "accent": "un lugar adónde ir",
+        "src": "img/mateo-humedad-del-bano_s22.png"
+      }
+    },
+    {
+      "from": 11590,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Señales de mala ventilación",
+        "items": [
+          "Espejo empañado más de 10-15 minutos",
+          "Manchas en la parte alta o el techo",
+          "Pintura del techo hinchada o con burbujas"
+        ]
+      }
+    },
+    {
+      "from": 12988,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "UN HÁBITO, NO UN GASTO",
+        "title": "Ventilar después de la ducha",
+        "steps": [
+          {
+            "title": "Puerta o ventana abierta",
+            "sub": "20 a 30 minutos"
+          },
+          {
+            "title": "Extractor encendido",
+            "sub": "durante la ducha y 15 min después"
+          },
+          {
+            "title": "Filtro limpio",
+            "sub": "rejilla con agua y jabón"
+          }
+        ]
+      }
+    },
+    {
+      "from": 15120,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Señales de filtración de cañería",
+        "items": [
+          "Mancha lejos de la ducha",
+          "Sigue creciendo sin usar el baño",
+          "Piso húmedo junto al inodoro",
+          "Olor persistente a humedad"
+        ]
+      }
+    },
+    {
+      "from": 16527,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PRUEBA GRATUITA",
+        "title": "Cerrar la llave de paso",
+        "steps": [
+          {
+            "title": "Cerrar por 2 horas",
+            "sub": "sin usar agua en la casa"
+          },
+          {
+            "title": "Se seca",
+            "sub": "es condensación o salpicadura"
+          },
+          {
+            "title": "Sigue húmeda",
+            "sub": "es una filtración activa"
+          }
+        ]
+      }
+    },
+    {
+      "from": 18302,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "La pintura antihumedad no funciona",
+        "truth": "Falla si la superficie no está seca y sin moho"
+      }
+    },
+    {
+      "from": 19606,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ANTES DE PINTAR",
+        "title": "Preparar bien la superficie",
+        "steps": [
+          {
+            "title": "Raspar",
+            "sub": "pintura vieja y moho visible"
+          },
+          {
+            "title": "Lavar",
+            "sub": "agua con cloro o vinagre"
+          },
+          {
+            "title": "Secar y pintar",
+            "sub": "1 día de secado, dos manos"
+          }
+        ]
+      }
+    },
+    {
+      "from": 22097,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN MENOS CONOCIDA",
+        "phrase": "Sin pendiente hacia el desagüe, el agua se estanca",
+        "accent": "el agua se estanca",
+        "src": "img/mateo-humedad-del-bano_s49.png"
+      }
+    },
+    {
+      "from": 22883,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PRUEBA SIMPLE",
+        "title": "¿Tu piso tiene pendiente?",
+        "steps": [
+          {
+            "title": "Tira agua",
+            "sub": "fuera de la zona de la ducha"
+          },
+          {
+            "title": "Observa",
+            "sub": "hacia dónde corre"
+          },
+          {
+            "title": "Si se queda quieta",
+            "sub": "hay un problema de pendiente"
+          }
+        ]
+      }
+    },
+    {
+      "from": 23770,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DETALLE QUE SE PASA POR ALTO",
+        "phrase": "Las juntas agrietadas dejan pasar el agua",
+        "accent": "juntas agrietadas",
+        "src": "img/mateo-humedad-del-bano_s53.png"
+      }
+    },
+    {
+      "from": 25060,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Qué evitar contra la pared húmeda",
+        "items": [
+          "Canastos de ropa apoyados",
+          "Toallas colgadas sobre el azulejo",
+          "Muebles pegados a la pared"
+        ]
+      }
+    },
+    {
+      "from": 26348,
+      "dur": 360,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Plan de 4 semanas",
+        "steps": [
+          {
+            "when": "Semana 1",
+            "text": "Diagnóstico, sin arreglar nada todavía"
+          },
+          {
+            "when": "Semana 2",
+            "text": "Cambiar la silicona"
+          },
+          {
+            "when": "Semana 3",
+            "text": "Hábito de ventilación y juntas"
+          },
+          {
+            "when": "Semana 4",
+            "text": "Pintar, ya con la pared seca"
+          }
+        ]
+      }
+    },
+    {
+      "from": 27467,
+      "dur": 330,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Semana 2: cambiar la silicona",
+        "items": [
+          "Retirar la vieja",
+          "Limpiar con alcohol",
+          "Secar un día entero",
+          "Aplicar la nueva",
+          "No mojar por 24 a 48 horas"
+        ]
+      }
+    },
+    {
+      "from": 30244,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Los aerosoles blanqueadores solucionan la humedad",
+        "truth": "Solo limpian; el hongo vuelve si no corregís la causa"
+      }
+    },
+    {
+      "from": 31325,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR FRECUENTE",
+        "phrase": "No sellés silicona sobre una superficie húmeda",
+        "accent": "superficie húmeda",
+        "src": "img/mateo-humedad-del-bano_s79.png"
+      }
+    },
+    {
+      "from": 32388,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Cuál silicona usar?",
+        "left": {
+          "label": "Silicona de uso general",
+          "sub": "no resiste la humedad constante"
+        },
+        "right": {
+          "label": "Silicona sanitaria",
+          "sub": "con aditivos antimoho, mismo precio"
+        }
+      }
+    },
+    {
+      "from": 34703,
+      "dur": 360,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Repaso: las 5 causas",
+        "items": [
+          "Silicona despegada",
+          "Falta de ventilación",
+          "Filtración de cañería",
+          "Pintura sin preparar",
+          "Piso sin pendiente"
+        ]
+      }
+    }
+  ]
+}
