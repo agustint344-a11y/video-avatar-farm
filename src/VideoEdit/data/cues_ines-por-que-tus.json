@@ -1,0 +1,1661 @@
+{
+  "slug": "ines-por-que-tus",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 38633,
+  "audioSrc": "ines-por-que-tus.mp3",
+  "avatarSrc": "ines-por-que-tus_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1348,
+      "dur": 1050,
+      "clip": 0
+    },
+    {
+      "from": 3626,
+      "dur": 758,
+      "clip": 1050
+    },
+    {
+      "from": 20717,
+      "dur": 883,
+      "clip": 1808
+    },
+    {
+      "from": 35486,
+      "dur": 1050,
+      "clip": 2691
+    },
+    {
+      "from": 37055,
+      "dur": 1048,
+      "clip": 3741
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 224,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 311,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 600,
+      "dur": 352,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 952,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1158,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s05.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1240,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s22.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2398,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s22.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2485,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2635,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2820,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s08.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3169,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s08.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3281,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s18.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3341,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s09.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3445,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s10.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4384,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s11.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4556,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s12.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4934,
+      "dur": 324,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s57.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5258,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s13.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5531,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s14.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5687,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s15.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5915,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s16.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6191,
+      "dur": 353,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s17.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6544,
+      "dur": 333,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6877,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s20.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7199,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s20.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7421,
+      "dur": 327,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s21.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7958,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s21.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8064,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s23.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8195,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s24.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8683,
+      "dur": 297,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s24.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8980,
+      "dur": 297,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s25.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9277,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s33.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9430,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s27.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9661,
+      "dur": 317,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s28.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9978,
+      "dur": 347,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s29.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10595,
+      "dur": 307,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s26.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10902,
+      "dur": 326,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s30.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11228,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s31.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11398,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s39.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11728,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s32.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12071,
+      "dur": 290,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s39.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12361,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s34.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12691,
+      "dur": 53,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s34.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12744,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s35.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13344,
+      "dur": 301,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s35.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13645,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s36.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13915,
+      "dur": 279,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s37.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14194,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s38.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14524,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s38.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14606,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s40.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14999,
+      "dur": 295,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s40.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15294,
+      "dur": 261,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s41.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15555,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s42.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15781,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s43.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16020,
+      "dur": 275,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s44.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16295,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s45.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16682,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s45.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16907,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s46.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17163,
+      "dur": 14,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s47.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17177,
+      "dur": 284,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s91.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17461,
+      "dur": 298,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s48.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17759,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s49.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18080,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s49.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18320,
+      "dur": 274,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s50.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18594,
+      "dur": 264,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s51.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18858,
+      "dur": 288,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s52.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19146,
+      "dur": 266,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s53.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19412,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s54.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19742,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s54.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20153,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s55.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20393,
+      "dur": 324,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s56.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21600,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s56.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21720,
+      "dur": 312,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s58.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22212,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s58.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22542,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s58.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22630,
+      "dur": 310,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s59.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22940,
+      "dur": 290,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s60.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23230,
+      "dur": 351,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s61.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23581,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s62.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23911,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s62.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23999,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s63.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24421,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s63.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24751,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s63.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24799,
+      "dur": 260,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s64.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25059,
+      "dur": 229,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s65.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25288,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s66.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25618,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s66.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25948,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s66.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26032,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s67.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26362,
+      "dur": 54,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s67.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26416,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s68.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26629,
+      "dur": 379,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s69.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27008,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s71.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27484,
+      "dur": 255,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s70.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27739,
+      "dur": 284,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s72.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28023,
+      "dur": 236,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s73.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28259,
+      "dur": 332,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s74.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28891,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s76.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28978,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s75.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29308,
+      "dur": 269,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s75.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29577,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s77.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29768,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s78.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29998,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s79.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30328,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s79.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30432,
+      "dur": 346,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s80.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30778,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s81.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31247,
+      "dur": 291,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s81.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31538,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s82.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31868,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s82.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31937,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s83.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32267,
+      "dur": 54,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s83.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32531,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s83.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32738,
+      "dur": 233,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s84.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32971,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s85.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33190,
+      "dur": 268,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s86.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33458,
+      "dur": 356,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s87.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33814,
+      "dur": 363,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s88.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34417,
+      "dur": 263,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s88.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 34680,
+      "dur": 364,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s89.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 35044,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s90.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 35374,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s90.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 36536,
+      "dur": 288,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s90.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 36824,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s92.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 38103,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s92.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 38433,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/ines-por-que-tus_s92.png",
+      "kb": 5,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 3,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HUERTA REAL",
+        "title": "Por qué se rajan los tomates"
+      }
+    },
+    {
+      "from": 952,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MESES DE CUIDADO",
+        "sub": "todo se juega en la última semana",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 1348,
+      "dur": 135,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "HUERTA REAL",
+        "title": "Inés",
+        "sub": "Huerta en balcón, sin pose"
+      }
+    },
+    {
+      "from": 4069,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real"
+      }
+    },
+    {
+      "from": 4376,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "Riego irregular"
+      }
+    },
+    {
+      "from": 5531,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "3-4 DÍAS SIN AGUA",
+        "sub": "el golpe que dispara la grieta",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 8010,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "Maceta chica"
+      }
+    },
+    {
+      "from": 8744,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MENOS DE 1 DÍA",
+        "sub": "una maceta chica se seca así de rápido",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 11228,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "Falta de mulch"
+      }
+    },
+    {
+      "from": 12150,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "PRIMEROS CENTÍMETROS",
+        "sub": "ahí están las raíces que más sufren",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 14194,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "title": "La variedad"
+      }
+    },
+    {
+      "from": 15018,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "PIEL FINA",
+        "sub": "más sabor, más riesgo de rajarse",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 17177,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CIERRE",
+        "title": "Repaso y conclusión"
+      }
+    },
+    {
+      "from": 17401,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 5",
+        "title": "Fertilización desequilibrada"
+      }
+    },
+    {
+      "from": 18320,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "POTASIO Y CALCIO",
+        "sub": "piel más firme y elástica",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 21396,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real"
+      }
+    },
+    {
+      "from": 21672,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 6",
+        "title": "Cosecha tardía"
+      }
+    },
+    {
+      "from": 25235,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 7",
+        "title": "Golpes de clima"
+      }
+    },
+    {
+      "from": 25697,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "35°C O MÁS",
+        "sub": "el combo perfecto con una lluvia inesperada",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 28259,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "¿Cuál es tu caso?"
+      }
+    },
+    {
+      "from": 30240,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PLAN",
+        "title": "Semana por semana"
+      }
+    },
+    {
+      "from": 34877,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "5 DE 7 RAZONES",
+        "sub": "dependen de tu manejo",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 37390,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real"
+      }
+    },
+    {
+      "from": 38534,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 390,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PROBLEMA",
+        "phrase": "No es mala suerte: algo se desajustó en el riego",
+        "accent": "se desajustó",
+        "src": "img/ines-por-que-tus_s02.png"
+      }
+    },
+    {
+      "from": 2929,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que vas a ver hoy",
+        "items": [
+          "7 razones concretas por las que se rajan",
+          "Cómo saber si es tu caso en cada una",
+          "Errores comunes al corregirlo",
+          "Un plan semana por semana"
+        ]
+      }
+    },
+    {
+      "from": 4724,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "phrase": "Piel rígida + riego irregular = grieta segura",
+        "accent": "riego irregular",
+        "src": "img/ines-por-que-tus_s12.png"
+      }
+    },
+    {
+      "from": 6959,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Si se secó, compenso regando fuerte",
+        "truth": "Ese riego de golpe es lo que raja el fruto"
+      }
+    },
+    {
+      "from": 7748,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Cómo evitar la razón 1",
+        "items": [
+          "Revisa con el dedo a 3-4 cm antes de regar",
+          "Humedad pareja, ni seca ni empapada",
+          "No riegues por calendario o costumbre"
+        ]
+      }
+    },
+    {
+      "from": 8443,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "El tamaño de la maceta importa",
+        "left": {
+          "label": "Maceta chica (10-12L)",
+          "sub": "se seca en horas de sol"
+        },
+        "right": {
+          "label": "Maceta grande (30-40L)",
+          "sub": "humedad más estable"
+        }
+      }
+    },
+    {
+      "from": 10325,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "Qué hacer si tu maceta es chica",
+        "steps": [
+          {
+            "title": "Cambiar de maceta",
+            "sub": "30L para planta grande, 20L para cherry"
+          },
+          {
+            "title": "Si no es posible ahora",
+            "sub": "Riega en 2 tandas más chicas por día"
+          },
+          {
+            "title": "Objetivo",
+            "sub": "Suavizar los picos de humedad"
+          }
+        ]
+      }
+    },
+    {
+      "from": 11891,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "phrase": "Sin cobertura, el agua se evapora el doble de rápido",
+        "accent": "evapora el doble",
+        "src": "img/ines-por-que-tus_s33.png"
+      }
+    },
+    {
+      "from": 13074,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA SOLUCIÓN",
+        "title": "Agregar mulch a la maceta",
+        "steps": [
+          {
+            "title": "Capa de 2-3 cm",
+            "sub": "paja, hojas secas o corteza de pino"
+          },
+          {
+            "title": "Deja espacio libre",
+            "sub": "unos centímetros alrededor del tallo"
+          },
+          {
+            "title": "Evita hongos",
+            "sub": "nunca una capa pegada al tallo"
+          }
+        ]
+      }
+    },
+    {
+      "from": 14759,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "No todas las variedades rajan igual",
+        "left": {
+          "label": "Piel fina (cherry, corazón de buey)",
+          "sub": "más sabrosos, más sensibles"
+        },
+        "right": {
+          "label": "Piel gruesa (pera, redondos)",
+          "sub": "más resistentes a rajar"
+        }
+      }
+    },
+    {
+      "from": 16472,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "phrase": "Piel fina exige más constancia en el riego",
+        "accent": "más constancia",
+        "src": "img/ines-por-que-tus_s45.png"
+      }
+    },
+    {
+      "from": 16983,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 7",
+        "phrase": "El clima no siempre está en tus manos",
+        "accent": "no siempre",
+        "src": "img/ines-por-que-tus_s66.png"
+      }
+    },
+    {
+      "from": 17840,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Nitrógeno vs. potasio en fructificación",
+        "left": {
+          "label": "Exceso de nitrógeno",
+          "sub": "tejidos blandos, piel débil"
+        },
+        "right": {
+          "label": "Potasio y calcio",
+          "sub": "piel firme y elástica"
+        }
+      }
+    },
+    {
+      "from": 19883,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 5",
+        "title": "Ajustar la fertilización",
+        "steps": [
+          {
+            "title": "Cambia de fórmula",
+            "sub": "más potasio en floración y fructificación"
+          },
+          {
+            "title": "Baja el nitrógeno",
+            "sub": "menos fertilizante de crecimiento"
+          },
+          {
+            "title": "No es cura mágica",
+            "sub": "es una pieza más del rompecabezas"
+          }
+        ]
+      }
+    },
+    {
+      "from": 22032,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 6",
+        "phrase": "Un día de más en la planta puede ser el que lo raja",
+        "accent": "un día de más",
+        "src": "img/ines-por-que-tus_s58.png"
+      }
+    },
+    {
+      "from": 24211,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA SOLUCIÓN",
+        "phrase": "Cosecha en pintón avanzado: rojo pero firme",
+        "accent": "pintón avanzado",
+        "src": "img/ines-por-que-tus_s63.png"
+      }
+    },
+    {
+      "from": 27214,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "AMORTIGUAR EL GOLPE",
+        "title": "Frente al clima extremo",
+        "steps": [
+          {
+            "title": "Antes de lluvia fuerte",
+            "sub": "adelanta un riego moderado"
+          },
+          {
+            "title": "En olas de calor",
+            "sub": "riegos más frecuentes y chicos"
+          },
+          {
+            "title": "Si puedes",
+            "sub": "corre la planta a media sombra"
+          }
+        ]
+      }
+    },
+    {
+      "from": 28591,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Diagnóstico rápido",
+        "items": [
+          "Círculos alrededor del tallo: riego y maceta (razones 1 y 2)",
+          "Líneas verticales: variedad y calor (razones 4 y 7)",
+          "Mucho follaje, pocas rajaduras: fertilización (razón 5)",
+          "Empeora con sol directo: falta de mulch (razón 3)",
+          "Siempre los que cosechaste tarde: razón 6"
+        ]
+      }
+    },
+    {
+      "from": 30947,
+      "dur": 300,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Plan de 4 semanas",
+        "steps": [
+          {
+            "when": "Semana 1",
+            "text": "Observa y anota tu riego real, sin cambiar nada"
+          },
+          {
+            "when": "Semana 2",
+            "text": "Riego parejo, mulch y riego dividido si la maceta es chica"
+          },
+          {
+            "when": "Semana 3",
+            "text": "Fertilizante con potasio y cosecha en pintón avanzado"
+          },
+          {
+            "when": "Semana 4",
+            "text": "Compara resultados y ajusta para la próxima temporada"
+          }
+        ]
+      }
+    },
+    {
+      "from": 32321,
+      "dur": 210,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEMANA 2",
+        "title": "Si tu maceta es chica",
+        "steps": [
+          {
+            "title": "Riego dividido",
+            "sub": "dos momentos del día en vez de uno"
+          },
+          {
+            "title": "Agrega mulch",
+            "sub": "15 minutos, ayuda desde el primer día"
+          },
+          {
+            "title": "Espacio libre",
+            "sub": "unos centímetros junto al tallo"
+          }
+        ]
+      }
+    },
+    {
+      "from": 34177,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Después de 2 semanas de cambios",
+        "left": {
+          "label": "Bajaron las rajaduras",
+          "sub": "el riego y el mulch eran lo principal"
+        },
+        "right": {
+          "label": "Sigue igual",
+          "sub": "pesa más la variedad o el clima"
+        }
+      }
+    }
+  ]
+}
