@@ -1,0 +1,1511 @@
+{
+  "slug": "juantombo-sal-alivia-garganta",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 34837,
+  "audioSrc": "juantombo-sal-alivia-garganta.mp3",
+  "avatarSrc": "juantombo-sal-alivia-garganta_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 750,
+      "dur": 1192,
+      "clip": 0
+    },
+    {
+      "from": 11015,
+      "dur": 627,
+      "clip": 1192
+    },
+    {
+      "from": 28873,
+      "dur": 831,
+      "clip": 1819
+    },
+    {
+      "from": 30886,
+      "dur": 918,
+      "clip": 2650
+    },
+    {
+      "from": 32929,
+      "dur": 874,
+      "clip": 3568
+    },
+    {
+      "from": 33959,
+      "dur": 833,
+      "clip": 4442
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 450,
+      "dur": 61,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 511,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s34.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 641,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1942,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2204,
+      "dur": 275,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2479,
+      "dur": 267,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2746,
+      "dur": 238,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s06.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3284,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3416,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3509,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s08.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3702,
+      "dur": 271,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s09.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3973,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s10.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4046,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s11.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4181,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s12.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4545,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s12.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4769,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s13.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4970,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s14.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5178,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s15.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5415,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s16.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5691,
+      "dur": 250,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s16.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5941,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s17.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6047,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s18.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6143,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s32.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6291,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s19.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6769,
+      "dur": 267,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s19.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7036,
+      "dur": 295,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s20.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7331,
+      "dur": 271,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s21.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7602,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s22.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7776,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s23.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8179,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s23.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8395,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s24.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8574,
+      "dur": 302,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s25.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8876,
+      "dur": 301,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s26.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9177,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s27.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9626,
+      "dur": 326,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s27.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9952,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s28.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10199,
+      "dur": 245,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s29.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10444,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s30.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10616,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s31.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10946,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s31.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11642,
+      "dur": 279,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s33.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12161,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s33.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12408,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s35.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12619,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s36.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12836,
+      "dur": 302,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s37.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13138,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s38.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13502,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s38.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13663,
+      "dur": 229,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s39.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13892,
+      "dur": 236,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14128,
+      "dur": 243,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s41.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14371,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s42.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14701,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s42.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15026,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s42.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15243,
+      "dur": 286,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s43.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15529,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s44.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15749,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s45.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15874,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s46.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16262,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s46.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16418,
+      "dur": 238,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s72.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16656,
+      "dur": 280,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s48.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16936,
+      "dur": 377,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s49.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17313,
+      "dur": 341,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s50.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17654,
+      "dur": 265,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s51.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17919,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s52.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18383,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s47.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18511,
+      "dur": 315,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s53.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18826,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s54.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19074,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s55.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19322,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s56.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19785,
+      "dur": 258,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s56.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20043,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s57.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20506,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s59.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20951,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s58.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21157,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s60.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21399,
+      "dur": 233,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s61.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21632,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21905,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s63.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22178,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s64.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22508,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s64.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22607,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s65.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22883,
+      "dur": 355,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s66.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23238,
+      "dur": 359,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s67.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23597,
+      "dur": 291,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s68.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24218,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s68.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24398,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s69.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24484,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s70.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24669,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s73.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24824,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s71.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25154,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s71.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25520,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s71.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25850,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s71.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26044,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s74.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26441,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s74.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26603,
+      "dur": 319,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s75.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26922,
+      "dur": 274,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s76.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27196,
+      "dur": 272,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s77.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27738,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s77.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27860,
+      "dur": 340,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s78.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28200,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s79.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28358,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s80.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28688,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s80.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28754,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s81.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29704,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s82.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30097,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s82.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30305,
+      "dur": 329,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s83.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30634,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s84.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31804,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s85.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32134,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s85.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32464,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s85.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32576,
+      "dur": 353,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s86.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33803,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s87.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34792,
+      "dur": 45,
+      "kind": "image",
+      "src": "img/juantombo-sal-alivia-garganta_s87.png",
+      "kb": 4,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "INTRO",
+        "title": "El remedio de siempre: sal y agua tibia"
+      }
+    },
+    {
+      "from": 750,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "DR. JUAN TOMBO",
+        "title": "Dr. Juan Tombo",
+        "sub": "Remedios caseros explicados con cuidado real"
+      }
+    },
+    {
+      "from": 1996,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "FACTOR QUE SUMÓ",
+        "sub": "una pastilla menos y más sal",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 4046,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "Por qué la sal calma la garganta"
+      }
+    },
+    {
+      "from": 4123,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "RESUMEN",
+        "sub": "ósmosis + menos bacterias + limpieza",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 5941,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "Cómo prepararla bien"
+      }
+    },
+    {
+      "from": 7331,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "NO TRAGAR",
+        "sub": "la clave de todo",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 7776,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "Los errores más comunes"
+      }
+    },
+    {
+      "from": 11418,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_juantombo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dr. Juan Tombo"
+      }
+    },
+    {
+      "from": 11634,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "title": "Sal y presión arterial"
+      }
+    },
+    {
+      "from": 13892,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SODIO ACUMULADO",
+        "sub": "suma a lo largo del día",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 15839,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 5",
+        "title": "Quién necesita más cuidado"
+      }
+    },
+    {
+      "from": 16418,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CONSULTA MÉDICA",
+        "sub": "antes de usarlo seguido",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 16936,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MENOS DE 2 GRAMOS",
+        "sub": "el límite en insuficiencia cardíaca",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 18104,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 6",
+        "title": "Otras formas de usar la sal"
+      }
+    },
+    {
+      "from": 19074,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "AGUA DE MAR",
+        "sub": "concentración más suave",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 21437,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MISMO SODIO",
+        "sub": "la sal rosa no es más sana",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 22178,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 8",
+        "title": "Cuándo consultar a un profesional"
+      }
+    },
+    {
+      "from": 23597,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TU PLAN",
+        "title": "Un plan simple según tu caso"
+      }
+    },
+    {
+      "from": 29503,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_juantombo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dr. Juan Tombo"
+      }
+    },
+    {
+      "from": 33473,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_juantombo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dr. Juan Tombo"
+      }
+    },
+    {
+      "from": 34742,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_juantombo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dr. Juan Tombo"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 210,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL HÁBITO DE SIEMPRE",
+        "phrase": "Empieza como una molestia pequeña y de noche ya incomoda",
+        "accent": "de noche ya incomoda",
+        "src": "img/juantombo-sal-alivia-garganta_s01.png"
+      }
+    },
+    {
+      "from": 2984,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HOY VEMOS",
+        "title": "El plan de hoy",
+        "steps": [
+          {
+            "title": "Por qué alivia",
+            "sub": "La ciencia detrás del gárgara"
+          },
+          {
+            "title": "Cómo prepararla bien",
+            "sub": "Proporción, tiempo y errores"
+          },
+          {
+            "title": "Sal y presión",
+            "sub": "Cuándo tener más cuidado"
+          }
+        ]
+      }
+    },
+    {
+      "from": 4335,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA CIENCIA",
+        "phrase": "El agua sale de las células inflamadas por ósmosis",
+        "accent": "ósmosis",
+        "src": "img/juantombo-sal-alivia-garganta_s12.png"
+      }
+    },
+    {
+      "from": 5481,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TAMBIÉN AYUDA",
+        "phrase": "El ambiente salado no es cómodo para las bacterias",
+        "accent": "no es cómodo",
+        "src": "img/juantombo-sal-alivia-garganta_s16.png"
+      }
+    },
+    {
+      "from": 6499,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "La receta correcta",
+        "items": [
+          "Media cucharadita de sal",
+          "Un vaso de agua tibia (250 ml)",
+          "Disolver bien, sin grumos",
+          "Gárgaras de 15 a 30 segundos",
+          "Escupir siempre, nunca tragar"
+        ]
+      }
+    },
+    {
+      "from": 7909,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Errores que le quitan efecto",
+        "items": [
+          "Usar demasiada sal",
+          "Hacer gárgaras cada hora",
+          "Usarla como único tratamiento",
+          "Dejar la mezcla preparada por horas"
+        ]
+      }
+    },
+    {
+      "from": 9416,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEÑAL DE ALARMA",
+        "phrase": "Fiebre alta o manchas blancas: ahí la sal no alcanza",
+        "accent": "no alcanza",
+        "src": "img/juantombo-sal-alivia-garganta_s27.png"
+      }
+    },
+    {
+      "from": 11921,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LO IMPORTANTE",
+        "phrase": "El gárgara bien hecho no eleva tu presión",
+        "accent": "no eleva tu presión",
+        "src": "img/juantombo-sal-alivia-garganta_s34.png"
+      }
+    },
+    {
+      "from": 13262,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Cuánto sodio suma un gárgara tragado?",
+        "left": {
+          "label": "Un gárgara tragado",
+          "sub": "Suma sodio sin que lo notes"
+        },
+        "right": {
+          "label": "Un plato de sopa",
+          "sub": "Aporta mucho más sodio de una vez"
+        }
+      }
+    },
+    {
+      "from": 14816,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA CLAVE",
+        "phrase": "Lo que más importa es quién eres tú",
+        "accent": "quién eres tú",
+        "src": "img/juantombo-sal-alivia-garganta_s42.png"
+      }
+    },
+    {
+      "from": 15962,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Quién necesita más cuidado",
+        "items": [
+          "Hipertensos: máximo 3-4 veces al día",
+          "Enfermedad renal: cuidado extra",
+          "Insuficiencia cardíaca: evitar tragar",
+          "Mayores de 70: la misma regla estricta"
+        ]
+      }
+    },
+    {
+      "from": 18143,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Gárgara vs. vapor con sal",
+        "left": {
+          "label": "Gárgara",
+          "sub": "El riesgo depende de tragar o no"
+        },
+        "right": {
+          "label": "Vapor con sal",
+          "sub": "No se traga: casi neutro en sodio"
+        }
+      }
+    },
+    {
+      "from": 19575,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "OJO CON ESTO",
+        "phrase": "Sal más bicarbonato juntos suman el doble de sodio",
+        "accent": "el doble de sodio",
+        "src": "img/juantombo-sal-alivia-garganta_s56.png"
+      }
+    },
+    {
+      "from": 20296,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RECUERDA",
+        "phrase": "El tipo de sal no cambia nada en este uso",
+        "accent": "no cambia nada",
+        "src": "img/juantombo-sal-alivia-garganta_s85.png"
+      }
+    },
+    {
+      "from": 20681,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Sal de mesa vs. sal rosa",
+        "left": {
+          "label": "Sal de mesa",
+          "sub": "Cloruro de sodio casi puro"
+        },
+        "right": {
+          "label": "Sal rosa del Himalaya",
+          "sub": "Mismo sodio, distinto color"
+        }
+      }
+    },
+    {
+      "from": 22238,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Señales de ver a un profesional",
+        "items": [
+          "Sin mejora tras 3 días",
+          "Fiebre por encima de 38°",
+          "Manchas blancas en las amígdalas",
+          "Dolor de oído de un lado",
+          "Dificultad para tragar o respirar"
+        ]
+      }
+    },
+    {
+      "from": 23888,
+      "dur": 330,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Tu plan según tu caso",
+        "steps": [
+          {
+            "when": "Presión normal",
+            "text": "Hasta 4 veces al día, escupir siempre"
+          },
+          {
+            "when": "Hipertenso controlado",
+            "text": "3 veces al día como máximo"
+          },
+          {
+            "when": "Renal o cardíaco",
+            "text": "Consultar antes de usarlo seguido"
+          },
+          {
+            "when": "Mayores de 70 años",
+            "text": "3 veces al día, nunca tragar"
+          }
+        ]
+      }
+    },
+    {
+      "from": 25310,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SI TIENES DUDAS",
+        "phrase": "Tu médico conoce tu margen de sodio mejor que nadie",
+        "accent": "tu médico",
+        "src": "img/juantombo-sal-alivia-garganta_s72.png"
+      }
+    },
+    {
+      "from": 26201,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Niños y embarazo",
+        "left": {
+          "label": "Niños desde 6 años",
+          "sub": "Misma proporción, con supervisión"
+        },
+        "right": {
+          "label": "Embarazo",
+          "sub": "Seguro, salvo presión alta o preeclampsia"
+        }
+      }
+    },
+    {
+      "from": 27468,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "AUTOCHEQUEO",
+        "title": "3 preguntas para ti",
+        "steps": [
+          {
+            "title": "¿Tragaste alguna vez?",
+            "sub": "Sobre todo al final del vaso"
+          },
+          {
+            "title": "¿Cuántas veces al día?",
+            "sub": "Más de 4 es ajustar"
+          },
+          {
+            "title": "¿Tienes alguna condición?",
+            "sub": "Presión, riñón o corazón"
+          }
+        ]
+      }
+    },
+    {
+      "from": 29857,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "La sal del gárgara siempre sube la presión",
+        "truth": "El riesgo viene de tragarla o repetirla de más, no del gárgara bien hecho"
+      }
+    }
+  ]
+}
