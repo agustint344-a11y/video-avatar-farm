@@ -1,0 +1,1588 @@
+{
+  "slug": "elena-verdura-que-muchos",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 38335,
+  "audioSrc": "elena-verdura-que-muchos.mp3",
+  "avatarSrc": "elena-verdura-que-muchos_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 720,
+      "dur": 1620,
+      "clip": 0
+    },
+    {
+      "from": 4283,
+      "dur": 647,
+      "clip": 1620
+    },
+    {
+      "from": 21758,
+      "dur": 548,
+      "clip": 2267
+    },
+    {
+      "from": 33076,
+      "dur": 1050,
+      "clip": 2815
+    },
+    {
+      "from": 36649,
+      "dur": 693,
+      "clip": 3865
+    },
+    {
+      "from": 37390,
+      "dur": 900,
+      "clip": 4558
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 2,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 272,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 418,
+      "dur": 302,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2340,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2732,
+      "dur": 255,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s02.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2987,
+      "dur": 288,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s03.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3605,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s03.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3935,
+      "dur": 59,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s03.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3994,
+      "dur": 289,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s04.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4930,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s05.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5344,
+      "dur": 258,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s42.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5602,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s06.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6172,
+      "dur": 271,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s06.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6443,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s07.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6590,
+      "dur": 344,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s08.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7307,
+      "dur": 275,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s09.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7822,
+      "dur": 314,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s09.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8136,
+      "dur": 326,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s10.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8462,
+      "dur": 56,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s11.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8818,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s11.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8975,
+      "dur": 321,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s12.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9296,
+      "dur": 288,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s13.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9584,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s14.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9917,
+      "dur": 359,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s14.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10276,
+      "dur": 272,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s15.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10548,
+      "dur": 284,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s16.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11102,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s16.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11271,
+      "dur": 356,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s17.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11627,
+      "dur": 290,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s18.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11917,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12247,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s19.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12365,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s20.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12748,
+      "dur": 343,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s20.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13091,
+      "dur": 333,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s21.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13694,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s21.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13778,
+      "dur": 351,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s22.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14129,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s23.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14322,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s24.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14672,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s24.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15002,
+      "dur": 61,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s24.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15063,
+      "dur": 264,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s25.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15327,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s26.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15564,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s27.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15837,
+      "dur": 317,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s28.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16154,
+      "dur": 251,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s29.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16405,
+      "dur": 353,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s30.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16968,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s30.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17244,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s31.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17492,
+      "dur": 263,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s32.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17755,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s33.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18299,
+      "dur": 299,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s33.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18598,
+      "dur": 327,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s34.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18925,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s35.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19255,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s35.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19657,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s35.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19807,
+      "dur": 280,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s36.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20087,
+      "dur": 325,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s37.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20412,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s38.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20742,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s38.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20850,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s39.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21180,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s39.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21255,
+      "dur": 284,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21539,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s41.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22306,
+      "dur": 319,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s41.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22895,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s41.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23059,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s43.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23389,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s43.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23723,
+      "dur": 275,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s43.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23998,
+      "dur": 272,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s44.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24270,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s45.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24715,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s45.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24886,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s46.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25216,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s46.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25318,
+      "dur": 307,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s47.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25625,
+      "dur": 372,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s48.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25997,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s49.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26224,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s50.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26604,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s51.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26934,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s51.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27264,
+      "dur": 67,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s51.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27751,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s52.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28081,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s52.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28169,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s53.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28254,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s54.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28458,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s55.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28933,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s55.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29124,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s56.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29454,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s56.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29581,
+      "dur": 301,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s57.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29882,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s58.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30428,
+      "dur": 254,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s58.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30682,
+      "dur": 329,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s59.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31011,
+      "dur": 279,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s60.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31290,
+      "dur": 324,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s61.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31614,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31944,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s62.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32075,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s63.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32591,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s63.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32689,
+      "dur": 223,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s64.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32912,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s65.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34126,
+      "dur": 258,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s65.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 34384,
+      "dur": 281,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s66.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 34665,
+      "dur": 269,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s67.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 35264,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s67.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 35449,
+      "dur": 269,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s68.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 35718,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s69.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 36048,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s69.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 36241,
+      "dur": 261,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s70.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 36502,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s71.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 37342,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s72.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 38290,
+      "dur": 45,
+      "kind": "image",
+      "src": "img/elena-verdura-que-muchos_s72.png",
+      "kb": 2,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 720,
+      "dur": 135,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "CANAL DE LA DRA. ELENA VIDAL",
+        "title": "Dra. Elena Vidal",
+        "sub": "Divulgación en salud y bienestar natural"
+      }
+    },
+    {
+      "from": 2332,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HISTORIA REAL",
+        "title": "El caso de una paciente"
+      }
+    },
+    {
+      "from": 4417,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal"
+      }
+    },
+    {
+      "from": 5024,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA VERDURA",
+        "title": "La remolacha, en ayunas"
+      }
+    },
+    {
+      "from": 6443,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "Circulación y nitratos"
+      }
+    },
+    {
+      "from": 6590,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "NITRATOS",
+        "sub": "Compuestos naturales de la remolacha",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 9672,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "Betalaínas antioxidantes"
+      }
+    },
+    {
+      "from": 9930,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "BETALAÍNAS",
+        "sub": "Antioxidantes del color rojo intenso",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 12478,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "Vitamina C y hierro"
+      }
+    },
+    {
+      "from": 14274,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "title": "Digestión matutina"
+      }
+    },
+    {
+      "from": 16679,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 5",
+        "title": "Potasio y ácido fólico"
+      }
+    },
+    {
+      "from": 17755,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PREPARACIÓN",
+        "title": "Cómo prepararla sin errores"
+      }
+    },
+    {
+      "from": 20641,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "3 A 4 VECES",
+        "sub": "Por semana es suficiente",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 21931,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal"
+      }
+    },
+    {
+      "from": 22429,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERRORES COMUNES",
+        "title": "Lo que no debes hacer"
+      }
+    },
+    {
+      "from": 23269,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "BEETURIA",
+        "sub": "Inofensiva, no es una alarma",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 25046,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "PRECAUCIÓN",
+        "sub": "Con medicación para la presión",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 26047,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "3 A 6 SEMANAS",
+        "sub": "Antes de ver cambios reales",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 31614,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "DOS O MÁS",
+        "sub": "Respuestas sí: vale la pena probarlo",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 33076,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REPASO",
+        "title": "Lo que vimos hoy"
+      }
+    },
+    {
+      "from": 36649,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal"
+      }
+    },
+    {
+      "from": 36863,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal"
+      }
+    },
+    {
+      "from": 37001,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 2,
+      "dur": 270,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "¿Te pasa esto?",
+        "phrase": "Tu piel se ve apagada aunque duermas tus ocho horas",
+        "accent": "apagada",
+        "src": "img/elena-verdura-que-muchos_s01.png"
+      }
+    },
+    {
+      "from": 2492,
+      "dur": 240,
+      "comp": "RutinaDia",
+      "props": {
+        "theme": "earth",
+        "title": "Tu rutina, simple",
+        "slots": [
+          {
+            "time": "7:00",
+            "text": "Agua tibia en ayunas"
+          },
+          {
+            "time": "7:05",
+            "text": "Remolacha en ayunas, de forma moderada"
+          }
+        ]
+      }
+    },
+    {
+      "from": 3275,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "En este video",
+        "title": "Lo que vas a aprender hoy",
+        "steps": [
+          {
+            "title": "La verdura",
+            "sub": "Cuál es y por qué la recomiendan"
+          },
+          {
+            "title": "Cómo prepararla",
+            "sub": "Paso a paso, sin errores"
+          },
+          {
+            "title": "Un plan de semanas",
+            "sub": "Para probarla con orden"
+          }
+        ]
+      }
+    },
+    {
+      "from": 5104,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "La respuesta",
+        "phrase": "Es la remolacha, también conocida como betabel",
+        "accent": "remolacha",
+        "src": "img/elena-verdura-que-muchos_s05.png"
+      }
+    },
+    {
+      "from": 5932,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "No es lo mismo comerla así",
+        "left": {
+          "label": "En ayunas, cruda",
+          "sub": "Rallada o en jugo bien diluido"
+        },
+        "right": {
+          "label": "Cocida, ocasional",
+          "sub": "Mezclada en una comida principal"
+        }
+      }
+    },
+    {
+      "from": 6934,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Razón 1",
+        "phrase": "Los nitratos se convierten en óxido nítrico y dilatan tus vasos sanguíneos",
+        "accent": "óxido nítrico",
+        "src": "img/elena-verdura-que-muchos_s08.png"
+      }
+    },
+    {
+      "from": 7067,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Para cerrar",
+        "phrase": "No es una cura milagrosa, es un hábito pequeño y razonable",
+        "accent": "hábito pequeño",
+        "src": "img/elena-verdura-que-muchos_s69.png"
+      }
+    },
+    {
+      "from": 7582,
+      "dur": 240,
+      "comp": "RutinaDia",
+      "props": {
+        "theme": "earth",
+        "title": "Tu rutina, simple",
+        "slots": [
+          {
+            "time": "7:00",
+            "text": "Agua tibia"
+          },
+          {
+            "time": "7:05",
+            "text": "Remolacha rallada en ayunas"
+          }
+        ]
+      }
+    },
+    {
+      "from": 8518,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "¿Tu circulación necesita un empujón?",
+        "items": [
+          "Piel grisácea la mayoría de las mañanas",
+          "Manos y pies que se enfrían con facilidad",
+          "Cabeza nublada tras estar mucho tiempo sentado"
+        ]
+      }
+    },
+    {
+      "from": 9707,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Razón 2",
+        "phrase": "Las betalaínas le dan el color rojo y actúan como antioxidantes",
+        "accent": "betalaínas",
+        "src": "img/elena-verdura-que-muchos_s14.png"
+      }
+    },
+    {
+      "from": 10832,
+      "dur": 270,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Comer remolacha borra las arrugas",
+        "truth": "Forma parte de un patrón antioxidante que acompaña una piel con mejor aspecto"
+      }
+    },
+    {
+      "from": 12508,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Dos nutrientes, un mismo objetivo",
+        "left": {
+          "label": "Vitamina C",
+          "sub": "Necesaria para fabricar colágeno"
+        },
+        "right": {
+          "label": "Hierro",
+          "sub": "Ayuda a prevenir anemia leve"
+        }
+      }
+    },
+    {
+      "from": 13424,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Señales de que te falta hierro",
+        "items": [
+          "Ojeras que no mejoran ni durmiendo bien",
+          "Cansancio al subir escaleras o hacer esfuerzo",
+          "Más caída de cabello de lo habitual"
+        ]
+      }
+    },
+    {
+      "from": 14462,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Razón 4",
+        "phrase": "Ayuda a que el hígado haga su trabajo de depuración por la mañana",
+        "accent": "depuración",
+        "src": "img/elena-verdura-que-muchos_s24.png"
+      }
+    },
+    {
+      "from": 16758,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Razón 5",
+        "phrase": "El potasio y el ácido fólico equilibran líquidos y renuevan la piel",
+        "accent": "ácido fólico",
+        "src": "img/elena-verdura-que-muchos_s30.png"
+      }
+    },
+    {
+      "from": 17939,
+      "dur": 360,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Preparación",
+        "title": "La forma correcta en ayunas",
+        "steps": [
+          {
+            "title": "Rallar",
+            "sub": "Una remolacha pequeña, cruda y pelada"
+          },
+          {
+            "title": "Esperar",
+            "sub": "Entre 15 y 20 minutos antes de desayunar"
+          },
+          {
+            "title": "O en jugo",
+            "sub": "Siempre diluido, mitad y mitad con agua"
+          }
+        ]
+      }
+    },
+    {
+      "from": 19387,
+      "dur": 270,
+      "comp": "RutinaDia",
+      "props": {
+        "theme": "earth",
+        "title": "Tu rutina, simple",
+        "slots": [
+          {
+            "time": "7:00",
+            "text": "Agua tibia"
+          },
+          {
+            "time": "7:05",
+            "text": "Remolacha rallada o jugo diluido"
+          },
+          {
+            "time": "7:20",
+            "text": "Desayuno habitual"
+          }
+        ]
+      }
+    },
+    {
+      "from": 22625,
+      "dur": 270,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Más jugo de remolacha, sin diluir, da resultados más rápido",
+        "truth": "Puede causar malestar estomacal, acidez o mareo"
+      }
+    },
+    {
+      "from": 23483,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Dato curioso",
+        "phrase": "La beeturia tiñe la orina de rosado y es inofensiva",
+        "accent": "beeturia",
+        "src": "img/elena-verdura-que-muchos_s43.png"
+      }
+    },
+    {
+      "from": 24385,
+      "dur": 330,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Precauciones antes de empezar",
+        "items": [
+          "Cálculos renales: máximo una o dos veces por semana",
+          "Medicación para la presión o el corazón: consulta antes",
+          "Embarazo, lactancia o condición previa: habla con tu médico"
+        ]
+      }
+    },
+    {
+      "from": 26394,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Ten paciencia",
+        "phrase": "Los cambios en la piel se notan recién entre tres y seis semanas",
+        "accent": "tres y seis semanas",
+        "src": "img/elena-verdura-que-muchos_s50.png"
+      }
+    },
+    {
+      "from": 27331,
+      "dur": 420,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Plan de 4 semanas para probarlo",
+        "steps": [
+          {
+            "when": "Semana 1",
+            "text": "Probar tolerancia, porción pequeña dos veces"
+          },
+          {
+            "when": "Semana 2",
+            "text": "Subir a tres veces por semana si todo fue bien"
+          },
+          {
+            "when": "Semana 3",
+            "text": "Registrar piel, energía e hinchazón"
+          },
+          {
+            "when": "Semana 4",
+            "text": "Comparar el registro completo y decidir"
+          }
+        ]
+      }
+    },
+    {
+      "from": 28633,
+      "dur": 300,
+      "comp": "RutinaDia",
+      "props": {
+        "theme": "earth",
+        "title": "Tu rutina, simple",
+        "slots": [
+          {
+            "time": "7:00",
+            "text": "Agua tibia en ayunas"
+          },
+          {
+            "time": "7:05",
+            "text": "Remolacha, rallada o en jugo diluido"
+          },
+          {
+            "time": "7:20",
+            "text": "Desayuno habitual"
+          },
+          {
+            "time": "22:30",
+            "text": "Dormir lo suficiente"
+          }
+        ]
+      }
+    },
+    {
+      "from": 30158,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Consulta a tu médico antes si...",
+        "items": [
+          "Tienes una condición de salud previa",
+          "Tomas medicación de forma regular",
+          "Estás embarazada o en lactancia"
+        ]
+      }
+    },
+    {
+      "from": 32321,
+      "dur": 270,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "La remolacha compensa una dieta llena de ultraprocesados",
+        "truth": "Es una pieza más dentro de un conjunto amplio de hábitos"
+      }
+    },
+    {
+      "from": 34934,
+      "dur": 330,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "La dosis razonable, en resumen",
+        "items": [
+          "Entre 3 y 4 porciones por semana",
+          "Diluida a la mitad si es en jugo",
+          "Al menos 3 a 6 semanas de constancia"
+        ]
+      }
+    }
+  ]
+}
