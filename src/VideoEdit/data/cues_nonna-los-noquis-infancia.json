@@ -1,0 +1,1336 @@
+{
+  "slug": "nonna-los-noquis-infancia",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 36725,
+  "audioSrc": "nonna-los-noquis-infancia.mp3",
+  "avatarSrc": "nonna-los-noquis-infancia_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 749,
+      "dur": 617,
+      "clip": 0
+    },
+    {
+      "from": 8248,
+      "dur": 904,
+      "clip": 617
+    },
+    {
+      "from": 36313,
+      "dur": 370,
+      "clip": 1521
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 2,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 212,
+      "dur": 284,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 496,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1366,
+      "dur": 294,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1870,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s02.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2104,
+      "dur": 352,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s03.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2756,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s03.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2903,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s04.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3010,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s05.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3192,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s06.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3569,
+      "dur": 288,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s06.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3857,
+      "dur": 331,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s07.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4188,
+      "dur": 331,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s08.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4699,
+      "dur": 250,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s08.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5129,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s09.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5318,
+      "dur": 296,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s10.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5614,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s11.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6096,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s11.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6426,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s11.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6494,
+      "dur": 351,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s12.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6845,
+      "dur": 275,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s13.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7120,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s14.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7430,
+      "dur": 290,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s14.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7720,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s15.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7946,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s16.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8142,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s17.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9152,
+      "dur": 343,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s18.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9495,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s19.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9825,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s19.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10155,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10485,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s19.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10815,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s19.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11145,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s19.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11475,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s19.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11805,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s19.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12135,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12465,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s19.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12795,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s19.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13125,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s19.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13455,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s19.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13785,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s19.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14115,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14445,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s19.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14775,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s19.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15105,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s19.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15435,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s19.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15765,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s19.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16095,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16425,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s19.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16755,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s19.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17085,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s19.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17415,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s19.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17745,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s19.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18075,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18348,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s23.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18445,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s28.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18775,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s28.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19105,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s28.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19435,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s28.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19765,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s28.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20095,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s28.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20425,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s28.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20755,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s28.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21085,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s28.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21415,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s28.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21745,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s28.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22075,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s28.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22405,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s28.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22735,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s28.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23065,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s28.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23395,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s28.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23725,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s28.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24055,
+      "dur": 346,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s28.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24401,
+      "dur": 341,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s20.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24742,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s21.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25115,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s21.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25445,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s21.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25775,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s21.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26105,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s21.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26435,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s21.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26765,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s21.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27095,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s21.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27425,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s21.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27755,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s21.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28085,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s21.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28415,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s21.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28745,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s21.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29075,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s21.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29405,
+      "dur": 327,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s21.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29732,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s22.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30062,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s22.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30392,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s22.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30722,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s22.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31052,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s22.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31382,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s22.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31712,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s22.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32042,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s22.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32372,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s22.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32702,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s22.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33032,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s22.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33362,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s22.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33466,
+      "dur": 321,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s24.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33787,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s25.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34144,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s25.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34345,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s26.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 34478,
+      "dur": 304,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s27.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 35022,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s27.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 35148,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s29.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 35418,
+      "dur": 320,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s30.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 36038,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s30.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 36146,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s31.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 36683,
+      "dur": 42,
+      "kind": "image",
+      "src": "img/nonna-los-noquis-infancia_s33.png",
+      "kb": 3,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 749,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "LA NONNA (COCINA)",
+        "title": "La Nonna",
+        "sub": "Recetas de mi infancia, sin vueltas"
+      }
+    },
+    {
+      "from": 917,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CUIDADO",
+        "sub": "Un error y se rompe el ñoqui",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 2966,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "La papa equivocada"
+      }
+    },
+    {
+      "from": 2966,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "La papa caliente, no fría"
+      }
+    },
+    {
+      "from": 4188,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "PAPA VIEJA",
+        "sub": "Piel gruesa y rugosa",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 9495,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SIN AMASAR DE MÁS",
+        "sub": "El gluten da textura de goma",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 18304,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "Cuánta harina, en realidad"
+      }
+    },
+    {
+      "from": 36146,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "LIVIANA",
+        "sub": "No firme como el pan",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 36313,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "title": "El huevo, ni de más ni de menos"
+      }
+    },
+    {
+      "from": 36313,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SOLO UNE",
+        "sub": "El huevo no hace levar nada",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 36313,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 5",
+        "title": "El agua hirviendo a borbotones"
+      }
+    },
+    {
+      "from": 36313,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "HERVOR SUAVE",
+        "sub": "Sin burbujas violentas",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 36313,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 6",
+        "title": "Cómo armar el ñoqui con el tenedor"
+      }
+    },
+    {
+      "from": 36313,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ATRAPA LA SALSA",
+        "sub": "Las rayitas del tenedor",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 36313,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "Qué está pasando con tus ñoquis"
+      }
+    },
+    {
+      "from": 36313,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REPASO",
+        "title": "Los seis puntos clave"
+      }
+    },
+    {
+      "from": 36313,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CIERRE",
+        "title": "La receta que aprendí de chica"
+      }
+    },
+    {
+      "from": 36313,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de La Nonna (cocina)"
+      }
+    },
+    {
+      "from": 36313,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de La Nonna (cocina)"
+      }
+    },
+    {
+      "from": 36313,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de La Nonna (cocina)"
+      }
+    },
+    {
+      "from": 36313,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de La Nonna (cocina)"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 2,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Hoy mismo",
+        "phrase": "Se me rompieron tres ñoquis apenas los puse en el agua",
+        "accent": "se me rompieron",
+        "src": "img/nonna-los-noquis-infancia_s01.png"
+      }
+    },
+    {
+      "from": 1660,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "El secreto",
+        "phrase": "Cuánta harina necesita TU papa, no la papa de otra receta",
+        "accent": "TU papa",
+        "src": "img/nonna-los-noquis-infancia_s02.png"
+      }
+    },
+    {
+      "from": 2456,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "En este video",
+        "title": "Lo que vas a aprender",
+        "steps": [
+          {
+            "title": "Elegir la papa",
+            "sub": "La correcta para ñoquis"
+          },
+          {
+            "title": "Probar la masa",
+            "sub": "El punto justo, con las manos"
+          },
+          {
+            "title": "Armar con tenedor",
+            "sub": "La técnica de mi madre"
+          }
+        ]
+      }
+    },
+    {
+      "from": 3329,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Papa nueva vs. papa vieja",
+        "left": {
+          "label": "Papa nueva",
+          "sub": "Piel fina, mucha agua"
+        },
+        "right": {
+          "label": "Papa vieja",
+          "sub": "Piel gruesa, harinosa"
+        }
+      }
+    },
+    {
+      "from": 4519,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Truco rápido",
+        "phrase": "Seca y mate por dentro: esa es la papa que necesitas",
+        "accent": "seca y mate",
+        "src": "img/nonna-los-noquis-infancia_s08.png"
+      }
+    },
+    {
+      "from": 4949,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Señal de alerta",
+        "phrase": "¿Masa elástica como el pan? Amasaste de más",
+        "accent": "amasaste de más",
+        "src": "img/nonna-los-noquis-infancia_s19.png"
+      }
+    },
+    {
+      "from": 5826,
+      "dur": 270,
+      "comp": "PizarraNonna",
+      "props": {
+        "theme": "earth",
+        "title": "Cómo cocinar la papa",
+        "items": [
+          "Entera, sin pelar",
+          "Con piel, en agua con sal",
+          "30 a 40 minutos",
+          "Lista si entra el cuchillo sin resistencia"
+        ],
+        "note": "La piel la protege del agua extra"
+      }
+    },
+    {
+      "from": 7220,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Pelar y cortar la papa antes ahorra tiempo",
+        "truth": "Hace que absorba agua de más y la masa quede pesada"
+      }
+    },
+    {
+      "from": 24875,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Cómo pisar la papa",
+        "items": [
+          "Caliente, recién hervida",
+          "Con prensapapas o pisapapas",
+          "Sin leche ni manteca",
+          "Sola, nada más"
+        ]
+      }
+    },
+    {
+      "from": 33934,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "La procesadora es más rápida y práctica",
+        "truth": "Libera demasiado almidón y la masa queda pegajosa"
+      }
+    },
+    {
+      "from": 34782,
+      "dur": 240,
+      "comp": "ProporcionTazas",
+      "props": {
+        "theme": "earth",
+        "title": "La proporción de la Nonna",
+        "left": {
+          "label": "Papa pisada",
+          "parts": 3
+        },
+        "right": {
+          "label": "Harina",
+          "parts": 1
+        },
+        "note": "Por cada 500 g de papa, 150 a 200 g de harina aprox."
+      }
+    },
+    {
+      "from": 35738,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "La prueba de la bolita",
+        "title": "Cómo saber si la masa está lista",
+        "steps": [
+          {
+            "title": "Agrega harina de a poco",
+            "sub": "En tandas pequeñas"
+          },
+          {
+            "title": "Haz una bolita",
+            "sub": "Apriétala con un dedo"
+          },
+          {
+            "title": "¿No se pega? Está lista",
+            "sub": "Si se pega, una tanda más"
+          }
+        ]
+      }
+    }
+  ]
+}
