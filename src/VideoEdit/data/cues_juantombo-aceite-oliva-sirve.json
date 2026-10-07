@@ -1,0 +1,1410 @@
+{
+  "slug": "juantombo-aceite-oliva-sirve",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 33564,
+  "audioSrc": "juantombo-aceite-oliva-sirve.mp3",
+  "avatarSrc": "juantombo-aceite-oliva-sirve_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1118,
+      "dur": 532,
+      "clip": 0
+    },
+    {
+      "from": 1894,
+      "dur": 634,
+      "clip": 532
+    },
+    {
+      "from": 3697,
+      "dur": 528,
+      "clip": 1166
+    },
+    {
+      "from": 21728,
+      "dur": 998,
+      "clip": 1694
+    },
+    {
+      "from": 30181,
+      "dur": 783,
+      "clip": 2692
+    },
+    {
+      "from": 32603,
+      "dur": 915,
+      "clip": 3475
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 339,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 688,
+      "dur": 54,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 742,
+      "dur": 280,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1022,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1650,
+      "dur": 244,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s05.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2528,
+      "dur": 295,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2823,
+      "dur": 292,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s06.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3115,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s07.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3436,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3572,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s08.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4225,
+      "dur": 251,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s09.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4716,
+      "dur": 256,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s09.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4972,
+      "dur": 260,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5232,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s11.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5562,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s12.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5824,
+      "dur": 286,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s12.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6110,
+      "dur": 326,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s13.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6436,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s14.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6766,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s14.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6848,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s15.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7060,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s16.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7385,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s16.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7606,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s17.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7882,
+      "dur": 308,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s18.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8370,
+      "dur": 280,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s18.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8650,
+      "dur": 298,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s19.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8948,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s20.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9200,
+      "dur": 358,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s20.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9558,
+      "dur": 287,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s21.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9845,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s22.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10175,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s22.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10505,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s22.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10604,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s23.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10839,
+      "dur": 236,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s24.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11075,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s25.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11562,
+      "dur": 289,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s25.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11851,
+      "dur": 244,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s26.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12095,
+      "dur": 310,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s27.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12405,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s28.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12799,
+      "dur": 286,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s28.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13085,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s29.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13327,
+      "dur": 349,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s30.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13916,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s30.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13993,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s31.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14246,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s32.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14442,
+      "dur": 290,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s33.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14732,
+      "dur": 218,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s34.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14950,
+      "dur": 376,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s35.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15566,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s35.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15775,
+      "dur": 305,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s36.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16080,
+      "dur": 326,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s37.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16406,
+      "dur": 328,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s38.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16734,
+      "dur": 272,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s39.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17006,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s40.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17350,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17505,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s41.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17835,
+      "dur": 64,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s41.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17899,
+      "dur": 321,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s42.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18220,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s43.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18397,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s44.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18727,
+      "dur": 261,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s44.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18988,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s45.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19318,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s45.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19416,
+      "dur": 320,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s46.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19736,
+      "dur": 250,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s47.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19986,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s48.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20316,
+      "dur": 256,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s48.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20572,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s49.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20800,
+      "dur": 229,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s50.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21029,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s51.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21305,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s52.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21546,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s53.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22726,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s54.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23056,
+      "dur": 52,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s54.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23108,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s55.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23720,
+      "dur": 291,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s56.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24011,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s57.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24341,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s57.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24404,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s58.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24624,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s59.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24954,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s59.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25030,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s60.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25338,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s60.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25436,
+      "dur": 296,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s61.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25732,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s62.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26250,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s62.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26496,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s63.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26826,
+      "dur": 50,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s63.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26876,
+      "dur": 277,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s64.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27153,
+      "dur": 278,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s65.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27431,
+      "dur": 263,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s66.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27694,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s67.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28090,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s67.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28200,
+      "dur": 319,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s68.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28519,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s69.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28740,
+      "dur": 277,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s70.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29227,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s70.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29469,
+      "dur": 307,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s71.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29776,
+      "dur": 329,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s72.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30105,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s73.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30964,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s73.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31294,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s73.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31407,
+      "dur": 298,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s74.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31705,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s75.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31947,
+      "dur": 280,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s76.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32227,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s77.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32434,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s78.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33518,
+      "dur": 46,
+      "kind": "image",
+      "src": "img/juantombo-aceite-oliva-sirve_s78.png",
+      "kb": 0,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 3,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL CASO",
+        "title": "Un dolor de oído a medianoche"
+      }
+    },
+    {
+      "from": 1118,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "DR. JUAN TOMBO",
+        "title": "Dr. Juan Tomás",
+        "sub": "Médico - mitos de salud al descubierto"
+      }
+    },
+    {
+      "from": 2520,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EN ESTE VIDEO",
+        "title": "Usos reales y el mito del oído"
+      }
+    },
+    {
+      "from": 3894,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_juantombo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dr. Juan Tombo"
+      }
+    },
+    {
+      "from": 4217,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LO QUE SÍ FUNCIONA",
+        "title": "Usos comprobados del aceite de oliva"
+      }
+    },
+    {
+      "from": 6110,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "EMOLIENTE",
+        "sub": "Sella la humedad de la piel",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 7396,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CUTÍCULA",
+        "sub": "Más brillo, menos encrespamiento",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 9973,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA DIFERENCIA CLAVE",
+        "title": "Piel abierta vs. oído cerrado"
+      }
+    },
+    {
+      "from": 13918,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "PERFORACIÓN",
+        "sub": "Puede no dar ningún síntoma",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 18307,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "PRUEBA DE LA MUÑECA",
+        "sub": "Si quema ahí, quema en el oído",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 20942,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CERUMEN",
+        "sub": "Puede hincharse más con el aceite",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 22439,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_juantombo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dr. Juan Tombo"
+      }
+    },
+    {
+      "from": 22718,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO RÁPIDO",
+        "title": "6 preguntas antes de actuar"
+      }
+    },
+    {
+      "from": 27694,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERRORES COMUNES",
+        "title": "Lo que no debes hacer"
+      }
+    },
+    {
+      "from": 30181,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REPASO",
+        "title": "Todo lo que vimos hoy"
+      }
+    },
+    {
+      "from": 33025,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_juantombo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dr. Juan Tombo"
+      }
+    },
+    {
+      "from": 33332,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_juantombo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dr. Juan Tombo"
+      }
+    },
+    {
+      "from": 33469,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_juantombo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dr. Juan Tombo"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 159,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA COSTUMBRE FAMILIAR",
+        "phrase": "Lo más inofensivo de la cocina puede no serlo en el oído",
+        "accent": "no serlo en el oído",
+        "src": "img/juantombo-aceite-oliva-sirve_s01.png"
+      }
+    },
+    {
+      "from": 448,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Dos usos que se confunden",
+        "left": {
+          "label": "Uso médico",
+          "sub": "Con otoscopio, gotero calibrado y chequeo previo"
+        },
+        "right": {
+          "label": "Uso casero",
+          "sub": "Sin revisar antes el estado del tímpano"
+        }
+      }
+    },
+    {
+      "from": 3226,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL MITO MÁS PELIGROSO",
+        "phrase": "Casi todo el mundo se pone el aceite mal en el oído",
+        "accent": "mal en el oído",
+        "src": "img/juantombo-aceite-oliva-sirve_s07.png"
+      }
+    },
+    {
+      "from": 4476,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LO QUE SÍ FUNCIONA",
+        "title": "Usos reales del aceite de oliva",
+        "steps": [
+          {
+            "title": "Alimentación",
+            "sub": "Grasas monoinsaturadas y polifenoles"
+          },
+          {
+            "title": "Piel seca",
+            "sub": "Sella la humedad después de la ducha"
+          },
+          {
+            "title": "Cabello y puntas",
+            "sub": "Más brillo, menos encrespamiento"
+          }
+        ]
+      }
+    },
+    {
+      "from": 5644,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "USO REAL Nº2",
+        "phrase": "Unas gotas después de la ducha sellan la humedad de la piel",
+        "accent": "sellan la humedad",
+        "src": "img/juantombo-aceite-oliva-sirve_s12.png"
+      }
+    },
+    {
+      "from": 7175,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Aceite en el cabello: cómo usarlo bien",
+        "items": [
+          "Solo de medio a puntas, no en la raíz",
+          "Dejar actuar 20 a 30 minutos",
+          "Cubrir con toalla tibia",
+          "Usarlo ocasional, no todos los días"
+        ]
+      }
+    },
+    {
+      "from": 8190,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "USO REAL Nº4",
+        "phrase": "Una gota en labios y cutículas cumple de bálsamo casero",
+        "accent": "bálsamo casero",
+        "src": "img/juantombo-aceite-oliva-sirve_s18.png"
+      }
+    },
+    {
+      "from": 9020,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "USO REAL Nº5",
+        "phrase": "Como base de masaje, el riesgo es prácticamente nulo",
+        "accent": "riesgo es prácticamente nulo",
+        "src": "img/juantombo-aceite-oliva-sirve_s20.png"
+      }
+    },
+    {
+      "from": 11322,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Por qué el oído es distinto",
+        "left": {
+          "label": "Piel, cabello, labios",
+          "sub": "Superficies abiertas que se pueden lavar"
+        },
+        "right": {
+          "label": "Oído",
+          "sub": "Conducto cerrado que termina en el tímpano"
+        }
+      }
+    },
+    {
+      "from": 12589,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El aceite tibio ablanda la cera y protege el oído del frío",
+        "truth": "Puede empujar una infección hacia adentro si hay una perforación"
+      }
+    },
+    {
+      "from": 13676,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "phrase": "No puedes saber si tu tímpano está perforado sin que te lo revisen",
+        "accent": "sin que te lo revisen",
+        "src": "img/juantombo-aceite-oliva-sirve_s30.png"
+      }
+    },
+    {
+      "from": 15326,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "phrase": "El aceite de cocina no es estéril, aunque lo entibies",
+        "accent": "no es estéril",
+        "src": "img/juantombo-aceite-oliva-sirve_s35.png"
+      }
+    },
+    {
+      "from": 15326,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 5",
+        "phrase": "El tapón de cera compactado puede hincharse más con el aceite",
+        "accent": "hincharse más",
+        "src": "img/juantombo-aceite-oliva-sirve_s48.png"
+      }
+    },
+    {
+      "from": 17110,
+      "dur": 240,
+      "comp": "CartelPrecaucion",
+      "props": {
+        "theme": "earth",
+        "title": "PRECAUCIÓN",
+        "text": "Riesgo de quemadura al calentar el aceite a ojo",
+        "sub": "Pruébalo primero en la muñeca, nunca directo en el oído"
+      }
+    },
+    {
+      "from": 17110,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "phrase": "El aceite no cura, solo esconde la señal de alarma",
+        "accent": "esconde la señal de alarma",
+        "src": "img/juantombo-aceite-oliva-sirve_s44.png"
+      }
+    },
+    {
+      "from": 23300,
+      "dur": 420,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Diagnóstico rápido: 6 preguntas",
+        "steps": [
+          {
+            "when": "Pregunta 1",
+            "text": "¿Tuviste alguna vez el tímpano perforado?"
+          },
+          {
+            "when": "Pregunta 2",
+            "text": "¿Te operaron el oído o te pusieron tubos de niño?"
+          },
+          {
+            "when": "Pregunta 3",
+            "text": "¿Tienes dolor intenso ahora mismo?"
+          },
+          {
+            "when": "Pregunta 4",
+            "text": "¿Notas secreción saliendo del oído?"
+          },
+          {
+            "when": "Pregunta 5",
+            "text": "¿Tienes fiebre junto con el dolor?"
+          },
+          {
+            "when": "Pregunta 6",
+            "text": "¿Tienes diabetes o baja inmunidad?"
+          }
+        ]
+      }
+    },
+    {
+      "from": 25098,
+      "dur": 240,
+      "comp": "SemaforoVeredicto",
+      "props": {
+        "theme": "earth",
+        "title": "¿Sirve el aceite de oliva para el oído tapado?",
+        "light": "amarillo",
+        "verdict": "CON CUIDADO",
+        "reasons": [
+          "Solo si no hay dolor, fiebre ni antecedentes",
+          "Siempre a temperatura corporal y en cantidad mínima",
+          "Si no mejora en 2-3 días, hay que consultar"
+        ]
+      }
+    },
+    {
+      "from": 25980,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "La forma segura de hacerlo",
+        "items": [
+          "Aceite a temperatura corporal, nunca al fuego",
+          "Solo 2 o 3 gotas, nunca llenar el oído",
+          "Recostado 5 a 10 minutos y dejar escurrir",
+          "Como mucho 1 o 2 veces, no de forma diaria"
+        ]
+      }
+    },
+    {
+      "from": 27820,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "5 errores comunes",
+        "items": [
+          "Usar un hisopo después del aceite",
+          "Calentar el aceite directo al fuego",
+          "Repetirlo todos los días",
+          "Usarlo en niños sin consultar antes",
+          "Mezclarlo con ajo, alcohol o vinagre"
+        ]
+      }
+    },
+    {
+      "from": 29017,
+      "dur": 210,
+      "comp": "CartelPrecaucion",
+      "props": {
+        "theme": "earth",
+        "title": "PRECAUCIÓN",
+        "text": "En niños el conducto es más estrecho y la otitis más frecuente",
+        "sub": "No apliques nada sin consultar antes"
+      }
+    }
+  ]
+}
