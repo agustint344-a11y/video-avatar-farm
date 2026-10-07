@@ -1,0 +1,1613 @@
+{
+  "slug": "vital-the-gentle-day",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 34215,
+  "audioSrc": "vital-the-gentle-day.mp3",
+  "avatarSrc": "vital-the-gentle-day_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 990,
+      "dur": 878,
+      "clip": 0
+    },
+    {
+      "from": 3157,
+      "dur": 728,
+      "clip": 878
+    },
+    {
+      "from": 4290,
+      "dur": 668,
+      "clip": 1606
+    },
+    {
+      "from": 17926,
+      "dur": 652,
+      "clip": 2274
+    },
+    {
+      "from": 29250,
+      "dur": 578,
+      "clip": 2926
+    },
+    {
+      "from": 29917,
+      "dur": 751,
+      "clip": 3504
+    },
+    {
+      "from": 33572,
+      "dur": 612,
+      "clip": 4255
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 356,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 570,
+      "dur": 302,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 872,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1868,
+      "dur": 52,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1920,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s05.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2285,
+      "dur": 355,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2640,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s06.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2790,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s07.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2880,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s08.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3000,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s09.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3885,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s09.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4215,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s09.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4958,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5363,
+      "dur": 277,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s10.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5640,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s11.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5910,
+      "dur": 307,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s12.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6217,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s13.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6570,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s23.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6660,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s14.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6779,
+      "dur": 281,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s15.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7060,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s16.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7200,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s17.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7530,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s17.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7682,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s18.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7845,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s19.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8070,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s20.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8265,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s21.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8796,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s21.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8939,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s22.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9188,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s24.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9518,
+      "dur": 52,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s24.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9750,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s24.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9961,
+      "dur": 373,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s25.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10334,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s26.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10410,
+      "dur": 272,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s27.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10682,
+      "dur": 244,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s28.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11196,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s28.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11400,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s29.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11550,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s30.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11651,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s31.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11760,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s32.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11880,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s33.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12000,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s34.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12180,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s35.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12365,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s36.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12780,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s36.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13020,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s37.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13150,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s38.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13390,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s39.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13518,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s40.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13830,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s40.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14160,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s40.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14220,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s41.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14550,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s41.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14640,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s42.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15060,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s42.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15300,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s43.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15510,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s44.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15750,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s45.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16080,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s46.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16620,
+      "dur": 348,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s46.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16968,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s47.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17298,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s47.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17370,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s48.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17850,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s48.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18578,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s49.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18870,
+      "dur": 353,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s49.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19223,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s50.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19292,
+      "dur": 268,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s51.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19920,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s52.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20134,
+      "dur": 266,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s53.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20400,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s54.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20610,
+      "dur": 279,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s55.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20889,
+      "dur": 308,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s56.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21197,
+      "dur": 250,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s57.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21627,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s57.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21810,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s58.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22080,
+      "dur": 298,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s59.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22378,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s60.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22620,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s61.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22980,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s61.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23160,
+      "dur": 360,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23520,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s63.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23730,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s64.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24030,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s65.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24526,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s65.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24720,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s66.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24937,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s67.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25267,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s67.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25380,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s68.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25830,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s68.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26082,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s69.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26412,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s69.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26460,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s70.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26640,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s71.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27154,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s72.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27330,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s73.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27785,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s73.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27930,
+      "dur": 302,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s74.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28232,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s75.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28410,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s76.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28620,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s77.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28830,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s78.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29160,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s78.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29828,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s79.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30668,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s79.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30998,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s79.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31260,
+      "dur": 301,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s80.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31561,
+      "dur": 329,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s81.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32220,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s82.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32520,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s83.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33000,
+      "dur": 367,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s84.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33367,
+      "dur": 205,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s85.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 34184,
+      "dur": 31,
+      "kind": "image",
+      "src": "img/vital-the-gentle-day_s85.png",
+      "kb": 0,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 3,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "INTRO",
+        "title": "Why Walking Plans Fail After 60"
+      }
+    },
+    {
+      "from": 990,
+      "dur": 135,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "VITAL AFTER 60",
+        "title": "Dr. Anne Carter",
+        "sub": "Gentle, practical health guidance after 60"
+      }
+    },
+    {
+      "from": 3000,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "THE APPROACH",
+        "title": "Why This Plan Works"
+      }
+    },
+    {
+      "from": 4290,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Vital After 60"
+      }
+    },
+    {
+      "from": 4850,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Vital After 60"
+      }
+    },
+    {
+      "from": 4950,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REASON 1",
+        "title": "The All-Or-Nothing Trap"
+      }
+    },
+    {
+      "from": 7060,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REASON 2",
+        "title": "The Talk Test"
+      }
+    },
+    {
+      "from": 7845,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "TALK TEST",
+        "sub": "Can you speak in full sentences?",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 9961,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REASON 3",
+        "title": "Warm Up & Cool Down"
+      }
+    },
+    {
+      "from": 10410,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "STIFF JOINTS",
+        "sub": "Cold muscles need a slower start",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 11880,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REASON 4",
+        "title": "Footwear & Surface"
+      }
+    },
+    {
+      "from": 14040,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REASON 5",
+        "title": "Timing Meals & Water"
+      }
+    },
+    {
+      "from": 15510,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REASON 6",
+        "title": "Consistency Over Intensity"
+      }
+    },
+    {
+      "from": 16710,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "STEADY WINS",
+        "sub": "Regular beats intense and sporadic",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 17926,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Vital After 60"
+      }
+    },
+    {
+      "from": 18570,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "THE PLAN",
+        "title": "Your Gentle 7-Day Plan"
+      }
+    },
+    {
+      "from": 20134,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "HABIT FIRST",
+        "sub": "Fitness comes later",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 23811,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "+50-60%",
+        "sub": "More total walking time by day 7",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 24937,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "25-30 MIN",
+        "sub": "Typical by week 4 for many people",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 25380,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SAFETY FIRST",
+        "title": "Warning Signs To Know"
+      }
+    },
+    {
+      "from": 26082,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "STOP & CALL",
+        "sub": "Chest pain, dizziness, irregular heartbeat",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 29250,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Vital After 60"
+      }
+    },
+    {
+      "from": 29820,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RECAP",
+        "title": "What We Covered"
+      }
+    },
+    {
+      "from": 33720,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Vital After 60"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 146,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SOUND FAMILIAR?",
+        "phrase": "Too much on day one, or too scared to start at all",
+        "accent": "too much",
+        "src": "img/vital-the-gentle-day_s01.png"
+      }
+    },
+    {
+      "from": 2045,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "More walking right away means faster results",
+        "truth": "Your body adapts gradually, not all at once"
+      }
+    },
+    {
+      "from": 5153,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REASON 1",
+        "phrase": "Start from where you are, not where you wish you were",
+        "accent": "where you are",
+        "src": "img/vital-the-gentle-day_s10.png"
+      }
+    },
+    {
+      "from": 6330,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Is This You?",
+        "items": [
+          "Day one plan is close to an hour",
+          "A distance you haven't walked in months",
+          "Pushing hard because a guide said so"
+        ]
+      }
+    },
+    {
+      "from": 8496,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "THE TALK TEST",
+        "title": "Listen To Your Body",
+        "steps": [
+          {
+            "title": "Full sentences",
+            "sub": "You're in a safe, moderate zone"
+          },
+          {
+            "title": "Only a few words",
+            "sub": "Time to slow down"
+          },
+          {
+            "title": "Can't talk at all",
+            "sub": "Too intense — ease off now"
+          }
+        ]
+      }
+    },
+    {
+      "from": 9570,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REASON 2",
+        "phrase": "Slower and consistent beats fast and occasional",
+        "accent": "Slower and consistent",
+        "src": "img/vital-the-gentle-day_s24.png"
+      }
+    },
+    {
+      "from": 10926,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REASON 3",
+        "title": "Bookend Every Walk",
+        "steps": [
+          {
+            "title": "First 3-5 minutes",
+            "sub": "An easy, slower stroll"
+          },
+          {
+            "title": "The middle",
+            "sub": "Your normal comfortable pace"
+          },
+          {
+            "title": "Last 3-5 minutes",
+            "sub": "Slow back down again"
+          }
+        ]
+      }
+    },
+    {
+      "from": 12540,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Check Your Shoes",
+        "items": [
+          "Tread looks smooth, not textured",
+          "Shoes are more than a year or two old",
+          "Little support left in the sole"
+        ]
+      }
+    },
+    {
+      "from": 13650,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REASON 4",
+        "phrase": "Adjust where you walk, not whether you walk",
+        "accent": "where you walk",
+        "src": "img/vital-the-gentle-day_s40.png"
+      }
+    },
+    {
+      "from": 14790,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REASON 5",
+        "title": "Time It Right",
+        "steps": [
+          {
+            "title": "Wait about an hour",
+            "sub": "After a big meal"
+          },
+          {
+            "title": "Water 20-30 min before",
+            "sub": "Not right as you step out"
+          },
+          {
+            "title": "Ease up in heat",
+            "sub": "Blood flow is busy with digestion"
+          }
+        ]
+      }
+    },
+    {
+      "from": 16410,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REASON 6",
+        "phrase": "Steady, repeated movement is what your heart responds to",
+        "accent": "Steady, repeated movement",
+        "src": "img/vital-the-gentle-day_s46.png"
+      }
+    },
+    {
+      "from": 17580,
+      "dur": 270,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Walking alone can cure heart disease",
+        "truth": "It's one gentle, dependable habit among several"
+      }
+    },
+    {
+      "from": 18660,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "THE PLAN",
+        "phrase": "A starting template, not a personalized prescription",
+        "accent": "not a personalized prescription",
+        "src": "img/vital-the-gentle-day_s49.png"
+      }
+    },
+    {
+      "from": 19560,
+      "dur": 360,
+      "comp": "WeekPlanner",
+      "props": {
+        "theme": "earth",
+        "title": "Your Gentle Week 1",
+        "days": [
+          {
+            "d": "Day 1",
+            "t": "10 min, easy pace"
+          },
+          {
+            "d": "Day 2",
+            "t": "Rest or 15 min",
+            "rest": true
+          },
+          {
+            "d": "Day 3",
+            "t": "10-12 min"
+          },
+          {
+            "d": "Day 4",
+            "t": "Rest day",
+            "rest": true
+          },
+          {
+            "d": "Day 5",
+            "t": "12-15 min"
+          },
+          {
+            "d": "Day 6",
+            "t": "Rest or 15 min",
+            "rest": true
+          },
+          {
+            "d": "Day 7",
+            "t": "15-18 min"
+          }
+        ]
+      }
+    },
+    {
+      "from": 21447,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SMALL STEPS",
+        "phrase": "A minute or two at a time is plenty",
+        "accent": "a minute or two",
+        "src": "img/vital-the-gentle-day_s57.png"
+      }
+    },
+    {
+      "from": 22770,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PROGRESS",
+        "phrase": "Feeling easier is a sign your body is adapting",
+        "accent": "your body is adapting",
+        "src": "img/vital-the-gentle-day_s61.png"
+      }
+    },
+    {
+      "from": 24196,
+      "dur": 330,
+      "comp": "WeekPlanner",
+      "props": {
+        "theme": "earth",
+        "title": "Weeks 2 Through 4",
+        "days": [
+          {
+            "d": "Week 2",
+            "t": "Add a few minutes"
+          },
+          {
+            "d": "Week 3",
+            "t": "Add a few minutes"
+          },
+          {
+            "d": "Week 4",
+            "t": "Often 25-30 min"
+          },
+          {
+            "d": "Any week",
+            "t": "Sharp pain? Stop & call your doctor",
+            "rest": true
+          }
+        ]
+      }
+    },
+    {
+      "from": 25590,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Any soreness means something's wrong",
+        "truth": "Mild soreness a day after is normal and expected"
+      }
+    },
+    {
+      "from": 26794,
+      "dur": 360,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Call Your Doctor If You Notice",
+        "items": [
+          "Chest pain or pressure",
+          "Pain in the arm, jaw, or back",
+          "Sudden shortness of breath",
+          "Dizziness that doesn't pass",
+          "An irregular or racing heartbeat"
+        ]
+      }
+    },
+    {
+      "from": 27485,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "4 Common Mistakes",
+        "items": [
+          "Comparing to others, not your own baseline",
+          "Overdoing it after a good day",
+          "Quitting after one missed day",
+          "Walking hunched, looking down"
+        ]
+      }
+    },
+    {
+      "from": 31890,
+      "dur": 330,
+      "comp": "WeekPlanner",
+      "props": {
+        "theme": "earth",
+        "title": "Four Weeks At A Glance",
+        "days": [
+          {
+            "d": "Week 1",
+            "t": "10 min up to ~15-18 min"
+          },
+          {
+            "d": "Week 2",
+            "t": "A few minutes more"
+          },
+          {
+            "d": "Week 3",
+            "t": "A few minutes more"
+          },
+          {
+            "d": "Week 4",
+            "t": "Often 25-30 min"
+          }
+        ]
+      }
+    },
+    {
+      "from": 32700,
+      "dur": 300,
+      "comp": "WeekPlanner",
+      "props": {
+        "theme": "earth",
+        "title": "Start Your Own Week",
+        "days": [
+          {
+            "d": "Day 1",
+            "t": "Just 10 minutes"
+          },
+          {
+            "d": "Day 2",
+            "t": "Rest or light walk",
+            "rest": true
+          },
+          {
+            "d": "Day 3",
+            "t": "10-12 minutes"
+          },
+          {
+            "d": "Day 4",
+            "t": "Rest day",
+            "rest": true
+          }
+        ]
+      }
+    }
+  ]
+}
