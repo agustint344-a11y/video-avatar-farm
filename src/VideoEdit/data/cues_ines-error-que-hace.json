@@ -1,0 +1,1644 @@
+{
+  "slug": "ines-error-que-hace",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 37598,
+  "audioSrc": "ines-error-que-hace.mp3",
+  "avatarSrc": "ines-error-que-hace_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1876,
+      "dur": 1448,
+      "clip": 0
+    },
+    {
+      "from": 5010,
+      "dur": 591,
+      "clip": 1448
+    },
+    {
+      "from": 31178,
+      "dur": 491,
+      "clip": 2039
+    },
+    {
+      "from": 34548,
+      "dur": 956,
+      "clip": 2530
+    },
+    {
+      "from": 36674,
+      "dur": 880,
+      "clip": 3486
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 368,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 578,
+      "dur": 363,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 941,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1271,
+      "dur": 49,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1320,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1806,
+      "dur": 70,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s03.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3324,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3638,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s04.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3792,
+      "dur": 356,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s05.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4148,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s06.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4331,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s75.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4722,
+      "dur": 288,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s75.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5601,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s07.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5854,
+      "dur": 348,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s08.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6472,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s39.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6725,
+      "dur": 281,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s09.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7006,
+      "dur": 238,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s10.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7454,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s10.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7593,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s11.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7823,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s12.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8054,
+      "dur": 292,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s13.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8346,
+      "dur": 335,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s14.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9011,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s14.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9080,
+      "dur": 365,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s15.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9445,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s16.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9686,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s17.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9894,
+      "dur": 340,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s18.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10234,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s19.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10519,
+      "dur": 311,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s19.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10830,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s20.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11011,
+      "dur": 334,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s21.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11345,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s22.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11474,
+      "dur": 346,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s23.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12120,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s23.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12306,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s24.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12548,
+      "dur": 250,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s25.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12798,
+      "dur": 284,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s26.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13082,
+      "dur": 347,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s27.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13669,
+      "dur": 281,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s27.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13950,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s28.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14112,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s29.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14352,
+      "dur": 373,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s30.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14725,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s31.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15102,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s31.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15432,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s31.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15505,
+      "dur": 345,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s32.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15850,
+      "dur": 264,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s33.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16114,
+      "dur": 307,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s34.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16421,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s35.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16886,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s35.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17054,
+      "dur": 360,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s36.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17414,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s37.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17599,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s38.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17929,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s38.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18259,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s38.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18564,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s38.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18864,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s40.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19194,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s40.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19267,
+      "dur": 336,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s41.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19603,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s42.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20065,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s42.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20205,
+      "dur": 243,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s43.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20448,
+      "dur": 358,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s44.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20806,
+      "dur": 374,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s45.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21180,
+      "dur": 360,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s46.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21540,
+      "dur": 281,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s47.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21821,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s48.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22258,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s48.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22414,
+      "dur": 311,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s49.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22725,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s50.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22870,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s51.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23284,
+      "dur": 286,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s51.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23570,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s52.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23822,
+      "dur": 284,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s53.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24106,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s54.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24516,
+      "dur": 257,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s54.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24773,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s55.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24869,
+      "dur": 257,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s56.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25456,
+      "dur": 229,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s56.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25685,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s57.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26015,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s57.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26116,
+      "dur": 337,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s58.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26453,
+      "dur": 348,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s59.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26801,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s60.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27101,
+      "dur": 329,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s61.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27430,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s62.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27617,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s70.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27809,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s64.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27934,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s65.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28409,
+      "dur": 307,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s63.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28716,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s66.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28841,
+      "dur": 288,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s67.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29129,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s68.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29611,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s68.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29746,
+      "dur": 362,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s69.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30108,
+      "dur": 274,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s71.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30382,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s72.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30557,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s73.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30779,
+      "dur": 255,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s74.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31034,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s76.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31669,
+      "dur": 257,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s77.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31926,
+      "dur": 268,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s78.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32194,
+      "dur": 223,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s79.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32417,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s80.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32621,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s81.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32837,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s82.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32993,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s83.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33514,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s83.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33763,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s84.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33955,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s85.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34056,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s86.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 34171,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s87.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34339,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s88.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 34470,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s89.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 35504,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s89.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 35834,
+      "dur": 319,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s89.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 36153,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s90.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 36355,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s91.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 36526,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s92.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 37554,
+      "dur": 44,
+      "kind": "image",
+      "src": "img/ines-error-que-hace_s92.png",
+      "kb": 5,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 4,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HUERTA REAL",
+        "title": "El error que marchita tu albahaca"
+      }
+    },
+    {
+      "from": 1151,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "BORDES NEGROS",
+        "sub": "La primera señal visible",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 2012,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "HUERTA REAL",
+        "title": "Inés",
+        "sub": "Huerta de balcón, de la práctica real"
+      }
+    },
+    {
+      "from": 5459,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real"
+      }
+    },
+    {
+      "from": 5459,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real"
+      }
+    },
+    {
+      "from": 5771,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL ERROR CENTRAL",
+        "title": "Hoja marchita, raíz ignorada"
+      }
+    },
+    {
+      "from": 7147,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "REGAR MÁS",
+        "sub": "Puede empujarla hacia la muerte",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 7823,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "La raíz sin oxígeno"
+      }
+    },
+    {
+      "from": 9445,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MISMO SÍNTOMA",
+        "sub": "Sed y ahogo se ven igual",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 9686,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "La maceta sin drenaje"
+      }
+    },
+    {
+      "from": 10961,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "Un sustrato que no drena"
+      }
+    },
+    {
+      "from": 12306,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SIN SOSTÉN",
+        "sub": "La raíz ya perdió agarre",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 12492,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "title": "El platito que ahoga"
+      }
+    },
+    {
+      "from": 14060,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 5",
+        "title": "La ubicación y tu clima"
+      }
+    },
+    {
+      "from": 14352,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ESTRÉS TÉRMICO",
+        "sub": "La maceta se calienta por dentro",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 15737,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 6",
+        "title": "No todas las variedades son iguales"
+      }
+    },
+    {
+      "from": 15737,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 8",
+        "title": "La sensibilidad al frío"
+      }
+    },
+    {
+      "from": 17414,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 7",
+        "title": "Una cosecha que debilita"
+      }
+    },
+    {
+      "from": 19603,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "12-13°C",
+        "sub": "El frío ya empieza a dañarla",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 20448,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "Seis señales para identificar la causa"
+      }
+    },
+    {
+      "from": 24106,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PLAN",
+        "title": "Semana por semana"
+      }
+    },
+    {
+      "from": 28841,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "RAMIFICACIÓN",
+        "sub": "Cosechar bien la hace más tupida",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 34056,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "FRÍO + HUMEDAD",
+        "sub": "Favorecen la pudrición nocturna",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 37260,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real"
+      }
+    },
+    {
+      "from": 37493,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 368,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "El comienzo",
+        "phrase": "Casi perfecta recién comprada, por ahora",
+        "accent": "por ahora",
+        "src": "img/ines-error-que-hace_s01.png"
+      }
+    },
+    {
+      "from": 1596,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "La realidad",
+        "phrase": "En dos o tres semanas, la planta ya no está",
+        "accent": "ya no está",
+        "src": "img/ines-error-que-hace_s03.png"
+      }
+    },
+    {
+      "from": 3458,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "La clave de todo",
+        "phrase": "La hoja marchita miente",
+        "accent": "miente",
+        "src": "img/ines-error-que-hace_s04.png"
+      }
+    },
+    {
+      "from": 4452,
+      "dur": 270,
+      "comp": "CalendarioSiembra",
+      "props": {
+        "theme": "earth",
+        "title": "¿Cuándo sembrar?",
+        "crop": "Albahaca en maceta",
+        "sow": [
+          3,
+          4,
+          5
+        ],
+        "harvest": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "note": "Es de ciclo corto: termina con las primeras heladas"
+      }
+    },
+    {
+      "from": 6202,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Dos causas, un mismo síntoma",
+        "left": {
+          "label": "Sed real",
+          "sub": "Raíz seca por falta de agua"
+        },
+        "right": {
+          "label": "Raíz ahogada",
+          "sub": "Exceso de agua, sin oxígeno"
+        }
+      }
+    },
+    {
+      "from": 7244,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Dato clave",
+        "phrase": "9 de cada 10 veces, el problema es exceso de agua",
+        "accent": "exceso de agua",
+        "src": "img/ines-error-que-hace_s10.png"
+      }
+    },
+    {
+      "from": 8681,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Razón 1",
+        "title": "Por qué la raíz se ahoga",
+        "steps": [
+          {
+            "title": "Sin aire en la tierra",
+            "sub": "El agua ocupa todo el espacio"
+          },
+          {
+            "title": "Raíz asfixiada",
+            "sub": "Deja de transportar agua"
+          },
+          {
+            "title": "Mismo síntoma que la sed",
+            "sub": "Hojas caídas y sin brillo"
+          }
+        ]
+      }
+    },
+    {
+      "from": 10309,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Razón 2",
+        "phrase": "Sin agujero de drenaje, el agua no tiene adónde ir",
+        "accent": "no tiene adónde ir",
+        "src": "img/ines-error-que-hace_s19.png"
+      }
+    },
+    {
+      "from": 11820,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Sustrato ideal para albahaca",
+        "items": [
+          "Sustrato de buena calidad para macetas",
+          "Perlita o arena gruesa para aireación",
+          "Debe drenar rápido al regar",
+          "Nunca tierra de jardín compactada"
+        ]
+      }
+    },
+    {
+      "from": 13429,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Razón 4",
+        "phrase": "La maceta parada en agua ahoga primero las raíces de abajo",
+        "accent": "ahoga",
+        "src": "img/ines-error-que-hace_s27.png"
+      }
+    },
+    {
+      "from": 14832,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "La ubicación según tu clima",
+        "left": {
+          "label": "Clima caluroso",
+          "sub": "Sol de mañana, sombra de tarde"
+        },
+        "right": {
+          "label": "Poca luz directa",
+          "sub": "Tallos finos y débiles, buscando luz"
+        }
+      }
+    },
+    {
+      "from": 16616,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "No todas las albahacas son iguales",
+        "left": {
+          "label": "Genovesa",
+          "sub": "Hoja grande, sensible al agua y al frío"
+        },
+        "right": {
+          "label": "Griega",
+          "sub": "Arbustiva, más tolerante"
+        }
+      }
+    },
+    {
+      "from": 18324,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Arrancar hojas sueltas y dejar que florezca",
+        "truth": "Cortar el tallo entero antes de que florezca"
+      }
+    },
+    {
+      "from": 19795,
+      "dur": 270,
+      "comp": "CalendarioSiembra",
+      "props": {
+        "theme": "earth",
+        "title": "Cuidado con el frío",
+        "crop": "Albahaca en maceta",
+        "sow": [
+          3,
+          4,
+          5
+        ],
+        "harvest": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "note": "Por debajo de 12-13°C ya sufre; una helada la mata"
+      }
+    },
+    {
+      "from": 21958,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Señales de pudrición de raíz",
+        "items": [
+          "Tallo marrón oscuro o negro",
+          "Base blanda al tacto",
+          "Olor a tierra podrida",
+          "Se desprende con poca resistencia"
+        ]
+      }
+    },
+    {
+      "from": 23074,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "El hallazgo más frecuente",
+        "phrase": "El platito con agua acumulada es la causa más común",
+        "accent": "más común",
+        "src": "img/ines-error-que-hace_s51.png"
+      }
+    },
+    {
+      "from": 24216,
+      "dur": 300,
+      "comp": "CrecimientoPlanta",
+      "props": {
+        "theme": "earth",
+        "title": "De semilla a cosecha",
+        "stages": [
+          {
+            "label": "SEMILLA",
+            "sub": "Día 0"
+          },
+          {
+            "label": "GERMINACIÓN",
+            "sub": "Día 7"
+          },
+          {
+            "label": "PLÁNTULA",
+            "sub": "Día 21"
+          },
+          {
+            "label": "PRIMERAS HOJAS",
+            "sub": "Día 35"
+          },
+          {
+            "label": "LISTA PARA COSECHAR",
+            "sub": "Día 45"
+          }
+        ]
+      }
+    },
+    {
+      "from": 25126,
+      "dur": 330,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Plan de 5 semanas",
+        "steps": [
+          {
+            "when": "Semana 1",
+            "text": "Maceta y sustrato"
+          },
+          {
+            "when": "Semana 2",
+            "text": "Ritmo de riego"
+          },
+          {
+            "when": "Semana 3",
+            "text": "Ubicación"
+          },
+          {
+            "when": "Semana 4",
+            "text": "Cosecha y producción"
+          },
+          {
+            "when": "Semana 5",
+            "text": "Fertilización suave"
+          }
+        ]
+      }
+    },
+    {
+      "from": 28109,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Cosecha correcta",
+        "title": "Cómo cosechar bien",
+        "steps": [
+          {
+            "title": "Corta el tallo entero",
+            "sub": "No arranques hojas sueltas"
+          },
+          {
+            "title": "Un poco arriba de un par de hojas",
+            "sub": "Estimula ramificación"
+          },
+          {
+            "title": "Quita las florcitas apenas aparecen",
+            "sub": "La energía va a las hojas"
+          }
+        ]
+      }
+    },
+    {
+      "from": 29311,
+      "dur": 300,
+      "comp": "CrecimientoPlanta",
+      "props": {
+        "theme": "earth",
+        "title": "Del trasplante a la producción",
+        "stages": [
+          {
+            "label": "TRASPLANTE",
+            "sub": "Día 0"
+          },
+          {
+            "label": "RAÍCES NUEVAS",
+            "sub": "Día 10"
+          },
+          {
+            "label": "PRIMERA COSECHA",
+            "sub": "Día 25"
+          },
+          {
+            "label": "RAMIFICACIÓN",
+            "sub": "Día 35"
+          },
+          {
+            "label": "PRODUCCIÓN SOSTENIDA",
+            "sub": "Día 45"
+          }
+        ]
+      }
+    },
+    {
+      "from": 33214,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Otros errores frecuentes",
+        "items": [
+          "Fertilizar en exceso",
+          "Amontonar varias plantas en una maceta chica",
+          "Regar siempre a la misma hora sin mirar la planta",
+          "Regar de noche en clima frío"
+        ]
+      }
+    }
+  ]
+}
