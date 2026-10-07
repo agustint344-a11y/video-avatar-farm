@@ -31,7 +31,9 @@ export type ComponentBeat = {
     | "CuadernoReceta"
     | "TicketPrecio"
     | "PolaroidRecuerdo"
-    | "GuiasNonna";
+    | "GuiasNonna"
+    | "PizarraNonna" | "ProporcionTazas" | "PlanoMedidas" | "NivelBurbuja" | "CalendarioSiembra" | "CrecimientoPlanta"
+    | "RutinaDia" | "AnilloPorcentaje" | "SemaforoVeredicto" | "CartelPrecaucion" | "WeekPlanner" | "HeartbeatLine";
   props: Record<string, unknown>;
 };
 
