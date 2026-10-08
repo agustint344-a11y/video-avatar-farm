@@ -1,0 +1,1509 @@
+{
+  "slug": "ines-planta-que-hace",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 35175,
+  "audioSrc": "ines-planta-que-hace.mp3",
+  "avatarSrc": "ines-planta-que-hace_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 626,
+      "dur": 965,
+      "clip": 0
+    },
+    {
+      "from": 4312,
+      "dur": 560,
+      "clip": 965
+    },
+    {
+      "from": 12738,
+      "dur": 558,
+      "clip": 1525
+    },
+    {
+      "from": 22571,
+      "dur": 1040,
+      "clip": 2083
+    },
+    {
+      "from": 31278,
+      "dur": 1298,
+      "clip": 3123
+    },
+    {
+      "from": 34362,
+      "dur": 765,
+      "clip": 4421
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 156,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 524,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1591,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1769,
+      "dur": 347,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2116,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s05.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2356,
+      "dur": 277,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s06.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2633,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s07.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2926,
+      "dur": 338,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s07.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3264,
+      "dur": 312,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s08.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3576,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s09.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4037,
+      "dur": 275,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s09.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4872,
+      "dur": 364,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s10.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5236,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s11.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5566,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s11.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5634,
+      "dur": 266,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s12.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6110,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s12.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6241,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s13.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6445,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s14.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6656,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s15.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6784,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s16.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7025,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s62.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7516,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7789,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s17.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8119,
+      "dur": 50,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s17.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8169,
+      "dur": 310,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s18.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8659,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s18.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8989,
+      "dur": 70,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s18.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9059,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s19.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9389,
+      "dur": 51,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9440,
+      "dur": 257,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s20.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9697,
+      "dur": 223,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s21.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10190,
+      "dur": 268,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s21.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10458,
+      "dur": 358,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s22.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10816,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s23.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11068,
+      "dur": 357,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s23.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11425,
+      "dur": 307,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s24.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11732,
+      "dur": 236,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s25.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11968,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s26.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12415,
+      "dur": 323,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s26.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13296,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s27.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13626,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s27.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13711,
+      "dur": 287,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s28.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13998,
+      "dur": 365,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s29.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14363,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s30.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14562,
+      "dur": 218,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s31.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15050,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s31.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15320,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s32.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15548,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s33.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15926,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s33.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16167,
+      "dur": 268,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s34.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16435,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s35.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16529,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s38.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16826,
+      "dur": 299,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s38.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17125,
+      "dur": 257,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s36.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17382,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s37.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17712,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s37.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18107,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s37.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18437,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s37.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18986,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s37.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19091,
+      "dur": 308,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s39.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19399,
+      "dur": 51,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19450,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s53.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19637,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s41.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20124,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s41.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20321,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s42.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20651,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s42.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20750,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s43.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21118,
+      "dur": 363,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s43.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21481,
+      "dur": 279,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s44.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21760,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s45.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22337,
+      "dur": 49,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s45.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22386,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s46.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23611,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s47.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23830,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s48.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24040,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s49.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24576,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s49.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24757,
+      "dur": 370,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s50.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25127,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s51.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25508,
+      "dur": 305,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s51.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25813,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s52.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26143,
+      "dur": 284,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s52.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26697,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s52.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26932,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s54.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27262,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s54.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27358,
+      "dur": 305,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s55.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27663,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s56.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27769,
+      "dur": 360,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s57.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28489,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s57.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28572,
+      "dur": 299,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s58.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28871,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s59.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29083,
+      "dur": 318,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s60.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29401,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s61.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29731,
+      "dur": 337,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s61.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30068,
+      "dur": 243,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s63.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30551,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s63.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30881,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s63.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30980,
+      "dur": 298,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s64.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32576,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s65.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32906,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s65.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33068,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s66.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33398,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s66.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33824,
+      "dur": 53,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s66.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33877,
+      "dur": 377,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s67.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34254,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s68.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 35127,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/ines-planta-que-hace_s68.png",
+      "kb": 3,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PROBLEMA",
+        "title": "Plagas que siempre vuelven"
+      }
+    },
+    {
+      "from": 1098,
+      "dur": 135,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "HUERTA REAL",
+        "title": "Inés",
+        "sub": "Huertera de balcón, en el mundo real"
+      }
+    },
+    {
+      "from": 2356,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEAMOS HONESTOS",
+        "title": "Lo que esta planta no puede hacer"
+      }
+    },
+    {
+      "from": 3264,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "REPELENTE, NO VENENO",
+        "sub": "Actúa por su olor fuerte",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 4612,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real"
+      }
+    },
+    {
+      "from": 4869,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "Confunde el olfato de las plagas"
+      }
+    },
+    {
+      "from": 6784,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "Una barrera para varias plagas"
+      }
+    },
+    {
+      "from": 8010,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ALCALOIDES",
+        "sub": "El compuesto que molesta a tantas plagas",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 9059,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "Hecha para vivir en maceta"
+      }
+    },
+    {
+      "from": 10458,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "5 A 6 HORAS DE SOL",
+        "sub": "Sin esto, pierde potencia de aroma",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 11192,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "title": "Dos formas de usarla"
+      }
+    },
+    {
+      "from": 13288,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 5",
+        "title": "No daña a tus aliados"
+      }
+    },
+    {
+      "from": 14105,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "¿Qué plaga tienes en realidad?"
+      }
+    },
+    {
+      "from": 15109,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "LA HORMIGA CUIDA AL PULGÓN",
+        "sub": "Se alimenta de su secreción dulce",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 17125,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "FOTODERMATITIS",
+        "sub": "Manchas si hay savia y sol sobre la piel",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 19091,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PLAN",
+        "title": "Cuatro semanas, paso a paso"
+      }
+    },
+    {
+      "from": 23339,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real"
+      }
+    },
+    {
+      "from": 26932,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERRORES COMUNES",
+        "title": "Lo que no debes hacer"
+      }
+    },
+    {
+      "from": 29401,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PARA CERRAR",
+        "title": "Una meta realista, no una promesa vacía"
+      }
+    },
+    {
+      "from": 30180,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SIEMPRE HABRÁ ALGO DE PRESIÓN",
+        "sub": "Es parte de tener un espacio vivo",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 31717,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real"
+      }
+    },
+    {
+      "from": 34775,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 314,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "¿TE SUENA FAMILIAR?",
+        "phrase": "Resuelves una plaga y a los diez días aparece otra",
+        "accent": "otra",
+        "src": "img/ines-planta-que-hace_s02.png"
+      }
+    },
+    {
+      "from": 2746,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEAMOS HONESTOS",
+        "phrase": "Ninguna planta hace que una plaga desaparezca para siempre",
+        "accent": "para siempre",
+        "src": "img/ines-planta-que-hace_s07.png"
+      }
+    },
+    {
+      "from": 3797,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Es un veneno que mata a las plagas",
+        "truth": "Es un repelente que las aleja por su olor fuerte"
+      }
+    },
+    {
+      "from": 5900,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "phrase": "Para los insectos es como entrar a un cuarto que huele mal",
+        "accent": "huele mal",
+        "src": "img/ines-planta-que-hace_s12.png"
+      }
+    },
+    {
+      "from": 7216,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "El combo típico de un balcón real",
+        "items": [
+          "Pulgón en la albahaca",
+          "Hormigas subiendo por el tomate",
+          "Mosca blanca en los pimientos",
+          "Orugas en las coles, si hay humedad"
+        ]
+      }
+    },
+    {
+      "from": 8479,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LO QUE NO CUBRE",
+        "phrase": "Contra la cochinilla algodonosa su efecto es mucho más débil",
+        "accent": "más débil",
+        "src": "img/ines-planta-que-hace_s18.png"
+      }
+    },
+    {
+      "from": 9920,
+      "dur": 270,
+      "comp": "CrecimientoPlanta",
+      "props": {
+        "theme": "earth",
+        "title": "De plántula a barrera protectora",
+        "stages": [
+          {
+            "label": "TRASPLANTE",
+            "sub": "semana 0"
+          },
+          {
+            "label": "RAÍZ FIJADA",
+            "sub": "semana 2"
+          },
+          {
+            "label": "AROMA PLENO",
+            "sub": "semana 4 a 6"
+          },
+          {
+            "label": "BARRERA ACTIVA",
+            "sub": "mes 2"
+          }
+        ]
+      }
+    },
+    {
+      "from": 10888,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CUÁNDO NO ES TU PLANTA",
+        "phrase": "Con sombra casi todo el día, no es la mejor candidata",
+        "accent": "no es la mejor candidata",
+        "src": "img/ines-planta-que-hace_s23.png"
+      }
+    },
+    {
+      "from": 12145,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Dos formas de usar la ruda",
+        "left": {
+          "label": "Planta viva",
+          "sub": "Previene: barrera pasiva todo el tiempo"
+        },
+        "right": {
+          "label": "Maceración en spray",
+          "sub": "Actúa rápido cuando ya hay problema"
+        }
+      }
+    },
+    {
+      "from": 14780,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "¿Es pulgón?",
+        "items": [
+          "Puntitos verdes, negros o amarillentos",
+          "Agrupados en el envés de las hojas",
+          "Se mueven despacio y en grupo"
+        ]
+      }
+    },
+    {
+      "from": 15716,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "phrase": "Polvo blanco harinoso en los tallos: eso es cochinilla, no pulgón",
+        "accent": "cochinilla",
+        "src": "img/ines-planta-que-hace_s33.png"
+      }
+    },
+    {
+      "from": 16616,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "phrase": "Hojas con agujeros grandes: revisa de noche con linterna",
+        "accent": "de noche con linterna",
+        "src": "img/ines-planta-que-hace_s35.png"
+      }
+    },
+    {
+      "from": 17777,
+      "dur": 330,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Antes de manipular la ruda",
+        "items": [
+          "Usa guantes al cortar las ramas",
+          "Si no usaste guantes, lávate las manos",
+          "Lejos del alcance de niños y mascotas",
+          "Evita el contacto frecuente en el embarazo"
+        ]
+      }
+    },
+    {
+      "from": 18626,
+      "dur": 360,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "El plan de un vistazo",
+        "steps": [
+          {
+            "when": "Semana 1",
+            "text": "Consigue y trasplanta tu ruda"
+          },
+          {
+            "when": "Semana 2",
+            "text": "Ubícala cerca de lo que quieres proteger"
+          },
+          {
+            "when": "Semana 3",
+            "text": "Prepara y aplica la maceración"
+          },
+          {
+            "when": "Semana 4",
+            "text": "Evalúa con fotos reales"
+          }
+        ]
+      }
+    },
+    {
+      "from": 19824,
+      "dur": 300,
+      "comp": "CalendarioSiembra",
+      "props": {
+        "theme": "earth",
+        "title": "¿Cuándo instalar tu ruda?",
+        "crop": "Ruda en maceta de balcón",
+        "sow": [
+          3,
+          4,
+          9,
+          10
+        ],
+        "harvest": [
+          11,
+          12,
+          1,
+          2
+        ],
+        "note": "Es perenne: una vez establecida puede durar varios años en la misma maceta"
+      }
+    },
+    {
+      "from": 20908,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEMANA 2",
+        "phrase": "Escondida en un rincón decorativo, casi no protege nada",
+        "accent": "casi no protege nada",
+        "src": "img/ines-planta-que-hace_s43.png"
+      }
+    },
+    {
+      "from": 22007,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEMANA 2",
+        "title": "Cómo preparar la maceración",
+        "steps": [
+          {
+            "title": "Corta 5 o 6 ramas",
+            "sub": "Con guantes y cuidado"
+          },
+          {
+            "title": "Sumérgelas en agua",
+            "sub": "Un litro, recipiente con tapa floja"
+          },
+          {
+            "title": "Déjalas reposar",
+            "sub": "3 a 5 días en sombra, revolviendo"
+          }
+        ]
+      }
+    },
+    {
+      "from": 24246,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEMANA 3",
+        "title": "Cómo aplicar el spray",
+        "steps": [
+          {
+            "title": "Cuela el líquido",
+            "sub": "Con un paño o colador fino"
+          },
+          {
+            "title": "Dilúyelo",
+            "sub": "Partes iguales con agua limpia"
+          },
+          {
+            "title": "Aplica al envés",
+            "sub": "Mañana o atardecer, nunca con sol fuerte"
+          }
+        ]
+      }
+    },
+    {
+      "from": 25298,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "COMPLEMENTO",
+        "phrase": "Un anillo de tiza o vaselina frena a las hormigas por costumbre",
+        "accent": "anillo de tiza",
+        "src": "img/ines-planta-que-hace_s51.png"
+      }
+    },
+    {
+      "from": 26427,
+      "dur": 270,
+      "comp": "CrecimientoPlanta",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que pasó en cuatro semanas",
+        "stages": [
+          {
+            "label": "RECIÉN TRASPLANTADA",
+            "sub": "semana 1"
+          },
+          {
+            "label": "UBICADA COMO BARRERA",
+            "sub": "semana 2"
+          },
+          {
+            "label": "PRIMER SPRAY APLICADO",
+            "sub": "semana 3"
+          },
+          {
+            "label": "RESULTADO EVALUADO",
+            "sub": "semana 4"
+          }
+        ]
+      }
+    },
+    {
+      "from": 28129,
+      "dur": 360,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Los 4 errores más comunes",
+        "items": [
+          "Ponerla aislada, lejos de lo que quieres proteger",
+          "Regarla en exceso",
+          "Esperar un efecto inmediato",
+          "Dejar de revisar las plantas cada semana"
+        ]
+      }
+    },
+    {
+      "from": 30311,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "La meta es cero plagas para siempre",
+        "truth": "La meta es una población tan baja que no dañe tu cosecha"
+      }
+    },
+    {
+      "from": 33494,
+      "dur": 330,
+      "comp": "CalendarioSiembra",
+      "props": {
+        "theme": "earth",
+        "title": "Tu calendario de protección anual",
+        "crop": "Ruda + hortalizas en macetas",
+        "sow": [
+          3,
+          4,
+          9,
+          10
+        ],
+        "harvest": [
+          11,
+          12,
+          1,
+          2
+        ],
+        "note": "Refuerza con maceración cada 10 a 15 días en temporada alta de plagas"
+      }
+    }
+  ]
+}
