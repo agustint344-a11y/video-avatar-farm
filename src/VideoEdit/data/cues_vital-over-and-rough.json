@@ -1,0 +1,1715 @@
+{
+  "slug": "vital-over-and-rough",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 38603,
+  "audioSrc": "vital-over-and-rough.mp3",
+  "avatarSrc": "vital-over-and-rough_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 705,
+      "dur": 1040,
+      "clip": 0
+    },
+    {
+      "from": 9275,
+      "dur": 846,
+      "clip": 1040
+    },
+    {
+      "from": 22005,
+      "dur": 868,
+      "clip": 1886
+    },
+    {
+      "from": 25449,
+      "dur": 742,
+      "clip": 2754
+    },
+    {
+      "from": 33544,
+      "dur": 731,
+      "clip": 3496
+    },
+    {
+      "from": 36474,
+      "dur": 643,
+      "clip": 4227
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 302,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 424,
+      "dur": 281,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1745,
+      "dur": 298,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2043,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2296,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s05.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2649,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s75.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2721,
+      "dur": 353,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s06.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3254,
+      "dur": 283,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3537,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3867,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s07.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3998,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s08.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4351,
+      "dur": 290,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s08.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4641,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s09.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4911,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s10.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5253,
+      "dur": 301,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s10.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5554,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s11.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5766,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s12.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6124,
+      "dur": 312,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s12.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6436,
+      "dur": 322,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s13.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6758,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s14.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7163,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s14.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7403,
+      "dur": 305,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s15.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7708,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s16.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7999,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s16.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8238,
+      "dur": 361,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s17.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8599,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s18.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8932,
+      "dur": 343,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s18.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10121,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s19.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10604,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s57.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10676,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s20.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10893,
+      "dur": 368,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s21.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11261,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s22.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11663,
+      "dur": 250,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s55.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11913,
+      "dur": 316,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s23.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12229,
+      "dur": 302,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s24.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12531,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s25.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12861,
+      "dur": 57,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s25.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12918,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s26.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13369,
+      "dur": 243,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s45.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13612,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s27.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13942,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s27.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14066,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s28.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14138,
+      "dur": 354,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s29.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14492,
+      "dur": 53,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s30.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14545,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s46.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14946,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s46.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15276,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s46.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15428,
+      "dur": 280,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s31.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15708,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s32.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16038,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s32.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16143,
+      "dur": 337,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s33.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16690,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s33.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16939,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s34.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17128,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s35.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17458,
+      "dur": 67,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s35.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17525,
+      "dur": 251,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s36.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17776,
+      "dur": 349,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s37.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18365,
+      "dur": 279,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s37.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18644,
+      "dur": 301,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s38.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18945,
+      "dur": 271,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s39.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19216,
+      "dur": 251,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19647,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s40.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19843,
+      "dur": 250,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s41.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20093,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s42.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20546,
+      "dur": 297,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s42.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20843,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s43.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21105,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s44.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21435,
+      "dur": 54,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s44.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21759,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s44.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22873,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s44.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23203,
+      "dur": 91,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s44.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23534,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s44.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23758,
+      "dur": 309,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s47.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24067,
+      "dur": 345,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s48.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24412,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s49.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24742,
+      "dur": 59,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s49.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24801,
+      "dur": 340,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s50.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25141,
+      "dur": 308,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s51.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26191,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s52.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26596,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s52.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26837,
+      "dur": 321,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s53.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27158,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s54.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27488,
+      "dur": 305,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s54.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27793,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s56.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28123,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s56.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28413,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s56.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28659,
+      "dur": 265,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s58.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28924,
+      "dur": 244,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s59.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29168,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s60.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29594,
+      "dur": 215,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s60.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29809,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s61.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30139,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s61.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30214,
+      "dur": 363,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s62.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30577,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s63.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30974,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s63.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31190,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s64.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31490,
+      "dur": 357,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s65.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31847,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s66.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32264,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s66.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32537,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s67.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32867,
+      "dur": 91,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s67.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32958,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s68.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33288,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s68.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33385,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s69.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 34275,
+      "dur": 289,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s70.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34564,
+      "dur": 312,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s71.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 34876,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s72.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 35206,
+      "dur": 59,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s72.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 35535,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s72.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 35660,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s73.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 35990,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s73.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 36166,
+      "dur": 308,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s74.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 37117,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s74.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 37447,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s74.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 37547,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s76.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 37877,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s76.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 38207,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s76.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 38537,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/vital-over-and-rough_s76.png",
+      "kb": 4,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 5,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "INTRO",
+        "title": "The Cracked Heel Problem"
+      }
+    },
+    {
+      "from": 899,
+      "dur": 135,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "YOUR HOST",
+        "title": "Vital After 60",
+        "sub": "Caring, practical health guidance for life after 60"
+      }
+    },
+    {
+      "from": 1132,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CRACKING",
+        "sub": "Deep enough to sting on tile floors",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 2043,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TONIGHT'S PLAN",
+        "title": "What We'll Cover"
+      }
+    },
+    {
+      "from": 3765,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "THE CAUSES",
+        "title": "Why Heels Crack After 60"
+      }
+    },
+    {
+      "from": 9275,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "THE WATER HABIT",
+        "title": "What to Add to Your Water"
+      }
+    },
+    {
+      "from": 9281,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "WHEN TO WORRY",
+        "title": "Beyond Ordinary Dryness"
+      }
+    },
+    {
+      "from": 9281,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MISTAKES",
+        "title": "Common Mistakes to Avoid"
+      }
+    },
+    {
+      "from": 10113,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "2-3 TBSP",
+        "sub": "Epsom salt in warm water",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 12359,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "THE MAIN EVENT",
+        "title": "Seal In the Moisture"
+      }
+    },
+    {
+      "from": 13468,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "UREA",
+        "sub": "Softens thick, rough skin",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 15298,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HYDRATION",
+        "title": "The Water You Drink"
+      }
+    },
+    {
+      "from": 15532,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "6-8 CUPS",
+        "sub": "Fluid a day, spread out",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 17332,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "THE FULL PLAN",
+        "title": "Your Daily Routine"
+      }
+    },
+    {
+      "from": 21309,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "BE PATIENT",
+        "sub": "Skin repair takes real time",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 22529,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Vital After 60"
+      }
+    },
+    {
+      "from": 22592,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Vital After 60"
+      }
+    },
+    {
+      "from": 22717,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Vital After 60"
+      }
+    },
+    {
+      "from": 24905,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "6-8 WEEKS",
+        "sub": "Persistent cracking needs a podiatrist",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 25449,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SELF-CHECK",
+        "title": "Where Do You Stand Tonight?"
+      }
+    },
+    {
+      "from": 31190,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TIMELINE",
+        "title": "What to Expect, Week by Week"
+      }
+    },
+    {
+      "from": 32323,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "WEEK 3-4",
+        "sub": "Deeper cracks show real improvement",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 33544,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RECAP",
+        "title": "Your Full Plan at a Glance"
+      }
+    },
+    {
+      "from": 36759,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Vital After 60"
+      }
+    },
+    {
+      "from": 38408,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Vital After 60"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 122,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Sound familiar?",
+        "phrase": "Lotion fades by morning. You are doing nothing wrong.",
+        "accent": "doing nothing wrong",
+        "src": "img/vital-over-and-rough_s01.png"
+      }
+    },
+    {
+      "from": 2409,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Tonight's plan",
+        "title": "What we'll cover",
+        "steps": [
+          {
+            "title": "Why it happens",
+            "sub": "Six real reasons"
+          },
+          {
+            "title": "The water habit",
+            "sub": "A simple soak"
+          },
+          {
+            "title": "Daily plan",
+            "sub": "Small steps that add up"
+          }
+        ]
+      }
+    },
+    {
+      "from": 3074,
+      "dur": 180,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "One trick erases years of dry, cracked skin overnight.",
+        "truth": "Gentle, consistent habits bring gradual, real improvement."
+      }
+    },
+    {
+      "from": 4171,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Reason 1",
+        "phrase": "Oil glands slow down, and heels pay the price first.",
+        "accent": "slow down",
+        "src": "img/vital-over-and-rough_s08.png"
+      }
+    },
+    {
+      "from": 5073,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Reason 2",
+        "phrase": "Less circulation leaves heel skin thin and brittle.",
+        "accent": "less circulation",
+        "src": "img/vital-over-and-rough_s10.png"
+      }
+    },
+    {
+      "from": 5944,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Reason 3",
+        "phrase": "Years of pressure thicken skin until it cracks.",
+        "accent": "thicken... cracks",
+        "src": "img/vital-over-and-rough_s12.png"
+      }
+    },
+    {
+      "from": 6983,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Reason 4",
+        "phrase": "Mild, daily dehydration shows up on skin first.",
+        "accent": "shows up on skin",
+        "src": "img/vital-over-and-rough_s14.png"
+      }
+    },
+    {
+      "from": 7819,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Reason 5",
+        "phrase": "Dry air and open-back shoes make cracking worse.",
+        "accent": "dry air",
+        "src": "img/vital-over-and-rough_s16.png"
+      }
+    },
+    {
+      "from": 8722,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Reason 6: Overlooked causes",
+        "items": [
+          "Certain blood pressure medications",
+          "Some cholesterol drugs",
+          "Thyroid imbalance",
+          "Diabetes"
+        ]
+      }
+    },
+    {
+      "from": 10334,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "The Epsom soak",
+        "title": "How to do it",
+        "steps": [
+          {
+            "title": "Add salt",
+            "sub": "2-3 tbsp in warm water"
+          },
+          {
+            "title": "Soak",
+            "sub": "10-15 minutes, no more"
+          },
+          {
+            "title": "Pat dry",
+            "sub": "Leave skin slightly damp"
+          }
+        ]
+      }
+    },
+    {
+      "from": 11483,
+      "dur": 180,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Epsom salt alone fixes cracked heels.",
+        "truth": "It's a gentle assist — the soak softens, cream seals it in."
+      }
+    },
+    {
+      "from": 13099,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "The main event",
+        "title": "Right after your soak",
+        "steps": [
+          {
+            "title": "Damp skin",
+            "sub": "Not dripping, just moist"
+          },
+          {
+            "title": "Thick cream",
+            "sub": "Urea 10-25% or petroleum jelly"
+          },
+          {
+            "title": "Cotton socks",
+            "sub": "For deeper cracks, overnight"
+          }
+        ]
+      }
+    },
+    {
+      "from": 14766,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Why timing matters",
+        "phrase": "Cream on damp skin traps moisture like a lid on a pot.",
+        "accent": "traps moisture",
+        "src": "img/vital-over-and-rough_s30.png"
+      }
+    },
+    {
+      "from": 16480,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "The hydration habit",
+        "items": [
+          "6-8 cups of fluid a day",
+          "Spread throughout the day",
+          "A marked water bottle helps",
+          "Check with your doctor on fluid limits"
+        ]
+      }
+    },
+    {
+      "from": 18125,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Step 1",
+        "title": "Gentle exfoliating",
+        "steps": [
+          {
+            "title": "After a soak",
+            "sub": "Skin is softened"
+          },
+          {
+            "title": "Pumice stone",
+            "sub": "One direction, 30-60 sec"
+          },
+          {
+            "title": "Once or twice weekly",
+            "sub": "Daily is too much"
+          }
+        ]
+      }
+    },
+    {
+      "from": 19467,
+      "dur": 180,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Morning vs night",
+        "left": {
+          "label": "Morning",
+          "sub": "Lighter lotion with urea"
+        },
+        "right": {
+          "label": "Night",
+          "sub": "Heavier cream before bed"
+        }
+      }
+    },
+    {
+      "from": 20366,
+      "dur": 180,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Footwear matters",
+        "left": {
+          "label": "Backless slippers",
+          "sub": "Heel spreads, cracks worsen"
+        },
+        "right": {
+          "label": "Closed-back shoes",
+          "sub": "Less stress, faster healing"
+        }
+      }
+    },
+    {
+      "from": 21489,
+      "dur": 270,
+      "comp": "WeekPlanner",
+      "props": {
+        "theme": "earth",
+        "title": "Your gentle week",
+        "days": [
+          {
+            "d": "Mon",
+            "t": "Soak 15 min + thick cream"
+          },
+          {
+            "d": "Tue",
+            "t": "Moisturize AM & PM"
+          },
+          {
+            "d": "Wed",
+            "t": "Rest",
+            "rest": true
+          },
+          {
+            "d": "Thu",
+            "t": "Gentle pumice, once this week"
+          },
+          {
+            "d": "Fri",
+            "t": "Soak + cotton socks overnight"
+          },
+          {
+            "d": "Sat",
+            "t": "Check footwear at home"
+          },
+          {
+            "d": "Sun",
+            "t": "Hydrate & reassess"
+          }
+        ]
+      }
+    },
+    {
+      "from": 23294,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "See a doctor if...",
+        "items": [
+          "Cracks deep enough to bleed",
+          "Spreading redness or discharge",
+          "Any change with diabetes",
+          "Swelling on only one foot"
+        ]
+      }
+    },
+    {
+      "from": 26356,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Quick check",
+        "title": "Where do you stand?",
+        "steps": [
+          {
+            "title": "Dry & flaky",
+            "sub": "Ordinary dryness"
+          },
+          {
+            "title": "Visible crack, no blood",
+            "sub": "Moderate — stay consistent"
+          },
+          {
+            "title": "Bleeding or infection signs",
+            "sub": "See a podiatrist"
+          }
+        ]
+      }
+    },
+    {
+      "from": 28233,
+      "dur": 180,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Hotter water soaks feel better and work better.",
+        "truth": "Hot water strips oils and worsens dryness by morning."
+      }
+    },
+    {
+      "from": 29354,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Common mistakes",
+        "items": [
+          "Soaking too long or too often",
+          "Hot water instead of warm",
+          "Skipping moisturizer after soak",
+          "Rough pumice or razor-blade removers",
+          "Ignoring daily hydration"
+        ]
+      }
+    },
+    {
+      "from": 30794,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Read the label",
+        "phrase": "Choose cream by ingredients, not scent or texture.",
+        "accent": "ingredients, not scent",
+        "src": "img/vital-over-and-rough_s63.png"
+      }
+    },
+    {
+      "from": 31964,
+      "dur": 300,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "What to expect, week by week",
+        "steps": [
+          {
+            "when": "Week 1",
+            "text": "Skin feels softer, cracks may remain"
+          },
+          {
+            "when": "Week 2",
+            "text": "Smaller cracks begin to close"
+          },
+          {
+            "when": "Weeks 3-4",
+            "text": "Deeper cracks show real improvement"
+          },
+          {
+            "when": "6-8 weeks",
+            "text": "Stubborn cases may need a podiatrist"
+          }
+        ]
+      }
+    },
+    {
+      "from": 35265,
+      "dur": 270,
+      "comp": "WeekPlanner",
+      "props": {
+        "theme": "earth",
+        "title": "Your gentle week",
+        "days": [
+          {
+            "d": "Mon",
+            "t": "Warm soak + thick cream"
+          },
+          {
+            "d": "Tue",
+            "t": "Moisturize AM & PM"
+          },
+          {
+            "d": "Wed",
+            "t": "Rest",
+            "rest": true
+          },
+          {
+            "d": "Thu",
+            "t": "Gentle pumice, once this week"
+          },
+          {
+            "d": "Fri",
+            "t": "Soak + cotton socks overnight"
+          },
+          {
+            "d": "Sat",
+            "t": "Check footwear at home"
+          },
+          {
+            "d": "Sun",
+            "t": "Hydrate & reassess"
+          }
+        ]
+      }
+    }
+  ]
+}
