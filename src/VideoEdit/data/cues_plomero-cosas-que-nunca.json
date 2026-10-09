@@ -1,0 +1,1383 @@
+{
+  "slug": "plomero-cosas-que-nunca",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 32321,
+  "audioSrc": "plomero-cosas-que-nunca.mp3",
+  "avatarSrc": "plomero-cosas-que-nunca_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 764,
+      "dur": 463,
+      "clip": 0
+    },
+    {
+      "from": 1456,
+      "dur": 646,
+      "clip": 463
+    },
+    {
+      "from": 10695,
+      "dur": 546,
+      "clip": 1109
+    },
+    {
+      "from": 29312,
+      "dur": 936,
+      "clip": 1655
+    },
+    {
+      "from": 30758,
+      "dur": 476,
+      "clip": 2591
+    },
+    {
+      "from": 31532,
+      "dur": 748,
+      "clip": 3067
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 4,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 244,
+      "dur": 275,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 519,
+      "dur": 245,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1227,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1340,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2102,
+      "dur": 255,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s05.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2357,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s06.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2803,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s06.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2868,
+      "dur": 306,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s07.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3174,
+      "dur": 409,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s08.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3793,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s09.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4006,
+      "dur": 325,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s10.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4331,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s11.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4601,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s12.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4877,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s13.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5330,
+      "dur": 327,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s14.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5657,
+      "dur": 289,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s15.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5946,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s16.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6366,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s16.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6489,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s17.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6696,
+      "dur": 245,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s18.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7151,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s18.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7516,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s19.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7636,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s20.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7969,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s20.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8165,
+      "dur": 301,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s21.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8466,
+      "dur": 361,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s22.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8827,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s23.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9007,
+      "dur": 366,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s24.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9373,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s25.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9703,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s25.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10033,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s25.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10203,
+      "dur": 282,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s26.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10485,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s27.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11241,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s28.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11503,
+      "dur": 205,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s29.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11978,
+      "dur": 366,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s31.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12344,
+      "dur": 304,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s32.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12648,
+      "dur": 320,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s33.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13178,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s30.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13406,
+      "dur": 341,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s34.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13747,
+      "dur": 258,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s35.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14275,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s35.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14408,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s36.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14708,
+      "dur": 358,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s37.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15066,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s38.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15200,
+      "dur": 298,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s39.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15738,
+      "dur": 278,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s39.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16016,
+      "dur": 349,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s40.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16665,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16877,
+      "dur": 348,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s41.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17225,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s42.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17477,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s43.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17867,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s43.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17992,
+      "dur": 344,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s44.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18336,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s45.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18716,
+      "dur": 279,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s72.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18995,
+      "dur": 342,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s46.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19337,
+      "dur": 284,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s47.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19621,
+      "dur": 307,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s48.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19928,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s49.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20294,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s49.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20454,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s50.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20671,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s51.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20856,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s52.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21096,
+      "dur": 275,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s53.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21371,
+      "dur": 285,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s54.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21656,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s55.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22090,
+      "dur": 291,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s55.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22381,
+      "dur": 313,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s56.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22694,
+      "dur": 339,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s57.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23033,
+      "dur": 236,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s58.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23269,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s59.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23674,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s59.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23857,
+      "dur": 372,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s60.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24229,
+      "dur": 336,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s61.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24565,
+      "dur": 292,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24857,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s63.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24950,
+      "dur": 286,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s64.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25416,
+      "dur": 271,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s64.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25687,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s65.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25896,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s66.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26067,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s67.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26397,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s67.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26800,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s68.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27130,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s69.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27235,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s70.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27541,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s70.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27871,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s70.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28201,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s70.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28531,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s70.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28694,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s71.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29156,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s71.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30248,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s71.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30674,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s71.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31234,
+      "dur": 298,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s71.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32280,
+      "dur": 41,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-nunca_s71.png",
+      "kb": 0,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 764,
+      "dur": 135,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "MATEO EL PLOMERO",
+        "title": "Mateo",
+        "sub": "15 años destapando cañerías"
+      }
+    },
+    {
+      "from": 2357,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CAPA SOBRE CAPA",
+        "sub": "Así se va cerrando el tubo",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 3542,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "Aceite y grasa de cocina"
+      }
+    },
+    {
+      "from": 5786,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "AGUA TURBIA",
+        "sub": "Señal de grasa acumulada",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 7295,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "Café y fibra de alimentos"
+      }
+    },
+    {
+      "from": 8466,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "NO ES LÍQUIDO",
+        "sub": "La fibra solo se hace más chica",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 10894,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero"
+      }
+    },
+    {
+      "from": 11080,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero"
+      }
+    },
+    {
+      "from": 11233,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "Toallitas húmedas"
+      }
+    },
+    {
+      "from": 12344,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "AGUANTA MOJADA",
+        "sub": "Diseñada para no deshacerse",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 15066,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "title": "Medicamentos y químicos"
+      }
+    },
+    {
+      "from": 16691,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "GAS TÓXICO",
+        "sub": "Cloro + amoníaco o vinagre es peligro",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 18336,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 5",
+        "title": "Pintura, cemento y cáscaras"
+      }
+    },
+    {
+      "from": 21371,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MITOS",
+        "title": "Lo que no funciona"
+      }
+    },
+    {
+      "from": 23126,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "Lee las señales de tu casa"
+      }
+    },
+    {
+      "from": 23857,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "GORGOTEO",
+        "sub": "Aire atrapado por obstrucción parcial",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 24415,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ALERTA",
+        "title": "Cuándo llamar a un plomero"
+      }
+    },
+    {
+      "from": 26067,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MANTENIMIENTO",
+        "title": "Rutina mensual y anual"
+      }
+    },
+    {
+      "from": 29312,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RESUMEN",
+        "title": "Las 5 cosas, otra vez"
+      }
+    },
+    {
+      "from": 30982,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero"
+      }
+    },
+    {
+      "from": 31082,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero"
+      }
+    },
+    {
+      "from": 32223,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 4,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MIRA ESTO",
+        "phrase": "Esta capa gris era años de aceite acumulado",
+        "accent": "años de aceite acumulado",
+        "src": "img/plomero-cosas-que-nunca_s01.png"
+      }
+    },
+    {
+      "from": 2503,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "En este video vas a aprender",
+        "items": [
+          "5 cosas que nunca debes tirar por el desagüe",
+          "Por qué cada una arruina la cañería",
+          "Cómo detectar el problema a tiempo",
+          "Qué hacer si ya lo hiciste"
+        ]
+      }
+    },
+    {
+      "from": 3583,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "phrase": "El aceite se endurece apenas se enfría dentro del tubo",
+        "accent": "se endurece",
+        "src": "img/plomero-cosas-que-nunca_s09.png"
+      }
+    },
+    {
+      "from": 5060,
+      "dur": 270,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "EL TUBO SE VA CERRANDO",
+        "w": 5,
+        "h": 40,
+        "unit": "cm",
+        "label": "DIÁMETRO ORIGINAL",
+        "note": "Capa por capa se va angostando"
+      }
+    },
+    {
+      "from": 6066,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "QUÉ HACER",
+        "title": "Así se tira el aceite",
+        "steps": [
+          {
+            "title": "Enfríalo",
+            "sub": "En la misma sartén o una lata"
+          },
+          {
+            "title": "A la basura",
+            "sub": "Nunca por el desagüe"
+          },
+          {
+            "title": "Recíclalo",
+            "sub": "Si es mucho, a un punto de reciclaje"
+          }
+        ]
+      }
+    },
+    {
+      "from": 6941,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "COSTO REAL",
+        "phrase": "Destapar esa cañería cuesta entre 80 y 150 dólares",
+        "accent": "80 y 150 dólares",
+        "src": "img/plomero-cosas-que-nunca_s18.png"
+      }
+    },
+    {
+      "from": 7336,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REGLA SIMPLE",
+        "phrase": "Los posos de café van a la basura, nunca al drenaje",
+        "accent": "nunca al drenaje",
+        "src": "img/plomero-cosas-que-nunca_s25.png"
+      }
+    },
+    {
+      "from": 7699,
+      "dur": 270,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El café limpia la cañería y le da buen olor",
+        "truth": "Se compacta como pasta y se mezcla con la grasa"
+      }
+    },
+    {
+      "from": 11708,
+      "dur": 270,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Las toallitas \"biodegradables\" se deshacen en la cañería",
+        "truth": "No se deshacen a tiempo y forman bolas que tapan el tubo"
+      }
+    },
+    {
+      "from": 12968,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA BOLA",
+        "phrase": "Las toallitas se pegan entre ellas hasta formar una bola",
+        "accent": "forman una bola",
+        "src": "img/plomero-cosas-que-nunca_s33.png"
+      }
+    },
+    {
+      "from": 14005,
+      "dur": 270,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "ASÍ ES LA TRAMPA DEL INODORO",
+        "w": 10,
+        "h": 15,
+        "unit": "cm",
+        "label": "TRAMPA",
+        "note": "Ahí se atoran las toallitas"
+      }
+    },
+    {
+      "from": 15498,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "phrase": "Los medicamentos tirados contaminan el agua más allá de tu casa",
+        "accent": "contaminan el agua",
+        "src": "img/plomero-cosas-que-nunca_s39.png"
+      }
+    },
+    {
+      "from": 16365,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Nunca mezcles esto",
+        "items": [
+          "Cloro con amoníaco: gases tóxicos",
+          "Cloro con vinagre: gas de cloro",
+          "Dos destapadores químicos juntos"
+        ]
+      }
+    },
+    {
+      "from": 17567,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MEDICAMENTOS",
+        "title": "Qué hacer con lo vencido",
+        "steps": [
+          {
+            "title": "Llévalo a una farmacia",
+            "sub": "Muchas los aceptan sin costo"
+          },
+          {
+            "title": "Revisa el empaque",
+            "sub": "Algunos sí indican desecho seguro"
+          },
+          {
+            "title": "Nunca al drenaje",
+            "sub": "Puede llegar al agua potable"
+          }
+        ]
+      }
+    },
+    {
+      "from": 18506,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 5",
+        "phrase": "La pintura y el cemento se endurecen dentro del tubo",
+        "accent": "se endurecen",
+        "src": "img/plomero-cosas-que-nunca_s45.png"
+      }
+    },
+    {
+      "from": 20024,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Nunca eches esto a la cañería",
+        "items": [
+          "Agua hirviendo en tubo de PVC",
+          "Pintura o cemento por el lavabo",
+          "Hoyos grandes de fruta al triturador"
+        ]
+      }
+    },
+    {
+      "from": 21820,
+      "dur": 270,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Bicarbonato con vinagre destapa como por magia",
+        "truth": "Hace espuma pero no tiene fuerza para romper la obstrucción"
+      }
+    },
+    {
+      "from": 23404,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Dónde está el problema?",
+        "left": {
+          "label": "Varios lavabos lentos",
+          "sub": "Grasa acumulada en un tramo compartido"
+        },
+        "right": {
+          "label": "Solo un lavabo lento",
+          "sub": "Obstrucción local en ese desagüe"
+        }
+      }
+    },
+    {
+      "from": 25236,
+      "dur": 180,
+      "comp": "NivelBurbuja",
+      "props": {
+        "theme": "earth",
+        "title": "Revisa esta señal",
+        "verdict": "¡YA ES HORA DE UN PLOMERO!",
+        "sub": "Si pasó más de una vez este mes"
+      }
+    },
+    {
+      "from": 26470,
+      "dur": 330,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Mantenimiento de tu cañería",
+        "steps": [
+          {
+            "when": "Una vez al mes",
+            "text": "Agua caliente del grifo, 2 minutos, en desagües de cocina"
+          },
+          {
+            "when": "Cada 2-3 meses",
+            "text": "Revisa fibras enredadas en el triturador, apagado"
+          },
+          {
+            "when": "Una vez al año",
+            "text": "Cámara de inspección si la casa tiene más de 15 años"
+          }
+        ]
+      }
+    },
+    {
+      "from": 27361,
+      "dur": 180,
+      "comp": "NivelBurbuja",
+      "props": {
+        "theme": "earth",
+        "title": "¿Necesitas revisión anual?",
+        "verdict": "¡SÍ, YA TOCA!",
+        "sub": "Casa de más de 15 años con más de un tapón al año"
+      }
+    },
+    {
+      "from": 28916,
+      "dur": 240,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "LA JUNTA QUE DAÑÉ",
+        "w": 3,
+        "h": 3,
+        "unit": "cm",
+        "label": "JUNTA DE GOMA",
+        "note": "Por exceso de químico en un tubo viejo"
+      }
+    },
+    {
+      "from": 30434,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Por qué cuesta notarlo",
+        "items": [
+          "Nunca falla el primer día",
+          "Uno se acostumbra a hacerlo mal",
+          "Hasta que una noche el agua no baja"
+        ]
+      }
+    }
+  ]
+}
