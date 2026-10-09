@@ -1,0 +1,1601 @@
+{
+  "slug": "mateo-este-liquido-saca",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 34811,
+  "audioSrc": "mateo-este-liquido-saca.mp3",
+  "avatarSrc": "mateo-este-liquido-saca_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 792,
+      "dur": 1050,
+      "clip": 0
+    },
+    {
+      "from": 2083,
+      "dur": 947,
+      "clip": 1050
+    },
+    {
+      "from": 21266,
+      "dur": 889,
+      "clip": 1997
+    },
+    {
+      "from": 31679,
+      "dur": 961,
+      "clip": 2886
+    },
+    {
+      "from": 34317,
+      "dur": 449,
+      "clip": 3847
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 400,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 541,
+      "dur": 251,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1842,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3030,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3360,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s03.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3420,
+      "dur": 257,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3887,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s04.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4089,
+      "dur": 284,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s05.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4373,
+      "dur": 245,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s52.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4618,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s07.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4917,
+      "dur": 282,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s06.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5199,
+      "dur": 314,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s08.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5513,
+      "dur": 290,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s09.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5803,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s10.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6133,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s10.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6499,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s10.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6713,
+      "dur": 375,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s11.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7088,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s12.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7417,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s12.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7611,
+      "dur": 320,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s13.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7931,
+      "dur": 293,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s14.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8224,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s15.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8533,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s15.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8765,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s16.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9095,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s16.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9176,
+      "dur": 288,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s17.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9464,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s18.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9794,
+      "dur": 367,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s18.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10161,
+      "dur": 325,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10486,
+      "dur": 283,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s20.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11009,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s20.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11156,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s21.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11486,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s21.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11581,
+      "dur": 336,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s22.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12127,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s22.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12362,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s23.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12692,
+      "dur": 49,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s23.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12741,
+      "dur": 308,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s24.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13349,
+      "dur": 337,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s24.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13686,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s25.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13907,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s26.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14097,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s27.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14564,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s28.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14894,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s28.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14963,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s29.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15080,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s30.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15263,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s31.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15497,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s32.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15827,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s32.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16081,
+      "dur": 258,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s32.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16339,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s33.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16405,
+      "dur": 268,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s34.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16673,
+      "dur": 269,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s35.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17122,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s35.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17336,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s36.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17490,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s37.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17644,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s38.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17974,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s38.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18034,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s39.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18236,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s40.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18388,
+      "dur": 263,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s41.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18831,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s41.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18995,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s42.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19101,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s43.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19321,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s44.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19451,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s45.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19587,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s46.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19698,
+      "dur": 299,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s47.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19997,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s48.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20455,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s48.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20602,
+      "dur": 280,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s49.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20882,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s50.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21122,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s51.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22155,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s51.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22372,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s53.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22844,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s53.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23093,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s54.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23345,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s55.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23592,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s56.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24074,
+      "dur": 355,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s56.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24429,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s67.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24629,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s58.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25071,
+      "dur": 67,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s57.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25138,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s59.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25283,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s60.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25414,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s61.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25537,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s62.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25764,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s63.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25970,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s64.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26211,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s65.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26591,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s65.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26825,
+      "dur": 259,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s66.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27084,
+      "dur": 303,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s68.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27387,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s70.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27933,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s69.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28095,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s71.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28330,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s72.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28660,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s72.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28753,
+      "dur": 277,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s73.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29030,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s74.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29194,
+      "dur": 255,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s75.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29449,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s76.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29867,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s76.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30049,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s77.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30224,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s78.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30571,
+      "dur": 313,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s78.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30884,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s79.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30991,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s80.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31154,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s81.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31325,
+      "dur": 354,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s82.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32640,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s82.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32970,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s82.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33068,
+      "dur": 354,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s83.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33422,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s84.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33725,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s84.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33887,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s85.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33977,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s86.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34239,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s86.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 34766,
+      "dur": 45,
+      "kind": "image",
+      "src": "img/mateo-este-liquido-saca_s86.png",
+      "kb": 5,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 4,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "INTRO",
+        "title": "El problema del óxido"
+      }
+    },
+    {
+      "from": 656,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "HUMEDAD",
+        "sub": "la verdadera causa del óxido",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 1112,
+      "dur": 180,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "MATEO ARREGLA",
+        "title": "Mateo",
+        "sub": "Reparaciones caseras sin gastar de más"
+      }
+    },
+    {
+      "from": 1823,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ÓXIDO ACTIVO",
+        "sub": "sigue comiendo el metal",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 3199,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PRINCIPIO",
+        "title": "La humedad es la causa"
+      }
+    },
+    {
+      "from": 4373,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "Por qué lijar no alcanza"
+      }
+    },
+    {
+      "from": 4373,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "Por qué no vuelve tan rápido"
+      }
+    },
+    {
+      "from": 7088,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "El convertidor de óxido"
+      }
+    },
+    {
+      "from": 8765,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "TANATO FÉRRICO",
+        "sub": "el compuesto nuevo y estable",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 10597,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "Convertidor o reemplazo"
+      }
+    },
+    {
+      "from": 11581,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CORROSIÓN",
+        "sub": "ya comió el metal por dentro",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 14097,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO A PASO",
+        "title": "El proceso completo"
+      }
+    },
+    {
+      "from": 17872,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CAMBIO DE COLOR",
+        "sub": "la reacción está funcionando",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 21599,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla"
+      }
+    },
+    {
+      "from": 21921,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla"
+      }
+    },
+    {
+      "from": 24230,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERRORES",
+        "title": "Los 5 errores más comunes"
+      }
+    },
+    {
+      "from": 25138,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ERROR N°1",
+        "sub": "pintar antes de tiempo",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 27387,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PLAN",
+        "title": "4 semanas para resolverlo"
+      }
+    },
+    {
+      "from": 30224,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEGURIDAD",
+        "title": "Cuando el óxido es estructural"
+      }
+    },
+    {
+      "from": 31431,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REPASO",
+        "title": "Lo que vimos hoy"
+      }
+    },
+    {
+      "from": 34450,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla"
+      }
+    },
+    {
+      "from": 34654,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla"
+      }
+    },
+    {
+      "from": 34721,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 190,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA VERDAD",
+        "phrase": "La pintura vuelve a fallar exactamente en el mismo lugar",
+        "accent": "mismo lugar",
+        "src": "img/mateo-este-liquido-saca_s01.png"
+      }
+    },
+    {
+      "from": 3677,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "QUÍMICA BÁSICA",
+        "phrase": "El óxido es hierro reaccionando con agua y oxígeno",
+        "accent": "reaccionando",
+        "src": "img/mateo-este-liquido-saca_s04.png"
+      }
+    },
+    {
+      "from": 4707,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "POR DENTRO",
+        "phrase": "La lija no llega al óxido escondido en las picaduras",
+        "accent": "picaduras",
+        "src": "img/mateo-este-liquido-saca_s07.png"
+      }
+    },
+    {
+      "from": 6259,
+      "dur": 240,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "MIDE EL GROSOR ANTES DE AMOLAR",
+        "w": 1,
+        "h": 1,
+        "unit": "cm",
+        "label": "BARROTE",
+        "note": "metal muy fino se debilita con la amoladora"
+      }
+    },
+    {
+      "from": 7207,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PRODUCTO",
+        "phrase": "Se llama convertidor de óxido y cuesta muy poco",
+        "accent": "convertidor de óxido",
+        "src": "img/mateo-este-liquido-saca_s12.png"
+      }
+    },
+    {
+      "from": 8323,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DATO CURIOSO",
+        "phrase": "Lleva el mismo ácido tánico que tiene el té",
+        "accent": "ácido tánico",
+        "src": "img/mateo-este-liquido-saca_s15.png"
+      }
+    },
+    {
+      "from": 8323,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El convertidor saca el óxido de la pieza",
+        "truth": "Lo transforma en una capa estable que ya no avanza igual"
+      }
+    },
+    {
+      "from": 10769,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Es óxido superficial si...",
+        "items": [
+          "Manchas rojizas o anaranjadas",
+          "Sin agujeros visibles",
+          "Parece polvo pegado a la superficie"
+        ]
+      }
+    },
+    {
+      "from": 11917,
+      "dur": 210,
+      "comp": "NivelBurbuja",
+      "props": {
+        "theme": "earth",
+        "title": "Revisa la bisagra",
+        "verdict": "SIN NIVEL",
+        "sub": "si hay juego, el portón ya no cierra parejo"
+      }
+    },
+    {
+      "from": 13049,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MATERIALES",
+        "title": "Lo que vas a necesitar",
+        "steps": [
+          {
+            "title": "Cepillo de alambre",
+            "sub": "para sacar óxido suelto"
+          },
+          {
+            "title": "Desengrasante o alcohol",
+            "sub": "limpia grasa de bisagras"
+          },
+          {
+            "title": "Convertidor, pincel y guantes",
+            "sub": "la base de todo el proceso"
+          }
+        ]
+      }
+    },
+    {
+      "from": 14264,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO A PASO",
+        "title": "El proceso completo",
+        "steps": [
+          {
+            "title": "Limpieza",
+            "sub": "sacar óxido suelto y polvo"
+          },
+          {
+            "title": "Convertidor",
+            "sub": "sobre óxido firme y seco"
+          },
+          {
+            "title": "Pintura final",
+            "sub": "después del secado completo"
+          }
+        ]
+      }
+    },
+    {
+      "from": 15901,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 2",
+        "phrase": "Sin desengrasar, el convertidor no hace contacto parejo",
+        "accent": "desengrasar",
+        "src": "img/mateo-este-liquido-saca_s32.png"
+      }
+    },
+    {
+      "from": 16942,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 3",
+        "phrase": "Se aplica sobre óxido limpio, firme y seco",
+        "accent": "limpio, firme y seco",
+        "src": "img/mateo-este-liquido-saca_s35.png"
+      }
+    },
+    {
+      "from": 18651,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 4",
+        "phrase": "Pintar antes de tiempo arruina todo el trabajo",
+        "accent": "antes de tiempo",
+        "src": "img/mateo-este-liquido-saca_s41.png"
+      }
+    },
+    {
+      "from": 20155,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 5",
+        "title": "Pintura final",
+        "steps": [
+          {
+            "title": "Esmalte sintético",
+            "sub": "para metal, acabado clásico"
+          },
+          {
+            "title": "Antióxido de acabado",
+            "sub": "alternativa directa"
+          },
+          {
+            "title": "Dos manos finas",
+            "sub": "mejor que una mano gruesa"
+          }
+        ]
+      }
+    },
+    {
+      "from": 22634,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEAMOS REALISTAS",
+        "phrase": "Esto retrasa el óxido, no lo elimina para siempre",
+        "accent": "retrasa",
+        "src": "img/mateo-este-liquido-saca_s53.png"
+      }
+    },
+    {
+      "from": 23834,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Cada cuánto hay que repasar?",
+        "left": {
+          "label": "Zona costera",
+          "sub": "revisar cada 6 meses a 1 año"
+        },
+        "right": {
+          "label": "Zona seca del interior",
+          "sub": "el portón aguanta mucho más sin retoque"
+        }
+      }
+    },
+    {
+      "from": 24801,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Los 5 errores que tiran la plata",
+        "items": [
+          "Aplicar sobre óxido suelto sin cepillar",
+          "Pintar antes de que seque del todo",
+          "No desengrasar bisagras y rieles",
+          "Usarlo donde el metal ya perdió grosor",
+          "Aplicarlo con lluvia o rocío encima"
+        ]
+      }
+    },
+    {
+      "from": 26351,
+      "dur": 240,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "MIDE ANTES DE SOLDAR LA PLATINA",
+        "w": 10,
+        "h": 5,
+        "unit": "cm",
+        "label": "PLATINA DE REFUERZO",
+        "note": "que cubra bien la zona debilitada"
+      }
+    },
+    {
+      "from": 27573,
+      "dur": 360,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Plan de 4 semanas",
+        "steps": [
+          {
+            "when": "Semana 1",
+            "text": "Recorré el portón y marcá las zonas oxidadas"
+          },
+          {
+            "when": "Semana 2",
+            "text": "Empezá por bisagras y puntos estructurales"
+          },
+          {
+            "when": "Semana 3",
+            "text": "Seguí con barrotes y paneles visibles"
+          },
+          {
+            "when": "Semana 4",
+            "text": "Revisá el resultado y anotá la fecha"
+          }
+        ]
+      }
+    },
+    {
+      "from": 29657,
+      "dur": 210,
+      "comp": "NivelBurbuja",
+      "props": {
+        "theme": "earth",
+        "title": "Revisa el resultado final",
+        "verdict": "¡A NIVEL!",
+        "sub": "todo el portón retocado y parejo"
+      }
+    },
+    {
+      "from": 30361,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEGURIDAD PRIMERO",
+        "phrase": "El peso de un portón pesado no se trata solo con pintura",
+        "accent": "no se trata solo con pintura",
+        "src": "img/mateo-este-liquido-saca_s78.png"
+      }
+    },
+    {
+      "from": 33485,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Contame tu caso en los comentarios",
+        "items": [
+          "¿Es mancha superficial o agujereada?",
+          "¿Dónde está: bisagra, base o barrote?",
+          "¿Hace cuánto empezó?"
+        ]
+      }
+    },
+    {
+      "from": 34059,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CADA SEMANA",
+        "phrase": "Arreglos de bajo costo para los problemas de siempre",
+        "accent": "bajo costo",
+        "src": "img/mateo-este-liquido-saca_s86.png"
+      }
+    }
+  ]
+}
