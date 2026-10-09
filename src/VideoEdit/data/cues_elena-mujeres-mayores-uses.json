@@ -1,0 +1,1775 @@
+{
+  "slug": "elena-mujeres-mayores-uses",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 42250,
+  "audioSrc": "elena-mujeres-mayores-uses.mp3",
+  "avatarSrc": "elena-mujeres-mayores-uses_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 805,
+      "dur": 679,
+      "clip": 0
+    },
+    {
+      "from": 1648,
+      "dur": 1023,
+      "clip": 679
+    },
+    {
+      "from": 4450,
+      "dur": 772,
+      "clip": 1702
+    },
+    {
+      "from": 31692,
+      "dur": 624,
+      "clip": 2474
+    },
+    {
+      "from": 38147,
+      "dur": 1050,
+      "clip": 3098
+    },
+    {
+      "from": 40382,
+      "dur": 446,
+      "clip": 4148
+    },
+    {
+      "from": 41263,
+      "dur": 943,
+      "clip": 4594
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 330,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 674,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1484,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2671,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2981,
+      "dur": 265,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3456,
+      "dur": 301,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s06.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4027,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4151,
+      "dur": 299,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s07.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5222,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s08.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5516,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s08.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5616,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s09.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5759,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s33.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6005,
+      "dur": 363,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6368,
+      "dur": 291,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s11.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6899,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s11.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7043,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s12.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7256,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s13.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7398,
+      "dur": 314,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s14.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7892,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s15.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8090,
+      "dur": 331,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s16.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8421,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s17.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8751,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s17.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8876,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s18.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9284,
+      "dur": 251,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s18.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9535,
+      "dur": 375,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s19.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9910,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s20.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10240,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s20.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10309,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s21.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10614,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s21.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10944,
+      "dur": 56,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s21.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11000,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s22.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11276,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s23.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11552,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s24.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12025,
+      "dur": 56,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s24.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12081,
+      "dur": 256,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s25.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12337,
+      "dur": 369,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s26.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12706,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s27.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13075,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s28.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13219,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s29.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13549,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s29.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13879,
+      "dur": 292,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s29.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14171,
+      "dur": 299,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s30.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14470,
+      "dur": 218,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s31.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14688,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s32.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15128,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s32.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15458,
+      "dur": 299,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s32.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15757,
+      "dur": 340,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s34.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16097,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s35.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16337,
+      "dur": 290,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s36.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16627,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s37.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16957,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s37.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17040,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s38.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17588,
+      "dur": 245,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s38.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17833,
+      "dur": 321,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s39.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18154,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18484,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s41.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18899,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s41.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19134,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s42.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19404,
+      "dur": 288,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s43.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19692,
+      "dur": 356,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s44.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20048,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s45.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20378,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s45.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20440,
+      "dur": 205,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s46.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20645,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s47.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20975,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s47.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21299,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s47.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21487,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s48.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21729,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s49.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21889,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s50.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22282,
+      "dur": 51,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s50.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22333,
+      "dur": 277,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s51.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22610,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s69.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22808,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s52.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22958,
+      "dur": 233,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s53.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23191,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s54.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23347,
+      "dur": 282,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s55.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23629,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s56.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24016,
+      "dur": 326,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s57.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24342,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s58.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24773,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s58.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24890,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s59.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25220,
+      "dur": 52,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s59.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25272,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s60.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25602,
+      "dur": 59,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s60.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25661,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s61.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25847,
+      "dur": 263,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s62.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26110,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s63.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26189,
+      "dur": 320,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s64.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26509,
+      "dur": 275,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s65.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27054,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s65.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27229,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s66.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27464,
+      "dur": 340,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s67.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27804,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s68.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28134,
+      "dur": 360,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s68.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28884,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s68.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29018,
+      "dur": 268,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s70.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29286,
+      "dur": 334,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s71.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29860,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s71.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30039,
+      "dur": 274,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s72.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30313,
+      "dur": 376,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s73.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30689,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s74.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31019,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s74.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31082,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s75.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31412,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s75.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31519,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s76.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32316,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s77.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32726,
+      "dur": 353,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s77.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33079,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s78.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33379,
+      "dur": 70,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s79.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33629,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s79.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33846,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s80.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34176,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s80.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 34274,
+      "dur": 53,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s85.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 34327,
+      "dur": 284,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s81.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34881,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s81.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 35039,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s82.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 35190,
+      "dur": 321,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s83.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 35781,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s83.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 36022,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s84.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 36352,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s84.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 36682,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s84.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 37048,
+      "dur": 322,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s84.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 37370,
+      "dur": 335,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s86.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 37705,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s87.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 38035,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s87.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 39197,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s88.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 39527,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s88.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 39857,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s88.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 39944,
+      "dur": 303,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s89.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 40247,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s90.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 40828,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s91.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 41077,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s92.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 42206,
+      "dur": 44,
+      "kind": "image",
+      "src": "img/elena-mujeres-mayores-uses_s92.png",
+      "kb": 1,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 18,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Capítulo 1",
+        "title": "La piel que ya no vuelve igual"
+      }
+    },
+    {
+      "from": 805,
+      "dur": 135,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "MÉTODO BIENESTAR NATURAL",
+        "title": "Dra. Elena Vidal",
+        "sub": "Remedios caseros con cautela, siempre con evidencia"
+      }
+    },
+    {
+      "from": 1320,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MENOS COLÁGENO",
+        "sub": "Baja notablemente desde los 45",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 1526,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Capítulo 2",
+        "title": "Mi error con el aceite de oliva solo"
+      }
+    },
+    {
+      "from": 4937,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal"
+      }
+    },
+    {
+      "from": 4981,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal"
+      }
+    },
+    {
+      "from": 5214,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Razón 1",
+        "title": "Le falta un activador"
+      }
+    },
+    {
+      "from": 6005,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SIN ACTIVADOR",
+        "sub": "No avisa a la piel que fabrique colágeno",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 7682,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Razón 2",
+        "title": "La piel madura absorbe distinto"
+      }
+    },
+    {
+      "from": 8421,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "NO PENETRA",
+        "sub": "La barrera cutánea cambia con la edad",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 8999,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Razones 3 y 4",
+        "title": "La constancia importa más que la cantidad"
+      }
+    },
+    {
+      "from": 11470,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "La mezcla",
+        "title": "Dos ingredientes que activan el colágeno"
+      }
+    },
+    {
+      "from": 12174,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "COFACTOR",
+        "sub": "La vitamina C activa la síntesis de colágeno",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 13968,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "FOTOSENSIBILIZACIÓN",
+        "sub": "Riesgo real con limón y sol",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 17040,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Paso a paso",
+        "title": "Cómo prepararla en casa"
+      }
+    },
+    {
+      "from": 21889,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Errores comunes",
+        "title": "5 errores que frenan tus resultados"
+      }
+    },
+    {
+      "from": 24971,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CALIDAD IMPORTA",
+        "sub": "Extra virgen de primera prensada en frío",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 26694,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Tu plan",
+        "title": "¿Es para tu piel, y cómo empezar?"
+      }
+    },
+    {
+      "from": 32308,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Más allá de la piel",
+        "title": "Clima, alimentación y descanso"
+      }
+    },
+    {
+      "from": 35354,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CORTISOL ALTO",
+        "sub": "El estrés frena la reparación nocturna",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 37932,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Para cerrar",
+        "title": "Lo que realmente podés esperar"
+      }
+    },
+    {
+      "from": 40602,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal"
+      }
+    },
+    {
+      "from": 41574,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 494,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Antes de seguir",
+        "phrase": "Mira tus manos. Mira el espejo.",
+        "accent": "Mira el espejo",
+        "src": "img/elena-mujeres-mayores-uses_s02.png"
+      }
+    },
+    {
+      "from": 2771,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "En este video",
+        "phrase": "Por qué el aceite de oliva solo se queda corto",
+        "accent": "se queda corto",
+        "src": "img/elena-mujeres-mayores-uses_s04.png"
+      }
+    },
+    {
+      "from": 3246,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Los errores, en una frase",
+        "items": [
+          "Demasiada cantidad",
+          "Sin prueba de alergia",
+          "Esperar resultados ya",
+          "Mezclar sin orden"
+        ]
+      }
+    },
+    {
+      "from": 3757,
+      "dur": 270,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Esto borra las arrugas para siempre",
+        "truth": "Ayuda a disimular líneas finas y nutrir la piel, con constancia"
+      }
+    },
+    {
+      "from": 5336,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Razón número 1",
+        "phrase": "Al aceite de oliva solo le falta un activador",
+        "accent": "un activador",
+        "src": "img/elena-mujeres-mayores-uses_s08.png"
+      }
+    },
+    {
+      "from": 6659,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "La imagen",
+        "phrase": "Regar sin nutrientes: la planta vive, pero no florece",
+        "accent": "no florece",
+        "src": "img/elena-mujeres-mayores-uses_s11.png"
+      }
+    },
+    {
+      "from": 7712,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Razón número 2",
+        "phrase": "La piel madura absorbe distinto a como absorbía antes",
+        "accent": "absorbe distinto",
+        "src": "img/elena-mujeres-mayores-uses_s15.png"
+      }
+    },
+    {
+      "from": 9104,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Razón número 3",
+        "phrase": "La piel responde a la constancia, no a golpes aislados",
+        "accent": "la constancia",
+        "src": "img/elena-mujeres-mayores-uses_s18.png"
+      }
+    },
+    {
+      "from": 10434,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Razón número 4",
+        "phrase": "Mezclar sin orden no le da a la piel un estímulo constante",
+        "accent": "sin orden",
+        "src": "img/elena-mujeres-mayores-uses_s21.png"
+      }
+    },
+    {
+      "from": 11695,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Método Bienestar Natural",
+        "title": "La combinación que sí funciona",
+        "steps": [
+          {
+            "title": "Aceite de oliva",
+            "sub": "Sella e hidrata la piel"
+          },
+          {
+            "title": "Vitamina C natural",
+            "sub": "Cofactor de la síntesis de colágeno"
+          },
+          {
+            "title": "Rosa mosqueta",
+            "sub": "Estimula la renovación celular"
+          }
+        ]
+      }
+    },
+    {
+      "from": 12835,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Atención",
+        "phrase": "El limón directo puede manchar la piel madura sin protección solar",
+        "accent": "puede manchar",
+        "src": "img/elena-mujeres-mayores-uses_s29.png"
+      }
+    },
+    {
+      "from": 14918,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "El segundo ingrediente",
+        "phrase": "Rosa mosqueta: una renovación celular más gentil",
+        "accent": "más gentil",
+        "src": "img/elena-mujeres-mayores-uses_s32.png"
+      }
+    },
+    {
+      "from": 17228,
+      "dur": 360,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "La receta",
+        "title": "Lo que necesitas",
+        "steps": [
+          {
+            "title": "2 cucharadas",
+            "sub": "Aceite de oliva extra virgen"
+          },
+          {
+            "title": "1 cucharadita",
+            "sub": "Aceite de rosa mosqueta"
+          },
+          {
+            "title": "3 a 4 gotas",
+            "sub": "Jugo de limón, solo de noche"
+          }
+        ]
+      }
+    },
+    {
+      "from": 18569,
+      "dur": 330,
+      "comp": "RutinaDia",
+      "props": {
+        "theme": "earth",
+        "title": "Tu rutina, simple",
+        "slots": [
+          {
+            "time": "Noche",
+            "text": "Rostro limpio y apenas húmedo"
+          },
+          {
+            "time": "2 minutos",
+            "text": "Masaje ascendente, sin bajar"
+          },
+          {
+            "time": "Toda la noche",
+            "text": "Dejar actuar y retirar con paño tibio"
+          },
+          {
+            "time": "Si es de día",
+            "text": "15 minutos antes del maquillaje"
+          }
+        ]
+      }
+    },
+    {
+      "from": 21059,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Cómo conservarla",
+        "items": [
+          "Frasco de vidrio oscuro y bien cerrado",
+          "Cantidades pequeñas, para 4 o 5 usos",
+          "Dura alrededor de una semana",
+          "Si cambia de olor o color, descártala"
+        ]
+      }
+    },
+    {
+      "from": 22102,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Los errores más comunes",
+        "phrase": "Los he visto repetirse una y otra vez",
+        "accent": "repetirse",
+        "src": "img/elena-mujeres-mayores-uses_s50.png"
+      }
+    },
+    {
+      "from": 23716,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "5 errores que frenan tus resultados",
+        "items": [
+          "Usar demasiada cantidad",
+          "Saltarse la prueba de alergia",
+          "Esperar resultados en una semana",
+          "Aceite de oliva de mala calidad",
+          "Mezclar con activos fuertes sin espaciar"
+        ]
+      }
+    },
+    {
+      "from": 24533,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Ten paciencia",
+        "phrase": "Los primeros cambios sutiles llegan recién en la tercera semana",
+        "accent": "tercera semana",
+        "src": "img/elena-mujeres-mayores-uses_s58.png"
+      }
+    },
+    {
+      "from": 26784,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "¿Es para tu piel?",
+        "items": [
+          "Piel que tira o se siente tirante",
+          "Líneas que se marcan al gesticular",
+          "Menos rebote al pellizcar suavemente",
+          "Piel grasa: mejor buscar otra alternativa"
+        ]
+      }
+    },
+    {
+      "from": 28494,
+      "dur": 390,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Plan de 4 semanas",
+        "steps": [
+          {
+            "when": "Semana 1",
+            "text": "3 veces por semana, de noche"
+          },
+          {
+            "when": "Semana 2",
+            "text": "4 veces por semana si la piel respondió bien"
+          },
+          {
+            "when": "Semana 3",
+            "text": "Foto con luz natural para comparar"
+          },
+          {
+            "when": "Semana 4",
+            "text": "Evalúa y decide la frecuencia de mantenimiento"
+          }
+        ]
+      }
+    },
+    {
+      "from": 29620,
+      "dur": 240,
+      "comp": "RutinaDia",
+      "props": {
+        "theme": "earth",
+        "title": "Tu rutina, simple",
+        "slots": [
+          {
+            "time": "Mañana",
+            "text": "La piel se nota más suave al tacto"
+          },
+          {
+            "time": "Noche",
+            "text": "Seguís con 4 aplicaciones por semana"
+          }
+        ]
+      }
+    },
+    {
+      "from": 32456,
+      "dur": 270,
+      "comp": "RutinaDia",
+      "props": {
+        "theme": "earth",
+        "title": "Tu rutina, simple",
+        "slots": [
+          {
+            "time": "Clima húmedo",
+            "text": "Usa la mezcla con menos frecuencia"
+          },
+          {
+            "time": "Clima seco o invierno",
+            "text": "Puede llegar a aplicaciones diarias"
+          }
+        ]
+      }
+    },
+    {
+      "from": 33449,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Ajustá a tu piel",
+        "phrase": "Lo que le funciona a tu vecina no tiene por qué funcionarte a ti",
+        "accent": "no tiene por qué",
+        "src": "img/elena-mujeres-mayores-uses_s79.png"
+      }
+    },
+    {
+      "from": 34611,
+      "dur": 270,
+      "comp": "RutinaDia",
+      "props": {
+        "theme": "earth",
+        "title": "Tu rutina, simple",
+        "slots": [
+          {
+            "time": "Comidas",
+            "text": "Suficiente proteína"
+          },
+          {
+            "time": "Frutas y verduras",
+            "text": "Aportan vitamina C"
+          },
+          {
+            "time": "Todo el día",
+            "text": "Buena hidratación"
+          }
+        ]
+      }
+    },
+    {
+      "from": 35511,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "El sueño también repara",
+        "left": {
+          "label": "Dormir bien",
+          "sub": "Favorece la reparación celular nocturna"
+        },
+        "right": {
+          "label": "Dormir poco, con estrés",
+          "sub": "Cortisol alto, resultados más lentos"
+        }
+      }
+    },
+    {
+      "from": 36808,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Una mezcla casera borra arrugas profundas",
+        "truth": "Ayuda a disimular líneas finas y mejorar la textura"
+      }
+    }
+  ]
+}
