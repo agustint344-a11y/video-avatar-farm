@@ -1,0 +1,1558 @@
+{
+  "slug": "plomero-echa-agua-oxigenada",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 33189,
+  "audioSrc": "plomero-echa-agua-oxigenada.mp3",
+  "avatarSrc": "plomero-echa-agua-oxigenada_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1012,
+      "dur": 1660,
+      "clip": 0
+    },
+    {
+      "from": 12256,
+      "dur": 676,
+      "clip": 1660
+    },
+    {
+      "from": 28594,
+      "dur": 474,
+      "clip": 2336
+    },
+    {
+      "from": 32390,
+      "dur": 759,
+      "clip": 2810
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 66,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 431,
+      "dur": 251,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 682,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 779,
+      "dur": 233,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2672,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s05.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2904,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s06.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3089,
+      "dur": 275,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s07.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3364,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s08.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3924,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s09.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4079,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s10.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4301,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s11.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4426,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s12.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4579,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s13.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4952,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s14.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5222,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s15.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5552,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s16.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5662,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s17.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5765,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s18.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6224,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s18.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6293,
+      "dur": 80,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s19.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6373,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s20.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6542,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s21.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6716,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s22.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6925,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s23.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7050,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s24.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7445,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s24.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7600,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s25.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7756,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s26.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7962,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s27.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8155,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s28.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8325,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s29.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8622,
+      "dur": 283,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s29.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8905,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s30.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9094,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s31.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9186,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s32.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9558,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s32.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10025,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s39.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10209,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s35.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10409,
+      "dur": 91,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s36.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10500,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s37.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10662,
+      "dur": 350,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s38.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11012,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s40.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11424,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s34.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11569,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s41.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11785,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s42.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11971,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s43.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12148,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s44.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12932,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s45.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13055,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s46.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13385,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s47.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13833,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s33.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14011,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s48.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14176,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s49.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14507,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s49.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14644,
+      "dur": 348,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s50.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14992,
+      "dur": 320,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s51.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15672,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s52.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15925,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s53.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16124,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s54.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16454,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s54.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16531,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s55.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16933,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s55.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17064,
+      "dur": 359,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s56.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17423,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s57.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17645,
+      "dur": 274,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s58.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17919,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s59.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18383,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s59.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18605,
+      "dur": 365,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s60.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18970,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s61.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19186,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19543,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s62.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19795,
+      "dur": 324,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s63.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20119,
+      "dur": 342,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s64.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20461,
+      "dur": 284,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s79.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20985,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s65.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21178,
+      "dur": 293,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s66.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21471,
+      "dur": 283,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s67.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21994,
+      "dur": 264,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s67.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22258,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s68.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22588,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s68.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22918,
+      "dur": 58,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s68.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22976,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s69.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23153,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s87.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23290,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s70.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23650,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s70.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23869,
+      "dur": 356,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s71.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24225,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s72.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24630,
+      "dur": 275,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s72.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24905,
+      "dur": 344,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s73.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25249,
+      "dur": 371,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s74.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25620,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s75.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25950,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s75.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26128,
+      "dur": 335,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s76.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26463,
+      "dur": 260,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s77.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26723,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s78.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27053,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s78.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27557,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s78.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27698,
+      "dur": 321,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s80.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28019,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s81.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28349,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s81.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28463,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s82.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28529,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s83.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29068,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s84.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29479,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s84.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29676,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s85.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29849,
+      "dur": 363,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s86.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30422,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s86.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30752,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s86.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31082,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s86.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31412,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s86.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31742,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s86.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31853,
+      "dur": 271,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s88.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32124,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s89.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33149,
+      "dur": 40,
+      "kind": "image",
+      "src": "img/plomero-echa-agua-oxigenada_s89.png",
+      "kb": 0,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 5,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MATEO EL PLOMERO",
+        "title": "El truco del botiquín"
+      }
+    },
+    {
+      "from": 1012,
+      "dur": 135,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "MATEO EL PLOMERO",
+        "title": "Mateo",
+        "sub": "15 años destapando tubos y tanques"
+      }
+    },
+    {
+      "from": 4579,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "Por qué sí funciona"
+      }
+    },
+    {
+      "from": 4983,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "PERÓXIDO DE HIDRÓGENO 3%",
+        "sub": "el ingrediente activo",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 6293,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SARRO",
+        "sub": "costras duras de calcio y magnesio",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 7600,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "Diagnóstico por síntomas"
+      }
+    },
+    {
+      "from": 8735,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "BIOPELÍCULA",
+        "sub": "capa viscosa en la línea de agua",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 12521,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero"
+      }
+    },
+    {
+      "from": 12719,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero"
+      }
+    },
+    {
+      "from": 12924,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "La receta exacta"
+      }
+    },
+    {
+      "from": 14806,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "2 A 3 TAZAS",
+        "sub": "la cantidad exacta",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 17882,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "title": "Lo que nunca debes hacer"
+      }
+    },
+    {
+      "from": 18605,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "GASES TÓXICOS",
+        "sub": "cloro + vinagre o amoníaco",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 20603,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MITOS",
+        "title": "Lo que no sirve"
+      }
+    },
+    {
+      "from": 22976,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEÑALES",
+        "title": "Cuándo llamar a un plomero"
+      }
+    },
+    {
+      "from": 24905,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "COSTOS",
+        "title": "Cuánto cuesta en realidad"
+      }
+    },
+    {
+      "from": 25484,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "1 A 2 DÓLARES",
+        "sub": "costo del tratamiento",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 26906,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MANTENIMIENTO",
+        "title": "Una vez al mes"
+      }
+    },
+    {
+      "from": 28463,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "FLOTADOR ATASCADO",
+        "sub": "revísalo cada mes",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 28773,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero"
+      }
+    },
+    {
+      "from": 28875,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero"
+      }
+    },
+    {
+      "from": 29060,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CONFESIÓN",
+        "title": "Mi error de novato"
+      }
+    },
+    {
+      "from": 30556,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CIERRE",
+        "title": "Repaso rápido"
+      }
+    },
+    {
+      "from": 33096,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 251,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL TRUCO DEL BOTIQUÍN",
+        "phrase": "Cuesta menos de lo que te cuesta un café",
+        "accent": "menos de un café",
+        "src": "img/plomero-echa-agua-oxigenada_s02.png"
+      }
+    },
+    {
+      "from": 3554,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Hoy aprendes 4 cosas",
+        "items": [
+          "Por qué funciona el agua oxigenada",
+          "Cómo diagnosticar tu problema",
+          "La receta exacta paso a paso",
+          "Errores de seguridad que debes evitar"
+        ]
+      }
+    },
+    {
+      "from": 3684,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El agua oxigenada desinfecta como el cloro puro",
+        "truth": "Ayuda, pero no es desinfectante de grado hospitalario"
+      }
+    },
+    {
+      "from": 4772,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "QUÍMICA BÁSICA",
+        "phrase": "Es un oxidante suave que rompe la biopelícula",
+        "accent": "oxidante suave",
+        "src": "img/plomero-echa-agua-oxigenada_s14.png"
+      }
+    },
+    {
+      "from": 5954,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Qué sí y qué no hace?",
+        "left": {
+          "label": "SÍ hace",
+          "sub": "Biopelícula, moho y manchas leves"
+        },
+        "right": {
+          "label": "NO hace",
+          "sub": "Sarro duro ni tuberías tapadas"
+        }
+      }
+    },
+    {
+      "from": 7235,
+      "dur": 210,
+      "comp": "NivelBurbuja",
+      "props": {
+        "theme": "earth",
+        "title": "Revisa el nivel del agua",
+        "verdict": "¡A NIVEL!",
+        "sub": "La línea marca dónde se forma la biopelícula"
+      }
+    },
+    {
+      "from": 8412,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "phrase": "Anillo rosado, naranja o negro es biopelícula",
+        "accent": "biopelícula",
+        "src": "img/plomero-echa-agua-oxigenada_s29.png"
+      }
+    },
+    {
+      "from": 9288,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Es limpieza o es pieza?",
+        "left": {
+          "label": "Silbido o agua que no para",
+          "sub": "Flotador o válvula vieja"
+        },
+        "right": {
+          "label": "Anillo de color en la línea",
+          "sub": "Biopelícula, se limpia con H2O2"
+        }
+      }
+    },
+    {
+      "from": 9755,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Costo real",
+        "left": {
+          "label": "Lo haces tú",
+          "sub": "Agua oxigenada: 1 a 2 dólares"
+        },
+        "right": {
+          "label": "Llamas a un plomero",
+          "sub": "Visita: 40 a 80 dólares"
+        }
+      }
+    },
+    {
+      "from": 11184,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "4TO SÍNTOMA",
+        "phrase": "Manchas óxido tras días sin usarse: sedimento de hierro",
+        "accent": "sedimento de hierro",
+        "src": "img/plomero-echa-agua-oxigenada_s40.png"
+      }
+    },
+    {
+      "from": 13473,
+      "dur": 360,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA RECETA",
+        "title": "Pasos 1 a 3",
+        "steps": [
+          {
+            "title": "Paso 1",
+            "sub": "Cierra la llave de paso"
+          },
+          {
+            "title": "Paso 2",
+            "sub": "Vacía el tanque y seca el fondo"
+          },
+          {
+            "title": "Paso 3",
+            "sub": "Vierte 2 a 3 tazas de agua oxigenada"
+          }
+        ]
+      }
+    },
+    {
+      "from": 14327,
+      "dur": 180,
+      "comp": "NivelBurbuja",
+      "props": {
+        "theme": "earth",
+        "title": "Checa cuánta agua queda",
+        "verdict": "NIVEL BAJO, LISTO",
+        "sub": "Así el producto no se diluye"
+      }
+    },
+    {
+      "from": 15312,
+      "dur": 360,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA RECETA",
+        "title": "Pasos 4 a 6",
+        "steps": [
+          {
+            "title": "Paso 4",
+            "sub": "Deja actuar 30 min a 2 horas"
+          },
+          {
+            "title": "Paso 5",
+            "sub": "Talla con cepillo suave"
+          },
+          {
+            "title": "Paso 6",
+            "sub": "Enjuaga con 2 o 3 descargas"
+          }
+        ]
+      }
+    },
+    {
+      "from": 16693,
+      "dur": 240,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "MIDE EL TANQUE",
+        "w": 20,
+        "h": 35,
+        "unit": "cm",
+        "label": "TANQUE",
+        "note": "Para saber cuánta agua oxigenada necesitas"
+      }
+    },
+    {
+      "from": 18143,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEGURIDAD",
+        "phrase": "Nunca mezcles cloro con vinagre o amoníaco",
+        "accent": "nunca mezcles",
+        "src": "img/plomero-echa-agua-oxigenada_s59.png"
+      }
+    },
+    {
+      "from": 19333,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEGURIDAD",
+        "phrase": "El PVC se deforma con agua hirviendo",
+        "accent": "se deforma",
+        "src": "img/plomero-echa-agua-oxigenada_s62.png"
+      }
+    },
+    {
+      "from": 20745,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El refresco de cola limpia igual o mejor",
+        "truth": "Deja residuo de azúcar que atrae más suciedad"
+      }
+    },
+    {
+      "from": 21754,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Si el agua se ve limpia, por dentro está todo bien",
+        "truth": "La biopelícula se esconde bajo la línea de agua"
+      }
+    },
+    {
+      "from": 23380,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Llama a un plomero si…",
+        "items": [
+          "El agua sigue bajando lenta",
+          "Hay gorgoteos en otros desagües",
+          "Hay humedad en el piso"
+        ]
+      }
+    },
+    {
+      "from": 24390,
+      "dur": 240,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "MIDE ANTES DE COMPRAR",
+        "w": 10,
+        "h": 15,
+        "unit": "cm",
+        "label": "FLOTADOR",
+        "note": "Lleva las medidas a la ferretería"
+      }
+    },
+    {
+      "from": 27227,
+      "dur": 330,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Mantenimiento mensual",
+        "steps": [
+          {
+            "when": "Cada mes",
+            "text": "Abre y revisa la línea de agua"
+          },
+          {
+            "when": "Si ves color",
+            "text": "Repite el agua oxigenada esa semana"
+          },
+          {
+            "when": "Cada 3 meses",
+            "text": "Tratamiento con vinagre si hay sarro"
+          },
+          {
+            "when": "Siempre",
+            "text": "Mueve el flotador con la mano"
+          }
+        ]
+      }
+    },
+    {
+      "from": 29239,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR DE NOVATO",
+        "phrase": "Mezclé cloro con amoníaco y salí corriendo del baño",
+        "accent": "salí corriendo",
+        "src": "img/plomero-echa-agua-oxigenada_s84.png"
+      }
+    },
+    {
+      "from": 30212,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA LECCIÓN",
+        "phrase": "La prisa es exactamente cuando pasan los accidentes",
+        "accent": "pasan los accidentes",
+        "src": "img/plomero-echa-agua-oxigenada_s86.png"
+      }
+    },
+    {
+      "from": 32301,
+      "dur": 89,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RECUERDA",
+        "phrase": "Revisa el tanque una vez al mes",
+        "accent": "una vez al mes",
+        "src": "img/plomero-echa-agua-oxigenada_s89.png"
+      }
+    }
+  ]
+}
