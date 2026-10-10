@@ -1,0 +1,1568 @@
+{
+  "slug": "plomero-razones-para-echar",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 34570,
+  "audioSrc": "plomero-razones-para-echar.mp3",
+  "avatarSrc": "plomero-razones-para-echar_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 786,
+      "dur": 592,
+      "clip": 0
+    },
+    {
+      "from": 2268,
+      "dur": 895,
+      "clip": 592
+    },
+    {
+      "from": 4290,
+      "dur": 567,
+      "clip": 1487
+    },
+    {
+      "from": 6107,
+      "dur": 631,
+      "clip": 2054
+    },
+    {
+      "from": 14912,
+      "dur": 478,
+      "clip": 2685
+    },
+    {
+      "from": 31748,
+      "dur": 946,
+      "clip": 3163
+    },
+    {
+      "from": 33836,
+      "dur": 690,
+      "clip": 4109
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 2,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 212,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 418,
+      "dur": 368,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1378,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1598,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1898,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2000,
+      "dur": 268,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3163,
+      "dur": 334,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s06.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3497,
+      "dur": 259,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s07.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4026,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4222,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s08.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4857,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s09.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5234,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s09.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5402,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5550,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s11.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5928,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s11.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6738,
+      "dur": 57,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s12.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6975,
+      "dur": 369,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s47.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7344,
+      "dur": 320,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s13.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7664,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s14.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7994,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s14.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8333,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s15.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8582,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s16.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8912,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s16.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8990,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s17.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9457,
+      "dur": 340,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s18.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9797,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s19.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9971,
+      "dur": 299,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s20.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10450,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s21.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10697,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s22.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10917,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s23.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11031,
+      "dur": 323,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s24.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11714,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s24.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11762,
+      "dur": 281,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s25.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12043,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s26.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12184,
+      "dur": 286,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s27.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12470,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s28.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12887,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s28.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13096,
+      "dur": 250,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s29.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13346,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s30.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13673,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s30.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13897,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s31.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14312,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s31.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14508,
+      "dur": 236,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s32.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14744,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s33.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15390,
+      "dur": 289,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s34.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15679,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s43.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16162,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s35.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16399,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s36.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16585,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s37.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16827,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s38.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17052,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s39.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17725,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s40.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17856,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s41.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18231,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s41.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18320,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s42.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18650,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s42.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18887,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s44.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19159,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s44.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19489,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s44.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19637,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s45.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19709,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s57.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19894,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s46.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20273,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s46.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20603,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s46.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20933,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s46.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21217,
+      "dur": 233,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s48.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21450,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s49.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21862,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s49.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22022,
+      "dur": 348,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s50.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22550,
+      "dur": 229,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s51.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22779,
+      "dur": 310,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s52.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23089,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s53.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23366,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s53.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23560,
+      "dur": 301,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s54.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23861,
+      "dur": 272,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s55.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24133,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s56.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24703,
+      "dur": 365,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s56.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25068,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s58.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25321,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s59.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25532,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s60.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25685,
+      "dur": 238,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s61.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25923,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26253,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s62.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26313,
+      "dur": 266,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s63.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26579,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s64.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26964,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s64.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27114,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s65.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27253,
+      "dur": 333,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s66.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27586,
+      "dur": 254,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s67.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27840,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s68.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28032,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s69.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28213,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s70.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28333,
+      "dur": 361,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s71.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28694,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s72.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29024,
+      "dur": 327,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s72.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29351,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s73.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29492,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s74.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29578,
+      "dur": 290,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s75.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29868,
+      "dur": 301,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s76.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30169,
+      "dur": 285,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s77.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30454,
+      "dur": 287,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s78.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30741,
+      "dur": 311,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s79.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31052,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s80.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31175,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s81.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31341,
+      "dur": 251,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s82.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31592,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s83.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32694,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s84.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32810,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s85.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33051,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s86.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33260,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s88.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33458,
+      "dur": 215,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s89.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33673,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s90.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 34526,
+      "dur": 44,
+      "kind": "image",
+      "src": "img/plomero-razones-para-echar_s87.png",
+      "kb": 5,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 786,
+      "dur": 135,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "MATEO EL PLOMERO",
+        "title": "Mateo",
+        "sub": "15 años destapando desagües"
+      }
+    },
+    {
+      "from": 1370,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SÍNTOMAS",
+        "title": "Lo que tu cañería te avisa"
+      }
+    },
+    {
+      "from": 1780,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "HUMEDAD ESTANCADA",
+        "sub": "señal de agua caliente en el desagüe",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 2194,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CASO REAL",
+        "title": "La clienta del huevo podrido"
+      }
+    },
+    {
+      "from": 6107,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 6732,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "No corroe tus tuberías"
+      }
+    },
+    {
+      "from": 8582,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "OXIDANTE",
+        "sub": "rompe bacterias y biofilm",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 8582,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MANTENIMIENTO PREVENTIVO",
+        "sub": "no sustituye la limpieza física",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 9797,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "BIOFILM",
+        "sub": "capa que reduce el tubo",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 11234,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RECETA",
+        "title": "Bicarbonato + agua oxigenada"
+      }
+    },
+    {
+      "from": 11973,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "15 MINUTOS",
+        "sub": "tiempo exacto de espera",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 12470,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEGURIDAD",
+        "title": "Lo que nunca debes mezclar"
+      }
+    },
+    {
+      "from": 14912,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 18779,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "Qué te dice el burbujeo"
+      }
+    },
+    {
+      "from": 19894,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MITOS",
+        "title": "Lo que no sirve de nada"
+      }
+    },
+    {
+      "from": 24133,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SÍNTOMAS",
+        "title": "Diagnóstico rápido por casa"
+      }
+    },
+    {
+      "from": 26579,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "COSTOS",
+        "title": "Cuándo llamar a un plomero"
+      }
+    },
+    {
+      "from": 27586,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "COSTO DE DIAGNÓSTICO",
+        "sub": "como una cena para dos",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 30454,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CONFESIÓN",
+        "title": "Mi error de novato"
+      }
+    },
+    {
+      "from": 33458,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 34476,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 2,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "GUARDA ESTO",
+        "phrase": "No la tires: esta botella vale más de lo que crees",
+        "accent": "No la tires",
+        "src": "img/plomero-razones-para-echar_s01.png"
+      }
+    },
+    {
+      "from": 3756,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CASO REAL",
+        "title": "Lo que hice en casa de mi clienta",
+        "steps": [
+          {
+            "title": "Revisar con cámara",
+            "sub": "Encontré pelo y jabón bajo el sifón"
+          },
+          {
+            "title": "Limpiar el sifón",
+            "sub": "Quité la capa de bacterias y gas"
+          },
+          {
+            "title": "Dejar instrucción simple",
+            "sub": "Agua oxigenada para que no regrese"
+          }
+        ]
+      }
+    },
+    {
+      "from": 5054,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEAMOS HONESTOS",
+        "phrase": "Esto no es una cura milagrosa para cualquier atasco",
+        "accent": "no es una cura milagrosa",
+        "src": "img/plomero-razones-para-echar_s09.png"
+      }
+    },
+    {
+      "from": 5628,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que SÍ resuelve el agua oxigenada",
+        "items": [
+          "Olores de huevo podrido",
+          "Baba y biofilm en el sifón",
+          "Sarro liviano de jabón",
+          "Mantenimiento preventivo"
+        ]
+      }
+    },
+    {
+      "from": 6795,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "phrase": "El agua oxigenada no corroe tus tuberías",
+        "accent": "no corroe",
+        "src": "img/plomero-razones-para-echar_s12.png"
+      }
+    },
+    {
+      "from": 8153,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "phrase": "Elimina el olor en el origen, no lo tapa",
+        "accent": "en el origen",
+        "src": "img/plomero-razones-para-echar_s15.png"
+      }
+    },
+    {
+      "from": 9217,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "¿Qué es el biofilm?",
+        "items": [
+          "Capa viscosa dentro del sifón",
+          "Se forma con pelo, jabón y grasa",
+          "Con el tiempo se endurece como costra",
+          "Reduce el diámetro útil del tubo"
+        ]
+      }
+    },
+    {
+      "from": 10270,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "phrase": "Es segura para usar con niños y mascotas en casa",
+        "accent": "segura",
+        "src": "img/plomero-razones-para-echar_s21.png"
+      }
+    },
+    {
+      "from": 11354,
+      "dur": 360,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RECETA EXACTA",
+        "title": "Para lavabo o fregadero",
+        "steps": [
+          {
+            "title": "Bicarbonato",
+            "sub": "Media taza, esperar 5 minutos"
+          },
+          {
+            "title": "Agua oxigenada",
+            "sub": "Media taza al 3%, dejar actuar 15 minutos"
+          },
+          {
+            "title": "Agua caliente",
+            "sub": "Un minuto del grifo, nunca hirviendo"
+          }
+        ]
+      }
+    },
+    {
+      "from": 12617,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "NUNCA mezcles esto",
+        "items": [
+          "Cloro con amoníaco",
+          "Cloro con vinagre",
+          "Cloro con agua oxigenada",
+          "Genera gases tóxicos"
+        ]
+      }
+    },
+    {
+      "from": 13493,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEGURIDAD",
+        "phrase": "Agua hirviendo directo en PVC puede deformar la tubería",
+        "accent": "nunca agua hirviendo",
+        "src": "img/plomero-razones-para-echar_s30.png"
+      }
+    },
+    {
+      "from": 14012,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 6",
+        "title": "Moho negro en la regadera",
+        "steps": [
+          {
+            "title": "Moja el cepillo",
+            "sub": "Agua oxigenada sin diluir"
+          },
+          {
+            "title": "Talla las manchas",
+            "sub": "Sin hacer fuerza, el oxidante trabaja solo"
+          },
+          {
+            "title": "Deja actuar 10 minutos",
+            "sub": "Enjuaga y repite al día siguiente si hace falta"
+          }
+        ]
+      }
+    },
+    {
+      "from": 15892,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 7",
+        "title": "El tanque del inodoro también se limpia",
+        "steps": [
+          {
+            "title": "Vierte una taza",
+            "sub": "Agua oxigenada directo al tanque"
+          },
+          {
+            "title": "Deja reposar",
+            "sub": "Media hora antes de jalar la cadena"
+          },
+          {
+            "title": "Protege el flotador",
+            "sub": "No reseca el empaque como el cloro"
+          }
+        ]
+      }
+    },
+    {
+      "from": 17183,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 8",
+        "title": "Mantén limpia tu lavadora",
+        "steps": [
+          {
+            "title": "Un cuarto de taza",
+            "sub": "Agua oxigenada en el ciclo vacío"
+          },
+          {
+            "title": "Agua lo más caliente posible",
+            "sub": "Una vez al mes"
+          },
+          {
+            "title": "Evita la pasta de pelusa",
+            "sub": "Que tapa filtro y manguera"
+          }
+        ]
+      }
+    },
+    {
+      "from": 17365,
+      "dur": 360,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Ronda de mantenimiento mensual",
+        "steps": [
+          {
+            "when": "Fregadero",
+            "text": "Media taza de bicarbonato + media de agua oxigenada"
+          },
+          {
+            "when": "Cada lavabo",
+            "text": "Misma receta, 15 minutos de espera"
+          },
+          {
+            "when": "Cada regadera",
+            "text": "Repite en la coladera"
+          },
+          {
+            "when": "Lavadora",
+            "text": "Un cuarto de taza en ciclo vacío caliente"
+          }
+        ]
+      }
+    },
+    {
+      "from": 17991,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Cuánto cuesta cuidar tus desagües?",
+        "left": {
+          "label": "Agua oxigenada",
+          "sub": "Rinde para varios tratamientos en toda la casa"
+        },
+        "right": {
+          "label": "Destapacaños de marca",
+          "sub": "Cuesta el triple y desgasta la tubería"
+        }
+      }
+    },
+    {
+      "from": 18979,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 10",
+        "phrase": "Si burbujea con fuerza, hay materia orgánica ahí abajo",
+        "accent": "burbujea con fuerza",
+        "src": "img/plomero-razones-para-echar_s44.png"
+      }
+    },
+    {
+      "from": 20093,
+      "dur": 180,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El agua oxigenada destapa cualquier atasco, incluidas raíces",
+        "truth": "Necesitas sonda mecánica o reparación; no disuelve cabello compactado"
+      }
+    },
+    {
+      "from": 21037,
+      "dur": 180,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Mientras más concentrada, mejor funciona",
+        "truth": "Usa siempre la de farmacia al 3%; las industriales irritan piel y ojos"
+      }
+    },
+    {
+      "from": 21682,
+      "dur": 180,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Reemplaza la limpieza física del sifón",
+        "truth": "Es mantenimiento preventivo, no sustituye desenroscar y limpiar"
+      }
+    },
+    {
+      "from": 22370,
+      "dur": 180,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Funciona igual en clima frío que en cálido",
+        "truth": "En frío actúa más lento: deja actuar 15 a 20 minutos"
+      }
+    },
+    {
+      "from": 23186,
+      "dur": 180,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Sirve para potabilizar el agua del tinaco o cisterna",
+        "truth": "No está pensada para agua de consumo; usa productos aprobados"
+      }
+    },
+    {
+      "from": 24433,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Cuál es tu síntoma?",
+        "left": {
+          "label": "Baja lento, sin ruido ni olor",
+          "sub": "Sarro mineral: usa vinagre caliente (nunca junto al agua oxigenada)"
+        },
+        "right": {
+          "label": "Baja normal, pero con olor",
+          "sub": "Biofilm bacteriano: bicarbonato + agua oxigenada"
+        }
+      }
+    },
+    {
+      "from": 26664,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Cuándo llamar a un plomero",
+        "items": [
+          "El problema vuelve igual tras 2 intentos",
+          "Sube agua por otro desagüe al usar uno",
+          "Manchas de humedad bajo el lavabo",
+          "El agua no baja para nada"
+        ]
+      }
+    }
+  ]
+}
