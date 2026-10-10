@@ -27,6 +27,6 @@ while true; do
   ID0=${L%% *}; case " $OLDRUNS " in *" $ID0 "*) L="";; esac  # ignorar corridas viejas (re-render sin commit nuevo)
   case "$L" in *completed*) echo "RUN $L"; break;; esac; sleep 90
 done
-gh release download "$SLUG" --repo agustint344-a11y/video-avatar-farm --pattern "$SLUG.mp4" --dir D:/CLAUDE/out --clobber
+bash D:/CLAUDE/estudio/tools/dl_release.sh "$SLUG" || gh release download "$SLUG" --repo agustint344-a11y/video-avatar-farm --pattern "$SLUG.mp4" --dir D:/CLAUDE/out --clobber  # descarga reanudable (gh se corta con PROTOCOL_ERROR)
 ls -la "D:/CLAUDE/out/$SLUG.mp4"
 echo "FIN $SLUG"
