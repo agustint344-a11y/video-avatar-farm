@@ -1,0 +1,1532 @@
+{
+  "slug": "vital-doctor-explains-what",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 34887,
+  "audioSrc": "vital-doctor-explains-what.mp3",
+  "avatarSrc": "vital-doctor-explains-what_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 2605,
+      "dur": 929,
+      "clip": 0
+    },
+    {
+      "from": 4134,
+      "dur": 682,
+      "clip": 929
+    },
+    {
+      "from": 17202,
+      "dur": 577,
+      "clip": 1611
+    },
+    {
+      "from": 29630,
+      "dur": 935,
+      "clip": 2188
+    },
+    {
+      "from": 32412,
+      "dur": 569,
+      "clip": 3123
+    },
+    {
+      "from": 33175,
+      "dur": 627,
+      "clip": 3692
+    },
+    {
+      "from": 33869,
+      "dur": 975,
+      "clip": 4319
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 5,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 245,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 413,
+      "dur": 305,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 718,
+      "dur": 362,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1080,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1238,
+      "dur": 280,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1518,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1979,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2186,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2427,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3534,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s07.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3864,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s07.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4015,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s08.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4816,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s09.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5026,
+      "dur": 319,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s10.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5555,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s10.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5730,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s11.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5964,
+      "dur": 302,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s12.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6536,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s12.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6635,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s13.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6965,
+      "dur": 71,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s13.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7246,
+      "dur": 291,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s13.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7537,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s14.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7882,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s14.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7942,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s58.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8087,
+      "dur": 318,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s15.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8645,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s15.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8975,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s15.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9050,
+      "dur": 280,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s16.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9330,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s17.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9727,
+      "dur": 259,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s17.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9986,
+      "dur": 313,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s18.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10299,
+      "dur": 321,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s19.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10620,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s20.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11063,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s20.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11244,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s21.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11574,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s21.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11629,
+      "dur": 233,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s22.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11862,
+      "dur": 286,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s23.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12388,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s23.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12636,
+      "dur": 358,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s24.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12994,
+      "dur": 284,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s25.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13548,
+      "dur": 307,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s27.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13855,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s28.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14185,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s28.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14286,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s29.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14870,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s26.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15143,
+      "dur": 282,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s30.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15425,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s31.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15690,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s31.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15821,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s32.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16043,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s33.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16399,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s33.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16729,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s33.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16803,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s34.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16948,
+      "dur": 254,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s35.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17779,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s36.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18295,
+      "dur": 315,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s36.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18610,
+      "dur": 301,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s37.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18911,
+      "dur": 326,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s38.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19237,
+      "dur": 308,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s39.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19545,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19875,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s40.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19980,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s41.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20379,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s41.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20476,
+      "dur": 80,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s48.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20556,
+      "dur": 292,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s42.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20848,
+      "dur": 346,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s43.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21194,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s44.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21524,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s44.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21620,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s45.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21950,
+      "dur": 57,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s45.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22007,
+      "dur": 271,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s46.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22278,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s47.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22608,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s47.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22938,
+      "dur": 372,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s47.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23310,
+      "dur": 264,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s49.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23814,
+      "dur": 279,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s49.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24093,
+      "dur": 275,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s50.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24368,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s51.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24589,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s52.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24913,
+      "dur": 291,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s52.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25204,
+      "dur": 319,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s53.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25793,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s53.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25926,
+      "dur": 257,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s54.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26393,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s54.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26614,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s55.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26944,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s55.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27338,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s55.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27508,
+      "dur": 233,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s56.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27741,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s57.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28071,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s57.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28178,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s59.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28388,
+      "dur": 254,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s60.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28642,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s61.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29068,
+      "dur": 272,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s61.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29340,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s62.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29450,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s63.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30565,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s64.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30709,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s65.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30912,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s66.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31159,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s67.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31590,
+      "dur": 254,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s67.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31844,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s68.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32015,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s69.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32181,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s70.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32981,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s70.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33802,
+      "dur": 67,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s71.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 34844,
+      "dur": 43,
+      "kind": "image",
+      "src": "img/vital-doctor-explains-what_s71.png",
+      "kb": 0,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1148,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "A PATIENT'S STORY",
+        "title": "Meet Diane"
+      }
+    },
+    {
+      "from": 2605,
+      "dur": 135,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "VITAL AFTER 60",
+        "title": "Dr. Alan Brooks",
+        "sub": "Practical, honest guidance for life after sixty"
+      }
+    },
+    {
+      "from": 2765,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Vital After 60"
+      }
+    },
+    {
+      "from": 3808,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "THE TOPIC",
+        "title": "What We'll Cover Today"
+      }
+    },
+    {
+      "from": 4525,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Vital After 60"
+      }
+    },
+    {
+      "from": 4897,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REASON 1",
+        "title": "Muscle After Sixty"
+      }
+    },
+    {
+      "from": 5730,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "3–8%",
+        "sub": "Muscle lost per decade after 30",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 6635,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "7–8g PROTEIN",
+        "sub": "Per two tablespoons",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 8252,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REASON 2",
+        "title": "Heart Health"
+      }
+    },
+    {
+      "from": 9986,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REASON 3",
+        "title": "Blood Sugar"
+      }
+    },
+    {
+      "from": 10451,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "LOW GLYCEMIC",
+        "sub": "Slows the sugar spike",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 12820,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CHOOSING A JAR",
+        "title": "Which Jar to Buy"
+      }
+    },
+    {
+      "from": 15271,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PORTION",
+        "title": "How Much Is Enough"
+      }
+    },
+    {
+      "from": 15749,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "190–200 CAL",
+        "sub": "Per two tablespoons",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 17383,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Vital After 60"
+      }
+    },
+    {
+      "from": 17872,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "WHO SHOULD BE CAREFUL",
+        "title": "Five Groups to Watch"
+      }
+    },
+    {
+      "from": 20476,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "POTASSIUM & PHOSPHORUS",
+        "sub": "Kidneys filter these",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 23310,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "COMMON MISTAKES",
+        "title": "Five Mistakes to Avoid"
+      }
+    },
+    {
+      "from": 26911,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "QUICK CHECK",
+        "title": "Does This Fit Your Life"
+      }
+    },
+    {
+      "from": 30557,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RECAP",
+        "title": "What We Covered"
+      }
+    },
+    {
+      "from": 30912,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "1–2 TBSP",
+        "sub": "A reasonable daily target",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 33307,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Vital After 60"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 5,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ONE SPOON A DAY",
+        "phrase": "What it really does to your muscle, heart, and blood sugar.",
+        "accent": "muscle, heart, and blood sugar",
+        "src": "img/vital-doctor-explains-what_s01.png"
+      }
+    },
+    {
+      "from": 1739,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "A COMMON STORY",
+        "phrase": "\"I just feel weaker than I used to be.\"",
+        "accent": "weaker",
+        "src": "img/vital-doctor-explains-what_s05.png"
+      }
+    },
+    {
+      "from": 5345,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "THE MEDICAL TERM",
+        "phrase": "Doctors call this gradual muscle loss sarcopenia.",
+        "accent": "sarcopenia",
+        "src": "img/vital-doctor-explains-what_s10.png"
+      }
+    },
+    {
+      "from": 6266,
+      "dur": 270,
+      "comp": "WeekPlanner",
+      "props": {
+        "theme": "earth",
+        "title": "Protein + movement, most days",
+        "days": [
+          {
+            "d": "Mon",
+            "t": "Protein breakfast"
+          },
+          {
+            "d": "Tue",
+            "t": "Short walk"
+          },
+          {
+            "d": "Wed",
+            "t": "Rest",
+            "rest": true
+          },
+          {
+            "d": "Thu",
+            "t": "Light resistance"
+          },
+          {
+            "d": "Fri",
+            "t": "Protein breakfast"
+          }
+        ]
+      }
+    },
+    {
+      "from": 7036,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "THE NUMBERS",
+        "phrase": "Two tablespoons contain about seven to eight grams of protein.",
+        "accent": "seven to eight grams",
+        "src": "img/vital-doctor-explains-what_s13.png"
+      }
+    },
+    {
+      "from": 7672,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Check your breakfast",
+        "items": [
+          "Is there real protein, or mostly carbs?",
+          "Cereal, toast, or fruit alone is low-protein",
+          "If the answer is no protein, it's worth fixing"
+        ]
+      }
+    },
+    {
+      "from": 8405,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Saturated vs. unsaturated fat",
+        "left": {
+          "label": "Butter / fatty red meat",
+          "sub": "Saturated fat"
+        },
+        "right": {
+          "label": "Peanut butter / olive oil",
+          "sub": "Unsaturated fat"
+        }
+      }
+    },
+    {
+      "from": 9517,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "A SMALL SWAP",
+        "phrase": "Swap the butter on your toast for natural peanut butter.",
+        "accent": "small swap",
+        "src": "img/vital-doctor-explains-what_s17.png"
+      }
+    },
+    {
+      "from": 10793,
+      "dur": 270,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "THE SECOND MEAL EFFECT",
+        "phrase": "Pairing protein and fat with carbs can blunt the sugar spike.",
+        "accent": "blunt the sugar spike",
+        "src": "img/vital-doctor-explains-what_s20.png"
+      }
+    },
+    {
+      "from": 12148,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "\"Reduced fat\" peanut butter is the healthier choice.",
+        "truth": "Many reduced-fat versions add sugar to replace the lost flavor."
+      }
+    },
+    {
+      "from": 13278,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Read the ingredient list",
+        "items": [
+          "Just peanuts, maybe a little salt",
+          "Watch for added sugar high on the list",
+          "Avoid hydrogenated oils",
+          "Skip \"reduced fat\" versions"
+        ]
+      }
+    },
+    {
+      "from": 14442,
+      "dur": 218,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "A GASTROPARESIS NOTE",
+        "phrase": "High-fat foods can sit longer in a slowed stomach.",
+        "accent": "slowed stomach",
+        "src": "img/vital-doctor-explains-what_s47.png"
+      }
+    },
+    {
+      "from": 14660,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Crunchy vs. smooth",
+        "left": {
+          "label": "Crunchy",
+          "sub": "Texture preference only"
+        },
+        "right": {
+          "label": "Smooth",
+          "sub": "Same nutrition"
+        }
+      }
+    },
+    {
+      "from": 15480,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CALORIE-DENSE",
+        "phrase": "Two tablespoons run about one hundred ninety calories.",
+        "accent": "one hundred ninety calories",
+        "src": "img/vital-doctor-explains-what_s31.png"
+      }
+    },
+    {
+      "from": 16159,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "A SENSIBLE PORTION",
+        "phrase": "One to two tablespoons a day is a reasonable target.",
+        "accent": "one to two tablespoons",
+        "src": "img/vital-doctor-explains-what_s33.png"
+      }
+    },
+    {
+      "from": 18025,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Who should be careful",
+        "items": [
+          "Peanut or tree nut allergy",
+          "High blood pressure or heart failure (sodium)",
+          "Chronic kidney disease",
+          "Calorie-controlled weight plans",
+          "History of oxalate kidney stones"
+        ]
+      }
+    },
+    {
+      "from": 20139,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "KIDNEYS FILTER THIS",
+        "phrase": "Peanuts contain potassium and phosphorus the kidneys must filter.",
+        "accent": "potassium and phosphorus",
+        "src": "img/vital-doctor-explains-what_s41.png"
+      }
+    },
+    {
+      "from": 23574,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "\"Natural\" means unlimited.",
+        "truth": "It's still calorie-dense — the tablespoon still matters."
+      }
+    },
+    {
+      "from": 24673,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Pair it wisely",
+        "left": {
+          "label": "Whole grain toast, apple, oatmeal",
+          "sub": "Supports blood sugar"
+        },
+        "right": {
+          "label": "Jelly, honey, chocolate spread",
+          "sub": "Cancels the benefit"
+        }
+      }
+    },
+    {
+      "from": 25523,
+      "dur": 270,
+      "comp": "WeekPlanner",
+      "props": {
+        "theme": "earth",
+        "title": "A week of smart pairings",
+        "days": [
+          {
+            "d": "Mon",
+            "t": "Toast + peanut butter"
+          },
+          {
+            "d": "Tue",
+            "t": "Apple + peanut butter"
+          },
+          {
+            "d": "Wed",
+            "t": "Rest",
+            "rest": true
+          },
+          {
+            "d": "Thu",
+            "t": "Oatmeal + peanut butter"
+          },
+          {
+            "d": "Fri",
+            "t": "Rest",
+            "rest": true
+          }
+        ]
+      }
+    },
+    {
+      "from": 26183,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DO THE MATH",
+        "phrase": "Four tablespoons a day adds about five hundred extra calories a week.",
+        "accent": "five hundred extra calories",
+        "src": "img/vital-doctor-explains-what_s54.png"
+      }
+    },
+    {
+      "from": 27068,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Ask yourself four questions",
+        "items": [
+          "Any peanut or tree nut allergy?",
+          "Sodium, potassium, or phosphorus restricted?",
+          "On a tightly measured calorie plan?",
+          "History of gastroparesis?"
+        ]
+      }
+    },
+    {
+      "from": 28798,
+      "dur": 270,
+      "comp": "WeekPlanner",
+      "props": {
+        "theme": "earth",
+        "title": "Your gentle week",
+        "days": [
+          {
+            "d": "Mon",
+            "t": "PB on toast"
+          },
+          {
+            "d": "Tue",
+            "t": "Rest",
+            "rest": true
+          },
+          {
+            "d": "Wed",
+            "t": "PB in oatmeal"
+          },
+          {
+            "d": "Thu",
+            "t": "Rest",
+            "rest": true
+          },
+          {
+            "d": "Fri",
+            "t": "PB as apple dip"
+          }
+        ]
+      }
+    },
+    {
+      "from": 31380,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NO MIRACLES",
+        "phrase": "No single food changes the trajectory of your health.",
+        "accent": "No single food",
+        "src": "img/vital-doctor-explains-what_s67.png"
+      }
+    }
+  ]
+}
