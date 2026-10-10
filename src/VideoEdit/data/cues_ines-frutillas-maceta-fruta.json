@@ -1,0 +1,1925 @@
+{
+  "slug": "ines-frutillas-maceta-fruta",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 43021,
+  "audioSrc": "ines-frutillas-maceta-fruta.mp3",
+  "avatarSrc": "ines-frutillas-maceta-fruta_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 779,
+      "dur": 93,
+      "clip": 0
+    },
+    {
+      "from": 1159,
+      "dur": 363,
+      "clip": 93
+    },
+    {
+      "from": 2292,
+      "dur": 274,
+      "clip": 456
+    },
+    {
+      "from": 39565,
+      "dur": 563,
+      "clip": 730
+    },
+    {
+      "from": 40265,
+      "dur": 402,
+      "clip": 1293
+    },
+    {
+      "from": 40920,
+      "dur": 204,
+      "clip": 1695
+    },
+    {
+      "from": 41936,
+      "dur": 649,
+      "clip": 1899
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 457,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 655,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 872,
+      "dur": 287,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1522,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s02.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1748,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s03.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2114,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s03.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2566,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s03.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2896,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3174,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3504,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3834,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s03.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3996,
+      "dur": 317,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4553,
+      "dur": 275,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s04.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4828,
+      "dur": 269,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s05.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5097,
+      "dur": 260,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s06.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5357,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s07.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5596,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s08.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5920,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s08.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6037,
+      "dur": 279,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s09.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6316,
+      "dur": 319,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s10.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6635,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s11.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6866,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s12.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7260,
+      "dur": 341,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s12.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7601,
+      "dur": 293,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s13.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7894,
+      "dur": 355,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s14.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8249,
+      "dur": 310,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s15.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8559,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s16.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8933,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s16.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9080,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s17.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9410,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s17.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9527,
+      "dur": 301,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s18.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9828,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s19.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10298,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s19.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10366,
+      "dur": 357,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s20.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10723,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s21.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11053,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s21.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11142,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s22.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11472,
+      "dur": 91,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s22.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11563,
+      "dur": 263,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s23.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11826,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s24.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11911,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s84.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12117,
+      "dur": 310,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s25.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12637,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s25.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12967,
+      "dur": 51,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s25.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13018,
+      "dur": 376,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s26.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13394,
+      "dur": 357,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s27.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13751,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s28.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13975,
+      "dur": 303,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s29.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14518,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s29.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14620,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s30.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15129,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s30.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15459,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s30.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15519,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s31.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15751,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s32.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16081,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s32.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16171,
+      "dur": 277,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s33.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16448,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s34.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16810,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s34.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17140,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s34.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17342,
+      "dur": 326,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s35.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17668,
+      "dur": 328,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s36.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17996,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s37.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18326,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s37.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18395,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s38.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18577,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s58.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19036,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s58.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19196,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s39.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19496,
+      "dur": 354,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s40.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19850,
+      "dur": 321,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s41.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20171,
+      "dur": 281,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s42.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20692,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s42.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20842,
+      "dur": 355,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s43.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21197,
+      "dur": 337,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s44.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21534,
+      "dur": 358,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s45.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21892,
+      "dur": 250,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s46.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22142,
+      "dur": 288,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s47.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22430,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s48.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22760,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s48.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23090,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s48.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23462,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s49.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23711,
+      "dur": 303,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s50.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24014,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s51.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24344,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s51.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24392,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s52.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24722,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s52.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24788,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s53.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24860,
+      "dur": 54,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s74.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25184,
+      "dur": 268,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s74.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25452,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s54.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25782,
+      "dur": 238,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s54.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26020,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s55.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26341,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s55.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26611,
+      "dur": 317,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s56.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27138,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s56.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27468,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s57.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27798,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s57.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28023,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s59.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28244,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s60.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28385,
+      "dur": 358,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s61.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28983,
+      "dur": 238,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s61.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29221,
+      "dur": 292,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s62.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29513,
+      "dur": 353,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s63.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29866,
+      "dur": 338,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s64.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30474,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s64.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30673,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s65.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30866,
+      "dur": 349,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s66.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31215,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s67.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31545,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s67.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31678,
+      "dur": 302,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s68.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31980,
+      "dur": 266,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s69.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32246,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s70.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32646,
+      "dur": 256,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s70.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32902,
+      "dur": 263,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s71.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33165,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s72.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33495,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s72.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33550,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s73.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33977,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s73.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34253,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s75.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 34583,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s75.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 34705,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s76.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 35111,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s76.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 35201,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s77.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 35531,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s77.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 35609,
+      "dur": 348,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s78.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 35957,
+      "dur": 269,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s79.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 36226,
+      "dur": 336,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s80.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 36562,
+      "dur": 289,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s81.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 36851,
+      "dur": 297,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s82.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 37388,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s82.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 37718,
+      "dur": 52,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s82.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 37770,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s83.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 38228,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s83.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 38558,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s83.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 38888,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s83.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 39066,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s85.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 39383,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s85.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 40128,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s85.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 40667,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s85.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 41124,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s85.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 41454,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s85.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 41665,
+      "dur": 271,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s86.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 42585,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s86.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 42915,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/ines-frutillas-maceta-fruta_s86.png",
+      "kb": 5,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PROBLEMA",
+        "title": "Hojas sí, frutillas no"
+      }
+    },
+    {
+      "from": 2292,
+      "dur": 135,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "HUERTA REAL",
+        "title": "Inés",
+        "sub": "Huertera de balcón, consejos prácticos"
+      }
+    },
+    {
+      "from": 3659,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 3702,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 3996,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "La variedad equivocada"
+      }
+    },
+    {
+      "from": 8249,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "Falta de sol directo"
+      }
+    },
+    {
+      "from": 8966,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CARÍSIMA",
+        "sub": "La fruta consume mucha energía",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 10723,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MENOS DE 5 HORAS",
+        "sub": "Ese es tu problema principal",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 13751,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "Maceta demasiado chica"
+      }
+    },
+    {
+      "from": 15751,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "20-25 CM",
+        "sub": "Volumen mínimo recomendado",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 18577,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "title": "Demasiados estolones"
+      }
+    },
+    {
+      "from": 18577,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 6",
+        "title": "Polinización incompleta"
+      }
+    },
+    {
+      "from": 20291,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MÁS DE 2-3",
+        "sub": "Momento de cortar estolones",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 22894,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 23177,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 5",
+        "title": "Fertilizante con mucho nitrógeno"
+      }
+    },
+    {
+      "from": 25754,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "POTASIO",
+        "sub": "El nutriente clave para floración",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 31215,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "UN MINUTO POR PLANTA",
+        "sub": "La polinización manual es rápida",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 31980,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "BONUS",
+        "title": "El riego irregular"
+      }
+    },
+    {
+      "from": 33310,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PLAN",
+        "title": "Semana a semana"
+      }
+    },
+    {
+      "from": 34494,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "DOS O TRES",
+        "sub": "Rara vez son las seis razones juntas",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 37946,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEAMOS HONESTAS",
+        "title": "Lo que esto no promete"
+      }
+    },
+    {
+      "from": 38882,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MEJORA REAL",
+        "sub": "No es magia ni para siempre",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 40160,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REPASO",
+        "title": "Las seis razones, rápido"
+      }
+    },
+    {
+      "from": 41936,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CIERRE",
+        "title": "Ahora te toca a ti"
+      }
+    },
+    {
+      "from": 42622,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 217,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "El problema típico",
+        "phrase": "Muchas hojas, flores que caen, cero frutillas",
+        "accent": "cero frutillas",
+        "src": "img/ines-frutillas-maceta-fruta_s01.png"
+      }
+    },
+    {
+      "from": 1904,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Lección aprendida",
+        "phrase": "Casi todos los errores, uno encima del otro",
+        "accent": "uno encima del otro",
+        "src": "img/ines-frutillas-maceta-fruta_s03.png"
+      }
+    },
+    {
+      "from": 2994,
+      "dur": 180,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que vamos a repasar hoy",
+        "items": [
+          "Variedad y floración",
+          "Sol directo",
+          "Tamaño de maceta",
+          "Estolones y fertilizante",
+          "Polinización manual"
+        ]
+      }
+    },
+    {
+      "from": 4313,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Dos tipos de frutillas",
+        "left": {
+          "label": "Día corto",
+          "sub": "Una cosecha fuerte en primavera"
+        },
+        "right": {
+          "label": "Remontantes",
+          "sub": "Flores y frutas escalonadas varios meses"
+        }
+      }
+    },
+    {
+      "from": 5710,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "¿Es un problema de variedad?",
+        "items": [
+          "¿Floreció alguna vez?",
+          "¿Las flores se cayeron sin cuajar?",
+          "¿Floreció en época rara y luego nada?"
+        ]
+      }
+    },
+    {
+      "from": 6990,
+      "dur": 270,
+      "comp": "CalendarioSiembra",
+      "props": {
+        "theme": "earth",
+        "title": "¿Cuándo sembrar frutillas?",
+        "crop": "Frutillas en maceta",
+        "sow": [
+          4,
+          5,
+          8
+        ],
+        "harvest": [
+          9,
+          10,
+          11,
+          12
+        ],
+        "note": "Las remontantes extienden la cosecha más allá de la primavera"
+      }
+    },
+    {
+      "from": 8693,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Regla de oro",
+        "phrase": "Seis horas de sol directo, no luz filtrada",
+        "accent": "Seis horas",
+        "src": "img/ines-frutillas-maceta-fruta_s16.png"
+      }
+    },
+    {
+      "from": 10028,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Diagnóstico",
+        "title": "¿Cuántas horas de sol real recibes?",
+        "steps": [
+          {
+            "title": "Observa cada hora",
+            "sub": "Desde que sale el sol hasta que se va"
+          },
+          {
+            "title": "Anota luz directa",
+            "sub": "No sombra, no reflejo de vidrios"
+          },
+          {
+            "title": "Menos de 5 horas",
+            "sub": "Ese es tu problema principal"
+          }
+        ]
+      }
+    },
+    {
+      "from": 12427,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Si tu balcón tiene poco sol",
+        "items": [
+          "Busca el rincón más soleado",
+          "Prioriza las frutillas sobre otras plantas",
+          "Usa una base con ruedas",
+          "Ajusta tus expectativas de cosecha"
+        ]
+      }
+    },
+    {
+      "from": 14278,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Maceta chica vs. maceta adecuada",
+        "left": {
+          "label": "16-18 cm",
+          "sub": "Solo un punto de partida"
+        },
+        "right": {
+          "label": "20-25 cm",
+          "sub": "Espacio cómodo para raíz, flor y fruto"
+        }
+      }
+    },
+    {
+      "from": 14859,
+      "dur": 270,
+      "comp": "CrecimientoPlanta",
+      "props": {
+        "theme": "earth",
+        "title": "De plantín a cosecha: por qué importa el tamaño",
+        "stages": [
+          {
+            "label": "PLANTÍN",
+            "sub": "Recién comprado, maceta chica"
+          },
+          {
+            "label": "RAÍCES LLENAS",
+            "sub": "Hojas sobrepasan el borde"
+          },
+          {
+            "label": "TRASPLANTE",
+            "sub": "Maceta de 20-25 cm"
+          },
+          {
+            "label": "FLOR Y FRUTO",
+            "sub": "Con espacio para crecer"
+          }
+        ]
+      }
+    },
+    {
+      "from": 16600,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Error común",
+        "phrase": "Demasiadas plantas compitiendo por la misma maceta",
+        "accent": "compitiendo",
+        "src": "img/ines-frutillas-maceta-fruta_s34.png"
+      }
+    },
+    {
+      "from": 18766,
+      "dur": 270,
+      "comp": "CrecimientoPlanta",
+      "props": {
+        "theme": "earth",
+        "title": "A dónde va la energía de la planta",
+        "stages": [
+          {
+            "label": "HOJA",
+            "sub": "Barata de producir"
+          },
+          {
+            "label": "ESTOLÓN",
+            "sub": "Consume mucha energía"
+          },
+          {
+            "label": "FLOR",
+            "sub": "Compite por el mismo presupuesto"
+          },
+          {
+            "label": "FRUTO",
+            "sub": "La más cara de todas"
+          }
+        ]
+      }
+    },
+    {
+      "from": 20452,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Solución",
+        "title": "Cómo cortar estolones",
+        "steps": [
+          {
+            "title": "Corta la mayoría",
+            "sub": "Con tijera limpia, cerca de la planta madre"
+          },
+          {
+            "title": "Deja uno o dos",
+            "sub": "Solo si quieres multiplicar plantas"
+          },
+          {
+            "title": "Repite cada 10-14 días",
+            "sub": "La planta sigue generando estolones"
+          }
+        ]
+      }
+    },
+    {
+      "from": 23222,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Más fertilizante siempre es mejor",
+        "truth": "El nitrógeno en exceso da hojas, no frutas"
+      }
+    },
+    {
+      "from": 24914,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Diagnóstico rápido",
+        "title": "Lee la etiqueta de tu fertilizante",
+        "steps": [
+          {
+            "title": "Tres números: N-P-K",
+            "sub": "Nitrógeno, fósforo, potasio"
+          },
+          {
+            "title": "20-10-10 = para hojas",
+            "sub": "Pensado para follaje"
+          },
+          {
+            "title": "10-10-15 = para fruto",
+            "sub": "Potasio más alto, mejor para floración"
+          }
+        ]
+      }
+    },
+    {
+      "from": 26101,
+      "dur": 240,
+      "comp": "CalendarioSiembra",
+      "props": {
+        "theme": "earth",
+        "title": "Calendario de fertilización",
+        "crop": "Frutillas en floración",
+        "sow": [
+          8,
+          9
+        ],
+        "harvest": [
+          10,
+          11,
+          12,
+          1
+        ],
+        "note": "Cambia a fertilizante de floración antes de que aparezcan las flores"
+      }
+    },
+    {
+      "from": 26928,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Error común",
+        "phrase": "Dejar de fertilizar apenas aparecen hojas lindas",
+        "accent": "Dejar de fertilizar",
+        "src": "img/ines-frutillas-maceta-fruta_s56.png"
+      }
+    },
+    {
+      "from": 28743,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Polinización completa vs. incompleta",
+        "left": {
+          "label": "Completa",
+          "sub": "Frutita con forma de corazón"
+        },
+        "right": {
+          "label": "Incompleta",
+          "sub": "Fruta chica, deforme o sin cuajar"
+        }
+      }
+    },
+    {
+      "from": 30204,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Polinización manual",
+        "title": "Cómo hacerlo con un pincel",
+        "steps": [
+          {
+            "title": "Pincel chico y suave",
+            "sub": "De maquillaje o de pintura, limpio"
+          },
+          {
+            "title": "Roza el centro de cada flor",
+            "sub": "Unos segundos por flor"
+          },
+          {
+            "title": "Cada 2-3 días",
+            "sub": "Mientras haya flores abiertas"
+          }
+        ]
+      }
+    },
+    {
+      "from": 32436,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Un riego irregular no afecta si lo demás está bien",
+        "truth": "El vaivén de sequía y exceso hace abortar flores"
+      }
+    },
+    {
+      "from": 33797,
+      "dur": 180,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Semana 1: solo observar",
+        "items": [
+          "Horas de sol directo",
+          "Estolones activos",
+          "Etiqueta del fertilizante",
+          "Flores y qué les pasa",
+          "Tu rutina de riego"
+        ]
+      }
+    },
+    {
+      "from": 34841,
+      "dur": 270,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Plan semana a semana",
+        "steps": [
+          {
+            "when": "Semana 1",
+            "text": "Observar y diagnosticar, sin cambiar nada"
+          },
+          {
+            "when": "Semana 2",
+            "text": "Resolver sol y tamaño de maceta"
+          },
+          {
+            "when": "Semana 3",
+            "text": "Cortar estolones y cambiar fertilizante"
+          },
+          {
+            "when": "Semana 4",
+            "text": "Sumar polinización manual"
+          },
+          {
+            "when": "Semana 5 en adelante",
+            "text": "Paciencia y constancia"
+          }
+        ]
+      }
+    },
+    {
+      "from": 37148,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Ten paciencia",
+        "phrase": "Las primeras flores cuajan entre tres y seis semanas",
+        "accent": "tres y seis semanas",
+        "src": "img/ines-frutillas-maceta-fruta_s82.png"
+      }
+    },
+    {
+      "from": 38018,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Vas a tener una cosecha enorme garantizada",
+        "truth": "Es una mejora real, no magia ni para siempre"
+      }
+    },
+    {
+      "from": 39143,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Resultado real",
+        "phrase": "De tres frutillas en la temporada a un puñado por semana",
+        "accent": "un puñado por semana",
+        "src": "img/ines-frutillas-maceta-fruta_s85.png"
+      }
+    }
+  ]
+}
