@@ -1,0 +1,1684 @@
+{
+  "slug": "nonna-nunca-vuelvas-comprar",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 43406,
+  "audioSrc": "nonna-nunca-vuelvas-comprar.mp3",
+  "avatarSrc": "nonna-nunca-vuelvas-comprar_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 959,
+      "dur": 871,
+      "clip": 0
+    },
+    {
+      "from": 3655,
+      "dur": 865,
+      "clip": 871
+    },
+    {
+      "from": 19783,
+      "dur": 1050,
+      "clip": 1736
+    },
+    {
+      "from": 29685,
+      "dur": 770,
+      "clip": 2786
+    },
+    {
+      "from": 36601,
+      "dur": 1050,
+      "clip": 3556
+    },
+    {
+      "from": 41674,
+      "dur": 1046,
+      "clip": 4606
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 330,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 614,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 884,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1830,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2108,
+      "dur": 264,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s03.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2372,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2562,
+      "dur": 360,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2922,
+      "dur": 50,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s17.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2972,
+      "dur": 272,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s06.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3514,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s06.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4520,
+      "dur": 218,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s07.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4738,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s08.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5194,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s63.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5410,
+      "dur": 275,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s09.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5685,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s10.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5934,
+      "dur": 311,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s11.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6245,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s12.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6494,
+      "dur": 56,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s13.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6730,
+      "dur": 304,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s13.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7034,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s14.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7364,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s14.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7438,
+      "dur": 354,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s15.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7792,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s16.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8122,
+      "dur": 256,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s16.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8618,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s16.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8866,
+      "dur": 283,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s18.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9149,
+      "dur": 275,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s19.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9424,
+      "dur": 354,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s20.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9778,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s21.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10245,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s21.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10407,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s22.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10626,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s23.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10956,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s23.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11107,
+      "dur": 294,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s24.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11401,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s25.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11629,
+      "dur": 292,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s25.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11921,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s26.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12251,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s26.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12314,
+      "dur": 323,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s27.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12637,
+      "dur": 370,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s28.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13007,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s29.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13393,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s29.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13563,
+      "dur": 245,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s30.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13808,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s31.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14138,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s31.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14215,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s32.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14545,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s32.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14639,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s33.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15119,
+      "dur": 329,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s33.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15448,
+      "dur": 314,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s34.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15762,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s35.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16092,
+      "dur": 70,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s35.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16162,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s36.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16492,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s36.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16720,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s37.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17175,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s37.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17306,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s38.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17636,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s38.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17751,
+      "dur": 258,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s39.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18009,
+      "dur": 298,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s40.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18307,
+      "dur": 236,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s41.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18723,
+      "dur": 334,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s41.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19057,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s42.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19305,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s43.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19635,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s43.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20833,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s43.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20980,
+      "dur": 341,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s44.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21321,
+      "dur": 366,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s45.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21927,
+      "dur": 376,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s45.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22303,
+      "dur": 338,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s46.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22641,
+      "dur": 287,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s47.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22928,
+      "dur": 260,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s48.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23188,
+      "dur": 287,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s49.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23715,
+      "dur": 255,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s49.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23970,
+      "dur": 255,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s50.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24225,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s51.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24555,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s51.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24634,
+      "dur": 304,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s52.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24938,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s53.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25200,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s53.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25530,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s53.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25659,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s54.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25989,
+      "dur": 59,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s54.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26048,
+      "dur": 353,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s55.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26401,
+      "dur": 265,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s56.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26666,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s57.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27001,
+      "dur": 272,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s57.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27273,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s78.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27447,
+      "dur": 320,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s58.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27767,
+      "dur": 319,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s59.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28086,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s60.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28416,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s60.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28492,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s61.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28890,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s61.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29090,
+      "dur": 278,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s62.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29578,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s62.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30455,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s62.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30641,
+      "dur": 353,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s64.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30994,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s65.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31324,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s65.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31456,
+      "dur": 243,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s66.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31699,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s67.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32083,
+      "dur": 264,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s67.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32347,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s68.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32609,
+      "dur": 358,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s69.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32967,
+      "dur": 367,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s70.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33334,
+      "dur": 342,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s71.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33676,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s72.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34080,
+      "dur": 285,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s72.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34365,
+      "dur": 255,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s73.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 34620,
+      "dur": 350,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s74.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34970,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s75.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 35246,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s76.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 35666,
+      "dur": 320,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s76.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 35986,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s77.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 36316,
+      "dur": 285,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s77.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 37651,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s77.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 37981,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s77.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 38311,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s77.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 38423,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s79.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 38609,
+      "dur": 250,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s80.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 38859,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s81.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 39189,
+      "dur": 229,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s81.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 39418,
+      "dur": 355,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s82.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 39953,
+      "dur": 362,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s82.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 40315,
+      "dur": 367,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s83.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 40682,
+      "dur": 302,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s84.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 40984,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s85.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 41314,
+      "dur": 51,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s85.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 41365,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s86.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 42720,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s86.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 43050,
+      "dur": 356,
+      "kind": "image",
+      "src": "img/nonna-nunca-vuelvas-comprar_s86.png",
+      "kb": 0,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1207,
+      "dur": 135,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "LA NONNA (COCINA)",
+        "title": "La Nonna",
+        "sub": "Pesto a la antigua, sin frasco"
+      }
+    },
+    {
+      "from": 2216,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL MÉTODO",
+        "title": "El truco de la vecina genovesa"
+      }
+    },
+    {
+      "from": 4077,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de La Nonna (cocina)",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 4512,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "La albahaca húmeda"
+      }
+    },
+    {
+      "from": 6494,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "El calor de las cuchillas"
+      }
+    },
+    {
+      "from": 7034,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CALOR",
+        "sub": "oxida la clorofila",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 9032,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "El orden del aceite"
+      }
+    },
+    {
+      "from": 11401,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "title": "Todo frío"
+      }
+    },
+    {
+      "from": 12314,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "FRÍO",
+        "sub": "frena la oxidación",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 13724,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 5",
+        "title": "El queso aparte"
+      }
+    },
+    {
+      "from": 15762,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CONSERVACIÓN",
+        "title": "Cómo guardar el pesto"
+      }
+    },
+    {
+      "from": 17306,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "4 A 5 DÍAS",
+        "sub": "bien conservado en el refrigerador",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 19305,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "3 MESES",
+        "sub": "máximo congelado",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 21434,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "INGREDIENTES",
+        "title": "Piñones, nueces y ajo"
+      }
+    },
+    {
+      "from": 22491,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SE ENRANCIAN",
+        "sub": "cuidado con las nueces viejas",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 24938,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "EL GERMEN",
+        "sub": "la parte más picante del ajo",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 30088,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de La Nonna (cocina)",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 30549,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA TÉCNICA",
+        "title": "El movimiento del mortero"
+      }
+    },
+    {
+      "from": 31268,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MOVIMIENTO ROTATORIO",
+        "sub": "no golpear",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 36471,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REPASO",
+        "title": "Los siete pasos clave"
+      }
+    },
+    {
+      "from": 41883,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de La Nonna (cocina)",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 42873,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de La Nonna (cocina)",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 434,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "El problema",
+        "phrase": "Se te va a poner negro antes de llegar a la mesa",
+        "accent": "poner negro",
+        "src": "img/nonna-nunca-vuelvas-comprar_s01.png"
+      }
+    },
+    {
+      "from": 1898,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El pesto se echó a perder",
+        "truth": "Es solo albahaca oxidada por el aire y el calor"
+      }
+    },
+    {
+      "from": 3244,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Lo que vas a aprender",
+        "title": "El recorrido de hoy",
+        "steps": [
+          {
+            "title": "Albahaca y ajo",
+            "sub": "la elección correcta"
+          },
+          {
+            "title": "Piñones, aceite y mortero",
+            "sub": "técnica genovesa"
+          },
+          {
+            "title": "Frío y conservación",
+            "sub": "para que no se oxide"
+          }
+        ]
+      }
+    },
+    {
+      "from": 5014,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Razón 1",
+        "phrase": "La humedad acelera la oxidación de la albahaca",
+        "accent": "humedad acelera",
+        "src": "img/nonna-nunca-vuelvas-comprar_s08.png"
+      }
+    },
+    {
+      "from": 6550,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Razón 2",
+        "phrase": "Las cuchillas generan calor y oxidan la clorofila",
+        "accent": "generan calor",
+        "src": "img/nonna-nunca-vuelvas-comprar_s13.png"
+      }
+    },
+    {
+      "from": 8378,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Si no tienes mortero",
+        "items": [
+          "Pulsos de 2 a 3 segundos",
+          "Descansa entre cada pulso",
+          "Enfría el bowl 15 minutos antes",
+          "Reduce bastante la oxidación"
+        ]
+      }
+    },
+    {
+      "from": 9975,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Razón 3",
+        "title": "El orden correcto",
+        "steps": [
+          {
+            "title": "Ajo y sal gruesa",
+            "sub": "hasta formar pasta"
+          },
+          {
+            "title": "Piñones o nueces",
+            "sub": "se integran después"
+          },
+          {
+            "title": "Albahaca y aceite",
+            "sub": "de a puñados, en hilo"
+          }
+        ]
+      }
+    },
+    {
+      "from": 11449,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Razón 4",
+        "phrase": "Todo tiene que estar frío, no solo refrigerado después",
+        "accent": "todo frío",
+        "src": "img/nonna-nunca-vuelvas-comprar_s25.png"
+      }
+    },
+    {
+      "from": 13153,
+      "dur": 240,
+      "comp": "PizarraNonna",
+      "props": {
+        "theme": "earth",
+        "title": "Antes de empezar, al frío",
+        "items": [
+          "Mortero frío",
+          "Aceite de oliva, 30 min en el refrigerador",
+          "Ambiente fresco, sin sol directo"
+        ],
+        "note": "El frío frena la oxidación"
+      }
+    },
+    {
+      "from": 14879,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "El queso: ¿dentro o fuera del mortero?",
+        "left": {
+          "label": "Dentro del mortero",
+          "sub": "más calor, sabor amargo"
+        },
+        "right": {
+          "label": "Al momento de servir",
+          "sub": "con cuchara, fuera del mortero"
+        }
+      }
+    },
+    {
+      "from": 16905,
+      "dur": 270,
+      "comp": "PizarraNonna",
+      "props": {
+        "theme": "earth",
+        "title": "La base en el mortero",
+        "items": [
+          "Ajo y sal gruesa",
+          "Piñones o nueces",
+          "Albahaca de a puñados",
+          "Aceite en hilo"
+        ],
+        "note": "Así se arma, en orden"
+      }
+    },
+    {
+      "from": 18543,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Dato clave",
+        "phrase": "Bien guardado, el pesto dura entre cuatro y cinco días",
+        "accent": "cuatro y cinco días",
+        "src": "img/nonna-nunca-vuelvas-comprar_s41.png"
+      }
+    },
+    {
+      "from": 21687,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Piñones vs. nueces",
+        "left": {
+          "label": "Piñones",
+          "sub": "sabor suave y dulce, tradicional"
+        },
+        "right": {
+          "label": "Nueces",
+          "sub": "más intensas, se enrancian fácil"
+        }
+      }
+    },
+    {
+      "from": 23475,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Antes de usar nueces",
+        "items": [
+          "Pruébalas antes de incorporarlas",
+          "Descarta si saben amargas",
+          "Descarta si saben a cartón húmedo",
+          "Tostarlas 1 minuto es opcional"
+        ]
+      }
+    },
+    {
+      "from": 25020,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "El ajo",
+        "phrase": "Un diente mediano suele ser suficiente",
+        "accent": "un diente mediano",
+        "src": "img/nonna-nunca-vuelvas-comprar_s53.png"
+      }
+    },
+    {
+      "from": 26821,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Diagnóstico",
+        "phrase": "Cada síntoma de tu pesto tiene una causa puntual",
+        "accent": "causa puntual",
+        "src": "img/nonna-nunca-vuelvas-comprar_s57.png"
+      }
+    },
+    {
+      "from": 28620,
+      "dur": 270,
+      "comp": "ProporcionTazas",
+      "props": {
+        "theme": "earth",
+        "title": "La proporción de la Nonna",
+        "left": {
+          "label": "Albahaca",
+          "parts": 2
+        },
+        "right": {
+          "label": "Aceite",
+          "parts": 1
+        },
+        "note": "más ajo, piñones y queso al gusto"
+      }
+    },
+    {
+      "from": 29368,
+      "dur": 210,
+      "comp": "ProporcionTazas",
+      "props": {
+        "theme": "earth",
+        "title": "Para servir",
+        "left": {
+          "label": "Aceite",
+          "parts": 1
+        },
+        "right": {
+          "label": "Queso",
+          "parts": 1
+        },
+        "note": "al gusto, al final"
+      }
+    },
+    {
+      "from": 31903,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "La técnica",
+        "phrase": "El movimiento es rotatorio, nunca de golpe",
+        "accent": "rotatorio",
+        "src": "img/nonna-nunca-vuelvas-comprar_s67.png"
+      }
+    },
+    {
+      "from": 33840,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Mezclar el pesto directo con la pasta caliente",
+        "truth": "Aflojarlo antes con agua de cocción, fuera del fuego"
+      }
+    },
+    {
+      "from": 35486,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "La variedad",
+        "phrase": "La albahaca genovesa es más pequeña y algo más dulce",
+        "accent": "más pequeña",
+        "src": "img/nonna-nunca-vuelvas-comprar_s76.png"
+      }
+    },
+    {
+      "from": 39773,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Honestidad",
+        "phrase": "No se va a oxidar nunca ni un poquito",
+        "accent": "nunca ni un poquito",
+        "src": "img/nonna-nunca-vuelvas-comprar_s82.png"
+      }
+    },
+    {
+      "from": 41433,
+      "dur": 241,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que cambia con este método",
+        "items": [
+          "Mejor color, varios días más",
+          "Mejor sabor, más fresco",
+          "El de frasco no pasó por estos cuidados"
+        ]
+      }
+    }
+  ]
+}
