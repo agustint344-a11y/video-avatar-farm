@@ -1,0 +1,1515 @@
+{
+  "slug": "mateo-liquido-que-sella",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 32826,
+  "audioSrc": "mateo-liquido-que-sella.mp3",
+  "avatarSrc": "mateo-liquido-que-sella_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1283,
+      "dur": 612,
+      "clip": 0
+    },
+    {
+      "from": 2156,
+      "dur": 803,
+      "clip": 612
+    },
+    {
+      "from": 4674,
+      "dur": 761,
+      "clip": 1415
+    },
+    {
+      "from": 17146,
+      "dur": 615,
+      "clip": 2176
+    },
+    {
+      "from": 28894,
+      "dur": 884,
+      "clip": 2791
+    },
+    {
+      "from": 31541,
+      "dur": 1046,
+      "clip": 3675
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 451,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 550,
+      "dur": 339,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 889,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1026,
+      "dur": 257,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1895,
+      "dur": 261,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2959,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3343,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3583,
+      "dur": 346,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4229,
+      "dur": 64,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s06.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4293,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s78.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4509,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s67.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5435,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s08.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5523,
+      "dur": 341,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s09.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5864,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s10.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6317,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6481,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s11.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6781,
+      "dur": 278,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s12.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7059,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s13.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7306,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s14.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7516,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s15.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7869,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s15.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8033,
+      "dur": 255,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s16.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8288,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s17.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8703,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s17.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8863,
+      "dur": 292,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s18.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9155,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s19.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9296,
+      "dur": 369,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s20.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9665,
+      "dur": 275,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s21.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9940,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s22.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10067,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s23.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10354,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s23.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10684,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s23.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10837,
+      "dur": 290,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s24.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11397,
+      "dur": 349,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s24.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11746,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s25.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11972,
+      "dur": 263,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s26.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12235,
+      "dur": 215,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s27.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12720,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s27.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12918,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s28.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13044,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s41.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13411,
+      "dur": 205,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s41.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13616,
+      "dur": 307,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s29.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14313,
+      "dur": 366,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s30.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14679,
+      "dur": 294,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s31.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14973,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s32.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15192,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s33.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15258,
+      "dur": 265,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s34.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15523,
+      "dur": 308,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s35.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15831,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s36.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16016,
+      "dur": 215,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s37.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16231,
+      "dur": 305,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s38.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16536,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s39.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16866,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s39.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16952,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s40.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17761,
+      "dur": 67,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17828,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s42.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18420,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s42.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18570,
+      "dur": 205,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s43.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18775,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s44.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19015,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s45.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19403,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s45.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19582,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s46.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19720,
+      "dur": 236,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s47.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19956,
+      "dur": 340,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s48.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20476,
+      "dur": 320,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s48.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20796,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s49.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20942,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s50.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21123,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s51.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21315,
+      "dur": 250,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s52.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21895,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s52.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21967,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s53.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22123,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s54.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22326,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s55.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22433,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s56.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22912,
+      "dur": 50,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s56.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22962,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s57.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23129,
+      "dur": 341,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s58.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23680,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s58.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24010,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s58.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24098,
+      "dur": 245,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s59.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24643,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s59.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24731,
+      "dur": 362,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s60.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25093,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s61.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25275,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s62.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25481,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s63.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25573,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s64.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25751,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s65.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25977,
+      "dur": 279,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s66.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26646,
+      "dur": 271,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s68.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26917,
+      "dur": 357,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s69.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27274,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s70.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27499,
+      "dur": 291,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s71.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27790,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s72.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27991,
+      "dur": 215,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s73.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28206,
+      "dur": 251,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s74.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28457,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s75.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28787,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s75.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29778,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s75.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30108,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s75.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30210,
+      "dur": 356,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s76.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30566,
+      "dur": 377,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s77.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30943,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s79.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31109,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s80.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31439,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s80.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32587,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella_s80.png",
+      "kb": 3,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 5,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "INTRO",
+        "title": "El problema de las grietas"
+      }
+    },
+    {
+      "from": 550,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SE CUELA EL AGUA",
+        "sub": "justo por la grieta que tapaste",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 1026,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MEMORIA DEL CEMENTO",
+        "sub": "la grieta vuelve a abrirse",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 1283,
+      "dur": 135,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "MATEO ARREGLA",
+        "title": "Mateo",
+        "sub": "Arreglos simples y de bajo costo para tu casa"
+      }
+    },
+    {
+      "from": 3583,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "QUÉ VAS A APRENDER",
+        "title": "4 puntos clave"
+      }
+    },
+    {
+      "from": 4509,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PLAN DE 2 SEMANAS",
+        "title": "Organiza la reparación"
+      }
+    },
+    {
+      "from": 5126,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 5478,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "Por qué el cemento no sella"
+      }
+    },
+    {
+      "from": 6365,
+      "dur": 180,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "ASÍ ES LA GRIETA POR DENTRO",
+        "w": 0.1,
+        "h": 4,
+        "unit": "cm",
+        "label": "GRIETA",
+        "note": "Apenas se ve arriba, pero es profunda"
+      }
+    },
+    {
+      "from": 6781,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SE CONTRAE AL SECAR",
+        "sub": "y separa el parche de los bordes",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 8288,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MOHO",
+        "sub": "si la zona no está bien ventilada",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 9940,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "El líquido que sí funciona"
+      }
+    },
+    {
+      "from": 10355,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "DOS O TRES DÓLARES",
+        "sub": "el precio del puente de adherencia",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 12918,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MANOS A LA OBRA",
+        "title": "Lo que vas a necesitar"
+      }
+    },
+    {
+      "from": 16536,
+      "dur": 150,
+      "comp": "NivelBurbuja",
+      "props": {
+        "theme": "earth",
+        "title": "Revisa la superficie",
+        "verdict": "¡A NIVEL!",
+        "sub": "Alisa parejo antes de dejar curar"
+      }
+    },
+    {
+      "from": 17410,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 17828,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERRORES COMUNES",
+        "title": "Los 5 errores que arruinan el arreglo"
+      }
+    },
+    {
+      "from": 19956,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "EL AGUA OCUPA SU LUGAR",
+        "sub": "por eso no se trabaja con hormigón mojado",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 20942,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "Cosmética o estructural"
+      }
+    },
+    {
+      "from": 22433,
+      "dur": 180,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "CUÁNDO ENCENDER LA ALARMA",
+        "w": 0.5,
+        "h": 0,
+        "unit": "cm",
+        "label": "GRIETA ESTRUCTURAL",
+        "note": "Ancho típico de una grieta que no es cosmética"
+      }
+    },
+    {
+      "from": 28457,
+      "dur": 150,
+      "comp": "NivelBurbuja",
+      "props": {
+        "theme": "earth",
+        "title": "Revisa la pendiente",
+        "verdict": "¡A NIVEL!",
+        "sub": "Que el agua no se acumule contra la pared"
+      }
+    },
+    {
+      "from": 28713,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REPASO",
+        "title": "Todo lo que vimos"
+      }
+    },
+    {
+      "from": 31109,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ANTES DE IRTE",
+        "title": "La guía completa"
+      }
+    },
+    {
+      "from": 31698,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 32351,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 32722,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 211,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PROBLEMA DE SIEMPRE",
+        "phrase": "Tapas la grieta con cemento y a los meses vuelve",
+        "accent": "vuelve",
+        "src": "img/mateo-liquido-que-sella_s01.png"
+      }
+    },
+    {
+      "from": 3133,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Qué determina si una grieta vuelve",
+        "items": [
+          "El movimiento del suelo",
+          "La humedad de la zona",
+          "Qué tan profunda es la fisura"
+        ]
+      }
+    },
+    {
+      "from": 3929,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EN ESTE VIDEO",
+        "title": "Lo que vas a aprender hoy",
+        "steps": [
+          {
+            "title": "Por qué no sella",
+            "sub": "Lo que el cemento no puede hacer"
+          },
+          {
+            "title": "El líquido correcto",
+            "sub": "Cómo usarlo paso a paso"
+          },
+          {
+            "title": "Cosmética o estructural y el plan",
+            "sub": "Cómo distinguirlas y organizar la reparación"
+          }
+        ]
+      }
+    },
+    {
+      "from": 6047,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que se ve y lo que hay debajo",
+        "left": {
+          "label": "En la superficie",
+          "sub": "Menos de un milímetro de ancho"
+        },
+        "right": {
+          "label": "Por dentro",
+          "sub": "Forma de V, varios centímetros de profundidad"
+        }
+      }
+    },
+    {
+      "from": 7629,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Qué provoca el agua dentro de la grieta",
+        "items": [
+          "Sales minerales",
+          "Manchas de salitre",
+          "Humedad ascendente",
+          "Moho si no ventila"
+        ]
+      }
+    },
+    {
+      "from": 8433,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO RÁPIDO",
+        "title": "Dos pruebas con lo que ya tienes",
+        "steps": [
+          {
+            "title": "Linterna de costado",
+            "sub": "Si hay sombra, hay profundidad real"
+          },
+          {
+            "title": "Dedo con agua",
+            "sub": "Si desaparece rápido, hay un canal"
+          }
+        ]
+      }
+    },
+    {
+      "from": 10144,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PRODUCTO",
+        "phrase": "Cuesta dos o tres dólares y sí funciona",
+        "accent": "dos o tres dólares",
+        "src": "img/mateo-liquido-que-sella_s23.png"
+      }
+    },
+    {
+      "from": 11127,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Por qué uno entra y el otro no",
+        "left": {
+          "label": "Mortero solo",
+          "sub": "Partículas grandes, se queda arriba"
+        },
+        "right": {
+          "label": "Puente de adherencia",
+          "sub": "Partículas finas, penetra la grieta"
+        }
+      }
+    },
+    {
+      "from": 12450,
+      "dur": 270,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El líquido hace que la grieta nunca más vuelva a aparecer",
+        "truth": "Mejora mucho la adherencia y hace que el parche dure años, no que la grieta sea indestructible"
+      }
+    },
+    {
+      "from": 13171,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que necesitas",
+        "items": [
+          "Cepillo de alambre o espátula",
+          "Esponja",
+          "Pincel de cerdas firmes",
+          "Puente de adherencia",
+          "Cemento o mortero de reparación"
+        ]
+      }
+    },
+    {
+      "from": 13923,
+      "dur": 390,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "El proceso completo en 5 pasos",
+        "steps": [
+          {
+            "when": "Paso 1",
+            "text": "Limpieza profunda de la grieta"
+          },
+          {
+            "when": "Paso 2",
+            "text": "Humedece sin encharcar"
+          },
+          {
+            "when": "Paso 3",
+            "text": "Aplica el puente de adherencia"
+          },
+          {
+            "when": "Paso 4",
+            "text": "Rellena mientras sigue activo"
+          },
+          {
+            "when": "Paso 5",
+            "text": "Deja curar tapado 2 días"
+          }
+        ]
+      }
+    },
+    {
+      "from": 18090,
+      "dur": 330,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "5 errores que arruinan el arreglo",
+        "items": [
+          "Aplicar sobre grieta sucia",
+          "Dejar secar el puente antes de rellenar",
+          "Usar mortero fino en grietas anchas",
+          "Trabajar con humedad interna",
+          "Aplicar demasiado líquido"
+        ]
+      }
+    },
+    {
+      "from": 19133,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Según el ancho de la grieta",
+        "left": {
+          "label": "Grieta fina",
+          "sub": "Menos de 5 mm: mortero fino"
+        },
+        "right": {
+          "label": "Grieta ancha",
+          "sub": "Más de 5 mm: con arena gruesa"
+        }
+      }
+    },
+    {
+      "from": 20296,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 5",
+        "phrase": "Más líquido no es mejor resultado",
+        "accent": "no es mejor",
+        "src": "img/mateo-liquido-que-sella_s48.png"
+      }
+    },
+    {
+      "from": 21565,
+      "dur": 330,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Dos tipos de grieta",
+        "left": {
+          "label": "Cosmética",
+          "sub": "Menos de 3 mm, no crece ni cambia"
+        },
+        "right": {
+          "label": "Estructural",
+          "sub": "Más de 5 mm, crece, tiene escalón"
+        }
+      }
+    },
+    {
+      "from": 22642,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Señales de grieta estructural",
+        "items": [
+          "Más de 5 mm de ancho",
+          "Crece con el tiempo",
+          "Diagonal cerca de puertas o ventanas",
+          "Tiene un escalón notable"
+        ]
+      }
+    },
+    {
+      "from": 23470,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CASO ESPECIAL",
+        "phrase": "Eso ya es trabajo para un profesional certificado",
+        "accent": "profesional certificado",
+        "src": "img/mateo-liquido-que-sella_s58.png"
+      }
+    },
+    {
+      "from": 24343,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SIN HERRAMIENTAS CARAS",
+        "title": "Diagnóstico casero",
+        "steps": [
+          {
+            "title": "Marca",
+            "sub": "Lápiz y fecha en los extremos"
+          },
+          {
+            "title": "Espera",
+            "sub": "Entre 4 y 6 semanas"
+          },
+          {
+            "title": "Compara",
+            "sub": "¿Creció o se ramificó?"
+          }
+        ]
+      }
+    },
+    {
+      "from": 26256,
+      "dur": 390,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Plan de 2 semanas",
+        "steps": [
+          {
+            "when": "Semana 1, días 1-2",
+            "text": "Inspecciona y marca todas las grietas"
+          },
+          {
+            "when": "Semana 1, días 3-4",
+            "text": "Marca con fecha las sospechosas"
+          },
+          {
+            "when": "Semana 1, día 5 en más",
+            "text": "Repara las cosméticas, una por tarde"
+          },
+          {
+            "when": "Semana 2",
+            "text": "Revisa resultados y señales de alarma"
+          }
+        ]
+      }
+    }
+  ]
+}
