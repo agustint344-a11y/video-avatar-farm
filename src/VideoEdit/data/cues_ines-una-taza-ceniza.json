@@ -1,0 +1,1560 @@
+{
+  "slug": "ines-una-taza-ceniza",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 34556,
+  "audioSrc": "ines-una-taza-ceniza.mp3",
+  "avatarSrc": "ines-una-taza-ceniza_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 809,
+      "dur": 1441,
+      "clip": 0
+    },
+    {
+      "from": 10214,
+      "dur": 791,
+      "clip": 1441
+    },
+    {
+      "from": 27476,
+      "dur": 673,
+      "clip": 2232
+    },
+    {
+      "from": 33758,
+      "dur": 759,
+      "clip": 2905
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 309,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 639,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 722,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2250,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2356,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s15.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2773,
+      "dur": 21,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s14.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2794,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2890,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s04.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3190,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s05.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3357,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s06.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3687,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s06.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3742,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s07.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4153,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s39.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4483,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s39.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4560,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s08.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4647,
+      "dur": 354,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s09.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5001,
+      "dur": 298,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s10.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5299,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s11.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5753,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s26.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5963,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s12.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6293,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s12.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6356,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s13.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6746,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s13.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7076,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s13.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7406,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s13.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7631,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s16.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8033,
+      "dur": 353,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s16.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8386,
+      "dur": 373,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s17.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8759,
+      "dur": 303,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s18.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9062,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s19.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9397,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s19.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9579,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s20.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10051,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s20.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11005,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s21.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11203,
+      "dur": 352,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s22.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11555,
+      "dur": 289,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s23.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11844,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s24.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12174,
+      "dur": 282,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s24.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12456,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s25.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12649,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s49.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13100,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s49.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13321,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s27.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13493,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s28.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13604,
+      "dur": 277,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s29.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14211,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s29.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14393,
+      "dur": 327,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s30.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14720,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s31.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14861,
+      "dur": 307,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s32.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15468,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s32.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15798,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s32.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15982,
+      "dur": 357,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s33.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16339,
+      "dur": 298,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s34.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16907,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s34.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17118,
+      "dur": 264,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s35.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17382,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s36.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17644,
+      "dur": 364,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s61.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18278,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s37.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18498,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s38.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18828,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s38.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19080,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s38.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19410,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s38.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19740,
+      "dur": 243,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s38.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19983,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s41.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20313,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s41.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20513,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s42.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20889,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s42.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21071,
+      "dur": 251,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s43.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21322,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s44.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21644,
+      "dur": 342,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s44.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21986,
+      "dur": 341,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s45.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22687,
+      "dur": 287,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s45.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22974,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s46.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23304,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s46.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23405,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s47.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23735,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s47.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24142,
+      "dur": 327,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s47.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24469,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s48.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24799,
+      "dur": 319,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s48.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25118,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s50.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25448,
+      "dur": 50,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s50.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25498,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s51.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25921,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s51.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26006,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s63.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26162,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s52.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26492,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s52.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26590,
+      "dur": 280,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s53.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26870,
+      "dur": 367,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s54.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27237,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s55.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28149,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s56.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28537,
+      "dur": 245,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s56.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28782,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s57.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28937,
+      "dur": 336,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s58.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29273,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s59.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29749,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s59.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29957,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s60.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30287,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s60.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30670,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s60.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31000,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s60.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31330,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s60.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31660,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s60.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31990,
+      "dur": 61,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s60.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32051,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s62.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32537,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s62.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32867,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s62.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33197,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s62.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33502,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33675,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s64.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 34517,
+      "dur": 39,
+      "kind": "image",
+      "src": "img/ines-una-taza-ceniza_s64.png",
+      "kb": 0,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HUERTA REAL",
+        "title": "Ceniza de leña en macetas"
+      }
+    },
+    {
+      "from": 989,
+      "dur": 135,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "HUERTA REAL",
+        "title": "Inés",
+        "sub": "Huertera de balcón"
+      }
+    },
+    {
+      "from": 2356,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "pH 9 A 12",
+        "sub": "la ceniza es muy alcalina",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 2778,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "Por qué sube el pH (y cuándo importa)"
+      }
+    },
+    {
+      "from": 2778,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 5",
+        "title": "La ceniza de carbón: nunca usarla"
+      }
+    },
+    {
+      "from": 3190,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "Qué es la ceniza y por qué tiene potasio"
+      }
+    },
+    {
+      "from": 4206,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "POTASIO",
+        "sub": "más floración, más frutos",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 10428,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 10825,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 11041,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "La dosis correcta según la maceta"
+      }
+    },
+    {
+      "from": 11357,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "1 CUCHARADA",
+        "sub": "por cada 20 cm de maceta",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 16962,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "pH ALTO = BLOQUEO",
+        "sub": "el hierro deja de absorberse",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 19983,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "BRIQUETAS: NO",
+        "sub": "aditivos y parafina, nunca en la huerta",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 22152,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PLAN",
+        "title": "Plan semana a semana"
+      }
+    },
+    {
+      "from": 22974,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MIDE ANTES DE APLICAR",
+        "sub": "una tira reactiva alcanza",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 26590,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CADA 4 A 6 SEMANAS",
+        "sub": "frecuencia máxima recomendada",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 27551,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 27908,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 28141,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "¿En qué punto estás ahora?"
+      }
+    },
+    {
+      "from": 31517,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SIN MAGIA",
+        "sub": "dosis correcta, planta correcta",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 32240,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CIERRE",
+        "title": "La promesa honesta"
+      }
+    },
+    {
+      "from": 34180,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 99,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CUIDADO",
+        "phrase": "Mal usada, la ceniza quema raíces y sube el pH sin avisar",
+        "accent": "quema raíces",
+        "src": "img/ines-una-taza-ceniza_s01.png"
+      }
+    },
+    {
+      "from": 2443,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HOY VAS A APRENDER",
+        "title": "Lo que vas a ver en este video",
+        "steps": [
+          {
+            "title": "Cantidad correcta",
+            "sub": "según el tamaño de la maceta"
+          },
+          {
+            "title": "Efecto en el pH",
+            "sub": "cuándo ayuda y cuándo arruina"
+          },
+          {
+            "title": "Plantas que la agradecen",
+            "sub": "y las que la sufren"
+          }
+        ]
+      }
+    },
+    {
+      "from": 3973,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MINERAL CLAVE",
+        "phrase": "El potasio es lo que más ayuda a florecer y fructificar",
+        "accent": "florecer y fructificar",
+        "src": "img/ines-una-taza-ceniza_s07.png"
+      }
+    },
+    {
+      "from": 5483,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "El calcio también importa",
+        "left": {
+          "label": "Falta de calcio",
+          "sub": "podredumbre apical en tomates y pimientos"
+        },
+        "right": {
+          "label": "Calcio suficiente",
+          "sub": "frutos firmes, sin manchas"
+        }
+      }
+    },
+    {
+      "from": 6446,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que la ceniza SÍ aporta",
+        "items": [
+          "Potasio para floración y frutos",
+          "Calcio para paredes celulares firmes",
+          "Algo de magnesio y fósforo",
+          "Micronutrientes como el boro",
+          "Nada de nitrógeno"
+        ]
+      }
+    },
+    {
+      "from": 7853,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RANGO IDEAL",
+        "phrase": "La mayoría de las plantas prefiere un pH entre 6 y 7",
+        "accent": "entre 6 y 7",
+        "src": "img/ines-una-taza-ceniza_s16.png"
+      }
+    },
+    {
+      "from": 9187,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "La ceniza siempre mejora cualquier tierra",
+        "truth": "Solo ayuda si tu sustrato es ácido; si ya es alcalino, lo empeora"
+      }
+    },
+    {
+      "from": 9781,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Cómo medir el pH antes de aplicar ceniza",
+        "items": [
+          "Tira reactiva económica de vivero",
+          "Mézclala con agua destilada",
+          "No necesitas equipo profesional",
+          "Anota el valor y guíate por él"
+        ]
+      }
+    },
+    {
+      "from": 12890,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Una taza entera de ceniza da una cosecha explosiva",
+        "truth": "Es varias veces la dosis segura: quema raíces y dispara el pH"
+      }
+    },
+    {
+      "from": 13881,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO A PASO",
+        "title": "Cómo aplicarla sin arriesgar",
+        "steps": [
+          {
+            "title": "Tamiza",
+            "sub": "saca los carbones grandes sin quemar"
+          },
+          {
+            "title": "Espolvorea fina",
+            "sub": "sobre la superficie, lejos del tallo"
+          },
+          {
+            "title": "Riega bien después",
+            "sub": "para que se disuelva sin concentrarse"
+          }
+        ]
+      }
+    },
+    {
+      "from": 15168,
+      "dur": 300,
+      "comp": "CrecimientoPlanta",
+      "props": {
+        "theme": "earth",
+        "title": "De semilla a cosecha",
+        "stages": [
+          {
+            "label": "SEMILLA",
+            "sub": "día 0"
+          },
+          {
+            "label": "CRECIMIENTO",
+            "sub": "la planta se establece"
+          },
+          {
+            "label": "FLORACIÓN",
+            "sub": "ahí el potasio marca la diferencia"
+          },
+          {
+            "label": "FRUCTIFICACIÓN",
+            "sub": "frutos más firmes con calcio"
+          }
+        ]
+      }
+    },
+    {
+      "from": 16637,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Quién la agradece, quién la sufre",
+        "left": {
+          "label": "La agradecen",
+          "sub": "tomates, pimientos, aromáticas mediterráneas"
+        },
+        "right": {
+          "label": "La sufren",
+          "sub": "arándanos, hortensias, camelias, azaleas"
+        }
+      }
+    },
+    {
+      "from": 18008,
+      "dur": 270,
+      "comp": "CalendarioSiembra",
+      "props": {
+        "theme": "earth",
+        "title": "¿Cuándo sembrar?",
+        "crop": "Tomates en maceta",
+        "sow": [
+          8,
+          9,
+          10
+        ],
+        "harvest": [
+          12,
+          1,
+          2
+        ],
+        "note": "En plena temporada de crecimiento es cuando la ceniza tiene sentido"
+      }
+    },
+    {
+      "from": 18900,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CÍTRICOS, CUIDADO",
+        "phrase": "Si el agua de riego es dura, los cítricos ya tienden a sufrir clorosis",
+        "accent": "clorosis",
+        "src": "img/ines-una-taza-ceniza_s38.png"
+      }
+    },
+    {
+      "from": 20589,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Ceniza de carbón: por qué nunca usarla",
+        "items": [
+          "Briquetas: aglutinantes y parafina",
+          "Carbón de palés o madera tratada: metales pesados",
+          "Nunca en plantas que vas a comer",
+          "Solo leña natural, sin tratar"
+        ]
+      }
+    },
+    {
+      "from": 21464,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REGLA DE ORO",
+        "phrase": "Si no conoces el origen de la madera, mejor no uses esa ceniza",
+        "accent": "mejor no uses",
+        "src": "img/ines-una-taza-ceniza_s44.png"
+      }
+    },
+    {
+      "from": 22327,
+      "dur": 360,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Plan de 4 semanas",
+        "steps": [
+          {
+            "when": "Semana 1",
+            "text": "Junta y tamiza la ceniza; mide el pH de tus macetas"
+          },
+          {
+            "when": "Semana 2",
+            "text": "Aplica la dosis prudente solo si el pH es menor a 7,5"
+          },
+          {
+            "when": "Semana 3",
+            "text": "Observa: hojas nuevas, sin bordes quemados"
+          },
+          {
+            "when": "Semana 4",
+            "text": "Si todo va bien, retoma tu rutina normal"
+          }
+        ]
+      }
+    },
+    {
+      "from": 23842,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "APLICACIÓN",
+        "title": "El momento de aplicar",
+        "steps": [
+          {
+            "title": "Dosis prudente",
+            "sub": "1 cucharada por cada 20 cm"
+          },
+          {
+            "title": "Mezcla apenas",
+            "sub": "con los primeros centímetros de tierra"
+          },
+          {
+            "title": "Riega de inmediato",
+            "sub": "con abundante agua"
+          }
+        ]
+      }
+    },
+    {
+      "from": 25621,
+      "dur": 300,
+      "comp": "CrecimientoPlanta",
+      "props": {
+        "theme": "earth",
+        "title": "Floración y fructificación",
+        "stages": [
+          {
+            "label": "FLORACIÓN",
+            "sub": "evalúa un refuerzo de compost"
+          },
+          {
+            "label": "CUAJADO",
+            "sub": "los frutos empiezan a formarse"
+          },
+          {
+            "label": "ENGORDE",
+            "sub": "calcio y potasio siguen trabajando"
+          },
+          {
+            "label": "COSECHA",
+            "sub": "el resultado de semanas de cuidado"
+          }
+        ]
+      }
+    },
+    {
+      "from": 28267,
+      "dur": 270,
+      "comp": "CalendarioSiembra",
+      "props": {
+        "theme": "earth",
+        "title": "Temporada para aplicar ceniza",
+        "crop": "Aromáticas mediterráneas en maceta",
+        "sow": [
+          8,
+          9
+        ],
+        "harvest": [
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "note": "En otoño e invierno la planta no la necesita"
+      }
+    },
+    {
+      "from": 29419,
+      "dur": 330,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Diagnóstico rápido: ¿en qué punto estás?",
+        "items": [
+          "Nunca la usaste: empieza con el plan de 4 semanas",
+          "La usaste de más: riega abundante y espera un mes",
+          "Tienes plantas ácidas: revisa hojas amarillas",
+          "Tu pH ya es alto: mejor no usarla por ahora"
+        ]
+      }
+    },
+    {
+      "from": 30460,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Si tu pH ya es alto, un poco más de ceniza no cambia nada",
+        "truth": "Lo sube todavía más: mejor usar sulfato de potasio"
+      }
+    },
+    {
+      "from": 32327,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PROMESA HONESTA",
+        "phrase": "No es magia: es la dosis correcta en la planta correcta",
+        "accent": "dosis correcta",
+        "src": "img/ines-una-taza-ceniza_s62.png"
+      }
+    },
+    {
+      "from": 33262,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Para recordar",
+        "items": [
+          "El resultado depende también del clima y la variedad",
+          "Y de cómo vienes manejando el riego",
+          "Es una herramienta más, no una solución mágica"
+        ]
+      }
+    }
+  ]
+}
