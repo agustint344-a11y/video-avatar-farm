@@ -1,0 +1,1799 @@
+{
+  "slug": "ines-error-regar-los",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 37991,
+  "audioSrc": "ines-error-regar-los.mp3",
+  "avatarSrc": "ines-error-regar-los_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 846,
+      "dur": 943,
+      "clip": 0
+    },
+    {
+      "from": 2930,
+      "dur": 673,
+      "clip": 943
+    },
+    {
+      "from": 28806,
+      "dur": 760,
+      "clip": 1616
+    },
+    {
+      "from": 29688,
+      "dur": 1540,
+      "clip": 2376
+    },
+    {
+      "from": 36166,
+      "dur": 492,
+      "clip": 3916
+    },
+    {
+      "from": 36713,
+      "dur": 1046,
+      "clip": 4408
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 104,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 469,
+      "dur": 274,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 743,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1789,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2195,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2368,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2552,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s06.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3603,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s07.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3719,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s09.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4076,
+      "dur": 333,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s08.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4409,
+      "dur": 205,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s10.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4614,
+      "dur": 245,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s11.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4859,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s12.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5048,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s13.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5243,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s84.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5641,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s14.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5827,
+      "dur": 238,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s15.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6065,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s16.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6202,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s17.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6330,
+      "dur": 245,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s18.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6575,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s19.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6948,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s19.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7180,
+      "dur": 338,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s20.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7518,
+      "dur": 331,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s21.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7849,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s22.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7930,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s23.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8116,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s24.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8364,
+      "dur": 49,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s25.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8413,
+      "dur": 336,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s26.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8749,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s27.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9176,
+      "dur": 321,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s27.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9497,
+      "dur": 264,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s28.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9761,
+      "dur": 277,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s29.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10038,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s30.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10260,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s31.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10476,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s32.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10633,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s33.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10854,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s34.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10922,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s102.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11089,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s35.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11216,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s36.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11662,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s36.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11820,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s37.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12060,
+      "dur": 293,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s38.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12623,
+      "dur": 379,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s38.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13002,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s40.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13481,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s39.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13691,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s41.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13801,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s42.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13928,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s43.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14130,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s44.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14230,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s45.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14389,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s46.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14544,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s47.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14704,
+      "dur": 282,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s48.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14986,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s49.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15152,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s50.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15320,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s51.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15395,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s52.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15824,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s52.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16154,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s52.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16358,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s53.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16457,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s54.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16596,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s55.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16836,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s56.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17040,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s57.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17244,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s58.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17342,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s59.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17732,
+      "dur": 278,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s59.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18010,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s60.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18078,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s61.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18254,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s62.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18482,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s63.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18644,
+      "dur": 334,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s64.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18978,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s65.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19220,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s66.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19612,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s66.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19942,
+      "dur": 56,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s66.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19998,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s67.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20087,
+      "dur": 218,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s68.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20305,
+      "dur": 70,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s69.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20375,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s70.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20567,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s71.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20665,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s72.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20886,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s73.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21038,
+      "dur": 58,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s74.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21306,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s74.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21695,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s76.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22142,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s75.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22254,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s77.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22442,
+      "dur": 260,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s78.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22942,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s78.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23272,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s78.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23347,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s79.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23548,
+      "dur": 325,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s80.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23873,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s81.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24060,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s82.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24259,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s83.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24589,
+      "dur": 58,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s83.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24647,
+      "dur": 335,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s85.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24982,
+      "dur": 64,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s86.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25046,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s87.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25146,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s88.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25476,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s88.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25936,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s88.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26107,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s89.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26252,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s90.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26406,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s91.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26509,
+      "dur": 352,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s92.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27041,
+      "dur": 283,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s92.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27324,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s93.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27482,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s94.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27701,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s95.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28115,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s95.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28296,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s96.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28626,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s96.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29566,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s97.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31228,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s98.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31520,
+      "dur": 292,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s98.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31812,
+      "dur": 302,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s99.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32114,
+      "dur": 256,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s100.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32640,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s100.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32822,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s101.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33152,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s101.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33532,
+      "dur": 283,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s101.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33815,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s103.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34055,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s104.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34488,
+      "dur": 335,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s105.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 35063,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s105.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 35393,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s105.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 35455,
+      "dur": 286,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s106.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 35951,
+      "dur": 215,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s106.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 36658,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s107.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 37759,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/ines-error-regar-los_s107.png",
+      "kb": 2,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HUERTA REAL",
+        "title": "El error silencioso del riego"
+      }
+    },
+    {
+      "from": 846,
+      "dur": 135,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "HUERTA REAL",
+        "title": "Inés",
+        "sub": "Huerta de balcón, cuidados reales"
+      }
+    },
+    {
+      "from": 3415,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real"
+      }
+    },
+    {
+      "from": 3452,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real"
+      }
+    },
+    {
+      "from": 3452,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real"
+      }
+    },
+    {
+      "from": 3676,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "Riego poco y seguido"
+      }
+    },
+    {
+      "from": 4409,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CICLO DE ESTRÉS",
+        "sub": "Humedad y sed todo el día",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 7363,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "RAÍCES FUERTES",
+        "sub": "Crecen buscando humedad profunda",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 8364,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "La maceta equivocada"
+      }
+    },
+    {
+      "from": 10194,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ESTRÉS HÍDRICO",
+        "sub": "La planta ya sufrió",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 12956,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "Sin acolchado, el agua se evapora"
+      }
+    },
+    {
+      "from": 13928,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "HUMEDAD QUE DURA",
+        "sub": "Gracias al acolchado",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 17040,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "title": "Podredumbre apical: no siempre es calcio"
+      }
+    },
+    {
+      "from": 18482,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CALCIO EN MOVIMIENTO",
+        "sub": "Viaja disuelto en el agua",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 22206,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 5",
+        "title": "El horario también importa"
+      }
+    },
+    {
+      "from": 23123,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SHOCK TÉRMICO",
+        "sub": "Tierra fría, aire caliente",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 25046,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PLAN",
+        "title": "Semana a semana"
+      }
+    },
+    {
+      "from": 26252,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "LÍNEA BASE",
+        "sub": "Antes de cambiar algo, observa",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 30494,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REPASO",
+        "title": "Errores comunes"
+      }
+    },
+    {
+      "from": 34526,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "LA VARIABLE CLAVE",
+        "sub": "El riego, lo que más controlas",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 36166,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real"
+      }
+    },
+    {
+      "from": 36650,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TU TURNO",
+        "title": "Cuéntame tu caso"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 289,
+      "dur": 180,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Es una plaga o mala suerte",
+        "truth": "Es el momento y la cantidad de riego"
+      }
+    },
+    {
+      "from": 1925,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "En este video",
+        "title": "Lo que vas a ver",
+        "steps": [
+          {
+            "title": "El error",
+            "sub": "Por qué caen las flores"
+          },
+          {
+            "title": "Diagnóstico",
+            "sub": "Dos minutos para confirmarlo"
+          },
+          {
+            "title": "Plan semanal",
+            "sub": "Cómo corregirlo sin ahogar"
+          }
+        ]
+      }
+    },
+    {
+      "from": 2791,
+      "dur": 139,
+      "comp": "CalendarioSiembra",
+      "props": {
+        "theme": "earth",
+        "title": "¿Cuándo sembrar pimientos?",
+        "crop": "Pimientos en maceta",
+        "sow": [
+          8,
+          9,
+          10
+        ],
+        "harvest": [
+          12,
+          1,
+          2
+        ],
+        "note": "Varía según tu clima"
+      }
+    },
+    {
+      "from": 3866,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Razón 1",
+        "phrase": "El riego poco y seguido debilita la raíz",
+        "accent": "riego poco y seguido",
+        "src": "img/ines-error-regar-los_s09.png"
+      }
+    },
+    {
+      "from": 5371,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "¿Tu riego es superficial?",
+        "items": [
+          "Arriba húmedo, seco bajo el segundo nudillo",
+          "Riegas siempre a la misma hora",
+          "No miras la tierra antes de regar"
+        ]
+      }
+    },
+    {
+      "from": 6648,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "La solución",
+        "title": "Riego profundo y espaciado",
+        "steps": [
+          {
+            "title": "Riega generoso",
+            "sub": "Hasta que drene por abajo"
+          },
+          {
+            "title": "Espera",
+            "sub": "Que la superficie se seque varios cm"
+          },
+          {
+            "title": "Repite",
+            "sub": "Solo cuando la tierra lo pida"
+          }
+        ]
+      }
+    },
+    {
+      "from": 8936,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Maceta ideal para pimientos",
+        "items": [
+          "Mínimo 20 litros de capacidad",
+          "Mejor si es más grande",
+          "Plástico retiene más humedad que barro"
+        ]
+      }
+    },
+    {
+      "from": 11422,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿La maceta le queda chica?",
+        "left": {
+          "label": "40-50 cm de altura",
+          "sub": "en maceta de 12-15 litros"
+        },
+        "right": {
+          "label": "Se seca en un día",
+          "sub": "en épocas de calor fuerte"
+        }
+      }
+    },
+    {
+      "from": 12353,
+      "dur": 270,
+      "comp": "CrecimientoPlanta",
+      "props": {
+        "theme": "earth",
+        "title": "De flor a fruto",
+        "stages": [
+          {
+            "label": "FLOR",
+            "sub": "Si hay estrés, se cae"
+          },
+          {
+            "label": "CUAJADO",
+            "sub": "La flor se vuelve fruto"
+          },
+          {
+            "label": "FRUTO JOVEN",
+            "sub": "Necesita agua estable"
+          },
+          {
+            "label": "FRUTO MADURO",
+            "sub": "Listo para cosechar"
+          }
+        ]
+      }
+    },
+    {
+      "from": 13181,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Razón 3",
+        "title": "Cómo poner acolchado",
+        "steps": [
+          {
+            "title": "Elige material",
+            "sub": "Paja, hojas secas o corteza de pino"
+          },
+          {
+            "title": "Cubre 3-5 cm",
+            "sub": "Toda la superficie de la tierra"
+          },
+          {
+            "title": "Deja espacio",
+            "sub": "Libre alrededor del tallo"
+          }
+        ]
+      }
+    },
+    {
+      "from": 15614,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Tip rápido",
+        "phrase": "El acolchado es un protector solar para la tierra",
+        "accent": "protector solar",
+        "src": "img/ines-error-regar-los_s52.png"
+      }
+    },
+    {
+      "from": 17492,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Razón 4",
+        "phrase": "La podredumbre apical no siempre es falta de calcio",
+        "accent": "no siempre es falta de calcio",
+        "src": "img/ines-error-regar-los_s59.png"
+      }
+    },
+    {
+      "from": 19342,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Antes de comprar calcio, pregúntate",
+        "items": [
+          "¿Regué siempre parecido las últimas 2 semanas?",
+          "¿Hubo días que me olvidé?",
+          "¿Compensé regando de más después?"
+        ]
+      }
+    },
+    {
+      "from": 21096,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El calcio arregla la podredumbre apical",
+        "truth": "La regularidad del riego es la clave"
+      }
+    },
+    {
+      "from": 21455,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Al final de la semana 4 deberías ver",
+        "items": [
+          "Menos caída de flores",
+          "Frutos nuevos más sanos",
+          "Una rutina de riego más estable"
+        ]
+      }
+    },
+    {
+      "from": 21902,
+      "dur": 240,
+      "comp": "CrecimientoPlanta",
+      "props": {
+        "theme": "earth",
+        "title": "Frutos nuevos, riego corregido",
+        "stages": [
+          {
+            "label": "ANTES",
+            "sub": "Riego irregular"
+          },
+          {
+            "label": "AJUSTE",
+            "sub": "Riego profundo y estable"
+          },
+          {
+            "label": "DESPUÉS",
+            "sub": "Frutos nuevos más sanos"
+          }
+        ]
+      }
+    },
+    {
+      "from": 22702,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Cuándo regar?",
+        "left": {
+          "label": "Mediodía",
+          "sub": "El agua se evapora, hay shock térmico"
+        },
+        "right": {
+          "label": "Mañana temprano",
+          "sub": "La planta la aprovecha mejor"
+        }
+      }
+    },
+    {
+      "from": 25576,
+      "dur": 360,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Plan semana a semana",
+        "steps": [
+          {
+            "when": "Semana 1",
+            "text": "Observa, anota humedad y flores"
+          },
+          {
+            "when": "Semana 2",
+            "text": "Espacia el riego, riega profundo"
+          },
+          {
+            "when": "Semana 3",
+            "text": "Acolchado y revisión de maceta"
+          },
+          {
+            "when": "Semana 4",
+            "text": "Ajusta el horario y revisa avances"
+          }
+        ]
+      }
+    },
+    {
+      "from": 26861,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Semana 2",
+        "phrase": "Riega generoso, hasta que drene por abajo",
+        "accent": "hasta que drene",
+        "src": "img/ines-error-regar-los_s92.png"
+      }
+    },
+    {
+      "from": 27875,
+      "dur": 240,
+      "comp": "CalendarioSiembra",
+      "props": {
+        "theme": "earth",
+        "title": "Para la próxima temporada",
+        "crop": "Pimientos en maceta",
+        "sow": [
+          8,
+          9,
+          10
+        ],
+        "harvest": [
+          12,
+          1,
+          2
+        ],
+        "note": "Empieza con una maceta más grande desde el inicio"
+      }
+    },
+    {
+      "from": 31310,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Regar todos los días en cantidad es más seguro",
+        "truth": "Eso puede encharcar y asfixiar la raíz"
+      }
+    },
+    {
+      "from": 32370,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Revisa el drenaje de tu maceta",
+        "items": [
+          "Los agujeros no están tapados",
+          "El plato no acumula agua",
+          "Nunca queda agua estancada más de 1 hora"
+        ]
+      }
+    },
+    {
+      "from": 33352,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Error común",
+        "phrase": "El viento seca la tierra más rápido de lo que imaginas",
+        "accent": "el viento seca la tierra",
+        "src": "img/ines-error-regar-los_s102.png"
+      }
+    },
+    {
+      "from": 34218,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Error común",
+        "title": "Cambia una cosa a la vez",
+        "steps": [
+          {
+            "title": "Primero",
+            "sub": "La frecuencia de riego"
+          },
+          {
+            "title": "Después",
+            "sub": "Acolchado y maceta"
+          },
+          {
+            "title": "Al final",
+            "sub": "El horario de riego"
+          }
+        ]
+      }
+    },
+    {
+      "from": 34823,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Otras variables que influyen",
+        "items": [
+          "Olas de calor extremas",
+          "Falta de polinización",
+          "Sustrato de mala calidad"
+        ]
+      }
+    },
+    {
+      "from": 35741,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Para quedarte con esto",
+        "phrase": "La regularidad del riego es lo que más puedes controlar",
+        "accent": "regularidad del riego",
+        "src": "img/ines-error-regar-los_s106.png"
+      }
+    }
+  ]
+}
