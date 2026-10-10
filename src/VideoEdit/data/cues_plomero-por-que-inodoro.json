@@ -1,0 +1,1481 @@
+{
+  "slug": "plomero-por-que-inodoro",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 34344,
+  "audioSrc": "plomero-por-que-inodoro.mp3",
+  "avatarSrc": "plomero-por-que-inodoro_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1524,
+      "dur": 707,
+      "clip": 0
+    },
+    {
+      "from": 2386,
+      "dur": 481,
+      "clip": 707
+    },
+    {
+      "from": 13155,
+      "dur": 722,
+      "clip": 1188
+    },
+    {
+      "from": 32015,
+      "dur": 758,
+      "clip": 1910
+    },
+    {
+      "from": 33809,
+      "dur": 483,
+      "clip": 2668
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 235,
+      "dur": 308,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 543,
+      "dur": 288,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 831,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1158,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1404,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2231,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2867,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s06.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3078,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s07.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3487,
+      "dur": 405,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s64.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4072,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s09.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4402,
+      "dur": 287,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s08.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4689,
+      "dur": 366,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s10.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5055,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s11.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5535,
+      "dur": 263,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s11.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5798,
+      "dur": 277,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s12.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6075,
+      "dur": 285,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s13.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6540,
+      "dur": 303,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s13.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6843,
+      "dur": 297,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s14.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7140,
+      "dur": 260,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s15.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7400,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s16.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7700,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s16.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8030,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s16.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8103,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s17.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8342,
+      "dur": 244,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s18.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8586,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s19.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8832,
+      "dur": 347,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s19.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9179,
+      "dur": 286,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s20.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9465,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s21.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9624,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s22.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9888,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s22.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10218,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s22.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10359,
+      "dur": 269,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s23.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10628,
+      "dur": 244,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s24.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10872,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s25.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11373,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s25.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11577,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s26.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11812,
+      "dur": 299,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s27.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12111,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s28.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12309,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s29.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12737,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s29.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13067,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s29.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13877,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s30.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14207,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s60.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14280,
+      "dur": 315,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s31.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14865,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s31.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15087,
+      "dur": 285,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s32.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15372,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s33.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15702,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s33.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16114,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s33.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16317,
+      "dur": 283,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s34.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16600,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s35.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17100,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s35.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17331,
+      "dur": 372,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s36.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17703,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s37.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17901,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s48.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18281,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s48.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18417,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s38.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18690,
+      "dur": 366,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s39.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19056,
+      "dur": 312,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s40.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19368,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s41.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19815,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s41.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20145,
+      "dur": 339,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s42.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20484,
+      "dur": 294,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s43.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20778,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s44.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21252,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s44.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21384,
+      "dur": 359,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s45.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21743,
+      "dur": 324,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s46.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22067,
+      "dur": 268,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s47.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22515,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s47.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22845,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s47.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23073,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s49.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23490,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s49.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23685,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s50.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23937,
+      "dur": 306,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s51.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24243,
+      "dur": 318,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s52.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24801,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s52.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25074,
+      "dur": 306,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s53.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25380,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s54.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25710,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s54.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25782,
+      "dur": 312,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s55.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26394,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s55.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26487,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s56.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26736,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s57.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27063,
+      "dur": 312,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s57.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27375,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s58.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27705,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s58.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28035,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s58.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28365,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s58.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28695,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s58.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29025,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s58.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29355,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s58.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29625,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s59.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29955,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s59.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30285,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s59.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30615,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s59.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30945,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s59.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31275,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s59.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31605,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s59.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31935,
+      "dur": 80,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s59.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32773,
+      "dur": 362,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s61.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33135,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s62.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33462,
+      "dur": 347,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s63.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34292,
+      "dur": 52,
+      "kind": "image",
+      "src": "img/plomero-por-que-inodoro_s63.png",
+      "kb": 1,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2386,
+      "dur": 180,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "MATEO EL PLOMERO",
+        "title": "Mateo",
+        "sub": "15 años destapando inodoros"
+      }
+    },
+    {
+      "from": 2768,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 2768,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 2859,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EN ESTE VIDEO",
+        "title": "Lo que vas a aprender hoy"
+      }
+    },
+    {
+      "from": 3864,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAUSA 1",
+        "title": "Pendiente y volumen de agua"
+      }
+    },
+    {
+      "from": 5211,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "BAJO CONSUMO",
+        "sub": "Diseño antiguo, menos agua de la necesaria",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 6843,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAUSA 2",
+        "title": "El papel que lo empeora"
+      }
+    },
+    {
+      "from": 6857,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAUSA 3",
+        "title": "El nivel de agua del tanque"
+      }
+    },
+    {
+      "from": 8838,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "OBJETOS EN EL TANQUE",
+        "sub": "Botellas, piedras, hasta ladrillos",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 9465,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAUSA 4",
+        "title": "La ventilación del sistema"
+      }
+    },
+    {
+      "from": 10155,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "VACÍO DE AIRE",
+        "sub": "Frena la velocidad de la descarga",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 10719,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "Cómo baja el agua te da la pista"
+      }
+    },
+    {
+      "from": 13453,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 13650,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 13869,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA RECETA",
+        "title": "6 pasos para destaparlo tú mismo"
+      }
+    },
+    {
+      "from": 15228,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "6 A 8 LITROS",
+        "sub": "Volumen estándar de una descarga",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 18690,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEGURIDAD",
+        "title": "Lo que nunca debes mezclar"
+      }
+    },
+    {
+      "from": 20598,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "NUNCA MEZCLES",
+        "sub": "Cloro + vinagre o amoníaco = gas tóxico",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 22572,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEÑALES DE ALARMA",
+        "title": "Cuándo llamar a un plomero"
+      }
+    },
+    {
+      "from": 24435,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "COSTO DE UNA CENA",
+        "sub": "Referencia de una visita de destape simple",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 25617,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MANTENIMIENTO",
+        "title": "El hábito de 15 minutos al mes"
+      }
+    },
+    {
+      "from": 26736,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "15 MINUTOS AL MES",
+        "sub": "El hábito que te ahorra visitas",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 34135,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 55,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "15 AÑOS DE OFICIO",
+        "phrase": "Destapé este mismo inodoro más de 200 veces",
+        "accent": "más de 200 veces",
+        "src": "img/plomero-por-que-inodoro_s01.png"
+      }
+    },
+    {
+      "from": 978,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "¿TE SUENA FAMILIAR?",
+        "phrase": "Se tapa otra vez, aunque uses menos papel",
+        "accent": "otra vez",
+        "src": "img/plomero-por-que-inodoro_s03.png"
+      }
+    },
+    {
+      "from": 3247,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que vas a lograr en este video",
+        "items": [
+          "Encontrar la causa real del atasco",
+          "Diagnosticar tu caso según cómo baja el agua",
+          "Pasos exactos con tiempos y cantidades",
+          "Saber cuándo llamar a un plomero"
+        ]
+      }
+    },
+    {
+      "from": 3892,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAUSA NÚMERO 1",
+        "phrase": "No es el papel: es la pendiente y el volumen de agua",
+        "accent": "pendiente y el volumen",
+        "src": "img/plomero-por-que-inodoro_s09.png"
+      }
+    },
+    {
+      "from": 5355,
+      "dur": 180,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "MIDE LA PENDIENTE DEL TUBO",
+        "w": 150,
+        "h": 5,
+        "unit": "cm",
+        "label": "TRAMO CASI PLANO",
+        "note": "Poca caída: el residuo no avanza"
+      }
+    },
+    {
+      "from": 6360,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CASO REAL",
+        "phrase": "Cada descarga dejaba un residuo que nunca se iba del todo",
+        "accent": "nunca se iba",
+        "src": "img/plomero-por-que-inodoro_s13.png"
+      }
+    },
+    {
+      "from": 7490,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Las toallitas húmedas biodegradables no dañan la tubería",
+        "truth": "Tardan mucho más en deshacerse que el papel normal"
+      }
+    },
+    {
+      "from": 8652,
+      "dur": 180,
+      "comp": "NivelBurbuja",
+      "props": {
+        "theme": "earth",
+        "title": "Nivel de agua en el tanque",
+        "verdict": "AGUA BAJO EL MÍNIMO",
+        "sub": "Por eso la descarga sale débil"
+      }
+    },
+    {
+      "from": 9708,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAUSA NÚMERO 4",
+        "phrase": "Sin ventilación, el agua pierde velocidad al bajar",
+        "accent": "pierde velocidad",
+        "src": "img/plomero-por-que-inodoro_s22.png"
+      }
+    },
+    {
+      "from": 11103,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lee las señales en el agua",
+        "items": [
+          "Sube y baja muy lento: obstrucción adelante",
+          "Sube, se detiene y baja con succión: falla de ventilación",
+          "Nivel bajo en reposo: fuga de aire",
+          "Se traba solo con más uso: poco volumen"
+        ]
+      }
+    },
+    {
+      "from": 12557,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "phrase": "El sistema está al límite y cualquier carga extra lo tumba",
+        "accent": "al límite",
+        "src": "img/plomero-por-que-inodoro_s29.png"
+      }
+    },
+    {
+      "from": 14595,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASOS 1 Y 2",
+        "title": "Antes de tocar nada",
+        "steps": [
+          {
+            "title": "Cierra la llave de paso",
+            "sub": "Gírala en sentido horario"
+          },
+          {
+            "title": "Vacía el tanque",
+            "sub": "Jala la palanca sin que se rellene"
+          },
+          {
+            "title": "Revisa adentro",
+            "sub": "Botellas, piedras u objetos extraños"
+          }
+        ]
+      }
+    },
+    {
+      "from": 15844,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 3",
+        "title": "Ajusta el flotador",
+        "steps": [
+          {
+            "title": "Busca la línea",
+            "sub": "Grabada en la pared del tanque"
+          },
+          {
+            "title": "Gira el tornillo o clip",
+            "sub": "Según el modelo de flotador"
+          },
+          {
+            "title": "Llena y verifica",
+            "sub": "El agua debe llegar justo a la línea"
+          }
+        ]
+      }
+    },
+    {
+      "from": 16830,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 4",
+        "title": "Usa la sonda correcta",
+        "steps": [
+          {
+            "title": "Sonda de resorte metálico",
+            "sub": "No la ventosa de goma"
+          },
+          {
+            "title": "Gira en sentido horario",
+            "sub": "Avanza sin forzar"
+          },
+          {
+            "title": "2 a 3 minutos",
+            "sub": "Movimientos cortos de 10 cm"
+          }
+        ]
+      }
+    },
+    {
+      "from": 18011,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SI EL PROBLEMA PERSISTE",
+        "title": "Agua caliente, no hirviendo",
+        "steps": [
+          {
+            "title": "3 a 4 litros",
+            "sub": "Hervida y reposada 2 minutos"
+          },
+          {
+            "title": "Dos tandas",
+            "sub": "5 minutos de espera entre cada una"
+          },
+          {
+            "title": "Cuidado con el PVC",
+            "sub": "El calor extremo lo deforma"
+          }
+        ]
+      }
+    },
+    {
+      "from": 19605,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Bicarbonato con vinagre destapa cualquier inodoro",
+        "truth": "Solo limpia olores leves, no rompe un tapón real"
+      }
+    },
+    {
+      "from": 21012,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Reglas de seguridad con químicos",
+        "items": [
+          "Nunca cloro + vinagre",
+          "Nunca cloro + amoníaco",
+          "Usa un solo destapador comercial",
+          "Lee siempre la etiqueta"
+        ]
+      }
+    },
+    {
+      "from": 22335,
+      "dur": 180,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "EL TUBO DE VENTILACIÓN",
+        "w": 8,
+        "h": 8,
+        "unit": "cm",
+        "label": "DIÁMETRO",
+        "note": "5 a 10 cm, debe estar libre de hojas y nidos"
+      }
+    },
+    {
+      "from": 23250,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Cuándo ya necesitas un plomero",
+        "items": [
+          "Se traba cada pocos días tras la sonda",
+          "Borbotea en la regadera o el lavabo",
+          "El agua retrocede en el piso",
+          "Sospecha de sello roto"
+        ]
+      }
+    },
+    {
+      "from": 24561,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Costos de referencia",
+        "left": {
+          "label": "Destape simple",
+          "sub": "Como una cena para dos personas"
+        },
+        "right": {
+          "label": "Sonda motorizada o remodelación",
+          "sub": "Más tiempo, equipo y mano de obra"
+        }
+      }
+    },
+    {
+      "from": 26094,
+      "dur": 300,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Mantenimiento mensual",
+        "steps": [
+          {
+            "when": "Cada mes",
+            "text": "2 a 3 litros de agua caliente en la taza"
+          },
+          {
+            "when": "Cada mes",
+            "text": "Revisa el tanque: nada raro adentro"
+          },
+          {
+            "when": "Cada 3 a 4 meses",
+            "text": "Checa que la ventilación del techo esté libre"
+          },
+          {
+            "when": "Resultado",
+            "text": "Menos de 15 minutos al mes"
+          }
+        ]
+      }
+    },
+    {
+      "from": 26883,
+      "dur": 180,
+      "comp": "NivelBurbuja",
+      "props": {
+        "theme": "earth",
+        "title": "Revisa el nivel del tanque",
+        "verdict": "AGUA AL NIVEL",
+        "sub": "Justo en la línea del fabricante, sin objetos extraños"
+      }
+    },
+    {
+      "from": 33282,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA LECCIÓN",
+        "phrase": "Até el síntoma, no la causa detrás del síntoma",
+        "accent": "no la causa",
+        "src": "img/plomero-por-que-inodoro_s63.png"
+      }
+    }
+  ]
+}
