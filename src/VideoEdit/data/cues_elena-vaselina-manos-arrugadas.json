@@ -1,0 +1,1602 @@
+{
+  "slug": "elena-vaselina-manos-arrugadas",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 32955,
+  "audioSrc": "elena-vaselina-manos-arrugadas.mp3",
+  "avatarSrc": "elena-vaselina-manos-arrugadas_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 715,
+      "dur": 568,
+      "clip": 0
+    },
+    {
+      "from": 4048,
+      "dur": 153,
+      "clip": 568
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 2,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 212,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 323,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 653,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s01.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1283,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s01.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1476,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s02.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1806,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s02.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1999,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s03.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2428,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2645,
+      "dur": 382,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s04.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3297,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s06.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3451,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s07.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3781,
+      "dur": 267,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4201,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s08.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4328,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s09.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4724,
+      "dur": 268,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s09.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4992,
+      "dur": 257,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s10.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5249,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s11.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5486,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s12.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5786,
+      "dur": 324,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s13.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6110,
+      "dur": 244,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s14.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6354,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s15.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6700,
+      "dur": 268,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s15.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6968,
+      "dur": 280,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s16.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7248,
+      "dur": 290,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s17.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7748,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s18.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7926,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s19.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8083,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s20.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8570,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s20.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8711,
+      "dur": 308,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s21.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9019,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s22.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9190,
+      "dur": 278,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s23.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9468,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s24.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9940,
+      "dur": 319,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s25.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10259,
+      "dur": 339,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s26.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10898,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s26.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11087,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s27.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11287,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s72.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11371,
+      "dur": 282,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s28.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11653,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s29.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11983,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s29.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12396,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s30.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12726,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s30.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12869,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s31.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13316,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s60.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13529,
+      "dur": 281,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s32.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13810,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s33.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14176,
+      "dur": 311,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s33.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14487,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s34.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14717,
+      "dur": 353,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s35.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15250,
+      "dur": 331,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s35.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15581,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s36.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15809,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s37.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16000,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s38.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16234,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s39.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16690,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s39.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16840,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s40.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16922,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s41.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17122,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s42.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17294,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s43.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17713,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s43.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17915,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s44.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18215,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s45.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18356,
+      "dur": 311,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s46.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18937,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s46.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19103,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s47.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19433,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s47.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19763,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s47.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19987,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s48.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20092,
+      "dur": 259,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s49.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20591,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s49.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20788,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s50.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20953,
+      "dur": 339,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s51.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21292,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s52.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21517,
+      "dur": 347,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s53.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22104,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s53.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22229,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s54.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22316,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s55.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22646,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s55.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22711,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s56.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23072,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s56.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23402,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s56.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23480,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s57.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23549,
+      "dur": 311,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s58.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24040,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s58.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24198,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s59.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24528,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s59.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25094,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s59.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25287,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s61.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25439,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s62.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25561,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s63.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25700,
+      "dur": 296,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s64.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25996,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s65.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26117,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s66.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26500,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s66.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26703,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s67.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26824,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s68.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27310,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s68.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27437,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s69.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27542,
+      "dur": 288,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s70.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27830,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s71.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28160,
+      "dur": 57,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s71.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28547,
+      "dur": 313,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s71.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28860,
+      "dur": 265,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s73.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29125,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s74.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29455,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s74.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29785,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s74.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30115,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s74.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30445,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s74.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30775,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s74.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31105,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s74.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31254,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s75.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31331,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s76.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31741,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s76.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32071,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s76.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32401,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s76.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32731,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/elena-vaselina-manos-arrugadas_s76.png",
+      "kb": 2,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 493,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "AIRE ACONDICIONADO",
+        "sub": "seca la piel igual en verano",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 892,
+      "dur": 135,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "MÉTODO BIENESTAR NATURAL",
+        "title": "Dra. Elena Vidal",
+        "sub": "Remedios caseros con base y cautela"
+      }
+    },
+    {
+      "from": 3751,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 3937,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 4328,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 1",
+        "title": "La verdad sobre la vaselina"
+      }
+    },
+    {
+      "from": 5894,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ALIVIO TEMPORAL",
+        "sub": "no es lo mismo que hidratar",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 6354,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "Menos agua con los años"
+      }
+    },
+    {
+      "from": 7045,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MENOS RESERVAS",
+        "sub": "la piel retiene menos agua con la edad",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 7495,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "La piel no se ablanda sola"
+      }
+    },
+    {
+      "from": 8248,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "La falsa sensación de alivio"
+      }
+    },
+    {
+      "from": 10508,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "1 CUCHARADA + 1 CUCHARADITA",
+        "sub": "vaselina y glicerina",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 11906,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MÉTODO",
+        "title": "Combinación 2: Aceite natural"
+      }
+    },
+    {
+      "from": 14717,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MÉTODO",
+        "title": "Combinación 3: Urea suave"
+      }
+    },
+    {
+      "from": 15809,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "UREA AL 5%",
+        "sub": "concentración suave para manos",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 16922,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TRUCO",
+        "title": "Guantes de algodón"
+      }
+    },
+    {
+      "from": 20092,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ATENCIÓN",
+        "title": "3 errores que arruinan la mezcla"
+      }
+    },
+    {
+      "from": 22516,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PROTECCIÓN",
+        "title": "Manchas y protector solar"
+      }
+    },
+    {
+      "from": 24198,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "FACTOR 30",
+        "sub": "protección mínima recomendada",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 27437,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "COLÁGENO",
+        "sub": "las arrugas profundas no las revierte una crema",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 29688,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 32320,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 32856,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 2,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "La verdad incómoda",
+        "phrase": "Tus manos hablan antes que tu cara",
+        "accent": "hablan antes que tu cara",
+        "src": "img/elena-vaselina-manos-arrugadas_s01.png"
+      }
+    },
+    {
+      "from": 2158,
+      "dur": 270,
+      "comp": "RutinaDia",
+      "props": {
+        "theme": "earth",
+        "title": "Tu rutina, simple",
+        "slots": [
+          {
+            "time": "7:00",
+            "text": "Lavado suave y protector solar"
+          },
+          {
+            "time": "21:00",
+            "text": "Vaselina mezclada en las manos"
+          },
+          {
+            "time": "21:05",
+            "text": "Guantes de algodón para dormir"
+          }
+        ]
+      }
+    },
+    {
+      "from": 3027,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Repaso rápido",
+        "items": [
+          "Hidratar primero, sellar después",
+          "Guantes de algodón por la noche",
+          "Protector solar factor 30 de día"
+        ]
+      }
+    },
+    {
+      "from": 4514,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Dato clave",
+        "phrase": "La vaselina sella la piel, pero no la hidrata",
+        "accent": "sella, pero no hidrata",
+        "src": "img/elena-vaselina-manos-arrugadas_s09.png"
+      }
+    },
+    {
+      "from": 6460,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Razón 1",
+        "phrase": "Con los años, las manos retienen menos agua por sí mismas",
+        "accent": "retienen menos agua",
+        "src": "img/elena-vaselina-manos-arrugadas_s15.png"
+      }
+    },
+    {
+      "from": 7538,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Razón 2",
+        "phrase": "La vaselina sola no ablanda la piel ya endurecida",
+        "accent": "no ablanda",
+        "src": "img/elena-vaselina-manos-arrugadas_s18.png"
+      }
+    },
+    {
+      "from": 8330,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Si ya no se siente tirante, el problema está resuelto",
+        "truth": "La sequedad de fondo puede seguir avanzando igual"
+      }
+    },
+    {
+      "from": 9700,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "La clave",
+        "phrase": "Primero hidratar, después sellar. Nunca al revés",
+        "accent": "Primero hidratar, después sellar",
+        "src": "img/elena-vaselina-manos-arrugadas_s24.png"
+      }
+    },
+    {
+      "from": 10598,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Combinación 1",
+        "title": "Vaselina + Glicerina",
+        "steps": [
+          {
+            "title": "1 cucharada",
+            "sub": "de vaselina"
+          },
+          {
+            "title": "1 cucharadita",
+            "sub": "de glicerina"
+          },
+          {
+            "title": "Mezclar bien",
+            "sub": "hasta pasta uniforme, sin grumos"
+          }
+        ]
+      }
+    },
+    {
+      "from": 12126,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Aceites según tu clima",
+        "items": [
+          "Almendras: suave, poco graso",
+          "Oliva: eficaz, con olor marcado",
+          "Coco: líquido en calor, sólido en frío"
+        ]
+      }
+    },
+    {
+      "from": 13076,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Glicerina o aceite natural?",
+        "left": {
+          "label": "Glicerina",
+          "sub": "Atrae humedad desde el ambiente"
+        },
+        "right": {
+          "label": "Aceite natural",
+          "sub": "Refuerza la barrera de grasas"
+        }
+      }
+    },
+    {
+      "from": 13906,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Combinación 2",
+        "title": "Vaselina + Aceite natural",
+        "steps": [
+          {
+            "title": "2 partes",
+            "sub": "de vaselina"
+          },
+          {
+            "title": "1 parte",
+            "sub": "de aceite natural"
+          },
+          {
+            "title": "Mezclar",
+            "sub": "hasta integrar bien"
+          }
+        ]
+      }
+    },
+    {
+      "from": 15070,
+      "dur": 180,
+      "comp": "AnilloPorcentaje",
+      "props": {
+        "theme": "earth",
+        "value": 5,
+        "label": "Urea para suavizar la piel",
+        "sub": "Concentración recomendada en cremas de manos",
+        "eyebrow": "El dato"
+      }
+    },
+    {
+      "from": 16390,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Combinación 3",
+        "title": "Crema con urea + vaselina",
+        "steps": [
+          {
+            "title": "1. Crema con urea",
+            "sub": "al 5%, primero"
+          },
+          {
+            "title": "2. Capa fina de vaselina",
+            "sub": "encima, para sellar"
+          },
+          {
+            "title": "Frecuencia",
+            "sub": "2 a 3 veces por semana"
+          }
+        ]
+      }
+    },
+    {
+      "from": 17503,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "El truco",
+        "phrase": "Los guantes de algodón ayudan a que la crema penetre mejor",
+        "accent": "penetre mejor",
+        "src": "img/elena-vaselina-manos-arrugadas_s43.png"
+      }
+    },
+    {
+      "from": 18667,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Guantes de algodón: lo esencial",
+        "items": [
+          "Finos, especiales para dormir",
+          "Se lavan y reutilizan fácilmente",
+          "Si no hay, calcetines limpios y finos"
+        ]
+      }
+    },
+    {
+      "from": 20351,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Aplicar la crema sin lavarse las manos no cambia nada",
+        "truth": "Atrapa suciedad bajo la vaselina y puede irritar la piel"
+      }
+    },
+    {
+      "from": 21864,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "La cantidad justa",
+        "items": [
+          "Del tamaño de un guisante",
+          "Repartida en toda la mano",
+          "Entre los dedos y alrededor de las uñas"
+        ]
+      }
+    },
+    {
+      "from": 22862,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Sobre las manchas",
+        "phrase": "Las manchas reflejan años de sol, no solo la edad",
+        "accent": "años de sol",
+        "src": "img/elena-vaselina-manos-arrugadas_s56.png"
+      }
+    },
+    {
+      "from": 23860,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Protección diaria",
+        "phrase": "Factor 30 en las manos, todos los días",
+        "accent": "Factor 30",
+        "src": "img/elena-vaselina-manos-arrugadas_s58.png"
+      }
+    },
+    {
+      "from": 24704,
+      "dur": 390,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Tu plan en 4 semanas",
+        "steps": [
+          {
+            "when": "Semana 1",
+            "text": "Vaselina + glicerina cada noche, protector solar de día"
+          },
+          {
+            "when": "Semana 2",
+            "text": "Alterna con vaselina + aceite natural"
+          },
+          {
+            "when": "Semana 3",
+            "text": "Suma crema con urea 2-3 veces en zonas duras"
+          },
+          {
+            "when": "Semana 4",
+            "text": "Observa: menos tirantez, piel más flexible"
+          }
+        ]
+      }
+    },
+    {
+      "from": 26230,
+      "dur": 270,
+      "comp": "RutinaDia",
+      "props": {
+        "theme": "earth",
+        "title": "Tu rutina, simple",
+        "slots": [
+          {
+            "time": "7:00",
+            "text": "Protector solar FPS 30"
+          },
+          {
+            "time": "21:00",
+            "text": "Alterna glicerina y aceite natural"
+          },
+          {
+            "time": "21:05",
+            "text": "Guantes de algodón"
+          }
+        ]
+      }
+    },
+    {
+      "from": 27040,
+      "dur": 270,
+      "comp": "RutinaDia",
+      "props": {
+        "theme": "earth",
+        "title": "Semana 4: tu rutina ya estable",
+        "slots": [
+          {
+            "time": "7:00",
+            "text": "Protector solar, todos los días"
+          },
+          {
+            "time": "21:00",
+            "text": "La mezcla que mejor te funcionó"
+          },
+          {
+            "time": "21:05",
+            "text": "Guantes de algodón, siempre"
+          }
+        ]
+      }
+    },
+    {
+      "from": 28217,
+      "dur": 330,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "¿Esto te pasa a ti?",
+        "items": [
+          "¿Manos tirantes al lavarlas?",
+          "¿Líneas marcadas en los nudillos?",
+          "¿Piel opaca, sin brillo natural?",
+          "¿La vaselina sola no es suficiente?"
+        ]
+      }
+    },
+    {
+      "from": 31561,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Antes de irte",
+        "phrase": "Contanos qué mezcla vas a probar primero",
+        "accent": "vas a probar primero",
+        "src": "img/elena-vaselina-manos-arrugadas_s76.png"
+      }
+    }
+  ]
+}
