@@ -1,0 +1,1562 @@
+{
+  "slug": "ines-solo-una-cucharada",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 34946,
+  "audioSrc": "ines-solo-una-cucharada.mp3",
+  "avatarSrc": "ines-solo-una-cucharada_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 824,
+      "dur": 507,
+      "clip": 0
+    },
+    {
+      "from": 2585,
+      "dur": 105,
+      "clip": 507
+    },
+    {
+      "from": 30212,
+      "dur": 210,
+      "clip": 612
+    },
+    {
+      "from": 33838,
+      "dur": 274,
+      "clip": 822
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 3,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 243,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 495,
+      "dur": 329,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1331,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s01.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1547,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s02.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1905,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2126,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s03.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2417,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s03.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2690,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2832,
+      "dur": 254,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s04.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3356,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3428,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s05.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3618,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s06.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4148,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s06.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4478,
+      "dur": 260,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4738,
+      "dur": 243,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5161,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s08.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5491,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s08.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5624,
+      "dur": 272,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s09.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5896,
+      "dur": 366,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6262,
+      "dur": 344,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s11.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6606,
+      "dur": 372,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s12.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6978,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s13.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7433,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s13.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7553,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s14.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7805,
+      "dur": 309,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s15.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8114,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s16.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8590,
+      "dur": 302,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s16.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8892,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s17.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9144,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s18.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9474,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s18.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9804,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s18.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10044,
+      "dur": 271,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s20.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10315,
+      "dur": 286,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s21.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10601,
+      "dur": 258,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s22.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10859,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s23.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11410,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s23.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11476,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s24.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11806,
+      "dur": 61,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s24.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11867,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s25.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12167,
+      "dur": 311,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s26.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12478,
+      "dur": 369,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s27.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12847,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s28.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13242,
+      "dur": 354,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s28.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13596,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s29.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13805,
+      "dur": 295,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s30.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14280,
+      "dur": 271,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s30.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14551,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s31.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14748,
+      "dur": 263,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s32.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15011,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s33.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15407,
+      "dur": 332,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s33.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15739,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s34.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15950,
+      "dur": 363,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s35.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16583,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s35.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16762,
+      "dur": 267,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s36.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17029,
+      "dur": 266,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s37.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17295,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s38.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17625,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s38.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17955,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s38.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18079,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s39.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18409,
+      "dur": 53,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s39.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18462,
+      "dur": 281,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19043,
+      "dur": 257,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s40.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19300,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s41.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19570,
+      "dur": 364,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s42.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20174,
+      "dur": 346,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s42.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20520,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s43.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20790,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s44.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21120,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s44.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21241,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s45.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21594,
+      "dur": 322,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s45.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21916,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s46.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22246,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s46.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22324,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s47.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22556,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s48.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22886,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s48.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23216,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s48.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23372,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s49.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24032,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s50.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24362,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s50.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24497,
+      "dur": 374,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s51.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24871,
+      "dur": 360,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s52.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25231,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s53.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25471,
+      "dur": 285,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s54.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25936,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s54.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26142,
+      "dur": 343,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s55.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26485,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s56.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26720,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s57.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27050,
+      "dur": 58,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s57.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27108,
+      "dur": 280,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s58.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27388,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s59.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27668,
+      "dur": 301,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s59.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27969,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s60.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28299,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s60.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28440,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s61.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28644,
+      "dur": 284,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s62.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29168,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s62.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29354,
+      "dur": 376,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s63.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29730,
+      "dur": 374,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s64.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30104,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s65.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30422,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s65.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30752,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s65.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30925,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s66.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31255,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s66.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31585,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s66.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31915,
+      "dur": 256,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s66.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32171,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s67.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32682,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s67.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32824,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s68.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33154,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s68.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33494,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s68.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33622,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s69.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34112,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s69.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 34442,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s69.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 34772,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/ines-solo-una-cucharada_s69.png",
+      "kb": 0,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 721,
+      "dur": 135,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "HUERTA REAL",
+        "title": "Inés",
+        "sub": "Pepinos de balcón, sin vueltas"
+      }
+    },
+    {
+      "from": 4646,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 4690,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 4690,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 4738,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "El tamaño de la maceta"
+      }
+    },
+    {
+      "from": 6378,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CLOROFILA",
+        "sub": "se fabrica con magnesio",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 9257,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "El tutor vertical"
+      }
+    },
+    {
+      "from": 10438,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "TUTOR",
+        "sub": "clavado desde el trasplante",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 13596,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "El riego en maceta"
+      }
+    },
+    {
+      "from": 14012,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "TRANSPIRACIÓN",
+        "sub": "hojas grandes, mucha agua",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 17460,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "title": "La cucharada de magnesio"
+      }
+    },
+    {
+      "from": 18297,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "15 GRAMOS",
+        "sub": "una cucharada sopera",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 21916,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "LIBERACIÓN LENTA",
+        "sub": "compost y humus",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 23372,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PLAN",
+        "title": "Semana a semana"
+      }
+    },
+    {
+      "from": 26801,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "POLINIZACIÓN",
+        "sub": "a mano, con un pincel",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 30104,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REPASO",
+        "title": "Lo que vimos hoy"
+      }
+    },
+    {
+      "from": 32321,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ANTES DE CERRAR",
+        "title": "Lo que la cucharada no hace"
+      }
+    },
+    {
+      "from": 32968,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "VARIEDAD COMPACTA",
+        "sub": "pensada para maceta",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 34301,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 3,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PROBLEMA",
+        "phrase": "Una cucharada en el riego y tus pepinos dejan de amarillear",
+        "accent": "una cucharada",
+        "src": "img/ines-solo-una-cucharada_s01.png"
+      }
+    },
+    {
+      "from": 1695,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "¿Es falta de magnesio?",
+        "items": [
+          "Hojas de abajo amarillas",
+          "Venas (nervaduras) verdes",
+          "Las hojas de arriba están sanas",
+          "Aparece desde la 3ª semana"
+        ]
+      }
+    },
+    {
+      "from": 2207,
+      "dur": 210,
+      "comp": "CrecimientoPlanta",
+      "props": {
+        "theme": "earth",
+        "title": "Resumen: el ciclo del pepino",
+        "stages": [
+          {
+            "label": "TRASPLANTE",
+            "sub": "tutor desde el día 1"
+          },
+          {
+            "label": "FLORACIÓN",
+            "sub": "primera cucharada si hace falta"
+          },
+          {
+            "label": "COSECHA",
+            "sub": "8 a 15 pepinos por planta"
+          }
+        ]
+      }
+    },
+    {
+      "from": 3086,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EN ESTE VIDEO",
+        "title": "Lo que vas a aprender",
+        "steps": [
+          {
+            "title": "Diagnosticar",
+            "sub": "magnesio u otra causa"
+          },
+          {
+            "title": "Tutor y riego",
+            "sub": "la base que sostiene todo"
+          },
+          {
+            "title": "La cucharada",
+            "sub": "cuánto, cuándo y cuándo no"
+          }
+        ]
+      }
+    },
+    {
+      "from": 3848,
+      "dur": 300,
+      "comp": "CalendarioSiembra",
+      "props": {
+        "theme": "earth",
+        "title": "¿Cuándo sembrar pepino en maceta?",
+        "crop": "Pepino en maceta (balcón)",
+        "sow": [
+          4,
+          5,
+          6
+        ],
+        "harvest": [
+          7,
+          8,
+          9
+        ],
+        "note": "Ajusta según el clima de tu zona"
+      }
+    },
+    {
+      "from": 4981,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "phrase": "El pepino es trepador: sin tutor, se amontona y se ahoga",
+        "accent": "se amontona",
+        "src": "img/ines-solo-una-cucharada_s19.png"
+      }
+    },
+    {
+      "from": 5251,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Raíces: tierra abierta vs. maceta",
+        "left": {
+          "label": "Tierra abierta",
+          "sub": "raíces de más de 1 metro"
+        },
+        "right": {
+          "label": "Maceta de 20 L",
+          "sub": "raíces topan la pared en semanas"
+        }
+      }
+    },
+    {
+      "from": 7163,
+      "dur": 270,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Toda hoja amarilla es falta de magnesio",
+        "truth": "Puede ser riego, hierro, nitrógeno o incluso un virus"
+      }
+    },
+    {
+      "from": 8227,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "phrase": "La sal de Epsom es sulfato de magnesio, no sal de mesa",
+        "accent": "no sal de mesa",
+        "src": "img/ines-solo-una-cucharada_s38.png"
+      }
+    },
+    {
+      "from": 8380,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Antes de aplicar nada, mira la hoja",
+        "items": [
+          "¿Las venas quedan verdes?",
+          "¿Amarillea entera y se marchita?",
+          "¿Son las hojas nuevas de arriba?",
+          "¿Hay manchas en mosaico?"
+        ]
+      }
+    },
+    {
+      "from": 11080,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CÓMO ARMAR EL TUTOR",
+        "title": "Tutor vertical en 3 pasos",
+        "steps": [
+          {
+            "title": "Clava las cañas",
+            "sub": "1,60 a 1,80 m, desde el trasplante"
+          },
+          {
+            "title": "Átalas en tipi",
+            "sub": "3 o 4 cañas, con hilo arriba"
+          },
+          {
+            "title": "Guía el tallo",
+            "sub": "cada 20-25 cm, con hilo de algodón"
+          }
+        ]
+      }
+    },
+    {
+      "from": 13032,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DATO",
+        "phrase": "Un pepino bien tutorado puede dar entre 8 y 15 frutos por planta",
+        "accent": "8 y 15 frutos",
+        "src": "img/ines-solo-una-cucharada_s28.png"
+      }
+    },
+    {
+      "from": 14100,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "phrase": "Regar mucho no es lo mismo que regar bien",
+        "accent": "regar bien",
+        "src": "img/ines-solo-una-cucharada_s30.png"
+      }
+    },
+    {
+      "from": 15137,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RIEGO CORRECTO",
+        "title": "Cómo regar el pepino en maceta",
+        "steps": [
+          {
+            "title": "Riega a fondo",
+            "sub": "hasta que drene por abajo"
+          },
+          {
+            "title": "Espera",
+            "sub": "a que la superficie se seque"
+          },
+          {
+            "title": "Chequea con el dedo",
+            "sub": "2-3 cm de profundidad"
+          }
+        ]
+      }
+    },
+    {
+      "from": 16313,
+      "dur": 270,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Si la hoja amarillea, siempre es falta de agua",
+        "truth": "Hojas blandas y translúcidas = exceso de riego, no sed"
+      }
+    },
+    {
+      "from": 18743,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA CUCHARADA",
+        "title": "Cómo prepararla",
+        "steps": [
+          {
+            "title": "1 cucharada (15 g)",
+            "sub": "en 4 litros de agua"
+          },
+          {
+            "title": "Disuelve bien",
+            "sub": "sin cristales en el fondo"
+          },
+          {
+            "title": "Cada 2-3 semanas",
+            "sub": "en crecimiento y floración"
+          }
+        ]
+      }
+    },
+    {
+      "from": 19934,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "La sal de Epsom reemplaza al fertilizante",
+        "truth": "Solo aporta magnesio; necesitas nitrógeno, fósforo y potasio igual"
+      }
+    },
+    {
+      "from": 21354,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Sal de Epsom vs. compost/humus",
+        "left": {
+          "label": "Sal de Epsom",
+          "sub": "acción rápida, 10-14 días"
+        },
+        "right": {
+          "label": "Compost / humus",
+          "sub": "acción lenta, 3-4 semanas"
+        }
+      }
+    },
+    {
+      "from": 23672,
+      "dur": 360,
+      "comp": "CrecimientoPlanta",
+      "props": {
+        "theme": "earth",
+        "title": "De semilla a cosecha",
+        "stages": [
+          {
+            "label": "TRASPLANTE",
+            "sub": "semana 1"
+          },
+          {
+            "label": "CRECIMIENTO",
+            "sub": "semana 2-3"
+          },
+          {
+            "label": "FLORACIÓN",
+            "sub": "semana 4"
+          },
+          {
+            "label": "FRUTOS",
+            "sub": "semana 5-6"
+          },
+          {
+            "label": "COSECHA",
+            "sub": "semana 7 en adelante"
+          }
+        ]
+      }
+    },
+    {
+      "from": 25756,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEMANA 4",
+        "phrase": "Llega la primera floración: empieza el fertilizante balanceado",
+        "accent": "primera floración",
+        "src": "img/ines-solo-una-cucharada_s54.png"
+      }
+    },
+    {
+      "from": 27488,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEMANA 5-6",
+        "phrase": "Si ves pocas abejas, poliniza a mano con un pincel chico",
+        "accent": "a mano con un pincel",
+        "src": "img/ines-solo-una-cucharada_s59.png"
+      }
+    },
+    {
+      "from": 28928,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Semana 7 en adelante",
+        "items": [
+          "Riego según humedad real",
+          "Fertilizante cada 10-14 días",
+          "Cucharada solo si vuelve el síntoma",
+          "Poda las hojas ya amarillas y secas"
+        ]
+      }
+    },
+    {
+      "from": 32412,
+      "dur": 270,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "La cucharada garantiza una cosecha enorme",
+        "truth": "Sin sol, buen balcón y variedad adecuada, no hay truco que alcance"
+      }
+    },
+    {
+      "from": 33254,
+      "dur": 240,
+      "comp": "CalendarioSiembra",
+      "props": {
+        "theme": "earth",
+        "title": "Elige bien la variedad",
+        "crop": "Pepino compacto para maceta",
+        "sow": [
+          4,
+          5,
+          6
+        ],
+        "harvest": [
+          7,
+          8,
+          9
+        ],
+        "note": "Las variedades compactas rinden mejor en espacios chicos"
+      }
+    }
+  ]
+}
