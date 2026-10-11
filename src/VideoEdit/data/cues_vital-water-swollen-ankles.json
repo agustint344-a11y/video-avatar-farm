@@ -1,0 +1,1595 @@
+{
+  "slug": "vital-water-swollen-ankles",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 33530,
+  "audioSrc": "vital-water-swollen-ankles.mp3",
+  "avatarSrc": "vital-water-swollen-ankles_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1662,
+      "dur": 279,
+      "clip": 0
+    },
+    {
+      "from": 29157,
+      "dur": 282,
+      "clip": 279
+    },
+    {
+      "from": 31623,
+      "dur": 185,
+      "clip": 561
+    },
+    {
+      "from": 33071,
+      "dur": 175,
+      "clip": 746
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 3,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 213,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 430,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 760,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s01.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1090,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s01.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1420,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s01.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1941,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2026,
+      "dur": 328,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2354,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2627,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s04.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2816,
+      "dur": 59,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s69.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2875,
+      "dur": 58,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s05.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3233,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3419,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s06.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3610,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s07.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3940,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4270,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s07.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4435,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s08.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4611,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s09.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4759,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5059,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s11.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5506,
+      "dur": 53,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s36.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5559,
+      "dur": 306,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s12.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5865,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s13.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6233,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s26.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6450,
+      "dur": 351,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s14.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6801,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s15.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7001,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s16.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7388,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s16.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7524,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s17.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7854,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s17.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8014,
+      "dur": 348,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s18.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8572,
+      "dur": 343,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s18.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8915,
+      "dur": 269,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s19.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9184,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s20.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9663,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s20.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9888,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s21.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10119,
+      "dur": 255,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s22.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10374,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s23.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10840,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s23.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10977,
+      "dur": 295,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s24.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11272,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s25.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11602,
+      "dur": 365,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s25.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11967,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s27.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12410,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s27.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12572,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s28.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12722,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s29.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12971,
+      "dur": 320,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s30.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13561,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s30.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13762,
+      "dur": 364,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s31.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14426,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s31.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14756,
+      "dur": 366,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s32.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15362,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s32.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15509,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s33.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15839,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s33.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16004,
+      "dur": 264,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s34.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16268,
+      "dur": 54,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s35.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16532,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s35.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16862,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s35.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17073,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s37.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17403,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s37.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17865,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s37.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17965,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s38.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18217,
+      "dur": 303,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s39.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18520,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s40.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19025,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s40.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19130,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s41.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19406,
+      "dur": 244,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s42.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19650,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s43.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20157,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s43.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20397,
+      "dur": 337,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s44.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20734,
+      "dur": 271,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s45.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21005,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s46.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21246,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s47.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21736,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s47.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21933,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s48.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22263,
+      "dur": 53,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s48.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22316,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s49.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22550,
+      "dur": 324,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s50.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22874,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s51.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23357,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s51.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23479,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s52.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23741,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s53.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24251,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s53.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24329,
+      "dur": 370,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s54.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24699,
+      "dur": 265,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s55.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25204,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s55.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25534,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s55.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25589,
+      "dur": 301,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s56.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25890,
+      "dur": 280,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s57.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26170,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s58.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26374,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s59.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26898,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s59.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26987,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s60.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27149,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s61.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27374,
+      "dur": 291,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s62.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27665,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s63.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28168,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s63.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28308,
+      "dur": 283,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s64.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28831,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s64.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28975,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s65.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29439,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s65.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29769,
+      "dur": 368,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s65.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30137,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s66.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30378,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s67.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30518,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s68.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30863,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s68.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31193,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s68.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31337,
+      "dur": 286,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s70.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31808,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s70.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32138,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s70.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32468,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s70.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32798,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s70.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33246,
+      "dur": 284,
+      "kind": "image",
+      "src": "img/vital-water-swollen-ankles_s70.png",
+      "kb": 5,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 631,
+      "dur": 135,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "VITAL AFTER 60",
+        "title": "Dr. Alan Brooks",
+        "sub": "Honest habits for healthier aging"
+      }
+    },
+    {
+      "from": 2816,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "TEN DAYS",
+        "sub": "Carol's noticeable improvement",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 2875,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "WHAT'S AHEAD",
+        "title": "Your Roadmap"
+      }
+    },
+    {
+      "from": 3848,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Vital After 60 Guides",
+        "hint": "point your camera 📷"
+      }
+    },
+    {
+      "from": 4282,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Vital After 60 Guides",
+        "hint": "point your camera 📷"
+      }
+    },
+    {
+      "from": 4435,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REASON 1",
+        "title": "Gravity & Weak Vein Valves"
+      }
+    },
+    {
+      "from": 5559,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "POOLING",
+        "sub": "Fluid settles in lower legs by evening",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 6801,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REASON 2",
+        "title": "Sodium vs. Water"
+      }
+    },
+    {
+      "from": 8014,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "DEHYDRATION",
+        "sub": "Can make swelling worse, not better",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 10374,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REASON 3",
+        "title": "Medications & Sitting Still"
+      }
+    },
+    {
+      "from": 11967,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "THE FIX",
+        "title": "The Water Habit"
+      }
+    },
+    {
+      "from": 16004,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Vital After 60 Guides",
+        "hint": "point your camera 📷"
+      }
+    },
+    {
+      "from": 16119,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REASON 4",
+        "title": "Movement & Leg Elevation"
+      }
+    },
+    {
+      "from": 17073,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "WALK",
+        "sub": "A 2-3 minute break every 30-45 minutes",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 18641,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SELF-CHECK",
+        "title": "The 5-Second Test"
+      }
+    },
+    {
+      "from": 18648,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "YOUR PLAN",
+        "title": "Two Weeks, Step by Step"
+      }
+    },
+    {
+      "from": 19650,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "COMMON MISTAKES",
+        "title": "Getting It Wrong"
+      }
+    },
+    {
+      "from": 22461,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "WARNING SIGNS",
+        "title": "When to Call the Doctor"
+      }
+    },
+    {
+      "from": 27224,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "HIDDEN SODIUM",
+        "sub": "Soups, deli meats, and canned foods",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 29157,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RECAP",
+        "title": "Quick Recap"
+      }
+    },
+    {
+      "from": 30137,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Vital After 60 Guides",
+        "hint": "point your camera 📷"
+      }
+    },
+    {
+      "from": 33428,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Vital After 60 Guides",
+        "hint": "point your camera 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 3,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "THE EVENING SIGN",
+        "phrase": "A sock line pressed into your skin by nightfall",
+        "accent": "sock line",
+        "src": "img/vital-water-swollen-ankles_s01.png"
+      }
+    },
+    {
+      "from": 2933,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "WHAT'S AHEAD",
+        "title": "Your Roadmap",
+        "steps": [
+          {
+            "title": "Why it happens",
+            "sub": "Veins, sodium, meds, sitting"
+          },
+          {
+            "title": "The water habit",
+            "sub": "Lemon and food-based potassium"
+          },
+          {
+            "title": "Warning signs",
+            "sub": "When to call your doctor"
+          }
+        ]
+      }
+    },
+    {
+      "from": 5266,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Vein Valves Over Time",
+        "left": {
+          "label": "Before 60",
+          "sub": "Valves close tightly"
+        },
+        "right": {
+          "label": "After 60",
+          "sub": "Valves can weaken a bit"
+        }
+      }
+    },
+    {
+      "from": 5933,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Signs It's Just Gravity",
+        "items": [
+          "Worse by evening, better each morning",
+          "Shows up in both ankles evenly",
+          "A finger-press leaves a slow-filling dent"
+        ]
+      }
+    },
+    {
+      "from": 7148,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Drink less water if you're retaining fluid",
+        "truth": "Mild dehydration can make swelling worse"
+      }
+    },
+    {
+      "from": 8362,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ONE LUNCH",
+        "phrase": "700 to 1000 mg of hidden sodium in a single meal",
+        "accent": "700 to 1000 mg",
+        "src": "img/vital-water-swollen-ankles_s18.png"
+      }
+    },
+    {
+      "from": 9393,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "A Reasonable Daily Target",
+        "items": [
+          "About 6-8 cups (8 oz) of fluid a day",
+          "Adjust for heat and activity",
+          "Follow your doctor's limit if you have one"
+        ]
+      }
+    },
+    {
+      "from": 10570,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "A Possible Medication Effect",
+        "left": {
+          "label": "Calcium channel blockers",
+          "sub": "A common blood pressure medicine"
+        },
+        "right": {
+          "label": "Known side effect",
+          "sub": "Can cause ankle swelling"
+        }
+      }
+    },
+    {
+      "from": 12170,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "THE WATER HABIT",
+        "phrase": "Water, fresh lemon, and food-based potassium",
+        "accent": "fresh lemon",
+        "src": "img/vital-water-swollen-ankles_s27.png"
+      }
+    },
+    {
+      "from": 13291,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Why Lemon Helps",
+        "items": [
+          "It doesn't dissolve fluid by itself",
+          "It makes plain water easier to enjoy",
+          "It helps you actually reach 6-8 cups"
+        ]
+      }
+    },
+    {
+      "from": 14126,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Food-Based Potassium",
+        "items": [
+          "Banana",
+          "Cooked spinach",
+          "Baked sweet potato",
+          "White beans",
+          "Unsalted tomato products"
+        ]
+      }
+    },
+    {
+      "from": 15122,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "More potassium is always better",
+        "truth": "Skip extra potassium if you have kidney disease or take certain BP medicines"
+      }
+    },
+    {
+      "from": 16322,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "YOUR SECOND HEART",
+        "phrase": "Every step squeezes fluid back up your legs",
+        "accent": "second heart",
+        "src": "img/vital-water-swollen-ankles_s35.png"
+      }
+    },
+    {
+      "from": 17595,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EVENING HABIT",
+        "title": "Leg Elevation",
+        "steps": [
+          {
+            "title": "Lie back",
+            "sub": "Couch or bed"
+          },
+          {
+            "title": "Feet above heart level",
+            "sub": "A pillow or two under your calves"
+          },
+          {
+            "title": "15-20 minutes",
+            "sub": "Let gravity reverse the day"
+          }
+        ]
+      }
+    },
+    {
+      "from": 18755,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TRY IT TONIGHT",
+        "title": "The 5-Second Self-Check",
+        "steps": [
+          {
+            "title": "Press",
+            "sub": "Thumb above the ankle bone"
+          },
+          {
+            "title": "Hold",
+            "sub": "About 5 seconds, then release"
+          },
+          {
+            "title": "Watch",
+            "sub": "Quick bounce-back or a slow-filling dent?"
+          }
+        ]
+      }
+    },
+    {
+      "from": 19887,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Getting Compression Socks Right",
+        "items": [
+          "Graduated compression, properly sized",
+          "Put them on first thing in the morning",
+          "Ask your pharmacist about strength level"
+        ]
+      }
+    },
+    {
+      "from": 21466,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Travel Day Habits",
+        "items": [
+          "Stand and walk the aisle hourly",
+          "Flex your ankles while seated",
+          "Wear properly fitted compression socks"
+        ]
+      }
+    },
+    {
+      "from": 23087,
+      "dur": 270,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SAME DAY",
+        "phrase": "One swollen leg, sudden, warm, red, or painful",
+        "accent": "same day",
+        "src": "img/vital-water-swollen-ankles_s51.png"
+      }
+    },
+    {
+      "from": 23951,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Call Within a Day or Two If...",
+        "items": [
+          "Swelling is new and steadily worsening",
+          "Shortness of breath, worse lying flat",
+          "Unusual fatigue or rapid weight gain"
+        ]
+      }
+    },
+    {
+      "from": 24964,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NEW MEDICATION?",
+        "phrase": "Mention any swelling that began with a new prescription",
+        "accent": "new prescription",
+        "src": "img/vital-water-swollen-ankles_s55.png"
+      }
+    },
+    {
+      "from": 26568,
+      "dur": 330,
+      "comp": "WeekPlanner",
+      "props": {
+        "theme": "earth",
+        "title": "Week 1: Hydration & Sodium",
+        "days": [
+          {
+            "d": "Mon",
+            "t": "6-8 cups water + lemon"
+          },
+          {
+            "d": "Tue",
+            "t": "Watch hidden sodium"
+          },
+          {
+            "d": "Wed",
+            "t": "Add a potassium food"
+          },
+          {
+            "d": "Thu",
+            "t": "6-8 cups water + lemon"
+          },
+          {
+            "d": "Fri",
+            "t": "Watch hidden sodium"
+          },
+          {
+            "d": "Sat",
+            "t": "Rest and notice how you feel",
+            "rest": true
+          },
+          {
+            "d": "Sun",
+            "t": "Add a potassium food"
+          }
+        ]
+      }
+    },
+    {
+      "from": 27838,
+      "dur": 330,
+      "comp": "WeekPlanner",
+      "props": {
+        "theme": "earth",
+        "title": "Week 2: Movement & Elevation",
+        "days": [
+          {
+            "d": "Mon",
+            "t": "Walk break every 30-45 min"
+          },
+          {
+            "d": "Tue",
+            "t": "Legs up, 15-20 min"
+          },
+          {
+            "d": "Wed",
+            "t": "Rest and track: mild, same, worse",
+            "rest": true
+          },
+          {
+            "d": "Thu",
+            "t": "Walk break every 30-45 min"
+          },
+          {
+            "d": "Fri",
+            "t": "Legs up, 15-20 min"
+          },
+          {
+            "d": "Sat",
+            "t": "Gentle walk outdoors"
+          },
+          {
+            "d": "Sun",
+            "t": "Rest and review your week",
+            "rest": true
+          }
+        ]
+      }
+    },
+    {
+      "from": 28591,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Track It Simply",
+        "items": [
+          "One word each evening",
+          "Mild, same, or worse",
+          "Bring the record to your doctor"
+        ]
+      }
+    },
+    {
+      "from": 30623,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TEN DAYS LATER",
+        "phrase": "Carol's shoes fit the same, morning to night",
+        "accent": "ten days",
+        "src": "img/vital-water-swollen-ankles_s68.png"
+      }
+    }
+  ]
+}
