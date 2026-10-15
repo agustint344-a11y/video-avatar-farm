@@ -1,0 +1,2247 @@
+{
+  "slug": "mateo-pinte-pared-con",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 40783,
+  "audioSrc": "mateo-pinte-pared-con.mp3",
+  "avatarSrc": "mateo-pinte-pared-con_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 749,
+      "dur": 725,
+      "clip": 0
+    },
+    {
+      "from": 1806,
+      "dur": 580,
+      "clip": 725
+    },
+    {
+      "from": 8968,
+      "dur": 865,
+      "clip": 1305
+    },
+    {
+      "from": 34198,
+      "dur": 818,
+      "clip": 2170
+    },
+    {
+      "from": 38938,
+      "dur": 1045,
+      "clip": 2988
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 110,
+      "dur": 67,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s03.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 417,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 638,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1474,
+      "dur": 332,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s02.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2386,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s02.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2764,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s02.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3011,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s04.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3179,
+      "dur": 254,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s05.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3433,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s06.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3589,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s07.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3723,
+      "dur": 205,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s08.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4198,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s48.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4380,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s09.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4578,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s10.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4716,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s11.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4889,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s12.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5288,
+      "dur": 352,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s13.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5640,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s14.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5794,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s15.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5933,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s16.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6066,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s17.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6232,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s18.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6325,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6736,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s139.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6946,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s20.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7109,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s21.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7188,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s22.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7366,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s23.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7512,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s24.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7872,
+      "dur": 286,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s64.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8158,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s25.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8308,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s26.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8368,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s27.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8488,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s28.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8848,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s28.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9833,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s29.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9928,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s30.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10078,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s31.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10163,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s32.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10348,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s33.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10468,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s34.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10618,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s35.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10728,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s36.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10858,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s37.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11038,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s38.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11338,
+      "dur": 243,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s128.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11581,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s39.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11788,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s40.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11878,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s41.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12358,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s70.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12628,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s42.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12688,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s43.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12958,
+      "dur": 49,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s43.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13187,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s43.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13348,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s44.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13468,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s45.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13876,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s45.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14098,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s46.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14258,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s151.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14588,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s151.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14918,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s151.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15058,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s47.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15568,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s47.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15748,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s49.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15808,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s50.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15933,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s51.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16108,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s52.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16228,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s53.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16470,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s54.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16918,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s54.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17191,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s55.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17338,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s56.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17518,
+      "dur": 64,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s57.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17582,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s58.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17700,
+      "dur": 58,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s59.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17758,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s74.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17877,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s60.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18208,
+      "dur": 360,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s60.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18568,
+      "dur": 243,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s61.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18811,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s62.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18988,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s63.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19378,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s63.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19708,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s65.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19861,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s66.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19948,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s67.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20093,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s68.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20188,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s69.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20518,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s69.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20908,
+      "dur": 333,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s69.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21241,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s71.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21417,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s72.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21538,
+      "dur": 342,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s73.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21880,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s75.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22018,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s76.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22413,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s76.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22539,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s136.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22602,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s77.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22828,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s78.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22948,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s79.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23038,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s80.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23188,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s81.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23248,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s82.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23314,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s83.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23522,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s85.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23728,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s86.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23817,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s87.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23998,
+      "dur": 71,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s88.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24069,
+      "dur": 275,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s89.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24344,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s91.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24448,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s92.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24568,
+      "dur": 223,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s93.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24791,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s95.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25018,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s96.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25198,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s97.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25378,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s98.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25542,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s99.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25724,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s101.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25948,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s102.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26158,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s103.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26282,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s104.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26398,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s105.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26618,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s107.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26998,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s106.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27328,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s106.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27482,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s108.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27631,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s109.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27782,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s110.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27902,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s111.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27970,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s112.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28108,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s113.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28232,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s114.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28544,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s100.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28768,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s115.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28948,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s116.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29068,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s117.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29277,
+      "dur": 91,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s118.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29368,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s119.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29548,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s120.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29710,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s121.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30127,
+      "dur": 205,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s123.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30332,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s122.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30539,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s124.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30748,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s125.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31078,
+      "dur": 280,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s94.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31358,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s126.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31528,
+      "dur": 319,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s127.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31847,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s129.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32045,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s130.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32162,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s131.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32278,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s132.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32459,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s133.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32920,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s90.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33088,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s134.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33328,
+      "dur": 287,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s135.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33615,
+      "dur": 223,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s137.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33838,
+      "dur": 360,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s138.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 35016,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s140.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 35346,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s140.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 35608,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s141.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 35728,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s142.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 35848,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s143.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 36088,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s144.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 36448,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s84.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 36598,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s145.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 36727,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s146.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 36815,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s147.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 37168,
+      "dur": 258,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s147.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 37426,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s148.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 37588,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s149.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 37978,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s149.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 38188,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s150.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 38458,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s152.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 39983,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s152.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 40313,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s152.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 40643,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/mateo-pinte-pared-con_s152.png",
+      "kb": 1,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 4,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PROBLEMA",
+        "title": "La pintura que no aguanta"
+      }
+    },
+    {
+      "from": 809,
+      "dur": 180,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "EL CONSTRUCTOR LIBRE",
+        "title": "Mateo",
+        "sub": "Arreglos caseros que sí funcionan"
+      }
+    },
+    {
+      "from": 4716,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "Por qué se descascara la pintura"
+      }
+    },
+    {
+      "from": 9328,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 9928,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA CIENCIA",
+        "title": "Qué hace diferente la cal"
+      }
+    },
+    {
+      "from": 10618,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MICROPOROSA",
+        "sub": "Poros tan chicos que no se ven",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 11038,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CAL ALCALINA",
+        "sub": "Frena moho y hongos",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 12628,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA RECETA",
+        "title": "Cal, cemento y agua"
+      }
+    },
+    {
+      "from": 13468,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ÓXIDO DE HIERRO",
+        "sub": "El pigmento para dar color",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 14258,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 14368,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 17191,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 24,
+        "suffix": " h",
+        "label": "máximo de secado entre manos",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 17877,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CARBONATACIÓN",
+        "sub": "La reacción que la hace fuerte",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 18568,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 1,
+        "suffix": " semana",
+        "label": "sin lavar la pared con manguera",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 20188,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DÓNDE USARLA",
+        "title": "Las paredes correctas"
+      }
+    },
+    {
+      "from": 22602,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "OJO",
+        "sub": "Ninguna pintura corrige una filtración activa",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 23248,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LOS ERRORES",
+        "title": "Lo que arruina el trabajo"
+      }
+    },
+    {
+      "from": 23488,
+      "dur": 105,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 1,
+        "text": "Capas gruesas de una sola vez"
+      }
+    },
+    {
+      "from": 24298,
+      "dur": 105,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 2,
+        "text": "No respetar el secado entre manos"
+      }
+    },
+    {
+      "from": 24748,
+      "dur": 105,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 3,
+        "text": "Pintar con sol y viento fuerte"
+      }
+    },
+    {
+      "from": 24791,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "CUIDADO",
+        "sub": "El sol y el viento fuerte arruinan el secado",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 25678,
+      "dur": 105,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 4,
+        "text": "Usar cal viva sin apagar"
+      }
+    },
+    {
+      "from": 25948,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CAL VIVA",
+        "sub": "Peligro: genera calor fuerte",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 26158,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "Usa cal apagada si no tienes experiencia",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 26578,
+      "dur": 105,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 5,
+        "text": "No probar antes en zona chica"
+      }
+    },
+    {
+      "from": 27298,
+      "dur": 105,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 6,
+        "text": "Mezclar demasiado de una vez"
+      }
+    },
+    {
+      "from": 27782,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "VENTANA DE 2 HORAS",
+        "sub": "Usa la mezcla antes de que endurezca",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 28108,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MANTENIMIENTO",
+        "title": "Cuidar la pared pintada"
+      }
+    },
+    {
+      "from": 29548,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LOS NÚMEROS",
+        "title": "Cuánto se ahorra"
+      }
+    },
+    {
+      "from": 31847,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 32278,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "¿Te conviene a ti?"
+      }
+    },
+    {
+      "from": 36598,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REFLEXIÓN FINAL",
+        "title": "Una técnica casi olvidada"
+      }
+    },
+    {
+      "from": 39358,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 177,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PROBLEMA",
+        "phrase": "Pintaste dos veces y igual se descascara",
+        "accent": "se descascara",
+        "src": "img/mateo-pinte-pared-con_s01.png"
+      }
+    },
+    {
+      "from": 2584,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL DATO",
+        "value": 4,
+        "prefix": "",
+        "suffix": " meses",
+        "label": "lo que duró la pintura barata antes de descascararse"
+      }
+    },
+    {
+      "from": 3928,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HOY VEMOS",
+        "title": "El plan del video",
+        "steps": [
+          {
+            "title": "Por qué falla",
+            "sub": "La ciencia del descascarado"
+          },
+          {
+            "title": "La receta exacta",
+            "sub": "Proporciones y paso a paso"
+          },
+          {
+            "title": "Errores y ahorro",
+            "sub": "Qué evitar y cuánto se gasta"
+          }
+        ]
+      }
+    },
+    {
+      "from": 5078,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "La pintura tapa la humedad",
+        "truth": "El vapor atrapado la levanta en ampollas"
+      }
+    },
+    {
+      "from": 6496,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Por qué se descascara",
+        "items": [
+          "Pared mal preparada",
+          "Pintura vieja floja debajo",
+          "Polvo o grasa sin limpiar antes"
+        ]
+      }
+    },
+    {
+      "from": 7662,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Diluir la pintura rinde más",
+        "truth": "Pierde cuerpo y se desgasta más rápido"
+      }
+    },
+    {
+      "from": 8638,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA TÉCNICA",
+        "phrase": "Cal, cemento y agua: la receta olvidada",
+        "accent": "receta olvidada",
+        "src": "img/mateo-pinte-pared-con_s28.png"
+      }
+    },
+    {
+      "from": 11128,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El moho en la pared es inevitable",
+        "truth": "La cal alcalina frena moho y hongos"
+      }
+    },
+    {
+      "from": 12118,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Dónde brilla esta pintura",
+        "left": {
+          "label": "Exteriores",
+          "sub": "Ladrillo, bloque, galpones"
+        },
+        "right": {
+          "label": "Interiores finos",
+          "sub": "Mejor usar látex premium"
+        }
+      }
+    },
+    {
+      "from": 12778,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA RECETA",
+        "value": 3,
+        "prefix": "",
+        "suffix": " a 1",
+        "label": "partes de cal apagada por cada parte de cemento"
+      }
+    },
+    {
+      "from": 13007,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA APLICACIÓN",
+        "value": 2,
+        "prefix": "",
+        "suffix": " manos finas",
+        "label": "alcanzan para tapar bien el color base"
+      }
+    },
+    {
+      "from": 13666,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Si quieres agregar color",
+        "items": [
+          "Óxido de hierro como pigmento",
+          "Máximo 1 taza por cada 10 litros",
+          "Más cantidad: se cuartea más fácil"
+        ]
+      }
+    },
+    {
+      "from": 15298,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PREPARAR LA PARED",
+        "title": "Antes de pintar",
+        "steps": [
+          {
+            "title": "Limpiar bien",
+            "sub": "Sin polvo ni grasa"
+          },
+          {
+            "title": "Sacar lo flojo",
+            "sub": "Espátula o cepillo duro"
+          },
+          {
+            "title": "Base firme",
+            "sub": "Nunca pintar sobre lo que se cae"
+          }
+        ]
+      }
+    },
+    {
+      "from": 16618,
+      "dur": 300,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Tiempos de secado",
+        "steps": [
+          {
+            "when": "Mano 1",
+            "text": "Capas finas, nunca gruesas"
+          },
+          {
+            "when": "12 a 24 h",
+            "text": "Secado antes de la 2da mano"
+          },
+          {
+            "when": "1 semana",
+            "text": "Sin lavar con manguera"
+          },
+          {
+            "when": "Varias semanas",
+            "text": "La cal termina de carbonatarse"
+          }
+        ]
+      }
+    },
+    {
+      "from": 17998,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Cuántas manos necesitas",
+        "items": [
+          "2 manos finas: color base claro",
+          "3 manos: manchas de humedad vieja",
+          "Siempre finas, nunca una gruesa"
+        ]
+      }
+    },
+    {
+      "from": 19168,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ES NORMAL",
+        "phrase": "Se siente áspera como tiza al principio",
+        "accent": "áspera como tiza",
+        "src": "img/mateo-pinte-pared-con_s64.png"
+      }
+    },
+    {
+      "from": 20668,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Dónde conviene usarla?",
+        "left": {
+          "label": "Sí: exteriores",
+          "sub": "Ladrillo visto o revoque sin látex"
+        },
+        "right": {
+          "label": "No: interiores",
+          "sub": "Dormitorios o living con color vivo"
+        }
+      }
+    },
+    {
+      "from": 22203,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Esta pintura arregla la humedad de piso",
+        "truth": "Solo transpira mejor, no corrige la filtración"
+      }
+    },
+    {
+      "from": 26758,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Antes de pintar toda la pared",
+        "items": [
+          "Prueba en una zona chica primero",
+          "El color varía según la marca",
+          "Mezcla solo lo que usarás en 2 horas"
+        ]
+      }
+    },
+    {
+      "from": 28364,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MANTENIMIENTO",
+        "value": 2,
+        "prefix": "",
+        "suffix": " años",
+        "label": "cada cuánto conviene repasar la pintura"
+      }
+    },
+    {
+      "from": 29857,
+      "dur": 270,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "title": "LO QUE CUESTA PINTAR",
+        "rows": [
+          {
+            "label": "Balde de látex exterior",
+            "price": "3 a 5 veces más",
+            "bad": true
+          },
+          {
+            "label": "Cal + cemento",
+            "price": "La base más económica"
+          }
+        ],
+        "total": {
+          "label": "Diferencia",
+          "price": "Se nota en paredes grandes"
+        },
+        "stamp": "AHORRO"
+      }
+    },
+    {
+      "from": 30868,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Antes de ir a comprar",
+        "items": [
+          "Mide el largo y el ancho de tu pared",
+          "Usa la calculadora de materiales",
+          "Evita comprar de más o quedarte corto"
+        ]
+      }
+    },
+    {
+      "from": 32650,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO RÁPIDO",
+        "title": "¿Te conviene esta técnica?",
+        "steps": [
+          {
+            "title": "Tipo de pared",
+            "sub": "Ladrillo, bloque o revoque sin látex"
+          },
+          {
+            "title": "Exposición",
+            "sub": "Lluvia directa o humedad ambiente"
+          },
+          {
+            "title": "Humedad activa",
+            "sub": "Resuelve el origen antes de pintar"
+          }
+        ]
+      }
+    },
+    {
+      "from": 36178,
+      "dur": 270,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "title": "RESUMEN DE COSTOS",
+        "rows": [
+          {
+            "label": "Pintura comercial de calidad",
+            "price": "Mucho más cara",
+            "bad": true
+          },
+          {
+            "label": "Cal y cemento",
+            "price": "Una fracción del costo"
+          }
+        ],
+        "total": {
+          "label": "Mantenimiento",
+          "price": "Cada 1 a 2 años"
+        },
+        "stamp": "RESUMEN"
+      }
+    },
+    {
+      "from": 36958,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "UNA TÉCNICA DE DÉCADAS",
+        "phrase": "Casi se perdió por lo fácil que es comprar un balde",
+        "accent": "casi se perdió",
+        "src": "img/mateo-pinte-pared-con_s147.png"
+      }
+    },
+    {
+      "from": 37768,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Cómo empezar",
+        "items": [
+          "Prueba primero en una pared chica",
+          "Un rincón de patio o un muro de cerco",
+          "Después escala a superficies más grandes"
+        ]
+      }
+    },
+    {
+      "from": 38668,
+      "dur": 270,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "title": "LO QUE TE COBRAN",
+        "rows": [
+          {
+            "label": "Visita de un pintor o albañil",
+            "price": "Una sola visita completa",
+            "bad": true
+          },
+          {
+            "label": "Biblioteca del Maestro",
+            "price": "Menos que esa visita"
+          }
+        ],
+        "total": {
+          "label": "Garantía",
+          "price": "7 días con Hotmart"
+        },
+        "stamp": "AHORRO"
+      }
+    }
+  ]
+}
