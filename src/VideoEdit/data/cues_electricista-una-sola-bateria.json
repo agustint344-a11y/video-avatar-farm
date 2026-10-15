@@ -1,0 +1,1686 @@
+{
+  "slug": "electricista-una-sola-bateria",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 36969,
+  "audioSrc": "electricista-una-sola-bateria.mp3",
+  "avatarSrc": "electricista-una-sola-bateria_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 2157,
+      "dur": 637,
+      "clip": 0
+    },
+    {
+      "from": 7476,
+      "dur": 880,
+      "clip": 637
+    },
+    {
+      "from": 26940,
+      "dur": 449,
+      "clip": 1517
+    },
+    {
+      "from": 30486,
+      "dur": 530,
+      "clip": 1966
+    },
+    {
+      "from": 31293,
+      "dur": 898,
+      "clip": 2496
+    },
+    {
+      "from": 34422,
+      "dur": 1050,
+      "clip": 3394
+    },
+    {
+      "from": 36420,
+      "dur": 501,
+      "clip": 4444
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 2,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 212,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 485,
+      "dur": 64,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 549,
+      "dur": 259,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 808,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1152,
+      "dur": 290,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s05.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1442,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1805,
+      "dur": 352,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s04.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2794,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s04.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3289,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s04.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3450,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s06.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3639,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s07.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3807,
+      "dur": 71,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s08.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4088,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s08.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4308,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s09.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4479,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s10.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4610,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s11.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5054,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s11.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5295,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s12.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5437,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s13.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5562,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s14.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5880,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s14.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5991,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s15.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6070,
+      "dur": 50,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s52.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6120,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s16.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6229,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s17.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6360,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s18.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6588,
+      "dur": 333,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s18.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6921,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s19.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7036,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s20.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7108,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s21.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7272,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s22.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8356,
+      "dur": 50,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s23.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8406,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s24.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8547,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s25.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8667,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s26.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8811,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s27.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9165,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s27.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9414,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s28.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9561,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s29.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9756,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s30.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9897,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s31.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10011,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s32.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10386,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s32.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10461,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s33.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10680,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s34.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10803,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s35.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11019,
+      "dur": 282,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s36.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11301,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s37.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11481,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s38.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11865,
+      "dur": 357,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s38.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12222,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s39.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12300,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s40.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12411,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s41.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12597,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s42.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13008,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s42.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13140,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s43.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13380,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s44.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13710,
+      "dur": 52,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s44.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13762,
+      "dur": 260,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s45.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14022,
+      "dur": 351,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s46.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14643,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s46.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14865,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s47.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15141,
+      "dur": 243,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s48.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15384,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s49.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15840,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s49.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16077,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s50.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16312,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s65.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16642,
+      "dur": 269,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s51.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17181,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s65.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17346,
+      "dur": 348,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s53.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17694,
+      "dur": 329,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s54.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18023,
+      "dur": 361,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s55.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18384,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s56.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18522,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s57.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18771,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s58.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19200,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s58.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19326,
+      "dur": 338,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s59.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19664,
+      "dur": 358,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s60.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20022,
+      "dur": 297,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s61.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20319,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s62.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20551,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s63.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20754,
+      "dur": 327,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s64.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21321,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s64.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21651,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s64.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21981,
+      "dur": 54,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s64.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22035,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s66.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22377,
+      "dur": 366,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s89.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22743,
+      "dur": 310,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s67.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23053,
+      "dur": 341,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s68.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23394,
+      "dur": 282,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s69.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23916,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s69.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24246,
+      "dur": 57,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s69.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24303,
+      "dur": 336,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s70.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24639,
+      "dur": 261,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s71.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24900,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s72.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24977,
+      "dur": 277,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s74.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25254,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s73.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25584,
+      "dur": 348,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s87.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26202,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s73.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26325,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s75.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26559,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s76.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26889,
+      "dur": 51,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s76.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27389,
+      "dur": 223,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s77.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27612,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s78.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27942,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s78.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28042,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s79.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28482,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s79.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28734,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s80.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28922,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s81.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29154,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s82.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29274,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s83.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29688,
+      "dur": 303,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s83.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29991,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s84.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30117,
+      "dur": 369,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s85.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31016,
+      "dur": 277,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s86.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32191,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s86.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32680,
+      "dur": 346,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s86.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33026,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s88.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33356,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s88.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33783,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s88.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34113,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s88.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34292,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s90.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 35472,
+      "dur": 366,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s90.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 35838,
+      "dur": 53,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s91.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 36101,
+      "dur": 319,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s91.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 36921,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/electricista-una-sola-bateria_s91.png",
+      "kb": 0,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 808,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL EXPERIMENTO",
+        "title": "Lo que medí en mi casa"
+      }
+    },
+    {
+      "from": 2157,
+      "dur": 135,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "MATEO ELECTRICISTA",
+        "title": "Mateo",
+        "sub": "Electricista, mide antes de prometer"
+      }
+    },
+    {
+      "from": 4170,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "El refrigerador consume menos de lo que crees"
+      }
+    },
+    {
+      "from": 4610,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "80-120 W",
+        "sub": "Consumo real del refrigerador",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 6229,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "Luces, teléfono y router casi gratis"
+      }
+    },
+    {
+      "from": 6693,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "160 Wh",
+        "sub": "3 focos LED en 6 horas",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 8082,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_electricista.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Electricista",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 9414,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "Dónde empiezan los límites"
+      }
+    },
+    {
+      "from": 10680,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "title": "Los aparatos que no perdonan"
+      }
+    },
+    {
+      "from": 11301,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "1000-1200 W",
+        "sub": "Pico del microondas",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 13380,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "¿Te alcanza una sola batería?"
+      }
+    },
+    {
+      "from": 14949,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "X0.3",
+        "sub": "Factor real del compresor",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 16077,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "VIDA ÚTIL",
+        "title": "Cuánto dura la batería en sí"
+      }
+    },
+    {
+      "from": 16746,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "500 A 3000 CICLOS",
+        "sub": "Vida útil según la química",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 17694,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CONEXIÓN",
+        "title": "Cómo conectar varios aparatos sin quemar nada"
+      }
+    },
+    {
+      "from": 20551,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERRORES",
+        "title": "Cuatro errores comunes"
+      }
+    },
+    {
+      "from": 21854,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "2-5% MENSUAL",
+        "sub": "Autodescarga en reposo",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 24639,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NIVELES",
+        "title": "Tres niveles de respaldo según tu caso"
+      }
+    },
+    {
+      "from": 27612,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "10-15% DE PÉRDIDA",
+        "sub": "Al cargar la batería",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 28734,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SIN RUIDO",
+        "title": "La ventaja silenciosa"
+      }
+    },
+    {
+      "from": 29154,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SIN MONÓXIDO",
+        "sub": "A diferencia del generador",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 30816,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_electricista.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Electricista",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 35619,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_electricista.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Electricista",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 36582,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_electricista.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Electricista",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 2,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "APAGÓN REAL",
+        "phrase": "Nueve horas sin luz, una batería bastó",
+        "accent": "una batería",
+        "src": "img/electricista-una-sola-bateria_s01.png"
+      }
+    },
+    {
+      "from": 972,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MEDICIÓN HONESTA",
+        "phrase": "Lo medí con pinza amperométrica, no con promesas",
+        "accent": "no con promesas",
+        "src": "img/electricista-una-sola-bateria_s03.png"
+      }
+    },
+    {
+      "from": 1565,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Una batería te da electricidad para siempre",
+        "truth": "Tiene un límite de capacidad según lo que conectes"
+      }
+    },
+    {
+      "from": 2989,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HOY VEMOS",
+        "title": "Lo que vas a aprender",
+        "steps": [
+          {
+            "title": "Cuánto da una batería",
+            "sub": "Con datos reales de mi casa"
+          },
+          {
+            "title": "Qué conectar y qué no",
+            "sub": "Aparatos que sí y que no"
+          },
+          {
+            "title": "Errores comunes",
+            "sub": "Al comprar y al usar"
+          }
+        ]
+      }
+    },
+    {
+      "from": 3878,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "IMPORTANTE",
+        "phrase": "Esto no reemplaza al tablero ni al electricista",
+        "accent": "al electricista",
+        "src": "img/electricista-una-sola-bateria_s08.png"
+      }
+    },
+    {
+      "from": 4784,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Etiqueta vs. consumo real",
+        "left": {
+          "label": "Etiqueta de arranque",
+          "sub": "600 a 800 W de pico"
+        },
+        "right": {
+          "label": "Consumo sostenido",
+          "sub": "80 a 120 W reales"
+        }
+      }
+    },
+    {
+      "from": 5700,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DATO CLAVE",
+        "phrase": "El calor hace trabajar más al compresor",
+        "accent": "trabajar más",
+        "src": "img/electricista-una-sola-bateria_s14.png"
+      }
+    },
+    {
+      "from": 6408,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LUZ LED",
+        "phrase": "Un foco LED casi no le hace nada a la batería",
+        "accent": "casi no le hace nada",
+        "src": "img/electricista-una-sola-bateria_s18.png"
+      }
+    },
+    {
+      "from": 8985,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CONECTIVIDAD",
+        "phrase": "El router te sale casi gratis en energía",
+        "accent": "casi gratis",
+        "src": "img/electricista-una-sola-bateria_s27.png"
+      }
+    },
+    {
+      "from": 10116,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Refrigerador solo vs. con TV",
+        "left": {
+          "label": "Solo refrigerador",
+          "sub": "8 a 12 horas"
+        },
+        "right": {
+          "label": "+ TV de 43 pulgadas",
+          "sub": "5 a 7 horas"
+        }
+      }
+    },
+    {
+      "from": 11655,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "POTENCIA",
+        "phrase": "El microondas pide mucha potencia de golpe",
+        "accent": "de golpe",
+        "src": "img/electricista-una-sola-bateria_s38.png"
+      }
+    },
+    {
+      "from": 12678,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DOS NÚMEROS",
+        "title": "Capacidad vs. potencia de salida",
+        "steps": [
+          {
+            "title": "Capacidad en Wh",
+            "sub": "El tamaño del tanque"
+          },
+          {
+            "title": "Potencia en W",
+            "sub": "El diámetro de la manguera"
+          },
+          {
+            "title": "Ambos importan",
+            "sub": "Uno sin el otro no sirve"
+          }
+        ]
+      }
+    },
+    {
+      "from": 14373,
+      "dur": 270,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "MIDE TU CONSUMO ANTES DE DECIDIR",
+        "w": 100,
+        "h": 50,
+        "unit": "Wh",
+        "label": "TUS APARATOS",
+        "note": "Suma antes de comprar"
+      }
+    },
+    {
+      "from": 15480,
+      "dur": 360,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CÁLCULO RÁPIDO",
+        "title": "5 pasos para saber si te alcanza",
+        "steps": [
+          {
+            "title": "Lista tus aparatos",
+            "sub": "Solo los esenciales"
+          },
+          {
+            "title": "Suma los vatios",
+            "sub": "De la etiqueta de cada uno"
+          },
+          {
+            "title": "Multiplica por las horas",
+            "sub": "Del apagón esperado"
+          }
+        ]
+      }
+    },
+    {
+      "from": 16911,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Económicas vs. fosfato de hierro y litio",
+        "left": {
+          "label": "Baterías económicas",
+          "sub": "Unos 500 ciclos"
+        },
+        "right": {
+          "label": "Fosfato de hierro y litio",
+          "sub": "2000 a 3000 ciclos"
+        }
+      }
+    },
+    {
+      "from": 18930,
+      "dur": 270,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "MIDE LA POTENCIA ANTES DE SUMAR APARATOS",
+        "w": 600,
+        "h": 175,
+        "unit": "W",
+        "label": "SALIDA MÁXIMA",
+        "note": "Refrigerador + TV + cargador = 175 W"
+      }
+    },
+    {
+      "from": 21081,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Mira siempre estos dos datos",
+        "items": [
+          "Capacidad en vatios hora",
+          "Potencia de salida en vatios",
+          "Nunca mires solo uno de los dos"
+        ]
+      }
+    },
+    {
+      "from": 22137,
+      "dur": 240,
+      "comp": "NivelBurbuja",
+      "props": {
+        "theme": "earth",
+        "title": "Revisa el nivel de carga",
+        "verdict": "¡CARGA OK!",
+        "sub": "Hazlo una vez al mes"
+      }
+    },
+    {
+      "from": 23676,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Puedo conectar la batería al tablero yo mismo",
+        "truth": "Eso requiere un electricista matriculado"
+      }
+    },
+    {
+      "from": 25932,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Tres niveles de respaldo",
+        "left": {
+          "label": "Nivel 1 y 2",
+          "sub": "300 a 1200 Wh"
+        },
+        "right": {
+          "label": "Nivel 3",
+          "sub": "Más de 2000 Wh, otro presupuesto"
+        }
+      }
+    },
+    {
+      "from": 28242,
+      "dur": 240,
+      "comp": "NivelBurbuja",
+      "props": {
+        "theme": "earth",
+        "title": "¿Realmente a nivel?",
+        "verdict": "CASI A NIVEL",
+        "sub": "Rinde un poco menos de lo que dice la etiqueta"
+      }
+    },
+    {
+      "from": 29508,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SILENCIOSA",
+        "phrase": "Segura para usar incluso en el dormitorio",
+        "accent": "incluso en el dormitorio",
+        "src": "img/electricista-una-sola-bateria_s83.png"
+      }
+    },
+    {
+      "from": 32380,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Repaso en un minuto",
+        "items": [
+          "Refrigerador: 80 a 120 W reales",
+          "Focos LED: casi gratis",
+          "TV y más: bajan la autonomía",
+          "Microondas y AC: cuidado con el pico"
+        ]
+      }
+    },
+    {
+      "from": 33543,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Puedo alimentar toda mi casa con una batería portátil",
+        "truth": "Solo aparatos conectados directo, nunca el tablero"
+      }
+    },
+    {
+      "from": 35891,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TU TURNO",
+        "phrase": "Cuéntame cuánto dura un apagón en tu zona",
+        "accent": "cuánto dura",
+        "src": "img/electricista-una-sola-bateria_s91.png"
+      }
+    }
+  ]
+}
