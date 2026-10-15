@@ -1,0 +1,2003 @@
+{
+  "slug": "albanil-humedad-las-paredes",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 35131,
+  "audioSrc": "albanil-humedad-las-paredes.mp3",
+  "avatarSrc": "albanil-humedad-las-paredes_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 884,
+      "dur": 806,
+      "clip": 0
+    },
+    {
+      "from": 5119,
+      "dur": 877,
+      "clip": 806
+    },
+    {
+      "from": 12919,
+      "dur": 868,
+      "clip": 1683
+    },
+    {
+      "from": 21203,
+      "dur": 631,
+      "clip": 2551
+    },
+    {
+      "from": 31125,
+      "dur": 729,
+      "clip": 3182
+    },
+    {
+      "from": 34163,
+      "dur": 931,
+      "clip": 3911
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 370,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 570,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 690,
+      "dur": 61,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 751,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 825,
+      "dur": 59,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s05.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1690,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1836,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s06.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2166,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2306,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2430,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s08.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2744,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s08.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2938,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s09.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3104,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3204,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s11.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3593,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s11.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4207,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s13.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4460,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s14.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4700,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s15.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5996,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s12.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6326,
+      "dur": 245,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s12.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6571,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s16.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6730,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s17.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7146,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s17.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7258,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s18.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7389,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s19.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7601,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s20.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7774,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s21.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7947,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s22.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8246,
+      "dur": 322,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s22.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8568,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s23.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8717,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s24.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8938,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s25.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9337,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s25.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9569,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s26.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9658,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s27.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9821,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s28.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10001,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s29.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10358,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s29.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10688,
+      "dur": 57,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s29.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10745,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s30.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10925,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s31.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11117,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s32.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11234,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s33.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11686,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s33.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11916,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s34.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11981,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s35.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12125,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s36.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12347,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s37.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12494,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s38.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13787,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s39.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14227,
+      "dur": 335,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s39.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14562,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s40.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14790,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s41.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15002,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s42.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15125,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s43.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15329,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s44.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15691,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s44.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15814,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s45.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16006,
+      "dur": 57,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s46.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16063,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s47.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16254,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s48.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16359,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s49.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16735,
+      "dur": 317,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s49.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17052,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s50.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17155,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s51.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17372,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s52.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17647,
+      "dur": 256,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s52.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17903,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s53.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18125,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s54.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18300,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s55.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18694,
+      "dur": 305,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s55.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18999,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s56.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19247,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s57.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19552,
+      "dur": 250,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s57.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19802,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s58.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19879,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s59.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19961,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s60.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20368,
+      "dur": 229,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s60.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20597,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s61.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20696,
+      "dur": 80,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s62.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20776,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s63.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20945,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s64.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21066,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s65.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21834,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s66.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22177,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s66.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22349,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s67.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22465,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s68.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22587,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s69.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22793,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s70.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23095,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s70.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23291,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s71.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23354,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s72.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23514,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s73.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23711,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s74.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24119,
+      "dur": 281,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s74.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24400,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s76.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24497,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s77.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24672,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s78.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24758,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s79.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24964,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s80.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25056,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s81.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25250,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s82.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25639,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s75.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25786,
+      "dur": 229,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s83.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26015,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s84.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26200,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s85.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26371,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s86.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26718,
+      "dur": 218,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s101.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26936,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s87.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27142,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s88.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27214,
+      "dur": 236,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s89.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27450,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s90.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27540,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s91.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27870,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s91.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27963,
+      "dur": 71,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s92.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28034,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s93.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28199,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s94.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28529,
+      "dur": 267,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s94.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28796,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s95.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28914,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s96.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29106,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s97.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29260,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s98.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29730,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s98.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30060,
+      "dur": 67,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s98.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30127,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s99.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30252,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s100.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30528,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s102.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30678,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s103.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31026,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s103.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31854,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s104.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31980,
+      "dur": 314,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s105.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32534,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s105.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32768,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s106.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32927,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s107.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33124,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s108.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33259,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s109.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33397,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s110.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33709,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s110.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33841,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s111.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34004,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s112.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 35094,
+      "dur": 37,
+      "kind": "image",
+      "src": "img/albanil-humedad-las-paredes_s112.png",
+      "kb": 3,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "INTRO",
+        "title": "La pintura que no funcionó"
+      }
+    },
+    {
+      "from": 751,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SOLO TERMINACIÓN",
+        "sub": "no es una barrera",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 825,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "QUIÉN SOY",
+        "title": "Mateo, maestro de obra"
+      }
+    },
+    {
+      "from": 884,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "MATEO ALBAÑIL",
+        "title": "Mateo",
+        "sub": "Maestro de obra, reparaciones reales"
+      }
+    },
+    {
+      "from": 2938,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MICRAS",
+        "sub": "capa finísima",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 4288,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "PRESIÓN",
+        "sub": "el agua empuja desde atrás",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 6214,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "Los 4 tipos de humedad"
+      }
+    },
+    {
+      "from": 7258,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "VAPOR",
+        "sub": "condensación del propio ambiente",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 9511,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SALITRE",
+        "sub": "sal que sube con el agua",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 13579,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 14388,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "VENTILAR PRIMERO",
+        "sub": "antes de pintar",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 14790,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 15,
+        "suffix": " min",
+        "label": "ventila después de bañarte",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 17903,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SAL MINERAL",
+        "sub": "no se arregla en un día",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 18125,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "nunca limpies el salitre con agua, lo mete más adentro",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 21693,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 22465,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "FISURA ACTIVA",
+        "sub": "la membrana no la tapa sola",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 22587,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "SEGURIDAD",
+        "sub": "deja curar la masilla antes de membranar, no te apures",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 23291,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "GRIETAS",
+        "title": "¿Estética o estructural?"
+      }
+    },
+    {
+      "from": 24497,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "45 GRADOS",
+        "sub": "grieta diagonal = estructura",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 25786,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERRORES COMUNES",
+        "title": "5 errores que te salen caros"
+      }
+    },
+    {
+      "from": 26015,
+      "dur": 105,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 1,
+        "text": "pintar con pared húmeda"
+      }
+    },
+    {
+      "from": 26371,
+      "dur": 105,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 2,
+        "text": "hidrófugo vencido"
+      }
+    },
+    {
+      "from": 26936,
+      "dur": 105,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 4,
+        "text": "tapar grieta activa"
+      }
+    },
+    {
+      "from": 27214,
+      "dur": 105,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 5,
+        "text": "pintura sin diagnóstico"
+      }
+    },
+    {
+      "from": 28570,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PLAN",
+        "title": "4 semanas para resolverlo de raíz"
+      }
+    },
+    {
+      "from": 30127,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "NO TE APURES",
+        "sub": "el curado necesita sus días",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 31125,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CIERRE",
+        "title": "Repaso y próximos pasos"
+      }
+    },
+    {
+      "from": 31980,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 4,
+        "suffix": "",
+        "label": "causas distintas de humedad",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 33124,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 7,
+        "suffix": " días",
+        "label": "garantía Hotmart",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 33124,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 33592,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 33841,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 130,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA REALIDAD",
+        "phrase": "La pintura nunca fue el problema, nunca fue la solución",
+        "accent": "nunca fue la solución",
+        "src": "img/albanil-humedad-las-paredes_s01.png"
+      }
+    },
+    {
+      "from": 2504,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Hoy vas a aprender",
+        "items": [
+          "Los 4 tipos de humedad",
+          "La pista del olor antes de la mancha",
+          "Un plan para esta semana",
+          "Qué no volver a comprar"
+        ]
+      }
+    },
+    {
+      "from": 3383,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Pintura vs. filtración activa",
+        "left": {
+          "label": "Pintura antihumedad",
+          "sub": "Una película de pocas micras"
+        },
+        "right": {
+          "label": "Filtración activa",
+          "sub": "Agua entrando sin parar desde afuera"
+        }
+      }
+    },
+    {
+      "from": 3815,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Una venda limpia todos los días cura la herida",
+        "truth": "Si el sangrado no se detiene, la venda solo tapa el síntoma"
+      }
+    },
+    {
+      "from": 4007,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA FRASE CLAVE",
+        "phrase": "Tapa la vista, no tapa el agua",
+        "accent": "no tapa el agua",
+        "src": "img/albanil-humedad-las-paredes_s13.png"
+      }
+    },
+    {
+      "from": 4027,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA RESPUESTA",
+        "phrase": "No es que la pintura fuera mala, es el agua que nunca se cerró",
+        "accent": "nunca se cerró",
+        "src": "img/albanil-humedad-las-paredes_s91.png"
+      }
+    },
+    {
+      "from": 4886,
+      "dur": 233,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Más capas de pintura arreglan la humedad",
+        "truth": "El agua sigue acumulando presión hasta que la pintura se hincha y se suelta"
+      }
+    },
+    {
+      "from": 6876,
+      "dur": 270,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Los 4 tipos de humedad",
+        "steps": [
+          {
+            "when": "Tipo 1",
+            "text": "Condensación: esquinas, moho negro"
+          },
+          {
+            "when": "Tipo 2",
+            "text": "Filtración lateral: forma de mapa"
+          },
+          {
+            "when": "Tipo 3",
+            "text": "Ascendente: salitre desde el piso"
+          },
+          {
+            "when": "Tipo 4",
+            "text": "Losa o terraza: mancha circular"
+          }
+        ]
+      }
+    },
+    {
+      "from": 8066,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA PISTA",
+        "phrase": "Si la mancha crece con la lluvia, es filtración",
+        "accent": "es filtración",
+        "src": "img/albanil-humedad-las-paredes_s22.png"
+      }
+    },
+    {
+      "from": 9127,
+      "dur": 210,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ALTURA",
+        "value": 1,
+        "max": 3,
+        "suffix": " m",
+        "label": "el salitre nace desde la base, casi nunca pasa el metro"
+      }
+    },
+    {
+      "from": 10178,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA SEÑAL",
+        "phrase": "El olor a humedad aparece antes que la mancha",
+        "accent": "antes que la mancha",
+        "src": "img/albanil-humedad-las-paredes_s29.png"
+      }
+    },
+    {
+      "from": 11446,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Antes de tocar el pincel",
+        "items": [
+          "¿Arriba o abajo?",
+          "¿Crece con la lluvia?",
+          "¿Tiene salitre o moho negro?",
+          "¿Hay olor a humedad?"
+        ]
+      }
+    },
+    {
+      "from": 12701,
+      "dur": 218,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA HERRAMIENTA",
+        "value": 185,
+        "prefix": "",
+        "suffix": "",
+        "label": "fichas imprimibles para llevar el control de cada reparación"
+      }
+    },
+    {
+      "from": 13987,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CONDENSACIÓN",
+        "title": "Cómo resolverla",
+        "steps": [
+          {
+            "title": "Ventila",
+            "sub": "extractor o ventana 15 minutos"
+          },
+          {
+            "title": "Limpia",
+            "sub": "agua con lavandina diluida"
+          },
+          {
+            "title": "Pinta",
+            "sub": "antihongos, recién al final"
+          }
+        ]
+      }
+    },
+    {
+      "from": 15481,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Condensación vs. filtración",
+        "left": {
+          "label": "Condensación",
+          "sub": "Solo ventilar y limpiar"
+        },
+        "right": {
+          "label": "Filtración",
+          "sub": "Hay que ubicar y sellar la entrada"
+        }
+      }
+    },
+    {
+      "from": 16555,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TIEMPO DE SECADO",
+        "value": 4,
+        "prefix": "",
+        "suffix": " días",
+        "label": "como máximo tarda en secar el hidrófugo antes de revocar de nuevo"
+      }
+    },
+    {
+      "from": 17437,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HONESTIDAD",
+        "phrase": "No existe una solución de un día para el salitre",
+        "accent": "no existe una solución de un día",
+        "src": "img/albanil-humedad-las-paredes_s52.png"
+      }
+    },
+    {
+      "from": 18424,
+      "dur": 270,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Revoque anti salitre, paso a paso",
+        "steps": [
+          {
+            "when": "Paso 1",
+            "text": "Raspar el salitre en seco, nunca con agua"
+          },
+          {
+            "when": "Paso 2",
+            "text": "Picar el revoque viejo hasta el ladrillo"
+          },
+          {
+            "when": "Paso 3",
+            "text": "Aplicar un revoque anti salitre"
+          },
+          {
+            "when": "Paso 4",
+            "text": "Curar 7 a 10 días antes de pintar"
+          }
+        ]
+      }
+    },
+    {
+      "from": 19342,
+      "dur": 210,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "BARRERA QUÍMICA",
+        "w": 15,
+        "h": 10,
+        "unit": "cm",
+        "label": "PERFORACIONES",
+        "note": "se perfora cada 10 a 15 cm en la base del muro"
+      }
+    },
+    {
+      "from": 20158,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Un trabajo bien hecho elimina el salitre para siempre",
+        "truth": "Sin barrera en los cimientos, puede volver a aparecer tras lluvias muy fuertes"
+      }
+    },
+    {
+      "from": 21967,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Membrana: antes y después",
+        "left": {
+          "label": "Sin sellar fisuras",
+          "sub": "Se vuelve a abrir en menos de un año"
+        },
+        "right": {
+          "label": "Fisuras selladas primero",
+          "sub": "Dos o tres manos cruzadas y bien curadas"
+        }
+      }
+    },
+    {
+      "from": 22915,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CUIDADO",
+        "phrase": "La membrana es elástica, pero no es mágica",
+        "accent": "no es mágica",
+        "src": "img/albanil-humedad-las-paredes_s70.png"
+      }
+    },
+    {
+      "from": 23909,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Fisura vs. grieta estructural",
+        "left": {
+          "label": "Fisura superficial",
+          "sub": "Menos de 1 mm, no cambia con el tiempo"
+        },
+        "right": {
+          "label": "Grieta estructural",
+          "sub": "Atraviesa el muro y va creciendo"
+        }
+      }
+    },
+    {
+      "from": 25399,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA PRUEBA DE LA CINTA",
+        "title": "Para saber si está activa",
+        "steps": [
+          {
+            "title": "Pega",
+            "sub": "cinta de papel sobre la grieta"
+          },
+          {
+            "title": "Fecha",
+            "sub": "anota el día con lapicera"
+          },
+          {
+            "title": "Espera 30 días",
+            "sub": "si se rompe, está activa"
+          }
+        ]
+      }
+    },
+    {
+      "from": 26478,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "5 errores que salen caros",
+        "items": [
+          "Pintar con humedad atrapada",
+          "Usar hidrófugo vencido",
+          "No respetar el curado",
+          "Tapar una grieta activa",
+          "Comprar pintura sin diagnóstico"
+        ]
+      }
+    },
+    {
+      "from": 29460,
+      "dur": 270,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "El plan de 4 semanas",
+        "steps": [
+          {
+            "when": "Semana 1",
+            "text": "Observa: mancha, salitre, moho, olor"
+          },
+          {
+            "when": "Semana 2",
+            "text": "Ventilación o ubicar la entrada de agua"
+          },
+          {
+            "when": "Semana 3",
+            "text": "Picado, hidrófugo y revoque nuevo"
+          },
+          {
+            "when": "Semana 4",
+            "text": "Terminación final, con el origen resuelto"
+          }
+        ]
+      }
+    },
+    {
+      "from": 30846,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA DIFERENCIA",
+        "phrase": "Ya no tapas agua, terminás una reparación que resolvió el origen",
+        "accent": "resolvió el origen",
+        "src": "img/albanil-humedad-las-paredes_s103.png"
+      }
+    },
+    {
+      "from": 32294,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "4 puntos clave de hoy",
+        "items": [
+          "La pintura es terminación, no solución",
+          "Existen 4 causas distintas de humedad",
+          "El diagnóstico se hace observando",
+          "La prueba de la cinta para las grietas"
+        ]
+      }
+    },
+    {
+      "from": 33469,
+      "dur": 240,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "title": "LO QUE CUESTA",
+        "rows": [
+          {
+            "label": "Visita de un técnico",
+            "price": "Una sola consulta",
+            "bad": true
+          },
+          {
+            "label": "Biblioteca del Maestro",
+            "price": "Menos que esa visita"
+          }
+        ],
+        "total": {
+          "label": "Disponible",
+          "price": "Siempre en tu celular"
+        },
+        "stamp": "AHORRO"
+      }
+    }
+  ]
+}
