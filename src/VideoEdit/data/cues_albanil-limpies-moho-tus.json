@@ -1,0 +1,1550 @@
+{
+  "slug": "albanil-limpies-moho-tus",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 36339,
+  "audioSrc": "albanil-limpies-moho-tus.mp3",
+  "avatarSrc": "albanil-limpies-moho-tus_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 380,
+      "dur": 510,
+      "clip": 0
+    },
+    {
+      "from": 9394,
+      "dur": 809,
+      "clip": 510
+    },
+    {
+      "from": 19654,
+      "dur": 812,
+      "clip": 1319
+    },
+    {
+      "from": 31768,
+      "dur": 624,
+      "clip": 2131
+    },
+    {
+      "from": 32459,
+      "dur": 591,
+      "clip": 2755
+    },
+    {
+      "from": 33833,
+      "dur": 808,
+      "clip": 3346
+    },
+    {
+      "from": 35303,
+      "dur": 995,
+      "clip": 4154
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 4,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 214,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 328,
+      "dur": 52,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 890,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1096,
+      "dur": 355,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1451,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1670,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2153,
+      "dur": 312,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s06.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2465,
+      "dur": 259,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s07.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2724,
+      "dur": 71,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s08.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3185,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s10.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3515,
+      "dur": 59,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s09.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3574,
+      "dur": 323,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s11.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3897,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s12.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4227,
+      "dur": 59,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s12.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4286,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s13.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4714,
+      "dur": 254,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s13.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4968,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s14.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5298,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s14.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5660,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s14.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5930,
+      "dur": 267,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s15.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6197,
+      "dur": 327,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s16.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6524,
+      "dur": 294,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s17.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7028,
+      "dur": 282,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s17.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7310,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s18.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7640,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s18.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7735,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s19.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8234,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s19.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8346,
+      "dur": 306,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s20.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8652,
+      "dur": 329,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s21.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8981,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s22.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9216,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s23.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10203,
+      "dur": 335,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s24.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10778,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s24.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10861,
+      "dur": 287,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s25.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11148,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s26.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11478,
+      "dur": 52,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s26.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11530,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s27.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11860,
+      "dur": 58,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s27.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11918,
+      "dur": 261,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s28.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12509,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s28.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12584,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s29.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12755,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s30.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12956,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s31.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13081,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s32.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13316,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s33.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13498,
+      "dur": 274,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s34.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13952,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s34.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14168,
+      "dur": 271,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s35.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14439,
+      "dur": 305,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s36.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14744,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s37.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15191,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s37.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15284,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s38.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15614,
+      "dur": 258,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s39.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16202,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s39.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16354,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16607,
+      "dur": 271,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s41.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16878,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s42.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17208,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s42.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17584,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s42.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17774,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s43.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18027,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s44.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18357,
+      "dur": 50,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s44.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18407,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s45.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18737,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s45.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19024,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s45.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19258,
+      "dur": 302,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s46.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20466,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s47.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20613,
+      "dur": 258,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s48.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20871,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s49.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21365,
+      "dur": 296,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s49.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21661,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s50.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22180,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s50.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22442,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s51.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22681,
+      "dur": 280,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s52.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22961,
+      "dur": 327,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s53.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23288,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s54.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23576,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s54.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23750,
+      "dur": 329,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s55.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24079,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s56.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24502,
+      "dur": 256,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s56.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24758,
+      "dur": 331,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s57.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25089,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s58.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25368,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s58.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25465,
+      "dur": 256,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s59.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25721,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s60.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25869,
+      "dur": 316,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s61.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26185,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s62.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26490,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26600,
+      "dur": 275,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s63.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26875,
+      "dur": 294,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s64.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27409,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s64.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27522,
+      "dur": 307,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s65.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28069,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s65.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28300,
+      "dur": 277,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s66.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28577,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s67.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28907,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s67.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29237,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s67.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29420,
+      "dur": 299,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s68.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29719,
+      "dur": 243,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s69.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30262,
+      "dur": 339,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s69.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30601,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s70.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30931,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s70.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31069,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s71.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31446,
+      "dur": 322,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s71.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32392,
+      "dur": 67,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s72.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33050,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s72.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33380,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s72.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33599,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s73.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34641,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s74.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34851,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s75.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 35181,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s75.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 36298,
+      "dur": 41,
+      "kind": "image",
+      "src": "img/albanil-limpies-moho-tus_s76.png",
+      "kb": 4,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 732,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "MATEO ALBAÑIL",
+        "title": "Mateo",
+        "sub": "Albañil con años de oficio"
+      }
+    },
+    {
+      "from": 1492,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "EL AVISO",
+        "sub": "el moho avisa, no es el problema",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 4046,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ESPORAS",
+        "sub": "microscópicas y están en el aire",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 4838,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "Los tres tipos de humedad"
+      }
+    },
+    {
+      "from": 5208,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SALITRE",
+        "sub": "humedad que sube desde el suelo",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 7097,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CONDENSACIÓN",
+        "sub": "empeora en invierno",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 9818,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 10195,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 10388,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL ERROR DEL TÍTULO",
+        "title": "Pintar encima sin resolver"
+      }
+    },
+    {
+      "from": 11148,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "LAS SALES",
+        "sub": "migran a través de la pintura nueva",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 12105,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL MÉTODO",
+        "title": "Los 5 pasos en orden"
+      }
+    },
+    {
+      "from": 16878,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "15 A 30 MINUTOS",
+        "sub": "tiempo de acción del fungicida",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 20181,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 21440,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "AÑOS, NO SIEMPRE",
+        "sub": "cada solución dura un tiempo distinto",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 23098,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ATENCIÓN",
+        "title": "Los errores más comunes"
+      }
+    },
+    {
+      "from": 25556,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "EL OLOR AVISA ANTES",
+        "sub": "actúa antes de ver la mancha",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 32384,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REPASO",
+        "title": "Lo que vimos hoy"
+      }
+    },
+    {
+      "from": 33653,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EN NÚMEROS",
+        "title": "Cuánto cuesta resolverlo bien"
+      }
+    },
+    {
+      "from": 34404,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 35037,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 4,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ANTES DE EMPEZAR",
+        "phrase": "No limpies el moho de tus paredes todavía",
+        "accent": "todavía",
+        "src": "img/albanil-limpies-moho-tus_s01.png"
+      }
+    },
+    {
+      "from": 1853,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Hoy vas a aprender",
+        "items": [
+          "Por qué el moho vuelve aunque limpies bien",
+          "El error más común al tratarlo",
+          "Cómo diferenciar moho superficial de uno profundo",
+          "Qué herramientas y productos usar",
+          "El orden correcto de los pasos"
+        ]
+      }
+    },
+    {
+      "from": 2795,
+      "dur": 390,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Plan semana por semana",
+        "steps": [
+          {
+            "when": "Semana 1",
+            "text": "Diagnóstico y revisión del revoque"
+          },
+          {
+            "when": "Semana 2",
+            "text": "Resolver la causa de fondo"
+          },
+          {
+            "when": "Semana 3",
+            "text": "Limpieza y picado si hace falta"
+          },
+          {
+            "when": "Semana 4-5",
+            "text": "Rehacer el revoque y dejar secar"
+          },
+          {
+            "when": "Semana 5-6",
+            "text": "Pintura final antihumedad"
+          }
+        ]
+      }
+    },
+    {
+      "from": 4534,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA CLAVE",
+        "phrase": "Es como cortar el pasto sin arrancar la raíz",
+        "accent": "la raíz",
+        "src": "img/albanil-limpies-moho-tus_s13.png"
+      }
+    },
+    {
+      "from": 5390,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Tres tipos de humedad",
+        "items": [
+          "Ascendente o salitre, desde el suelo",
+          "Filtración puntual, por una cañería o grieta",
+          "Condensación, por aire húmedo contra superficies frías"
+        ]
+      }
+    },
+    {
+      "from": 6818,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DATO CLAVE",
+        "phrase": "El moho en el baño casi siempre es condensación",
+        "accent": "condensación",
+        "src": "img/albanil-limpies-moho-tus_s17.png"
+      }
+    },
+    {
+      "from": 7904,
+      "dur": 330,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Así diferencias cada humedad",
+        "items": [
+          "Mancha en forma de mapa que sube = ascendente",
+          "Aparece tras lluvia o al usar un caño = filtración",
+          "Rincones fríos en invierno = condensación"
+        ]
+      }
+    },
+    {
+      "from": 10538,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL ERROR DEL TÍTULO",
+        "phrase": "Pintar sin resolver la humedad es tapar el síntoma con una capa más cara",
+        "accent": "tapar el síntoma",
+        "src": "img/albanil-limpies-moho-tus_s24.png"
+      }
+    },
+    {
+      "from": 12179,
+      "dur": 330,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "El orden correcto, paso a paso",
+        "items": [
+          "1. Diagnóstico antes de tocar nada",
+          "2. Resolver la causa",
+          "3. Limpiar el moho",
+          "4. Revisar el revoque dañado",
+          "5. Pintura final antihumedad"
+        ]
+      }
+    },
+    {
+      "from": 13772,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 2",
+        "phrase": "Resolver la causa, no la mancha",
+        "accent": "la causa",
+        "src": "img/albanil-limpies-moho-tus_s34.png"
+      }
+    },
+    {
+      "from": 14861,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HUMEDAD ASCENDENTE",
+        "title": "Cómo se trata de fondo",
+        "steps": [
+          {
+            "title": "Barrera química",
+            "sub": "Inyección hidrofugante en la base"
+          },
+          {
+            "title": "Corte físico",
+            "sub": "Lámina insertada en el muro"
+          },
+          {
+            "title": "Revoque especial",
+            "sub": "Deja salir el vapor sin salitre"
+          }
+        ]
+      }
+    },
+    {
+      "from": 15872,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 3",
+        "title": "Cómo limpiar el moho bien",
+        "steps": [
+          {
+            "title": "Protección",
+            "sub": "Guantes, barbijo y ventilar el ambiente"
+          },
+          {
+            "title": "Fungicida",
+            "sub": "Dejar actuar 15 a 30 minutos"
+          },
+          {
+            "title": "Secado",
+            "sub": "Varios días antes de seguir"
+          }
+        ]
+      }
+    },
+    {
+      "from": 17314,
+      "dur": 270,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "Marca el área a picar",
+        "w": 80,
+        "h": 50,
+        "unit": "cm",
+        "label": "REVOQUE DAÑADO",
+        "note": "hasta encontrar mampostería firme"
+      }
+    },
+    {
+      "from": 18814,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 5",
+        "phrase": "Ninguna pintura antihumedad es magia ni es eterna",
+        "accent": "ni es eterna",
+        "src": "img/albanil-limpies-moho-tus_s45.png"
+      }
+    },
+    {
+      "from": 19560,
+      "dur": 94,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "Calcula el área antes de comprar",
+        "w": 300,
+        "h": 250,
+        "unit": "cm",
+        "label": "PARED AFECTADA",
+        "note": "m² x espesor = cantidad de mortero"
+      }
+    },
+    {
+      "from": 21095,
+      "dur": 270,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Un tratamiento contra el moho dura para siempre",
+        "truth": "Dura según la causa: hay que mantener la ventilación o revisar la barrera con los años"
+      }
+    },
+    {
+      "from": 21910,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Vida útil según la causa",
+        "left": {
+          "label": "Filtración bien sellada",
+          "sub": "Puede durar muchos años, hasta décadas"
+        },
+        "right": {
+          "label": "Barrera química",
+          "sub": "Entre 10 y 20 años según el muro"
+        }
+      }
+    },
+    {
+      "from": 23336,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Más lavandina pura mata mejor el moho",
+        "truth": "La lavandina concentrada daña la pared y no penetra más adentro"
+      }
+    },
+    {
+      "from": 24292,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 2",
+        "phrase": "El revoque puede tardar hasta 7 días en secar del todo",
+        "accent": "7 días",
+        "src": "img/albanil-limpies-moho-tus_s56.png"
+      }
+    },
+    {
+      "from": 25188,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 3",
+        "phrase": "El olor a humedad llega antes que la mancha",
+        "accent": "antes que la mancha",
+        "src": "img/albanil-limpies-moho-tus_s58.png"
+      }
+    },
+    {
+      "from": 26250,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 4",
+        "phrase": "Tapar el moho con un mueble solo empeora el problema",
+        "accent": "empeora",
+        "src": "img/albanil-limpies-moho-tus_s62.png"
+      }
+    },
+    {
+      "from": 27169,
+      "dur": 240,
+      "comp": "NivelBurbuja",
+      "props": {
+        "theme": "earth",
+        "title": "Antes de seguir, confirma el diagnóstico",
+        "verdict": "¡CONFIRMADO!",
+        "sub": "revisa si alguien en casa es más sensible al moho"
+      }
+    },
+    {
+      "from": 27829,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 6: DEPARTAMENTOS",
+        "phrase": "Si la filtración es del vecino, tu arreglo no va a durar",
+        "accent": "no va a durar",
+        "src": "img/albanil-limpies-moho-tus_s65.png"
+      }
+    },
+    {
+      "from": 29962,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEGÚN LA CAUSA",
+        "title": "Qué hacer en la semana 2",
+        "steps": [
+          {
+            "title": "Filtración",
+            "sub": "Sellar o reparar la cañería o grieta"
+          },
+          {
+            "title": "Condensación",
+            "sub": "Ventilar más y mejorar el aislamiento"
+          },
+          {
+            "title": "Ascendente",
+            "sub": "Corte o inyección química"
+          }
+        ]
+      }
+    },
+    {
+      "from": 31206,
+      "dur": 240,
+      "comp": "NivelBurbuja",
+      "props": {
+        "theme": "earth",
+        "title": "Revisa que el revoque quede parejo",
+        "verdict": "¡A NIVEL!",
+        "sub": "antes de pintar, comprueba que no haya ondulaciones"
+      }
+    }
+  ]
+}
