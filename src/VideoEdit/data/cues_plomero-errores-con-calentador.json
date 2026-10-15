@@ -1,0 +1,2202 @@
+{
+  "slug": "plomero-errores-con-calentador",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 39955,
+  "audioSrc": "plomero-errores-con-calentador.mp3",
+  "avatarSrc": "plomero-errores-con-calentador_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1087,
+      "dur": 795,
+      "clip": 0
+    },
+    {
+      "from": 2403,
+      "dur": 728,
+      "clip": 795
+    },
+    {
+      "from": 12842,
+      "dur": 605,
+      "clip": 1523
+    },
+    {
+      "from": 19482,
+      "dur": 756,
+      "clip": 2128
+    },
+    {
+      "from": 31243,
+      "dur": 1050,
+      "clip": 2884
+    },
+    {
+      "from": 36977,
+      "dur": 985,
+      "clip": 3934
+    },
+    {
+      "from": 39131,
+      "dur": 779,
+      "clip": 4919
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 41,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 281,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s126.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 460,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 533,
+      "dur": 245,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 778,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1882,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2212,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2272,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3131,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3356,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3664,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s07.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3852,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s08.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4023,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s09.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4217,
+      "dur": 57,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4571,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s10.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4780,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s11.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5029,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s12.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5162,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s13.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5235,
+      "dur": 268,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s14.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5503,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s16.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5833,
+      "dur": 299,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s15.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6132,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s18.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6330,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6526,
+      "dur": 223,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s20.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6749,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s21.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6890,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s22.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7046,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s23.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7486,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s24.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7681,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s25.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7800,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s26.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7892,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s27.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8188,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s19.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8265,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s136.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8399,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s28.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8520,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s29.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8924,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s17.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9063,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s113.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9197,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s30.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9406,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s31.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9550,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s32.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9672,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s33.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9863,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s34.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10010,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s35.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10073,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s36.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10400,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s36.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10648,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s37.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10783,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s38.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10838,
+      "dur": 236,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s39.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11074,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s41.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11270,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s42.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11390,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s43.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11483,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s44.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11668,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s45.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11872,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s46.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12178,
+      "dur": 297,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s40.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12475,
+      "dur": 295,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s47.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12770,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s48.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13447,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s49.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13620,
+      "dur": 244,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s50.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13864,
+      "dur": 64,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s52.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14138,
+      "dur": 315,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s51.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14453,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s53.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14655,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s54.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14848,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s55.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14996,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s56.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15157,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s57.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15266,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s58.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15599,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s58.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15763,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s59.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15838,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s60.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16047,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s61.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16377,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s61.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16462,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s63.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16805,
+      "dur": 290,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s63.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17095,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s64.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17269,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s66.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17386,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s67.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17837,
+      "dur": 251,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s73.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18088,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s68.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18263,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s69.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18461,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s70.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18689,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s71.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18979,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s65.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19211,
+      "dur": 271,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s72.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20238,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s72.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20568,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s72.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20740,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s74.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20898,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s75.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21011,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s76.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21185,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s77.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21360,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s79.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21747,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s78.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21929,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s80.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22041,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s81.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22214,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s82.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22396,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s83.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22831,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s83.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23161,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s83.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23239,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s84.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23345,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s85.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23505,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s86.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23636,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s87.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23748,
+      "dur": 54,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s88.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23802,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s89.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24124,
+      "dur": 292,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s89.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24416,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s90.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24611,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s91.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24836,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s92.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25013,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s93.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25216,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s94.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25337,
+      "dur": 278,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s95.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25615,
+      "dur": 70,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s97.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25685,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s98.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25865,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s99.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26224,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s96.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26465,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s100.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26543,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s101.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26773,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s102.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26930,
+      "dur": 215,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s103.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27355,
+      "dur": 358,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s103.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27713,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s105.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27861,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s106.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27988,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s107.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28116,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s108.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28418,
+      "dur": 353,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s104.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28771,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s109.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28954,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s110.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29164,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s111.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29263,
+      "dur": 335,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s112.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29598,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s114.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29832,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s115.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29913,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s116.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30260,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s116.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30438,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s117.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30589,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s118.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30754,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s119.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30952,
+      "dur": 291,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s120.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32293,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s120.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32383,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s121.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32479,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s122.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32787,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s122.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32982,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s123.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33190,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s124.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33356,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s125.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33772,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s125.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34102,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s125.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34157,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s127.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 34367,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s128.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34485,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s129.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 34663,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s130.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 34760,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s131.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34868,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s132.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 35047,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s133.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 35219,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s134.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 35662,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s134.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 35783,
+      "dur": 374,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s135.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 36157,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s137.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 36363,
+      "dur": 218,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s138.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 36581,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s139.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 36756,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s140.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 37962,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s141.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 38338,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s141.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 38495,
+      "dur": 250,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s142.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 38745,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s144.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 38941,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s145.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 39910,
+      "dur": 45,
+      "kind": "image",
+      "src": "img/plomero-errores-con-calentador_s143.png",
+      "kb": 3,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL GANCHO",
+        "title": "LA VÁLVULA QUE CASI EXPLOTA"
+      }
+    },
+    {
+      "from": 533,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "EN SILENCIO",
+        "sub": "presión que se acumula sin salida",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 1173,
+      "dur": 180,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "MATEO EL PLOMERO",
+        "title": "Mateo",
+        "sub": "15 años destapando cañerías y cambiando calentadores"
+      }
+    },
+    {
+      "from": 2272,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL CASO",
+        "title": "EL OLOR A HUEVO PODRIDO"
+      }
+    },
+    {
+      "from": 5458,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 1",
+        "title": "NUNCA DRENAR EL TANQUE"
+      }
+    },
+    {
+      "from": 5777,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SARRO",
+        "sub": "sedimento del agua dura",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 8399,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "NO SIRVE",
+        "num": 1,
+        "text": "abrir y cerrar rápido la válvula"
+      }
+    },
+    {
+      "from": 8955,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "FLUJO SOSTENIDO",
+        "sub": "no un chorrito de 2 segundos",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 9063,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 2",
+        "title": "LA VÁLVULA DE ALIVIO"
+      }
+    },
+    {
+      "from": 9063,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 10",
+        "title": "SIN ESPACIO NI VENTILACIÓN"
+      }
+    },
+    {
+      "from": 11074,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 2,
+        "text": "tapar la válvula con cinta"
+      }
+    },
+    {
+      "from": 11668,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "nunca mezcles cloro con vinagre o amoníaco",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 12288,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "CUIDADO",
+        "sub": "el PVC no soporta agua hirviendo constante",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 13620,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 13822,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 3",
+        "title": "TEMPERATURA MAL AJUSTADA"
+      }
+    },
+    {
+      "from": 14848,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MÁS SARRO",
+        "sub": "con más calor se forma más rápido",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 14996,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 49,
+        "suffix": "°C",
+        "label": "temperatura ideal",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 15719,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 4",
+        "title": "TUBERÍAS SIN AISLAR"
+      }
+    },
+    {
+      "from": 17233,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 5",
+        "title": "EL TAMAÑO EQUIVOCADO"
+      }
+    },
+    {
+      "from": 20048,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 21185,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 21317,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 6",
+        "title": "EL ÁNODO OLVIDADO"
+      }
+    },
+    {
+      "from": 21858,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SACRIFICIO",
+        "sub": "se desgasta él, no el tanque",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 23748,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 7",
+        "title": "FUGAS PEQUEÑAS QUE IGNORAS"
+      }
+    },
+    {
+      "from": 25581,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 8",
+        "title": "LA EDAD REAL DEL CALENTADOR"
+      }
+    },
+    {
+      "from": 25685,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 10,
+        "suffix": " años",
+        "label": "vida útil promedio",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 27672,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 9",
+        "title": "LLAMA SUCIA, RIESGO REAL"
+      }
+    },
+    {
+      "from": 28622,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MONÓXIDO",
+        "sub": "no se ve ni se huele",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 28954,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "LLAMA A UN TÉCNICO",
+        "sub": "llama rara, olor a gas o piloto que se apaga solo",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 29598,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR DE NOVATO",
+        "num": 3,
+        "text": "instalar sin espacio alrededor"
+      }
+    },
+    {
+      "from": 30589,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "15 CM LIBRES",
+        "sub": "espacio mínimo de mantenimiento",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 34485,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 1500,
+        "suffix": " USD",
+        "label": "tope de un tanque nuevo",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 37796,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 38495,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 41,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL OBJETO",
+        "phrase": "Una bomba de agua caliente a punto de estallar",
+        "accent": "bomba de agua caliente",
+        "src": "img/plomero-errores-con-calentador_s01.png"
+      }
+    },
+    {
+      "from": 929,
+      "dur": 158,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "LO QUE VAS A APRENDER HOY",
+        "items": [
+          "10 errores reales y comunes",
+          "Diagnóstico por síntomas",
+          "Pasos exactos, con tiempos",
+          "Qué NO sirve de internet"
+        ]
+      }
+    },
+    {
+      "from": 3484,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL DATO",
+        "value": 20,
+        "prefix": "$",
+        "suffix": "",
+        "label": "cuesta un ánodo de sacrificio nuevo"
+      }
+    },
+    {
+      "from": 4274,
+      "dur": 240,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "title": "LO QUE LE COSTÓ AL CLIENTE",
+        "rows": [
+          {
+            "label": "Ánodo a tiempo",
+            "price": "$20"
+          },
+          {
+            "label": "Tanque nuevo sin revisar",
+            "price": "$600",
+            "bad": true
+          }
+        ],
+        "total": {
+          "label": "Diferencia",
+          "price": "$580"
+        },
+        "stamp": "CASO REAL"
+      }
+    },
+    {
+      "from": 4361,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "SEDIMENTO VS TANQUE SANO",
+        "left": {
+          "label": "Con sedimento",
+          "sub": "gasta más y hace ruido"
+        },
+        "right": {
+          "label": "Sin sedimento",
+          "sub": "eficiente y silencioso"
+        }
+      }
+    },
+    {
+      "from": 7186,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL ARREGLO",
+        "title": "CÓMO DRENAR EL TANQUE",
+        "steps": [
+          {
+            "title": "Cierra el agua fría",
+            "sub": "en la entrada del calentador"
+          },
+          {
+            "title": "Conecta la manguera",
+            "sub": "a la válvula de drenado"
+          },
+          {
+            "title": "Deja correr el agua",
+            "sub": "5 a 10 minutos hasta que salga clara"
+          }
+        ]
+      }
+    },
+    {
+      "from": 8008,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL DATO",
+        "value": 10,
+        "prefix": "",
+        "suffix": " min",
+        "label": "para que el agua salga clara la primera vez"
+      }
+    },
+    {
+      "from": 8714,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Abrir la válvula un segundo ya lo limpia",
+        "truth": "Hace falta flujo sostenido varios minutos para sacar el sedimento"
+      }
+    },
+    {
+      "from": 10160,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PRUEBA RÁPIDA",
+        "title": "CÓMO PROBAR LA VÁLVULA",
+        "steps": [
+          {
+            "title": "Calentador funcionando",
+            "sub": "con normalidad"
+          },
+          {
+            "title": "Levanta la palanca",
+            "sub": "unos segundos"
+          },
+          {
+            "title": "Debe salir agua caliente",
+            "sub": "por el tubo de descarga"
+          }
+        ]
+      }
+    },
+    {
+      "from": 11968,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "NUNCA MEZCLES ESTO",
+        "items": [
+          "Cloro con vinagre",
+          "Cloro con amoníaco",
+          "PVC con agua hirviendo constante"
+        ]
+      }
+    },
+    {
+      "from": 13928,
+      "dur": 210,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TEMPERATURA IDEAL",
+        "value": 49,
+        "max": 70,
+        "suffix": "°C",
+        "label": "lo recomendado para la mayoría de los hogares"
+      }
+    },
+    {
+      "from": 15389,
+      "dur": 210,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "AJÚSTALA BIEN",
+        "title": "CÓMO MEDIR LA TEMPERATURA",
+        "steps": [
+          {
+            "title": "Deja correr el agua",
+            "sub": "un minuto"
+          },
+          {
+            "title": "Pon un termómetro",
+            "sub": "de cocina en el chorro"
+          },
+          {
+            "title": "Ajusta la perilla",
+            "sub": "hasta 49°C"
+          }
+        ]
+      }
+    },
+    {
+      "from": 16625,
+      "dur": 180,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "TUBERÍA AISLADA VS SIN AISLAR",
+        "left": {
+          "label": "Sin aislante",
+          "sub": "pierde calor, el calentador trabaja más"
+        },
+        "right": {
+          "label": "Con manga de espuma",
+          "sub": "llega más caliente, gasta menos"
+        }
+      }
+    },
+    {
+      "from": 17627,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "TU CALENTADOR YA ES CHICO SI...",
+        "items": [
+          "Se acaba a la mitad de la segunda regadera",
+          "La lavadora y la regadera no funcionan juntas",
+          "Esperas cada vez más entre duchas"
+        ]
+      }
+    },
+    {
+      "from": 18799,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REFERENCIA",
+        "value": 189,
+        "prefix": "",
+        "suffix": " L",
+        "label": "tanque típico para familia de 3 o 4 personas"
+      }
+    },
+    {
+      "from": 21537,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL ÁNODO",
+        "phrase": "Se desgasta él para que el tanque no se desgaste",
+        "accent": "se desgasta él",
+        "src": "img/plomero-errores-con-calentador_s79.png"
+      }
+    },
+    {
+      "from": 22591,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REVÍSALO A TIEMPO",
+        "title": "CADA CUÁNTO CAMBIAR EL ÁNODO",
+        "steps": [
+          {
+            "title": "Cada 3 años",
+            "sub": "en agua normal"
+          },
+          {
+            "title": "Cada año y medio",
+            "sub": "con agua muy dura o suavizador"
+          },
+          {
+            "title": "Cámbialo ya",
+            "sub": "si queda menos de la mitad del grosor"
+          }
+        ]
+      }
+    },
+    {
+      "from": 23944,
+      "dur": 180,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Una gota ocasional no es nada",
+        "truth": "Una fuga constante puede ser una junta fallando o corrosión avanzada"
+      }
+    },
+    {
+      "from": 26044,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL DATO",
+        "value": 10,
+        "prefix": "",
+        "suffix": " años",
+        "label": "vida útil promedio de un calentador de tanque"
+      }
+    },
+    {
+      "from": 27145,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CALENTADORES VIEJOS",
+        "phrase": "Un día funciona bien y al siguiente gotea por el fondo",
+        "accent": "gotea por el fondo",
+        "src": "img/plomero-errores-con-calentador_s103.png"
+      }
+    },
+    {
+      "from": 28238,
+      "dur": 180,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "LLAMA AZUL VS LLAMA AMARILLA",
+        "left": {
+          "label": "Llama azul firme",
+          "sub": "combustión correcta"
+        },
+        "right": {
+          "label": "Llama amarilla o naranja",
+          "sub": "mala combustión, riesgo de monóxido"
+        }
+      }
+    },
+    {
+      "from": 30050,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "MI ERROR DE NOVATO",
+        "items": [
+          "Pegué el calentador a la pared",
+          "Pegado a un estante de madera",
+          "Sin espacio para mantenimiento después"
+        ]
+      }
+    },
+    {
+      "from": 32607,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ELÉCTRICO SIN AGUA CALIENTE",
+        "phrase": "A veces el problema es solo el interruptor térmico",
+        "accent": "interruptor térmico",
+        "src": "img/plomero-errores-con-calentador_s122.png"
+      }
+    },
+    {
+      "from": 33532,
+      "dur": 240,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "title": "CUÁNTO CUESTA CADA ARREGLO",
+        "rows": [
+          {
+            "label": "Drenar el tanque tú mismo",
+            "price": "$0"
+          },
+          {
+            "label": "Ánodo nuevo (tú mismo)",
+            "price": "$15-25"
+          },
+          {
+            "label": "Válvula de alivio nueva",
+            "price": "$15-30"
+          },
+          {
+            "label": "Tanque nuevo instalado",
+            "price": "$700-1500",
+            "bad": true
+          }
+        ],
+        "total": {
+          "label": "Ahorro con mantenimiento",
+          "price": "$580+"
+        },
+        "stamp": "CUENTA REAL"
+      }
+    },
+    {
+      "from": 35392,
+      "dur": 270,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "MANTENIMIENTO MENSUAL",
+        "steps": [
+          {
+            "when": "Cada mes",
+            "text": "Revisa humedad en la base y escucha ruidos"
+          },
+          {
+            "when": "Cada 6 meses",
+            "text": "Prueba la válvula de alivio"
+          },
+          {
+            "when": "Cada año",
+            "text": "Drena el tanque por completo"
+          },
+          {
+            "when": "Cada 3 años",
+            "text": "Revisa y cambia el ánodo"
+          }
+        ]
+      }
+    },
+    {
+      "from": 38098,
+      "dur": 240,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "title": "LA GUÍA VS UNA VISITA",
+        "rows": [
+          {
+            "label": "Visita de un técnico",
+            "price": "$80+",
+            "bad": true
+          },
+          {
+            "label": "Guía El Plomero en Casa",
+            "price": "$27"
+          }
+        ],
+        "total": {
+          "label": "Pago único",
+          "price": "$27"
+        },
+        "stamp": "GARANTÍA 7 DÍAS"
+      }
+    }
+  ]
+}
