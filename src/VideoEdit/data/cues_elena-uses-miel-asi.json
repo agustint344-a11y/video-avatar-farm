@@ -1,0 +1,1808 @@
+{
+  "slug": "elena-uses-miel-asi",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 39296,
+  "audioSrc": "elena-uses-miel-asi.mp3",
+  "avatarSrc": "elena-uses-miel-asi_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1433,
+      "dur": 205,
+      "clip": 0
+    },
+    {
+      "from": 19836,
+      "dur": 279,
+      "clip": 205
+    },
+    {
+      "from": 35476,
+      "dur": 282,
+      "clip": 484
+    },
+    {
+      "from": 36256,
+      "dur": 166,
+      "clip": 766
+    },
+    {
+      "from": 37506,
+      "dur": 278,
+      "clip": 932
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 330,
+      "dur": 54,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 594,
+      "dur": 275,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 869,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1199,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s02.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1638,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s02.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1968,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s02.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2298,
+      "dur": 282,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2580,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2933,
+      "dur": 261,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3194,
+      "dur": 281,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3475,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s05.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4022,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4138,
+      "dur": 315,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s06.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4663,
+      "dur": 293,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s08.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4956,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s09.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5266,
+      "dur": 268,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s07.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5534,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s10.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5864,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s10.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5975,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s11.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6305,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s11.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6407,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s12.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6648,
+      "dur": 326,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s13.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6974,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s14.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7460,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s14.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7528,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s15.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7776,
+      "dur": 319,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s16.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8095,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s17.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8292,
+      "dur": 336,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s18.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8628,
+      "dur": 265,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8893,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s20.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9145,
+      "dur": 304,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s21.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9449,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s22.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9857,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s22.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9981,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s23.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10221,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s24.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10379,
+      "dur": 315,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s25.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10904,
+      "dur": 233,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s25.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11137,
+      "dur": 293,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s26.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11790,
+      "dur": 264,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s27.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12234,
+      "dur": 318,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s27.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12552,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s28.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12731,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s29.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13104,
+      "dur": 59,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s29.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13163,
+      "dur": 320,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s30.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13483,
+      "dur": 282,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s31.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13765,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s32.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14068,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s32.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14398,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s32.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14550,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s33.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14789,
+      "dur": 306,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s34.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15095,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s35.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15235,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s36.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15639,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s36.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15901,
+      "dur": 278,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s37.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16179,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s38.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16634,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s38.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16726,
+      "dur": 304,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s39.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17030,
+      "dur": 367,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s40.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17397,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s41.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17603,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s42.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18063,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s43.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18393,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s43.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18455,
+      "dur": 223,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s44.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18678,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s45.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19281,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s45.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19427,
+      "dur": 255,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s46.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19682,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s47.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20115,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s47.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20445,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s47.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20633,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s48.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20825,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s49.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21287,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s49.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21335,
+      "dur": 57,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s50.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21392,
+      "dur": 342,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s53.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21734,
+      "dur": 238,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s51.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21972,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s52.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22302,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s52.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22632,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s52.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22972,
+      "dur": 328,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s52.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23300,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s54.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23630,
+      "dur": 59,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s54.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23689,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s55.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24019,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s55.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24349,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s55.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24530,
+      "dur": 347,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s56.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24877,
+      "dur": 205,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s57.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25082,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s58.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25619,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s58.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25715,
+      "dur": 314,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s59.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26029,
+      "dur": 310,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s60.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26549,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s61.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26879,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s61.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26994,
+      "dur": 268,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s62.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27442,
+      "dur": 283,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27725,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s63.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27847,
+      "dur": 279,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s64.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28516,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s65.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28659,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s66.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28837,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s67.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29069,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s68.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29289,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s69.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29419,
+      "dur": 308,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s70.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29727,
+      "dur": 359,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s71.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30506,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s72.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30715,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s73.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30913,
+      "dur": 297,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s74.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31210,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s75.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31345,
+      "dur": 301,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s76.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31646,
+      "dur": 70,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s77.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31716,
+      "dur": 293,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s78.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32009,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s79.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32217,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s80.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32320,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s81.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32544,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s82.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32724,
+      "dur": 327,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s83.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33051,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s84.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33234,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s85.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33737,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s85.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33838,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s86.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 34168,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s86.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34236,
+      "dur": 323,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s87.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34559,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s88.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 34845,
+      "dur": 318,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s88.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 35163,
+      "dur": 313,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s89.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 35758,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s89.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 36088,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s89.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 36422,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s89.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 36752,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s89.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 37082,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s89.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 37213,
+      "dur": 293,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s90.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 37784,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s90.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 38114,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s90.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 38444,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s90.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 38774,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s90.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 39104,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/elena-uses-miel-asi_s90.png",
+      "kb": 3,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 3,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PUNTO DE PARTIDA",
+        "title": "El error que nadie revisa"
+      }
+    },
+    {
+      "from": 1162,
+      "dur": 180,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "MÉTODO BIENESTAR NATURAL",
+        "title": "Elena Vidal",
+        "sub": "Alternativas naturales para el cuidado de la piel"
+      }
+    },
+    {
+      "from": 4956,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "Miel cruda vs. procesada"
+      }
+    },
+    {
+      "from": 6200,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "GLUCOSA OXIDASA",
+        "sub": "La enzima detrás del efecto antibacteriano",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 7916,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "¿CRISTALIZA?",
+        "sub": "Señal de que tu miel es cruda",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 10177,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "Piel limpia antes de todo"
+      }
+    },
+    {
+      "from": 12619,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "El tiempo correcto"
+      }
+    },
+    {
+      "from": 12619,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 6",
+        "title": "El protector solar"
+      }
+    },
+    {
+      "from": 14725,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CLIMA HÚMEDO",
+        "sub": "Tolera mejor el extremo alto del rango",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 15194,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "title": "La mascarilla para manchas"
+      }
+    },
+    {
+      "from": 18106,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "FUROCUMARINAS",
+        "sub": "Hacen la piel más sensible al sol",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 20143,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 20474,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 20633,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 5",
+        "title": "Combinaciones seguras"
+      }
+    },
+    {
+      "from": 24702,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "HIPERPIGMENTACIÓN",
+        "sub": "Por exposición solar acumulada",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 26767,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CONSERVACIÓN",
+        "title": "Cómo guardar tu miel"
+      }
+    },
+    {
+      "from": 27847,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "AUTODIAGNÓSTICO",
+        "title": "¿Dónde estás fallando?"
+      }
+    },
+    {
+      "from": 29727,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PLAN",
+        "title": "Tu plan semana por semana"
+      }
+    },
+    {
+      "from": 31456,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "PACIENCIA",
+        "sub": "Cambios graduales, nunca instantáneos",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 32320,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ALGO MÁS PAREJO",
+        "sub": "No una transformación radical",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 33234,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CUÁNDO EVITARLA",
+        "title": "Señales de alerta"
+      }
+    },
+    {
+      "from": 35372,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REPASO",
+        "title": "Todo lo que vimos"
+      }
+    },
+    {
+      "from": 37830,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 37938,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 39194,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 384,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "El detalle que nadie revisa",
+        "phrase": "Quizás estás usando el tipo equivocado de miel",
+        "accent": "tipo equivocado",
+        "src": "img/elena-uses-miel-asi_s01.png"
+      }
+    },
+    {
+      "from": 2693,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "La miel borra las manchas en pocos días",
+        "truth": "Ayuda gradualmente a mejorar la piel, con constancia y tiempo"
+      }
+    },
+    {
+      "from": 3722,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "En este video",
+        "title": "Todo lo que vas a aprender",
+        "steps": [
+          {
+            "title": "El error más común",
+            "sub": "Por qué la miel no te funciona"
+          },
+          {
+            "title": "Miel cruda vs procesada",
+            "sub": "La diferencia que lo cambia todo"
+          },
+          {
+            "title": "El protector solar",
+            "sub": "La base de cualquier resultado"
+          }
+        ]
+      }
+    },
+    {
+      "from": 4453,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Razón 6, la más importante",
+        "phrase": "El protector solar no es opcional",
+        "accent": "no es opcional",
+        "src": "img/elena-uses-miel-asi_s55.png"
+      }
+    },
+    {
+      "from": 5056,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Razón 1",
+        "phrase": "Estás usando miel procesada, no miel cruda",
+        "accent": "miel cruda",
+        "src": "img/elena-uses-miel-asi_s09.png"
+      }
+    },
+    {
+      "from": 7100,
+      "dur": 360,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Cómo saber",
+        "title": "¿Tu miel es cruda?",
+        "steps": [
+          {
+            "title": "Etiqueta",
+            "sub": "Busca 'miel cruda' o 'sin filtrar'"
+          },
+          {
+            "title": "Textura",
+            "sub": "La cruda cristaliza con el tiempo"
+          },
+          {
+            "title": "Precio y origen",
+            "sub": "La cruda cuesta más y suele ser local"
+          }
+        ]
+      }
+    },
+    {
+      "from": 9587,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Importa la variedad?",
+        "left": {
+          "label": "Miel oscura",
+          "sub": "Más antioxidantes (ej. trigo sarraceno)"
+        },
+        "right": {
+          "label": "Miel clara",
+          "sub": "Igual de válida si es cruda"
+        }
+      }
+    },
+    {
+      "from": 10694,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Razón 2",
+        "phrase": "La miel no limpia maquillaje ni protector solar",
+        "accent": "no limpia",
+        "src": "img/elena-uses-miel-asi_s25.png"
+      }
+    },
+    {
+      "from": 11430,
+      "dur": 360,
+      "comp": "RutinaDia",
+      "props": {
+        "theme": "earth",
+        "title": "Tu rutina, simple",
+        "slots": [
+          {
+            "time": "20:00",
+            "text": "Lava el rostro con limpiador suave"
+          },
+          {
+            "time": "20:05",
+            "text": "Seca con toques suaves, sin frotar"
+          },
+          {
+            "time": "20:10",
+            "text": "Aplica la mascarilla sobre piel limpia y húmeda"
+          }
+        ]
+      }
+    },
+    {
+      "from": 12054,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Antes de aplicar",
+        "phrase": "Prueba primero en una zona pequeña de piel",
+        "accent": "prueba primero",
+        "src": "img/elena-uses-miel-asi_s27.png"
+      }
+    },
+    {
+      "from": 12834,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Dos errores opuestos",
+        "left": {
+          "label": "Muy poco tiempo",
+          "sub": "5 minutos no alcanza para actuar"
+        },
+        "right": {
+          "label": "Toda la noche",
+          "sub": "Puede irritar y resecar la piel"
+        }
+      }
+    },
+    {
+      "from": 13858,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Razón 3",
+        "phrase": "El tiempo ideal: entre quince y veinte minutos",
+        "accent": "quince y veinte minutos",
+        "src": "img/elena-uses-miel-asi_s32.png"
+      }
+    },
+    {
+      "from": 15429,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Expectativas reales",
+        "phrase": "Ninguna mascarilla elimina por completo manchas profundas",
+        "accent": "no elimina",
+        "src": "img/elena-uses-miel-asi_s36.png"
+      }
+    },
+    {
+      "from": 16274,
+      "dur": 360,
+      "comp": "RutinaDia",
+      "props": {
+        "theme": "earth",
+        "title": "Mascarilla paso a paso",
+        "slots": [
+          {
+            "time": "19:55",
+            "text": "Piel limpia y ligeramente húmeda"
+          },
+          {
+            "time": "20:00",
+            "text": "1 cucharada de miel cruda en capa fina"
+          },
+          {
+            "time": "20:20",
+            "text": "Retira con agua tibia, sin frotar"
+          }
+        ]
+      }
+    },
+    {
+      "from": 17823,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Miel con limón es la combinación perfecta para manchas",
+        "truth": "Puede causar fotodermatitis y manchas más oscuras si te expones al sol"
+      }
+    },
+    {
+      "from": 18951,
+      "dur": 330,
+      "comp": "RutinaDia",
+      "props": {
+        "theme": "earth",
+        "title": "Si usas miel con limón",
+        "slots": [
+          {
+            "time": "Noche",
+            "text": "1/4 cdita de limón + 1 cda de miel, máx. 10 min"
+          },
+          {
+            "time": "10 min después",
+            "text": "Retira con agua tibia"
+          },
+          {
+            "time": "Mañana siguiente",
+            "text": "Protector solar sin excepción"
+          }
+        ]
+      }
+    },
+    {
+      "from": 21017,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Combinaciones más seguras",
+        "left": {
+          "label": "Miel + avena",
+          "sub": "Calma y suaviza, sin fotosensibilidad"
+        },
+        "right": {
+          "label": "Miel + yogur",
+          "sub": "Ácido láctico suave, ideal piel seca"
+        }
+      }
+    },
+    {
+      "from": 22792,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Miel con canela",
+        "phrase": "Solo en cantidades muy pequeñas para no irritar",
+        "accent": "cantidades muy pequeñas",
+        "src": "img/elena-uses-miel-asi_s53.png"
+      }
+    },
+    {
+      "from": 25229,
+      "dur": 390,
+      "comp": "RutinaDia",
+      "props": {
+        "theme": "earth",
+        "title": "Protector solar, todo el día",
+        "slots": [
+          {
+            "time": "7:00",
+            "text": "Aplica FPS 30 o más, amplio espectro"
+          },
+          {
+            "time": "9:00",
+            "text": "Reaplica si estás al sol"
+          },
+          {
+            "time": "11:00",
+            "text": "Reaplica nuevamente cada 2 horas"
+          },
+          {
+            "time": "Noche",
+            "text": "Limpieza suave para remover el día"
+          }
+        ]
+      }
+    },
+    {
+      "from": 26339,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Una imagen simple",
+        "phrase": "Es como vaciar la bañera con la llave abierta",
+        "accent": "llave abierta",
+        "src": "img/elena-uses-miel-asi_s61.png"
+      }
+    },
+    {
+      "from": 27262,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Conservación",
+        "phrase": "Guarda tu miel cruda en un lugar fresco y oscuro",
+        "accent": "fresco y oscuro",
+        "src": "img/elena-uses-miel-asi_s62.png"
+      }
+    },
+    {
+      "from": 28126,
+      "dur": 390,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Autodiagnóstico rápido",
+        "items": [
+          "¿Usas miel cruda o sin filtrar?",
+          "¿Te lavas el rostro antes?",
+          "¿Dejas la mascarilla 15-20 minutos?",
+          "¿Usas protector solar todos los días?",
+          "¿Guardas la miel lejos del calor?"
+        ]
+      }
+    },
+    {
+      "from": 30086,
+      "dur": 420,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Tu plan semana por semana",
+        "steps": [
+          {
+            "when": "Semana 1",
+            "text": "Miel pura, 2-3 veces por semana, observa reacción"
+          },
+          {
+            "when": "Semana 2-3",
+            "text": "Suma combinaciones suaves, avena o yogur"
+          },
+          {
+            "when": "Semana 4-8",
+            "text": "Posibles cambios leves y graduales en el tono"
+          },
+          {
+            "when": "Después de 2 meses",
+            "text": "Si no hay cambios, consulta a un dermatólogo"
+          }
+        ]
+      }
+    },
+    {
+      "from": 33377,
+      "dur": 360,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Cuándo NO usar esta mascarilla",
+        "items": [
+          "Alergia a la miel o productos de abeja",
+          "Acné activo severo sin consulta previa",
+          "Uso de retinoides o ácidos recetados",
+          "Ardor, ronchas o hinchazón: retira ya"
+        ]
+      }
+    },
+    {
+      "from": 34665,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Señal de alerta",
+        "phrase": "Ardor intenso o hinchazón: retira de inmediato",
+        "accent": "retira de inmediato",
+        "src": "img/elena-uses-miel-asi_s88.png"
+      }
+    }
+  ]
+}
