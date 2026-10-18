@@ -1,0 +1,2001 @@
+{
+  "slug": "elena-clavo-de-olor",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 38506,
+  "audioSrc": "elena-clavo-de-olor.mp3",
+  "avatarSrc": "elena-clavo-de-olor_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 983,
+      "dur": 816,
+      "clip": 0
+    },
+    {
+      "from": 2050,
+      "dur": 793,
+      "clip": 816
+    },
+    {
+      "from": 3130,
+      "dur": 779,
+      "clip": 1609
+    },
+    {
+      "from": 29281,
+      "dur": 744,
+      "clip": 2388
+    },
+    {
+      "from": 34867,
+      "dur": 1050,
+      "clip": 3132
+    },
+    {
+      "from": 37148,
+      "dur": 1045,
+      "clip": 4182
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 58,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 481,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s20.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 593,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 768,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1799,
+      "dur": 251,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2843,
+      "dur": 287,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s03.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3909,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s103.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4239,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s103.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4397,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s04.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4592,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s05.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4781,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s06.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5176,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s06.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5354,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s07.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5589,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s08.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5668,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s09.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6115,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s09.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6445,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s09.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6627,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s10.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6773,
+      "dur": 236,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s11.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7009,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s12.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7169,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s32.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7298,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s42.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7628,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s13.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7795,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s14.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7996,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s15.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8119,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s16.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8626,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s16.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8714,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s17.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8877,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s18.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8991,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9403,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s19.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9733,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s19.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9802,
+      "dur": 321,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s21.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10123,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s22.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10504,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s22.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10663,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s23.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10808,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s24.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10977,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s25.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11414,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s25.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11533,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s26.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11657,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s27.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12124,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s27.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12386,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s28.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12441,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s37.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12602,
+      "dur": 56,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s29.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12868,
+      "dur": 317,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s36.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13185,
+      "dur": 215,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s30.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13400,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s31.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13730,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s31.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14036,
+      "dur": 301,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s31.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14337,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s33.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14569,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s35.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15018,
+      "dur": 329,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s34.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15347,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s38.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15736,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s38.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15862,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s39.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16020,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s40.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16227,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s41.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16557,
+      "dur": 53,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s41.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16610,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s43.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16969,
+      "dur": 344,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s43.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17313,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s44.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17438,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s45.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17890,
+      "dur": 357,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s45.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18247,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s46.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18445,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s47.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18851,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s47.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18979,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s48.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19084,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s49.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19252,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s50.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19667,
+      "dur": 301,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s50.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19968,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s51.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20221,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s52.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20347,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s53.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20705,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s53.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21035,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s53.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21100,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s54.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21194,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s55.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21677,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s56.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22007,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s56.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22055,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s57.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22132,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s58.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22583,
+      "dur": 325,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s58.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22908,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s59.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23096,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s60.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23409,
+      "dur": 329,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s60.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23738,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s61.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23963,
+      "dur": 52,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s62.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24015,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s63.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24515,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s63.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24845,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s63.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24905,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s64.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25016,
+      "dur": 49,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s65.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25065,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s66.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25240,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s67.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25424,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s68.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25609,
+      "dur": 218,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s69.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25827,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s70.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25911,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s71.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26106,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s72.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26245,
+      "dur": 236,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s73.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26481,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s74.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26611,
+      "dur": 56,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s75.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26937,
+      "dur": 334,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s75.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27271,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s76.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27405,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s77.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27541,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s78.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27829,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s78.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28051,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s79.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28241,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s80.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28369,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s81.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28721,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s81.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28949,
+      "dur": 215,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s82.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29164,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s83.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30025,
+      "dur": 80,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s84.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30105,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s85.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30244,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s86.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30679,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s86.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30784,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s87.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30965,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s88.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31186,
+      "dur": 250,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s89.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31436,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s90.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31618,
+      "dur": 64,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s91.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31682,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s92.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31755,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s93.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32154,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s93.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32320,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s94.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32412,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s95.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32602,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s96.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32689,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s97.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32830,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s98.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32963,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s99.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33263,
+      "dur": 368,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s99.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33631,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s100.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33710,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s101.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33894,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s102.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34224,
+      "dur": 80,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s102.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 34304,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s104.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 34464,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s105.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34671,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s106.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 35917,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s106.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 36247,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s106.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 36337,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s107.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 36514,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s108.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 36670,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s109.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 36845,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s111.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 37071,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s112.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 38193,
+      "dur": 313,
+      "kind": "image",
+      "src": "img/elena-clavo-de-olor_s110.png",
+      "kb": 3,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 3,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "INTRODUCCIÓN",
+        "title": "El secreto del clavo de olor"
+      }
+    },
+    {
+      "from": 2050,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PLAN DE HOY",
+        "title": "Beneficios, riesgos y verdades"
+      }
+    },
+    {
+      "from": 2211,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "MÉTODO BIENESTAR NATURAL",
+        "title": "Dra. Elena Vidal",
+        "sub": "Remedios caseros con cautela, sin exagerar ni asustar"
+      }
+    },
+    {
+      "from": 3409,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 3901,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 1",
+        "title": "Qué es el clavo de olor"
+      }
+    },
+    {
+      "from": 4397,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "EUGENOL",
+        "sub": "El compuesto activo",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 5668,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "Dolor dental"
+      }
+    },
+    {
+      "from": 6773,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ALIVIO TEMPORAL",
+        "sub": "No reemplaza al dentista",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 9580,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "Digestión pesada"
+      }
+    },
+    {
+      "from": 9802,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ENZIMAS",
+        "sub": "Digestión más ligera",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 12386,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 3,
+        "text": "Mezclar demasiadas especias fuertes"
+      }
+    },
+    {
+      "from": 12884,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "Antiinflamatorio leve"
+      }
+    },
+    {
+      "from": 12884,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "title": "Antimicrobiano y aliento"
+      }
+    },
+    {
+      "from": 12989,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ANTIINFLAMATORIO",
+        "sub": "Efecto leve y local",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 17163,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA OTRA CARA",
+        "title": "Los riesgos reales"
+      }
+    },
+    {
+      "from": 17438,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "El aceite esencial puro puede ser tóxico en exceso",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 17999,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 1,
+        "suffix": " cdta.",
+        "label": "puede dañar el hígado en niños",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 20347,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "COAGULACIÓN",
+        "sub": "Efecto leve del eugenol",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 21194,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "EMBARAZO",
+        "sub": "Evitar el aceite esencial concentrado",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 22908,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 4,
+        "text": "Omitir el remedio casero al médico"
+      }
+    },
+    {
+      "from": 23096,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SENSIBILIZACIÓN",
+        "sub": "Con el uso repetido",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 23963,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "AUTOEVALUACIÓN",
+        "title": "Diagnóstico rápido"
+      }
+    },
+    {
+      "from": 25424,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "GUÍA PRÁCTICA",
+        "title": "Uso prudente paso a paso"
+      }
+    },
+    {
+      "from": 29435,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 30017,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PLAN",
+        "title": "Cuatro semanas sin apuro"
+      }
+    },
+    {
+      "from": 34867,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CIERRE",
+        "title": "Repaso y conclusiones"
+      }
+    },
+    {
+      "from": 34942,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "RESUMEN CLAVE",
+        "sub": "Eugenol, la estrella de hoy",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 37348,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 38413,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 58,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "¿Casero o dentista urgente?",
+        "items": [
+          "Dolor puntual tras golpe o frío: alivio temporal",
+          "Dolor con fiebre o hinchazón: urgencia dental",
+          "Sabor desagradable persistente: posible absceso"
+        ]
+      }
+    },
+    {
+      "from": 241,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "¿TE SUENA?",
+        "phrase": "Un dolor de muela que no te deja dormir",
+        "accent": "dolor de muela",
+        "src": "img/elena-clavo-de-olor_s01.png"
+      }
+    },
+    {
+      "from": 929,
+      "dur": 54,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que nadie te explicó",
+        "items": [
+          "Qué le hace en verdad a tu cuerpo",
+          "Cuándo conviene evitarla",
+          "Si realmente funcionó o fue casualidad"
+        ]
+      }
+    },
+    {
+      "from": 4966,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Entero vs. molido",
+        "left": {
+          "label": "Entero",
+          "sub": "Conserva el eugenol más tiempo"
+        },
+        "right": {
+          "label": "Molido",
+          "sub": "Pierde aroma mucho más rápido"
+        }
+      }
+    },
+    {
+      "from": 5905,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El clavo de olor cura una caries",
+        "truth": "Solo adormece la zona y reduce bacterias"
+      }
+    },
+    {
+      "from": 8356,
+      "dur": 270,
+      "comp": "RutinaDia",
+      "props": {
+        "theme": "earth",
+        "title": "Alivio para el dolor dental",
+        "slots": [
+          {
+            "time": "Al sentir dolor",
+            "text": "Muerde un clavo entero cerca de la zona, 2 minutos"
+          },
+          {
+            "time": "O bien",
+            "text": "Una gota de aceite diluido en un algodón"
+          },
+          {
+            "time": "Nunca",
+            "text": "Aceite puro directo sobre la encía"
+          }
+        ]
+      }
+    },
+    {
+      "from": 9163,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR COMÚN",
+        "phrase": "El aceite puro puede quemar y ampollar la encía",
+        "accent": "quemar",
+        "src": "img/elena-clavo-de-olor_s19.png"
+      }
+    },
+    {
+      "from": 10234,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Digestión: lo que dice la evidencia",
+        "items": [
+          "Podría estimular enzimas digestivas",
+          "Relajaría ligeramente el tracto digestivo",
+          "Evidencia en humanos aún limitada"
+        ]
+      }
+    },
+    {
+      "from": 11174,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Cualquier malestar digestivo se arregla con infusión",
+        "truth": "El malestar diario necesita consulta médica"
+      }
+    },
+    {
+      "from": 11824,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO A PASO",
+        "title": "Infusión de clavo de olor",
+        "steps": [
+          {
+            "title": "Hervir y retirar del fuego",
+            "sub": "Luego agregar los clavos, no antes"
+          },
+          {
+            "title": "2 a 3 clavos, 5 minutos",
+            "sub": "Reposar tapado"
+          },
+          {
+            "title": "Colar y beber tibio",
+            "sub": "15 a 30 min después de comer"
+          }
+        ]
+      }
+    },
+    {
+      "from": 12658,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR COMÚN",
+        "phrase": "Mezclar muchas especias irrita más que alivia",
+        "accent": "irrita más",
+        "src": "img/elena-clavo-de-olor_s29.png"
+      }
+    },
+    {
+      "from": 13796,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Alivio complementario",
+        "left": {
+          "label": "Dolor muscular leve",
+          "sub": "El masaje con aceite diluido puede ayudar"
+        },
+        "right": {
+          "label": "Dolor crónico o lesión",
+          "sub": "Necesita evaluación profesional"
+        }
+      }
+    },
+    {
+      "from": 14748,
+      "dur": 270,
+      "comp": "RutinaDia",
+      "props": {
+        "theme": "earth",
+        "title": "Masaje seguro con aceite de clavo",
+        "slots": [
+          {
+            "time": "1 a 2 gotas",
+            "text": "De aceite esencial de clavo"
+          },
+          {
+            "time": "+ 1 cucharada",
+            "text": "De aceite portador: coco, oliva o almendras"
+          },
+          {
+            "time": "Nunca",
+            "text": "Sobre piel lastimada o heridas abiertas"
+          }
+        ]
+      }
+    },
+    {
+      "from": 15466,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que sí hace esta especia",
+        "items": [
+          "Inhibe bacterias y hongos en laboratorio",
+          "Se usó como conservante de alimentos",
+          "Apoya el aliento junto al cepillado diario"
+        ]
+      }
+    },
+    {
+      "from": 16729,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El mal aliento siempre se arregla con clavo de olor",
+        "truth": "Puede venir de digestión lenta o encías inflamadas"
+      }
+    },
+    {
+      "from": 17650,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ATENCIÓN",
+        "phrase": "El aceite esencial puro puede ser tóxico en exceso",
+        "accent": "tóxico",
+        "src": "img/elena-clavo-de-olor_s45.png"
+      }
+    },
+    {
+      "from": 18611,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Niños y aceite esencial",
+        "items": [
+          "Contacta a toxicología o emergencias de inmediato",
+          "No esperes a ver si aparecen síntomas",
+          "Nunca se da por vía oral sin indicación profesional"
+        ]
+      }
+    },
+    {
+      "from": 19427,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Dilución segura",
+        "left": {
+          "label": "Aceite puro",
+          "sub": "Puede quemar piel y mucosas"
+        },
+        "right": {
+          "label": "1 gota + aceite portador",
+          "sub": "Proporción prudente para empezar"
+        }
+      }
+    },
+    {
+      "from": 20465,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Por ser natural, no interactúa con medicamentos",
+        "truth": "Puede aumentar el riesgo de sangrado con anticoagulantes"
+      }
+    },
+    {
+      "from": 21467,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EMBARAZO",
+        "phrase": "Evita el aceite esencial concentrado durante el embarazo",
+        "accent": "Evita",
+        "src": "img/elena-clavo-de-olor_s56.png"
+      }
+    },
+    {
+      "from": 22343,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Antes de una cirugía programada",
+        "items": [
+          "Suspende el uso concentrado 1 a 2 semanas antes",
+          "Avisa a tu equipo médico si lo usas",
+          "No omitas remedios caseros al informar"
+        ]
+      }
+    },
+    {
+      "from": 23199,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RIESGO 6",
+        "phrase": "El uso repetido puede generar sensibilidad en la piel",
+        "accent": "sensibilidad",
+        "src": "img/elena-clavo-de-olor_s60.png"
+      }
+    },
+    {
+      "from": 24245,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO RÁPIDO",
+        "title": "¿Tiene sentido para ti?",
+        "steps": [
+          {
+            "title": "¿Cuál es tu motivo?",
+            "sub": "Dolor, digestión o aliento"
+          },
+          {
+            "title": "¿Hay contraindicación?",
+            "sub": "Embarazo, anticoagulantes o cirugía"
+          },
+          {
+            "title": "¿Es ocasional o constante?",
+            "sub": "Lo constante necesita revisión profesional"
+          }
+        ]
+      }
+    },
+    {
+      "from": 26667,
+      "dur": 270,
+      "comp": "RutinaDia",
+      "props": {
+        "theme": "earth",
+        "title": "La forma correcta según tu motivo",
+        "slots": [
+          {
+            "time": "Digestivo",
+            "text": "Infusión suave con clavos enteros"
+          },
+          {
+            "time": "Dolor dental",
+            "text": "Clavo entero o aceite muy diluido"
+          },
+          {
+            "time": "Piel o músculos",
+            "text": "Aceite diluido, nunca puro"
+          },
+          {
+            "time": "Aliento",
+            "text": "Masticar un clavo entero"
+          }
+        ]
+      }
+    },
+    {
+      "from": 27619,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA CANTIDAD JUSTA",
+        "value": 3,
+        "prefix": "",
+        "suffix": " clavos",
+        "label": "por taza en la infusión"
+      }
+    },
+    {
+      "from": 28481,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Si arde, el cuerpo se va a acostumbrar",
+        "truth": "Si hay ardor o malestar, lo correcto es suspender"
+      }
+    },
+    {
+      "from": 30379,
+      "dur": 300,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Plan de 4 semanas",
+        "steps": [
+          {
+            "when": "Semana 1",
+            "text": "Observación: anota síntomas y contraindicaciones"
+          },
+          {
+            "when": "Semana 2",
+            "text": "Introducción suave, pocas veces por semana"
+          },
+          {
+            "when": "Semana 3",
+            "text": "Ajuste según tu respuesta"
+          },
+          {
+            "when": "Semana 4",
+            "text": "Integración ocasional o pausa"
+          }
+        ]
+      }
+    },
+    {
+      "from": 31914,
+      "dur": 240,
+      "comp": "RutinaDia",
+      "props": {
+        "theme": "earth",
+        "title": "Semana 2: introducción suave",
+        "slots": [
+          {
+            "time": "2 clavos por taza",
+            "text": "Después de la comida principal"
+          },
+          {
+            "time": "No más de 1 vez al día",
+            "text": "Observa cómo responde tu cuerpo"
+          }
+        ]
+      }
+    },
+    {
+      "from": 33023,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Semana 3: ajuste honesto",
+        "left": {
+          "label": "Hubo mejoría",
+          "sub": "Mantén la misma frecuencia"
+        },
+        "right": {
+          "label": "Sin cambios",
+          "sub": "Quizás no es el remedio para ti"
+        }
+      }
+    }
+  ]
+}
