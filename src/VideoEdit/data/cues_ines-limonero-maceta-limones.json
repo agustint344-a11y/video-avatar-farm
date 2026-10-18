@@ -1,0 +1,1842 @@
+{
+  "slug": "ines-limonero-maceta-limones",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 35325,
+  "audioSrc": "ines-limonero-maceta-limones.mp3",
+  "avatarSrc": "ines-limonero-maceta-limones_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1611,
+      "dur": 838,
+      "clip": 0
+    },
+    {
+      "from": 2651,
+      "dur": 1050,
+      "clip": 838
+    },
+    {
+      "from": 8940,
+      "dur": 566,
+      "clip": 1888
+    },
+    {
+      "from": 30183,
+      "dur": 1050,
+      "clip": 2454
+    },
+    {
+      "from": 31910,
+      "dur": 667,
+      "clip": 3504
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 408,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 558,
+      "dur": 258,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 816,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1026,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1416,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2449,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3701,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s04.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4031,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s04.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4190,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s05.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4326,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s06.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4512,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s07.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4896,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s66.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5020,
+      "dur": 80,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s08.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5100,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s09.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5256,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s10.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5736,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s55.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5964,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s11.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6150,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s12.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6276,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s13.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6624,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s29.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6786,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s14.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6954,
+      "dur": 80,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s15.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7034,
+      "dur": 250,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s16.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7554,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s16.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7716,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s17.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7866,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s18.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7998,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s19.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8316,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s19.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8646,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8718,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s20.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9506,
+      "dur": 367,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s20.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9873,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s21.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9954,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s32.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10068,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s22.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10206,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s23.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10594,
+      "dur": 260,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s23.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10854,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s24.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10974,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s25.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11160,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s26.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11610,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s26.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11856,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s27.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12036,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s28.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12366,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s28.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12624,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s28.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12856,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s30.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12996,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s31.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13326,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s31.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13656,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s31.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13792,
+      "dur": 245,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s33.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14037,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s34.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14160,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s35.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14278,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s36.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14688,
+      "dur": 389,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s36.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15077,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s38.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15276,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s39.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15446,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s40.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15852,
+      "dur": 258,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s37.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16110,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s41.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16262,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s42.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16338,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s43.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16794,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s44.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17124,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s44.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17270,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s45.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17343,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s46.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17506,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s47.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17718,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s49.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18003,
+      "dur": 351,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s48.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18354,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s50.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18520,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s51.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18606,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s52.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18791,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s53.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18909,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s54.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19239,
+      "dur": 54,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s54.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19473,
+      "dur": 333,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s54.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19806,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s56.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20026,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s57.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20218,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s58.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20340,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s59.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20783,
+      "dur": 373,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s59.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21156,
+      "dur": 250,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s60.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21406,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s61.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21516,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21864,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s62.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21948,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s63.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22195,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s64.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22752,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s64.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22907,
+      "dur": 307,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s65.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23424,
+      "dur": 353,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s65.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23777,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s67.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23985,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s68.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24165,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s69.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24270,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s70.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24645,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s70.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24882,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s71.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25029,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s72.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25181,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s73.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25293,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s74.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25453,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s75.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25534,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s76.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25722,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s77.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26229,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s78.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26436,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s79.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26571,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s80.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26649,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s81.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27137,
+      "dur": 267,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s82.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27404,
+      "dur": 259,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s83.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27663,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s85.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28097,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s84.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28251,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s86.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28368,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s87.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28567,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s88.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28685,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s89.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28845,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s90.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29235,
+      "dur": 366,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s90.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29601,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s91.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29802,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s92.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31233,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s92.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31563,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s92.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31773,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s93.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32577,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s94.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32751,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s95.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32845,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s96.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33042,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s97.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33191,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s98.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33663,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s98.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33846,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s99.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34176,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s99.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34506,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s99.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 34836,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s99.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 35166,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/ines-limonero-maceta-limones_s99.png",
+      "kb": 4,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "INTRO",
+        "title": "El limonero que no da fruto"
+      }
+    },
+    {
+      "from": 1611,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "HUERTA REAL",
+        "title": "Inés",
+        "sub": "Huertera de balcón, limonero en maceta"
+      }
+    },
+    {
+      "from": 9192,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 9294,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 9340,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 9684,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "El tamaño de la maceta"
+      }
+    },
+    {
+      "from": 9873,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "RAÍZ EN ESPIRAL",
+        "sub": "la raíz se asfixia sola",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 10206,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 2,
+        "text": "Maceta demasiado grande"
+      }
+    },
+    {
+      "from": 10974,
+      "dur": 150,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 15,
+        "suffix": " cm",
+        "label": "salto al cambiar de maceta",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 12636,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "Raíces que no respiran"
+      }
+    },
+    {
+      "from": 12996,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ASFIXIA RADICULAR",
+        "sub": "la raíz no respira",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 13792,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "pon 4 a 5 cm de material grueso en el fondo",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 14278,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 3,
+        "text": "Plato con agua estancada"
+      }
+    },
+    {
+      "from": 15276,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "title": "El riego irregular"
+      }
+    },
+    {
+      "from": 17270,
+      "dur": 150,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 3,
+        "suffix": " días",
+        "label": "entre riegos en verano, aprox",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 17718,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 5",
+        "title": "Falta de sol"
+      }
+    },
+    {
+      "from": 18024,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MÍNIMO 6 HORAS",
+        "sub": "de sol directo al día",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 20026,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 4,
+        "text": "Exceso de nitrógeno"
+      }
+    },
+    {
+      "from": 21516,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CLOROSIS FÉRRICA",
+        "sub": "hojas amarillas, venas verdes",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 22195,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "nunca superes la dosis del envase",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 23462,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 7",
+        "title": "Falta de polinización"
+      }
+    },
+    {
+      "from": 23777,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MENOS POLINIZACIÓN",
+        "sub": "menos insectos, menos fruto",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 25722,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PLAN",
+        "title": "Semana a semana"
+      }
+    },
+    {
+      "from": 28153,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "RECORDATORIO",
+        "sub": "repite el quelato de hierro cada temporada",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 29283,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SE REDUCE",
+        "sub": "no se elimina del todo",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 32166,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 35217,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 228,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CADA PRIMAVERA",
+        "phrase": "Flores por todos lados, limones casi nunca",
+        "accent": "limones casi nunca",
+        "src": "img/ines-limonero-maceta-limones_s01.png"
+      }
+    },
+    {
+      "from": 1206,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Es el riego: hay que darle más agua",
+        "truth": "Más agua sin corregir la causa real empeora todo"
+      }
+    },
+    {
+      "from": 4596,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "¿Tu limonero es injertado?",
+        "steps": [
+          {
+            "title": "Mira la base",
+            "sub": "a 15-20 cm del suelo"
+          },
+          {
+            "title": "Busca una cicatriz",
+            "sub": "codo o cambio de corteza"
+          },
+          {
+            "title": "Tronco liso",
+            "sub": "probable que sea de semilla"
+          }
+        ]
+      }
+    },
+    {
+      "from": 5406,
+      "dur": 330,
+      "comp": "CrecimientoPlanta",
+      "props": {
+        "theme": "earth",
+        "title": "De semilla a cosecha",
+        "stages": [
+          {
+            "label": "SEMILLA",
+            "sub": "día 0"
+          },
+          {
+            "label": "FASE JUVENIL",
+            "sub": "varios años, solo madera"
+          },
+          {
+            "label": "PRIMERA FLOR",
+            "sub": "entre 6 y 15 años"
+          },
+          {
+            "label": "PRIMER FRUTO",
+            "sub": "no siempre garantizado"
+          }
+        ]
+      }
+    },
+    {
+      "from": 6384,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Semilla vs. injertado",
+        "left": {
+          "label": "De semilla",
+          "sub": "tronco liso, tarda años en florecer"
+        },
+        "right": {
+          "label": "Injertado",
+          "sub": "tronco con cicatriz, fruta antes"
+        }
+      }
+    },
+    {
+      "from": 7284,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Antes de comprar un limonero",
+        "items": [
+          "Pregunta la variedad exacta",
+          "Pregunta por el portainjerto",
+          "Busca opciones enanas para maceta",
+          "Evita el más barato sin datos"
+        ]
+      }
+    },
+    {
+      "from": 8136,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DATO CLAVE",
+        "phrase": "Elegir bien la variedad te ahorra años de espera",
+        "accent": "años de espera",
+        "src": "img/ines-limonero-maceta-limones_s19.png"
+      }
+    },
+    {
+      "from": 10414,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MEDIDA IDEAL",
+        "value": 45,
+        "prefix": "",
+        "suffix": " cm",
+        "label": "diámetro de maceta para un limonero joven"
+      }
+    },
+    {
+      "from": 11340,
+      "dur": 270,
+      "comp": "CalendarioSiembra",
+      "props": {
+        "theme": "earth",
+        "title": "¿Cuándo cambiar de maceta?",
+        "crop": "Limonero en maceta",
+        "sow": [
+          8,
+          9
+        ],
+        "harvest": [
+          10,
+          11,
+          12
+        ],
+        "note": "saltos moderados de tamaño"
+      }
+    },
+    {
+      "from": 12444,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEÑAL DE ALERTA",
+        "phrase": "Raíces enroscadas y blancas piden más espacio ya",
+        "accent": "piden más espacio ya",
+        "src": "img/ines-limonero-maceta-limones_s29.png"
+      }
+    },
+    {
+      "from": 13386,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Por qué se ahoga la raíz",
+        "items": [
+          "Pocos agujeros de drenaje",
+          "Plato con agua estancada",
+          "Sustrato muy pesado",
+          "Raíz sin oxígeno"
+        ]
+      }
+    },
+    {
+      "from": 14388,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "Mejora el drenaje",
+        "steps": [
+          {
+            "title": "Agujeros grandes",
+            "sub": "varios, no uno solo"
+          },
+          {
+            "title": "Capa de drenaje",
+            "sub": "4 a 5 cm en el fondo"
+          },
+          {
+            "title": "Sustrato suelto",
+            "sub": "3 partes sustrato, 1 de arena"
+          }
+        ]
+      }
+    },
+    {
+      "from": 15642,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Si se seca, compenso con mucha agua de golpe",
+        "truth": "El vaivén de sequía e inundación tira flores y frutos"
+      }
+    },
+    {
+      "from": 16614,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RITMO DE RIEGO",
+        "value": 3,
+        "prefix": "",
+        "suffix": " días",
+        "label": "cada cuánto regar en verano, como referencia"
+      }
+    },
+    {
+      "from": 17823,
+      "dur": 180,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LUZ NECESARIA",
+        "value": 6,
+        "max": 12,
+        "suffix": " h",
+        "label": "horas mínimas de sol directo al día"
+      }
+    },
+    {
+      "from": 19293,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CONTRADICTORIO",
+        "phrase": "Un árbol frondoso no siempre es un árbol productivo",
+        "accent": "no siempre es productivo",
+        "src": "img/ines-limonero-maceta-limones_s55.png"
+      }
+    },
+    {
+      "from": 20513,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que necesita un cítrico",
+        "items": [
+          "Fertilizante específico para cítricos",
+          "Nitrógeno, fósforo y potasio equilibrados",
+          "Hierro, zinc y magnesio",
+          "Dosis del envase, nunca más"
+        ]
+      }
+    },
+    {
+      "from": 21684,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEÑAL",
+        "phrase": "Hojas amarillas con venas verdes avisan falta de hierro",
+        "accent": "falta de hierro",
+        "src": "img/ines-limonero-maceta-limones_s62.png"
+      }
+    },
+    {
+      "from": 22422,
+      "dur": 330,
+      "comp": "CrecimientoPlanta",
+      "props": {
+        "theme": "earth",
+        "title": "De flor a limón",
+        "stages": [
+          {
+            "label": "FLOR ABIERTA",
+            "sub": "recién polinizada"
+          },
+          {
+            "label": "CUAJADO",
+            "sub": "primeros días, frágil"
+          },
+          {
+            "label": "FRUTO VERDE",
+            "sub": "semanas de crecimiento"
+          },
+          {
+            "label": "LIMÓN MADURO",
+            "sub": "listo para cosechar"
+          }
+        ]
+      }
+    },
+    {
+      "from": 23214,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Las flores se autopolinizan solas, no hay nada que hacer",
+        "truth": "En pisos altos, sin insectos, muchas flores no cuajan"
+      }
+    },
+    {
+      "from": 24345,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 7",
+        "title": "Poliniza a mano",
+        "steps": [
+          {
+            "title": "Pincel suave",
+            "sub": "o un hisopo de algodón"
+          },
+          {
+            "title": "Toca varias flores",
+            "sub": "a media mañana"
+          },
+          {
+            "title": "Repite varios días",
+            "sub": "mientras dure la floración"
+          }
+        ]
+      }
+    },
+    {
+      "from": 25899,
+      "dur": 330,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "El plan semana a semana",
+        "steps": [
+          {
+            "when": "Semana 1",
+            "text": "Revisa tronco, maceta y horas de sol"
+          },
+          {
+            "when": "Semana 2",
+            "text": "Ajusta el riego y revisa el drenaje"
+          },
+          {
+            "when": "Semana 3",
+            "text": "Revisa la nutrición y las hojas nuevas"
+          },
+          {
+            "when": "Semana 4",
+            "text": "Poliniza a mano durante la floración"
+          }
+        ]
+      }
+    },
+    {
+      "from": 26837,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEMANA 2 Y 3",
+        "title": "Riego y nutrición",
+        "steps": [
+          {
+            "title": "Vacía el plato",
+            "sub": "después de cada riego"
+          },
+          {
+            "title": "Revisa las hojas",
+            "sub": "busca clorosis férrica"
+          },
+          {
+            "title": "Cambia el fertilizante",
+            "sub": "a uno específico para cítricos"
+          }
+        ]
+      }
+    },
+    {
+      "from": 27827,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Señales de falta de hierro",
+        "items": [
+          "Hojas nuevas amarillas",
+          "Venas verdes bien marcadas",
+          "Más común con agua alcalina",
+          "Se corrige con quelato de hierro"
+        ]
+      }
+    },
+    {
+      "from": 29025,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HONESTIDAD",
+        "phrase": "Reducimos la caída de flores, no la eliminamos del todo",
+        "accent": "no la eliminamos del todo",
+        "src": "img/ines-limonero-maceta-limones_s90.png"
+      }
+    },
+    {
+      "from": 29907,
+      "dur": 276,
+      "comp": "CalendarioSiembra",
+      "props": {
+        "theme": "earth",
+        "title": "¿Cuándo florece y fructifica?",
+        "crop": "Limonero en maceta",
+        "sow": [
+          9,
+          10,
+          11
+        ],
+        "harvest": [
+          1,
+          2,
+          3
+        ],
+        "note": "varía según tu clima"
+      }
+    },
+    {
+      "from": 33393,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que sí puedo prometerte",
+        "items": [
+          "Corregir estos puntos uno por uno",
+          "Con paciencia, en una o dos temporadas",
+          "Mejor floración y cuajado de fruto"
+        ]
+      }
+    }
+  ]
+}
