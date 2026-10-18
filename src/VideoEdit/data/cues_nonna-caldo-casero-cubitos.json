@@ -1,0 +1,1811 @@
+{
+  "slug": "nonna-caldo-casero-cubitos",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 37077,
+  "audioSrc": "nonna-caldo-casero-cubitos.mp3",
+  "avatarSrc": "nonna-caldo-casero-cubitos_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1200,
+      "dur": 848,
+      "clip": 0
+    },
+    {
+      "from": 2202,
+      "dur": 825,
+      "clip": 848
+    },
+    {
+      "from": 15612,
+      "dur": 938,
+      "clip": 1673
+    },
+    {
+      "from": 27042,
+      "dur": 728,
+      "clip": 2611
+    },
+    {
+      "from": 31662,
+      "dur": 908,
+      "clip": 3339
+    },
+    {
+      "from": 35712,
+      "dur": 1046,
+      "clip": 4247
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 3,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 243,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 573,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 750,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s01.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 917,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s02.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1098,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s03.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2048,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3027,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3360,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s05.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3594,
+      "dur": 258,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s06.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3852,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s07.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4020,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s08.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4414,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s34.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4572,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s09.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4674,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s10.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5142,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s10.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5316,
+      "dur": 258,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s11.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5574,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s12.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5634,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s13.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6018,
+      "dur": 306,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s13.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6324,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s14.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6462,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s15.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6659,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s20.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6846,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s17.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7146,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s16.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7344,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s18.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7556,
+      "dur": 316,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s19.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7872,
+      "dur": 67,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s21.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8209,
+      "dur": 238,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s21.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8447,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s22.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8604,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s23.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8796,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s24.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9246,
+      "dur": 306,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s24.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9552,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s25.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9702,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s26.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9792,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s27.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10392,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s29.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10692,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s30.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10902,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s31.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11082,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s32.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11292,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s33.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11622,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s28.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11952,
+      "dur": 360,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s28.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12312,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s35.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12402,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s36.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12792,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s36.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13092,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s37.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13362,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s39.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13572,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s41.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13932,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14172,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s42.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14262,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s43.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14532,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s44.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14742,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s45.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15192,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s38.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15432,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s46.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16550,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s47.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16632,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s48.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16752,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s49.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17262,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s49.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17562,
+      "dur": 269,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s50.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17831,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s51.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17982,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s52.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18162,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s53.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18222,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s54.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18672,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s54.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19182,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s56.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19332,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s57.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19452,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s58.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19782,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s58.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20112,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s58.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20352,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s59.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20562,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s60.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20832,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s62.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21012,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s63.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21162,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s64.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21702,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s61.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21762,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s65.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21942,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s66.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22062,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s67.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22212,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s68.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22392,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s69.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22572,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s70.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22632,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s71.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23262,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s55.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23442,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s72.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24072,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s73.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24402,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s74.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24582,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s75.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24822,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s88.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24972,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s77.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25392,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s76.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25572,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s78.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25752,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s79.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25842,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s80.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26052,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s81.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26262,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s82.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26412,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s83.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26892,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s83.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27770,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s84.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27912,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s85.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28032,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s86.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28242,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s87.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28722,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s87.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28992,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s89.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29202,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s90.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29622,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s90.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29862,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s91.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29952,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s92.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30102,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s93.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30342,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s94.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30582,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s95.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30972,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s95.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31153,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s96.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31302,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s97.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31482,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s98.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32570,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s99.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32900,
+      "dur": 292,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s99.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33192,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s100.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33282,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s101.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33432,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s102.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33522,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s103.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33792,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s104.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 34272,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s104.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34362,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s105.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 34572,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s106.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 34962,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s106.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 35202,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s107.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 35357,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s108.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 35503,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s109.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 36758,
+      "dur": 319,
+      "kind": "image",
+      "src": "img/nonna-caldo-casero-cubitos_s109.png",
+      "kb": 4,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 419,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CUBITO",
+        "sub": "La pastilla amarilla de siempre",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 1200,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ANÉCDOTA",
+        "title": "Mi historia con mi abuela"
+      }
+    },
+    {
+      "from": 1458,
+      "dur": 165,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "LA NONNA (COCINA)",
+        "title": "Lucía",
+        "sub": "Ex dueña de restaurante, recetas italianas de siempre"
+      }
+    },
+    {
+      "from": 4020,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "Sal y grasa, no comida real"
+      }
+    },
+    {
+      "from": 4434,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SAL",
+        "sub": "El primer ingrediente de la lista",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 4440,
+      "dur": 150,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 25,
+        "suffix": " min",
+        "label": "de cocción a fuego medio",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 5574,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "Apaga los sabores"
+      }
+    },
+    {
+      "from": 6462,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SIN CUERPO",
+        "sub": "Sala, pero no da profundidad",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 6846,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "Cero control sobre el sabor"
+      }
+    },
+    {
+      "from": 7872,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL TRUCO",
+        "title": "Il dado di nonna"
+      }
+    },
+    {
+      "from": 8796,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO A PASO",
+        "title": "La receta napolitana"
+      }
+    },
+    {
+      "from": 11622,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SIN AGUA",
+        "sub": "Solo aceite de oliva",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 13992,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "POR QUÉ TANTA SAL",
+        "sub": "Evita bacterias y moho durante la conservación",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 14262,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CONSERVA",
+        "sub": "La sal evita bacterias y moho",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 16422,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de La Nonna (cocina)",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 16632,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EN LA PRÁCTICA",
+        "title": "Cómo usar el concentrado"
+      }
+    },
+    {
+      "from": 20082,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "Nunca uses verdura con manchas oscuras o mal olor",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 21012,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CONDENSACIÓN",
+        "sub": "Favorece la aparición de moho",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 22572,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CONGELAR",
+        "title": "La versión en cubos"
+      }
+    },
+    {
+      "from": 23442,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MITAD DE SAL",
+        "sub": "Gracias al frío del freezer",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 25842,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "REVISÁ EL FRASCO",
+        "sub": "Un color u olor raro es señal de alerta",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 27462,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de La Nonna (cocina)",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 27912,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "VARIACIONES",
+        "title": "Adaptá la receta base"
+      }
+    },
+    {
+      "from": 29682,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ANCHOAS",
+        "sub": "Fondo salado, sin sabor a pescado",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 31662,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RESUMEN",
+        "title": "Repaso final"
+      }
+    },
+    {
+      "from": 35712,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de La Nonna (cocina)",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 36972,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de La Nonna (cocina)",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 3,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA VERDAD INCÓMODA",
+        "phrase": "El cubito no es caldo: es sal con forma de caldo",
+        "accent": "sal con forma de caldo",
+        "src": "img/nonna-caldo-casero-cubitos_s01.png"
+      }
+    },
+    {
+      "from": 3120,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL SECRETO",
+        "phrase": "Una base de caldo concentrada y natural que dura semanas",
+        "accent": "concentrada y natural",
+        "src": "img/nonna-caldo-casero-cubitos_s05.png"
+      }
+    },
+    {
+      "from": 4144,
+      "dur": 270,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El cubito es caldo concentrado",
+        "truth": "Es sal y grasa con aromatizantes que imitan el sabor"
+      }
+    },
+    {
+      "from": 4842,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Qué hay en un cubito, en orden",
+        "items": [
+          "Sal",
+          "Grasa vegetal o de palma",
+          "Aromatizantes",
+          "Verdura o carne en polvo mínima"
+        ]
+      }
+    },
+    {
+      "from": 5748,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Caldo real vs. cubito",
+        "left": {
+          "label": "Caldo casero",
+          "sub": "Da cuerpo y profundidad"
+        },
+        "right": {
+          "label": "Cubito",
+          "sub": "Sala, pero no da cuerpo"
+        }
+      }
+    },
+    {
+      "from": 6906,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "phrase": "No podés ajustar un producto que ya viene cerrado",
+        "accent": "no podés ajustar",
+        "src": "img/nonna-caldo-casero-cubitos_s17.png"
+      }
+    },
+    {
+      "from": 7939,
+      "dur": 270,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL TRUCO",
+        "phrase": "Il dado di nonna: la pasta concentrada de Nápoles",
+        "accent": "il dado di nonna",
+        "src": "img/nonna-caldo-casero-cubitos_s21.png"
+      }
+    },
+    {
+      "from": 8886,
+      "dur": 360,
+      "comp": "PizarraNonna",
+      "props": {
+        "theme": "earth",
+        "title": "Ingredientes base",
+        "items": [
+          "500 g de zanahoria",
+          "500 g de apio con hojas",
+          "500 g de cebolla",
+          "200 g de tomate maduro",
+          "Perejil fresco con tallo"
+        ],
+        "note": "La receta de la nonna"
+      }
+    },
+    {
+      "from": 10032,
+      "dur": 360,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 2",
+        "title": "Limpieza y corte",
+        "steps": [
+          {
+            "title": "Lavar bien",
+            "sub": "Sacar partes feas o golpeadas"
+          },
+          {
+            "title": "Cortar grande",
+            "sub": "Trozos de 3 a 4 cm"
+          },
+          {
+            "title": "La cebolla",
+            "sub": "Con piel o sin piel, a gusto"
+          }
+        ]
+      }
+    },
+    {
+      "from": 11382,
+      "dur": 240,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL TIEMPO",
+        "value": 25,
+        "prefix": "",
+        "suffix": " min",
+        "label": "de cocción a fuego medio con aceite de oliva"
+      }
+    },
+    {
+      "from": 12462,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 4",
+        "title": "Procesar",
+        "steps": [
+          {
+            "title": "Enfriar un poco",
+            "sub": "Para no quemarte"
+          },
+          {
+            "title": "Procesar",
+            "sub": "Hasta formar una pasta"
+          },
+          {
+            "title": "Sin agua",
+            "sub": "La humedad de las verduras alcanza"
+          }
+        ]
+      }
+    },
+    {
+      "from": 13662,
+      "dur": 270,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA CLAVE",
+        "value": 225,
+        "prefix": "",
+        "suffix": " g",
+        "label": "de sal gruesa por cada kilo de pasta de verduras"
+      }
+    },
+    {
+      "from": 14892,
+      "dur": 300,
+      "comp": "ProporcionTazas",
+      "props": {
+        "theme": "earth",
+        "title": "La proporción de la nonna",
+        "left": {
+          "label": "Verduras (pasta)",
+          "parts": 4
+        },
+        "right": {
+          "label": "Sal gruesa",
+          "parts": 1
+        },
+        "note": "Para que se conserve meses en la heladera"
+      }
+    },
+    {
+      "from": 16992,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Cuánta pasta usar",
+        "left": {
+          "label": "Caldo intensidad media",
+          "sub": "1 cdita colmada por taza"
+        },
+        "right": {
+          "label": "Caldo suave",
+          "sub": "Media cdita por taza"
+        }
+      }
+    },
+    {
+      "from": 18402,
+      "dur": 270,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Hay que seguir salando como siempre",
+        "truth": "La pasta ya lleva sal: probá antes de agregar más"
+      }
+    },
+    {
+      "from": 18882,
+      "dur": 300,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Usar verdura pasada no importa, la sal lo arregla",
+        "truth": "La sal conserva, pero no arregla una verdura podrida"
+      }
+    },
+    {
+      "from": 21342,
+      "dur": 360,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Los 5 errores más comunes",
+        "items": [
+          "Salar de más por costumbre",
+          "Cerrar mal el frasco",
+          "Usar verdura en mal estado",
+          "Guardar la pasta tibia",
+          "Reducir la sal sin saber por qué"
+        ]
+      }
+    },
+    {
+      "from": 22902,
+      "dur": 360,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "VERSIÓN CONGELADA",
+        "title": "Congelar en cubos",
+        "steps": [
+          {
+            "title": "Cubetera",
+            "sub": "Pasta sin salar tanto"
+          },
+          {
+            "title": "Congelar",
+            "sub": "Luego pasar a bolsa hermética"
+          },
+          {
+            "title": "Mitad de sal",
+            "sub": "100 a 125 g por kilo"
+          }
+        ]
+      }
+    },
+    {
+      "from": 23562,
+      "dur": 360,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "La receta en resumen",
+        "items": [
+          "Zanahoria, apio, cebolla, tomate y perejil",
+          "Cocción lenta en aceite de oliva",
+          "200 a 250 g de sal por kilo",
+          "Se conserva unos 3 meses en la heladera"
+        ]
+      }
+    },
+    {
+      "from": 23832,
+      "dur": 240,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL DATO",
+        "value": 6,
+        "prefix": "",
+        "suffix": " meses",
+        "label": "de duración aproximada congelado, según el freezer"
+      }
+    },
+    {
+      "from": 25122,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Tanda grande o chica?",
+        "left": {
+          "label": "Cocinás seguido",
+          "sub": "Tanda completa, ahorra más"
+        },
+        "right": {
+          "label": "Cocinás poco",
+          "sub": "Media tanda o versión congelada"
+        }
+      }
+    },
+    {
+      "from": 26622,
+      "dur": 270,
+      "comp": "ProporcionTazas",
+      "props": {
+        "theme": "earth",
+        "title": "Si vivís sola",
+        "left": {
+          "label": "Receta completa",
+          "parts": 3
+        },
+        "right": {
+          "label": "Tu porción",
+          "parts": 1
+        },
+        "note": "170 g de cada verdura por tercio"
+      }
+    },
+    {
+      "from": 28362,
+      "dur": 360,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "VARIANTE",
+        "title": "Versión para pescado",
+        "steps": [
+          {
+            "title": "Puerro",
+            "sub": "Reemplaza parte de las verduras"
+          },
+          {
+            "title": "Apio nabo",
+            "sub": "Si lo conseguís, suma sabor"
+          },
+          {
+            "title": "Menos tomate",
+            "sub": "Para un sabor más limpio"
+          }
+        ]
+      }
+    },
+    {
+      "from": 29352,
+      "dur": 270,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "VARIANTE TRADICIONAL",
+        "phrase": "Dos o tres anchoas por kilo dan un fondo salado y profundo",
+        "accent": "dos o tres anchoas",
+        "src": "img/nonna-caldo-casero-cubitos_s90.png"
+      }
+    },
+    {
+      "from": 30702,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Sopas vs. guisos",
+        "left": {
+          "label": "Sopa clara",
+          "sub": "Diluir bien en agua caliente"
+        },
+        "right": {
+          "label": "Guiso o salsa",
+          "sub": "Pasta directa, sin diluir"
+        }
+      }
+    },
+    {
+      "from": 33912,
+      "dur": 360,
+      "comp": "PizarraNonna",
+      "props": {
+        "theme": "earth",
+        "title": "Para no olvidar",
+        "items": [
+          "3 verduras base: zanahoria, apio, cebolla",
+          "200 g de tomate",
+          "Perejil con tallo",
+          "200 a 250 g de sal por kilo"
+        ],
+        "note": "La receta de la nonna, de memoria"
+      }
+    },
+    {
+      "from": 34722,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ANTES DE IRTE",
+        "phrase": "Probá esta pasta una vez y comparÁ el sabor",
+        "accent": "probá esta pasta una vez",
+        "src": "img/nonna-caldo-casero-cubitos_s106.png"
+      }
+    }
+  ]
+}
