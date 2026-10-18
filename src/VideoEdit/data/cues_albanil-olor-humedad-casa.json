@@ -1,0 +1,1804 @@
+{
+  "slug": "albanil-olor-humedad-casa",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 33508,
+  "audioSrc": "albanil-olor-humedad-casa.mp3",
+  "avatarSrc": "albanil-olor-humedad-casa_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 826,
+      "dur": 556,
+      "clip": 0
+    },
+    {
+      "from": 7091,
+      "dur": 523,
+      "clip": 556
+    },
+    {
+      "from": 18286,
+      "dur": 583,
+      "clip": 1079
+    },
+    {
+      "from": 21421,
+      "dur": 537,
+      "clip": 1662
+    },
+    {
+      "from": 29318,
+      "dur": 551,
+      "clip": 2199
+    },
+    {
+      "from": 30599,
+      "dur": 779,
+      "clip": 2750
+    },
+    {
+      "from": 32050,
+      "dur": 1045,
+      "clip": 3529
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 374,
+      "dur": 244,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 618,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1382,
+      "dur": 61,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1443,
+      "dur": 354,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s17.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1797,
+      "dur": 51,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s03.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1848,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2169,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s04.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2353,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s05.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2534,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s06.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2668,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s07.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2741,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s30.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2806,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s08.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2957,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s09.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3039,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s10.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3380,
+      "dur": 317,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s67.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3697,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s11.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3924,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s13.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4069,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s14.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4463,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s12.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4627,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s15.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4789,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s16.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5119,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s16.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5499,
+      "dur": 244,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s16.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5743,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s18.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5806,
+      "dur": 311,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s19.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6327,
+      "dur": 310,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s20.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6637,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s21.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6831,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s22.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6919,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s23.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7614,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s24.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7680,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s25.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7831,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s26.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7962,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s27.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8383,
+      "dur": 258,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s27.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8641,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s28.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8822,
+      "dur": 301,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s29.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9363,
+      "dur": 280,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s31.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9643,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s32.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9760,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s33.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9991,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s34.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10171,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s35.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10627,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s35.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10837,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s36.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11033,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s37.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11206,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s38.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11611,
+      "dur": 250,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s38.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11861,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s39.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11969,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s40.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12070,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s41.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12389,
+      "dur": 319,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s41.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12708,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s42.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12795,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s43.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12938,
+      "dur": 64,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s44.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13302,
+      "dur": 317,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s44.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13619,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s45.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13763,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s46.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14122,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s46.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14317,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s47.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14424,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s48.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14530,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s49.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14742,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s50.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14810,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s51.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15050,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s52.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15278,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s52.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15608,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s52.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15671,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s53.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15802,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s54.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15953,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s55.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16372,
+      "dur": 325,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s55.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16697,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s56.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16845,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s57.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16998,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s58.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17433,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s58.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17614,
+      "dur": 61,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s59.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17675,
+      "dur": 215,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s60.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17890,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s61.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18050,
+      "dur": 236,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s62.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18869,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s63.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18973,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s64.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19096,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s65.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19322,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s66.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19702,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s66.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20032,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s66.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20157,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s68.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20457,
+      "dur": 299,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s68.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20756,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s69.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20921,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s70.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21069,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s71.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21382,
+      "dur": 39,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s71.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21958,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s72.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22100,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s73.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22258,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s74.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22465,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s75.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23016,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s76.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23156,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s77.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23248,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s78.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23419,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s79.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23786,
+      "dur": 310,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s79.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24096,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s80.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24224,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s81.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24594,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s81.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24748,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s82.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24890,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s83.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25049,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s84.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25178,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s85.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25612,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s85.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25782,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s86.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25965,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s87.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26112,
+      "dur": 91,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s88.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26203,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s89.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26370,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s90.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26482,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s91.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26878,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s91.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27041,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s92.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27206,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s93.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27554,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s93.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27699,
+      "dur": 298,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s95.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28327,
+      "dur": 205,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s94.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28532,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s96.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28784,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s97.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28919,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s98.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29091,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s99.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29869,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s100.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30254,
+      "dur": 345,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s100.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31378,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s100.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31708,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s100.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31883,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s101.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33095,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s101.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33425,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/albanil-olor-humedad-casa_s101.png",
+      "kb": 3,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "GANCHO",
+        "title": "El olor que vuelve"
+      }
+    },
+    {
+      "from": 987,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "CANAL MATEO ALBAÑIL",
+        "title": "Mateo",
+        "sub": "Arreglos reales, explicados sin vueltas"
+      }
+    },
+    {
+      "from": 1797,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA CIENCIA",
+        "title": "Por qué huele a humedad"
+      }
+    },
+    {
+      "from": 2353,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "GEOSMINAS",
+        "sub": "el compuesto que huele a humedad",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 2957,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "Agua que no ves"
+      }
+    },
+    {
+      "from": 3496,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "OLOR PRIMERO",
+        "sub": "aparece antes que la mancha",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 3885,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "Materiales que absorben"
+      }
+    },
+    {
+      "from": 4627,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "Casa mal ventilada"
+      }
+    },
+    {
+      "from": 6078,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "title": "Pérdidas ocultas"
+      }
+    },
+    {
+      "from": 7508,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 8396,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "Nariz y manos"
+      }
+    },
+    {
+      "from": 10681,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CONDENSACIÓN",
+        "sub": "pared fría y húmeda",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 12708,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL TRATAMIENTO",
+        "title": "El truco de albañil"
+      }
+    },
+    {
+      "from": 12938,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 3,
+        "suffix": " días",
+        "label": "ventilación forzada mínima",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 14530,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "BIEN DILUIDO",
+        "sub": "nunca cloro puro",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 14742,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "cloro siempre diluido, nunca puro, y ventila el ambiente",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 17675,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "IMPORTANTE",
+        "sub": "ninguna pintura resuelve una filtración activa",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 19096,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 19322,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SI VUELVE",
+        "title": "La causa de fondo"
+      }
+    },
+    {
+      "from": 22258,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 10,
+        "suffix": " días",
+        "label": "secado tras filtración de techo",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 24628,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 1,
+        "text": "solo usar ambientador"
+      }
+    },
+    {
+      "from": 25049,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 2,
+        "text": "pintar sobre moho sin limpiar"
+      }
+    },
+    {
+      "from": 25654,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "CUIDADO",
+        "sub": "los vapores del cloro sin diluir no son agradables de respirar",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 26112,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 4,
+        "text": "ignorar ropa y textiles"
+      }
+    },
+    {
+      "from": 26482,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 5,
+        "text": "cerrar la casa sin ventilar"
+      }
+    },
+    {
+      "from": 27041,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PLAN DE 7 DÍAS",
+        "title": "Tu semana paso a paso"
+      }
+    },
+    {
+      "from": 31370,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 31883,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 164,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA QUEJA DE SIEMPRE",
+        "phrase": "Limpio, pinto, perfumo, y a la semana vuelve el olor",
+        "accent": "vuelve el olor",
+        "src": "img/albanil-olor-humedad-casa_s01.png"
+      }
+    },
+    {
+      "from": 1959,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El olor a humedad sale de la nada",
+        "truth": "Es moho y bacterias comiendo humedad y material orgánico"
+      }
+    },
+    {
+      "from": 3170,
+      "dur": 210,
+      "comp": "NivelBurbuja",
+      "props": {
+        "theme": "earth",
+        "title": "Revisa la pendiente del techo",
+        "verdict": "SIN PENDIENTE, EL AGUA SE ESTANCA",
+        "sub": "así empieza una filtración lenta"
+      }
+    },
+    {
+      "from": 4253,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "phrase": "Los muebles y cajas actúan como una esponja de humedad",
+        "accent": "esponja de humedad",
+        "src": "img/albanil-olor-humedad-casa_s14.png"
+      }
+    },
+    {
+      "from": 5229,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Por qué una casa bien construida también huele",
+        "items": [
+          "Aire que no circula",
+          "Baños y dormitorios con armario cerrado",
+          "Moho invisible en los poros de la pintura",
+          "Ventanas dobles que atrapan humedad"
+        ]
+      }
+    },
+    {
+      "from": 6117,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "phrase": "Una fuga mínima puede mojar un punto fijo durante meses",
+        "accent": "durante meses",
+        "src": "img/albanil-olor-humedad-casa_s20.png"
+      }
+    },
+    {
+      "from": 8143,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SUSCRÍBETE Y ACTIVA LA CAMPANITA",
+        "title": "Lo que vas a encontrar cada semana",
+        "steps": [
+          {
+            "title": "Arreglos reales",
+            "sub": "explicados paso a paso"
+          },
+          {
+            "title": "Sin tecnicismos",
+            "sub": "para resolverlo tú mismo"
+          },
+          {
+            "title": "Nuevo video semanal",
+            "sub": "activa la campanita"
+          }
+        ]
+      }
+    },
+    {
+      "from": 9123,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Dónde buscar según el ambiente?",
+        "left": {
+          "label": "Dormitorio",
+          "sub": "pared tras cama o armario"
+        },
+        "right": {
+          "label": "Baño o cocina",
+          "sub": "detrás del sanitario, bajo el fregadero"
+        }
+      }
+    },
+    {
+      "from": 10417,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Si la pared se ve seca, no hay problema",
+        "truth": "Puede estar fría y húmeda al tacto aunque se vea seca"
+      }
+    },
+    {
+      "from": 11401,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEÑAL DE ALERTA",
+        "phrase": "Donde hay moho visible, siempre hay más moho invisible alrededor",
+        "accent": "moho invisible",
+        "src": "img/albanil-olor-humedad-casa_s38.png"
+      }
+    },
+    {
+      "from": 12179,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Revisa también los textiles",
+        "items": [
+          "Ropa de los armarios",
+          "Cortinas",
+          "El colchón si el dormitorio huele fuerte"
+        ]
+      }
+    },
+    {
+      "from": 13002,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 1",
+        "title": "Ventilación forzada",
+        "steps": [
+          {
+            "title": "Mínimo 3 días",
+            "sub": "ventila el ambiente"
+          },
+          {
+            "title": "20 min, 2 veces al día",
+            "sub": "mañana y tarde"
+          },
+          {
+            "title": "Corriente cruzada",
+            "sub": "otra ventana o puerta del otro lado"
+          }
+        ]
+      }
+    },
+    {
+      "from": 13882,
+      "dur": 240,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "DEJA ESPACIO A LA PARED",
+        "w": 10,
+        "h": 100,
+        "unit": "cm",
+        "label": "SEPARACIÓN MUEBLE-PARED",
+        "note": "mejora la circulación y reduce la condensación"
+      }
+    },
+    {
+      "from": 15098,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TRUCO DE ALBAÑIL",
+        "value": 15,
+        "prefix": "",
+        "suffix": " min",
+        "label": "deja actuar el cloro diluido antes de enjuagar"
+      }
+    },
+    {
+      "from": 16162,
+      "dur": 210,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SECADO",
+        "value": 5,
+        "max": 7,
+        "suffix": " días",
+        "label": "puede tardar de 2 a 5 días antes de pintar"
+      }
+    },
+    {
+      "from": 17193,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Una pintura antihumedad resuelve una filtración activa",
+        "truth": "Ninguna pintura resuelve una filtración activa; hay que arreglar la causa primero"
+      }
+    },
+    {
+      "from": 19462,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ALERTA",
+        "phrase": "Si el olor vuelve en menos de un mes, el problema no es superficial",
+        "accent": "no es superficial",
+        "src": "img/albanil-olor-humedad-casa_s66.png"
+      }
+    },
+    {
+      "from": 20247,
+      "dur": 210,
+      "comp": "NivelBurbuja",
+      "props": {
+        "theme": "earth",
+        "title": "Revisa la pendiente de la terraza",
+        "verdict": "SIN DESAGÜE, EL AGUA SE FILTRA",
+        "sub": "una junta mal sellada empeora sin pendiente"
+      }
+    },
+    {
+      "from": 21172,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HONESTIDAD",
+        "phrase": "Nadie puede prometerte un arreglo de por vida sin ver tu caso",
+        "accent": "sin ver tu caso",
+        "src": "img/albanil-olor-humedad-casa_s71.png"
+      }
+    },
+    {
+      "from": 22686,
+      "dur": 330,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "El caso del dormitorio",
+        "steps": [
+          {
+            "when": "Antes",
+            "text": "Canaleta tapada con hojas"
+          },
+          {
+            "when": "Reparación",
+            "text": "Arreglamos la canaleta"
+          },
+          {
+            "when": "Secado",
+            "text": "Casi 10 días por el agua acumulada"
+          },
+          {
+            "when": "Resultado",
+            "text": "El olor no volvió en los meses siguientes"
+          }
+        ]
+      }
+    },
+    {
+      "from": 23576,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CASO 2: LA COCINA",
+        "phrase": "Una conexión floja mojaba la base del mueble",
+        "accent": "conexión floja",
+        "src": "img/albanil-olor-humedad-casa_s79.png"
+      }
+    },
+    {
+      "from": 24354,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Antes de pensar en moho, revisa lo simple",
+        "items": [
+          "Conexiones de agua bajo el fregadero",
+          "Grifos y sifones",
+          "La fuente más cercana al olor"
+        ]
+      }
+    },
+    {
+      "from": 25372,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Pintar sobre moho sin limpiar",
+        "left": {
+          "label": "Lo que parece",
+          "sub": "pared limpia y pintada"
+        },
+        "right": {
+          "label": "Lo que pasa",
+          "sub": "el moho sigue vivo debajo y vuelve en semanas"
+        }
+      }
+    },
+    {
+      "from": 26668,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 5",
+        "phrase": "Cerrar la casa por completo acumula humedad ambiente",
+        "accent": "acumula humedad",
+        "src": "img/albanil-olor-humedad-casa_s91.png"
+      }
+    },
+    {
+      "from": 27284,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DÍA 1",
+        "title": "Diagnóstico",
+        "steps": [
+          {
+            "title": "Toca las paredes",
+            "sub": "busca el punto más frío o húmedo"
+          },
+          {
+            "title": "Revisa fregaderos y armarios",
+            "sub": "según el ambiente"
+          },
+          {
+            "title": "Empieza a ventilar",
+            "sub": "dos veces al día"
+          }
+        ]
+      }
+    },
+    {
+      "from": 27997,
+      "dur": 330,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Plan de 7 días",
+        "steps": [
+          {
+            "when": "Día 1",
+            "text": "Diagnóstico y empieza a ventilar"
+          },
+          {
+            "when": "Días 2-3",
+            "text": "Retira muebles y textiles con olor"
+          },
+          {
+            "when": "Día 4",
+            "text": "Limpieza con cloro diluido"
+          },
+          {
+            "when": "Días 5-7",
+            "text": "Secado completo, luego pintura antihongos"
+          }
+        ]
+      }
+    },
+    {
+      "from": 30044,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA BIBLIOTECA DEL MAESTRO",
+        "value": 185,
+        "prefix": "",
+        "suffix": " fichas",
+        "label": "fichas imprimibles para ir tachando cada paso"
+      }
+    }
+  ]
+}
