@@ -1,0 +1,1998 @@
+{
+  "slug": "mateo-moho-negro-techo",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 35603,
+  "audioSrc": "mateo-moho-negro-techo.mp3",
+  "avatarSrc": "mateo-moho-negro-techo_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1496,
+      "dur": 756,
+      "clip": 0
+    },
+    {
+      "from": 2510,
+      "dur": 769,
+      "clip": 756
+    },
+    {
+      "from": 12071,
+      "dur": 549,
+      "clip": 1525
+    },
+    {
+      "from": 31732,
+      "dur": 543,
+      "clip": 2074
+    },
+    {
+      "from": 33671,
+      "dur": 1050,
+      "clip": 2617
+    },
+    {
+      "from": 34832,
+      "dur": 727,
+      "clip": 3667
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 4,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 244,
+      "dur": 352,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 596,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 673,
+      "dur": 70,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 743,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 892,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1089,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1375,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2252,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3279,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3473,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s08.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3536,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s09.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3839,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s17.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4028,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s11.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4231,
+      "dur": 245,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s12.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4476,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s13.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4613,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s14.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4975,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s10.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5113,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s15.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5267,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s16.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5696,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s125.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5796,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s18.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5911,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s19.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6042,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s20.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6221,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s21.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6324,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s22.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6532,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s23.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6697,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s24.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7085,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s24.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7225,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s25.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7293,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s26.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7504,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s27.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7641,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s28.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7741,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s29.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7855,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s30.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7978,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s31.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8269,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s31.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8417,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s32.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8605,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s33.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8786,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s34.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8854,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s35.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8976,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s36.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9378,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s36.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9615,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s37.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9794,
+      "dur": 59,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s38.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9853,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s39.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9913,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s40.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10385,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s40.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10544,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s41.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10679,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s42.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10814,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s43.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10930,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s44.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11108,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s45.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11215,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s46.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11404,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s47.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11528,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s48.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11767,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s49.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11855,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s50.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12620,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s51.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12780,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s52.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13248,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s52.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13386,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s53.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13528,
+      "dur": 223,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s54.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13751,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s55.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13886,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s56.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14100,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s57.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14240,
+      "dur": 269,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s58.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14809,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s58.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14882,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s59.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15037,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s60.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15494,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s60.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15685,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s61.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15820,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s62.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16096,
+      "dur": 340,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s62.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16436,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s63.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16524,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s64.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16686,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s65.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16837,
+      "dur": 229,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s66.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17066,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s68.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17522,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s67.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17693,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s69.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17892,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s70.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18063,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s71.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18198,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s72.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18325,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s73.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18434,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s74.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18522,
+      "dur": 269,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s75.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19061,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s77.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19244,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s78.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19368,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s79.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19520,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s80.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19716,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s81.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19834,
+      "dur": 223,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s82.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20057,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s83.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20165,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s84.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20585,
+      "dur": 324,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s76.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20909,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s85.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21148,
+      "dur": 67,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s86.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21455,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s86.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21695,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s87.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21884,
+      "dur": 293,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s88.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22177,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s89.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22334,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s90.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22664,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s90.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22994,
+      "dur": 53,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s90.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23047,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s91.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23159,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s92.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23288,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s93.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23641,
+      "dur": 329,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s104.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23970,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s94.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24121,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s95.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24295,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s96.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24378,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s97.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24525,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s98.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24667,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s99.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24997,
+      "dur": 328,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s99.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25325,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s100.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25577,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s101.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25721,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s102.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25908,
+      "dur": 303,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s103.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26211,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s105.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26360,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s106.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26532,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s107.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26917,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s107.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27061,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s108.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27202,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s109.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27313,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s110.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27778,
+      "dur": 218,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s110.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27996,
+      "dur": 269,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s111.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28475,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s112.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28631,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s113.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28718,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s114.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29156,
+      "dur": 254,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s114.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29410,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s115.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29552,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s116.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29759,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s117.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29873,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s118.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30404,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s119.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30638,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s120.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30746,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s121.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30927,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s122.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31300,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s122.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31630,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s122.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32275,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s123.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32611,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s123.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32941,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s123.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33031,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s124.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33410,
+      "dur": 261,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s124.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34721,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s124.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 35559,
+      "dur": 44,
+      "kind": "image",
+      "src": "img/mateo-moho-negro-techo_s124.png",
+      "kb": 5,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 892,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL CASO REAL",
+        "title": "La historia del vecino"
+      }
+    },
+    {
+      "from": 1496,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "RAÍCES",
+        "sub": "el cloro no las alcanza",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 2105,
+      "dur": 150,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 3,
+        "suffix": "→1 mes",
+        "label": "cada vez volvía más rápido",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 2510,
+      "dur": 180,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "EL CONSTRUCTOR LIBRE",
+        "title": "Mateo Arregla",
+        "sub": "Arreglos reales, sin vueltas"
+      }
+    },
+    {
+      "from": 3587,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "El cloro no penetra"
+      }
+    },
+    {
+      "from": 3587,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "Se evapora sin dejar rastro"
+      }
+    },
+    {
+      "from": 5796,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SIN RASTRO",
+        "sub": "el cloro se evapora",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 6697,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "Daña el material con el uso"
+      }
+    },
+    {
+      "from": 7293,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MÁS POROSO",
+        "sub": "el cloro debilita el material",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 8786,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA SOLUCIÓN",
+        "title": "Qué usar en vez de cloro"
+      }
+    },
+    {
+      "from": 8976,
+      "dur": 150,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 1,
+        "suffix": " cda/L",
+        "label": "bicarbonato disuelto en agua",
+        "corner": "br"
+      }
+    },
+    {
+      "from": 12131,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 12194,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 12780,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MANOS A LA OBRA",
+        "title": "El procedimiento paso a paso"
+      }
+    },
+    {
+      "from": 13528,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "AIRE EN MOVIMIENTO",
+        "sub": "clave para secar rápido",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 13751,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "SEGURIDAD",
+        "sub": "usa guantes y mascarilla, evita respirar esporas",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 14240,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "aleja niños y mascotas mientras trabajas",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 18198,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA CAUSA REAL",
+        "title": "Por qué vuelve la humedad"
+      }
+    },
+    {
+      "from": 18434,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "LA CAUSA",
+        "sub": "no solo el síntoma",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 24121,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "QUINCE MINUTOS",
+        "sub": "extractor encendido después",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 27799,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "PELIGRO",
+        "sub": "nunca mezcles cloro con otros limpiadores",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 29194,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 4,
+        "text": "secador caliente muy cerca"
+      }
+    },
+    {
+      "from": 29873,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PLAN DE ACCIÓN",
+        "title": "Las próximas 2 semanas"
+      }
+    },
+    {
+      "from": 32029,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "NO PENETRA",
+        "sub": "por eso siempre vuelve",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 34038,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 34438,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 34832,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 4,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NO ES SUCIEDAD",
+        "phrase": "Son colonias vivas de hongo, no manchas",
+        "accent": "colonias vivas",
+        "src": "img/mateo-moho-negro-techo_s01.png"
+      }
+    },
+    {
+      "from": 1165,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL CASO DEL VECINO",
+        "value": 18,
+        "prefix": "",
+        "suffix": " meses",
+        "label": "limpiando con cloro cada mes, sin resultado"
+      }
+    },
+    {
+      "from": 2384,
+      "dur": 126,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que vas a aprender hoy",
+        "items": [
+          "Por qué el cloro empeora el moho negro",
+          "Qué usar por menos de un dólar",
+          "El paso a paso para que no vuelva"
+        ]
+      }
+    },
+    {
+      "from": 3629,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "phrase": "El cloro mata lo que ve, no lo que no ve",
+        "accent": "no lo que no ve",
+        "src": "img/mateo-moho-negro-techo_s10.png"
+      }
+    },
+    {
+      "from": 4735,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Qué pasa al aplicar cloro",
+        "items": [
+          "El agua entra más rápido que el cloro",
+          "Alimenta la humedad que el hongo necesita",
+          "Solo blanquea la superficie de arriba"
+        ]
+      }
+    },
+    {
+      "from": 5456,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El cloro deja una protección duradera",
+        "truth": "Se evapora en minutos y no deja ningún residuo"
+      }
+    },
+    {
+      "from": 6815,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "El techo tras 18 meses de cloro",
+        "left": {
+          "label": "Superficie nueva",
+          "sub": "Lisa y sellada"
+        },
+        "right": {
+          "label": "Tras limpiezas mensuales",
+          "sub": "Quebradiza y más porosa"
+        }
+      }
+    },
+    {
+      "from": 8059,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "¿Dónde sí funciona el cloro?",
+        "items": [
+          "Azulejo vidriado",
+          "Vidrio",
+          "Superficies lisas, no porosas"
+        ]
+      }
+    },
+    {
+      "from": 9168,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA FÓRMULA",
+        "value": 1,
+        "prefix": "",
+        "suffix": " cda. x litro",
+        "label": "bicarbonato de sodio disuelto en agua"
+      }
+    },
+    {
+      "from": 10085,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "3 OPCIONES BARATAS",
+        "title": "Qué usar en vez de cloro",
+        "steps": [
+          {
+            "title": "Bicarbonato",
+            "sub": "1 cda. por litro, deja barrera en polvo"
+          },
+          {
+            "title": "Vinagre blanco",
+            "sub": "Penetra mejor, no es tóxico"
+          },
+          {
+            "title": "Peróxido 3%",
+            "sub": "El mejor para manchas muy oscuras"
+          }
+        ]
+      }
+    },
+    {
+      "from": 12978,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Antes de empezar a limpiar",
+        "items": [
+          "Ventila el baño",
+          "Usa guantes y mascarilla",
+          "Aleja niños y mascotas"
+        ]
+      }
+    },
+    {
+      "from": 14509,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PREPARA LA MEZCLA",
+        "title": "Según lo que tengas en casa",
+        "steps": [
+          {
+            "title": "Bicarbonato",
+            "sub": "1 cda. por litro de agua tibia"
+          },
+          {
+            "title": "Vinagre",
+            "sub": "Puro, directo en un rociador"
+          },
+          {
+            "title": "Peróxido",
+            "sub": "Puro, sin diluir"
+          }
+        ]
+      }
+    },
+    {
+      "from": 15254,
+      "dur": 240,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "CUBRE MÁS ALLÁ DE LA MANCHA",
+        "w": 15,
+        "h": 15,
+        "unit": "cm",
+        "label": "ZONA EXTRA",
+        "note": "ahí el hongo ya empieza, aunque no se vea"
+      }
+    },
+    {
+      "from": 15886,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NO TE APURES",
+        "value": 1,
+        "prefix": "",
+        "suffix": " hora mínimo",
+        "label": "de reposo antes de cepillar"
+      }
+    },
+    {
+      "from": 17192,
+      "dur": 330,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Las pasadas que hacen el trabajo",
+        "steps": [
+          {
+            "when": "Día 1",
+            "text": "Limpieza completa, 8 pasos"
+          },
+          {
+            "when": "Día 2",
+            "text": "Segunda pasada, solo rociar"
+          },
+          {
+            "when": "Día 3 o 4",
+            "text": "Tercera pasada si la mancha era vieja"
+          }
+        ]
+      }
+    },
+    {
+      "from": 18791,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "3 causas de humedad en el techo",
+        "items": [
+          "Falta de ventilación",
+          "Filtración desde arriba",
+          "Una cañería que gotea"
+        ]
+      }
+    },
+    {
+      "from": 20285,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "La prueba del lápiz",
+        "steps": [
+          {
+            "title": "Marca el contorno",
+            "sub": "Con lápiz suave, tras limpiar y secar"
+          },
+          {
+            "title": "Espera una semana",
+            "sub": "Sin ducharte en ese baño"
+          },
+          {
+            "title": "Revisa",
+            "sub": "Humedad nueva: filtración o cañería"
+          }
+        ]
+      }
+    },
+    {
+      "from": 21215,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Dónde está la mancha?",
+        "left": {
+          "label": "En el centro del techo",
+          "sub": "Humedad ambiental, falta ventilación"
+        },
+        "right": {
+          "label": "En una esquina o pared",
+          "sub": "Filtración puntual desde arriba"
+        }
+      }
+    },
+    {
+      "from": 23431,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL DETALLE QUE SE IGNORA",
+        "value": 15,
+        "prefix": "",
+        "suffix": " min",
+        "label": "deja el extractor encendido después de ducharte"
+      }
+    },
+    {
+      "from": 23431,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SI ES FILTRACIÓN",
+        "phrase": "Revisa la azotea justo arriba de la mancha",
+        "accent": "justo arriba",
+        "src": "img/mateo-moho-negro-techo_s99.png"
+      }
+    },
+    {
+      "from": 26677,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "La pintura antihumedad elimina el hongo de abajo",
+        "truth": "Solo lo tapa un tiempo, y vuelve más fuerte"
+      }
+    },
+    {
+      "from": 27538,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Cloro solo vs. cloro mezclado",
+        "left": {
+          "label": "Cloro solo, en azulejo",
+          "sub": "Seguro en superficie no porosa"
+        },
+        "right": {
+          "label": "Cloro + otro limpiador",
+          "sub": "Puede generar gases peligrosos"
+        }
+      }
+    },
+    {
+      "from": 28265,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "QUÉ TAN RÁPIDO",
+        "value": 48,
+        "prefix": "",
+        "suffix": " horas",
+        "label": "puede empezar a desarrollarse el moho húmedo"
+      }
+    },
+    {
+      "from": 28916,
+      "dur": 240,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "NO ESPERES A ESTO",
+        "w": 20,
+        "h": 20,
+        "unit": "cm",
+        "label": "MANCHA TARDÍA",
+        "note": "revisar cada semana evita llegar aquí"
+      }
+    },
+    {
+      "from": 30044,
+      "dur": 360,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Plan de 2 semanas",
+        "steps": [
+          {
+            "when": "Día 1",
+            "text": "Ventila, limpia y marca el contorno"
+          },
+          {
+            "when": "Día 2",
+            "text": "Segunda pasada sin cepillar"
+          },
+          {
+            "when": "Resto semana 1",
+            "text": "Observa si vuelve la humedad"
+          },
+          {
+            "when": "Semana 2",
+            "text": "Resuelve la causa real"
+          },
+          {
+            "when": "Fin semana 2",
+            "text": "Revisa el contorno marcado"
+          }
+        ]
+      }
+    },
+    {
+      "from": 31060,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Si no volvió nada...",
+        "items": [
+          "Vas por buen camino",
+          "Sigue revisando cada semana",
+          "El primer mes es el más importante"
+        ]
+      }
+    },
+    {
+      "from": 32401,
+      "dur": 210,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "title": "LO QUE CUESTA LIMPIARLO BIEN",
+        "rows": [
+          {
+            "label": "Bicarbonato o vinagre, por uso",
+            "price": "menos de $1"
+          },
+          {
+            "label": "Peróxido de farmacia, por uso",
+            "price": "menos de $1"
+          }
+        ],
+        "total": {
+          "label": "Por cada limpieza",
+          "price": "menos de $1"
+        }
+      }
+    },
+    {
+      "from": 33170,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que cuesta resolverlo",
+        "left": {
+          "label": "Visita de un técnico",
+          "sub": "Un solo llamado a tu casa"
+        },
+        "right": {
+          "label": "Biblioteca del Maestro",
+          "sub": "Menos que esa única visita"
+        }
+      }
+    }
+  ]
+}
