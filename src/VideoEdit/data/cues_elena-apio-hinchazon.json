@@ -1,0 +1,2009 @@
+{
+  "slug": "elena-apio-hinchazon",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 37977,
+  "audioSrc": "elena-apio-hinchazon.mp3",
+  "avatarSrc": "elena-apio-hinchazon_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 967,
+      "dur": 863,
+      "clip": 0
+    },
+    {
+      "from": 1981,
+      "dur": 942,
+      "clip": 863
+    },
+    {
+      "from": 16992,
+      "dur": 580,
+      "clip": 1805
+    },
+    {
+      "from": 28711,
+      "dur": 727,
+      "clip": 2385
+    },
+    {
+      "from": 32598,
+      "dur": 953,
+      "clip": 3112
+    },
+    {
+      "from": 35884,
+      "dur": 738,
+      "clip": 4065
+    },
+    {
+      "from": 37076,
+      "dur": 859,
+      "clip": 4803
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 2,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 242,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 469,
+      "dur": 223,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 692,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1830,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s02.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2923,
+      "dur": 39,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s02.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3232,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s02.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3333,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s122.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3420,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s04.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3610,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s05.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3958,
+      "dur": 286,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4244,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s06.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4447,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s07.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4547,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s08.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4784,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s09.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5164,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s09.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5304,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s10.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5392,
+      "dur": 57,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s11.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5449,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s12.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5611,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s13.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6016,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s13.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6227,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s14.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6438,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s15.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6666,
+      "dur": 56,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s16.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6992,
+      "dur": 312,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s16.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7304,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s17.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7530,
+      "dur": 238,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s18.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7768,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s19.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7994,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s21.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8357,
+      "dur": 264,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s20.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8621,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s22.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8704,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s23.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8855,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s24.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8969,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s26.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9149,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s27.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9319,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s28.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9755,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s25.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9870,
+      "dur": 215,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s29.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10085,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s30.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10220,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s32.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10396,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s33.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10801,
+      "dur": 205,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s31.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11006,
+      "dur": 255,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s34.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11261,
+      "dur": 271,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s35.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11532,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s36.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11689,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s37.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12089,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s37.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12251,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s38.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12655,
+      "dur": 21,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s39.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12946,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s39.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13148,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s40.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13297,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s41.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13549,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s42.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13646,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s43.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13817,
+      "dur": 49,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s44.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13866,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s45.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14030,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s46.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14332,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s46.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14516,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s47.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14687,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s48.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15199,
+      "dur": 256,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s48.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15455,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s49.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15644,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s50.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15970,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s50.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16118,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s51.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16229,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s52.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16415,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s53.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16888,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s53.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17572,
+      "dur": 299,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s53.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17871,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s54.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18050,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s55.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18215,
+      "dur": 236,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s56.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18451,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s57.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18610,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s58.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19090,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s58.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19235,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s59.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19461,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s60.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19623,
+      "dur": 313,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s61.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19936,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s62.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20309,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s62.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20403,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s63.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20600,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s64.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20730,
+      "dur": 286,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s65.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21016,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s67.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21148,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s68.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21233,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s69.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21427,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s70.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21907,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s66.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22066,
+      "dur": 61,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s71.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22127,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s72.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22280,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s73.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22407,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s74.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22642,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s76.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22811,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s77.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22992,
+      "dur": 61,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s78.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23323,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s82.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23653,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s79.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23812,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s80.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23878,
+      "dur": 284,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s81.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24162,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s83.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24383,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s84.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24515,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s85.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24666,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s86.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24784,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s87.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25114,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s87.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25444,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s87.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25606,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s95.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25818,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s89.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25990,
+      "dur": 205,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s90.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26405,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s88.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26630,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s91.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26820,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s92.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27292,
+      "dur": 298,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s75.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27590,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s93.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27770,
+      "dur": 342,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s94.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28112,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s96.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28322,
+      "dur": 238,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s97.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28560,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s98.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29438,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s99.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29861,
+      "dur": 267,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s99.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30128,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s100.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30292,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s101.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30664,
+      "dur": 244,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s101.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30908,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s102.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31074,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s103.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31408,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s103.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31621,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s104.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31722,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s105.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31916,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s106.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32024,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s107.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32153,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s108.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32272,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s109.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32450,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s110.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33551,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s110.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33881,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s110.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33960,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s111.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34140,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s112.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 34261,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s113.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 34382,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s114.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34522,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s115.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34714,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s116.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 34881,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s117.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 35294,
+      "dur": 321,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s117.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 35615,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s118.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 35718,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s119.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 36622,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s120.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 36789,
+      "dur": 287,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s121.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 37935,
+      "dur": 42,
+      "kind": "image",
+      "src": "img/elena-apio-hinchazon_s121.png",
+      "kb": 3,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1981,
+      "dur": 135,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "MÉTODO BIENESTAR NATURAL",
+        "title": "Dra. Elena Vidal",
+        "sub": "La verdad sobre el apio, sin promesas exageradas"
+      }
+    },
+    {
+      "from": 3420,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ANTES DE EMPEZAR",
+        "title": "Los 4 tipos de hinchazón"
+      }
+    },
+    {
+      "from": 5304,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "Efecto diurético suave"
+      }
+    },
+    {
+      "from": 5392,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "DIURÉTICO",
+        "sub": "suave, no farmacológico",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 6096,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 2,
+        "suffix": " días",
+        "label": "para notar diferencia si hay exceso de sal",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 7949,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "Fibra y tránsito intestinal"
+      }
+    },
+    {
+      "from": 10188,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "Compuestos antiinflamatorios"
+      }
+    },
+    {
+      "from": 10220,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "APIGENINA",
+        "sub": "antiinflamatorio natural",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 11532,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA PREPARACIÓN",
+        "title": "Cómo tomar el apio bien"
+      }
+    },
+    {
+      "from": 13646,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA OTRA CARA",
+        "title": "Los riesgos reales del apio"
+      }
+    },
+    {
+      "from": 14687,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SODIO NATURAL",
+        "sub": "bajo, pero no cero",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 16415,
+      "dur": 135,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "Hipertensión o enfermedad renal: consultá antes de tomar jugo concentrado",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 17388,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 17565,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 3,
+        "text": "Exceso de sol con jugo concentrado"
+      }
+    },
+    {
+      "from": 17633,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "PSORALENOS",
+        "sub": "sensibilizan la piel al sol",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 19461,
+      "dur": 135,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "Anticoagulantes o medicación para la presión: hablalo con tu médico",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 19936,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 5,
+        "text": "Pasar de cero a mucho de golpe"
+      }
+    },
+    {
+      "from": 20730,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "GRADUALIDAD",
+        "sub": "no cantidad",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 21016,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DUDAS RÁPIDAS",
+        "title": "Lo que todos preguntan"
+      }
+    },
+    {
+      "from": 22642,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "AUTOEVALUACIÓN",
+        "title": "¿Te sirve a ti el apio?"
+      }
+    },
+    {
+      "from": 24383,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PLAN",
+        "title": "4 semanas, paso a paso"
+      }
+    },
+    {
+      "from": 29287,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 29430,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERRORES COMUNES",
+        "title": "Lo que casi todos hacen mal"
+      }
+    },
+    {
+      "from": 30746,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 4,
+        "suffix": " semanas",
+        "label": "para notar cambios en el tránsito",
+        "corner": "br"
+      }
+    },
+    {
+      "from": 31916,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CON LÍMITES",
+        "sub": "natural no es sinónimo de seguro",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 32598,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CIERRE",
+        "title": "Todo lo que vimos hoy"
+      }
+    },
+    {
+      "from": 33960,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "EL EXCESO",
+        "sub": "ahí están los riesgos reales",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 35615,
+      "dur": 135,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "CONSULTÁ",
+        "sub": "Dolor fuerte, pérdida de peso o sangrado: consulta médica, no remedio casero",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 36482,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 37427,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 37880,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 2,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TRES SEMANAS ASÍ",
+        "phrase": "La hinchazón vuelve cada tarde, puntual como un reloj",
+        "accent": "puntual como un reloj",
+        "src": "img/elena-apio-hinchazon_s01.png"
+      }
+    },
+    {
+      "from": 844,
+      "dur": 123,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El apio es la solución mágica para la hinchazón",
+        "truth": "Ayuda solo en algunos tipos de hinchazón, no en todos"
+      }
+    },
+    {
+      "from": 2962,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Los riesgos reales, en resumen",
+        "items": [
+          "Jugo puro en ayunas y en exceso",
+          "Carga extra de sodio con hipertensión o riñón",
+          "Sensibilidad solar con exposición intensa",
+          "Interacción con anticoagulantes o presión"
+        ]
+      }
+    },
+    {
+      "from": 3718,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Dos hinchazones distintas",
+        "left": {
+          "label": "Retención de líquido",
+          "sub": "Tobillos, dedos y párpados"
+        },
+        "right": {
+          "label": "Hinchazón digestiva",
+          "sub": "Gases y pesadez tras comer"
+        }
+      }
+    },
+    {
+      "from": 4894,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "QUÉ PUEDE Y QUÉ NO",
+        "title": "El apio según el tipo",
+        "steps": [
+          {
+            "title": "Retención de líquido",
+            "sub": "Ayuda bastante"
+          },
+          {
+            "title": "Digestiva o por estrés",
+            "sub": "Ayuda con matices"
+          },
+          {
+            "title": "Hormonal",
+            "sub": "No es una solución mágica"
+          }
+        ]
+      }
+    },
+    {
+      "from": 5806,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "phrase": "Un efecto diurético suave, no un medicamento",
+        "accent": "diurético suave",
+        "src": "img/elena-apio-hinchazon_s13.png"
+      }
+    },
+    {
+      "from": 6722,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "¿Es tu caso?",
+        "items": [
+          "Menos hinchada al despertar",
+          "Peor tras embutidos y salsas envasadas",
+          "Mejora si duermes bien"
+        ]
+      }
+    },
+    {
+      "from": 8117,
+      "dur": 240,
+      "comp": "AnilloPorcentaje",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL DATO",
+        "value": 95,
+        "label": "de agua en cada tallo de apio",
+        "sub": "por eso hidrata y ayuda a drenar"
+      }
+    },
+    {
+      "from": 9515,
+      "dur": 240,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CLAVE PARA LA FIBRA",
+        "value": 2,
+        "prefix": "",
+        "suffix": " litros",
+        "label": "de agua al día para que la fibra no empeore la hinchazón"
+      }
+    },
+    {
+      "from": 10591,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Los antiinflamatorios del apio están comprobados en humanos",
+        "truth": "La evidencia es todavía preliminar, no un efecto garantizado"
+      }
+    },
+    {
+      "from": 11789,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CÓMO PREPARARLO",
+        "title": "3 formas de comer apio",
+        "steps": [
+          {
+            "title": "Crudo, en bastones",
+            "sub": "El más simple, el menor riesgo"
+          },
+          {
+            "title": "En sopa o caldo",
+            "sub": "Sin exagerar la sal"
+          },
+          {
+            "title": "En jugo",
+            "sub": "Concentra beneficios y riesgos"
+          }
+        ]
+      }
+    },
+    {
+      "from": 12325,
+      "dur": 330,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Plan de 4 semanas con el apio",
+        "steps": [
+          {
+            "when": "Semana 1",
+            "text": "Apio entero, no jugo concentrado"
+          },
+          {
+            "when": "Semana 2",
+            "text": "Jugo suave y combinado, pocas veces"
+          },
+          {
+            "when": "Semana 3",
+            "text": "Medí tu cintura y evaluá"
+          },
+          {
+            "when": "Semana 4",
+            "text": "Mantenlo con moderación"
+          }
+        ]
+      }
+    },
+    {
+      "from": 12676,
+      "dur": 270,
+      "comp": "RutinaDia",
+      "props": {
+        "theme": "earth",
+        "title": "Tu rutina, simple",
+        "slots": [
+          {
+            "time": "Desayuno",
+            "text": "Nunca jugo de apio puro en ayunas"
+          },
+          {
+            "time": "Media mañana",
+            "text": "Bastones de apio como colación"
+          },
+          {
+            "time": "Antes de dormir",
+            "text": "Evitar líquido abundante de noche"
+          }
+        ]
+      }
+    },
+    {
+      "from": 14122,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA VERDAD",
+        "phrase": "El apio tomado de forma equivocada puede dañarte",
+        "accent": "puede dañarte",
+        "src": "img/elena-apio-hinchazon_s46.png"
+      }
+    },
+    {
+      "from": 14929,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Señales de exceso de jugo",
+        "items": [
+          "Ardor estomacal nuevo",
+          "Reflujo",
+          "Cambios en las evacuaciones"
+        ]
+      }
+    },
+    {
+      "from": 15730,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Cuánto sodio tiene el apio?",
+        "left": {
+          "label": "Sal de mesa",
+          "sub": "Mucho sodio"
+        },
+        "right": {
+          "label": "Apio",
+          "sub": "Más que el pepino, mucho menos que la sal"
+        }
+      }
+    },
+    {
+      "from": 16618,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Más cuidado si tenés...",
+        "items": [
+          "Hipertensión no controlada",
+          "Enfermedad renal",
+          "Indicación médica de cuidar sodio o potasio"
+        ]
+      }
+    },
+    {
+      "from": 18820,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Si tomás estos medicamentos",
+        "items": [
+          "Anticoagulantes",
+          "Medicación para la presión",
+          "Diuréticos recetados"
+        ]
+      }
+    },
+    {
+      "from": 20099,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Más cantidad significa resultados más rápidos",
+        "truth": "El cuerpo necesita gradualidad, no cantidad"
+      }
+    },
+    {
+      "from": 21637,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Dudas frecuentes",
+        "items": [
+          "Limón: no potencia el efecto",
+          "De noche: te despierta al baño",
+          "Congelado: conserva casi igual"
+        ]
+      }
+    },
+    {
+      "from": 23053,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "3 preguntas para saber si te sirve",
+        "steps": [
+          {
+            "title": "¿Empeora con sal?",
+            "sub": "El apio puede ayudar"
+          },
+          {
+            "title": "¿Presión alta o riñones?",
+            "sub": "Consultá antes"
+          },
+          {
+            "title": "¿Tránsito lento?",
+            "sub": "Apio y más agua, no la única pieza"
+          }
+        ]
+      }
+    },
+    {
+      "from": 26195,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SI TOMÁS JUGO",
+        "value": 4,
+        "prefix": "",
+        "suffix": " veces/sem",
+        "label": "es suficiente para empezar, no todos los días"
+      }
+    },
+    {
+      "from": 27022,
+      "dur": 270,
+      "comp": "RutinaDia",
+      "props": {
+        "theme": "earth",
+        "title": "Tu rutina, simple",
+        "slots": [
+          {
+            "time": "Media mañana",
+            "text": "Apio en bastones de colación"
+          },
+          {
+            "time": "Almuerzo",
+            "text": "Apio picado en ensalada o sopa"
+          },
+          {
+            "time": "3 o 4 veces/semana",
+            "text": "Jugo suave combinado, nunca puro"
+          }
+        ]
+      }
+    },
+    {
+      "from": 29621,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Tu caso no es el de otra persona",
+        "left": {
+          "label": "Lo que le funcionó a otra persona",
+          "sub": "Medio litro de jugo en ayunas"
+        },
+        "right": {
+          "label": "Lo que te sirve a ti",
+          "sub": "Según tu presión y tu estómago"
+        }
+      }
+    },
+    {
+      "from": 30454,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TIEMPOS REALES",
+        "value": 48,
+        "prefix": "",
+        "suffix": " horas",
+        "label": "para notar menos retención de líquido"
+      }
+    },
+    {
+      "from": 31198,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Natural es sinónimo de inofensivo en cualquier cantidad",
+        "truth": "Natural también tiene límites y contraindicaciones"
+      }
+    },
+    {
+      "from": 35024,
+      "dur": 270,
+      "comp": "RutinaDia",
+      "props": {
+        "theme": "earth",
+        "title": "Tu rutina, simple",
+        "slots": [
+          {
+            "time": "Media mañana",
+            "text": "Apio en bastones"
+          },
+          {
+            "time": "Comidas principales",
+            "text": "Picado en ensaladas o sopas"
+          },
+          {
+            "time": "3 o 4 veces/semana",
+            "text": "Jugo suave combinado"
+          }
+        ]
+      }
+    }
+  ]
+}
