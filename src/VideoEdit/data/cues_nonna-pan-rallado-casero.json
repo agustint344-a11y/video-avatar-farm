@@ -1,0 +1,2087 @@
+{
+  "slug": "nonna-pan-rallado-casero",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 41005,
+  "audioSrc": "nonna-pan-rallado-casero.mp3",
+  "avatarSrc": "nonna-pan-rallado-casero_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 882,
+      "dur": 817,
+      "clip": 0
+    },
+    {
+      "from": 5789,
+      "dur": 741,
+      "clip": 817
+    },
+    {
+      "from": 23132,
+      "dur": 539,
+      "clip": 1558
+    },
+    {
+      "from": 24217,
+      "dur": 601,
+      "clip": 2097
+    },
+    {
+      "from": 35202,
+      "dur": 1622,
+      "clip": 2698
+    },
+    {
+      "from": 38615,
+      "dur": 607,
+      "clip": 4320
+    },
+    {
+      "from": 40217,
+      "dur": 749,
+      "clip": 4927
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 5,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 245,
+      "dur": 277,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 522,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 725,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1699,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1872,
+      "dur": 266,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2378,
+      "dur": 245,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2623,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2803,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2981,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3436,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s07.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3630,
+      "dur": 288,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s08.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3918,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s09.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4063,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4409,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s10.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4640,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s11.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4812,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s12.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4954,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s13.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5405,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s13.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5532,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s14.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5624,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s15.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6530,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s15.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6860,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s15.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6950,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s16.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7019,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s17.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7475,
+      "dur": 348,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s17.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7823,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s18.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7892,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s19.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8009,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s20.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8197,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s21.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8395,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s22.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8566,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s23.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8753,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s24.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9036,
+      "dur": 371,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s24.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9407,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s25.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9530,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s26.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9593,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s27.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9781,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s28.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9898,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s29.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10278,
+      "dur": 311,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s29.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10859,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s31.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10919,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s32.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11016,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s33.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11238,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s34.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11665,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s30.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11927,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s35.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11989,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s81.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12168,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s36.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12408,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s37.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12755,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s37.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12990,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s38.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13217,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s39.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13282,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s40.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13496,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s41.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13661,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s42.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13777,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s43.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13859,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s44.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14305,
+      "dur": 238,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s44.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14543,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s45.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14762,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s46.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14988,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s47.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15180,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s48.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15433,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s49.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15649,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s50.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15772,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s51.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16181,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s51.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16373,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s52.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16540,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s53.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16693,
+      "dur": 238,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s54.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16931,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s55.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17134,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s56.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17326,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s57.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17526,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s58.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17672,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s59.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17855,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s60.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17956,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s61.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18122,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18584,
+      "dur": 299,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s62.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18883,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s63.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19064,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s64.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19235,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s65.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19364,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s66.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19555,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s67.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19808,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s68.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19880,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s69.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20246,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s69.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20473,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s70.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20726,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s71.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20819,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s72.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21045,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s73.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21128,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s74.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21458,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s74.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21788,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s74.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21900,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s75.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22098,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s76.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22292,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s77.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22438,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s78.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22642,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s79.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22841,
+      "dur": 291,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s80.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23671,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s82.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23773,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s83.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23995,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s85.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24818,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s86.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24970,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s87.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25194,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s88.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25476,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s84.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25698,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s89.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25847,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s90.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26020,
+      "dur": 238,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s91.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26258,
+      "dur": 233,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s93.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26491,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s94.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26818,
+      "dur": 351,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s92.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27169,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s95.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27361,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s96.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27486,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s97.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27600,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s98.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27716,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s99.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28073,
+      "dur": 255,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s99.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28328,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s100.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28423,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s101.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28581,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s102.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28756,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s103.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28983,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s104.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29153,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s105.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29340,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s106.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29715,
+      "dur": 288,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s106.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30003,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s107.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30211,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s108.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30431,
+      "dur": 295,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s109.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30726,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s110.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30947,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s111.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31324,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s111.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31386,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s112.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31582,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s113.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31785,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s114.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32132,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s114.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32408,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s115.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32617,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s116.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32680,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s117.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33252,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s117.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33314,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s118.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33457,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s119.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33622,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s120.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33823,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s121.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33957,
+      "dur": 229,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s122.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34186,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s123.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34328,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s124.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 34465,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s125.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34821,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s125.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 35015,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s126.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 36824,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s126.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 37154,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s126.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 37367,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s127.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 37534,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s128.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 37695,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s129.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 38065,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s129.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 38314,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s130.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 38499,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s131.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 39222,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s132.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 39405,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s133.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 39746,
+      "dur": 299,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s133.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 40045,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s134.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 40966,
+      "dur": 39,
+      "kind": "image",
+      "src": "img/nonna-pan-rallado-casero_s134.png",
+      "kb": 0,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 725,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "RANCIO",
+        "sub": "ese olor del pan rallado viejo",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 1084,
+      "dur": 135,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "LA NONNA (COCINA)",
+        "title": "La Nonna",
+        "sub": "Recetas y trucos de la cocina de siempre"
+      }
+    },
+    {
+      "from": 1691,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 2",
+        "title": "Mi Historia con la Nonna"
+      }
+    },
+    {
+      "from": 6208,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de La Nonna (cocina)",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 6658,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 3",
+        "title": "Diagnóstico Rápido"
+      }
+    },
+    {
+      "from": 8566,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 4",
+        "title": "Razón 1: Pan Industrial"
+      }
+    },
+    {
+      "from": 9593,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SIN AROMA",
+        "sub": "pan hecho para rendir, no para comer",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 9781,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 5",
+        "title": "Razón 2: La Textura"
+      }
+    },
+    {
+      "from": 11016,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 6",
+        "title": "Razón 3: La Frescura"
+      }
+    },
+    {
+      "from": 11763,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "RECIÉN HECHO",
+        "sub": "más aroma a pan tostado",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 12168,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 7",
+        "title": "Razón 4: Cero Desperdicio"
+      }
+    },
+    {
+      "from": 13496,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 8",
+        "title": "El Método Paso a Paso"
+      }
+    },
+    {
+      "from": 16540,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "BIEN SECO",
+        "sub": "debe sonar hueco",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 16693,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "horno muy fuerte seca por fuera y deja humedad adentro",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 20726,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "HUMEDAD",
+        "sub": "el enemigo del pan rallado",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 21045,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "CUIDADO",
+        "sub": "la humedad atrapada puede generar moho",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 21628,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 6,
+        "suffix": " sem",
+        "label": "duración bien guardado",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 24485,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de La Nonna (cocina)",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 24970,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 9",
+        "title": "Errores Comunes"
+      }
+    },
+    {
+      "from": 26216,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 2,
+        "text": "guardar el pan rallado tibio"
+      }
+    },
+    {
+      "from": 26258,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CUIDADO",
+        "sub": "causa más errores de conservación",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 26961,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 3,
+        "text": "guardar tandas demasiado grandes"
+      }
+    },
+    {
+      "from": 28177,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 4,
+        "text": "mezclar panes de distinta sequedad"
+      }
+    },
+    {
+      "from": 28983,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 5,
+        "text": "sacarlo con cuchara húmeda"
+      }
+    },
+    {
+      "from": 29153,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "TIP",
+        "sub": "usa siempre cuchara y manos secas",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 30211,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "PACIENCIA",
+        "sub": "el paladar se acostumbra",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 30431,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 10",
+        "title": "Variantes Caseras"
+      }
+    },
+    {
+      "from": 32408,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 11",
+        "title": "Tu Plan de 7 Días"
+      }
+    },
+    {
+      "from": 35641,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de La Nonna (cocina)",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 36006,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 12",
+        "title": "Repaso Final"
+      }
+    },
+    {
+      "from": 38975,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de La Nonna (cocina)",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 40596,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de La Nonna (cocina)",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 5,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL CAMBIO",
+        "phrase": "Dejé de comprar pan rallado para siempre",
+        "accent": "para siempre",
+        "src": "img/nonna-pan-rallado-casero_s01.png"
+      }
+    },
+    {
+      "from": 2138,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Dos formas de empanar",
+        "left": {
+          "label": "Pan rallado comprado",
+          "sub": "Se despega, sabor plano"
+        },
+        "right": {
+          "label": "Pan rallado casero",
+          "sub": "Crocante y sabroso"
+        }
+      }
+    },
+    {
+      "from": 3166,
+      "dur": 270,
+      "comp": "PizarraNonna",
+      "props": {
+        "theme": "earth",
+        "title": "La cocina de mi madre",
+        "items": [
+          "Pan horneado en casa",
+          "Bien seco antes de rallar",
+          "Rallado a mano o molinillo"
+        ],
+        "note": "Sin conservantes"
+      }
+    },
+    {
+      "from": 4199,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que vas a lograr",
+        "items": [
+          "Pan rallado más sabroso",
+          "Más crocante al cocinar",
+          "Se guarda semanas sin arruinarse"
+        ]
+      }
+    },
+    {
+      "from": 5135,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HOY APRENDERÁS",
+        "title": "El plan del video",
+        "steps": [
+          {
+            "title": "Elegir el pan",
+            "sub": "Cuál sirve y cuál no"
+          },
+          {
+            "title": "Secarlo bien",
+            "sub": "Con horno o al aire"
+          },
+          {
+            "title": "Guardarlo",
+            "sub": "Para que dure semanas"
+          }
+        ]
+      }
+    },
+    {
+      "from": 7265,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Tirar el pan duro es lo normal",
+        "truth": "Ese pan es la base de un pan rallado mejor"
+      }
+    },
+    {
+      "from": 8826,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "phrase": "Ese pan no fue hecho para comer, fue hecho para rendir",
+        "accent": "para rendir",
+        "src": "img/nonna-pan-rallado-casero_s24.png"
+      }
+    },
+    {
+      "from": 10038,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Textura: industrial vs casero",
+        "left": {
+          "label": "Pan rallado industrial",
+          "sub": "Polvo fino y uniforme"
+        },
+        "right": {
+          "label": "Pan rallado casero",
+          "sub": "Migas de distintos tamaños"
+        }
+      }
+    },
+    {
+      "from": 10589,
+      "dur": 270,
+      "comp": "PizarraNonna",
+      "props": {
+        "theme": "earth",
+        "title": "Cómo guardarlo bien",
+        "items": [
+          "Frasco de vidrio hermético",
+          "Lugar fresco y oscuro",
+          "Tandas de 200 a 300 g",
+          "Freezer para más duración"
+        ],
+        "note": "Nada de plástico"
+      }
+    },
+    {
+      "from": 11455,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Por qué se pierde el aroma",
+        "items": [
+          "Meses en el estante del súper",
+          "Pierde aroma cada semana",
+          "El casero se hace la misma semana"
+        ]
+      }
+    },
+    {
+      "from": 12545,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Las puntas de pan solo sirven para tirar",
+        "truth": "Son la materia prima gratis de tu pan rallado"
+      }
+    },
+    {
+      "from": 14035,
+      "dur": 270,
+      "comp": "PizarraNonna",
+      "props": {
+        "theme": "earth",
+        "title": "Pan ideal para rallar",
+        "items": [
+          "Pan de campo",
+          "Baguette de 1 o 2 días",
+          "Ciabatta",
+          "Pan de molde simple"
+        ],
+        "note": "Nada de pan dulce ni de hamburguesa"
+      }
+    },
+    {
+      "from": 15881,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 2",
+        "title": "Secar el pan en el horno",
+        "steps": [
+          {
+            "title": "120°C",
+            "sub": "Temperatura baja"
+          },
+          {
+            "title": "15 a 20 min",
+            "sub": "Dando vuelta a la mitad"
+          },
+          {
+            "title": "Debe sonar hueco",
+            "sub": "Sin humedad dentro"
+          }
+        ]
+      }
+    },
+    {
+      "from": 18344,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Cómo triturarlo bien",
+        "items": [
+          "Trozos medianos a mano primero",
+          "Procesar en tandas cortas, pulsando",
+          "Rallador o rodillo si no hay procesadora"
+        ]
+      }
+    },
+    {
+      "from": 20066,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 5",
+        "value": 10,
+        "prefix": "",
+        "suffix": " min",
+        "label": "airearlo en el horno apagado y tibio"
+      }
+    },
+    {
+      "from": 25266,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "La corteza dura no importa al triturar",
+        "truth": "Deja trozos grandes que no se adhieren bien"
+      }
+    },
+    {
+      "from": 26608,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Error: tandas muy grandes",
+        "items": [
+          "Tarda más en consumirse",
+          "Pierde frescura en el frasco",
+          "Mejor hacer tandas chicas"
+        ]
+      }
+    },
+    {
+      "from": 27893,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA CANTIDAD IDEAL",
+        "value": 300,
+        "prefix": "",
+        "suffix": " g",
+        "label": "tamaño de tanda para 2 o 3 semanas"
+      }
+    },
+    {
+      "from": 29505,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Si no sabe igual que el comprado, algo salió mal",
+        "truth": "Es distinto porque está hecho con pan real"
+      }
+    },
+    {
+      "from": 31054,
+      "dur": 270,
+      "comp": "PizarraNonna",
+      "props": {
+        "theme": "earth",
+        "title": "Variantes para probar",
+        "items": [
+          "Hierbas secas: orégano o albahaca",
+          "Ajo tostado en el horno",
+          "Queso duro bien rallado"
+        ],
+        "note": "Con queso, guardar en la heladera"
+      }
+    },
+    {
+      "from": 31922,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Pan rallado grueso vs fino",
+        "left": {
+          "label": "Migas gruesas",
+          "sub": "Ideal para empanados rústicos"
+        },
+        "right": {
+          "label": "Migas finas",
+          "sub": "Perfectas para gratinados"
+        }
+      }
+    },
+    {
+      "from": 32922,
+      "dur": 330,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Tu plan de la semana",
+        "steps": [
+          {
+            "when": "Día 1",
+            "text": "Junta el pan y empieza a secarlo"
+          },
+          {
+            "when": "Día 2",
+            "text": "Revisa el secado"
+          },
+          {
+            "when": "Día 3",
+            "text": "Tritúralo y guárdalo"
+          },
+          {
+            "when": "Día 4-5",
+            "text": "Pruébalo empanando algo simple"
+          },
+          {
+            "when": "Día 6-7",
+            "text": "Repite la preparación"
+          }
+        ]
+      }
+    },
+    {
+      "from": 34611,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Qué notar al probar",
+        "items": [
+          "Cómo se siente al morder",
+          "Cómo huele al cocinarse",
+          "Cuánto se pega a la carne"
+        ]
+      }
+    },
+    {
+      "from": 37855,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Errores a evitar",
+        "items": [
+          "Mezclar pan de distinta sequedad",
+          "Guardar tandas enormes",
+          "Meterlo tibio en el frasco",
+          "Sacarlo con cuchara húmeda"
+        ]
+      }
+    },
+    {
+      "from": 39536,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TU TURNO",
+        "phrase": "Contame si en tu casa también se tira pan sin usar",
+        "accent": "se tira pan",
+        "src": "img/nonna-pan-rallado-casero_s133.png"
+      }
+    }
+  ]
+}
