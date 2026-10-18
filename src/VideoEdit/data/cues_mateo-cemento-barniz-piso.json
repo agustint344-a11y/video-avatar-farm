@@ -1,0 +1,2149 @@
+{
+  "slug": "mateo-cemento-barniz-piso",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 36482,
+  "audioSrc": "mateo-cemento-barniz-piso.mp3",
+  "avatarSrc": "mateo-cemento-barniz-piso_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 731,
+      "dur": 551,
+      "clip": 0
+    },
+    {
+      "from": 6946,
+      "dur": 657,
+      "clip": 551
+    },
+    {
+      "from": 20410,
+      "dur": 729,
+      "clip": 1208
+    },
+    {
+      "from": 30085,
+      "dur": 751,
+      "clip": 1937
+    },
+    {
+      "from": 34489,
+      "dur": 1048,
+      "clip": 2688
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 179,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 353,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 425,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s04.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1282,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s05.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1493,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s06.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1868,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s06.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2006,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s07.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2213,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s08.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2504,
+      "dur": 259,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s08.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2763,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s09.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2873,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s10.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2975,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s11.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3115,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s12.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3220,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s13.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3637,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s13.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3846,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s14.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4007,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s15.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4115,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s16.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4440,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s16.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4610,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s17.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4793,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s18.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4967,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s19.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5071,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s20.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5485,
+      "dur": 325,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s20.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5810,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s21.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5919,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s22.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6249,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s22.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6579,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s22.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6716,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s23.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6847,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s24.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7603,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s25.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7758,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s26.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7924,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s27.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8036,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s28.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8402,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s28.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8732,
+      "dur": 50,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s28.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8782,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s29.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8886,
+      "dur": 260,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s30.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9146,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s31.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9359,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s32.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9689,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s32.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9827,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s33.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9906,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s34.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10073,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s35.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10201,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s36.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10267,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s37.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10692,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s37.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10908,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s38.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11025,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s39.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11135,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s40.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11228,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s41.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11366,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s42.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11686,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s42.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11959,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s43.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12049,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s44.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12239,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s45.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12302,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s46.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12407,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s47.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12723,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s47.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12922,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s48.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13083,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s49.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13181,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s50.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13343,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s51.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13590,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s52.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13880,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s52.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14129,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s53.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14301,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s54.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14469,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s55.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14631,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s56.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14764,
+      "dur": 57,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s57.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15031,
+      "dur": 346,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s57.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15377,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s58.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15581,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s59.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15649,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s60.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15837,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s61.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16210,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s61.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16450,
+      "dur": 58,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s62.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16508,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s63.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16706,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s64.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16871,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s65.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16967,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s66.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17120,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s67.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17318,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s68.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17553,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s68.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17795,
+      "dur": 223,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s69.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18018,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s70.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18167,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s71.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18346,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s72.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18420,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s73.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18578,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s74.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18954,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s74.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19284,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s74.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19614,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s74.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19944,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s74.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20114,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s75.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21139,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s76.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21288,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s77.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21596,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s77.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21736,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s78.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21875,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s79.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21961,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s80.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22118,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s81.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22330,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s82.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22468,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s83.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22575,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s84.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22817,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s85.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23219,
+      "dur": 335,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s85.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23554,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s86.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23681,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s87.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23823,
+      "dur": 244,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s88.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24277,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s89.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24461,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s90.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24627,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s91.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24840,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s92.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25167,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s92.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25324,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s111.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25405,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s94.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25559,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s95.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25703,
+      "dur": 67,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s96.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25770,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s97.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26018,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s93.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26204,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s98.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26362,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s99.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26480,
+      "dur": 56,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s100.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26536,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s101.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26734,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s102.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26909,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s103.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26978,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s104.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27194,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s105.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27391,
+      "dur": 80,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s106.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27471,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s107.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27609,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s108.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27909,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s108.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28091,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s109.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28293,
+      "dur": 316,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s110.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28609,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s112.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28723,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s113.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28871,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s114.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29055,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s115.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29158,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s116.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29268,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s117.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29687,
+      "dur": 51,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s117.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29738,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s118.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29934,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s119.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30836,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s120.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30999,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s121.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31183,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s122.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31292,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s123.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31482,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s124.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31582,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s125.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31715,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s126.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32098,
+      "dur": 331,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s126.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32429,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s127.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32582,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s128.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32711,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s129.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32844,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s130.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33148,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s130.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33478,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s130.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33567,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s131.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33671,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s132.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33806,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s133.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33918,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s134.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34064,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s135.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34150,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s136.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 35537,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s136.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 35867,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s136.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 36197,
+      "dur": 285,
+      "kind": "image",
+      "src": "img/mateo-cemento-barniz-piso_s136.png",
+      "kb": 5,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL EXPERIMENTO",
+        "title": "Cemento + Barniz"
+      }
+    },
+    {
+      "from": 425,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "TRUCO",
+        "sub": "cambia textura y brillo",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 869,
+      "dur": 180,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "EL CONSTRUCTOR LIBRE",
+        "title": "Mateo Arregla",
+        "sub": "arreglos de la casa que sí funcionan"
+      }
+    },
+    {
+      "from": 1943,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MI CASO",
+        "title": "La terraza que lo empezó todo"
+      }
+    },
+    {
+      "from": 4466,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "POR QUÉ FUNCIONA",
+        "title": "La ciencia del barniz"
+      }
+    },
+    {
+      "from": 4967,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SELLA POROS",
+        "sub": "desde adentro",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 5919,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "BARNIZ BÁSICO",
+        "sub": "no el de dos componentes",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 7319,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 7461,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 8036,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ANTES DE EMPEZAR",
+        "title": "Herramientas y materiales"
+      }
+    },
+    {
+      "from": 9670,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "guantes y mascarilla si lijas en espacio cerrado",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 10267,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 1",
+        "title": "La prueba de la gota de agua"
+      }
+    },
+    {
+      "from": 10908,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CEMENTO POROSO",
+        "sub": "normal para este tratamiento",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 12922,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "grietas anchas son estructurales, no decorativas",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 13083,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO A PASO",
+        "title": "Cómo se aplica la mezcla"
+      }
+    },
+    {
+      "from": 17120,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MÁS DENSO",
+        "sub": "ya no es cemento puro",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 18578,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL CÁLCULO",
+        "title": "Cuánto material necesitas"
+      }
+    },
+    {
+      "from": 20410,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERRORES COMUNES",
+        "title": "Lo que no debes hacer"
+      }
+    },
+    {
+      "from": 20571,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 1,
+        "text": "exceso de barniz"
+      }
+    },
+    {
+      "from": 20738,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SE CRAQUELA",
+        "sub": "si pones demasiado barniz",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 22468,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 3,
+        "text": "no limpiar el polvo"
+      }
+    },
+    {
+      "from": 24461,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "no selles un piso con filtraciones activas",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 24627,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 5,
+        "text": "trabajar bajo sol directo"
+      }
+    },
+    {
+      "from": 25559,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PREGUNTAS",
+        "title": "Dudas frecuentes"
+      }
+    },
+    {
+      "from": 27391,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DURABILIDAD",
+        "title": "Cuánto dura este piso"
+      }
+    },
+    {
+      "from": 28293,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "AMARILLEA",
+        "sub": "con sol directo y tiempo",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 30085,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REPASO",
+        "title": "Todo el proceso, resumido"
+      }
+    },
+    {
+      "from": 32844,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ANTES DE TERMINAR",
+        "title": "Dónde sí y dónde no usar esto"
+      }
+    },
+    {
+      "from": 33918,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "TÚ VS TÉCNICO",
+        "sub": "compara el costo real",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 34313,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 34489,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 35152,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 574,
+      "dur": 157,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL COSTO REAL",
+        "value": 5,
+        "prefix": "$",
+        "suffix": "",
+        "label": "costo total de la prueba por metro cuadrado"
+      }
+    },
+    {
+      "from": 1688,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA SORPRESA",
+        "phrase": "No es mágica, es lógica si entiendes cada ingrediente",
+        "accent": "es lógica",
+        "src": "img/mateo-cemento-barniz-piso_s06.png"
+      }
+    },
+    {
+      "from": 2294,
+      "dur": 210,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "LA TERRAZA DEL VIDEO",
+        "w": 400,
+        "h": 200,
+        "unit": "cm",
+        "label": "TERRAZA",
+        "note": "≈8 m², con manchas de macetas y óxido"
+      }
+    },
+    {
+      "from": 3367,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LO QUE VAS A APRENDER",
+        "title": "El plan de este video",
+        "steps": [
+          {
+            "title": "El barniz correcto",
+            "sub": "qué tipo funciona y cuál no"
+          },
+          {
+            "title": "La proporción exacta",
+            "sub": "cemento, agua y barniz"
+          },
+          {
+            "title": "Errores que evitar",
+            "sub": "los que yo cometí primero"
+          }
+        ]
+      }
+    },
+    {
+      "from": 4260,
+      "dur": 180,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Esta técnica sirve para cualquier piso de cemento",
+        "truth": "No es para cualquier superficie, hay que revisarla antes"
+      }
+    },
+    {
+      "from": 5275,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Por qué cambia el brillo",
+        "left": {
+          "label": "Cemento poroso",
+          "sub": "absorbe luz, se ve mate"
+        },
+        "right": {
+          "label": "Poro sellado",
+          "sub": "refleja como piedra pulida"
+        }
+      }
+    },
+    {
+      "from": 8162,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Herramientas que necesitas",
+        "items": [
+          "Cemento gris o blanco",
+          "Colador fino y barniz sintético",
+          "Llana de goma o espátula",
+          "Lijas de grano 40-80 y 120-150",
+          "Esponja de acero o amoladora"
+        ]
+      }
+    },
+    {
+      "from": 10452,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PRUEBA RÁPIDA",
+        "title": "La prueba de la gota de agua",
+        "steps": [
+          {
+            "title": "Pones gotas de agua",
+            "sub": "en distintos puntos del piso"
+          },
+          {
+            "title": "Esperas 2-3 minutos",
+            "sub": "y observas qué pasa"
+          },
+          {
+            "title": "Lees el resultado",
+            "sub": "poroso, sellado o húmedo"
+          }
+        ]
+      }
+    },
+    {
+      "from": 11476,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Qué dice el agua?",
+        "left": {
+          "label": "Se absorbe y mancha",
+          "sub": "cemento poroso, piso normal"
+        },
+        "right": {
+          "label": "Forma una perla",
+          "sub": "ya tiene sellador previo"
+        }
+      }
+    },
+    {
+      "from": 12543,
+      "dur": 180,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Cualquier grieta se tapa con esta capa",
+        "truth": "Si es ancha o se mueve, es un problema estructural"
+      }
+    },
+    {
+      "from": 13700,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL TIEMPO",
+        "value": 20,
+        "prefix": "",
+        "suffix": " min",
+        "label": "para lijar 8 metros cuadrados antes de empezar"
+      }
+    },
+    {
+      "from": 14821,
+      "dur": 210,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA PROPORCIÓN",
+        "value": 10,
+        "max": 100,
+        "suffix": "%",
+        "label": "de barniz sobre el volumen total de la mezcla"
+      }
+    },
+    {
+      "from": 15940,
+      "dur": 270,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Tiempos de secado entre capas",
+        "steps": [
+          {
+            "when": "Capa 1",
+            "text": "seca entre 4 y 6 horas"
+          },
+          {
+            "when": "Capa 2",
+            "text": "ya se nota el cambio de textura"
+          },
+          {
+            "when": "Capa 3",
+            "text": "se deja secar una noche completa"
+          },
+          {
+            "when": "Día siguiente",
+            "text": "llega el pulido final"
+          }
+        ]
+      }
+    },
+    {
+      "from": 17373,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PULIDO",
+        "value": 20,
+        "prefix": "",
+        "suffix": " min",
+        "label": "de pulido a mano por cada metro cuadrado"
+      }
+    },
+    {
+      "from": 18714,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Qué incluye la Biblioteca",
+        "items": [
+          "3 guías completas en PDF",
+          "185 fichas del taller imprimibles",
+          "Calculadoras del Maestro"
+        ]
+      }
+    },
+    {
+      "from": 20259,
+      "dur": 151,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "MIDE TU PISO ANTES DE CALCULAR",
+        "w": 283,
+        "h": 283,
+        "unit": "cm",
+        "label": "TU PISO",
+        "note": "largo x ancho, para la calculadora del material"
+      }
+    },
+    {
+      "from": 21416,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MI PRIMER ERROR",
+        "phrase": "Terminé con una esquina que parecía piel de serpiente",
+        "accent": "piel de serpiente",
+        "src": "img/mateo-cemento-barniz-piso_s77.png"
+      }
+    },
+    {
+      "from": 22949,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Errores que arruinan el piso",
+        "items": [
+          "Exceso de barniz (más del 15%)",
+          "Apurar el secado entre capas",
+          "No limpiar bien el polvo",
+          "Aplicar sobre grietas o humedad",
+          "Trabajar con el piso muy caliente"
+        ]
+      }
+    },
+    {
+      "from": 24067,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Humedad que sube desde abajo",
+        "left": {
+          "label": "Piso sin tratar",
+          "sub": "se nota y se puede resolver"
+        },
+        "right": {
+          "label": "Piso sellado con barniz",
+          "sub": "la humedad queda atrapada abajo"
+        }
+      }
+    },
+    {
+      "from": 24987,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CUIDADO CON EL SOL",
+        "value": 35,
+        "prefix": "",
+        "suffix": "°C",
+        "label": "temperatura del piso que arruina la capa"
+      }
+    },
+    {
+      "from": 25838,
+      "dur": 180,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Más brillo siempre es mejor en cualquier zona",
+        "truth": "Un piso muy liso puede ser resbaloso si está mojado"
+      }
+    },
+    {
+      "from": 27729,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CUÁNTO DURA",
+        "value": 2,
+        "prefix": "",
+        "suffix": " años",
+        "label": "de buen aspecto antes de necesitar mantenimiento"
+      }
+    },
+    {
+      "from": 29447,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MANTENIMIENTO",
+        "title": "Para que dure más",
+        "steps": [
+          {
+            "title": "Limpieza diaria",
+            "sub": "trapo húmedo y detergente neutro"
+          },
+          {
+            "title": "Una vez al mes",
+            "sub": "cera líquida para pisos"
+          },
+          {
+            "title": "Cada 6 meses",
+            "sub": "revisar zonas ásperas u opacas"
+          }
+        ]
+      }
+    },
+    {
+      "from": 31888,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Este piso vs granito real",
+        "left": {
+          "label": "Cemento + barniz",
+          "sub": "brillo satinado, bajo costo"
+        },
+        "right": {
+          "label": "Granito real",
+          "sub": "mucho más caro, efecto similar"
+        }
+      }
+    },
+    {
+      "from": 32938,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "¿Dónde funciona este piso?",
+        "items": [
+          "Terrazas con techo",
+          "Pasillos interiores",
+          "Patios de servicio",
+          "No en exteriores con lluvia directa"
+        ]
+      }
+    },
+    {
+      "from": 34313,
+      "dur": 176,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "title": "LO QUE TE COBRAN",
+        "rows": [
+          {
+            "label": "Visita de un técnico a tu casa",
+            "price": "una consulta cara",
+            "bad": true
+          },
+          {
+            "label": "Biblioteca del Maestro completa",
+            "price": "menos que esa visita"
+          }
+        ],
+        "total": {
+          "label": "Garantía",
+          "price": "7 días con Hotmart"
+        },
+        "stamp": "AHORRO"
+      }
+    }
+  ]
+}
