@@ -1,0 +1,2200 @@
+{
+  "slug": "vital-water-yellow-smile",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 40362,
+  "audioSrc": "vital-water-yellow-smile.mp3",
+  "avatarSrc": "vital-water-yellow-smile_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 767,
+      "dur": 1050,
+      "clip": 0
+    },
+    {
+      "from": 12026,
+      "dur": 1050,
+      "clip": 1050
+    },
+    {
+      "from": 34813,
+      "dur": 2076,
+      "clip": 2100
+    },
+    {
+      "from": 39212,
+      "dur": 1045,
+      "clip": 4176
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 343,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 527,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1817,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2147,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s02.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2545,
+      "dur": 280,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s03.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2825,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2946,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3305,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s87.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3380,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s06.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3452,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s10.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3570,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s07.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3776,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s08.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4140,
+      "dur": 336,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s08.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4476,
+      "dur": 371,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s09.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4847,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s11.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5006,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s12.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5111,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s13.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5302,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s14.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5468,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s15.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5566,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s16.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5879,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s16.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6127,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s17.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6238,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s18.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6402,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s19.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6738,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s19.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7068,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s19.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7188,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s20.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7285,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s21.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7492,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s22.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7670,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s23.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8152,
+      "dur": 324,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s23.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8476,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s24.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8578,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s25.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8716,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s26.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9079,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s28.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9409,
+      "dur": 326,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s27.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9735,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s29.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9905,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s30.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10081,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s31.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10418,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s31.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10613,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s32.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10875,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s33.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10983,
+      "dur": 233,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s34.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11216,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s35.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11702,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s35.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11900,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s36.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13076,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s37.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13213,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s38.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13353,
+      "dur": 53,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s39.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13616,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s39.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13856,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s40.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14082,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s41.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14183,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s42.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14344,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s43.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14513,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s44.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14624,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s45.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14712,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s46.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14965,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s47.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15137,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s48.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15540,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s48.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15665,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s49.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15742,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s50.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16042,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s51.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16221,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s52.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16413,
+      "dur": 250,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s53.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16663,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s54.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16781,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s123.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16904,
+      "dur": 64,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s56.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16968,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s57.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17116,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s125.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17299,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s59.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17454,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s60.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17650,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s61.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18042,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s62.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18252,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s63.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18425,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s64.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18803,
+      "dur": 260,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s58.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19063,
+      "dur": 80,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s65.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19143,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s66.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19356,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s67.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19514,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s68.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19706,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s69.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19884,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s70.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19986,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s71.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20110,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s72.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20278,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s73.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20704,
+      "dur": 271,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s55.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20975,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s74.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21103,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s75.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21212,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s76.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21381,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s77.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21515,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s78.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21590,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s79.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21718,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s80.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21846,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s81.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21965,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s82.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22058,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s83.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22237,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s84.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22427,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s85.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22661,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s86.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23151,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s86.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23283,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s135.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23381,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s88.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23536,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s89.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23756,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s90.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24086,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s90.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24416,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s90.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24526,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s91.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24722,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s92.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24905,
+      "dur": 236,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s93.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25381,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s93.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25572,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s94.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25738,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s95.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26207,
+      "dur": 307,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s96.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26514,
+      "dur": 271,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s97.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26785,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s98.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26873,
+      "dur": 223,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s99.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27366,
+      "dur": 50,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s99.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27416,
+      "dur": 243,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s100.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27659,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s101.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27872,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s102.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27944,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s103.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28109,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s104.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28241,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s105.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28488,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s106.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28637,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s107.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28766,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s108.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28869,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s109.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29058,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s110.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29426,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s110.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29626,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s111.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29749,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s112.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29883,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s113.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30014,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s114.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30155,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s115.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30277,
+      "dur": 275,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s116.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30552,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s117.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30698,
+      "dur": 338,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s118.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31036,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s120.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31129,
+      "dur": 91,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s121.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31220,
+      "dur": 304,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s122.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31764,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s119.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31958,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s124.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32288,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s124.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32336,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s126.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32817,
+      "dur": 353,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s126.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33170,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s127.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33400,
+      "dur": 67,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s128.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33707,
+      "dur": 238,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s128.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33945,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s129.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34078,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s130.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34251,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s131.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 34400,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s132.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34610,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s133.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 36889,
+      "dur": 353,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s134.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 37512,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s134.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 37684,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s136.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 37777,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s137.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 38259,
+      "dur": 288,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s137.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 38547,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s138.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 38645,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s139.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 38975,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s139.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 40257,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/vital-water-yellow-smile_s139.png",
+      "kb": 1,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 7,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "THE PROBLEM",
+        "title": "A dull, yellowing smile"
+      }
+    },
+    {
+      "from": 767,
+      "dur": 180,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "VITAL AFTER 60",
+        "title": "Dr. Alan Brooks",
+        "sub": "Caring for your smile after 60"
+      }
+    },
+    {
+      "from": 3380,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REASON 1",
+        "title": "Enamel changes with age"
+      }
+    },
+    {
+      "from": 4309,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "DENTIN",
+        "sub": "The yellow layer beneath",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 5302,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REASON 2",
+        "title": "Years of staining add up"
+      }
+    },
+    {
+      "from": 5910,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CHROMOGENS",
+        "sub": "Pigments that stain enamel",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 6990,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REASON 3",
+        "title": "Dry mouth"
+      }
+    },
+    {
+      "from": 8716,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REASON 4",
+        "title": "Diet and hydration"
+      }
+    },
+    {
+      "from": 9735,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REASON 5",
+        "title": "A history of smoking"
+      }
+    },
+    {
+      "from": 10875,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REASON 6",
+        "title": "Old dental work"
+      }
+    },
+    {
+      "from": 12172,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Vital After 60 Guides",
+        "hint": "point your camera 📷"
+      }
+    },
+    {
+      "from": 12687,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Vital After 60 Guides",
+        "hint": "point your camera 📷"
+      }
+    },
+    {
+      "from": 12694,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Vital After 60 Guides",
+        "hint": "point your camera 📷"
+      }
+    },
+    {
+      "from": 13103,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "THE HABIT",
+        "title": "What to add to your water"
+      }
+    },
+    {
+      "from": 13856,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ALKALINE",
+        "sub": "Neutralizes mouth acid",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 16904,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATTENTION",
+        "sub": "Check with your doctor if you're on a low-sodium diet",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 17650,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "STEP BY STEP",
+        "title": "How to use it"
+      }
+    },
+    {
+      "from": 19143,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "TIMING",
+        "sub": "Right after staining drinks",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 19706,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 1,
+        "suffix": "x/day",
+        "label": "A reasonable starting point",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 20110,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CHECK IN",
+        "title": "Is it working for you?"
+      }
+    },
+    {
+      "from": 21846,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "GOOD SIGN",
+        "sub": "A modest visible difference means it's working for you",
+        "tone": "good"
+      }
+    },
+    {
+      "from": 22058,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "STRUCTURAL",
+        "sub": "Deeper than surface staining",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 27659,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "BE CAREFUL",
+        "title": "Seven common mistakes"
+      }
+    },
+    {
+      "from": 27872,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "MISTAKE",
+        "num": 1,
+        "text": "Overdoing the rinse"
+      }
+    },
+    {
+      "from": 28241,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "NOT MORE",
+        "sub": "More isn't better here",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 28766,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "MISTAKE",
+        "num": 2,
+        "text": "Using lemon water instead"
+      }
+    },
+    {
+      "from": 30155,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "MISTAKE",
+        "num": 3,
+        "text": "Skipping the basics"
+      }
+    },
+    {
+      "from": 31036,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "MISTAKE",
+        "num": 4,
+        "text": "Expecting overnight results"
+      }
+    },
+    {
+      "from": 31958,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "MISTAKE",
+        "num": 5,
+        "text": "Ignoring dry mouth"
+      }
+    },
+    {
+      "from": 32926,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "MISTAKE",
+        "num": 6,
+        "text": "Rinsing at the wrong time"
+      }
+    },
+    {
+      "from": 33787,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "MISTAKE",
+        "num": 7,
+        "text": "Skipping your dentist"
+      }
+    },
+    {
+      "from": 33945,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SENSITIVITY",
+        "sub": "A sign to see your dentist",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 34078,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "SEE YOUR DENTIST",
+        "sub": "A single darkened tooth needs a professional look",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 35305,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Vital After 60 Guides",
+        "hint": "point your camera 📷"
+      }
+    },
+    {
+      "from": 35839,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RECAP",
+        "title": "Everything we covered"
+      }
+    },
+    {
+      "from": 40113,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Vital After 60 Guides",
+        "hint": "point your camera 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 133,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NOTICE THIS?",
+        "phrase": "That dull, yellowish cast your smile didn't have before",
+        "accent": "dull, yellowish cast",
+        "src": "img/vital-water-yellow-smile_s01.png"
+      }
+    },
+    {
+      "from": 2245,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "WHAT YOU'LL LEARN",
+        "title": "In this video",
+        "steps": [
+          {
+            "title": "Why it happens",
+            "sub": "Six real physical reasons"
+          },
+          {
+            "title": "The water habit",
+            "sub": "What to add and how to use it"
+          },
+          {
+            "title": "Mistakes to avoid",
+            "sub": "Plus a simple weekly plan"
+          }
+        ]
+      }
+    },
+    {
+      "from": 3035,
+      "dur": 270,
+      "comp": "WeekPlanner",
+      "props": {
+        "theme": "earth",
+        "title": "Your gentle 4-week plan ahead",
+        "days": [
+          {
+            "d": "Wk1",
+            "t": "Build your baseline"
+          },
+          {
+            "d": "Wk2",
+            "t": "Add steady hydration"
+          },
+          {
+            "d": "Wk3",
+            "t": "Watch how you feel"
+          },
+          {
+            "d": "Wk4",
+            "t": "Compare and check in"
+          }
+        ]
+      }
+    },
+    {
+      "from": 3900,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Two layers of your tooth",
+        "left": {
+          "label": "Enamel",
+          "sub": "White, thin, translucent"
+        },
+        "right": {
+          "label": "Dentin",
+          "sub": "Naturally yellow, shows through"
+        }
+      }
+    },
+    {
+      "from": 5669,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Common staining culprits",
+        "items": [
+          "Coffee",
+          "Red wine",
+          "Black tea",
+          "Berries",
+          "Tomato sauce"
+        ]
+      }
+    },
+    {
+      "from": 6558,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "THE BUILDUP",
+        "value": 40,
+        "prefix": "",
+        "suffix": " years",
+        "label": "of gentle staining can quietly add up"
+      }
+    },
+    {
+      "from": 7912,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Medications that can dry your mouth",
+        "items": [
+          "Blood pressure meds",
+          "Allergy medication",
+          "Sleep aids",
+          "Mood medication",
+          "Cholesterol drugs"
+        ]
+      }
+    },
+    {
+      "from": 8839,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Week 2: steady hydration",
+        "items": [
+          "Glass of water with breakfast",
+          "Glass at lunch",
+          "Glass mid-afternoon",
+          "Glass with dinner"
+        ]
+      }
+    },
+    {
+      "from": 10208,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Quitting smoking years ago erased the staining",
+        "truth": "Tobacco staining can remain deep in enamel for years"
+      }
+    },
+    {
+      "from": 11462,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Old work vs. natural teeth",
+        "left": {
+          "label": "Fillings & crowns",
+          "sub": "Fixed shade, can't lighten"
+        },
+        "right": {
+          "label": "Natural enamel",
+          "sub": "Can respond to habits"
+        }
+      }
+    },
+    {
+      "from": 13406,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "THE HABIT",
+        "phrase": "A small pinch of baking soda dissolved in water",
+        "accent": "baking soda",
+        "src": "img/vital-water-yellow-smile_s39.png"
+      }
+    },
+    {
+      "from": 15300,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "This habit will bleach your teeth white overnight",
+        "truth": "It's a gentle, supportive habit, not a bleaching treatment"
+      }
+    },
+    {
+      "from": 17742,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HOW TO USE IT",
+        "title": "The simple rinse",
+        "steps": [
+          {
+            "title": "Mix",
+            "sub": "1/4 tsp baking soda in 8 oz water"
+          },
+          {
+            "title": "Swish",
+            "sub": "About 30 seconds, all around"
+          },
+          {
+            "title": "Rinse or spit",
+            "sub": "Follow with plain water if you like"
+          }
+        ]
+      }
+    },
+    {
+      "from": 18623,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "THE AMOUNT",
+        "value": 8,
+        "prefix": "",
+        "suffix": " oz",
+        "label": "glass of water with a quarter-teaspoon of baking soda"
+      }
+    },
+    {
+      "from": 20434,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Your 4-week check-in",
+        "items": [
+          "Take a baseline photo today",
+          "Note your coffee, tea and wine intake",
+          "Rinse once daily for 3-4 weeks",
+          "Take a comparison photo, same lighting"
+        ]
+      }
+    },
+    {
+      "from": 22881,
+      "dur": 270,
+      "comp": "WeekPlanner",
+      "props": {
+        "theme": "earth",
+        "title": "Week 1: establish your baseline",
+        "days": [
+          {
+            "d": "Mon",
+            "t": "Take baseline photo"
+          },
+          {
+            "d": "Wed",
+            "t": "Start the rinse"
+          },
+          {
+            "d": "Fri",
+            "t": "Track your drinks"
+          },
+          {
+            "d": "Sun",
+            "t": "Keep routine the same"
+          }
+        ]
+      }
+    },
+    {
+      "from": 25141,
+      "dur": 240,
+      "comp": "WeekPlanner",
+      "props": {
+        "theme": "earth",
+        "title": "Week 3: watch how you feel",
+        "days": [
+          {
+            "d": "Mon",
+            "t": "Check gums & cheeks"
+          },
+          {
+            "d": "Thu",
+            "t": "Note any sensitivity"
+          },
+          {
+            "d": "Sat",
+            "t": "Rest if sore",
+            "rest": true
+          }
+        ]
+      }
+    },
+    {
+      "from": 25937,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "IS IT NORMAL?",
+        "title": "How your mouth should feel",
+        "steps": [
+          {
+            "title": "Mild taste change",
+            "sub": "Normal in week 1-2"
+          },
+          {
+            "title": "Settles by week 3",
+            "sub": "Should feel normal again"
+          },
+          {
+            "title": "Ongoing soreness?",
+            "sub": "Scale back or pause"
+          }
+        ]
+      }
+    },
+    {
+      "from": 27096,
+      "dur": 270,
+      "comp": "WeekPlanner",
+      "props": {
+        "theme": "earth",
+        "title": "Week 4: compare & book a cleaning",
+        "days": [
+          {
+            "d": "Mon",
+            "t": "Comparison photo"
+          },
+          {
+            "d": "Wed",
+            "t": "Honest review with a friend"
+          },
+          {
+            "d": "Fri",
+            "t": "Book a cleaning"
+          }
+        ]
+      }
+    },
+    {
+      "from": 29186,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Lemon water brightens and whitens your smile",
+        "truth": "Its acid can soften and erode your enamel"
+      }
+    },
+    {
+      "from": 31524,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "A patient mindset",
+        "items": [
+          "Give it 3 to 4 full weeks",
+          "Don't check the mirror daily",
+          "Lighting fools your eyes",
+          "Compare photos, not memory"
+        ]
+      }
+    },
+    {
+      "from": 32547,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MISTAKE 5",
+        "title": "Ease dry mouth naturally",
+        "steps": [
+          {
+            "title": "Ask your doctor",
+            "sub": "About medication alternatives"
+          },
+          {
+            "title": "Try a humidifier",
+            "sub": "Run one at night"
+          },
+          {
+            "title": "Stimulate saliva",
+            "sub": "Sugar-free gum or lozenges"
+          }
+        ]
+      }
+    },
+    {
+      "from": 33467,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Timing changes the result",
+        "left": {
+          "label": "Right after coffee or wine",
+          "sub": "Fresh acid to neutralize"
+        },
+        "right": {
+          "label": "First thing in the morning",
+          "sub": "Little stain left to address"
+        }
+      }
+    },
+    {
+      "from": 37242,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Tonight's takeaway",
+        "items": [
+          "A pinch of baking soda in water",
+          "Swish for 30 seconds, once a day",
+          "Best right after coffee, tea or wine",
+          "Not a bleaching treatment"
+        ]
+      }
+    },
+    {
+      "from": 37989,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "THE FOUNDATION",
+        "title": "What still matters most",
+        "steps": [
+          {
+            "title": "Brush twice daily",
+            "sub": "Fluoride toothpaste"
+          },
+          {
+            "title": "Floss daily",
+            "sub": "A non-negotiable basic"
+          },
+          {
+            "title": "See your dentist",
+            "sub": "Regular checkups"
+          }
+        ]
+      }
+    },
+    {
+      "from": 38765,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "THE REAL GOAL",
+        "phrase": "One sensible, low-risk habit alongside the fundamentals",
+        "accent": "low-risk habit",
+        "src": "img/vital-water-yellow-smile_s139.png"
+      }
+    }
+  ]
+}
