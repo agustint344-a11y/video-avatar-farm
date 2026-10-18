@@ -1,0 +1,1970 @@
+{
+  "slug": "juantombo-bicarbonato-acidez",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 35220,
+  "audioSrc": "juantombo-bicarbonato-acidez.mp3",
+  "avatarSrc": "juantombo-bicarbonato-acidez_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1463,
+      "dur": 1578,
+      "clip": 0
+    },
+    {
+      "from": 4616,
+      "dur": 639,
+      "clip": 1578
+    },
+    {
+      "from": 26579,
+      "dur": 563,
+      "clip": 2217
+    },
+    {
+      "from": 33694,
+      "dur": 1046,
+      "clip": 2780
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 93,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 234,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 548,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s04.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 667,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s05.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1073,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s05.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1268,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s06.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3041,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s35.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3116,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s07.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3314,
+      "dur": 67,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s08.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3591,
+      "dur": 53,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s18.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3644,
+      "dur": 289,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s09.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3933,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s10.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4277,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4452,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s11.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5255,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s12.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5489,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s14.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5570,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s15.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6009,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s13.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6175,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s16.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6288,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s17.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6460,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s19.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6781,
+      "dur": 274,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s19.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7055,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s20.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7117,
+      "dur": 258,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s21.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7375,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s23.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7448,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s24.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7809,
+      "dur": 260,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s22.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8069,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s89.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8266,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s26.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8469,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s27.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8635,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s28.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9028,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s25.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9220,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s29.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9338,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s30.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9448,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s31.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9600,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s32.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9732,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s33.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9826,
+      "dur": 250,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s34.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10076,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s36.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10448,
+      "dur": 307,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s36.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10755,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s37.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10855,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s38.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11018,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s39.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11195,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s40.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11484,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s40.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11695,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s42.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11922,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s43.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12099,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s45.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12461,
+      "dur": 361,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s44.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12822,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s46.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13014,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s47.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13194,
+      "dur": 53,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s48.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13517,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s41.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13730,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s49.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13894,
+      "dur": 205,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s50.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14339,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s50.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14500,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s51.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14651,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s53.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14753,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s54.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14926,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s55.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15368,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s52.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15580,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s56.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15635,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s57.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15773,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s58.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16183,
+      "dur": 256,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s58.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16439,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s60.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16538,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s61.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16981,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s59.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17054,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s62.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17224,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s63.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17647,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s63.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17802,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s64.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17970,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s65.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18119,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s66.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18521,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s66.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18701,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s67.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18812,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s68.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19013,
+      "dur": 236,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s69.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19519,
+      "dur": 289,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s69.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19808,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s70.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19910,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s71.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19987,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s72.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20131,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s73.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20298,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s74.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20465,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s75.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20686,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s76.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20997,
+      "dur": 378,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s76.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21375,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s78.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21570,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s79.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21659,
+      "dur": 269,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s80.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21928,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s81.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22130,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s82.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22306,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s83.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22493,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s84.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22892,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s77.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23129,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s86.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23270,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s87.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23819,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s88.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23966,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s90.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24302,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s85.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24632,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s85.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24718,
+      "dur": 218,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s91.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25266,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s92.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25369,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s93.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25733,
+      "dur": 281,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s93.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26344,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s95.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26429,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s96.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27142,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s97.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27273,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s98.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27638,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s94.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27803,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s99.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27928,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s100.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28156,
+      "dur": 54,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s101.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28210,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s102.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28355,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s103.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28680,
+      "dur": 205,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s103.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28885,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s104.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29035,
+      "dur": 54,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s105.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29089,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s106.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29217,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s107.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29399,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s108.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29558,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s109.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29752,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s110.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29917,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s111.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30032,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s112.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30240,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s113.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30646,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s113.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30754,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s114.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30902,
+      "dur": 54,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s115.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30956,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s116.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31286,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s116.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31616,
+      "dur": 257,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s116.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31873,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s117.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32186,
+      "dur": 324,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s117.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32510,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s118.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32691,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s119.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32772,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s120.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33070,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s120.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33223,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s121.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33410,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s122.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33538,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s123.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34740,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s123.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 35070,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/juantombo-bicarbonato-acidez_s123.png",
+      "kb": 5,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EPISODIO DE HOY",
+        "title": "La cucharadita de siempre"
+      }
+    },
+    {
+      "from": 1463,
+      "dur": 135,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "DR. JUAN TOMBO",
+        "title": "Dr. Juan Tombo",
+        "sub": "Remedios caseros, explicados con honestidad"
+      }
+    },
+    {
+      "from": 1991,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CASO CLÍNICO",
+        "title": "Un paciente en consulta"
+      }
+    },
+    {
+      "from": 4850,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_juantombo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dr. Juan Tombo",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 5098,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_juantombo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dr. Juan Tombo",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 5247,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "Por qué calma tan rápido"
+      }
+    },
+    {
+      "from": 6175,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ARDOR",
+        "sub": "ese fuego que sube hasta la garganta",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 6917,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ALIVIO RÁPIDO",
+        "sub": "por eso tanta gente jura por él",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 7345,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "Alivio sí, cura no"
+      }
+    },
+    {
+      "from": 8058,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "PATRÓN",
+        "sub": "no un episodio aislado",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 8266,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 6,
+        "suffix": " veces/sem",
+        "label": "Ya es un patrón, no un episodio",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 9732,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "El sodio que no ves"
+      }
+    },
+    {
+      "from": 10755,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 3,
+        "suffix": " veces al día",
+        "label": "Así empezó a sumar sodio sin notarlo",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 11843,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SODIO OCULTO",
+        "sub": "nadie lo anota como comida",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 12059,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "title": "Alcalosis metabólica"
+      }
+    },
+    {
+      "from": 14610,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 5",
+        "title": "El efecto rebote"
+      }
+    },
+    {
+      "from": 15773,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CÍRCULO VICIOSO",
+        "sub": "más bicarbonato, más rebote",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 16406,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 6",
+        "title": "Quién debe tener cuidado"
+      }
+    },
+    {
+      "from": 16538,
+      "dur": 135,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "GRUPOS DE RIESGO",
+        "sub": "Presión alta, corazón o riñón: consultá antes de hacerlo rutina",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 18812,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PARTE PRÁCTICA",
+        "title": "Cómo usarlo bien"
+      }
+    },
+    {
+      "from": 20131,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SEÑAL DE ALERTA",
+        "sub": "dos semanas ya es demasiado",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 20465,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 1,
+        "text": "Tomarlo con el estómago vacío"
+      }
+    },
+    {
+      "from": 21126,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 2,
+        "text": "Mezclarlo con otros antiácidos"
+      }
+    },
+    {
+      "from": 21659,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 3,
+        "text": "Agregarle limón o vinagre"
+      }
+    },
+    {
+      "from": 22493,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 4,
+        "text": "No revisar qué estás comiendo"
+      }
+    },
+    {
+      "from": 23129,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ENCONTRÁ EL PATRÓN",
+        "sub": "anotá qué comiste esa noche",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 26744,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_juantombo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dr. Juan Tombo",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 27134,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MITOS COMUNES",
+        "title": "Dos ideas equivocadas"
+      }
+    },
+    {
+      "from": 29089,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ALERTA MÉDICA",
+        "title": "Señales que no esperan"
+      }
+    },
+    {
+      "from": 29399,
+      "dur": 135,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "Dolor que llega al brazo o la mandíbula no es digestivo: puede ser cardíaco",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 30032,
+      "dur": 135,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "NO ES BICARBONATO",
+        "sub": "Dificultad para tragar o pérdida de peso necesita evaluación médica",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 33802,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_juantombo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dr. Juan Tombo",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 35127,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_juantombo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dr. Juan Tombo",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 338,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL ALIVIO EXPRÉS",
+        "phrase": "El ardor baja en minutos... pero no sin consecuencias",
+        "accent": "en minutos",
+        "src": "img/juantombo-bicarbonato-acidez_s03.png"
+      }
+    },
+    {
+      "from": 833,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "QUÉ PUEDE PASAR SI ES DIARIO",
+        "items": [
+          "Sube la presión arterial",
+          "Desequilibra la química de la sangre",
+          "En casos extremos, termina en guardia"
+        ]
+      }
+    },
+    {
+      "from": 3381,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL CASO REAL",
+        "phrase": "No fue magia: fue quitar sodio que sumaba cada día",
+        "accent": "sodio que sumaba",
+        "src": "img/juantombo-bicarbonato-acidez_s08.png"
+      }
+    },
+    {
+      "from": 4007,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HOY VAS A VER",
+        "title": "Lo que vas a aprender hoy",
+        "steps": [
+          {
+            "title": "Por qué calma la acidez",
+            "sub": "y cuándo tiene sentido usarlo"
+          },
+          {
+            "title": "Qué pasa si es diario",
+            "sub": "con nombres y razones concretas"
+          },
+          {
+            "title": "Cómo usarlo seguro",
+            "sub": "y qué señales piden un médico"
+          }
+        ]
+      }
+    },
+    {
+      "from": 5769,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "POR QUÉ DUELE EN EL ESÓFAGO",
+        "left": {
+          "label": "Estómago",
+          "sub": "Tiene una capa protectora para el ácido"
+        },
+        "right": {
+          "label": "Esófago",
+          "sub": "No tiene esa protección: por eso arde"
+        }
+      }
+    },
+    {
+      "from": 6601,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REACCIÓN QUÍMICA",
+        "phrase": "El bicarbonato neutraliza el ácido en minutos",
+        "accent": "neutraliza el ácido",
+        "src": "img/juantombo-bicarbonato-acidez_s19.png"
+      }
+    },
+    {
+      "from": 7569,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El bicarbonato cura la acidez",
+        "truth": "Solo apaga el síntoma; la causa sigue intacta"
+      }
+    },
+    {
+      "from": 8788,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "CAUSAS FRECUENTES DE ACIDEZ",
+        "items": [
+          "Reflujo gastroesofágico",
+          "Hernia de hiato",
+          "Cenar tarde y acostarte enseguida",
+          "Mucho café con el estómago vacío"
+        ]
+      }
+    },
+    {
+      "from": 10208,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SODIO ESCONDIDO",
+        "phrase": "Una cucharadita aporta tanto sodio como una sopa instantánea",
+        "accent": "tanto sodio",
+        "src": "img/juantombo-bicarbonato-acidez_s36.png"
+      }
+    },
+    {
+      "from": 11274,
+      "dur": 210,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RIESGO",
+        "value": 70,
+        "max": 100,
+        "suffix": "%",
+        "label": "Sodio extra puede elevar tu presión arterial"
+      }
+    },
+    {
+      "from": 12221,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EQUILIBRIO FRÁGIL",
+        "phrase": "Tu sangre funciona en un rango de acidez muy estrecho",
+        "accent": "muy estrecho",
+        "src": "img/juantombo-bicarbonato-acidez_s45.png"
+      }
+    },
+    {
+      "from": 13247,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "SEÑALES DE ALCALOSIS LEVE",
+        "items": [
+          "Cansancio sin explicación",
+          "Debilidad muscular y calambres",
+          "Hormigueo en manos o boca",
+          "Confusión leve o dolor de cabeza"
+        ]
+      }
+    },
+    {
+      "from": 14099,
+      "dur": 240,
+      "comp": "CartelPrecaucion",
+      "props": {
+        "theme": "earth",
+        "title": "PRECAUCIÓN",
+        "text": "Si ya tenés un problema renal o cardíaco, la alcalosis pesa más",
+        "sub": "Prestá atención a calambres, hormigueo o cansancio raro"
+      }
+    },
+    {
+      "from": 15128,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL EFECTO REBOTE",
+        "phrase": "Horas después, tu estómago produce más ácido que antes",
+        "accent": "más ácido que antes",
+        "src": "img/juantombo-bicarbonato-acidez_s55.png"
+      }
+    },
+    {
+      "from": 15943,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "EL CÍRCULO DEL REBOTE",
+        "left": {
+          "label": "Más bicarbonato",
+          "sub": "calma el ácido por un rato"
+        },
+        "right": {
+          "label": "Más rebote",
+          "sub": "y vuelve con más fuerza después"
+        }
+      }
+    },
+    {
+      "from": 16681,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "QUIÉN DEBE TENER CUIDADO",
+        "items": [
+          "Presión arterial alta",
+          "Insuficiencia cardíaca",
+          "Enfermedad renal",
+          "Adultos mayores",
+          "Quienes toman ciertos medicamentos"
+        ]
+      }
+    },
+    {
+      "from": 17407,
+      "dur": 240,
+      "comp": "CartelPrecaucion",
+      "props": {
+        "theme": "earth",
+        "title": "PRECAUCIÓN",
+        "text": "Presión alta, corazón, riñón o edad avanzada: hablá con tu médico antes",
+        "sub": "El bicarbonato diario no es igual para todos"
+      }
+    },
+    {
+      "from": 18281,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Es solo bicarbonato, no interactúa con nada",
+        "truth": "Puede alterar cómo el cuerpo absorbe otros medicamentos"
+      }
+    },
+    {
+      "from": 19249,
+      "dur": 270,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA DOSIS",
+        "value": 200,
+        "prefix": "",
+        "suffix": " ml",
+        "label": "media cucharadita disuelta en un vaso de agua"
+      }
+    },
+    {
+      "from": 20787,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR FRECUENTE",
+        "phrase": "El estómago vacío reacciona distinto al bicarbonato",
+        "accent": "reacciona distinto",
+        "src": "img/juantombo-bicarbonato-acidez_s76.png"
+      }
+    },
+    {
+      "from": 22652,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "ANTES DE REPETIR LA DOSIS",
+        "items": [
+          "Anotá qué comiste esa noche",
+          "Fijate la hora de la cena",
+          "Dos semanas alcanzan para ver el patrón"
+        ]
+      }
+    },
+    {
+      "from": 23489,
+      "dur": 330,
+      "comp": "SemaforoVeredicto",
+      "props": {
+        "theme": "earth",
+        "title": "¿Nivel 1: ocasional?",
+        "light": "verde",
+        "verdict": "SÍ SIRVE",
+        "reasons": [
+          "Acidez 1-2 veces al mes",
+          "Causa identificada y puntual",
+          "No deja secuelas ni se repite al día siguiente"
+        ]
+      }
+    },
+    {
+      "from": 24092,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SUBIENDO DE NIVEL",
+        "phrase": "Si cada vez necesitás más dosis, algo cambió",
+        "accent": "algo cambió",
+        "src": "img/juantombo-bicarbonato-acidez_s89.png"
+      }
+    },
+    {
+      "from": 24936,
+      "dur": 330,
+      "comp": "SemaforoVeredicto",
+      "props": {
+        "theme": "earth",
+        "title": "¿Nivel 2: semanal?",
+        "light": "amarillo",
+        "verdict": "CON CUIDADO",
+        "reasons": [
+          "Acidez 1-2 veces por semana",
+          "Necesitás cada vez más dosis",
+          "Momento de anotar hábitos y consultar"
+        ]
+      }
+    },
+    {
+      "from": 25523,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PERDISTE LA CUENTA",
+        "phrase": "Bicarbonato a diario sin saber cuánto es demasiado",
+        "accent": "sin saber cuánto",
+        "src": "img/juantombo-bicarbonato-acidez_s93.png"
+      }
+    },
+    {
+      "from": 26014,
+      "dur": 330,
+      "comp": "SemaforoVeredicto",
+      "props": {
+        "theme": "earth",
+        "title": "¿Nivel 3: diario?",
+        "light": "rojo",
+        "verdict": "NO LO HAGAS SOLO",
+        "reasons": [
+          "Uso diario desde semanas o meses",
+          "Presión, corazón o riñón de por medio",
+          "Perdiste la cuenta de cuánto tomás"
+        ]
+      }
+    },
+    {
+      "from": 27398,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Alcaliniza la sangre y por eso conviene tomarlo a diario",
+        "truth": "Tu sangre ya se regula sola; forzarlo puede causar alcalosis"
+      }
+    },
+    {
+      "from": 28440,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MITO 2",
+        "phrase": "Que sea natural no significa que no tenga riesgos",
+        "accent": "no significa que no tenga riesgos",
+        "src": "img/juantombo-bicarbonato-acidez_s103.png"
+      }
+    },
+    {
+      "from": 30376,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "SEÑALES DE ALARMA",
+        "items": [
+          "Dolor que se extiende al brazo o la mandíbula",
+          "Dificultad para tragar o comida atascada",
+          "Hinchazón y falta de aire al esforzarte"
+        ]
+      }
+    },
+    {
+      "from": 31976,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TRES RIESGOS",
+        "value": 3,
+        "prefix": "",
+        "suffix": "",
+        "label": "sodio, alcalosis y efecto rebote si es diario"
+      }
+    },
+    {
+      "from": 32860,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA REGLA DE ORO",
+        "phrase": "Usá el bicarbonato para el síntoma, no para el patrón",
+        "accent": "no para el patrón",
+        "src": "img/juantombo-bicarbonato-acidez_s120.png"
+      }
+    }
+  ]
+}
