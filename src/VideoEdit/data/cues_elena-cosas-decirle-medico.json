@@ -1,0 +1,2180 @@
+{
+  "slug": "elena-cosas-decirle-medico",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 36461,
+  "audioSrc": "elena-cosas-decirle-medico.mp3",
+  "avatarSrc": "elena-cosas-decirle-medico_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1166,
+      "dur": 1050,
+      "clip": 0
+    },
+    {
+      "from": 2838,
+      "dur": 515,
+      "clip": 1050
+    },
+    {
+      "from": 4147,
+      "dur": 568,
+      "clip": 1565
+    },
+    {
+      "from": 19214,
+      "dur": 797,
+      "clip": 2133
+    },
+    {
+      "from": 34415,
+      "dur": 671,
+      "clip": 2930
+    },
+    {
+      "from": 35489,
+      "dur": 923,
+      "clip": 3601
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 403,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 589,
+      "dur": 70,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 659,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 946,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2216,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s03.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2574,
+      "dur": 264,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s03.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3353,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s04.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3645,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s108.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3829,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s05.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4005,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s06.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4715,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s08.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4859,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s09.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4994,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5429,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s11.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5611,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s12.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5659,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s13.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5921,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s102.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6281,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s14.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6502,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s15.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6729,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s73.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6806,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s17.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6987,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s18.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7063,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7408,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s20.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7595,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s21.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7674,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s22.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7847,
+      "dur": 49,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s23.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7896,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s24.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8268,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s16.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8489,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s25.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8649,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s26.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8726,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s67.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8860,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s27.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9082,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s29.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9201,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s30.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9322,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s31.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9438,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s32.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9631,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s33.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9772,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s34.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9907,
+      "dur": 236,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s35.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10353,
+      "dur": 310,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s28.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10663,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s36.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10877,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s37.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10999,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s38.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11096,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s39.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11156,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s40.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11381,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s41.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11513,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s43.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11874,
+      "dur": 289,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s07.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12163,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s111.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12313,
+      "dur": 223,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s45.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12536,
+      "dur": 282,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s46.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12818,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s48.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12925,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s49.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13049,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s50.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13211,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s51.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13304,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s52.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13469,
+      "dur": 215,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s53.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13894,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s115.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14120,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s54.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14314,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s55.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14504,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s57.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14711,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s58.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14999,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s104.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15329,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s87.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15566,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s61.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15677,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s62.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15773,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s63.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15923,
+      "dur": 49,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s97.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15972,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s65.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16118,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s66.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16394,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s68.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16607,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s69.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16655,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s70.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17055,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s64.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17138,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s71.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17234,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s72.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17468,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s74.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17620,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s75.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17834,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s77.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18086,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s56.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18416,
+      "dur": 327,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s56.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18743,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s79.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18854,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s80.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19136,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s47.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20011,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s82.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20188,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s83.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20312,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s84.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20456,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s85.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20630,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s86.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20978,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s81.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21308,
+      "dur": 57,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s81.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21365,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s88.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21512,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s89.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21740,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s91.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21906,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s92.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22067,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s93.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22187,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s94.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22568,
+      "dur": 264,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s128.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22832,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s95.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22988,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s96.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23153,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s98.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23273,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s99.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23372,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s100.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23507,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s101.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23918,
+      "dur": 321,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s78.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24239,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s103.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24392,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s105.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24599,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s106.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24743,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s107.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24911,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s109.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25154,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s60.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25358,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s110.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25604,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s112.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25835,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s113.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25979,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s114.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26099,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s116.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26225,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s117.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26381,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s118.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26543,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s119.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26780,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s120.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26912,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s121.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26998,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s131.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27077,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s122.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27470,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s44.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27608,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s123.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27821,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s124.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27959,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s126.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28064,
+      "dur": 51,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s127.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28295,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s125.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28625,
+      "dur": 279,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s125.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28904,
+      "dur": 54,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s129.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29138,
+      "dur": 264,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s90.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29402,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s130.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29863,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s76.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30022,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s132.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30151,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s133.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30272,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s134.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30374,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s135.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30671,
+      "dur": 285,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s59.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30956,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s136.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31037,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s137.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31412,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s42.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31742,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s42.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31790,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s138.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31937,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s139.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32321,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s139.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32540,
+      "dur": 51,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s140.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32591,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s141.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32978,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s141.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33308,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s141.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33638,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s141.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33968,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s141.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34298,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s141.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 35086,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s142.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 35339,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s142.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 36412,
+      "dur": 49,
+      "kind": "image",
+      "src": "img/elena-cosas-decirle-medico_s142.png",
+      "kb": 1,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 3,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ANTES DE EMPEZAR",
+        "title": "7 frases que no debes decir"
+      }
+    },
+    {
+      "from": 1586,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 8,
+        "suffix": " min",
+        "label": "Duró la consulta",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 1912,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "YA SE SABE",
+        "sub": "La frase que cierra puertas",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 2838,
+      "dur": 180,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "MÉTODO BIENESTAR NATURAL",
+        "title": "Dra. Elena Vidal",
+        "sub": "Remedios caseros y hábitos para cuidarte después de los 60"
+      }
+    },
+    {
+      "from": 3345,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EN ESTE VIDEO",
+        "title": "Las siete frases a evitar"
+      }
+    },
+    {
+      "from": 4380,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 4503,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 4707,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "Estoy bien, como siempre"
+      }
+    },
+    {
+      "from": 4745,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 1,
+        "text": "Decir 'estoy bien' sin pensar"
+      }
+    },
+    {
+      "from": 4859,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SIEMPRE BIEN",
+        "sub": "La respuesta automática",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 5659,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "No minimices el miedo a un diagnóstico serio",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 8649,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SÍNTOMA LEVE",
+        "sub": "Puede ser la primera señal",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 9048,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "Es normal, es la edad"
+      }
+    },
+    {
+      "from": 9082,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 2,
+        "text": "Culpar todo a la edad"
+      }
+    },
+    {
+      "from": 10493,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CAUSAS TRATABLES",
+        "sub": "No todo es envejecer",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 10877,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "IMPORTANTE",
+        "sub": "Un síntoma 'normal' puede tener causas tratables",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 12776,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "No quiero ser una carga"
+      }
+    },
+    {
+      "from": 12776,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 7",
+        "title": "Me las arreglo solo"
+      }
+    },
+    {
+      "from": 12818,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 3,
+        "text": "Minimizar para no molestar"
+      }
+    },
+    {
+      "from": 13469,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SIN FILTRO",
+        "sub": "Dilo todo, sin filtrar",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 15923,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "title": "No quiero más pastillas"
+      }
+    },
+    {
+      "from": 15923,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 6",
+        "title": "Ya me hice ese estudio"
+      }
+    },
+    {
+      "from": 15972,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 4,
+        "text": "Rechazar pastillas sin explicar"
+      }
+    },
+    {
+      "from": 16655,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "EL MOTIVO REAL",
+        "sub": "Explica por qué rechazas",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 20003,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 5",
+        "title": "Mi hijo dice, yo no lo noto"
+      }
+    },
+    {
+      "from": 20048,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 5,
+        "text": "Descalificar lo que notó tu familia"
+      }
+    },
+    {
+      "from": 21209,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ALERTA TEMPRANA",
+        "sub": "Lo que otros notan primero",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 23153,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 6,
+        "text": "Creer que el estudio sigue vigente"
+      }
+    },
+    {
+      "from": 24071,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "LA TENDENCIA",
+        "sub": "Un valor solo no alcanza",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 26099,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 7,
+        "suffix": "",
+        "label": "Frases a evitar",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 28457,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "DETALLES CONCRETOS",
+        "sub": "Oro para el médico",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 29171,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "SEGURIDAD",
+        "sub": "Contar las dificultades a tiempo evita caídas",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 29273,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "AUTOEVALUACIÓN",
+        "title": "¿Cuáles usas tú?"
+      }
+    },
+    {
+      "from": 30827,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TU PLAN",
+        "title": "Semana por semana"
+      }
+    },
+    {
+      "from": 32993,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "INFORMACIÓN HONESTA",
+        "sub": "Lo que tu médico necesita",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 33134,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RESUMEN",
+        "title": "Las 7 frases, mejoradas"
+      }
+    },
+    {
+      "from": 34754,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 35975,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 36362,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 163,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ANTES DE EMPEZAR",
+        "phrase": "Te va a doler un poco, pero te va a servir toda la vida",
+        "accent": "te va a servir toda la vida",
+        "src": "img/elena-cosas-decirle-medico_s01.png"
+      }
+    },
+    {
+      "from": 736,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Tu médico quiere engañarte",
+        "truth": "Algunas frases, dichas de buena fe, lo llevan por el camino equivocado"
+      }
+    },
+    {
+      "from": 2334,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Esto se repite en cada consultorio",
+        "items": [
+          "Respuestas automáticas",
+          "Síntomas minimizados",
+          "Consultas de 8 minutos",
+          "Mismas recetas de siempre"
+        ]
+      }
+    },
+    {
+      "from": 3435,
+      "dur": 210,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA ESTRUCTURA",
+        "title": "Cómo vamos a verlo",
+        "steps": [
+          {
+            "title": "El problema",
+            "sub": "Por qué juega en tu contra"
+          },
+          {
+            "title": "La señal",
+            "sub": "Cómo saber si te pasa"
+          },
+          {
+            "title": "El cambio",
+            "sub": "Qué decir en su lugar"
+          }
+        ]
+      }
+    },
+    {
+      "from": 5219,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL REFLEJO",
+        "phrase": "Bien, gracias, respondemos sin pensar, hasta en el consultorio",
+        "accent": "sin pensar",
+        "src": "img/elena-cosas-decirle-medico_s10.png"
+      }
+    },
+    {
+      "from": 6071,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Dos consultas posibles",
+        "left": {
+          "label": "Trámite de rutina",
+          "sub": "Renovar la receta y listo"
+        },
+        "right": {
+          "label": "Consulta real",
+          "sub": "Detectar algo a tiempo"
+        }
+      }
+    },
+    {
+      "from": 7228,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "UN EJEMPLO REAL",
+        "phrase": "No cargar las bolsas en un solo viaje es información valiosa",
+        "accent": "información valiosa",
+        "src": "img/elena-cosas-decirle-medico_s20.png"
+      }
+    },
+    {
+      "from": 8088,
+      "dur": 180,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CÓMO CONTARLO",
+        "title": "Datos, no conclusiones",
+        "steps": [
+          {
+            "title": "Desde cuándo",
+            "sub": "El momento en que empezó"
+          },
+          {
+            "title": "Frecuencia",
+            "sub": "Cuántas veces pasa"
+          },
+          {
+            "title": "Evolución",
+            "sub": "Mejora, empeora o sigue igual"
+          }
+        ]
+      }
+    },
+    {
+      "from": 10143,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Esto no es solo la edad",
+        "items": [
+          "Dolor articular intenso",
+          "Pérdida de equilibrio repetida",
+          "Olvidos que afectan tareas",
+          "Pérdida de apetito sostenida"
+        ]
+      }
+    },
+    {
+      "from": 11694,
+      "dur": 180,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Mismo dolor, dos lecturas",
+        "left": {
+          "label": "Desgaste normal",
+          "sub": "Se asume sin preguntar"
+        },
+        "right": {
+          "label": "Algo para revisar",
+          "sub": "Lo decide el médico, no tú"
+        }
+      }
+    },
+    {
+      "from": 13684,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que parece una pequeñez",
+        "items": [
+          "Hormigueo ocasional en los dedos",
+          "Mareo breve al levantarte",
+          "Zumbido pasajero en el oído"
+        ]
+      }
+    },
+    {
+      "from": 14819,
+      "dur": 180,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ANTES DE LA CITA",
+        "title": "Anota todo, sin filtrar",
+        "steps": [
+          {
+            "title": "Escribe",
+            "sub": "Todo lo que notaste"
+          },
+          {
+            "title": "No filtres",
+            "sub": "Deja que el médico decida"
+          },
+          {
+            "title": "Dilo primero",
+            "sub": "No al final de la consulta"
+          }
+        ]
+      }
+    },
+    {
+      "from": 16845,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "El verdadero motivo del rechazo",
+        "items": [
+          "Se me olvida tomarlas",
+          "Es el costo",
+          "Me dio mareos o malestar"
+        ]
+      }
+    },
+    {
+      "from": 17906,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SÉ ESPECÍFICO",
+        "phrase": "El último medicamento me dio mareos, no quiero que se repita",
+        "accent": "no quiero que se repita",
+        "src": "img/elena-cosas-decirle-medico_s77.png"
+      }
+    },
+    {
+      "from": 18956,
+      "dur": 180,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lleva esta lista siempre",
+        "items": [
+          "Nombre de cada medicamento",
+          "Dosis exacta",
+          "Suplementos y sin receta",
+          "Actualizarla si algo cambia"
+        ]
+      }
+    },
+    {
+      "from": 20768,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Si yo no lo noto, no puede ser real",
+        "truth": "A veces tu entorno lo detecta antes que tú"
+      }
+    },
+    {
+      "from": 22388,
+      "dur": 180,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MEJOR AÚN",
+        "title": "Que te acompañen a la consulta",
+        "steps": [
+          {
+            "title": "Fechas",
+            "sub": "Cuándo empezó el cambio"
+          },
+          {
+            "title": "Ejemplos",
+            "sub": "Situaciones concretas"
+          },
+          {
+            "title": "Sus palabras",
+            "sub": "Que lo cuente el familiar"
+          }
+        ]
+      }
+    },
+    {
+      "from": 23738,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LOS VALORES CAMBIAN",
+        "phrase": "Lo normal hace dos años puede no serlo hoy",
+        "accent": "puede no serlo hoy",
+        "src": "img/elena-cosas-decirle-medico_s102.png"
+      }
+    },
+    {
+      "from": 24974,
+      "dur": 180,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Rechazar vs. preguntar",
+        "left": {
+          "label": "Ya me lo hice",
+          "sub": "Cierra la conversación"
+        },
+        "right": {
+          "label": "¿Cada cuánto conviene?",
+          "sub": "Deja decidir al médico"
+        }
+      }
+    },
+    {
+      "from": 27260,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Riesgos que pasan desapercibidos",
+        "items": [
+          "Vivir solo",
+          "Escaleras sin pasamanos",
+          "Piso resbaladizo del baño"
+        ]
+      }
+    },
+    {
+      "from": 28115,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DETALLE CONCRETO",
+        "phrase": "Subir al banco para alcanzar la alacena ya me da inseguridad",
+        "accent": "me da inseguridad",
+        "src": "img/elena-cosas-decirle-medico_s127.png"
+      }
+    },
+    {
+      "from": 28958,
+      "dur": 180,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Admitir una dificultad es perder independencia",
+        "truth": "Contarlo a tiempo es lo que te mantiene independiente"
+      }
+    },
+    {
+      "from": 29623,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Autoevaluación rápida",
+        "items": [
+          "¿Dijiste 'bien, como siempre'?",
+          "¿Culpaste a la edad?",
+          "¿Callaste por no ser una carga?",
+          "¿Rechazaste pastillas sin explicar?"
+        ]
+      }
+    },
+    {
+      "from": 30491,
+      "dur": 180,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RESULTADO",
+        "value": 2,
+        "max": 7,
+        "suffix": "",
+        "label": "Dos respuestas sí o más: hay margen de mejora"
+      }
+    },
+    {
+      "from": 31232,
+      "dur": 180,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEMANA 1",
+        "title": "Antes de ir al médico",
+        "steps": [
+          {
+            "title": "15 minutos",
+            "sub": "Escribe lo que notaste"
+          },
+          {
+            "title": "Sin filtrar",
+            "sub": "Cansancio, sueño, memoria"
+          },
+          {
+            "title": "Todo el mes",
+            "sub": "No solo lo de hoy"
+          }
+        ]
+      }
+    },
+    {
+      "from": 32111,
+      "dur": 210,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "El plan, semana por semana",
+        "steps": [
+          {
+            "when": "Semana 1",
+            "text": "Anota todo lo que notaste, sin filtrar"
+          },
+          {
+            "when": "Semana 2",
+            "text": "Suma observaciones de tu familia y la lista de medicamentos"
+          },
+          {
+            "when": "Día de la consulta",
+            "text": "Lleva ambas listas y usa las frases nuevas"
+          },
+          {
+            "when": "Semana después",
+            "text": "Anota si notaste alguna diferencia"
+          }
+        ]
+      }
+    },
+    {
+      "from": 32798,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA IDEA DE FONDO",
+        "phrase": "No se trata de desconfiar, sino de dar información completa",
+        "accent": "información completa",
+        "src": "img/elena-cosas-decirle-medico_s141.png"
+      }
+    },
+    {
+      "from": 35159,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL RESUMEN",
+        "value": 7,
+        "prefix": "",
+        "suffix": "",
+        "label": "frases que pueden cambiar el rumbo de tu consulta"
+      }
+    }
+  ]
+}
