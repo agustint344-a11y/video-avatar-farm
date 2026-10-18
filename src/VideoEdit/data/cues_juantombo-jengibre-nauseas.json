@@ -1,0 +1,1943 @@
+{
+  "slug": "juantombo-jengibre-nauseas",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 34895,
+  "audioSrc": "juantombo-jengibre-nauseas.mp3",
+  "avatarSrc": "juantombo-jengibre-nauseas_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 669,
+      "dur": 401,
+      "clip": 0
+    },
+    {
+      "from": 1455,
+      "dur": 976,
+      "clip": 401
+    },
+    {
+      "from": 4197,
+      "dur": 515,
+      "clip": 1377
+    },
+    {
+      "from": 21488,
+      "dur": 673,
+      "clip": 1892
+    },
+    {
+      "from": 31312,
+      "dur": 1050,
+      "clip": 2565
+    },
+    {
+      "from": 32911,
+      "dur": 650,
+      "clip": 3615
+    },
+    {
+      "from": 33652,
+      "dur": 1046,
+      "clip": 4265
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 2,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 212,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 373,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 505,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1070,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1226,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1337,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2431,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s06.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2689,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2888,
+      "dur": 254,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3142,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s08.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3518,
+      "dur": 344,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s08.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3862,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s09.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3995,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4069,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s11.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4712,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s12.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4849,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s13.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5091,
+      "dur": 64,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s13.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5155,
+      "dur": 243,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s14.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5698,
+      "dur": 349,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s15.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6047,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s16.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6157,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s17.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6256,
+      "dur": 71,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s18.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6327,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6649,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s19.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6804,
+      "dur": 251,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s20.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7055,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s22.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7385,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s21.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7517,
+      "dur": 287,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s23.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7804,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s24.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8320,
+      "dur": 323,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s25.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8643,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s26.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8870,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s27.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8985,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s28.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9134,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s29.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9196,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s43.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9620,
+      "dur": 205,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s30.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9825,
+      "dur": 53,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s31.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9878,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s32.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10028,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s33.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10241,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s34.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10381,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s35.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10571,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s37.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10631,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s38.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11105,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s39.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11203,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s40.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11368,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s41.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11617,
+      "dur": 58,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s42.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11945,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s104.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12275,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s104.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12395,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s44.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12761,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s107.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12962,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s45.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13125,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s46.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13546,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s36.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13713,
+      "dur": 229,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s47.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13942,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s49.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14307,
+      "dur": 59,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s48.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14366,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s50.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14554,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s51.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14648,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s52.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14775,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s53.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15147,
+      "dur": 315,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s53.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15462,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s54.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15645,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s55.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15760,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s56.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15865,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s57.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16029,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s58.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16442,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s58.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16510,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s59.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16602,
+      "dur": 238,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s60.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17080,
+      "dur": 271,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s60.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17351,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s62.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17413,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s63.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17612,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s64.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17699,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s65.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18077,
+      "dur": 316,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s61.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18393,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s66.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18568,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s67.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18721,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s68.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19051,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s68.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19381,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s68.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19464,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s69.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19599,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s70.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19757,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s71.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20101,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s71.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20305,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s72.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20419,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s73.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20467,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s74.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20835,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s74.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21023,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s75.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21344,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s77.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22161,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s78.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22307,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s79.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22784,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s76.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22891,
+      "dur": 316,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s80.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23207,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s81.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23325,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s82.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23769,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s82.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23979,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s83.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24146,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s84.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24272,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s85.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24597,
+      "dur": 301,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s85.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24898,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s86.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24983,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s87.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25313,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s87.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25427,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s88.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25569,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s89.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25892,
+      "dur": 340,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s89.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26232,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s90.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26378,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s91.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26506,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s92.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26878,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s92.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27032,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s93.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27188,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s94.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27272,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s95.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27405,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s96.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27614,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s97.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27787,
+      "dur": 70,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s98.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27857,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s99.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28031,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s100.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28176,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s101.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28484,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s101.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28652,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s102.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28814,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s103.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29030,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s105.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29176,
+      "dur": 80,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s106.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29616,
+      "dur": 289,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s106.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29905,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s108.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30032,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s109.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30121,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s110.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30246,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s111.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30344,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s112.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30436,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s113.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30629,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s114.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30710,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s115.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31120,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s115.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31222,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s116.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32362,
+      "dur": 53,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s116.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32415,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s117.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32657,
+      "dur": 254,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s117.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33561,
+      "dur": 91,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s118.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34698,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/juantombo-jengibre-nauseas_s118.png",
+      "kb": 4,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 505,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "INOFENSIVO",
+        "sub": "¿de verdad?",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 855,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "DR. JUAN TOMBO",
+        "title": "Juan Tombo",
+        "sub": "Remedios caseros, explicados con seriedad"
+      }
+    },
+    {
+      "from": 1337,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL CASO",
+        "title": "Lo que vi en el consultorio"
+      }
+    },
+    {
+      "from": 4496,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_juantombo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dr. Juan Tombo",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 7055,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "Cuándo tiene sentido usarlo"
+      }
+    },
+    {
+      "from": 7517,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "30-60 MIN",
+        "sub": "antes del viaje",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 9196,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "0,5 A 1 G",
+        "sub": "dosis orientativa",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 10571,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "Cómo tomarlo bien"
+      }
+    },
+    {
+      "from": 13713,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "Jengibre concentrado y anticoagulantes: prestá atención",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 13942,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "title": "El riesgo con los anticoagulantes"
+      }
+    },
+    {
+      "from": 16510,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "Hablalo con tu médico antes de usar cápsulas",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 17351,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 5",
+        "title": "Cálculos biliares y cirugía"
+      }
+    },
+    {
+      "from": 19247,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "1-2 SEMANAS",
+        "sub": "antes de cirugía",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 22035,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_juantombo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dr. Juan Tombo",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 22153,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "En qué grupo estás"
+      }
+    },
+    {
+      "from": 24638,
+      "dur": 180,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "Cirugía programada: avisá qué suplementos tomás",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 25310,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERRORES COMUNES",
+        "title": "Lo que casi todos hacen mal"
+      }
+    },
+    {
+      "from": 25569,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 1,
+        "text": "Pasar de infusión a cápsula diaria"
+      }
+    },
+    {
+      "from": 26232,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 2,
+        "text": "No mencionar el jengibre al médico"
+      }
+    },
+    {
+      "from": 27614,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 4,
+        "text": "Usarlo a diario sin buscar la causa"
+      }
+    },
+    {
+      "from": 28031,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CONSULTA MÉDICA",
+        "sub": "no un remedio tapa-síntomas",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 28176,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 5,
+        "text": "Subir la dosis con los años sin control"
+      }
+    },
+    {
+      "from": 29030,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PLAN",
+        "title": "Cómo usarlo paso a paso"
+      }
+    },
+    {
+      "from": 31222,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REPASO",
+        "title": "Lo esencial en un minuto"
+      }
+    },
+    {
+      "from": 33358,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_juantombo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dr. Juan Tombo",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 33553,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CIERRE",
+        "title": "Lo que tenés que recordar"
+      }
+    },
+    {
+      "from": 34799,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_juantombo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dr. Juan Tombo",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 2,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA SEÑAL",
+        "phrase": "Ese nudo en el estómago antes de viajar",
+        "accent": "nudo en el estómago",
+        "src": "img/juantombo-jengibre-nauseas_s01.png"
+      }
+    },
+    {
+      "from": 2509,
+      "dur": 180,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Cómo se corrigió a tiempo",
+        "items": [
+          "Ajustar la dosis de jengibre",
+          "Avisar al médico tratante",
+          "Seguimiento más cercano"
+        ]
+      }
+    },
+    {
+      "from": 3308,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Si no cura la causa, no sirve de nada",
+        "truth": "Calma náuseas puntuales con evidencia real"
+      }
+    },
+    {
+      "from": 4911,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "phrase": "El jengibre sí calma la náusea",
+        "accent": "sí calma",
+        "src": "img/juantombo-jengibre-nauseas_s13.png"
+      }
+    },
+    {
+      "from": 5398,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CÓMO ACTÚA",
+        "title": "El mecanismo del jengibre",
+        "steps": [
+          {
+            "title": "Vacía el estómago",
+            "sub": "más rápido"
+          },
+          {
+            "title": "Frena señales nerviosas",
+            "sub": "antes de llegar al cerebro"
+          },
+          {
+            "title": "Reduce la náusea",
+            "sub": "antes del vómito"
+          }
+        ]
+      }
+    },
+    {
+      "from": 6409,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que el jengibre sí hace",
+        "left": {
+          "label": "Alivio parcial",
+          "sub": "síntoma más leve"
+        },
+        "right": {
+          "label": "No resuelve",
+          "sub": "la causa de fondo"
+        }
+      }
+    },
+    {
+      "from": 7145,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Dónde funciona mejor",
+        "items": [
+          "Mareo por movimiento",
+          "Náusea tras comidas pesadas",
+          "Náusea leve de embarazo, con control médico"
+        ]
+      }
+    },
+    {
+      "from": 7916,
+      "dur": 240,
+      "comp": "CartelPrecaucion",
+      "props": {
+        "theme": "earth",
+        "title": "PRECAUCIÓN",
+        "text": "Si tenés cálculos biliares diagnosticados",
+        "sub": "Evitá el uso concentrado de jengibre"
+      }
+    },
+    {
+      "from": 8110,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "VENTANA IDEAL",
+        "value": 60,
+        "prefix": "",
+        "suffix": " min",
+        "label": "máximo de anticipación para tomar la dosis antes de viajar"
+      }
+    },
+    {
+      "from": 9380,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Náusea después de cirugía",
+        "left": {
+          "label": "Con supervisión médica",
+          "sub": "puede usarse como complemento"
+        },
+        "right": {
+          "label": "Nunca por decisión propia",
+          "sub": "sin avisar al equipo tratante"
+        }
+      }
+    },
+    {
+      "from": 10775,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO A PASO",
+        "title": "Infusión casera de jengibre",
+        "steps": [
+          {
+            "title": "Cortá 2 cm de raíz",
+            "sub": "fresca"
+          },
+          {
+            "title": "Rallá o cortá en rodajas",
+            "sub": "finas"
+          },
+          {
+            "title": "Dejá reposar 10 minutos",
+            "sub": "en agua caliente, no hirviendo"
+          }
+        ]
+      }
+    },
+    {
+      "from": 11675,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Infusión vs cápsula concentrada",
+        "left": {
+          "label": "Infusión suave",
+          "sub": "concentración moderada"
+        },
+        "right": {
+          "label": "Cápsula concentrada",
+          "sub": "puede equivaler a varias tazas"
+        }
+      }
+    },
+    {
+      "from": 12551,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DOSIS PUNTUAL",
+        "value": 1,
+        "prefix": "",
+        "suffix": " g",
+        "label": "techo diario orientativo, por pocos días, no permanente"
+      }
+    },
+    {
+      "from": 13306,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Señales de dosis demasiado alta",
+        "items": [
+          "Más ardor que alivio",
+          "Acidez después de tomarlo",
+          "Molestia en el estómago sensible"
+        ]
+      }
+    },
+    {
+      "from": 14007,
+      "dur": 300,
+      "comp": "SemaforoVeredicto",
+      "props": {
+        "theme": "earth",
+        "title": "¿Jengibre si tomo anticoagulantes?",
+        "light": "amarillo",
+        "verdict": "CON CUIDADO",
+        "reasons": [
+          "Reduce la agregación de plaquetas",
+          "Sube el riesgo de sangrado en dosis altas",
+          "Una infusión ocasional suele ser de bajo riesgo"
+        ]
+      }
+    },
+    {
+      "from": 14907,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Tomar anticoagulantes y jengibre junto es igual de inofensivo",
+        "truth": "El riesgo de sangrado puede aumentar con dosis altas"
+      }
+    },
+    {
+      "from": 16172,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Señales de alerta por sangrado",
+        "items": [
+          "Encías que sangran sin motivo",
+          "Moretones que aparecen sin golpe",
+          "Sangre en la orina o en las heces",
+          "Sangrado nasal que no se detiene"
+        ]
+      }
+    },
+    {
+      "from": 16840,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Uso del jengibre con anticoagulantes",
+        "left": {
+          "label": "Infusión ocasional",
+          "sub": "bajo riesgo general"
+        },
+        "right": {
+          "label": "Cápsulas a diario",
+          "sub": "requiere control médico"
+        }
+      }
+    },
+    {
+      "from": 17867,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ATENCIÓN VESÍCULA",
+        "phrase": "El jengibre puede mover un cálculo biliar",
+        "accent": "mover un cálculo",
+        "src": "img/juantombo-jengibre-nauseas_s65.png"
+      }
+    },
+    {
+      "from": 19831,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Antes de una cirugía",
+        "items": [
+          "Suspendé el jengibre concentrado",
+          "Una o dos semanas antes",
+          "Avisá a tu cirujano o anestesiólogo"
+        ]
+      }
+    },
+    {
+      "from": 20625,
+      "dur": 210,
+      "comp": "CartelPrecaucion",
+      "props": {
+        "theme": "earth",
+        "title": "PRECAUCIÓN",
+        "text": "Niños pequeños y bebés",
+        "sub": "Solo bajo indicación del pediatra"
+      }
+    },
+    {
+      "from": 21104,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Padres de niños pequeños",
+        "items": [
+          "Consultá al pediatra antes",
+          "Las dosis de adulto no aplican a un niño",
+          "Náuseas frecuentes son señal de consulta"
+        ]
+      }
+    },
+    {
+      "from": 22514,
+      "dur": 270,
+      "comp": "SemaforoVeredicto",
+      "props": {
+        "theme": "earth",
+        "title": "¿Jengibre si no tengo ninguna condición de riesgo?",
+        "light": "verde",
+        "verdict": "SÍ SIRVE",
+        "reasons": [
+          "Dosis moderadas y ocasionales",
+          "Seguro para la mayoría de adultos sanos",
+          "Útil para mareo o náusea leve"
+        ]
+      }
+    },
+    {
+      "from": 23499,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Si tomás anticoagulantes o antiplaquetarios",
+        "items": [
+          "Limitá el jengibre a uso ocasional en infusión",
+          "Evitá cápsulas concentradas a diario",
+          "Si ya las tomás, no las cortes de golpe"
+        ]
+      }
+    },
+    {
+      "from": 24387,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Si ya tengo cálculos, una infusión no cambia nada",
+        "truth": "Evitá dosis concentradas y consultá antes"
+      }
+    },
+    {
+      "from": 25682,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Si una infusión ayuda, una cápsula ayuda mucho más",
+        "truth": "Más dosis es más riesgo, no más seguridad"
+      }
+    },
+    {
+      "from": 26638,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Antes de tomar cualquier remedio casero",
+        "items": [
+          "Contáselo siempre a tu médico",
+          "\"Natural\" no significa \"sin riesgo\"",
+          "Omitirlo puede ocultar una interacción"
+        ]
+      }
+    },
+    {
+      "from": 28274,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA EDAD CAMBIA LA ECUACIÓN",
+        "phrase": "Lo seguro ayer no es seguro para siempre",
+        "accent": "no es seguro para siempre",
+        "src": "img/juantombo-jengibre-nauseas_s101.png"
+      }
+    },
+    {
+      "from": 29256,
+      "dur": 360,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Plan simple para un viaje",
+        "steps": [
+          {
+            "when": "Días antes",
+            "text": "Probá una infusión suave y revisá tu tolerancia"
+          },
+          {
+            "when": "El día del viaje",
+            "text": "Dosis moderada, 30 a 60 min antes"
+          },
+          {
+            "when": "Si reaparece",
+            "text": "Repetí solo una dosis pequeña"
+          },
+          {
+            "when": "Después del viaje",
+            "text": "Suspendé el uso, no es un hábito diario"
+          }
+        ]
+      }
+    },
+    {
+      "from": 30880,
+      "dur": 240,
+      "comp": "CartelPrecaucion",
+      "props": {
+        "theme": "earth",
+        "title": "PRECAUCIÓN",
+        "text": "Grupos de cuidado",
+        "sub": "Anticoagulantes, cálculos biliares, cirugía próxima o niños: primero el médico"
+      }
+    },
+    {
+      "from": 32507,
+      "dur": 150,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "La clave está en",
+        "left": {
+          "label": "Dosis y frecuencia",
+          "sub": "uso puntual, no diario"
+        },
+        "right": {
+          "label": "Avisar al médico",
+          "sub": "qué remedios estás usando"
+        }
+      }
+    }
+  ]
+}
