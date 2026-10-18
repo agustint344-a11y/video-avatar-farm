@@ -1,0 +1,1912 @@
+{
+  "slug": "vital-water-puffy-eyes",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 34679,
+  "audioSrc": "vital-water-puffy-eyes.mp3",
+  "avatarSrc": "vital-water-puffy-eyes_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 584,
+      "dur": 660,
+      "clip": 0
+    },
+    {
+      "from": 2284,
+      "dur": 1050,
+      "clip": 660
+    },
+    {
+      "from": 4844,
+      "dur": 471,
+      "clip": 1710
+    },
+    {
+      "from": 19519,
+      "dur": 825,
+      "clip": 2181
+    },
+    {
+      "from": 30125,
+      "dur": 761,
+      "clip": 3006
+    },
+    {
+      "from": 32201,
+      "dur": 648,
+      "clip": 3767
+    },
+    {
+      "from": 33911,
+      "dur": 741,
+      "clip": 4415
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 176,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 449,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1244,
+      "dur": 34,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1578,
+      "dur": 331,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1909,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2044,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3334,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3411,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3499,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3884,
+      "dur": 281,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s07.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4165,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s08.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4252,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s09.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4610,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s09.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5315,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s78.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5473,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s11.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5572,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s12.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5970,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s10.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6043,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s13.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6206,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s14.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6365,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s15.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6543,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s16.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6841,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s16.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7000,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s17.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7185,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s18.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7262,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s19.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7339,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s20.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7558,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s21.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7992,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s21.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8112,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s22.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8248,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s23.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8413,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s24.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8574,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s25.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8984,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s25.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9101,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s26.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9342,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s27.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9474,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s28.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9690,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s29.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9830,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s30.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9971,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s31.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10105,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s32.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10524,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s32.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10854,
+      "dur": 67,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s32.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10921,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s33.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11046,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s34.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11358,
+      "dur": 314,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s34.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11672,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s35.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11870,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s36.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12341,
+      "dur": 297,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s36.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12638,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s37.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12788,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s38.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13156,
+      "dur": 243,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s38.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13399,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s39.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13570,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s40.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13952,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s40.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14282,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14347,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s41.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14459,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s42.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14589,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s43.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15050,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s43.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15239,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s44.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15476,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s45.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16008,
+      "dur": 215,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s45.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16223,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s46.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16342,
+      "dur": 67,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s47.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16649,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s47.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16919,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s48.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17014,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s49.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17140,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s50.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17318,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s51.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17817,
+      "dur": 254,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s51.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18071,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s52.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18160,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s53.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18293,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s54.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18398,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s55.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18562,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s56.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18725,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s57.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19125,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s57.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19455,
+      "dur": 64,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s57.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20344,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s58.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20522,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s59.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20715,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s60.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20882,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s61.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21302,
+      "dur": 59,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s61.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21361,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s64.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21469,
+      "dur": 281,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s63.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21750,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s65.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21901,
+      "dur": 245,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s66.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22146,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s67.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22357,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s68.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22494,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s69.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22736,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s70.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23078,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s62.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23249,
+      "dur": 61,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s71.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23310,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s72.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23463,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s73.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23558,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s74.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23991,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s74.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24211,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s75.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24321,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s76.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24509,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s77.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24839,
+      "dur": 56,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s77.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24895,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s79.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25383,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s79.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25555,
+      "dur": 229,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s80.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25784,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s81.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26303,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s81.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26380,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s82.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26543,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s83.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27019,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s83.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27176,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s84.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27411,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s85.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27476,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s86.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27760,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s86.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27956,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s87.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28156,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s88.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28286,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s89.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28633,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s89.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28963,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s89.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29048,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s90.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29143,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s91.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29316,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s92.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29755,
+      "dur": 370,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s92.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30886,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s92.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31216,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s92.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31361,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s93.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31587,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s94.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32031,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s94.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32849,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s95.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32979,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s96.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33386,
+      "dur": 284,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s96.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33670,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s98.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 34652,
+      "dur": 27,
+      "kind": "image",
+      "src": "img/vital-water-puffy-eyes_s97.png",
+      "kb": 0,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "INTRO",
+        "title": "Why Mornings Feel Heavy"
+      }
+    },
+    {
+      "from": 751,
+      "dur": 180,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "VITAL AFTER 60",
+        "title": "Dr. Alan Brooks",
+        "sub": "Family medicine, caring for patients over 60"
+      }
+    },
+    {
+      "from": 988,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "NOT VANITY",
+        "sub": "A real, common concern",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 2044,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REAL STORY",
+        "title": "A Patient's Story"
+      }
+    },
+    {
+      "from": 5206,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Vital After 60 Guides",
+        "hint": "point your camera 📷"
+      }
+    },
+    {
+      "from": 5473,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "THE HABIT",
+        "title": "The Morning Water Ritual"
+      }
+    },
+    {
+      "from": 5572,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REASON 1",
+        "title": "The Dehydration Paradox"
+      }
+    },
+    {
+      "from": 6043,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 8,
+        "suffix": " hrs",
+        "label": "without water overnight",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 8009,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "CHECK WITH YOUR DOCTOR",
+        "sub": "If fluids are restricted for a medical reason",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 8248,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REASON 2",
+        "title": "Evening Sodium Overload"
+      }
+    },
+    {
+      "from": 8413,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SALT PULLS WATER",
+        "sub": "Sodium drives swelling",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 9101,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 7,
+        "suffix": "-8 hrs",
+        "label": "lying flat after a salty dinner",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 10105,
+      "dur": 105,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "MYTH",
+        "num": 2,
+        "text": "Only salty foods count"
+      }
+    },
+    {
+      "from": 10681,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REASON 3",
+        "title": "Sleep Position Matters"
+      }
+    },
+    {
+      "from": 11046,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "GRAVITY POOLS FLUID",
+        "sub": "Lying flat overnight",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 11478,
+      "dur": 105,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "MISTAKE",
+        "num": 3,
+        "text": "Stacking pillows under your head"
+      }
+    },
+    {
+      "from": 13204,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "NOT JUST WATER",
+        "sub": "Allergies need their own care",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 14589,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "TIME DOES THIS",
+        "sub": "Thinning skin is natural aging",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 17318,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ASK YOUR DOCTOR FIRST",
+        "sub": "If you take blood pressure or diuretic medicine",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 18725,
+      "dur": 105,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "MISTAKE",
+        "num": 4,
+        "text": "More lemon juice is better"
+      }
+    },
+    {
+      "from": 20073,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Vital After 60 Guides",
+        "hint": "point your camera 📷"
+      }
+    },
+    {
+      "from": 20522,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SELF-CHECK",
+        "title": "Which Reason Is Yours?"
+      }
+    },
+    {
+      "from": 23310,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SAFETY",
+        "title": "When To Call Your Doctor"
+      }
+    },
+    {
+      "from": 24211,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "SEE A DOCTOR PROMPTLY",
+        "sub": "One-sided or sudden swelling needs evaluation",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 24895,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "YOUR PLAN",
+        "title": "The Two-Week Test"
+      }
+    },
+    {
+      "from": 25784,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 5,
+        "suffix": "/7 nights",
+        "label": "lighter dinners goal",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 30125,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RECAP",
+        "title": "Quick Recap"
+      }
+    },
+    {
+      "from": 32481,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Vital After 60 Guides",
+        "hint": "point your camera 📷"
+      }
+    },
+    {
+      "from": 34501,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Vital After 60 Guides",
+        "hint": "point your camera 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 239,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NOT VANITY",
+        "phrase": "This is one of the most common complaints after sixty.",
+        "accent": "most common complaints",
+        "src": "img/vital-water-puffy-eyes_s02.png"
+      }
+    },
+    {
+      "from": 1278,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Today You'll Learn",
+        "items": [
+          "Why puffiness happens after 60",
+          "The morning water habit",
+          "How to tell which cause is yours",
+          "A two-week way to test it",
+          "Warning signs to watch for"
+        ]
+      }
+    },
+    {
+      "from": 2160,
+      "dur": 124,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "A REAL STORY",
+        "phrase": "A small habit change made a real difference for her.",
+        "accent": "real difference",
+        "src": "img/vital-water-puffy-eyes_s05.png"
+      }
+    },
+    {
+      "from": 3674,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "There's a miracle fix for morning puffiness.",
+        "truth": "Just real, explainable reasons, no guarantees."
+      }
+    },
+    {
+      "from": 4370,
+      "dur": 240,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "THE SCOPE",
+        "value": 5,
+        "prefix": "",
+        "suffix": "",
+        "label": "reasons your eyes puff up after sixty"
+      }
+    },
+    {
+      "from": 5670,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REASON 1",
+        "title": "The Dehydration Paradox",
+        "steps": [
+          {
+            "title": "Low water overnight",
+            "sub": "Body senses low fluid"
+          },
+          {
+            "title": "Body holds on to water",
+            "sub": "A protective response"
+          },
+          {
+            "title": "Shows up under eyes first",
+            "sub": "Thin skin reveals swelling"
+          }
+        ]
+      }
+    },
+    {
+      "from": 6661,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "THE IRONY",
+        "phrase": "Drinking too little water can make puffiness worse.",
+        "accent": "worse",
+        "src": "img/vital-water-puffy-eyes_s16.png"
+      }
+    },
+    {
+      "from": 7662,
+      "dur": 330,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "A Simple Hydration Guide",
+        "items": [
+          "About half to one ounce per pound of body weight",
+          "Adjust for activity, climate, health conditions",
+          "Pale straw urine color is a rough guide",
+          "Ask your doctor if fluids are restricted"
+        ]
+      }
+    },
+    {
+      "from": 8714,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Salty Dinner vs Light Dinner",
+        "left": {
+          "label": "Takeout, canned soup, deli meat",
+          "sub": "Often more morning swelling"
+        },
+        "right": {
+          "label": "Grilled chicken, vegetables",
+          "sub": "Often less morning puffiness"
+        }
+      }
+    },
+    {
+      "from": 10254,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Sodium Hides Here Too",
+        "items": [
+          "Bread and some cereals",
+          "Canned vegetables",
+          "Deli meats and cured meats",
+          "Restaurant and takeout food"
+        ]
+      }
+    },
+    {
+      "from": 11148,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "GRAVITY AT NIGHT",
+        "phrase": "Fluid pools when your head stays level with your heart.",
+        "accent": "pools",
+        "src": "img/vital-water-puffy-eyes_s34.png"
+      }
+    },
+    {
+      "from": 12071,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Stacked Pillows vs Wedge",
+        "left": {
+          "label": "2-3 regular pillows",
+          "sub": "Can strain the neck"
+        },
+        "right": {
+          "label": "Wedge or adjustable base",
+          "sub": "Raises head, neck, shoulders together"
+        }
+      }
+    },
+    {
+      "from": 12916,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Allergy Clues",
+        "items": [
+          "Itchy eyes",
+          "Stuffy nose",
+          "Sneezing in the morning",
+          "Worse in certain seasons"
+        ]
+      }
+    },
+    {
+      "from": 13742,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "UNEXPECTED CULPRIT",
+        "phrase": "Sometimes a dusty pillow matters more than any drink.",
+        "accent": "dusty pillow",
+        "src": "img/vital-water-puffy-eyes_s40.png"
+      }
+    },
+    {
+      "from": 14780,
+      "dur": 270,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "A cream or supplement can reverse skin thinning.",
+        "truth": "Time causes this; we can only manage fluid on top."
+      }
+    },
+    {
+      "from": 15678,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "THE HABIT",
+        "title": "Morning Water, Step by Step",
+        "steps": [
+          {
+            "title": "One glass of water",
+            "sub": "Room temperature or slightly warm"
+          },
+          {
+            "title": "Quarter to half a lemon",
+            "sub": "Squeezed in, first thing"
+          },
+          {
+            "title": "A tiny pinch of salt",
+            "sub": "Optional, tip-of-a-knife amount"
+          }
+        ]
+      }
+    },
+    {
+      "from": 16409,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "This water habit is a detox that flushes toxins.",
+        "truth": "It's simply gentle rehydration with a little potassium."
+      }
+    },
+    {
+      "from": 17517,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Check With Your Doctor If",
+        "items": [
+          "You take blood pressure medication",
+          "You take a diuretic",
+          "You have kidney disease",
+          "Potassium levels are a concern"
+        ]
+      }
+    },
+    {
+      "from": 18915,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MORE IS NOT BETTER",
+        "phrase": "One glass, once a day, not a constant routine.",
+        "accent": "One glass, once a day",
+        "src": "img/vital-water-puffy-eyes_s57.png"
+      }
+    },
+    {
+      "from": 20942,
+      "dur": 360,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Ask Yourself",
+        "items": [
+          "Worse after salty meals: sodium",
+          "Worse when under-hydrated: dehydration",
+          "Itchy eyes, stuffy nose: allergies",
+          "Better after an hour awake: sleep position",
+          "Slow change over years: skin thinning"
+        ]
+      }
+    },
+    {
+      "from": 22868,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MORE THAN ONE CAUSE",
+        "phrase": "Most people find two or three reasons apply at once.",
+        "accent": "two or three",
+        "src": "img/vital-water-puffy-eyes_s70.png"
+      }
+    },
+    {
+      "from": 23661,
+      "dur": 330,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "See Your Doctor If",
+        "items": [
+          "Swelling in only one eye",
+          "Sudden onset over a day or two",
+          "Pain, redness, or vision changes",
+          "Swelling in ankles, legs, or hands"
+        ]
+      }
+    },
+    {
+      "from": 25143,
+      "dur": 240,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "THE TEST",
+        "value": 2,
+        "prefix": "",
+        "suffix": " weeks",
+        "label": "to honestly test if this helps you"
+      }
+    },
+    {
+      "from": 25973,
+      "dur": 330,
+      "comp": "WeekPlanner",
+      "props": {
+        "theme": "earth",
+        "title": "Your Gentle Two-Week Plan",
+        "days": [
+          {
+            "d": "Day 1",
+            "t": "Water within 30 min of waking"
+          },
+          {
+            "d": "Day 2",
+            "t": "Lighter dinner, less sodium"
+          },
+          {
+            "d": "Day 3",
+            "t": "Rest & observe",
+            "rest": true
+          },
+          {
+            "d": "Day 4",
+            "t": "Lighter dinner, less sodium"
+          },
+          {
+            "d": "Day 5",
+            "t": "Water first, then coffee"
+          },
+          {
+            "d": "Day 6",
+            "t": "Rest & observe",
+            "rest": true
+          },
+          {
+            "d": "Day 7",
+            "t": "Note how your eyes look"
+          }
+        ]
+      }
+    },
+    {
+      "from": 26719,
+      "dur": 300,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Two-Week Habit Timeline",
+        "steps": [
+          {
+            "when": "Days 1-3",
+            "text": "Morning water, lighter dinners"
+          },
+          {
+            "when": "Days 4-7",
+            "text": "Keep sodium light most nights"
+          },
+          {
+            "when": "Days 8-11",
+            "text": "Add head elevation and lemon water"
+          },
+          {
+            "when": "Days 12-14",
+            "text": "Daily photos, then compare"
+          }
+        ]
+      }
+    },
+    {
+      "from": 27550,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TRUST THE PHOTOS",
+        "phrase": "A two-week photo comparison beats memory alone.",
+        "accent": "photo comparison",
+        "src": "img/vital-water-puffy-eyes_s86.png"
+      }
+    },
+    {
+      "from": 28393,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Day One vs Day Fourteen",
+        "left": {
+          "label": "Before",
+          "sub": "Baseline morning photo"
+        },
+        "right": {
+          "label": "After",
+          "sub": "Compare, don't guess day-to-day"
+        }
+      }
+    },
+    {
+      "from": 29515,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "One habit should work the same for everyone.",
+        "truth": "Results vary by person, season, and main cause."
+      }
+    },
+    {
+      "from": 31821,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ONE SENTENCE TO REMEMBER",
+        "phrase": "One-sided or sudden swelling means call your doctor.",
+        "accent": "call your doctor",
+        "src": "img/vital-water-puffy-eyes_s94.png"
+      }
+    },
+    {
+      "from": 33116,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Tell Me In The Comments",
+        "items": [
+          "Dehydration",
+          "Sodium",
+          "Sleep position",
+          "Allergies",
+          "Natural thinning"
+        ]
+      }
+    },
+    {
+      "from": 33866,
+      "dur": 45,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NO MIRACLE CLAIMS",
+        "phrase": "Just what evidence and twenty years of practice support.",
+        "accent": "twenty years",
+        "src": "img/vital-water-puffy-eyes_s98.png"
+      }
+    }
+  ]
+}
