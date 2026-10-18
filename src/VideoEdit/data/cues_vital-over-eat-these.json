@@ -1,0 +1,2318 @@
+{
+  "slug": "vital-over-eat-these",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 44573,
+  "audioSrc": "vital-over-eat-these.mp3",
+  "avatarSrc": "vital-over-eat-these_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 820,
+      "dur": 1050,
+      "clip": 0
+    },
+    {
+      "from": 5555,
+      "dur": 784,
+      "clip": 1050
+    },
+    {
+      "from": 17512,
+      "dur": 505,
+      "clip": 1834
+    },
+    {
+      "from": 32878,
+      "dur": 756,
+      "clip": 2339
+    },
+    {
+      "from": 40943,
+      "dur": 1050,
+      "clip": 3095
+    },
+    {
+      "from": 42997,
+      "dur": 1046,
+      "clip": 4145
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 223,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 223,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 527,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 678,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1870,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2087,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2357,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2592,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2740,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2910,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3251,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s07.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3383,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s08.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3570,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s09.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3677,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3889,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s11.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4265,
+      "dur": 245,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s11.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4510,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s12.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4630,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s13.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4829,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s14.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5108,
+      "dur": 359,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s14.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5467,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s15.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6339,
+      "dur": 52,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s16.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6571,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s146.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6761,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s17.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6928,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s18.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7025,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s19.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7255,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s20.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7530,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s20.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7800,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s21.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7865,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s22.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8042,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s23.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8358,
+      "dur": 278,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s23.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8636,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s24.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8759,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s25.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8950,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s26.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9176,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s27.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9508,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s27.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9653,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s28.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9721,
+      "dur": 264,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s29.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9985,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s30.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10350,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s30.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10580,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s31.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10697,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s32.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10838,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s33.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11186,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s87.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11385,
+      "dur": 243,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s75.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11628,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s34.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11758,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s35.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11946,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s37.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12230,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s36.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12344,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s38.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12576,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s39.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12754,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s40.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12841,
+      "dur": 267,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s41.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13408,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s74.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13624,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s42.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13787,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s43.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13894,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s44.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14096,
+      "dur": 302,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s45.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14578,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s45.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14908,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s45.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14982,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s46.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15149,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s47.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15614,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s47.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15824,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s48.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15991,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s49.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16133,
+      "dur": 215,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s50.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16558,
+      "dur": 255,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s50.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16813,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s51.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17012,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s52.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17358,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s52.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18017,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s53.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18416,
+      "dur": 304,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s53.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18720,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s54.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18872,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s55.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19053,
+      "dur": 251,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s56.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19514,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s57.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19844,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s57.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19986,
+      "dur": 260,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s58.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20246,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s59.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20433,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s60.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20592,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s61.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20702,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20808,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s63.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21219,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s63.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21390,
+      "dur": 57,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s64.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21447,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s65.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21587,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s66.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21782,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s67.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21907,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s68.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22069,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s96.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22387,
+      "dur": 348,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s144.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22735,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s70.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22837,
+      "dur": 57,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s71.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22894,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s72.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23083,
+      "dur": 277,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s73.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23540,
+      "dur": 314,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s69.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23854,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s76.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23927,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s77.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23993,
+      "dur": 333,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s78.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24326,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s81.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24698,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s80.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24940,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s82.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25058,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s83.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25282,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s84.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25668,
+      "dur": 371,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s79.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26039,
+      "dur": 250,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s85.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26289,
+      "dur": 268,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s86.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26557,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s88.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26679,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s89.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26821,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s90.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27047,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s91.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27233,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s92.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27307,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s93.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27456,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s94.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27885,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s94.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28215,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s94.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28314,
+      "dur": 366,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s95.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28680,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s97.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28892,
+      "dur": 303,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s98.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29195,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s99.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29386,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s100.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29494,
+      "dur": 254,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s101.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29748,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s103.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30239,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s102.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30383,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s104.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30541,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s105.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30782,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s106.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30955,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s107.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31346,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s107.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31622,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s108.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31767,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s109.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31850,
+      "dur": 243,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s110.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32093,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s111.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32289,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s112.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32379,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s113.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32589,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s114.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32783,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s115.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33634,
+      "dur": 67,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s116.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33701,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s117.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33917,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s118.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 34033,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s119.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34184,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s120.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 34281,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s121.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 34500,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s122.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34637,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s123.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34857,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s124.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 35213,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s124.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 35486,
+      "dur": 238,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s125.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 35724,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s126.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 35842,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s127.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 36155,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s127.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 36485,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s127.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 36567,
+      "dur": 61,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s128.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 36628,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s129.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 36791,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s130.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 36977,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s131.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 37184,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s132.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 37409,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s133.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 37637,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s134.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 38028,
+      "dur": 304,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s134.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 38332,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s135.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 38506,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s136.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 38603,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s137.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 38811,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s138.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 39019,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s139.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 39202,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s140.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 39286,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s141.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 39521,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s142.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 39769,
+      "dur": 282,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s143.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 40321,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s143.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 40549,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s145.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 40879,
+      "dur": 64,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s145.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 41993,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s145.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 42269,
+      "dur": 229,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s147.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 42708,
+      "dur": 289,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s147.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 44043,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s147.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 44373,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/vital-over-eat-these_s147.png",
+      "kb": 3,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 4,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "INTRO",
+        "title": "Morning joint stiffness"
+      }
+    },
+    {
+      "from": 820,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "VITAL AFTER 60",
+        "title": "Dr. Alan Brooks",
+        "sub": "Helping you move easier after 60"
+      }
+    },
+    {
+      "from": 1494,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "A PATIENT'S STORY",
+        "title": "Carol's breakfast"
+      }
+    },
+    {
+      "from": 4829,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "BE HONEST",
+        "sub": "No breakfast cures arthritis",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 5467,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "BEFORE WE CONTINUE",
+        "title": "A free guide"
+      }
+    },
+    {
+      "from": 5836,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Vital After 60 Guides",
+        "hint": "point your camera 📷"
+      }
+    },
+    {
+      "from": 6102,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Vital After 60 Guides",
+        "hint": "point your camera 📷"
+      }
+    },
+    {
+      "from": 9176,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CRP",
+        "sub": "A marker of inflammation",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 9589,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REASON 2",
+        "title": "The gut-joint link"
+      }
+    },
+    {
+      "from": 10697,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "LEAKY GUT",
+        "sub": "Still being studied",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 11905,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "BREAKFAST 1",
+        "title": "Oats, berries, walnuts"
+      }
+    },
+    {
+      "from": 12841,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "BLOOD SUGAR",
+        "sub": "Spikes linked to inflammation",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 14730,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ANTHOCYANINS",
+        "sub": "The pigments in berries",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 16133,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 8,
+        "suffix": " halves",
+        "label": "Walnut portion, max",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 18009,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "BREAKFAST 2",
+        "title": "Greek yogurt with fruit"
+      }
+    },
+    {
+      "from": 22837,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "THE OTHER SIDE",
+        "title": "The breakfast that works against you"
+      }
+    },
+    {
+      "from": 23927,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ADDED SUGAR",
+        "sub": "Hiding in healthy-looking cereal",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 25282,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "GLYCATION",
+        "sub": "Sugar binding to proteins over years",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 27233,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CHECK YOURSELF",
+        "title": "Is this your pattern?"
+      }
+    },
+    {
+      "from": 29709,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "THE PLAN",
+        "title": "A simple two-week plan"
+      }
+    },
+    {
+      "from": 30541,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 10,
+        "suffix": " min",
+        "label": "A short walk helps joints",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 32925,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Vital After 60 Guides",
+        "hint": "point your camera 📷"
+      }
+    },
+    {
+      "from": 32925,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Vital After 60 Guides",
+        "hint": "point your camera 📷"
+      }
+    },
+    {
+      "from": 33626,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "WATCH FOR THESE",
+        "title": "Common mistakes"
+      }
+    },
+    {
+      "from": 33917,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "MISTAKE",
+        "num": 1,
+        "text": "Expecting a dramatic result"
+      }
+    },
+    {
+      "from": 34637,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "MISTAKE",
+        "num": 2,
+        "text": "Ignoring everything else that matters"
+      }
+    },
+    {
+      "from": 36791,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "MISTAKE",
+        "num": 4,
+        "text": "Giving up after a few days"
+      }
+    },
+    {
+      "from": 37409,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "MISTAKE",
+        "num": 5,
+        "text": "Ignoring real warning signs"
+      }
+    },
+    {
+      "from": 37637,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "SEE A DOCTOR",
+        "sub": "Red, hot, swollen joint or fever needs care now",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 38261,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SHORTCUTS?",
+        "title": "Supplements and specialty products"
+      }
+    },
+    {
+      "from": 39019,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "CHECK WITH YOUR DOCTOR",
+        "sub": "Allergies or intolerance? Ask about alternatives",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 44273,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_vital.png",
+        "eyebrow": "SCAN THE CODE",
+        "label": "Vital After 60 Guides",
+        "hint": "point your camera 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 317,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MORNING STIFFNESS",
+        "phrase": "Stiffness greets you before your coffee does",
+        "accent": "Stiffness",
+        "src": "img/vital-over-eat-these_s02.png"
+      }
+    },
+    {
+      "from": 2177,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "15 YEARS",
+        "value": 15,
+        "prefix": "",
+        "suffix": " years",
+        "label": "Same toast and juice breakfast every morning"
+      }
+    },
+    {
+      "from": 3041,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "What changed for Carol",
+        "items": [
+          "Less hand swelling in the morning",
+          "Opened jars without hot water",
+          "No drastic diet overhaul",
+          "Small, sustainable tweaks"
+        ]
+      }
+    },
+    {
+      "from": 3965,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TONIGHT'S PLAN",
+        "title": "What this video covers",
+        "steps": [
+          {
+            "title": "Two breakfasts",
+            "sub": "Backed by nutrition research"
+          },
+          {
+            "title": "The one that hurts",
+            "sub": "A common cereal pattern"
+          },
+          {
+            "title": "A 2-week check",
+            "sub": "See if it helps you"
+          }
+        ]
+      }
+    },
+    {
+      "from": 4928,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "BE HONEST",
+        "phrase": "Breakfast cannot replace your doctor's care",
+        "accent": "cannot replace",
+        "src": "img/vital-over-eat-these_s14.png"
+      }
+    },
+    {
+      "from": 6391,
+      "dur": 180,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Only an injury causes real inflammation",
+        "truth": "A quiet, low-grade simmer builds with age too"
+      }
+    },
+    {
+      "from": 7350,
+      "dur": 180,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Where it settles",
+        "items": [
+          "Knees",
+          "Hips",
+          "Hands",
+          "Lower back"
+        ]
+      }
+    },
+    {
+      "from": 8178,
+      "dur": 180,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ONE LEVER",
+        "value": 60,
+        "max": 100,
+        "suffix": "%",
+        "label": "Diet can turn inflammation up or down a little"
+      }
+    },
+    {
+      "from": 9328,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "READ THE RESEARCH",
+        "phrase": "Associations, not guarantees",
+        "accent": "Associations",
+        "src": "img/vital-over-eat-these_s27.png"
+      }
+    },
+    {
+      "from": 10140,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Gut and joints are connected",
+        "items": [
+          "Immune system lives in the gut lining",
+          "Gut bacteria shape inflammatory signals",
+          "Effects reach joints far away"
+        ]
+      }
+    },
+    {
+      "from": 11006,
+      "dur": 180,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "A leaky gut explains all joint pain",
+        "truth": "The research here is still developing"
+      }
+    },
+    {
+      "from": 12020,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "BREAKFAST ONE",
+        "phrase": "Oats, berries, and walnuts",
+        "accent": "Oats, berries, walnuts",
+        "src": "img/vital-over-eat-these_s37.png"
+      }
+    },
+    {
+      "from": 13108,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HOW TO MAKE IT",
+        "title": "Oats, two ways",
+        "steps": [
+          {
+            "title": "Stovetop",
+            "sub": "Half cup dry oats, cooked"
+          },
+          {
+            "title": "Overnight",
+            "sub": "Soak in the fridge, no cooking"
+          },
+          {
+            "title": "Top it",
+            "sub": "Berries and walnuts in the morning"
+          }
+        ]
+      }
+    },
+    {
+      "from": 14398,
+      "dur": 180,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Why berries help",
+        "items": [
+          "Anthocyanins and polyphenols",
+          "Linked to lower inflammatory markers",
+          "Fresh or frozen both count"
+        ]
+      }
+    },
+    {
+      "from": 15344,
+      "dur": 270,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "title": "FRESH VS FROZEN BERRIES",
+        "rows": [
+          {
+            "label": "Fresh clamshell",
+            "price": "Costs more",
+            "bad": true
+          },
+          {
+            "label": "Frozen berries",
+            "price": "Costs less"
+          }
+        ],
+        "total": {
+          "label": "Nutrition",
+          "price": "Equal"
+        },
+        "stamp": "SAME BENEFIT"
+      }
+    },
+    {
+      "from": 16348,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Walnut swaps",
+        "items": [
+          "6 to 8 walnut halves is plenty",
+          "Ground flaxseed or chia seeds",
+          "Pumpkin seeds if it's about texture"
+        ]
+      }
+    },
+    {
+      "from": 17178,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PREP TIME",
+        "value": 5,
+        "prefix": "",
+        "suffix": " min",
+        "label": "Stovetop oats, start to bowl"
+      }
+    },
+    {
+      "from": 18206,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "BREAKFAST TWO",
+        "phrase": "Plain Greek yogurt with fruit on top",
+        "accent": "Greek yogurt",
+        "src": "img/vital-over-eat-these_s53.png"
+      }
+    },
+    {
+      "from": 19304,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Why protein matters here",
+        "items": [
+          "Muscles help cushion the joint",
+          "Quadriceps protect the knee",
+          "Less mechanical stress on cartilage"
+        ]
+      }
+    },
+    {
+      "from": 20949,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PORTIONS & SWAPS",
+        "title": "Building the bowl",
+        "steps": [
+          {
+            "title": "Base",
+            "sub": "3/4 to 1 cup plain Greek yogurt"
+          },
+          {
+            "title": "Topping",
+            "sub": "1/2 cup fruit of your choice"
+          },
+          {
+            "title": "No dairy?",
+            "sub": "Lactose-free yogurt or kefir"
+          }
+        ]
+      }
+    },
+    {
+      "from": 22177,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "If neither breakfast appeals to you",
+        "left": {
+          "label": "Two eggs + spinach",
+          "sub": "Cooked in olive oil"
+        },
+        "right": {
+          "label": "Oats or yogurt bowl",
+          "sub": "The two featured options"
+        }
+      }
+    },
+    {
+      "from": 23360,
+      "dur": 180,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "This cereal works like ibuprofen",
+        "truth": "No food works like a drug"
+      }
+    },
+    {
+      "from": 24518,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HIDDEN SUGAR",
+        "value": 12,
+        "prefix": "",
+        "suffix": "g",
+        "label": "Added sugar in one cereal serving"
+      }
+    },
+    {
+      "from": 25458,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "OVER TIME",
+        "phrase": "Sugar can bind to proteins in cartilage",
+        "accent": "bind to proteins",
+        "src": "img/vital-over-eat-these_s84.png"
+      }
+    },
+    {
+      "from": 27675,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Check your last 7 breakfasts",
+        "items": [
+          "Refined carbs with added sugar?",
+          "Little protein or fiber?",
+          "4 or more mornings like that? Worth addressing"
+        ]
+      }
+    },
+    {
+      "from": 29909,
+      "dur": 330,
+      "comp": "WeekPlanner",
+      "props": {
+        "theme": "earth",
+        "title": "Your gentle two-week start",
+        "days": [
+          {
+            "d": "Mon",
+            "t": "Oats, berries, walnuts"
+          },
+          {
+            "d": "Tue",
+            "t": "Greek yogurt + fruit"
+          },
+          {
+            "d": "Wed",
+            "t": "Oats + 10-min walk"
+          },
+          {
+            "d": "Thu",
+            "t": "Greek yogurt + fruit"
+          },
+          {
+            "d": "Fri",
+            "t": "Oats, berries, walnuts"
+          },
+          {
+            "d": "Sat",
+            "t": "Rest, just observe",
+            "rest": true
+          },
+          {
+            "d": "Sun",
+            "t": "Greek yogurt + walk"
+          }
+        ]
+      }
+    },
+    {
+      "from": 31166,
+      "dur": 180,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Small daily habits",
+        "items": [
+          "A glass of water with breakfast",
+          "Gentle movement loosens joints",
+          "A short note on how you feel"
+        ]
+      }
+    },
+    {
+      "from": 35033,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "BODY WEIGHT",
+        "value": 4,
+        "prefix": "",
+        "suffix": "x",
+        "label": "Extra pounds of knee pressure per pound gained"
+      }
+    },
+    {
+      "from": 35975,
+      "dur": 180,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Flavored yogurt with fruit syrup is progress",
+        "truth": "Plain yogurt with your own fruit is what changes things"
+      }
+    },
+    {
+      "from": 37848,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SAFETY FIRST",
+        "phrase": "Red, hot, swollen joint needs a doctor now",
+        "accent": "needs a doctor",
+        "src": "img/vital-over-eat-these_s134.png"
+      }
+    },
+    {
+      "from": 40051,
+      "dur": 270,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "title": "SPECIALTY 'JOINT' PRODUCTS",
+        "rows": [
+          {
+            "label": "Anti-inflammatory juice or powder",
+            "price": "$40-50",
+            "bad": true
+          },
+          {
+            "label": "Oats, berries, walnuts, yogurt",
+            "price": "A few dollars"
+          }
+        ],
+        "total": {
+          "label": "Research support",
+          "price": "Stronger for simple foods"
+        },
+        "stamp": "SKIP IT"
+      }
+    },
+    {
+      "from": 42498,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "BE REALISTIC",
+        "phrase": "No breakfast replaces movement, sleep, or care",
+        "accent": "replaces",
+        "src": "img/vital-over-eat-these_s147.png"
+      }
+    }
+  ]
+}
