@@ -1,0 +1,2214 @@
+{
+  "slug": "plomero-taza-esto-quita",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 38856,
+  "audioSrc": "plomero-taza-esto-quita.mp3",
+  "avatarSrc": "plomero-taza-esto-quita_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1585,
+      "dur": 1572,
+      "clip": 0
+    },
+    {
+      "from": 17290,
+      "dur": 792,
+      "clip": 1572
+    },
+    {
+      "from": 22410,
+      "dur": 937,
+      "clip": 2364
+    },
+    {
+      "from": 34084,
+      "dur": 931,
+      "clip": 3301
+    },
+    {
+      "from": 37642,
+      "dur": 1046,
+      "clip": 4232
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 46,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 256,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 482,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 556,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 725,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1110,
+      "dur": 289,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1399,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3157,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s06.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3590,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s131.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3814,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3954,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s08.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4031,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s09.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4607,
+      "dur": 39,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s09.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4976,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s11.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5081,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s12.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5168,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s13.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5275,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s14.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5431,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s15.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5875,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s16.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6022,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s17.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6128,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s18.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6268,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s19.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6425,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s20.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6581,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s21.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6940,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s10.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7005,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s22.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7152,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s23.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7340,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s24.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7412,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s25.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7532,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s26.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7862,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s26.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8135,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s27.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8223,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s28.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8403,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s29.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8799,
+      "dur": 329,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s29.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9128,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s30.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9277,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s31.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9452,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s32.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9560,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s33.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9719,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s34.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9891,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s35.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10010,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s36.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10176,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s37.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10321,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s38.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10786,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s135.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10987,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s39.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11055,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s40.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11182,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s41.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11337,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s42.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11766,
+      "dur": 278,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s42.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12044,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s43.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12210,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s44.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12369,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s45.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12478,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s46.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12632,
+      "dur": 254,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s47.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12886,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s48.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13118,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s49.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13224,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s50.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13382,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s51.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13560,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s52.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13628,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s53.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13908,
+      "dur": 215,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s53.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14123,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s54.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14326,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s55.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14455,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s56.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14570,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s57.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14977,
+      "dur": 345,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s57.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15322,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s58.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15415,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s59.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15583,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s60.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15711,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s61.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15829,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s62.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16273,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s62.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16345,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s63.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16524,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s64.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16727,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s65.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16927,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s66.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17047,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s67.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17207,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s68.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18082,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s69.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18256,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s70.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18456,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s71.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18653,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s72.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19232,
+      "dur": 354,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s73.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19586,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s74.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19716,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s75.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19802,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s76.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20034,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s77.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20450,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s132.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20647,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s78.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20873,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s79.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20939,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s80.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21069,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s81.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21462,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s81.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21659,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s82.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21743,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s83.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21862,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s84.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22291,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s84.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23347,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s85.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23534,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s86.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23657,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s87.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23764,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s88.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23897,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s89.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24250,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s89.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24383,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s90.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24613,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s91.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24714,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s92.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24786,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s93.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25196,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s93.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25438,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s94.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25561,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s95.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25690,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s96.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25808,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s97.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26269,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s97.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26424,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s98.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26489,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s99.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26673,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s100.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26738,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s101.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27079,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s101.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27290,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s102.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27474,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s103.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27611,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s104.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27817,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s105.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27964,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s106.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28105,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s107.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28190,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s108.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28329,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s109.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28505,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s110.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28968,
+      "dur": 53,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s110.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29021,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s111.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29155,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s112.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29339,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s113.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29471,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s114.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29596,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s115.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29770,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s116.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29915,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s117.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30004,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s118.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30179,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s119.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30321,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s120.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30484,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s121.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30629,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s122.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31079,
+      "dur": 64,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s122.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31143,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s123.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31365,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s124.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31485,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s125.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31686,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s126.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31871,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s127.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31954,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s128.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32284,
+      "dur": 326,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s128.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32610,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s129.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32723,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s130.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33053,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s130.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33510,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s130.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33668,
+      "dur": 61,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s133.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33729,
+      "dur": 355,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s134.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 35015,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s136.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 35345,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s136.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 35591,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s137.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 35773,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s138.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 36091,
+      "dur": 361,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s138.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 36452,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s139.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 36596,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s140.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 37076,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s140.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 37207,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s141.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 37414,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s142.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 38688,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-quita_s142.png",
+      "kb": 3,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "INTRO",
+        "title": "El Anillo Que No Se Va"
+      }
+    },
+    {
+      "from": 306,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ANILLO CAFÉ",
+        "sub": "o amarillo, bajo el agua",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 1585,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "MATEO EL PLOMERO",
+        "title": "Claudio el Plomero",
+        "sub": "15 años arreglando baños y cañerías"
+      }
+    },
+    {
+      "from": 2082,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 1,
+        "suffix": " hora",
+        "label": "lo resuelves tú mismo",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 3725,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "4 COSAS",
+        "title": "Lo Que Verás Hoy"
+      }
+    },
+    {
+      "from": 5168,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL ORIGEN",
+        "title": "Por Qué Se Forma"
+      }
+    },
+    {
+      "from": 6268,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CAPA SOBRE CAPA",
+        "sub": "así se forma la costra",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 7340,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "OLOR A HUMEDAD",
+        "sub": "aunque limpies por fuera",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 8890,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEGURIDAD",
+        "title": "Nunca Mezcles Esto"
+      }
+    },
+    {
+      "from": 9128,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "Nunca mezcles cloro con vinagre ni amoníaco",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 10321,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO A PASO",
+        "title": "La Receta Que Sí Funciona"
+      }
+    },
+    {
+      "from": 13382,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "EFERVESCENCIA",
+        "sub": "despega los minerales",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 14455,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "NO LO DEJES SECAR",
+        "sub": "pierde efecto",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 17664,
+      "dur": 105,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 1,
+        "text": "Vinagre antes que bicarbonato"
+      }
+    },
+    {
+      "from": 17725,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 18456,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEGÚN EL COLOR",
+        "title": "Diagnóstico Por Síntomas"
+      }
+    },
+    {
+      "from": 19716,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "TUBERÍA VIEJA",
+        "sub": "hierro disuelto",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 23180,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 23764,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "FALSAS SOLUCIONES",
+        "title": "Mitos Que Debes Olvidar"
+      }
+    },
+    {
+      "from": 24714,
+      "dur": 105,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "MITO",
+        "num": 2,
+        "text": "La lija lo saca rápido"
+      }
+    },
+    {
+      "from": 25561,
+      "dur": 105,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "MITO",
+        "num": 3,
+        "text": "La pastilla previene el sarro"
+      }
+    },
+    {
+      "from": 25690,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SOLO DA COLOR",
+        "sub": "no previene el sarro",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 26272,
+      "dur": 105,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "MITO",
+        "num": 4,
+        "text": "Agua hirviendo limpia todo"
+      }
+    },
+    {
+      "from": 26489,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "CUIDADO CON EL PVC",
+        "sub": "El agua hirviendo puede debilitarlo",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 27166,
+      "dur": 105,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "MITO",
+        "num": 5,
+        "text": "Limpiar una vez al año alcanza"
+      }
+    },
+    {
+      "from": 27964,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEÑALES DE ALERTA",
+        "title": "Cuándo Llamar a un Plomero"
+      }
+    },
+    {
+      "from": 28105,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SEÑAL DE ALERTA",
+        "sub": "ya no es limpieza casera",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 30629,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LOS NÚMEROS",
+        "title": "Cuánto Cuesta Realmente"
+      }
+    },
+    {
+      "from": 31954,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RUTINA PREVENTIVA",
+        "title": "Mantenimiento Mensual"
+      }
+    },
+    {
+      "from": 32723,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 10,
+        "suffix": " min",
+        "label": "mantenimiento mensual",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 33668,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ORDEN IMPORTA",
+        "sub": "bicarbonato primero",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 34084,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RESUMEN",
+        "title": "Repaso Rápido"
+      }
+    },
+    {
+      "from": 35007,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "RECORDATORIO",
+        "sub": "Jamás cloro con vinagre o amoníaco juntos",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 35455,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "DIEZ MINUTOS",
+        "sub": "mantenimiento mensual",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 35773,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 36596,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 37414,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 46,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LO QUE TIENES A MANO",
+        "phrase": "Bicarbonato y un cepillo, nada más",
+        "accent": "nada más",
+        "src": "img/plomero-taza-esto-quita_s01.png"
+      }
+    },
+    {
+      "from": 900,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "No es que tu inodoro esté arruinado",
+        "truth": "Es sarro con minerales y biopelícula"
+      }
+    },
+    {
+      "from": 3299,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El cloro limpia cualquier mancha",
+        "truth": "No disuelve minerales, solo desinfecta"
+      }
+    },
+    {
+      "from": 3410,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL RESULTADO",
+        "value": 40,
+        "prefix": "",
+        "suffix": " min",
+        "label": "así quedó el inodoro de la clienta"
+      }
+    },
+    {
+      "from": 4277,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HOY APRENDES",
+        "title": "4 cosas clave",
+        "steps": [
+          {
+            "title": "Por qué se forma",
+            "sub": "y por qué el cloro falla"
+          },
+          {
+            "title": "La receta exacta",
+            "sub": "cantidades y tiempos"
+          },
+          {
+            "title": "Diagnóstico y cuidado",
+            "sub": "sarro, óxido o algo más"
+          }
+        ]
+      }
+    },
+    {
+      "from": 4646,
+      "dur": 330,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Mantenimiento mensual",
+        "steps": [
+          {
+            "when": "Paso 1",
+            "text": "Baja el nivel de agua"
+          },
+          {
+            "when": "Paso 2",
+            "text": "Espolvorea bicarbonato"
+          },
+          {
+            "when": "Paso 3",
+            "text": "Agrega vinagre y espera 20 min"
+          },
+          {
+            "when": "Paso 4",
+            "text": "Talla y haz la descarga"
+          }
+        ]
+      }
+    },
+    {
+      "from": 5605,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Por qué se forma el anillo",
+        "items": [
+          "Agua con calcio y magnesio",
+          "Película que se seca y deja minerales",
+          "Capas que se acumulan cada semana"
+        ]
+      }
+    },
+    {
+      "from": 6730,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DATO CLAVE",
+        "phrase": "Un baño que casi no se usa acumula más sarro",
+        "accent": "casi no se usa",
+        "src": "img/plomero-taza-esto-quita_s21.png"
+      }
+    },
+    {
+      "from": 8559,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Cloro vs. la receta correcta",
+        "left": {
+          "label": "Cloro",
+          "sub": "no disuelve minerales"
+        },
+        "right": {
+          "label": "Bicarbonato + vinagre",
+          "sub": "sí ataca el sarro"
+        }
+      }
+    },
+    {
+      "from": 10456,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA RECETA",
+        "title": "Lo que necesitas",
+        "steps": [
+          {
+            "title": "Media taza",
+            "sub": "de bicarbonato de sodio"
+          },
+          {
+            "title": "Una taza",
+            "sub": "de vinagre blanco"
+          },
+          {
+            "title": "Cepillo duro",
+            "sub": "para tallar después"
+          }
+        ]
+      }
+    },
+    {
+      "from": 11496,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Antes de aplicar",
+        "items": [
+          "Cierra la llave de paso",
+          "Vacía el tanque con la palanca",
+          "Seca un poco la zona manchada"
+        ]
+      }
+    },
+    {
+      "from": 13728,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL TIEMPO CLAVE",
+        "value": 20,
+        "prefix": "",
+        "suffix": " a 30 min",
+        "label": "deja actuar antes de tallar"
+      }
+    },
+    {
+      "from": 14767,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "AHORA SÍ",
+        "phrase": "Se desprende en pedazos, no como con cloro",
+        "accent": "se desprende",
+        "src": "img/plomero-taza-esto-quita_s57.png"
+      }
+    },
+    {
+      "from": 16003,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Para enjuagar todo",
+        "items": [
+          "Abre la llave de paso",
+          "Llena el tanque por completo",
+          "Haz una descarga completa"
+        ]
+      }
+    },
+    {
+      "from": 18815,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Repaso exprés",
+        "items": [
+          "Sarro mineral, no suciedad",
+          "Bicarbonato + vinagre, 20 a 30 min",
+          "Nunca cloro con vinagre ni amoníaco",
+          "Una vez al mes, 10 minutos"
+        ]
+      }
+    },
+    {
+      "from": 19022,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Toda mancha de inodoro es igual",
+        "truth": "El color te dice qué producto usar"
+      }
+    },
+    {
+      "from": 20150,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SI ES ÓXIDO",
+        "title": "Ácido cítrico al rescate",
+        "steps": [
+          {
+            "title": "Jugo de 2 limones",
+            "sub": "bien concentrado"
+          },
+          {
+            "title": "20 a 30 min",
+            "sub": "de espera"
+          },
+          {
+            "title": "Tallar después",
+            "sub": "con cepillo duro"
+          }
+        ]
+      }
+    },
+    {
+      "from": 21162,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Si hay moho u olor",
+        "items": [
+          "Primero bicarbonato y vinagre",
+          "Deja pasar la noche entera",
+          "Recién después un poco de cloro",
+          "Ventila bien entre productos"
+        ]
+      }
+    },
+    {
+      "from": 22081,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CUIDADO",
+        "phrase": "Gorgoteo al descargar puede ser obstrucción",
+        "accent": "obstrucción",
+        "src": "img/plomero-taza-esto-quita_s84.png"
+      }
+    },
+    {
+      "from": 24040,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Si le echo más cloro, al final se va",
+        "truth": "El cloro nunca disuelve minerales"
+      }
+    },
+    {
+      "from": 24956,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Lija vs. método correcto",
+        "left": {
+          "label": "Lija o estropajo",
+          "sub": "raya el esmalte"
+        },
+        "right": {
+          "label": "Bicarbonato y vinagre",
+          "sub": "no daña la loza"
+        }
+      }
+    },
+    {
+      "from": 25999,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Pastilla azul: la verdad",
+        "items": [
+          "Da color al agua",
+          "Ayuda un poco con el olor",
+          "No evita el sarro de la línea",
+          "Puede manchar si es muy fuerte"
+        ]
+      }
+    },
+    {
+      "from": 26869,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MITO DEL AGUA HIRVIENDO",
+        "phrase": "Con agua tibia alcanza, no hace falta hervir",
+        "accent": "agua tibia",
+        "src": "img/plomero-taza-esto-quita_s101.png"
+      }
+    },
+    {
+      "from": 28668,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Señales para llamar a un plomero",
+        "items": [
+          "El anillo vuelve en menos de una semana",
+          "El tanque no deja de sonar",
+          "Hay una grieta en la loza",
+          "Mal olor que no se va limpiando"
+        ]
+      }
+    },
+    {
+      "from": 30779,
+      "dur": 300,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "title": "LO QUE TE COBRAN",
+        "rows": [
+          {
+            "label": "Bicarbonato y vinagre",
+            "price": "unos pocos pesos"
+          },
+          {
+            "label": "Visita de un plomero",
+            "price": "varias veces más",
+            "bad": true
+          }
+        ],
+        "total": {
+          "label": "Para este arreglo",
+          "price": "no hace falta técnico"
+        },
+        "stamp": "AHORRO"
+      }
+    },
+    {
+      "from": 33300,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR DE NOVATO",
+        "phrase": "Eché el vinagre antes que el bicarbonato",
+        "accent": "antes que el bicarbonato",
+        "src": "img/plomero-taza-esto-quita_s132.png"
+      }
+    },
+    {
+      "from": 35911,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA GUÍA",
+        "value": 118,
+        "prefix": "",
+        "suffix": " págs",
+        "label": "58 arreglos paso a paso"
+      }
+    },
+    {
+      "from": 36776,
+      "dur": 300,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "title": "EL PLOMERO EN CASA",
+        "rows": [
+          {
+            "label": "Guía + kit + calculadoras",
+            "price": "US$27"
+          },
+          {
+            "label": "Visita de un técnico",
+            "price": "más que eso",
+            "bad": true
+          }
+        ],
+        "total": {
+          "label": "Pago único",
+          "price": "garantía 7 días"
+        },
+        "stamp": "PRECIO"
+      }
+    }
+  ]
+}
