@@ -1,0 +1,1867 @@
+{
+  "slug": "albanil-grietas-pared-cuales",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 32565,
+  "audioSrc": "albanil-grietas-pared-cuales.mp3",
+  "avatarSrc": "albanil-grietas-pared-cuales_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 923,
+      "dur": 855,
+      "clip": 0
+    },
+    {
+      "from": 2580,
+      "dur": 548,
+      "clip": 855
+    },
+    {
+      "from": 11580,
+      "dur": 758,
+      "clip": 1403
+    },
+    {
+      "from": 21060,
+      "dur": 758,
+      "clip": 2161
+    },
+    {
+      "from": 26895,
+      "dur": 773,
+      "clip": 2919
+    },
+    {
+      "from": 29160,
+      "dur": 788,
+      "clip": 3692
+    },
+    {
+      "from": 32010,
+      "dur": 518,
+      "clip": 4480
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 107,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 450,
+      "dur": 360,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 810,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1778,
+      "dur": 49,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1827,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s05.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2295,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2405,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s06.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3128,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s07.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3543,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s84.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3720,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s08.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3933,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s09.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4380,
+      "dur": 304,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s09.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4684,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4771,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s11.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4890,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s12.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5070,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s38.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5281,
+      "dur": 59,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s14.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5520,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s32.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5760,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s15.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6000,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s16.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6210,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s17.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6300,
+      "dur": 70,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s18.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6370,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6725,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s13.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7055,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s13.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7110,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s20.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7331,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s21.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7620,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s21.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7808,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s104.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7950,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s22.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8040,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s23.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8190,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s24.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8460,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s25.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8550,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s26.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8709,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s27.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9000,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s27.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9210,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s28.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9330,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s29.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9630,
+      "dur": 393,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s29.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10023,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s31.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10353,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s30.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10413,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s33.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10650,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s34.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11070,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s34.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11280,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s35.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11340,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s36.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12338,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s37.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12570,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s39.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12690,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12818,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s41.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13290,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s41.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13560,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s42.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13770,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s43.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13890,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s44.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14304,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s44.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14458,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s45.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14700,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s46.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14760,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s47.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15240,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s47.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15420,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s48.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15480,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s49.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15630,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s50.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15837,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s51.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15990,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s52.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16087,
+      "dur": 53,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s82.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16140,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s53.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16255,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s54.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16440,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s55.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16920,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s55.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17106,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s56.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17250,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s57.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17400,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s58.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17580,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s59.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17628,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s60.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17820,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s61.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17910,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18336,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s62.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18428,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s63.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18630,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s64.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18870,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s65.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19230,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s65.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19350,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s66.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19410,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s67.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19530,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s68.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19650,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s69.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19830,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s70.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19920,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s71.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20183,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s71.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20456,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s72.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20555,
+      "dur": 265,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s73.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21818,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s74.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22020,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s75.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22200,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s76.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22320,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s77.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22500,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s78.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22560,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s79.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22710,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s80.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22920,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s81.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23340,
+      "dur": 360,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s81.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23700,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s83.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23940,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s85.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24074,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s86.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24360,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s86.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24570,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s87.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24660,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s88.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24810,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s89.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25200,
+      "dur": 244,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s89.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25444,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s90.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25560,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s91.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25652,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s92.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26010,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s92.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26250,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s93.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26460,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s94.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26610,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s95.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26700,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s96.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27668,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s98.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27750,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s102.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27936,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s99.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28350,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s97.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28532,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s100.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28680,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s101.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29100,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s101.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29948,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s101.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30278,
+      "dur": 322,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s101.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30600,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s103.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30872,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s103.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31202,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s103.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31358,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s105.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31710,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s105.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31856,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s106.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32528,
+      "dur": 37,
+      "kind": "image",
+      "src": "img/albanil-grietas-pared-cuales_s106.png",
+      "kb": 5,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 480,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SIN MIEDO",
+        "sub": "primero, entender qué tipo es",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 810,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA HISTORIA",
+        "title": "Un caso real de Claudio"
+      }
+    },
+    {
+      "from": 2670,
+      "dur": 180,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "MATEO ALBAÑIL",
+        "title": "Mateo",
+        "sub": "maestro albañil, sin vueltas ni miedo"
+      }
+    },
+    {
+      "from": 3720,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LO BÁSICO",
+        "title": "Fisura o grieta"
+      }
+    },
+    {
+      "from": 3933,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "FISURA",
+        "sub": "menos de 1 mm",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 5070,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "Grietas de asentamiento"
+      }
+    },
+    {
+      "from": 5070,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "Horizontales y humedad"
+      }
+    },
+    {
+      "from": 5070,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "title": "Juntas verticales mal resueltas"
+      }
+    },
+    {
+      "from": 5760,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 5,
+        "suffix": " años",
+        "label": "construcciones más propensas",
+        "corner": "tl"
+      }
+    },
+    {
+      "from": 6370,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SE MUEVEN DISTINTO",
+        "sub": "por eso se agrieta el revoque",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 8040,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "Grietas diagonales"
+      }
+    },
+    {
+      "from": 9330,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 3,
+        "suffix": " mm",
+        "label": "ancho que empieza a preocupar",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 9750,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "movimiento estructural: consulta a un ingeniero",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 11790,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 13890,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 5",
+        "title": "La prueba del testigo"
+      }
+    },
+    {
+      "from": 15990,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MANOS A LA OBRA",
+        "title": "Cómo tapar la grieta"
+      }
+    },
+    {
+      "from": 16087,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "IMPORTANTE",
+        "title": "Señales de alarma"
+      }
+    },
+    {
+      "from": 18428,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MALLA DE FIBRA",
+        "sub": "reparte la tensión",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 21450,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 21810,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ATENCIÓN",
+        "title": "Errores más comunes"
+      }
+    },
+    {
+      "from": 22020,
+      "dur": 75,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 1,
+        "text": "Tapar sin limpiar bien"
+      }
+    },
+    {
+      "from": 22320,
+      "dur": 75,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 2,
+        "text": "Pintura sola, sin malla"
+      }
+    },
+    {
+      "from": 22710,
+      "dur": 75,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 3,
+        "text": "Tapar sin probar el testigo"
+      }
+    },
+    {
+      "from": 23940,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "NO LA TAPES",
+        "sub": "si se ve de los dos lados, llama a un profesional",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 25320,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 5,
+        "suffix": " mm",
+        "label": "ancho que ya es señal de alarma",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 25652,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SIGUE ACTIVA",
+        "sub": "si el testigo se rompe",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 26250,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "NO ES SOLO ESTÉTICA",
+        "sub": "puede afectar cimientos o estructura",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 27513,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 27689,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PLAN SIMPLE",
+        "title": "Dos semanas de control"
+      }
+    },
+    {
+      "from": 32010,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 32160,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 270,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MIRA DE CERCA",
+        "phrase": "Esa línea en la pared no siempre es grave",
+        "accent": "no siempre es grave",
+        "src": "img/albanil-grietas-pared-cuales_s02.png"
+      }
+    },
+    {
+      "from": 2055,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "¿Es una grieta diagonal?",
+        "items": [
+          "Nace en la esquina de la ventana",
+          "Sube en ángulo hacia arriba",
+          "Conviene que la vea un ingeniero"
+        ]
+      }
+    },
+    {
+      "from": 3273,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HOY VAS A APRENDER",
+        "title": "La hoja de ruta",
+        "steps": [
+          {
+            "title": "Las formas",
+            "sub": "cómo identificar cada tipo"
+          },
+          {
+            "title": "La prueba del testigo",
+            "sub": "con yeso o cinta"
+          },
+          {
+            "title": "Señales de alarma",
+            "sub": "cuándo llamar a un profesional"
+          }
+        ]
+      }
+    },
+    {
+      "from": 4170,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Toda grieta ancha es igual de grave",
+        "truth": "Fisura es menos de 1 mm; grieta, más de 1 mm"
+      }
+    },
+    {
+      "from": 5340,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL DATO",
+        "value": 5,
+        "prefix": "",
+        "suffix": " años",
+        "label": "edad típica de una casa con grietas de asentamiento"
+      }
+    },
+    {
+      "from": 6485,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Por qué se agrietan las uniones",
+        "left": {
+          "label": "Hormigón y ladrillo",
+          "sub": "se mueven poco"
+        },
+        "right": {
+          "label": "Revoque fino",
+          "sub": "es el que se rompe primero"
+        }
+      }
+    },
+    {
+      "from": 7440,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LÍMITE SEGURO",
+        "value": 2,
+        "prefix": "",
+        "suffix": " mm",
+        "label": "si no supera este ancho y no crece, se tapa en una tarde"
+      }
+    },
+    {
+      "from": 8820,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "FORMA REVELADORA",
+        "phrase": "La diagonal nace justo en las esquinas débiles",
+        "accent": "esquinas débiles",
+        "src": "img/albanil-grietas-pared-cuales_s27.png"
+      }
+    },
+    {
+      "from": 9420,
+      "dur": 210,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ANCHO DE LA GRIETA",
+        "value": 3,
+        "max": 10,
+        "suffix": " mm",
+        "label": "más de esto, puede ser movimiento estructural"
+      }
+    },
+    {
+      "from": 10830,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Grieta + humedad: revisa esto",
+        "items": [
+          "Manchas visibles en la pared",
+          "Olor a encierro",
+          "El revoque suena hueco al golpear"
+        ]
+      }
+    },
+    {
+      "from": 13050,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Por qué aparece esta línea recta",
+        "left": {
+          "label": "Construcción original",
+          "sub": "ya terminó de asentarse"
+        },
+        "right": {
+          "label": "Ampliación nueva",
+          "sub": "todavía se mueve distinto"
+        }
+      }
+    },
+    {
+      "from": 14094,
+      "dur": 210,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "MIDE EL ANCHO DE LA GRIETA",
+        "w": 5,
+        "h": 0.3,
+        "unit": "cm",
+        "label": "TIRA DE YESO O CINTA",
+        "note": "debe cubrir todo el ancho visible"
+      }
+    },
+    {
+      "from": 14910,
+      "dur": 330,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Control del testigo",
+        "steps": [
+          {
+            "when": "Día 1",
+            "text": "Colocas el testigo y anotas la fecha"
+          },
+          {
+            "when": "Días 2 a 7",
+            "text": "Revisas cada pocos días"
+          },
+          {
+            "when": "Semana 2 a 4",
+            "text": "Si no se rompió, está estabilizada"
+          },
+          {
+            "when": "Si se rompe",
+            "text": "Espera: la pared sigue en movimiento"
+          }
+        ]
+      }
+    },
+    {
+      "from": 16650,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 1",
+        "title": "Preparar la grieta",
+        "steps": [
+          {
+            "title": "Abre en forma de V",
+            "sub": "más ancha en la superficie"
+          },
+          {
+            "title": "Cepilla el polvo",
+            "sub": "con cepillo o paño"
+          },
+          {
+            "title": "Deja la zona limpia",
+            "sub": "sin partículas sueltas"
+          }
+        ]
+      }
+    },
+    {
+      "from": 18096,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Qué material según el ancho",
+        "left": {
+          "label": "Menos de 1 mm",
+          "sub": "masilla acrílica flexible"
+        },
+        "right": {
+          "label": "1 a 3 mm",
+          "sub": "malla de fibra más masilla"
+        }
+      }
+    },
+    {
+      "from": 19020,
+      "dur": 210,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ANCHO DE LA GRIETA",
+        "value": 4,
+        "max": 10,
+        "suffix": " mm",
+        "label": "hasta aquí, con testigo estable, usa mortero elástico"
+      }
+    },
+    {
+      "from": 20003,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TIEMPO DE SECADO",
+        "value": 24,
+        "prefix": "",
+        "suffix": " h",
+        "label": "según el producto y la humedad del día"
+      }
+    },
+    {
+      "from": 20820,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Antes de pintar encima",
+        "items": [
+          "Aplica sellador o fijador",
+          "Evita manchas por absorción distinta",
+          "Deja la superficie pareja"
+        ]
+      }
+    },
+    {
+      "from": 23040,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NO HAGAS ESTO",
+        "title": "3 errores que arruinan el arreglo",
+        "steps": [
+          {
+            "title": "Tapar sin limpiar",
+            "sub": "el parche se despega rápido"
+          },
+          {
+            "title": "Sin malla de refuerzo",
+            "sub": "la grieta vuelve a marcarse"
+          },
+          {
+            "title": "Sin probar el testigo",
+            "sub": "tapas algo que sigue moviéndose"
+          }
+        ]
+      }
+    },
+    {
+      "from": 24180,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEÑAL SERIA",
+        "phrase": "Si la ves de los dos lados de la pared, no la tapes",
+        "accent": "no la tapes",
+        "src": "img/albanil-grietas-pared-cuales_s86.png"
+      }
+    },
+    {
+      "from": 24960,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Otros síntomas de alarma",
+        "items": [
+          "Puertas o ventanas que rozan",
+          "Pisos que se notan desnivelados",
+          "Baldosas que se levantan"
+        ]
+      }
+    },
+    {
+      "from": 25800,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Si tapo la grieta, el problema se termina",
+        "truth": "Si el testigo se rompe otra vez, el movimiento sigue activo"
+      }
+    },
+    {
+      "from": 28080,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PLAN DE DOS SEMANAS",
+        "title": "Qué hacer esta semana",
+        "steps": [
+          {
+            "title": "Limpia y marca el testigo",
+            "sub": "con la fecha a la vista"
+          },
+          {
+            "title": "Toma una foto de referencia",
+            "sub": "con una regla o moneda"
+          },
+          {
+            "title": "Revisa cada 3 o 4 días",
+            "sub": "compara con la foto"
+          }
+        ]
+      }
+    },
+    {
+      "from": 28920,
+      "dur": 180,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "FOTO CON REFERENCIA",
+        "w": 2.5,
+        "h": 2.5,
+        "unit": "cm",
+        "label": "MONEDA O REGLA",
+        "note": "para comparar el tamaño con el tiempo"
+      }
+    },
+    {
+      "from": 30692,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CONTANOS TU CASO",
+        "phrase": "Decime dónde está tu grieta y te oriento",
+        "accent": "te oriento",
+        "src": "img/albanil-grietas-pared-cuales_s103.png"
+      }
+    },
+    {
+      "from": 31470,
+      "dur": 240,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "title": "LO QUE REALMENTE CUESTA",
+        "rows": [
+          {
+            "label": "Visita de un técnico a domicilio",
+            "price": "$$$",
+            "bad": true
+          },
+          {
+            "label": "Biblioteca del Maestro",
+            "price": "$"
+          }
+        ],
+        "total": {
+          "label": "Diferencia",
+          "price": "a tu favor"
+        },
+        "stamp": "MÁS BARATO"
+      }
+    }
+  ]
+}
