@@ -1,0 +1,1950 @@
+{
+  "slug": "plomero-cosas-que-los",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 33741,
+  "audioSrc": "plomero-cosas-que-los.mp3",
+  "avatarSrc": "plomero-cosas-que-los_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 788,
+      "dur": 396,
+      "clip": 0
+    },
+    {
+      "from": 1484,
+      "dur": 797,
+      "clip": 396
+    },
+    {
+      "from": 8646,
+      "dur": 698,
+      "clip": 1193
+    },
+    {
+      "from": 18636,
+      "dur": 758,
+      "clip": 1891
+    },
+    {
+      "from": 30250,
+      "dur": 874,
+      "clip": 2649
+    },
+    {
+      "from": 31626,
+      "dur": 874,
+      "clip": 3523
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 76,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s97.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 459,
+      "dur": 329,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1184,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1344,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2281,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2611,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2748,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2852,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3198,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s06.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3336,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s07.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3576,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s08.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3726,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s09.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3846,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4023,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s122.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4176,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s12.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4266,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s82.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4536,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s77.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4836,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s14.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5016,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s15.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5226,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s16.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5286,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s17.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5505,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s18.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5676,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6036,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s66.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6283,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s20.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6426,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s21.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6516,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s22.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6578,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s23.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6696,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s24.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7026,
+      "dur": 360,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s49.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7386,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s25.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7536,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s26.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8053,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s29.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8170,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s27.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8376,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s28.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9344,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s13.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9404,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s30.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9606,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s31.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9833,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s32.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9966,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s33.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10326,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s11.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10446,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s34.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10612,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s35.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10746,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s36.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11226,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s36.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11467,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s37.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11588,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s38.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11736,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s39.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11949,
+      "dur": 57,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12006,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s41.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12156,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s42.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12306,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s43.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12426,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s44.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12786,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s44.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13056,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s45.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13116,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s46.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13296,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s47.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13446,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s48.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13693,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s50.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13806,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s51.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13926,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s52.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14256,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s52.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14468,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s53.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14586,
+      "dur": 280,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s54.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14866,
+      "dur": 50,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s55.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14916,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s56.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14981,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s57.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15151,
+      "dur": 215,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s58.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15636,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s58.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15786,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s59.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15876,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s60.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15998,
+      "dur": 58,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s61.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16056,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s62.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16356,
+      "dur": 316,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s62.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16672,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s64.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16837,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s65.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16973,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s67.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17136,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s68.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17586,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s63.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17826,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s69.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17946,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s70.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18009,
+      "dur": 327,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s72.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18336,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s73.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18486,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s74.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19394,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s75.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19596,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s76.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19806,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s78.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20256,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s71.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20436,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s79.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20530,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s80.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20676,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s81.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21126,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s81.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21396,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s83.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21516,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s84.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21697,
+      "dur": 269,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s85.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22146,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s85.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22326,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s86.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22476,
+      "dur": 53,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s87.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22529,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s88.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22716,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s89.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22896,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s90.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23226,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s90.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23346,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s91.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23474,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s92.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23616,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s93.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23736,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s94.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23826,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s95.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24186,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s95.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24516,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s95.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24606,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s96.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24818,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s98.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25026,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s99.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25236,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s100.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25386,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s101.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25476,
+      "dur": 91,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s102.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25567,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s103.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25776,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s104.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26256,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s104.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26438,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s105.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26556,
+      "dur": 281,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s106.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26837,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s108.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26941,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s111.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27036,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s109.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27156,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s110.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27486,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s107.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27816,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s107.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27906,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s112.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28086,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s113.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28176,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s114.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28566,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s114.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28896,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s114.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29046,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s115.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29316,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s116.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29646,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s116.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29862,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s117.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29976,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s118.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30096,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s119.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31124,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s120.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31536,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s120.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32500,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s120.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32830,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s120.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32916,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s121.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33097,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s123.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33427,
+      "dur": 314,
+      "kind": "image",
+      "src": "img/plomero-cosas-que-los_s123.png",
+      "kb": 0,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 4,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HOY EN EL CANAL",
+        "title": "El Vinagre Bajo la Lupa"
+      }
+    },
+    {
+      "from": 834,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "PLOMERO DE OFICIO",
+        "title": "Claudio el Plomero",
+        "sub": "15 años arreglando lo que el vinagre no resuelve"
+      }
+    },
+    {
+      "from": 4266,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "Sarro Sí, Óxido No"
+      }
+    },
+    {
+      "from": 4266,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "No Destapa Grasa ni Cabello"
+      }
+    },
+    {
+      "from": 4266,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 5",
+        "title": "El Calentador de Agua"
+      }
+    },
+    {
+      "from": 4266,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 7",
+        "title": "Presión de Agua Baja"
+      }
+    },
+    {
+      "from": 4266,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 8",
+        "title": "Olores de Sifón Seco"
+      }
+    },
+    {
+      "from": 4266,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 9",
+        "title": "No Sustituye al Plomero"
+      }
+    },
+    {
+      "from": 5286,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SOLO SARRO",
+        "sub": "el óxido necesita otro producto",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 6126,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 1,
+        "text": "confundir óxido con sarro"
+      }
+    },
+    {
+      "from": 6516,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "Cantidad y Tiempo"
+      }
+    },
+    {
+      "from": 7536,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 8,
+        "suffix": " h",
+        "label": "sarro grueso, toda la noche",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 9096,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 9404,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "MITO",
+        "num": 2,
+        "text": "vinagre destapa grasa"
+      }
+    },
+    {
+      "from": 11770,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CADA MES",
+        "sub": "ciclo vacío de la lavadora",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 12006,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "title": "Nunca Mezcles con Cloro"
+      }
+    },
+    {
+      "from": 12156,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "NUNCA MEZCLES",
+        "sub": "cloro más vinagre es peligro",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 12306,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "Cloro más vinagre libera gas tóxico",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 14866,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 1,
+        "suffix": " h",
+        "label": "recirculación en el calentador",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 15876,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "MITO",
+        "num": 3,
+        "text": "natural no daña nada"
+      }
+    },
+    {
+      "from": 16672,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "REGLA DE 8 HORAS",
+        "sub": "nunca vinagre puro por más tiempo en metal o goma",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 18862,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 20316,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SIFÓN SECO",
+        "sub": "ahí vuelve el olor",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 22716,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EXTRA",
+        "title": "Lavadora e Inodoro"
+      }
+    },
+    {
+      "from": 25776,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PLAN",
+        "title": "Tu Rutina Mensual"
+      }
+    },
+    {
+      "from": 27666,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 3,
+        "suffix": " meses",
+        "label": "revisa los aireadores",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 28566,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 4,
+        "text": "agregar detergente de más"
+      }
+    },
+    {
+      "from": 29046,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MENOS ES MÁS",
+        "sub": "no mezcles de más",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 29736,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "MITO",
+        "num": 5,
+        "text": "vinagre caliente derrite el PVC"
+      }
+    },
+    {
+      "from": 29862,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "CUIDADO",
+        "sub": "nunca agua hirviendo directo sobre PVC",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 31806,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 32496,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 33636,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 249,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "QUIÉN TE HABLA",
+        "value": 15,
+        "prefix": "",
+        "suffix": " años",
+        "label": "de oficio arreglando esto"
+      }
+    },
+    {
+      "from": 2928,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que vas a aprender hoy",
+        "items": [
+          "Para qué sirve de verdad el vinagre",
+          "Para qué no sirve aunque lo repitan mucho",
+          "Qué nunca mezclar con él",
+          "Cuándo llamar a un plomero"
+        ]
+      }
+    },
+    {
+      "from": 4326,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El vinagre quita cualquier mancha de la regadera",
+        "truth": "Solo disuelve sarro de calcio, no óxido"
+      }
+    },
+    {
+      "from": 5766,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA PRUEBA",
+        "title": "Prueba del paño",
+        "steps": [
+          {
+            "title": "Humedece un paño",
+            "sub": "con vinagre puro"
+          },
+          {
+            "title": "Pasa 30 segundos",
+            "sub": "sobre la mancha"
+          },
+          {
+            "title": "Revisa el resultado",
+            "sub": "se afloja: sarro, si no: óxido"
+          }
+        ]
+      }
+    },
+    {
+      "from": 6846,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL DATO",
+        "value": 5,
+        "prefix": "",
+        "suffix": "%",
+        "label": "de ácido acético en el vinagre blanco"
+      }
+    },
+    {
+      "from": 7753,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TIEMPOS",
+        "title": "Cuánto tiempo dejarlo",
+        "steps": [
+          {
+            "title": "Sarro leve",
+            "sub": "30 minutos en bolsa"
+          },
+          {
+            "title": "Sarro grueso",
+            "sub": "toda la noche, 8 horas"
+          },
+          {
+            "title": "Para acelerar",
+            "sub": "calienta el vinagre, nunca en metal"
+          }
+        ]
+      }
+    },
+    {
+      "from": 8469,
+      "dur": 177,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ALTO AHÍ",
+        "phrase": "Esto que ves es la versión corta",
+        "accent": "versión corta",
+        "src": "img/plomero-cosas-que-los_s28.png"
+      }
+    },
+    {
+      "from": 10086,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Qué sí funciona vs qué no",
+        "left": {
+          "label": "Bicarbonato + vinagre",
+          "sub": "mantenimiento y mal olor leve"
+        },
+        "right": {
+          "label": "Tapón real de grasa o cabello",
+          "sub": "el vinagre no lo mueve"
+        }
+      }
+    },
+    {
+      "from": 10926,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA RECETA",
+        "title": "Receta mensual de desagüe",
+        "steps": [
+          {
+            "title": "Media taza de bicarbonato",
+            "sub": "directo al desagüe"
+          },
+          {
+            "title": "Media taza de vinagre",
+            "sub": "encima, hace espuma"
+          },
+          {
+            "title": "15 minutos y enjuague",
+            "sub": "agua caliente, un minuto"
+          }
+        ]
+      }
+    },
+    {
+      "from": 10926,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Mi rutina mensual en casa",
+        "items": [
+          "1er sábado: bicarbonato y vinagre, 15 min",
+          "Cada 3 meses: aireadores en remojo",
+          "Cada 6 meses: revisa sifones poco usados"
+        ]
+      }
+    },
+    {
+      "from": 12576,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Mezclar limpiadores potencia el destape",
+        "truth": "Solo potencia el riesgo para tu salud"
+      }
+    },
+    {
+      "from": 14076,
+      "dur": 180,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DILUCIÓN",
+        "value": 50,
+        "max": 100,
+        "suffix": "%",
+        "label": "vinagre diluido en agua para el calentador"
+      }
+    },
+    {
+      "from": 15366,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Antes de usar vinagre en calentador",
+        "items": [
+          "Revisa el manual del fabricante",
+          "Apágalo y déjalo enfriar",
+          "Drena un poco por la válvula de purga",
+          "Si dudas, llama a un técnico"
+        ]
+      }
+    },
+    {
+      "from": 16176,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MITO",
+        "phrase": "Natural no significa que no dañe nada",
+        "accent": "no dañe nada",
+        "src": "img/plomero-cosas-que-los_s62.png"
+      }
+    },
+    {
+      "from": 17316,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "Presión baja: diagnóstico",
+        "steps": [
+          {
+            "title": "Una sola llave",
+            "sub": "revisa sarro en el aireador"
+          },
+          {
+            "title": "Toda la casa",
+            "sub": "es la válvula principal, no el vinagre"
+          },
+          {
+            "title": "Si dudas",
+            "sub": "llama a un plomero con herramientas de presión"
+          }
+        ]
+      }
+    },
+    {
+      "from": 20046,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El mal olor se va con vinagre y bicarbonato",
+        "truth": "Solo lo tapa si el sifón está seco"
+      }
+    },
+    {
+      "from": 20886,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Si el olor vuelve siempre",
+        "items": [
+          "Corre agua una vez por semana",
+          "Revisa la ventilación del drenaje",
+          "Llama a un plomero si persiste"
+        ]
+      }
+    },
+    {
+      "from": 21966,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEÑAL ROJA",
+        "phrase": "Agua estancada más de un día ya no es vinagre",
+        "accent": "ya no es vinagre",
+        "src": "img/plomero-cosas-que-los_s85.png"
+      }
+    },
+    {
+      "from": 22956,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LAVADORA",
+        "title": "Lavadora: limpieza mensual",
+        "steps": [
+          {
+            "title": "Ciclo vacío",
+            "sub": "en agua caliente"
+          },
+          {
+            "title": "2 tazas de vinagre",
+            "sub": "directo al tambor"
+          },
+          {
+            "title": "Una vez al mes",
+            "sub": "para biofilm y jabón"
+          }
+        ]
+      }
+    },
+    {
+      "from": 24006,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "INODORO",
+        "value": 4,
+        "prefix": "",
+        "suffix": " h",
+        "label": "de reposo del vinagre en el tanque"
+      }
+    },
+    {
+      "from": 25926,
+      "dur": 330,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Plan de 4 semanas",
+        "steps": [
+          {
+            "when": "Semana 1",
+            "text": "Identifica desagües lentos u olorosos"
+          },
+          {
+            "when": "Semana 2",
+            "text": "Limpieza de bicarbonato y vinagre"
+          },
+          {
+            "when": "Semana 3",
+            "text": "Revisa el calentador frío y apagado"
+          },
+          {
+            "when": "Semana 4",
+            "text": "Agenda el repaso del próximo mes"
+          }
+        ]
+      }
+    },
+    {
+      "from": 28386,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MI ERROR",
+        "phrase": "Agregar detergente de más no mejoró nada",
+        "accent": "no mejoró nada",
+        "src": "img/plomero-cosas-que-los_s114.png"
+      }
+    },
+    {
+      "from": 29436,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El vinagre caliente derrite el PVC",
+        "truth": "El agua hirviendo sí puede dañar las juntas"
+      }
+    },
+    {
+      "from": 31236,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Las 9 razones en resumen",
+        "items": [
+          "Sarro sí, óxido no",
+          "El tiempo importa más que la marca",
+          "No destapa grasa ni cabello",
+          "Nunca con cloro ni amoníaco",
+          "No sustituye al plomero"
+        ]
+      }
+    }
+  ]
+}
