@@ -46,86 +46,326 @@
   "broll": [
     {
       "from": 0,
-      "dur": 372,
+      "dur": 248,
       "kind": "image",
       "src": "img/mateo-mezcle-cemento-con_s01.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 582,
-      "dur": 221,
+      "from": 458,
+      "dur": 143,
       "kind": "image",
       "src": "img/mateo-mezcle-cemento-con_s01.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 803,
-      "dur": 67,
+      "from": 1476,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s21.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1806,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s21.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2900,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s21.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3062,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s02.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3392,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s02.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3722,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4052,
+      "dur": 330,
       "kind": "image",
       "src": "img/mateo-mezcle-cemento-con_s02.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 1476,
-      "dur": 349,
+      "from": 4382,
+      "dur": 330,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s03.png",
+      "src": "img/mateo-mezcle-cemento-con_s02.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 1825,
-      "dur": 229,
+      "from": 4712,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s02.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5042,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s02.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5372,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s02.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5702,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6727,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7057,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7387,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s02.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7717,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s02.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8047,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s02.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8236,
+      "dur": 309,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s03.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8545,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s04.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8875,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s04.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9205,
+      "dur": 330,
       "kind": "image",
       "src": "img/mateo-mezcle-cemento-con_s04.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 2900,
-      "dur": 124,
+      "from": 9535,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9865,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10195,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s04.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10525,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s04.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10855,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s04.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11185,
+      "dur": 293,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11478,
+      "dur": 199,
       "kind": "image",
       "src": "img/mateo-mezcle-cemento-con_s05.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 3324,
-      "dur": 136,
+      "from": 11977,
+      "dur": 330,
       "kind": "image",
       "src": "img/mateo-mezcle-cemento-con_s05.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 3460,
-      "dur": 262,
+      "from": 12307,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12637,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s05.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12967,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s05.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13297,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s05.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13627,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s05.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13957,
+      "dur": 337,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14294,
+      "dur": 284,
       "kind": "image",
       "src": "img/mateo-mezcle-cemento-con_s06.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 3722,
-      "dur": 266,
+      "from": 14578,
+      "dur": 268,
       "kind": "image",
       "src": "img/mateo-mezcle-cemento-con_s07.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 3988,
-      "dur": 334,
+      "from": 14846,
+      "dur": 272,
       "kind": "image",
       "src": "img/mateo-mezcle-cemento-con_s08.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 4322,
+      "from": 15118,
       "dur": 140,
       "kind": "image",
       "src": "img/mateo-mezcle-cemento-con_s09.png",
@@ -133,482 +373,194 @@
       "pip": false
     },
     {
-      "from": 4672,
-      "dur": 314,
+      "from": 15468,
+      "dur": 275,
       "kind": "image",
       "src": "img/mateo-mezcle-cemento-con_s09.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 4986,
-      "dur": 264,
+      "from": 15743,
+      "dur": 272,
       "kind": "image",
       "src": "img/mateo-mezcle-cemento-con_s10.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 5250,
-      "dur": 229,
+      "from": 16015,
+      "dur": 250,
       "kind": "image",
       "src": "img/mateo-mezcle-cemento-con_s11.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 5689,
-      "dur": 244,
+      "from": 16475,
+      "dur": 330,
       "kind": "image",
       "src": "img/mateo-mezcle-cemento-con_s11.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 6727,
-      "dur": 167,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s12.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 6894,
-      "dur": 115,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s13.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 7339,
-      "dur": 103,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s13.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 7442,
-      "dur": 235,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s14.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 7677,
+      "from": 16805,
       "dur": 330,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s15.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 8007,
-      "dur": 122,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s15.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 8129,
-      "dur": 341,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s16.png",
+      "src": "img/mateo-mezcle-cemento-con_s11.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 8470,
-      "dur": 325,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s17.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 8795,
-      "dur": 176,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s18.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 8971,
-      "dur": 89,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s19.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 9360,
-      "dur": 288,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s19.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 9648,
-      "dur": 306,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s20.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 9954,
-      "dur": 356,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s21.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 10310,
-      "dur": 164,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s22.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 10684,
-      "dur": 196,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s22.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 10880,
-      "dur": 261,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s23.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 11321,
-      "dur": 280,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s29.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 11601,
-      "dur": 376,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s24.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 12157,
-      "dur": 212,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s24.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 12369,
-      "dur": 233,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s25.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 12602,
-      "dur": 249,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s26.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 13181,
-      "dur": 126,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s26.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 13307,
-      "dur": 130,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s27.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 13437,
+      "from": 17135,
       "dur": 330,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s28.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 13767,
-      "dur": 137,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s28.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 13904,
-      "dur": 316,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s30.png",
+      "src": "img/mateo-mezcle-cemento-con_s11.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 14220,
-      "dur": 279,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s31.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 14499,
-      "dur": 347,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s32.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 14846,
-      "dur": 171,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s33.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 15347,
-      "dur": 92,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s33.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 15439,
-      "dur": 360,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s34.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 15799,
-      "dur": 232,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s35.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 16031,
-      "dur": 87,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s36.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 16328,
-      "dur": 240,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s36.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 16568,
-      "dur": 368,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s37.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 16936,
-      "dur": 328,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s38.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 17594,
-      "dur": 128,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s39.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 17722,
-      "dur": 89,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s40.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 18021,
-      "dur": 337,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s40.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 18358,
-      "dur": 285,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s41.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 18643,
-      "dur": 251,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s42.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 19074,
-      "dur": 310,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s42.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 19384,
-      "dur": 98,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s43.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 19842,
-      "dur": 323,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s44.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 20165,
+      "from": 17465,
       "dur": 330,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s45.png",
+      "src": "img/mateo-mezcle-cemento-con_s11.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 20495,
-      "dur": 139,
+      "from": 17795,
+      "dur": 330,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s45.png",
+      "src": "img/mateo-mezcle-cemento-con_s11.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 20634,
+      "from": 18125,
       "dur": 330,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s46.png",
+      "src": "img/mateo-mezcle-cemento-con_s11.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 20964,
-      "dur": 57,
+      "from": 18455,
+      "dur": 330,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s46.png",
+      "src": "img/mateo-mezcle-cemento-con_s11.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 21201,
-      "dur": 115,
+      "from": 18785,
+      "dur": 330,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s46.png",
+      "src": "img/mateo-mezcle-cemento-con_s11.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 21316,
-      "dur": 164,
+      "from": 19115,
+      "dur": 330,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s47.png",
+      "src": "img/mateo-mezcle-cemento-con_s11.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 21480,
-      "dur": 172,
+      "from": 19445,
+      "dur": 330,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s48.png",
+      "src": "img/mateo-mezcle-cemento-con_s11.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 21832,
-      "dur": 208,
+      "from": 19775,
+      "dur": 330,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s48.png",
+      "src": "img/mateo-mezcle-cemento-con_s11.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 22040,
-      "dur": 269,
+      "from": 20105,
+      "dur": 330,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s49.png",
+      "src": "img/mateo-mezcle-cemento-con_s11.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 22309,
-      "dur": 265,
+      "from": 20435,
+      "dur": 330,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s50.png",
+      "src": "img/mateo-mezcle-cemento-con_s11.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 22814,
-      "dur": 176,
+      "from": 20765,
+      "dur": 330,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s50.png",
+      "src": "img/mateo-mezcle-cemento-con_s11.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 22990,
-      "dur": 313,
+      "from": 21095,
+      "dur": 330,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s51.png",
+      "src": "img/mateo-mezcle-cemento-con_s11.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21425,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s11.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21755,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s11.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22085,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s11.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22415,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s11.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22745,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s11.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23075,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s11.png",
       "kb": 4,
       "pip": false
     },
@@ -616,278 +568,238 @@
       "from": 23914,
       "dur": 330,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s52.png",
+      "src": "img/mateo-mezcle-cemento-con_s16.png",
       "kb": 5,
       "pip": false
     },
     {
       "from": 24244,
-      "dur": 58,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s52.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 24632,
-      "dur": 124,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s52.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 24756,
-      "dur": 263,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s53.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 25019,
-      "dur": 272,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s54.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 25291,
-      "dur": 336,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s55.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 25627,
       "dur": 330,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s56.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 25957,
-      "dur": 58,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s56.png",
+      "src": "img/mateo-mezcle-cemento-con_s16.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 26015,
-      "dur": 242,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s57.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 26467,
-      "dur": 373,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s57.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 26840,
-      "dur": 295,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s58.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 27135,
-      "dur": 209,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s59.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 27344,
-      "dur": 67,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s60.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 27411,
+      "from": 24574,
       "dur": 330,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s61.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 27741,
-      "dur": 52,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s61.png",
+      "src": "img/mateo-mezcle-cemento-con_s16.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 27793,
-      "dur": 112,
+      "from": 24904,
+      "dur": 330,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s62.png",
+      "src": "img/mateo-mezcle-cemento-con_s16.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 28205,
-      "dur": 219,
+      "from": 25234,
+      "dur": 330,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s62.png",
+      "src": "img/mateo-mezcle-cemento-con_s16.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 28424,
-      "dur": 149,
+      "from": 25564,
+      "dur": 276,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s63.png",
+      "src": "img/mateo-mezcle-cemento-con_s16.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 28573,
-      "dur": 206,
+      "from": 25840,
+      "dur": 308,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s64.png",
+      "src": "img/mateo-mezcle-cemento-con_s12.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 29019,
-      "dur": 219,
+      "from": 26148,
+      "dur": 210,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s64.png",
+      "src": "img/mateo-mezcle-cemento-con_s13.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 29448,
-      "dur": 173,
+      "from": 26688,
+      "dur": 330,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s66.png",
+      "src": "img/mateo-mezcle-cemento-con_s13.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 29831,
-      "dur": 197,
+      "from": 27018,
+      "dur": 330,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s65.png",
+      "src": "img/mateo-mezcle-cemento-con_s13.png",
       "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27348,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s13.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27678,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s13.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28008,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s13.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28338,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s13.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28668,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s13.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28998,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s13.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29328,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s13.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29658,
+      "dur": 370,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s13.png",
+      "kb": 4,
       "pip": false
     },
     {
       "from": 30847,
-      "dur": 323,
+      "dur": 330,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s67.png",
-      "kb": 3,
+      "src": "img/mateo-mezcle-cemento-con_s13.png",
+      "kb": 5,
       "pip": false
     },
     {
-      "from": 31500,
-      "dur": 256,
+      "from": 31177,
+      "dur": 330,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s67.png",
-      "kb": 4,
+      "src": "img/mateo-mezcle-cemento-con_s13.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31507,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s13.png",
+      "kb": 1,
       "pip": false
     },
     {
       "from": 31756,
-      "dur": 325,
+      "dur": 294,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s68.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 32081,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s69.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 32411,
-      "dur": 363,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s69.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 32774,
-      "dur": 58,
-      "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s70.png",
+      "src": "img/mateo-mezcle-cemento-con_s14.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 33625,
-      "dur": 72,
+      "from": 32050,
+      "dur": 330,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s71.png",
+      "src": "img/mateo-mezcle-cemento-con_s15.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 33697,
-      "dur": 156,
+      "from": 32380,
+      "dur": 330,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s72.png",
+      "src": "img/mateo-mezcle-cemento-con_s15.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 33853,
-      "dur": 80,
+      "from": 32710,
+      "dur": 122,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s73.png",
+      "src": "img/mateo-mezcle-cemento-con_s15.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 33933,
-      "dur": 155,
+      "from": 33625,
+      "dur": 111,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s74.png",
+      "src": "img/mateo-mezcle-cemento-con_s17.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 34088,
-      "dur": 167,
+      "from": 33736,
+      "dur": 185,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s75.png",
+      "src": "img/mateo-mezcle-cemento-con_s18.png",
       "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33921,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/mateo-mezcle-cemento-con_s19.png",
+      "kb": 2,
       "pip": false
     },
     {
       "from": 34932,
       "dur": 43,
       "kind": "image",
-      "src": "img/mateo-mezcle-cemento-con_s75.png",
-      "kb": 2,
+      "src": "img/mateo-mezcle-cemento-con_s20.png",
+      "kb": 3,
       "pip": false
     }
   ],
   "overlays": [
     {
-      "from": 4,
+      "from": 40,
       "dur": 135,
       "comp": "SectionTitle",
       "props": {
@@ -897,7 +809,46 @@
       }
     },
     {
-      "from": 870,
+      "from": 601,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 601,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 601,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 3239,
       "dur": 150,
       "comp": "LowerThird",
       "props": {
@@ -908,7 +859,7 @@
       }
     },
     {
-      "from": 1468,
+      "from": 8236,
       "dur": 135,
       "comp": "SectionTitle",
       "props": {
@@ -918,7 +869,7 @@
       }
     },
     {
-      "from": 4322,
+      "from": 15118,
       "dur": 135,
       "comp": "SectionTitle",
       "props": {
@@ -928,7 +879,7 @@
       }
     },
     {
-      "from": 6482,
+      "from": 20542,
       "dur": 210,
       "comp": "QRTag",
       "props": {
@@ -936,23 +887,12 @@
         "corner": "bl",
         "src": "img/qr_mateo.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "Guías de Mateo Arregla"
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
       }
     },
     {
-      "from": 6542,
-      "dur": 210,
-      "comp": "QRTag",
-      "props": {
-        "theme": "earth",
-        "corner": "bl",
-        "src": "img/qr_mateo.png",
-        "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "Guías de Mateo Arregla"
-      }
-    },
-    {
-      "from": 6894,
+      "from": 26148,
       "dur": 135,
       "comp": "SectionTitle",
       "props": {
@@ -962,7 +902,7 @@
       }
     },
     {
-      "from": 8470,
+      "from": 33470,
       "dur": 135,
       "comp": "KeywordPop",
       "props": {
@@ -973,7 +913,7 @@
       }
     },
     {
-      "from": 8933,
+      "from": 33853,
       "dur": 135,
       "comp": "SectionTitle",
       "props": {
@@ -981,119 +921,11 @@
         "eyebrow": "CAPÍTULO 5",
         "title": "Razón 3: qué paredes sirven"
       }
-    },
-    {
-      "from": 11104,
-      "dur": 135,
-      "comp": "SectionTitle",
-      "props": {
-        "theme": "earth",
-        "eyebrow": "CAPÍTULO 6",
-        "title": "Paso a paso completo"
-      }
-    },
-    {
-      "from": 13437,
-      "dur": 135,
-      "comp": "KeywordPop",
-      "props": {
-        "theme": "earth",
-        "word": "DOS SEMANAS",
-        "sub": "Manchas que tardaron en secar",
-        "pos": "top"
-      }
-    },
-    {
-      "from": 20013,
-      "dur": 135,
-      "comp": "KeywordPop",
-      "props": {
-        "theme": "earth",
-        "word": "3 A 4 DÍAS",
-        "sub": "Secado completo antes de sellar",
-        "pos": "top"
-      }
-    },
-    {
-      "from": 22990,
-      "dur": 135,
-      "comp": "KeywordPop",
-      "props": {
-        "theme": "earth",
-        "word": "BRILLO LEVE",
-        "sub": "El sellador imita la piedra pulida",
-        "pos": "top"
-      }
-    },
-    {
-      "from": 24091,
-      "dur": 135,
-      "comp": "SectionTitle",
-      "props": {
-        "theme": "earth",
-        "eyebrow": "CAPÍTULO 7",
-        "title": "Los errores más comunes"
-      }
-    },
-    {
-      "from": 26015,
-      "dur": 135,
-      "comp": "SectionTitle",
-      "props": {
-        "theme": "earth",
-        "eyebrow": "CAPÍTULO 8",
-        "title": "Cuánto dura realmente"
-      }
-    },
-    {
-      "from": 29458,
-      "dur": 135,
-      "comp": "KeywordPop",
-      "props": {
-        "theme": "earth",
-        "word": "10 M²",
-        "sub": "A partir de aquí, trabaja por días",
-        "pos": "top"
-      }
-    },
-    {
-      "from": 30028,
-      "dur": 135,
-      "comp": "SectionTitle",
-      "props": {
-        "theme": "earth",
-        "eyebrow": "CAPÍTULO 10",
-        "title": "Repaso final"
-      }
-    },
-    {
-      "from": 33388,
-      "dur": 210,
-      "comp": "QRTag",
-      "props": {
-        "theme": "earth",
-        "corner": "bl",
-        "src": "img/qr_mateo.png",
-        "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "Guías de Mateo Arregla"
-      }
-    },
-    {
-      "from": 34453,
-      "dur": 210,
-      "comp": "QRTag",
-      "props": {
-        "theme": "earth",
-        "corner": "bl",
-        "src": "img/qr_mateo.png",
-        "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "Guías de Mateo Arregla"
-      }
     }
   ],
   "components": [
     {
-      "from": 372,
+      "from": 248,
       "dur": 210,
       "comp": "PhraseCard",
       "props": {
@@ -1105,83 +937,7 @@
       }
     },
     {
-      "from": 3024,
-      "dur": 300,
-      "comp": "Checklist",
-      "props": {
-        "theme": "earth",
-        "title": "Qué vas a aprender hoy",
-        "items": [
-          "Mezclar cemento, aceite y pigmento",
-          "Aplicar con llana y espátula para crear vetas",
-          "Lijar la superficie para emparejarla",
-          "Sellar para proteger el acabado"
-        ]
-      }
-    },
-    {
-      "from": 4462,
-      "dur": 210,
-      "comp": "PhraseCard",
-      "props": {
-        "theme": "earth",
-        "eyebrow": "Razón 1",
-        "phrase": "El aceite no se mezcla, por eso aparecen las vetas",
-        "accent": "no se mezcla",
-        "src": "img/mateo-mezcle-cemento-con_s09.png"
-      }
-    },
-    {
-      "from": 5479,
-      "dur": 210,
-      "comp": "MythVsTruth",
-      "props": {
-        "theme": "earth",
-        "myth": "Más aceite marca más las vetas",
-        "truth": "El exceso de aceite deja manchas que no secan"
-      }
-    },
-    {
-      "from": 7009,
-      "dur": 330,
-      "comp": "Steps",
-      "props": {
-        "theme": "earth",
-        "eyebrow": "Materiales (hasta 4 m²)",
-        "title": "Lo que necesitas",
-        "steps": [
-          {
-            "title": "Cemento gris",
-            "sub": "Medio kilo"
-          },
-          {
-            "title": "Aceite vegetal",
-            "sub": "Una cucharada sopera"
-          },
-          {
-            "title": "Pigmento en polvo",
-            "sub": "Una cucharadita"
-          }
-        ]
-      }
-    },
-    {
-      "from": 9060,
-      "dur": 300,
-      "comp": "Checklist",
-      "props": {
-        "theme": "earth",
-        "title": "¿Tu pared sirve para esto?",
-        "items": [
-          "Revoque fino y bien curado",
-          "Sin grietas activas",
-          "Sin humedad ni salitre",
-          "Sin partes sueltas"
-        ]
-      }
-    },
-    {
-      "from": 10474,
+      "from": 601,
       "dur": 210,
       "comp": "MythVsTruth",
       "props": {
@@ -1191,7 +947,7 @@
       }
     },
     {
-      "from": 11141,
+      "from": 601,
       "dur": 180,
       "comp": "PhraseCard",
       "props": {
@@ -1199,11 +955,11 @@
         "eyebrow": "Paso 1",
         "phrase": "El resultado final se define en la preparación de la pared",
         "accent": "preparación de la pared",
-        "src": "img/mateo-mezcle-cemento-con_s23.png"
+        "src": "img/mateo-mezcle-cemento-con_s21.png"
       }
     },
     {
-      "from": 11977,
+      "from": 601,
       "dur": 180,
       "comp": "NivelBurbuja",
       "props": {
@@ -1214,8 +970,8 @@
       }
     },
     {
-      "from": 12851,
-      "dur": 330,
+      "from": 601,
+      "dur": 269,
       "comp": "Steps",
       "props": {
         "theme": "earth",
@@ -1238,8 +994,8 @@
       }
     },
     {
-      "from": 15017,
-      "dur": 330,
+      "from": 601,
+      "dur": 269,
       "comp": "Steps",
       "props": {
         "theme": "earth",
@@ -1262,7 +1018,7 @@
       }
     },
     {
-      "from": 16118,
+      "from": 601,
       "dur": 210,
       "comp": "MythVsTruth",
       "props": {
@@ -1272,8 +1028,8 @@
       }
     },
     {
-      "from": 17264,
-      "dur": 330,
+      "from": 601,
+      "dur": 269,
       "comp": "Steps",
       "props": {
         "theme": "earth",
@@ -1296,7 +1052,7 @@
       }
     },
     {
-      "from": 17811,
+      "from": 601,
       "dur": 210,
       "comp": "PlanoMedidas",
       "props": {
@@ -1310,7 +1066,7 @@
       }
     },
     {
-      "from": 18894,
+      "from": 601,
       "dur": 180,
       "comp": "PhraseCard",
       "props": {
@@ -1318,12 +1074,12 @@
         "eyebrow": "Truco visual",
         "phrase": "Las vetas repetidas se ven artificiales",
         "accent": "se ven artificiales",
-        "src": "img/mateo-mezcle-cemento-con_s42.png"
+        "src": "img/mateo-mezcle-cemento-con_s21.png"
       }
     },
     {
-      "from": 19482,
-      "dur": 360,
+      "from": 601,
+      "dur": 269,
       "comp": "Timeline",
       "props": {
         "theme": "earth",
@@ -1349,7 +1105,7 @@
       }
     },
     {
-      "from": 21021,
+      "from": 601,
       "dur": 180,
       "comp": "NivelBurbuja",
       "props": {
@@ -1360,7 +1116,7 @@
       }
     },
     {
-      "from": 21652,
+      "from": 601,
       "dur": 180,
       "comp": "PhraseCard",
       "props": {
@@ -1368,11 +1124,11 @@
         "eyebrow": "Paso 7",
         "phrase": "Sin sellador, el cemento se mancha y pierde color",
         "accent": "se mancha",
-        "src": "img/mateo-mezcle-cemento-con_s48.png"
+        "src": "img/mateo-mezcle-cemento-con_s21.png"
       }
     },
     {
-      "from": 22574,
+      "from": 601,
       "dur": 240,
       "comp": "Compare",
       "props": {
@@ -1389,8 +1145,8 @@
       }
     },
     {
-      "from": 24302,
-      "dur": 330,
+      "from": 601,
+      "dur": 269,
       "comp": "Checklist",
       "props": {
         "theme": "earth",
@@ -1405,7 +1161,7 @@
       }
     },
     {
-      "from": 26257,
+      "from": 601,
       "dur": 210,
       "comp": "PhraseCard",
       "props": {
@@ -1413,12 +1169,12 @@
         "eyebrow": "Durabilidad",
         "phrase": "En interiores, el acabado dura bien con mantenimiento liviano",
         "accent": "mantenimiento liviano",
-        "src": "img/mateo-mezcle-cemento-con_s57.png"
+        "src": "img/mateo-mezcle-cemento-con_s21.png"
       }
     },
     {
-      "from": 27905,
-      "dur": 300,
+      "from": 601,
+      "dur": 269,
       "comp": "Checklist",
       "props": {
         "theme": "earth",
@@ -1432,7 +1188,7 @@
       }
     },
     {
-      "from": 28779,
+      "from": 601,
       "dur": 240,
       "comp": "Compare",
       "props": {
@@ -1449,19 +1205,7 @@
       }
     },
     {
-      "from": 29238,
-      "dur": 210,
-      "comp": "PhraseCard",
-      "props": {
-        "theme": "earth",
-        "eyebrow": "Consejo final",
-        "phrase": "Empieza en una superficie chica y poco visible",
-        "accent": "poco visible",
-        "src": "img/mateo-mezcle-cemento-con_s69.png"
-      }
-    },
-    {
-      "from": 29621,
+      "from": 601,
       "dur": 210,
       "comp": "PlanoMedidas",
       "props": {
@@ -1475,8 +1219,8 @@
       }
     },
     {
-      "from": 31170,
-      "dur": 330,
+      "from": 601,
+      "dur": 269,
       "comp": "Steps",
       "props": {
         "theme": "earth",
@@ -1495,6 +1239,94 @@
             "title": "Secar, lijar y sellar",
             "sub": "Acrílico o cera al final"
           }
+        ]
+      }
+    },
+    {
+      "from": 601,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Consejo final",
+        "phrase": "Empieza en una superficie chica y poco visible",
+        "accent": "poco visible",
+        "src": "img/mateo-mezcle-cemento-con_s21.png"
+      }
+    },
+    {
+      "from": 11677,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Qué vas a aprender hoy",
+        "items": [
+          "Mezclar cemento, aceite y pigmento",
+          "Aplicar con llana y espátula para crear vetas",
+          "Lijar la superficie para emparejarla",
+          "Sellar para proteger el acabado"
+        ]
+      }
+    },
+    {
+      "from": 15258,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Razón 1",
+        "phrase": "El aceite no se mezcla, por eso aparecen las vetas",
+        "accent": "no se mezcla",
+        "src": "img/mateo-mezcle-cemento-con_s09.png"
+      }
+    },
+    {
+      "from": 16265,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Más aceite marca más las vetas",
+        "truth": "El exceso de aceite deja manchas que no secan"
+      }
+    },
+    {
+      "from": 26358,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "Materiales (hasta 4 m²)",
+        "title": "Lo que necesitas",
+        "steps": [
+          {
+            "title": "Cemento gris",
+            "sub": "Medio kilo"
+          },
+          {
+            "title": "Aceite vegetal",
+            "sub": "Una cucharada sopera"
+          },
+          {
+            "title": "Pigmento en polvo",
+            "sub": "Una cucharadita"
+          }
+        ]
+      }
+    },
+    {
+      "from": 34123,
+      "dur": 132,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "¿Tu pared sirve para esto?",
+        "items": [
+          "Revoque fino y bien curado",
+          "Sin grietas activas",
+          "Sin humedad ni salitre",
+          "Sin partes sueltas"
         ]
       }
     }
