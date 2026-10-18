@@ -1,0 +1,1894 @@
+{
+  "slug": "electricista-esta-bateria-enchufable",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 32424,
+  "audioSrc": "electricista-esta-bateria-enchufable.mp3",
+  "avatarSrc": "electricista-esta-bateria-enchufable_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 966,
+      "dur": 515,
+      "clip": 0
+    },
+    {
+      "from": 1663,
+      "dur": 658,
+      "clip": 515
+    },
+    {
+      "from": 7791,
+      "dur": 959,
+      "clip": 1173
+    },
+    {
+      "from": 14373,
+      "dur": 187,
+      "clip": 2132
+    },
+    {
+      "from": 27546,
+      "dur": 653,
+      "clip": 2319
+    },
+    {
+      "from": 29654,
+      "dur": 819,
+      "clip": 2972
+    },
+    {
+      "from": 31683,
+      "dur": 696,
+      "clip": 3791
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 5,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 305,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 451,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 650,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1481,
+      "dur": 57,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2321,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2789,
+      "dur": 64,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2853,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2955,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3138,
+      "dur": 71,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3209,
+      "dur": 52,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s08.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3501,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s08.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3831,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s08.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3909,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s09.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4128,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s10.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4374,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s10.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4536,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s11.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4668,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s12.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4815,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s13.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5172,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s13.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5328,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s14.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5400,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s15.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5670,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s15.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6000,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s15.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6159,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s16.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6240,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s17.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6648,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s17.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6978,
+      "dur": 54,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s17.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7032,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s18.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7164,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7461,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s19.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8750,
+      "dur": 259,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s20.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9009,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s21.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9355,
+      "dur": 314,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s90.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9669,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s22.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9846,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s23.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9956,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s24.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10371,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s24.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10620,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s25.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10810,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s26.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10959,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s27.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11121,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s28.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11226,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s29.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11403,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s30.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11517,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s31.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11934,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s31.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12141,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s32.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12321,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s33.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12459,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s34.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12645,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s35.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12774,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s36.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12933,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s37.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13326,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s37.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13422,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s38.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13494,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s39.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13623,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13875,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s40.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14124,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s41.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14560,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s41.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14799,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s42.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15129,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s42.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15459,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s42.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15579,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s43.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15729,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s44.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15906,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s45.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16101,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s46.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16551,
+      "dur": 372,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s46.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16923,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s47.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17115,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s48.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17295,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s49.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17433,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s50.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17619,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s51.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17976,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s51.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18252,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s52.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18447,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s53.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18531,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s54.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18663,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s55.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18828,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s56.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19083,
+      "dur": 327,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s56.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19410,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s57.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19587,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s58.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20040,
+      "dur": 327,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s58.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20367,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s59.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20580,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s60.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20757,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s61.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20967,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s62.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21333,
+      "dur": 243,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s62.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21576,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s63.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21735,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s64.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21908,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s65.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22239,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s65.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22443,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s66.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22641,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s67.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22689,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s68.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23067,
+      "dur": 288,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s68.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23355,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s69.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23457,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s70.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23858,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s70.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24051,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s71.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24132,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s72.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24600,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s72.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24759,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s73.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24840,
+      "dur": 57,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s74.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24897,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s75.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25047,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s76.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25224,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s77.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25419,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s79.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25527,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s80.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25995,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s78.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26130,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s81.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26226,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s82.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26349,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s83.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26511,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s84.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26862,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s84.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27192,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s84.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27306,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s85.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27396,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s86.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28199,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s87.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28668,
+      "dur": 303,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s87.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28971,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s88.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29097,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s89.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29436,
+      "dur": 218,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s89.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30473,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s89.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30803,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s89.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30936,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s91.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31287,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s92.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31617,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s92.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32379,
+      "dur": 45,
+      "kind": "image",
+      "src": "img/electricista-esta-bateria-enchufable_s92.png",
+      "kb": 1,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1135,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "MATEO ELECTRICISTA",
+        "title": "Mateo",
+        "sub": "Mide antes de prometer"
+      }
+    },
+    {
+      "from": 3209,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LO BÁSICO",
+        "title": "Qué es esta batería enchufable"
+      }
+    },
+    {
+      "from": 3909,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SIN INSTALACIÓN",
+        "sub": "se conecta como una licuadora",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 5175,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "Ninguna batería es perfecta"
+      }
+    },
+    {
+      "from": 5400,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 1,
+        "text": "ninguna batería es 100% eficiente"
+      }
+    },
+    {
+      "from": 6000,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "15% PERDIDO",
+        "sub": "solo al cargar",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 7032,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SE CALIENTA",
+        "sub": "ahí se pierde energía",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 7164,
+      "dur": 135,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "si se entibia al cargar es normal, vigila el calor excesivo",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 8343,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_electricista.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Electricista",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 9009,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "El horario de tu tarifa"
+      }
+    },
+    {
+      "from": 9555,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "TARIFA PLANA",
+        "sub": "cero ahorro posible",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 10810,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "HORARIO VALLE",
+        "sub": "la franja barata",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 11403,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL EJEMPLO REAL",
+        "title": "Mis números, mi factura"
+      }
+    },
+    {
+      "from": 12027,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 3,
+        "suffix": " h",
+        "label": "autonomía para tele, router y luces",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 15579,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_electricista.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Electricista",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 15729,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "Dejarla siempre conectada"
+      }
+    },
+    {
+      "from": 16101,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 2,
+        "text": "dejarla siempre conectada"
+      }
+    },
+    {
+      "from": 16923,
+      "dur": 135,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "RECOMENDACIÓN",
+        "sub": "desconéctala cuando no la uses para ahorrar de verdad",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 17295,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "title": "Elegir mal el tamaño"
+      }
+    },
+    {
+      "from": 17619,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 3,
+        "text": "elegir mal el tamaño"
+      }
+    },
+    {
+      "from": 18252,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "PICO DE ARRANQUE",
+        "sub": "heladeras y bombas",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 19137,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 5",
+        "title": "Plan de prioridades"
+      }
+    },
+    {
+      "from": 19410,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 4,
+        "text": "no tener plan de prioridades"
+      }
+    },
+    {
+      "from": 20225,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 60,
+        "suffix": "",
+        "label": "aparatos en mi tabla de consumo",
+        "corner": "tl"
+      }
+    },
+    {
+      "from": 20580,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 6",
+        "title": "La vida útil de la batería"
+      }
+    },
+    {
+      "from": 20967,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 5,
+        "text": "ignorar la vida útil"
+      }
+    },
+    {
+      "from": 23457,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA PRUEBA",
+        "title": "Dos semanas para decidir"
+      }
+    },
+    {
+      "from": 25224,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SIN DIFERENCIA",
+        "sub": "no hay ahorro real",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 26904,
+      "dur": 135,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "OJO",
+        "sub": "ninguna batería te deja para siempre sin pagar electricidad",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 27396,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REPASO",
+        "title": "Todo lo que vimos"
+      }
+    },
+    {
+      "from": 29493,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 122,
+        "suffix": " pág",
+        "label": "en la guía La Casa Sin Apagones",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 29806,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_electricista.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Electricista",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 30291,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_electricista.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Electricista",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 30547,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_electricista.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Electricista",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 5,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA PUBLICIDAD PROMETE",
+        "title": "Cómo dicen que funciona",
+        "steps": [
+          {
+            "title": "Conectas la caja",
+            "sub": "a cualquier tomacorriente"
+          },
+          {
+            "title": "Carga y descarga sola",
+            "sub": "según el horario"
+          },
+          {
+            "title": "Factura más barata",
+            "sub": "sin tocar paneles solares"
+          }
+        ]
+      }
+    },
+    {
+      "from": 795,
+      "dur": 171,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA DUDA",
+        "phrase": "Si se te fue el color de la cara, te entiendo",
+        "accent": "el color de la cara",
+        "src": "img/electricista-esta-bateria-enchufable_s02.png"
+      }
+    },
+    {
+      "from": 1538,
+      "dur": 125,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Pensé que estaba ahorrando de verdad",
+        "truth": "Era solo lo que decía la pantalla del aparato"
+      }
+    },
+    {
+      "from": 2489,
+      "dur": 300,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que vas a aprender hoy",
+        "steps": [
+          {
+            "when": "Punto 1",
+            "text": "Cuándo el ahorro funciona de verdad"
+          },
+          {
+            "when": "Punto 2",
+            "text": "En qué casos no ahorras ni un centavo"
+          },
+          {
+            "when": "Punto 3",
+            "text": "Los errores más comunes"
+          },
+          {
+            "when": "Punto 4",
+            "text": "Cómo elegir el tamaño correcto"
+          }
+        ]
+      }
+    },
+    {
+      "from": 3261,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Es lo mismo que un sistema solar?",
+        "left": {
+          "label": "Panel solar",
+          "sub": "necesita instalación y electricista"
+        },
+        "right": {
+          "label": "Batería enchufable",
+          "sub": "se conecta sola a la pared"
+        }
+      }
+    },
+    {
+      "from": 4194,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA PROMESA",
+        "phrase": "Cargar barato de noche y usar caro de día",
+        "accent": "barato de noche",
+        "src": "img/electricista-esta-bateria-enchufable_s10.png"
+      }
+    },
+    {
+      "from": 4932,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que no te dicen",
+        "items": [
+          "Cuánta energía se pierde al cargar",
+          "Si tu tarifa tiene horario pico y valle",
+          "Cuánto tarda en pagarse sola"
+        ]
+      }
+    },
+    {
+      "from": 5490,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL DATO",
+        "value": 15,
+        "prefix": "",
+        "suffix": "%",
+        "label": "de energía perdida solo al cargar la batería"
+      }
+    },
+    {
+      "from": 6468,
+      "dur": 180,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RENDIMIENTO REAL",
+        "value": 85,
+        "max": 100,
+        "suffix": "%",
+        "label": "de cada $10 que metes, usas $8.50"
+      }
+    },
+    {
+      "from": 7281,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TRUCO QUE SÍ FUNCIONA",
+        "phrase": "Cargarla lenta de noche pierde menos energía",
+        "accent": "pierde menos energía",
+        "src": "img/electricista-esta-bateria-enchufable_s19.png"
+      }
+    },
+    {
+      "from": 9145,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Cargar a cualquier hora te ahorra plata",
+        "truth": "Solo ahorras si tu tarifa tiene horario pico y valle"
+      }
+    },
+    {
+      "from": 10131,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Ahorro y respaldo no son lo mismo",
+        "left": {
+          "label": "Respaldo ante apagón",
+          "sub": "sirve aunque la tarifa sea plana"
+        },
+        "right": {
+          "label": "Ahorro en la factura",
+          "sub": "solo si hay horario pico y valle"
+        }
+      }
+    },
+    {
+      "from": 11754,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPACIDAD ÚTIL",
+        "value": 800,
+        "prefix": "",
+        "suffix": " Wh",
+        "label": "lo que guarda mi batería después de pérdidas"
+      }
+    },
+    {
+      "from": 13026,
+      "dur": 300,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "title": "LA CUENTA REAL",
+        "rows": [
+          {
+            "label": "Costo de la batería",
+            "price": "$200",
+            "bad": true
+          },
+          {
+            "label": "Ahorro medido por mes",
+            "price": "$4"
+          }
+        ],
+        "total": {
+          "label": "Tiempo para recuperarla",
+          "price": "+4 años"
+        },
+        "stamp": "DATO REAL"
+      }
+    },
+    {
+      "from": 13695,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HONESTIDAD",
+        "phrase": "Te están contando la mitad de la historia",
+        "accent": "la mitad de la historia",
+        "src": "img/electricista-esta-bateria-enchufable_s40.png"
+      }
+    },
+    {
+      "from": 16371,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CONSUMO EN VACÍO",
+        "value": 3.6,
+        "prefix": "",
+        "suffix": " kWh/mes",
+        "label": "solo por dejarla siempre conectada"
+      }
+    },
+    {
+      "from": 17736,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Capacidad vs potencia de pico",
+        "left": {
+          "label": "Vatios hora",
+          "sub": "cuánta energía guarda"
+        },
+        "right": {
+          "label": "Vatios de pico",
+          "sub": "qué motor puede arrancar"
+        }
+      }
+    },
+    {
+      "from": 18903,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR COSTOSO",
+        "phrase": "El pico de arranque es la cuenta que más gente olvida",
+        "accent": "pico de arranque",
+        "src": "img/electricista-esta-bateria-enchufable_s56.png"
+      }
+    },
+    {
+      "from": 19800,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Plan de prioridades",
+        "items": [
+          "Router para seguir conectado",
+          "Luces de la zona donde estás",
+          "Cargador del teléfono",
+          "Nunca microondas ni calefactor"
+        ]
+      }
+    },
+    {
+      "from": 21153,
+      "dur": 180,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "VIDA ÚTIL",
+        "value": 80,
+        "max": 100,
+        "suffix": "%",
+        "label": "capacidad tras 800 a 1000 ciclos de carga"
+      }
+    },
+    {
+      "from": 22059,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DESGASTE",
+        "value": 3,
+        "prefix": "",
+        "suffix": " años",
+        "label": "para notar menos capacidad si la usas a diario"
+      }
+    },
+    {
+      "from": 22857,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Cualquier diferencia de horario ya conviene",
+        "truth": "Si es chica, tarda años en pagarse sola"
+      }
+    },
+    {
+      "from": 23618,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Diagnóstico rápido",
+        "left": {
+          "label": "Tarifa plana",
+          "sub": "solo sirve como respaldo"
+        },
+        "right": {
+          "label": "Diferencia grande + apagones",
+          "sub": "ahorro y respaldo juntos"
+        }
+      }
+    },
+    {
+      "from": 24300,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA PRUEBA",
+        "title": "Plan de dos semanas",
+        "steps": [
+          {
+            "title": "Semana 1",
+            "sub": "anota tu consumo real"
+          },
+          {
+            "title": "Semana 2",
+            "sub": "carga barato, usa caro"
+          },
+          {
+            "title": "Compara",
+            "sub": "factura y medidor, no la pantalla"
+          }
+        ]
+      }
+    },
+    {
+      "from": 25695,
+      "dur": 300,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "title": "ANTES DE GASTAR EN GRANDE",
+        "rows": [
+          {
+            "label": "Medidor de enchufe",
+            "price": "menos de $10"
+          },
+          {
+            "label": "Batería sin medir antes",
+            "price": "$200 a ciegas",
+            "bad": true
+          }
+        ],
+        "total": {
+          "label": "Lo que evitas",
+          "price": "el error más caro"
+        },
+        "stamp": "CONSEJO"
+      }
+    },
+    {
+      "from": 26682,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HONESTIDAD",
+        "phrase": "Nadie te puede prometer una fecha exacta de ahorro",
+        "accent": "fecha exacta",
+        "src": "img/electricista-esta-bateria-enchufable_s84.png"
+      }
+    },
+    {
+      "from": 28398,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Repaso rápido",
+        "items": [
+          "Se carga de la pared, no usa paneles",
+          "Toda carga y descarga pierde energía",
+          "Solo ahorra con horario pico y valle",
+          "El tamaño se elige por el pico de arranque"
+        ]
+      }
+    },
+    {
+      "from": 29256,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NO OLVIDES",
+        "phrase": "El desgaste diario también es parte del costo real",
+        "accent": "parte del costo real",
+        "src": "img/electricista-esta-bateria-enchufable_s89.png"
+      }
+    },
+    {
+      "from": 31107,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TU TURNO",
+        "phrase": "Revisa hoy mismo si tu tarifa tiene horario pico y valle",
+        "accent": "horario pico y valle",
+        "src": "img/electricista-esta-bateria-enchufable_s92.png"
+      }
+    }
+  ]
+}
