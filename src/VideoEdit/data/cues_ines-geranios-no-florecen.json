@@ -1,0 +1,2078 @@
+{
+  "slug": "ines-geranios-no-florecen",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 40423,
+  "audioSrc": "ines-geranios-no-florecen.mp3",
+  "avatarSrc": "ines-geranios-no-florecen_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 711,
+      "dur": 995,
+      "clip": 0
+    },
+    {
+      "from": 13051,
+      "dur": 839,
+      "clip": 995
+    },
+    {
+      "from": 27092,
+      "dur": 756,
+      "clip": 1834
+    },
+    {
+      "from": 36982,
+      "dur": 1050,
+      "clip": 2590
+    },
+    {
+      "from": 39454,
+      "dur": 925,
+      "clip": 3640
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 2,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 272,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 520,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1706,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2196,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s02.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2410,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s03.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2509,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2762,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2851,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2992,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3341,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s07.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3499,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s08.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3686,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s09.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3876,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4365,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s11.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4537,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s12.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4644,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s13.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4789,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s14.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5287,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s54.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5395,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s15.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5540,
+      "dur": 258,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s16.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5798,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s17.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5891,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s18.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6059,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s60.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6485,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s19.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6609,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s20.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6742,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s21.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6871,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s22.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7065,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s23.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7335,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s24.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7712,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s65.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7942,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s25.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8082,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s26.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8167,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s27.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8551,
+      "dur": 422,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s115.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8973,
+      "dur": 70,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s29.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9043,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s30.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9339,
+      "dur": 305,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s28.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9644,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s31.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9758,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s32.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9989,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s33.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10049,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s34.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10203,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s35.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10358,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s36.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10786,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s50.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10945,
+      "dur": 326,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s37.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11271,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s39.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11430,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s40.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11803,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s38.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11975,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s41.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12145,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s42.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12580,
+      "dur": 282,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s42.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12862,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s43.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13890,
+      "dur": 53,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s44.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13943,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s45.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14106,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s47.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14314,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s48.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14704,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s46.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14935,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s49.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15096,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s51.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15456,
+      "dur": 302,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s82.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15758,
+      "dur": 293,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s53.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16051,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s55.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16205,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s56.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16541,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s52.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16733,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s57.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16865,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s58.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16967,
+      "dur": 285,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s59.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17492,
+      "dur": 292,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s59.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17784,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s62.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17977,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s63.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18099,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s64.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18461,
+      "dur": 275,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s61.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18736,
+      "dur": 54,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s66.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18790,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s67.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19030,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s68.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19120,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s69.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19301,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s70.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19465,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s71.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19612,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s73.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20156,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s74.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20358,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s75.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20600,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s76.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20730,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s77.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21069,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s72.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21222,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s78.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21398,
+      "dur": 266,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s79.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21874,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s79.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21985,
+      "dur": 49,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s80.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22034,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s81.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22282,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s83.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22475,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s84.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22914,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s84.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23027,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s85.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23206,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s86.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23404,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s87.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23500,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s109.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23667,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s89.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24011,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s91.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24341,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s88.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24415,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s90.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24745,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s90.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24832,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s92.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24935,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s93.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25498,
+      "dur": 64,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s93.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25562,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s94.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25753,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s95.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25960,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s96.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26138,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s97.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26350,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s98.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26495,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s99.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26909,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s99.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27848,
+      "dur": 244,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s100.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28482,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s100.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28607,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s101.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28728,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s102.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28919,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s103.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29106,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s104.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29336,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s105.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29441,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s106.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29673,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s107.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29735,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s133.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30095,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s133.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30425,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s133.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30526,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s108.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30718,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s110.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30838,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s111.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31024,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s112.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31124,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s113.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31531,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s113.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31677,
+      "dur": 297,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s114.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31974,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s116.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32484,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s116.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32694,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s117.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32883,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s118.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32976,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s119.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33306,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s119.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33636,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s119.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33878,
+      "dur": 254,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s120.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34132,
+      "dur": 54,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s121.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34186,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s122.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 34559,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s122.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34889,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s122.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 34986,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s123.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 35091,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s124.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 35243,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s125.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 35369,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s126.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 35486,
+      "dur": 274,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s127.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 35760,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s128.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 36124,
+      "dur": 346,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s128.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 36470,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s129.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 36624,
+      "dur": 290,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s130.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 36914,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s131.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 38032,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s131.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 38256,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s132.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 38721,
+      "dur": 299,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s132.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 39020,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s134.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 39415,
+      "dur": 39,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s134.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 40379,
+      "dur": 44,
+      "kind": "image",
+      "src": "img/ines-geranios-no-florecen_s134.png",
+      "kb": 2,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 758,
+      "dur": 180,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "HUERTA REAL",
+        "title": "Inés",
+        "sub": "Huertera de balcón, sin pose"
+      }
+    },
+    {
+      "from": 2762,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "Exceso de nitrógeno"
+      }
+    },
+    {
+      "from": 2851,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 1,
+        "text": "Exceso de nitrógeno"
+      }
+    },
+    {
+      "from": 2992,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "NITRÓGENO",
+        "sub": "mucha hoja, poca flor",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 7814,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "CUIDADO",
+        "sub": "No fertilices con la tierra seca: puede quemar raíces",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 8926,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "Falta de luz directa"
+      }
+    },
+    {
+      "from": 8973,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 2,
+        "text": "Falta de luz directa"
+      }
+    },
+    {
+      "from": 11430,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "30 CM",
+        "sub": "a veces alcanza",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 13731,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 13882,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "Maceta demasiado grande"
+      }
+    },
+    {
+      "from": 13943,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 3,
+        "text": "Maceta muy grande"
+      }
+    },
+    {
+      "from": 17747,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "title": "Flores marchitas sin quitar"
+      }
+    },
+    {
+      "from": 17784,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 4,
+        "text": "No quitar flores secas"
+      }
+    },
+    {
+      "from": 18099,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ENERGÍA",
+        "sub": "se va a semillas",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 21117,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 5,
+        "text": "Riego irregular"
+      }
+    },
+    {
+      "from": 21222,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ENCHARCAMIENTO",
+        "sub": "raíces débiles",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 24832,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "¿Cuál es tu caso?"
+      }
+    },
+    {
+      "from": 27840,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PLAN",
+        "title": "Cuatro semanas de cambios"
+      }
+    },
+    {
+      "from": 33513,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 33878,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "FACTORES EXTRA",
+        "title": "Temperatura y variedad"
+      }
+    },
+    {
+      "from": 34186,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "TEMPERATURA",
+        "sub": "calor o frío extremo",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 34986,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "CUIDADO",
+        "sub": "Protegé del sol extremo del mediodía en olas de calor",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 36470,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "PLAGAS",
+        "sub": "pulgones y ácaros",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 36982,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REPASO",
+        "title": "Lo esencial en resumen"
+      }
+    },
+    {
+      "from": 39511,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 40327,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 2,
+      "dur": 270,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PROBLEMA",
+        "phrase": "Hojas sanas y frondosas, pero casi sin flores",
+        "accent": "casi sin flores",
+        "src": "img/ines-geranios-no-florecen_s01.png"
+      }
+    },
+    {
+      "from": 1896,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que vas a aprender hoy",
+        "items": [
+          "El error más común",
+          "Otras causas frecuentes",
+          "Diagnóstico rápido",
+          "Plan semana a semana"
+        ]
+      }
+    },
+    {
+      "from": 3101,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Más fertilizante es siempre mejor",
+        "truth": "El exceso de nitrógeno da hojas, no flores"
+      }
+    },
+    {
+      "from": 4035,
+      "dur": 330,
+      "comp": "CrecimientoPlanta",
+      "props": {
+        "theme": "earth",
+        "title": "Por qué crece pero no florece",
+        "stages": [
+          {
+            "label": "BROTE",
+            "sub": "mucha hoja nueva"
+          },
+          {
+            "label": "TALLOS GRUESOS",
+            "sub": "verde intenso"
+          },
+          {
+            "label": "SIN FLOR",
+            "sub": "energía mal repartida"
+          }
+        ]
+      }
+    },
+    {
+      "from": 4987,
+      "dur": 300,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Revisá la etiqueta del fertilizante",
+        "left": {
+          "label": "Genérico 30-10-10",
+          "sub": "mucho nitrógeno, para césped"
+        },
+        "right": {
+          "label": "Floración 10-30-20",
+          "sub": "fósforo y potasio altos"
+        }
+      }
+    },
+    {
+      "from": 6185,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Errores al cambiar el fertilizante",
+        "items": [
+          "Dejar de fertilizar del todo",
+          "Fertilizar con demasiada frecuencia",
+          "Aplicarlo sobre tierra seca"
+        ]
+      }
+    },
+    {
+      "from": 7502,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL DATO",
+        "value": 3,
+        "prefix": "",
+        "suffix": " meses",
+        "label": "dura el fertilizante de liberación lenta"
+      }
+    },
+    {
+      "from": 8311,
+      "dur": 240,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TIEMPO DE ESPERA",
+        "value": 3,
+        "max": 6,
+        "suffix": " sem",
+        "label": "semanas mínimas para notar cambios"
+      }
+    },
+    {
+      "from": 9129,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL DATO",
+        "value": 6,
+        "prefix": "4 a ",
+        "suffix": " horas",
+        "label": "de sol directo que necesita el geranio"
+      }
+    },
+    {
+      "from": 10546,
+      "dur": 240,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "value": 4,
+        "max": 6,
+        "suffix": " h",
+        "label": "horas mínimas de sol que necesita"
+      }
+    },
+    {
+      "from": 11593,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SOLUCIÓN SIMPLE",
+        "phrase": "A veces alcanza con mover la maceta treinta centímetros",
+        "accent": "treinta centímetros",
+        "src": "img/ines-geranios-no-florecen_s40.png"
+      }
+    },
+    {
+      "from": 12340,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Más agua compensa la falta de sol",
+        "truth": "Nada reemplaza la luz directa del sol"
+      }
+    },
+    {
+      "from": 14404,
+      "dur": 300,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Tamaño ideal de maceta",
+        "left": {
+          "label": "Maceta gigante",
+          "sub": "mucha raíz y hoja, poca flor"
+        },
+        "right": {
+          "label": "Maceta proporcional",
+          "sub": "5 a 8 cm más que la raíz"
+        }
+      }
+    },
+    {
+      "from": 15246,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DESPROPORCIÓN",
+        "value": 40,
+        "prefix": "",
+        "suffix": " cm",
+        "label": "de maceta para una planta de apenas 20 cm"
+      }
+    },
+    {
+      "from": 16331,
+      "dur": 210,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "AL TRASPLANTAR",
+        "value": 8,
+        "max": 10,
+        "suffix": " cm",
+        "label": "máximo recomendado por encima del cepellón"
+      }
+    },
+    {
+      "from": 17252,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Mejor una maceta grande para años",
+        "truth": "Mejor trasplantes moderados y más seguidos"
+      }
+    },
+    {
+      "from": 18221,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HÁBITO CLAVE",
+        "phrase": "La flor marchita le resta energía a las flores nuevas",
+        "accent": "resta energía",
+        "src": "img/ines-geranios-no-florecen_s64.png"
+      }
+    },
+    {
+      "from": 19796,
+      "dur": 360,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CÓMO HACERLO",
+        "title": "Deshojado correcto paso a paso",
+        "steps": [
+          {
+            "title": "Cortá el tallito floral completo",
+            "sub": "no solo el pétalo seco"
+          },
+          {
+            "title": "Revisá cada 3 o 4 días",
+            "sub": "durante toda la floración"
+          },
+          {
+            "title": "Usá dedos o tijera limpia",
+            "sub": "rápido y sin dañar la planta"
+          }
+        ]
+      }
+    },
+    {
+      "from": 20859,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Deshojar es como podar fuerte",
+        "truth": "Solo se quita lo seco, nunca lo sano"
+      }
+    },
+    {
+      "from": 21664,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CUIDADO",
+        "phrase": "Raíces débiles no tienen energía para florecer",
+        "accent": "raíces débiles",
+        "src": "img/ines-geranios-no-florecen_s79.png"
+      }
+    },
+    {
+      "from": 22644,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Señales de exceso de riego",
+        "items": [
+          "Agua acumulada en el platillo",
+          "Tierra siempre húmeda al tacto",
+          "Olor agrio en la tierra"
+        ]
+      }
+    },
+    {
+      "from": 23801,
+      "dur": 210,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RIEGO EN VERANO",
+        "value": 3,
+        "max": 7,
+        "suffix": " días",
+        "label": "frecuencia de riego: de 3 a 7 días"
+      }
+    },
+    {
+      "from": 25138,
+      "dur": 360,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Diagnóstico rápido: revisá esto",
+        "items": [
+          "¿Mucha hoja y pocas flores?",
+          "¿Menos de 4 horas de sol?",
+          "¿Maceta desproporcionada?",
+          "¿Flores marchitas sin quitar?",
+          "¿Tierra siempre húmeda?"
+        ]
+      }
+    },
+    {
+      "from": 26609,
+      "dur": 300,
+      "comp": "CrecimientoPlanta",
+      "props": {
+        "theme": "earth",
+        "title": "De hoja exuberante a floración pareja",
+        "stages": [
+          {
+            "label": "DIAGNÓSTICO",
+            "sub": "identificás la causa"
+          },
+          {
+            "label": "AJUSTE",
+            "sub": "cambiás el hábito"
+          },
+          {
+            "label": "FLORACIÓN",
+            "sub": "energía bien repartida"
+          }
+        ]
+      }
+    },
+    {
+      "from": 28092,
+      "dur": 390,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Plan de cuatro semanas",
+        "steps": [
+          {
+            "when": "Semana 1",
+            "text": "Diagnóstico de luz y cambio de fertilizante"
+          },
+          {
+            "when": "Semana 2",
+            "text": "Revisión de maceta y trasplante si hace falta"
+          },
+          {
+            "when": "Semana 3",
+            "text": "Ajuste de riego y deshojado regular"
+          },
+          {
+            "when": "Semana 4",
+            "text": "Observación: primeros brotes florales"
+          }
+        ]
+      }
+    },
+    {
+      "from": 29795,
+      "dur": 300,
+      "comp": "CalendarioSiembra",
+      "props": {
+        "theme": "earth",
+        "title": "¿Cuándo trasplantar geranios?",
+        "crop": "Geranios en maceta",
+        "sow": [
+          9,
+          10
+        ],
+        "harvest": [
+          11,
+          12,
+          1
+        ],
+        "note": "Mejor antes de que llegue el calor fuerte"
+      }
+    },
+    {
+      "from": 31321,
+      "dur": 210,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "VENTANA DE ESPERA",
+        "value": 6,
+        "max": 6,
+        "suffix": " sem",
+        "label": "límite habitual para ver mejoras"
+      }
+    },
+    {
+      "from": 32184,
+      "dur": 300,
+      "comp": "CrecimientoPlanta",
+      "props": {
+        "theme": "earth",
+        "title": "La señal que estás buscando",
+        "stages": [
+          {
+            "label": "BROTE FLORAL",
+            "sub": "primeras señales"
+          },
+          {
+            "label": "CAPULLO",
+            "sub": "se está formando"
+          },
+          {
+            "label": "FLOR ABIERTA",
+            "sub": "resultado del plan"
+          }
+        ]
+      }
+    },
+    {
+      "from": 34289,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "El efecto de la temperatura",
+        "left": {
+          "label": "Calor o frío extremo",
+          "sub": "la floración se pausa"
+        },
+        "right": {
+          "label": "Temperatura moderada",
+          "sub": "mejor floración"
+        }
+      }
+    },
+    {
+      "from": 35884,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Si hago todo bien, siempre va a florecer mucho",
+        "truth": "Algunas variedades florecen menos por naturaleza"
+      }
+    },
+    {
+      "from": 38421,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Resumen: qué corregir primero",
+        "items": [
+          "Luz y fertilizante",
+          "Tamaño de maceta y deshojado",
+          "Riego ajustado en paralelo"
+        ]
+      }
+    },
+    {
+      "from": 39205,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RECORDÁ",
+        "phrase": "Cada balcón tiene su propia combinación de clima y luz",
+        "accent": "su propia combinación",
+        "src": "img/ines-geranios-no-florecen_s134.png"
+      }
+    }
+  ]
+}
