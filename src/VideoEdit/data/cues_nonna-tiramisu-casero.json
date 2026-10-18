@@ -1,0 +1,1811 @@
+{
+  "slug": "nonna-tiramisu-casero",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 33073,
+  "audioSrc": "nonna-tiramisu-casero.mp3",
+  "avatarSrc": "nonna-tiramisu-casero_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1151,
+      "dur": 1232,
+      "clip": 0
+    },
+    {
+      "from": 7355,
+      "dur": 525,
+      "clip": 1232
+    },
+    {
+      "from": 17908,
+      "dur": 608,
+      "clip": 1757
+    },
+    {
+      "from": 28588,
+      "dur": 490,
+      "clip": 2365
+    },
+    {
+      "from": 31450,
+      "dur": 1046,
+      "clip": 2855
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 5,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 245,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 487,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 695,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 904,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2383,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2812,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2891,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3131,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3291,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3425,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s08.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3745,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s08.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3938,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s09.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4146,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4385,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s11.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4792,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s11.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5122,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s11.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5215,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s12.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5348,
+      "dur": 283,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s13.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5631,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s14.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5825,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s15.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5998,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s16.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6305,
+      "dur": 347,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s16.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6652,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s17.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6816,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s18.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7138,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s18.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7880,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s18.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8210,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s18.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8312,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s19.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8513,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s20.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8977,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s20.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9198,
+      "dur": 70,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s21.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9268,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s22.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9444,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s23.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9553,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s24.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9748,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s25.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10042,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s25.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10258,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s26.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10348,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s27.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10528,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s28.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10588,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s29.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10798,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s30.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11038,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s31.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11368,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s31.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11638,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s32.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11728,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s33.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11908,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s34.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12268,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s34.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12568,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s35.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12688,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s36.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12808,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s37.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12928,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s38.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13408,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s38.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13558,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s39.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13708,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s40.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13828,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s41.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14042,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s42.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14338,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s42.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14668,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s42.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14758,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s43.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14884,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s44.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15298,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s44.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15508,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s45.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15628,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s46.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15808,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s47.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15923,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s48.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16198,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s48.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16378,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s49.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16560,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s50.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16768,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s51.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17188,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s51.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17458,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s52.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17548,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s53.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17638,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s54.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17838,
+      "dur": 70,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s55.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18516,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s56.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18778,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s57.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18868,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s58.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19048,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s59.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19228,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s60.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19648,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s60.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19978,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s61.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20098,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20218,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s63.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20428,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s64.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20851,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s64.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21068,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s65.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21178,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s66.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21358,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s67.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21598,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s68.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21958,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s68.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22288,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s69.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22468,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s70.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22648,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s71.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22828,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s72.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23128,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s72.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23458,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s72.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23578,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s73.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23728,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s74.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24088,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s74.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24208,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s75.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24418,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s76.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24630,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s77.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24748,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s78.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25108,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s78.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25258,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s79.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25498,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s80.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25738,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s81.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25948,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s82.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26248,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s82.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26578,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s83.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26788,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s84.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27118,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s84.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27388,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s85.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27508,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s86.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27628,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s87.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27844,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s88.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28108,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s88.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28438,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s88.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28498,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s89.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29078,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s89.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29408,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s89.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29548,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s90.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29638,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s91.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29758,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s92.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29851,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s93.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30224,
+      "dur": 254,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s93.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30478,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s94.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30688,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s95.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30871,
+      "dur": 57,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s96.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30928,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s97.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31198,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s98.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32496,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s98.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32826,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/nonna-tiramisu-casero_s98.png",
+      "kb": 1,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1151,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "LA NONNA (COCINA)",
+        "title": "La Nonna",
+        "sub": "recetas de la cocina de siempre, sin vueltas"
+      }
+    },
+    {
+      "from": 2375,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA RECETA",
+        "title": "6 ingredientes, sin horno"
+      }
+    },
+    {
+      "from": 2891,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "EL TRUCO",
+        "sub": "del café, la razón número 3",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 3938,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LOS INGREDIENTES",
+        "title": "Qué necesitas y por qué"
+      }
+    },
+    {
+      "from": 5215,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ESPRESSO",
+        "sub": "nunca instantáneo diluido",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 7639,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de La Nonna (cocina)",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 8065,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "Yemas y mascarpone"
+      }
+    },
+    {
+      "from": 11038,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "El truco del café"
+      }
+    },
+    {
+      "from": 11368,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CAFÉ FRÍO",
+        "sub": "nunca caliente",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 11728,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 2,
+        "suffix": " seg",
+        "label": "máximo por lado",
+        "corner": "br"
+      }
+    },
+    {
+      "from": 14758,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL ARMADO",
+        "title": "Cómo montar las capas"
+      }
+    },
+    {
+      "from": 16560,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CUATRO HORAS",
+        "sub": "el mínimo real",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 18328,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de La Nonna (cocina)",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 18778,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LOS ERRORES",
+        "title": "5 errores que arruinan el postre"
+      }
+    },
+    {
+      "from": 19048,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 1,
+        "text": "mascarpone mal sustituido"
+      }
+    },
+    {
+      "from": 20098,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 2,
+        "text": "bizcocho equivocado"
+      }
+    },
+    {
+      "from": 21178,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 3,
+        "text": "atajo del congelador"
+      }
+    },
+    {
+      "from": 21178,
+      "dur": 135,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "SIN ATAJOS DE CONGELADOR",
+        "sub": "una hora de freezer cambia la textura de la crema",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 22288,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 4,
+        "text": "cacao demasiado pronto"
+      }
+    },
+    {
+      "from": 23128,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 5,
+        "text": "huevo crudo sin cuidado"
+      }
+    },
+    {
+      "from": 23128,
+      "dur": 135,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "SOBRE EL HUEVO CRUDO",
+        "sub": "existe una versión que cocina la yema a baño maría",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 24418,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL DIAGNÓSTICO",
+        "title": "¿Tu tiramisú quedó bien?"
+      }
+    },
+    {
+      "from": 25498,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "DESDE EL BORDE",
+        "sub": "para no arruinar la presentación",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 27268,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LAS VARIANTES",
+        "title": "Sin café y con menos azúcar"
+      }
+    },
+    {
+      "from": 28498,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL REPASO",
+        "title": "Todo lo que vimos hoy"
+      }
+    },
+    {
+      "from": 29851,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "UN DÍA ENTERO",
+        "sub": "doce a veinticuatro horas, el ideal",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 31450,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de La Nonna (cocina)",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 32668,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de La Nonna (cocina)",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 5,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PROBLEMA",
+        "phrase": "Se desparrama como una sopa fría",
+        "accent": "sopa fría",
+        "src": "img/nonna-tiramisu-casero_s01.png"
+      }
+    },
+    {
+      "from": 2512,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EN ESTE VIDEO",
+        "title": "Lo que vamos a ver hoy",
+        "steps": [
+          {
+            "title": "Los ingredientes",
+            "sub": "por qué importa la calidad de cada uno"
+          },
+          {
+            "title": "El truco del café",
+            "sub": "para que el bizcocho no se deshaga"
+          },
+          {
+            "title": "El armado y el diagnóstico",
+            "sub": "paso a paso y cómo revisar el resultado"
+          }
+        ]
+      }
+    },
+    {
+      "from": 3535,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Antes de empezar, sé honesta",
+        "items": [
+          "No es un postre instantáneo",
+          "Necesita tiempo real de refrigerado",
+          "Te voy a decir exactamente cuánto"
+        ]
+      }
+    },
+    {
+      "from": 4522,
+      "dur": 270,
+      "comp": "PizarraNonna",
+      "props": {
+        "theme": "earth",
+        "title": "Los 6 ingredientes",
+        "items": [
+          "Mascarpone",
+          "Huevos: yema y clara",
+          "Azúcar (poca)",
+          "Café espresso frío",
+          "Savoiardo y cacao amargo"
+        ],
+        "note": "sin horno"
+      }
+    },
+    {
+      "from": 6125,
+      "dur": 180,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Cualquier queso cremoso sirve igual",
+        "truth": "El mascarpone de mala calidad deja todo más líquido"
+      }
+    },
+    {
+      "from": 6928,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "La fuerza del café decide el sabor",
+        "left": {
+          "label": "Café fuerte",
+          "sub": "contraste amargo que lo hace reconocible"
+        },
+        "right": {
+          "label": "Café flojo",
+          "sub": "sabor a solo crema dulce"
+        }
+      }
+    },
+    {
+      "from": 8707,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "Cómo batir sin cortar la crema",
+        "steps": [
+          {
+            "title": "Yemas con azúcar",
+            "sub": "batir hasta que blanquean y espesan"
+          },
+          {
+            "title": "Incorporar mascarpone",
+            "sub": "con movimientos suaves, nunca a máxima velocidad"
+          },
+          {
+            "title": "Revisar la textura",
+            "sub": "se sostiene en la cuchara y tiene brillo parejo"
+          }
+        ]
+      }
+    },
+    {
+      "from": 9832,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Claras a punto de nieve",
+        "items": [
+          "Firmes, no secas ni quebradizas",
+          "Se incorporan con movimientos envolventes",
+          "De abajo hacia arriba, sin aplastar"
+        ]
+      }
+    },
+    {
+      "from": 11188,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL TRUCO",
+        "value": 2,
+        "prefix": "",
+        "suffix": " segundos",
+        "label": "máximo por lado para mojar el bizcocho"
+      }
+    },
+    {
+      "from": 12088,
+      "dur": 180,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Hay que empapar bien el bizcocho en café",
+        "truth": "Solo debe humedecerse, sin perder su estructura"
+      }
+    },
+    {
+      "from": 13168,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA PRUEBA",
+        "title": "Prueba con un solo bizcocho",
+        "steps": [
+          {
+            "title": "Pasarlo por el café",
+            "sub": "un segundo o dos por cada lado"
+          },
+          {
+            "title": "Esperar 15 segundos",
+            "sub": "sobre un plato, sin tocarlo"
+          },
+          {
+            "title": "Tocar con el dedo",
+            "sub": "firme y húmedo, nunca que se hunda"
+          }
+        ]
+      }
+    },
+    {
+      "from": 14158,
+      "dur": 180,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "El café dulce o con licor se espesa",
+        "left": {
+          "label": "Café simple",
+          "sub": "fácil de controlar para empezar"
+        },
+        "right": {
+          "label": "Café dulce con licor",
+          "sub": "más denso, ablanda más rápido el bizcocho"
+        }
+      }
+    },
+    {
+      "from": 15088,
+      "dur": 210,
+      "comp": "ProporcionTazas",
+      "props": {
+        "theme": "earth",
+        "title": "La proporción de la Nonna",
+        "left": {
+          "label": "Bizcocho",
+          "parts": 1
+        },
+        "right": {
+          "label": "Crema",
+          "parts": 1
+        },
+        "note": "una capa de cada, dos veces"
+      }
+    },
+    {
+      "from": 16018,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL DETALLE",
+        "phrase": "Que se vean las capas, no una masa",
+        "accent": "capas definidas",
+        "src": "img/nonna-tiramisu-casero_s48.png"
+      }
+    },
+    {
+      "from": 16948,
+      "dur": 240,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TIEMPO DE REFRIGERADO",
+        "value": 4,
+        "max": 24,
+        "suffix": " h",
+        "label": "mínimo 4 horas, lo ideal es mucho más"
+      }
+    },
+    {
+      "from": 19468,
+      "dur": 180,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "La crema de leche batida reemplaza al mascarpone",
+        "truth": "Queda sin cuerpo y mucho más líquida"
+      }
+    },
+    {
+      "from": 20641,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Savoiardo sí, bizcocho blando no",
+        "items": [
+          "Savoiardo: seco, absorbe lento y aguanta",
+          "Bizcocho blando: se deshace al instante",
+          "El mismo error aunque el tiempo sea corto"
+        ]
+      }
+    },
+    {
+      "from": 21748,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "No hay atajo para el frío",
+        "left": {
+          "label": "Congelador 1 hora",
+          "sub": "cambia la textura, forma cristales de hielo"
+        },
+        "right": {
+          "label": "Vasos individuales",
+          "sub": "2 a 3 horas y un resultado aceptable"
+        }
+      }
+    },
+    {
+      "from": 22948,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 4",
+        "phrase": "El cacao se espolvorea recién al final",
+        "accent": "al final",
+        "src": "img/nonna-tiramisu-casero_s72.png"
+      }
+    },
+    {
+      "from": 23848,
+      "dur": 240,
+      "comp": "PizarraNonna",
+      "props": {
+        "theme": "earth",
+        "title": "Crema de huevo más segura",
+        "items": [
+          "Yema con azúcar",
+          "A baño maría, sin hervir",
+          "Hasta que espesa y blanquea",
+          "Enfriar antes de mezclar"
+        ],
+        "note": "misma textura, más seguridad"
+      }
+    },
+    {
+      "from": 24838,
+      "dur": 270,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Diagnóstico en 3 pasos",
+        "steps": [
+          {
+            "when": "Paso 1",
+            "text": "mira la superficie: brillante, firme, pareja"
+          },
+          {
+            "when": "Paso 2",
+            "text": "inclina el molde: no debe juntarse líquido"
+          },
+          {
+            "when": "Paso 3",
+            "text": "corta desde el borde: capas bien definidas"
+          },
+          {
+            "when": "Paso 4",
+            "text": "si ves todo mezclado, faltó tiempo de frío"
+          }
+        ]
+      }
+    },
+    {
+      "from": 26068,
+      "dur": 180,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Si todo se ve mezclado, está arruinado",
+        "truth": "Probablemente faltó refrigerado o el armado no quedó en capas"
+      }
+    },
+    {
+      "from": 26908,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Si quedó líquido, no está perdido",
+        "items": [
+          "Sírvelo en copas o vasos individuales",
+          "Vuelve a refrigerar varias horas más",
+          "Muchas veces solo faltaba tiempo"
+        ]
+      }
+    },
+    {
+      "from": 27928,
+      "dur": 180,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Dos variantes que me piden seguido",
+        "left": {
+          "label": "Sin café (niños)",
+          "sub": "con jugo de fruta, ya no es tiramisú tradicional"
+        },
+        "right": {
+          "label": "Menos azúcar",
+          "sub": "reducir poco, sin eliminarla del todo"
+        }
+      }
+    },
+    {
+      "from": 30014,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL RESUMEN",
+        "value": 24,
+        "prefix": "",
+        "suffix": " horas",
+        "label": "lo ideal para un corte firme y prolijo"
+      }
+    }
+  ]
+}
