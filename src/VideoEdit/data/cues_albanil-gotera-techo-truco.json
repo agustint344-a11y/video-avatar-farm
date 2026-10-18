@@ -1,0 +1,2019 @@
+{
+  "slug": "albanil-gotera-techo-truco",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 35561,
+  "audioSrc": "albanil-gotera-techo-truco.mp3",
+  "avatarSrc": "albanil-gotera-techo-truco_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 811,
+      "dur": 705,
+      "clip": 0
+    },
+    {
+      "from": 9135,
+      "dur": 983,
+      "clip": 705
+    },
+    {
+      "from": 16555,
+      "dur": 549,
+      "clip": 1688
+    },
+    {
+      "from": 17716,
+      "dur": 718,
+      "clip": 2237
+    },
+    {
+      "from": 30032,
+      "dur": 771,
+      "clip": 2955
+    },
+    {
+      "from": 32356,
+      "dur": 1050,
+      "clip": 3726
+    },
+    {
+      "from": 34525,
+      "dur": 991,
+      "clip": 4776
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 352,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 530,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 664,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1516,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1833,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1997,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2145,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s06.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2293,
+      "dur": 71,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s07.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2634,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2791,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s08.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2851,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s09.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3000,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s10.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3173,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s62.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3413,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s12.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3727,
+      "dur": 307,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s11.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4034,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s13.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4178,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s14.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4283,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s15.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4358,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s16.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4450,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s17.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4589,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s18.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4908,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s18.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5004,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s48.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5210,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s19.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5329,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s20.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5485,
+      "dur": 49,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s21.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5534,
+      "dur": 80,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s22.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5824,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s24.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5886,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s25.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6087,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s26.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6149,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s27.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6548,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s105.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6713,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s28.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6782,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s29.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6964,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s30.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7393,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s23.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7581,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s31.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7673,
+      "dur": 205,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s32.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7878,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s33.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8206,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s33.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8348,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s34.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8468,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s35.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8648,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s36.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8754,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s37.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8934,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s38.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9034,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s39.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10118,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s40.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10225,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s41.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10337,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s42.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10480,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s43.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10606,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s44.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10983,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s44.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11245,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s45.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11320,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s46.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11513,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s47.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11640,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s49.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12066,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s49.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12251,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s50.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12326,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s51.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12444,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s52.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12563,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s53.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12724,
+      "dur": 56,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s54.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12780,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s129.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12950,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s57.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13106,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s58.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13487,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s56.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13590,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s59.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13680,
+      "dur": 251,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s60.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13931,
+      "dur": 205,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s61.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14136,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s63.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14287,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s64.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14401,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s65.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14536,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s66.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14639,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s67.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14747,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s68.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14917,
+      "dur": 58,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s69.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15215,
+      "dur": 357,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s55.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15572,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s70.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15712,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s71.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15848,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s72.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16305,
+      "dur": 250,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s72.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17104,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s73.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17324,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s74.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17460,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s75.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17555,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s76.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18434,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s77.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18914,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s77.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19148,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s78.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19266,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s79.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19417,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s80.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19477,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s81.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19677,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s82.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20054,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s82.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20327,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s83.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20522,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s84.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20636,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s85.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20838,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s87.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20987,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s88.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21105,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s89.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21556,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s86.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21762,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s90.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21885,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s91.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22033,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s92.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22165,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s93.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22285,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s94.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22734,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s94.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23064,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s94.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23185,
+      "dur": 307,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s95.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23492,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s97.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23830,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s96.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24044,
+      "dur": 49,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s98.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24093,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s99.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24167,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s100.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24553,
+      "dur": 293,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s100.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24846,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s102.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24951,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s103.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25100,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s104.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25553,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s101.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25652,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s106.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25965,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s106.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26200,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s107.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26336,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s108.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26666,
+      "dur": 366,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s108.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27032,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s109.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27253,
+      "dur": 205,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s110.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27458,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s111.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27584,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s112.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27808,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s113.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28136,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s113.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28355,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s114.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28482,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s115.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28836,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s115.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29038,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s116.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29240,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s117.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29360,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s118.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29606,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s119.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29830,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s120.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30803,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s121.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30997,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s122.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31500,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s122.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31562,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s123.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31710,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s124.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31854,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s125.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32032,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s126.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32170,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s127.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33406,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s127.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33512,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s128.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33986,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s128.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 34187,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s130.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 34396,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s131.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 35516,
+      "dur": 45,
+      "kind": "image",
+      "src": "img/albanil-gotera-techo-truco_s131.png",
+      "kb": 1,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 4,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 1",
+        "title": "La gotera que no te deja dormir"
+      }
+    },
+    {
+      "from": 811,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "MATEO ALBAÑIL",
+        "title": "Mateo",
+        "sub": "Más de 15 años arreglando techos y humedades"
+      }
+    },
+    {
+      "from": 1850,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SIN MAGIA",
+        "sub": "solo saber dónde mirar",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 2851,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 2",
+        "title": "Por qué aparece una gotera"
+      }
+    },
+    {
+      "from": 3891,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SIGUE LA VIGA",
+        "sub": "el agua viaja antes de gotear",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 4283,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "Grietas en la losa o el revoque"
+      }
+    },
+    {
+      "from": 5004,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ANTES DE SUBIR",
+        "sub": "hazlo en un día seco y con buena luz",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 5485,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "Membranas viejas o dañadas"
+      }
+    },
+    {
+      "from": 6149,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 15,
+        "suffix": " años",
+        "label": "vida útil máxima de la membrana",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 6592,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "Canaletas y desagües tapados"
+      }
+    },
+    {
+      "from": 7673,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "VIENTO FUERTE",
+        "sub": "corre las tejas de lugar",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 9135,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 10110,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 3",
+        "title": "El truco de los cinco dólares"
+      }
+    },
+    {
+      "from": 11195,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 1",
+        "title": "Localiza el punto de entrada"
+      }
+    },
+    {
+      "from": 12875,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 2",
+        "title": "Limpia bien la superficie"
+      }
+    },
+    {
+      "from": 14536,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 4",
+        "title": "Aplica el parche amplio"
+      }
+    },
+    {
+      "from": 15218,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "BORDES OCULTOS",
+        "sub": "ahí también se mete el agua",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 18076,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 20214,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 48,
+        "suffix": " h",
+        "label": "curado total de la masilla",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 20636,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 4",
+        "title": "Cuánto dura este arreglo"
+      }
+    },
+    {
+      "from": 21649,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ENEMIGO: EL SOL",
+        "sub": "reseca el material asfáltico",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 23185,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 5",
+        "title": "Los errores más comunes"
+      }
+    },
+    {
+      "from": 23447,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 1,
+        "text": "Superficie sucia o con polvo"
+      }
+    },
+    {
+      "from": 23905,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "POLVO = DESPEGUE",
+        "sub": "el error más frecuente",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 24044,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 2,
+        "text": "Capa de masilla demasiado fina"
+      }
+    },
+    {
+      "from": 24808,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 3,
+        "text": "No buscar el origen real"
+      }
+    },
+    {
+      "from": 26200,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 5,
+        "text": "Subir a techo mojado sin cuidado"
+      }
+    },
+    {
+      "from": 26336,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "techo inclinado y mojado: usa calzado antideslizante",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 28482,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "si el techo se siente blando, no sigas caminando",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 30032,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 6",
+        "title": "Repaso final"
+      }
+    },
+    {
+      "from": 33301,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 34187,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 35000,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 142,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PROBLEMA",
+        "phrase": "La mancha en el techo crece cada noche de lluvia",
+        "accent": "crece cada noche",
+        "src": "img/albanil-gotera-techo-truco_s01.png"
+      }
+    },
+    {
+      "from": 1623,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL DATO",
+        "value": 5,
+        "prefix": "$",
+        "suffix": "",
+        "label": "lo que cuesta el material que corta la gotera"
+      }
+    },
+    {
+      "from": 2364,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que vas a lograr hoy",
+        "items": [
+          "Cortar la gotera en minutos",
+          "Encontrar el origen real del agua",
+          "Saber cuánto te va a durar el arreglo"
+        ]
+      }
+    },
+    {
+      "from": 3517,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL ERROR MÁS COMÚN",
+        "phrase": "Donde gotea adentro casi nunca es por donde entra el agua",
+        "accent": "nunca es el mismo punto",
+        "src": "img/albanil-gotera-techo-truco_s12.png"
+      }
+    },
+    {
+      "from": 4728,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "value": 1,
+        "prefix": "",
+        "suffix": " mm",
+        "label": "de grieta alcanza para que entre el agua"
+      }
+    },
+    {
+      "from": 5614,
+      "dur": 210,
+      "comp": "NivelBurbuja",
+      "props": {
+        "theme": "earth",
+        "title": "Revisa la pendiente antes de subir",
+        "verdict": "¡CON CUIDADO!",
+        "sub": "techo inclinado y mojado, calzado antideslizante"
+      }
+    },
+    {
+      "from": 6308,
+      "dur": 240,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "VIDA ÚTIL",
+        "value": 12,
+        "max": 15,
+        "suffix": " años",
+        "label": "duración típica de una membrana asfáltica"
+      }
+    },
+    {
+      "from": 7153,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Señales de canaleta tapada",
+        "items": [
+          "Hojas y tierra acumuladas",
+          "El agua sube de nivel",
+          "Gotea por debajo de las tejas"
+        ]
+      }
+    },
+    {
+      "from": 7966,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Dos causas muy distintas",
+        "left": {
+          "label": "Teja rota",
+          "sub": "arreglo simple y barato"
+        },
+        "right": {
+          "label": "Grieta en la losa",
+          "sub": "requiere revisar con más cuidado"
+        }
+      }
+    },
+    {
+      "from": 10803,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL MATERIAL",
+        "phrase": "Barato, resiste el agua y se pega a casi todo",
+        "accent": "resiste el agua",
+        "src": "img/albanil-gotera-techo-truco_s44.png"
+      }
+    },
+    {
+      "from": 11766,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 1",
+        "title": "Cómo localizar la entrada de agua",
+        "steps": [
+          {
+            "title": "Revisa cerca de paredes",
+            "sub": "son el punto más débil"
+          },
+          {
+            "title": "Busca grietas y burbujas",
+            "sub": "en la membrana del techo"
+          },
+          {
+            "title": "Usa el método de la manguera",
+            "sub": "si no lo ves a simple vista"
+          }
+        ]
+      }
+    },
+    {
+      "from": 13247,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Saltarse la limpieza no cambia nada",
+        "truth": "Es la razón número uno por la que el parche se despega"
+      }
+    },
+    {
+      "from": 14975,
+      "dur": 240,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "MIDE EL PARCHE",
+        "w": 20,
+        "h": 10,
+        "unit": "cm",
+        "label": "PARCHE DE MASILLA",
+        "note": "al menos 5 cm más allá del borde de la grieta"
+      }
+    },
+    {
+      "from": 16035,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 5",
+        "title": "Refuerza con malla",
+        "steps": [
+          {
+            "title": "Coloca la malla",
+            "sub": "sobre la masilla todavía fresca"
+          },
+          {
+            "title": "Presiónala un poco",
+            "sub": "para que se hunda"
+          },
+          {
+            "title": "Cubre con otra capa",
+            "sub": "de masilla por encima"
+          }
+        ]
+      }
+    },
+    {
+      "from": 18644,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Las Calculadoras del Maestro",
+        "items": [
+          "Membrana para la azotea",
+          "Mortero para revoque o carpeta",
+          "Pintura para tus paredes"
+        ]
+      }
+    },
+    {
+      "from": 19844,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SECADO",
+        "value": 48,
+        "prefix": "",
+        "suffix": " horas",
+        "label": "para que la masilla alcance su resistencia máxima"
+      }
+    },
+    {
+      "from": 21316,
+      "dur": 240,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HONESTIDAD",
+        "value": 2,
+        "max": 5,
+        "suffix": " años",
+        "label": "duración típica del parche con sol directo"
+      }
+    },
+    {
+      "from": 22494,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Parche vs. solución definitiva",
+        "left": {
+          "label": "Parche de masilla",
+          "sub": "corta la gotera ahora"
+        },
+        "right": {
+          "label": "Impermeabilización completa",
+          "sub": "solución a largo plazo"
+        }
+      }
+    },
+    {
+      "from": 23620,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Si quedó pegado, ya está bien aplicado",
+        "truth": "El polvo se pega al polvo, no al techo"
+      }
+    },
+    {
+      "from": 24373,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 2",
+        "phrase": "Una capa fina no aguanta el movimiento del techo",
+        "accent": "no aguanta",
+        "src": "img/albanil-gotera-techo-truco_s100.png"
+      }
+    },
+    {
+      "from": 25313,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Tapé donde gotea adentro de casa",
+        "truth": "El agua entró por otro lado y sigue el mismo camino"
+      }
+    },
+    {
+      "from": 25725,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Antes de aplicar cualquier parche",
+        "items": [
+          "Revisa que las canaletas estén limpias",
+          "Confirma que no hay agua acumulada",
+          "Recién ahí aplica la masilla"
+        ]
+      }
+    },
+    {
+      "from": 27956,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ALERTA",
+        "value": 50,
+        "prefix": "",
+        "suffix": " cm",
+        "label": "una mancha de este tamaño indica un daño más extendido"
+      }
+    },
+    {
+      "from": 28626,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ATENCIÓN",
+        "phrase": "Si el techo se siente blando, ya no es un parche",
+        "accent": "no es un parche",
+        "src": "img/albanil-gotera-techo-truco_s115.png"
+      }
+    },
+    {
+      "from": 31170,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REPASO",
+        "title": "El truco en cinco pasos",
+        "steps": [
+          {
+            "title": "Localiza la entrada",
+            "sub": "en un día seco"
+          },
+          {
+            "title": "Limpia la superficie",
+            "sub": "sin polvo ni restos"
+          },
+          {
+            "title": "Aplica un parche amplio",
+            "sub": "5 cm más allá del borde"
+          },
+          {
+            "title": "Refuerza con malla",
+            "sub": "si tienes a mano"
+          },
+          {
+            "title": "Déjalo curar",
+            "sub": "24 a 48 horas"
+          }
+        ]
+      }
+    },
+    {
+      "from": 33716,
+      "dur": 270,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "title": "LO QUE TE AHORRAS",
+        "rows": [
+          {
+            "label": "Visita de un técnico a tu casa",
+            "price": "Una sola visita",
+            "bad": true
+          },
+          {
+            "label": "Biblioteca del Maestro",
+            "price": "Menos que eso"
+          }
+        ],
+        "total": {
+          "label": "Garantía",
+          "price": "7 días"
+        },
+        "stamp": "AHORRO"
+      }
+    }
+  ]
+}
