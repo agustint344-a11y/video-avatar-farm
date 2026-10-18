@@ -1,0 +1,2059 @@
+{
+  "slug": "ines-lechuga-amarga-maceta",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 38084,
+  "audioSrc": "ines-lechuga-amarga-maceta.mp3",
+  "avatarSrc": "ines-lechuga-amarga-maceta_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1085,
+      "dur": 533,
+      "clip": 0
+    },
+    {
+      "from": 2131,
+      "dur": 1005,
+      "clip": 533
+    },
+    {
+      "from": 4902,
+      "dur": 751,
+      "clip": 1538
+    },
+    {
+      "from": 17508,
+      "dur": 843,
+      "clip": 2289
+    },
+    {
+      "from": 34529,
+      "dur": 981,
+      "clip": 3132
+    },
+    {
+      "from": 36600,
+      "dur": 1046,
+      "clip": 4113
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 330,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 608,
+      "dur": 263,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 871,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s01.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1618,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s02.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1758,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s03.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1871,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1982,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3136,
+      "dur": 373,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s05.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3509,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s06.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3614,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s07.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3862,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s08.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4154,
+      "dur": 243,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s08.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4397,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s09.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4532,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s10.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4752,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s11.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5653,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s12.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5777,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s13.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5837,
+      "dur": 57,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s14.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5894,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s15.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6266,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s15.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6596,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s16.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6722,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s17.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6887,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s18.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7231,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s18.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7463,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s19.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7544,
+      "dur": 233,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s20.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7777,
+      "dur": 91,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s21.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7868,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s22.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8002,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s23.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8308,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s23.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8431,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s24.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8608,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s25.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8840,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s26.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8914,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s27.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9125,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s28.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9242,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s29.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9666,
+      "dur": 267,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s29.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9933,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s30.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10035,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s31.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10230,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s32.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10316,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s33.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10540,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s35.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10673,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s36.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10828,
+      "dur": 56,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s37.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10884,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s38.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11296,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s34.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11626,
+      "dur": 50,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s34.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11676,
+      "dur": 50,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s39.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11726,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11882,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s41.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12083,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s42.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12702,
+      "dur": 245,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s44.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12947,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s45.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13139,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s46.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13290,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s47.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13462,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s48.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13871,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s89.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14034,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s49.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14234,
+      "dur": 58,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s50.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14292,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s51.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14710,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s43.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14935,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s52.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15025,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s53.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15145,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s54.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15305,
+      "dur": 218,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s55.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15523,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s56.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15640,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s57.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15808,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s58.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16223,
+      "dur": 325,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s58.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16548,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s59.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16703,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s60.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16848,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s61.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17167,
+      "dur": 341,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s61.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18351,
+      "dur": 49,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s62.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18400,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s63.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18620,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s64.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18779,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s65.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19152,
+      "dur": 259,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s90.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19411,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s66.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19471,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s67.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19590,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s68.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19716,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s69.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19866,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s70.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19953,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s71.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20074,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s72.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20196,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s73.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20457,
+      "dur": 359,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s73.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20816,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s74.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20979,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s75.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21155,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s76.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21287,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s77.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21776,
+      "dur": 261,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s77.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22037,
+      "dur": 56,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s78.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22093,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s79.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22272,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s80.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22360,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s81.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22426,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s82.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22595,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s83.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22937,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s83.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23267,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s83.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23322,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s84.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23491,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s85.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23617,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s86.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23776,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s87.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23962,
+      "dur": 250,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s88.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24542,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s88.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24702,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s91.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24899,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s92.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25069,
+      "dur": 280,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s93.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25559,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s93.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25771,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s94.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25831,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s95.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26042,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s96.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26178,
+      "dur": 70,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s97.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26248,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s98.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26431,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s99.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26759,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s99.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27035,
+      "dur": 67,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s100.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27102,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s101.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27216,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s102.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27336,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s103.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27472,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s104.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27802,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s104.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27997,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s105.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28227,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s106.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28306,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s107.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28644,
+      "dur": 290,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s107.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28934,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s109.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29121,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s110.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29451,
+      "dur": 340,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s108.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29791,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s111.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29992,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s112.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30158,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s113.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30382,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s114.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30834,
+      "dur": 58,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s114.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30892,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s115.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31080,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s116.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31282,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s117.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31852,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s117.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31925,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s118.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32075,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s119.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32573,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s119.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32682,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s120.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32896,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s121.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33049,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s122.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33137,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s123.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33331,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s124.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33528,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s125.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33597,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s126.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33881,
+      "dur": 260,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s126.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34141,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s127.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34371,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s128.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 35510,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s129.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 35909,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s129.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 36137,
+      "dur": 243,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s130.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 37646,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s131.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 37976,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/ines-lechuga-amarga-maceta_s131.png",
+      "kb": 1,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1085,
+      "dur": 180,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "HUERTA REAL",
+        "title": "Inés",
+        "sub": "Huertera de balcón, de la práctica a tu maceta"
+      }
+    },
+    {
+      "from": 1388,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA HISTORIA",
+        "title": "La lechuga que no pude comer"
+      }
+    },
+    {
+      "from": 1871,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ESCUPIRLA",
+        "sub": "así de fuerte fue el amargor",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 3220,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "LA COMBINACIÓN",
+        "sub": "luz, calor y riego",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 4397,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SEIS RAZONES",
+        "sub": "una por una",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 5352,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 5777,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "Estrés por calor"
+      }
+    },
+    {
+      "from": 6596,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 30,
+        "suffix": "°C",
+        "label": "temperatura de estrés",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 7544,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "AMARGÓ DE GOLPE",
+        "sub": "de un día para el otro",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 9125,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "SEAMOS REALISTAS",
+        "sub": "el riego temprano ayuda, pero no anula un calor extremo",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 10494,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "Cosechar tarde"
+      }
+    },
+    {
+      "from": 11676,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "TALLO CENTRAL",
+        "sub": "la señal del espigado",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 16703,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 2,
+        "text": "dejar secar y después inundar"
+      }
+    },
+    {
+      "from": 18217,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 18345,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "title": "Maceta chica o tierra agotada"
+      }
+    },
+    {
+      "from": 19590,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 15,
+        "suffix": " cm",
+        "label": "maceta demasiado chica",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 22360,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 5",
+        "title": "La variedad equivocada"
+      }
+    },
+    {
+      "from": 25069,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 3,
+        "text": "elegir semillas al azar"
+      }
+    },
+    {
+      "from": 26042,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 6",
+        "title": "La hora de cosecha"
+      }
+    },
+    {
+      "from": 28896,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "¿Cuál es tu caso?"
+      }
+    },
+    {
+      "from": 29429,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "TU CASO",
+        "sub": "puede ser más de una razón",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 30382,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PLAN",
+        "title": "Cuatro semanas para corregirlo"
+      }
+    },
+    {
+      "from": 32896,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "COSECHA PROGRESIVA",
+        "sub": "hoja por hoja, no todo junto",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 34371,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REPASO",
+        "title": "Las seis razones, en resumen"
+      }
+    },
+    {
+      "from": 37036,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 37979,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 398,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL MOMENTO",
+        "phrase": "Cortas tu lechuga y aparece ese sabor amargo",
+        "accent": "sabor amargo",
+        "src": "img/ines-lechuga-amarga-maceta_s01.png"
+      }
+    },
+    {
+      "from": 3944,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que vas a aprender hoy",
+        "items": [
+          "Las razones más comunes del amargor",
+          "Cómo identificar cuál es tu caso",
+          "Un plan de 4 semanas para corregirlo"
+        ]
+      }
+    },
+    {
+      "from": 6086,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL DATO",
+        "value": 30,
+        "prefix": "",
+        "suffix": "°C",
+        "label": "temperatura que pone a la lechuga en modo defensa"
+      }
+    },
+    {
+      "from": 6961,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CÓMO SABER SI ES TU CASO",
+        "title": "Señales del estrés por calor",
+        "steps": [
+          {
+            "title": "Después de una ola de calor",
+            "sub": "el amargor apareció tras varios días calurosos"
+          },
+          {
+            "title": "Sol directo de tarde",
+            "sub": "la maceta recibe horas de sol fuerte"
+          },
+          {
+            "title": "Cambio de un día para otro",
+            "sub": "estaba dulce y de golpe amargó"
+          }
+        ]
+      }
+    },
+    {
+      "from": 6975,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Diagnóstico rápido",
+        "items": [
+          "Amargor después de una ola de calor",
+          "Un tallo central estirándose en el medio",
+          "Riego con altibajos las últimas semanas",
+          "Maceta chica o tierra sin renovar",
+          "Cosechas siempre a media tarde"
+        ]
+      }
+    },
+    {
+      "from": 8098,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Dónde ubicar la maceta en verano",
+        "left": {
+          "label": "Sol todo el día",
+          "sub": "más riesgo de amargor"
+        },
+        "right": {
+          "label": "Sol de mañana, sombra de tarde",
+          "sub": "mejor sabor"
+        }
+      }
+    },
+    {
+      "from": 9426,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Cuanta más luz, mejor crece la lechuga",
+        "truth": "En verano, la sombra de la tarde importa más que las horas de sol"
+      }
+    },
+    {
+      "from": 10966,
+      "dur": 330,
+      "comp": "CrecimientoPlanta",
+      "props": {
+        "theme": "earth",
+        "title": "Qué es el espigado",
+        "stages": [
+          {
+            "label": "HOJAS",
+            "sub": "crecimiento normal"
+          },
+          {
+            "label": "TALLO CENTRAL",
+            "sub": "empieza a estirarse"
+          },
+          {
+            "label": "HOJAS ALARGADAS",
+            "sub": "más amargor"
+          },
+          {
+            "label": "FLOR",
+            "sub": "el ciclo termina"
+          }
+        ]
+      }
+    },
+    {
+      "from": 12307,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA SOLUCIÓN",
+        "title": "Cuándo cosechar para que no amargue",
+        "steps": [
+          {
+            "title": "Al amanecer",
+            "sub": "la planta está más hidratada"
+          },
+          {
+            "title": "Si no puedes",
+            "sub": "cosecha la noche anterior"
+          },
+          {
+            "title": "Guárdala en la heladera",
+            "sub": "hasta el momento de usarla"
+          }
+        ]
+      }
+    },
+    {
+      "from": 12522,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL DATO",
+        "value": 60,
+        "prefix": "",
+        "suffix": " días",
+        "label": "tiempo máximo antes de que la lechuga se pase"
+      }
+    },
+    {
+      "from": 13661,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA REGLA",
+        "phrase": "Mejor una lechuga chica y dulce que grande y amarga",
+        "accent": "chica y dulce",
+        "src": "img/ines-lechuga-amarga-maceta_s48.png"
+      }
+    },
+    {
+      "from": 14470,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Señales de riego irregular",
+        "items": [
+          "Te olvidaste de regar unos días",
+          "La tierra se secó y se cuarteó",
+          "Después regaste de golpe y en exceso"
+        ]
+      }
+    },
+    {
+      "from": 15953,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA SOLUCIÓN",
+        "title": "Cómo regar en días de calor",
+        "steps": [
+          {
+            "title": "Revisa con el dedo",
+            "sub": "los primeros centímetros de tierra"
+          },
+          {
+            "title": "Riega cada día o dos",
+            "sub": "nunca dejes que se seque del todo"
+          },
+          {
+            "title": "Agrega mantillo",
+            "sub": "ayuda a mantener la humedad pareja"
+          }
+        ]
+      }
+    },
+    {
+      "from": 16987,
+      "dur": 180,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REVISÁ CON EL DEDO",
+        "value": 3,
+        "max": 10,
+        "suffix": " cm",
+        "label": "de tierra seca antes de volver a regar"
+      }
+    },
+    {
+      "from": 18942,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA RAÍZ",
+        "phrase": "Lo que no se ve también afecta el sabor",
+        "accent": "no se ve",
+        "src": "img/ines-lechuga-amarga-maceta_s65.png"
+      }
+    },
+    {
+      "from": 20277,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL DATO",
+        "value": 18,
+        "prefix": "",
+        "suffix": " cm",
+        "label": "profundidad mínima de maceta para lechuga"
+      }
+    },
+    {
+      "from": 21536,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "La maceta te quedó chica",
+        "items": [
+          "Las raíces salen por los agujeros de drenaje",
+          "La raíz forma una bola apretada",
+          "La planta se marchita apenas sube el calor"
+        ]
+      }
+    },
+    {
+      "from": 22697,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Variedades frente al calor",
+        "left": {
+          "label": "Hoja suelta, verde claro",
+          "sub": "amarga más rápido"
+        },
+        "right": {
+          "label": "Mantecosa o hoja de roble",
+          "sub": "tolera mejor el calor"
+        }
+      }
+    },
+    {
+      "from": 24212,
+      "dur": 330,
+      "comp": "CalendarioSiembra",
+      "props": {
+        "theme": "earth",
+        "title": "¿Cuándo sembrar según la variedad?",
+        "crop": "Lechugas sensibles al calor",
+        "sow": [
+          3,
+          4,
+          9
+        ],
+        "harvest": [
+          5,
+          6,
+          11
+        ],
+        "note": "Reserva estas variedades para otoño o inicio de primavera"
+      }
+    },
+    {
+      "from": 25349,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Cualquier bolsita de semillas sirve igual",
+        "truth": "Las de hoja suelta rinden rápido pero amargan antes en pleno calor"
+      }
+    },
+    {
+      "from": 26549,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL DETALLE",
+        "phrase": "La hora de cosecha también cambia el sabor",
+        "accent": "hora de cosecha",
+        "src": "img/ines-lechuga-amarga-maceta_s99.png"
+      }
+    },
+    {
+      "from": 28434,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "El mismo cuidado, distinta hora",
+        "left": {
+          "label": "Cosecha a media tarde",
+          "sub": "menos agua, más amargor"
+        },
+        "right": {
+          "label": "Cosecha al amanecer",
+          "sub": "más fresca y dulce"
+        }
+      }
+    },
+    {
+      "from": 30474,
+      "dur": 360,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Plan de 4 semanas para corregirlo",
+        "steps": [
+          {
+            "when": "Semana 1",
+            "text": "Maceta honda, tierra nueva y ubicación con sombra de tarde"
+          },
+          {
+            "when": "Semana 2",
+            "text": "Rutina de riego revisando la tierra con el dedo"
+          },
+          {
+            "when": "Semana 3",
+            "text": "Observa el centro de la planta y cosecha progresiva"
+          },
+          {
+            "when": "Semana 4",
+            "text": "Cosecha temprano y prueba una hoja antes de todo"
+          }
+        ]
+      }
+    },
+    {
+      "from": 31552,
+      "dur": 300,
+      "comp": "CalendarioSiembra",
+      "props": {
+        "theme": "earth",
+        "title": "Elige la variedad según la estación",
+        "crop": "Lechuga en maceta",
+        "sow": [
+          3,
+          4,
+          9,
+          10
+        ],
+        "harvest": [
+          5,
+          6,
+          11,
+          12
+        ],
+        "note": "Siembra ahora según el clima de tu zona"
+      }
+    },
+    {
+      "from": 32273,
+      "dur": 300,
+      "comp": "CrecimientoPlanta",
+      "props": {
+        "theme": "earth",
+        "title": "Cosecha progresiva, paso a paso",
+        "stages": [
+          {
+            "label": "HOJAS EXTERIORES",
+            "sub": "se cosechan primero"
+          },
+          {
+            "label": "CENTRO",
+            "sub": "sigue creciendo"
+          },
+          {
+            "label": "TALLO VISIBLE",
+            "sub": "señal de cosechar ya"
+          }
+        ]
+      }
+    },
+    {
+      "from": 33671,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEAMOS CLAROS",
+        "phrase": "Ningún truco elimina el amargor para siempre",
+        "accent": "para siempre",
+        "src": "img/ines-lechuga-amarga-maceta_s126.png"
+      }
+    },
+    {
+      "from": 35729,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EN RESUMEN",
+        "value": 6,
+        "prefix": "",
+        "suffix": " razones",
+        "label": "para revisar en tu propia maceta"
+      }
+    },
+    {
+      "from": 36380,
+      "dur": 220,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Si el amargor sigue apareciendo",
+        "items": [
+          "Horas de sol reales de tu balcón",
+          "Viento y ventilación del espacio",
+          "Reflejo de calor de paredes o piso"
+        ]
+      }
+    }
+  ]
+}
