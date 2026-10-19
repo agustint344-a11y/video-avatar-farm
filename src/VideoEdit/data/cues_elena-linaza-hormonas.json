@@ -1,0 +1,2312 @@
+{
+  "slug": "elena-linaza-hormonas",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 40879,
+  "audioSrc": "elena-linaza-hormonas.mp3",
+  "avatarSrc": "elena-linaza-hormonas_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1909,
+      "dur": 243,
+      "clip": 0
+    },
+    {
+      "from": 2426,
+      "dur": 264,
+      "clip": 243
+    },
+    {
+      "from": 2777,
+      "dur": 182,
+      "clip": 507
+    },
+    {
+      "from": 3755,
+      "dur": 123,
+      "clip": 689
+    },
+    {
+      "from": 5839,
+      "dur": 211,
+      "clip": 812
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 336,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 545,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 695,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 912,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1242,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1572,
+      "dur": 337,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2152,
+      "dur": 274,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s04.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2690,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s04.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2959,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s04.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3037,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s05.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3367,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s05.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3697,
+      "dur": 58,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3878,
+      "dur": 314,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4462,
+      "dur": 372,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s05.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4834,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s06.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4997,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s07.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5097,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s08.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5280,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s09.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5599,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s09.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6050,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s11.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6202,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s12.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6322,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s13.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6774,
+      "dur": 254,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s10.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7028,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s63.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7145,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s113.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7269,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s16.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7358,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s17.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7751,
+      "dur": 311,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s15.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8062,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8144,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s20.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8393,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s21.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8684,
+      "dur": 254,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s18.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8938,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s22.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9110,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s23.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9203,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s24.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9371,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s25.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9820,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s14.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9923,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s26.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10102,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s27.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10234,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s101.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10719,
+      "dur": 265,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s29.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10984,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s30.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11086,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s31.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11267,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s32.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11385,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s33.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11826,
+      "dur": 294,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s28.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12120,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s34.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12206,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s35.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12387,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s36.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12558,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s37.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12902,
+      "dur": 255,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s37.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13157,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s38.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13342,
+      "dur": 80,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s39.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13422,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s40.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13517,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s41.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13943,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s41.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14107,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s42.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14269,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s43.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14381,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s44.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14446,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s45.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14784,
+      "dur": 377,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s45.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15161,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s46.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15398,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s47.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15518,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s48.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15661,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s49.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16101,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s49.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16215,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s50.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16370,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s51.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16476,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s52.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16689,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s53.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17074,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s53.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17286,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s54.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17446,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s55.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17622,
+      "dur": 290,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s56.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17912,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s57.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18317,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s57.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18564,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s58.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18826,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s59.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18965,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s60.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19115,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s61.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19515,
+      "dur": 321,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s61.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19836,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20166,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s64.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20291,
+      "dur": 59,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s65.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20560,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s65.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20712,
+      "dur": 257,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s66.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20969,
+      "dur": 233,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s67.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21202,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s68.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21345,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s69.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21879,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s69.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21953,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s70.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22032,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s71.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22203,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s72.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22394,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s73.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22831,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s73.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23017,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s74.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23152,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s75.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23275,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s76.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23484,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s77.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23827,
+      "dur": 309,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s77.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24136,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s78.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24337,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s79.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24491,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s80.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24623,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s81.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25008,
+      "dur": 289,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s81.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25297,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s83.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25463,
+      "dur": 243,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s84.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25706,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s85.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26068,
+      "dur": 255,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s82.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26323,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s86.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26454,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s87.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26575,
+      "dur": 299,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s88.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26874,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s89.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27318,
+      "dur": 233,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s89.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27551,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s90.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27731,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s91.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27978,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s92.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28166,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s93.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28611,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s93.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28803,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s94.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28884,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s95.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29051,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s96.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29146,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s97.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29524,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s97.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29755,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s98.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29891,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s99.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30094,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s100.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30553,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s100.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30652,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s102.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30846,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s103.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30934,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s104.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31017,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s105.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31420,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s105.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31504,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s106.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31714,
+      "dur": 272,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s107.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31986,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s108.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32151,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s109.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32604,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s109.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32764,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s110.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32957,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s111.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33132,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s112.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33462,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s112.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33792,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s112.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33909,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s114.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34054,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s115.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34156,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s116.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 34307,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s117.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34774,
+      "dur": 271,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s117.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 35045,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s118.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 35291,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s119.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 35494,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s120.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 35628,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s121.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 35723,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s122.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 35884,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s123.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 36004,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s124.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 36184,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s125.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 36394,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s126.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 36544,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s127.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 36664,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s128.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 36875,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s129.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 36964,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s130.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 37084,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s131.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 37414,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s131.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 37744,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s131.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 38074,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s131.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 38404,
+      "dur": 337,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s131.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 38741,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s132.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 39071,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s132.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 39401,
+      "dur": 263,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s132.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 39664,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s133.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 39994,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s133.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 40324,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s133.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 40654,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/elena-linaza-hormonas_s133.png",
+      "kb": 5,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "INTRO",
+        "title": "Por qué tu linaza no funciona"
+      }
+    },
+    {
+      "from": 545,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "EL VERDADERO ERROR",
+        "sub": "no es la linaza en sí",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 912,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL CASO",
+        "title": "La historia de Marisa"
+      }
+    },
+    {
+      "from": 1909,
+      "dur": 135,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "MÉTODO BIENESTAR NATURAL",
+        "title": "Dra. Elena Vidal",
+        "sub": "Remedios caseros con cautela y con base"
+      }
+    },
+    {
+      "from": 3471,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 3878,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 4604,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 2,
+        "prefix": "",
+        "suffix": " claves",
+        "label": "compuestos que produce tu intestino",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 4834,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "COMPUESTOS ACTIVOS",
+        "sub": "enterodiol y enterolactona",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 8016,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "La semilla sin moler"
+      }
+    },
+    {
+      "from": 8062,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 1,
+        "text": "Comerla entera sin moler"
+      }
+    },
+    {
+      "from": 8144,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CÁSCARA DURA",
+        "sub": "resiste la digestión",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 10192,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "Cuando se oxida"
+      }
+    },
+    {
+      "from": 10786,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SE OXIDA RÁPIDO",
+        "sub": "apenas se muele",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 15161,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "EMPAQUE OPACO",
+        "sub": "frena la luz",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 17180,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "Tu microbiota"
+      }
+    },
+    {
+      "from": 17622,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "TU MICROBIOTA",
+        "sub": "decide cuánto aprovechas",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 20291,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "title": "Cantidad y constancia"
+      }
+    },
+    {
+      "from": 21202,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 8,
+        "prefix": "",
+        "suffix": " sem",
+        "label": "mínimo para empezar a notar cambios",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 21906,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 5",
+        "title": "Cómo la combinas"
+      }
+    },
+    {
+      "from": 23275,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "AGUA Y FIBRA",
+        "sub": "van siempre juntas",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 24136,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "Cuál es tu caso"
+      }
+    },
+    {
+      "from": 25706,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PRECAUCIÓN",
+        "title": "Quién debe tener cuidado"
+      }
+    },
+    {
+      "from": 26138,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "Si tomas anticoagulantes, consulta a tu médico antes",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 26454,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "EMBARAZO O CÁNCER HORMONAL",
+        "sub": "Conversa con tu equipo médico antes de empezar",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 26874,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "INTESTINO SENSIBLE",
+        "sub": "Sube la fibra de forma gradual y supervisada",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 27551,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PLAN",
+        "title": "Semana a semana"
+      }
+    },
+    {
+      "from": 33909,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERRORES",
+        "title": "Lo que no debes hacer"
+      }
+    },
+    {
+      "from": 34054,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 1,
+        "text": "Calentarla a fuego fuerte"
+      }
+    },
+    {
+      "from": 34776,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SEMILLA, NO ACEITE",
+        "sub": "el aceite pierde fibra y lignanos",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 34776,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 2,
+        "text": "El aceite no reemplaza la semilla"
+      }
+    },
+    {
+      "from": 35494,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 3,
+        "text": "Moler todo el mes junto"
+      }
+    },
+    {
+      "from": 38914,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 39274,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 40788,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_elena.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dra. Elena Vidal",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 96,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA VERDAD",
+        "phrase": "La linaza funciona, pero casi nadie la toma bien",
+        "accent": "casi nadie la toma bien",
+        "src": "img/elena-linaza-hormonas_s01.png"
+      }
+    },
+    {
+      "from": 4192,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA BASE",
+        "title": "Así actúa la linaza en tu cuerpo",
+        "steps": [
+          {
+            "title": "Lignanos",
+            "sub": "La semilla los contiene en su interior"
+          },
+          {
+            "title": "Conversión",
+            "sub": "Tu flora intestinal los transforma"
+          },
+          {
+            "title": "Efecto suave",
+            "sub": "Actúan como un estrógeno débil"
+          }
+        ]
+      }
+    },
+    {
+      "from": 5389,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL MECANISMO",
+        "phrase": "Ocupan receptores de estrógeno sin activarlos con fuerza",
+        "accent": "sin activarlos con fuerza",
+        "src": "img/elena-linaza-hormonas_s09.png"
+      }
+    },
+    {
+      "from": 6534,
+      "dur": 240,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA DOSIS EN ESTUDIOS",
+        "value": 40,
+        "prefix": "20-",
+        "suffix": " g",
+        "label": "gramos diarios de linaza molida usados en los estudios"
+      }
+    },
+    {
+      "from": 7541,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Dos variedades de linaza",
+        "left": {
+          "label": "Dorada",
+          "sub": "Lignanos similares, varía con la cosecha"
+        },
+        "right": {
+          "label": "Marrón",
+          "sub": "Lignanos similares, varía con el suelo"
+        }
+      }
+    },
+    {
+      "from": 8504,
+      "dur": 180,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que sí puedes controlar",
+        "items": [
+          "Que esté molida",
+          "Que esté fresca",
+          "Tu microbiota",
+          "Cantidad y constancia"
+        ]
+      }
+    },
+    {
+      "from": 9580,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Comer la semilla entera ya alcanza",
+        "truth": "Entera casi no libera los lignanos"
+      }
+    },
+    {
+      "from": 10335,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Combinar fitoestrógenos sin exagerar",
+        "items": [
+          "No sumar soja y sésamo en dosis altas",
+          "Un cambio a la vez",
+          "Más fácil identificar qué funciona"
+        ]
+      }
+    },
+    {
+      "from": 10539,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA PRUEBA",
+        "phrase": "Si ves semillas enteras, no se están aprovechando",
+        "accent": "no se están aprovechando",
+        "src": "img/elena-linaza-hormonas_s29.png"
+      }
+    },
+    {
+      "from": 11556,
+      "dur": 270,
+      "comp": "RutinaDia",
+      "props": {
+        "theme": "earth",
+        "title": "Tu rutina para que no se oxide",
+        "slots": [
+          {
+            "time": "Antes del desayuno",
+            "text": "Muele solo la cantidad de hoy"
+          },
+          {
+            "time": "Cada 3-4 días",
+            "text": "Vuelve a moler, nunca para todo el mes"
+          }
+        ]
+      }
+    },
+    {
+      "from": 12692,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "phrase": "La misma grasa que la hace valiosa, la hace frágil",
+        "accent": "la hace frágil",
+        "src": "img/elena-linaza-hormonas_s37.png"
+      }
+    },
+    {
+      "from": 13703,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Recién molida vs. de meses",
+        "left": {
+          "label": "Recién molida",
+          "sub": "Aroma suave, lignanos intactos"
+        },
+        "right": {
+          "label": "Bolsa de meses",
+          "sub": "Oxidada, potencia reducida"
+        }
+      }
+    },
+    {
+      "from": 14604,
+      "dur": 180,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "El clima acelera la oxidación",
+        "items": [
+          "Cocina calurosa",
+          "Cerca de la hornilla",
+          "Ventana con sol directo"
+        ]
+      }
+    },
+    {
+      "from": 15831,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CÓMO DETECTARLO",
+        "title": "¿Tu linaza está oxidada?",
+        "steps": [
+          {
+            "title": "Huele",
+            "sub": "Aroma suave, nunca a pintura"
+          },
+          {
+            "title": "Mira la fecha",
+            "sub": "De molienda, no solo de vencimiento"
+          },
+          {
+            "title": "Compara",
+            "sub": "Rancio o amargo es mala señal"
+          }
+        ]
+      }
+    },
+    {
+      "from": 16864,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Cómo elegir la linaza al comprar",
+        "items": [
+          "Envases pequeños",
+          "Empaque opaco",
+          "Envasada al vacío o con nitrógeno",
+          "Un local con buena rotación"
+        ]
+      }
+    },
+    {
+      "from": 18077,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA SOLUCIÓN",
+        "title": "Dos formas de hacerlo bien",
+        "steps": [
+          {
+            "title": "Muele tú misma",
+            "sub": "Cantidad para 3 o 4 días"
+          },
+          {
+            "title": "Cómprala molida",
+            "sub": "Al vacío y en el refrigerador"
+          }
+        ]
+      }
+    },
+    {
+      "from": 19305,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "phrase": "Tu intestino decide cuánto aprovechas de la linaza",
+        "accent": "tu intestino decide",
+        "src": "img/elena-linaza-hormonas_s61.png"
+      }
+    },
+    {
+      "from": 20350,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Misma linaza, distinto resultado",
+        "left": {
+          "label": "Microbiota sana",
+          "sub": "Convierte bien los lignanos"
+        },
+        "right": {
+          "label": "Microbiota alterada",
+          "sub": "Conversión más débil"
+        }
+      }
+    },
+    {
+      "from": 21579,
+      "dur": 300,
+      "comp": "RutinaDia",
+      "props": {
+        "theme": "earth",
+        "title": "Tu rutina para una microbiota sana",
+        "slots": [
+          {
+            "time": "Desayuno",
+            "text": "Vegetales de hoja o fruta"
+          },
+          {
+            "time": "Almuerzo",
+            "text": "Alguna legumbre, 2-3 veces por semana"
+          },
+          {
+            "time": "Noche",
+            "text": "Yogur natural o chucrut, si tu médico lo aprueba"
+          }
+        ]
+      }
+    },
+    {
+      "from": 22591,
+      "dur": 240,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA DOSIS REAL",
+        "value": 3,
+        "prefix": "2-",
+        "suffix": " cucharadas",
+        "label": "soperas de linaza molida, todos los días"
+      }
+    },
+    {
+      "from": 23647,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 5",
+        "phrase": "Cómo la combinas cambia cuánto te sienta bien",
+        "accent": "cómo la combinas",
+        "src": "img/elena-linaza-hormonas_s77.png"
+      }
+    },
+    {
+      "from": 24738,
+      "dur": 270,
+      "comp": "RutinaDia",
+      "props": {
+        "theme": "earth",
+        "title": "Tu rutina con linaza y agua",
+        "slots": [
+          {
+            "time": "Desayuno",
+            "text": "Linaza molida con avena o yogur"
+          },
+          {
+            "time": "Durante el día",
+            "text": "Un vaso extra de agua por cucharada"
+          }
+        ]
+      }
+    },
+    {
+      "from": 25798,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "¿Cuál es tu problema?",
+        "steps": [
+          {
+            "title": "Entera y brillante",
+            "sub": "Razón 1: falta de molienda"
+          },
+          {
+            "title": "Huele distinto",
+            "sub": "Razón 2: oxidación"
+          },
+          {
+            "title": "Dieta pobre en fibra",
+            "sub": "Razón 3: microbiota"
+          }
+        ]
+      }
+    },
+    {
+      "from": 27078,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Quién debe tener más cuidado",
+        "items": [
+          "Anticoagulantes o antiagregantes",
+          "Embarazo",
+          "Cáncer sensible a hormonas",
+          "Intestino muy sensible"
+        ]
+      }
+    },
+    {
+      "from": 28281,
+      "dur": 330,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Plan semana a semana",
+        "steps": [
+          {
+            "when": "Semana 1",
+            "text": "Una cucharada diaria, crear el hábito"
+          },
+          {
+            "when": "Semana 2",
+            "text": "Subir a dos cucharadas"
+          },
+          {
+            "when": "Semanas 3-4",
+            "text": "Sostener y sumar fibra variada"
+          },
+          {
+            "when": "Semanas 5-8",
+            "text": "Mantener sin aflojar"
+          }
+        ]
+      }
+    },
+    {
+      "from": 29284,
+      "dur": 240,
+      "comp": "RutinaDia",
+      "props": {
+        "theme": "earth",
+        "title": "Tu rutina en la semana 2",
+        "slots": [
+          {
+            "time": "Mañana",
+            "text": "Dos cucharadas de linaza recién molida"
+          },
+          {
+            "time": "Resto del día",
+            "text": "Un vaso extra de agua por cucharada"
+          }
+        ]
+      }
+    },
+    {
+      "from": 30343,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PACIENCIA",
+        "phrase": "Los estudios evalúan resultados a los dos o tres meses",
+        "accent": "dos o tres meses",
+        "src": "img/elena-linaza-hormonas_s101.png"
+      }
+    },
+    {
+      "from": 31180,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "La linaza reemplaza un tratamiento médico",
+        "truth": "Es un apoyo, no una solución definitiva"
+      }
+    },
+    {
+      "from": 32304,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERRORES COMUNES",
+        "title": "Lo que no debes hacer",
+        "steps": [
+          {
+            "title": "Calentarla fuerte",
+            "sub": "Degrada las grasas sensibles"
+          },
+          {
+            "title": "Usar solo aceite",
+            "sub": "Pierde fibra y lignanos"
+          },
+          {
+            "title": "Moler todo el mes junto",
+            "sub": "Pierde potencia rápido"
+          }
+        ]
+      }
+    },
+    {
+      "from": 34474,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REPASO",
+        "title": "Las cinco razones, en resumen",
+        "steps": [
+          {
+            "title": "Molida y fresca",
+            "sub": "Entera casi no se aprovecha"
+          },
+          {
+            "title": "Microbiota sana",
+            "sub": "Convierte los lignanos"
+          },
+          {
+            "title": "Cantidad y constancia",
+            "sub": "2-3 cucharadas, con agua"
+          }
+        ]
+      }
+    }
+  ]
+}
