@@ -1,0 +1,2050 @@
+{
+  "slug": "plomero-poca-presion-agua",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 37335,
+  "audioSrc": "plomero-poca-presion-agua.mp3",
+  "avatarSrc": "plomero-poca-presion-agua_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1290,
+      "dur": 878,
+      "clip": 0
+    },
+    {
+      "from": 2850,
+      "dur": 608,
+      "clip": 878
+    },
+    {
+      "from": 10080,
+      "dur": 698,
+      "clip": 1486
+    },
+    {
+      "from": 18330,
+      "dur": 848,
+      "clip": 2184
+    },
+    {
+      "from": 25920,
+      "dur": 874,
+      "clip": 3032
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 258,
+      "dur": 316,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 574,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 642,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 819,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1140,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2168,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2433,
+      "dur": 327,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2760,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3458,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3633,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s08.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3699,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s09.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4080,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s09.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4319,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4461,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s11.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4620,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s12.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4800,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s13.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5040,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s14.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5176,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s23.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5311,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s16.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5460,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s17.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5820,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s15.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6150,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s15.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6210,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s18.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6300,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s83.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6420,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s20.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6720,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s19.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7020,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s21.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7170,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s22.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7770,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s79.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7860,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s24.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7980,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s25.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8100,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s26.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8190,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s27.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8490,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s27.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8760,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s28.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8940,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s29.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9000,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s30.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9150,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s31.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9480,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s31.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9750,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s32.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9870,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s33.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9960,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s34.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10778,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s35.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10920,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s36.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11040,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s37.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11220,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s38.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11640,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s38.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11730,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s39.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12000,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12240,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s41.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12300,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s42.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12540,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s43.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12630,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s44.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12930,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s44.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13260,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s45.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13440,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s46.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13530,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s47.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13860,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s47.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14160,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s48.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14220,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s49.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14390,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s50.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14550,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s51.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14910,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s51.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15124,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s52.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15270,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s53.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15360,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s54.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15510,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s55.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15570,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s56.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15960,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s56.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16174,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s57.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16290,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s58.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16500,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s59.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16620,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s60.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16742,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s61.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16920,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s62.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17310,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17550,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s63.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17670,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s64.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18180,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s64.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18240,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s106.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19178,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s66.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19350,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s67.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19590,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s68.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19802,
+      "dur": 58,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s69.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19860,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s70.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19923,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s71.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20340,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s65.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20580,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s72.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20700,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s73.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20880,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s74.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21120,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s75.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21540,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s75.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21780,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s76.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21967,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s77.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22140,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s78.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22260,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s80.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22592,
+      "dur": 328,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s80.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22920,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s81.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23040,
+      "dur": 360,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s82.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23400,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s84.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23700,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s84.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24030,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s84.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24150,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s85.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24300,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s86.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24780,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s86.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24910,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s87.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25080,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s88.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25290,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s89.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25740,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s89.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26794,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s98.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27124,
+      "dur": 296,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s98.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27420,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s90.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27600,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s91.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27690,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s92.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28110,
+      "dur": 360,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s92.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28470,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s93.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28680,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s94.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28800,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s95.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28920,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s96.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29010,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s97.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29340,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s97.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29760,
+      "dur": 332,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s97.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30092,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s99.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30270,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s100.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30810,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s100.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30990,
+      "dur": 215,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s101.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31205,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s103.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31440,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s104.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31800,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s102.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32010,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s105.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32340,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s107.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32520,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s108.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32940,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s108.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33270,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s108.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33360,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s109.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33540,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s110.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33600,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s111.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33840,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s112.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34290,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s112.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34560,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s113.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 34740,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s114.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 35087,
+      "dur": 223,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s114.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 35310,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s115.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 35460,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s116.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 35880,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s116.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 36030,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s117.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 36240,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s118.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 36450,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s119.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 36780,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s119.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 37110,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/plomero-poca-presion-agua_s119.png",
+      "kb": 0,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HOY",
+        "title": "Poca presión en toda la casa"
+      }
+    },
+    {
+      "from": 574,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CIENTOS DE CASAS",
+        "sub": "lo he visto una y otra vez",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 2760,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA VERDAD",
+        "title": "Yo vivo de esto"
+      }
+    },
+    {
+      "from": 2850,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "MATEO EL PLOMERO",
+        "title": "Mateo",
+        "sub": "15 años destapando cañerías y arreglando llaves"
+      }
+    },
+    {
+      "from": 4800,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SUSCRÍBETE",
+        "sub": "cada semana, un arreglo real",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 5040,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "Toda la casa o un solo grifo"
+      }
+    },
+    {
+      "from": 7830,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "La válvula principal"
+      }
+    },
+    {
+      "from": 9480,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 1,
+        "text": "abrirla pero no hasta el tope"
+      }
+    },
+    {
+      "from": 9630,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "DOS MINUTOS",
+        "sub": "y a veces resuelve todo",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 10560,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 10770,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "El regulador de presión"
+      }
+    },
+    {
+      "from": 10770,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 5",
+        "title": "El calentador con sedimento"
+      }
+    },
+    {
+      "from": 12960,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MENOS DE 30",
+        "sub": "ahí sí hay poca presión",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 14160,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "Sarro y sedimento"
+      }
+    },
+    {
+      "from": 16620,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "nunca mezcles vinagre con cloro ni con amoníaco",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 17670,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "MITO",
+        "num": 1,
+        "text": "un líquido mágico para el sarro en la pared"
+      }
+    },
+    {
+      "from": 18240,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 2,
+        "text": "no revisar la válvula principal primero"
+      }
+    },
+    {
+      "from": 18810,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 19860,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "title": "Fugas escondidas"
+      }
+    },
+    {
+      "from": 20880,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ROBA PRESIÓN",
+        "sub": "la fuga se lleva el agua",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 24300,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 20,
+        "suffix": " L",
+        "label": "agua que sale al vaciar el calentador",
+        "corner": "br"
+      }
+    },
+    {
+      "from": 25777,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REPASO",
+        "title": "Las cinco causas, rápido"
+      }
+    },
+    {
+      "from": 28470,
+      "dur": 165,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "CUIDADO",
+        "sub": "nunca viertas agua hirviendo sobre tubería de PVC",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 28680,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SE DEFORMA",
+        "sub": "el PVC con calor extremo",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 29010,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "COSTOS",
+        "title": "Cuánto cuesta cada arreglo"
+      }
+    },
+    {
+      "from": 30990,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MANTENIMIENTO",
+        "title": "Tu rutina mensual"
+      }
+    },
+    {
+      "from": 33150,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "UNA HORA PERDIDA",
+        "sub": "por no mirar lo obvio",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 33840,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ALERTA",
+        "title": "Cuándo llamar a un plomero"
+      }
+    },
+    {
+      "from": 35220,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 35940,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 37110,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 48,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL CASO",
+        "phrase": "Agua que sale como un hilito, no como lluvia",
+        "accent": "hilito",
+        "src": "img/plomero-poca-presion-agua_s01.png"
+      }
+    },
+    {
+      "from": 960,
+      "dur": 180,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Por qué el arreglo no dura",
+        "items": [
+          "Se arregla a medias",
+          "Vuelve en dos semanas",
+          "Misma llave, misma frustración"
+        ]
+      }
+    },
+    {
+      "from": 2253,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL DATO",
+        "value": 2,
+        "prefix": "",
+        "suffix": " años",
+        "label": "sin sentir esa presión por un filtro tapado del tamaño de una moneda"
+      }
+    },
+    {
+      "from": 3810,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que sí te prometo",
+        "items": [
+          "5 causas reales en toda la casa",
+          "Cómo saber cuál es la tuya",
+          "Pasos con cantidades y tiempos",
+          "Cuándo llamar a un plomero"
+        ]
+      }
+    },
+    {
+      "from": 5580,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Un grifo o toda la casa?",
+        "left": {
+          "label": "Un solo grifo",
+          "sub": "Aireador o válvula de paso tapada"
+        },
+        "right": {
+          "label": "Toda la casa",
+          "sub": "Entrada general, medidor o calentador"
+        }
+      }
+    },
+    {
+      "from": 6540,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PISTA",
+        "phrase": "Si baja siempre a la misma hora, es la red de la ciudad",
+        "accent": "misma hora",
+        "src": "img/plomero-poca-presion-agua_s20.png"
+      }
+    },
+    {
+      "from": 7500,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HOY",
+        "title": "El caso de hoy",
+        "steps": [
+          {
+            "title": "Presión directa",
+            "sub": "Sin tinaco ni bomba"
+          },
+          {
+            "title": "Toda la casa",
+            "sub": "No un solo grifo"
+          },
+          {
+            "title": "Cinco causas",
+            "sub": "Una por una"
+          }
+        ]
+      }
+    },
+    {
+      "from": 8310,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "OJO",
+        "phrase": "La válvula queda a medio camino y nadie lo nota",
+        "accent": "medio camino",
+        "src": "img/plomero-poca-presion-agua_s27.png"
+      }
+    },
+    {
+      "from": 9300,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "value": 2,
+        "prefix": "",
+        "suffix": " min",
+        "label": "así de rápido se resuelve, y a veces basta"
+      }
+    },
+    {
+      "from": 11370,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "¿Tienes un regulador?",
+        "steps": [
+          {
+            "title": "Busca el cono",
+            "sub": "Pieza de bronce tras la entrada principal"
+          },
+          {
+            "title": "Tornillo arriba",
+            "sub": "Se ajusta o se desgasta con los años"
+          }
+        ]
+      }
+    },
+    {
+      "from": 12720,
+      "dur": 210,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PRESIÓN",
+        "value": 50,
+        "max": 80,
+        "suffix": " psi",
+        "label": "rango normal: 40 a 60 psi en casa residencial"
+      }
+    },
+    {
+      "from": 13590,
+      "dur": 270,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Ajustar el tornillo siempre sube la presión",
+        "truth": "Con más de 10 años y sin respuesta, hay que cambiar el regulador, no forzarlo"
+      }
+    },
+    {
+      "from": 14670,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Sarro por dentro",
+        "left": {
+          "label": "Tubo sano",
+          "sub": "Diámetro completo"
+        },
+        "right": {
+          "label": "Tubo con sarro",
+          "sub": "Como una arteria tapada"
+        }
+      }
+    },
+    {
+      "from": 15630,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA RECETA",
+        "title": "Limpieza con vinagre",
+        "steps": [
+          {
+            "title": "30 min",
+            "sub": "Sarro poco"
+          },
+          {
+            "title": "Hasta 2 h",
+            "sub": "Sarro cargado"
+          },
+          {
+            "title": "Máx. 12 h",
+            "sub": "Nunca más, desgasta el metal"
+          }
+        ]
+      }
+    },
+    {
+      "from": 17070,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Nunca mezcles",
+        "items": [
+          "Vinagre con cloro",
+          "Vinagre con amoníaco",
+          "Cloro y vinagre a la vez en el mismo lavabo"
+        ]
+      }
+    },
+    {
+      "from": 17910,
+      "dur": 270,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Hay un líquido mágico que destapa años de sarro en la pared",
+        "truth": "Eso no existe: ahí se evalúa un descalcificador o cambiar tramos de tubo"
+      }
+    },
+    {
+      "from": 20070,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Señales de fuga escondida",
+        "items": [
+          "El medidor sigue girando",
+          "Zona del jardín siempre húmeda",
+          "Silbido o goteo dentro de la pared"
+        ]
+      }
+    },
+    {
+      "from": 21330,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA PRUEBA",
+        "value": 2,
+        "prefix": "",
+        "suffix": " horas",
+        "label": "cierra todo, anota el medidor y vuelve a leer"
+      }
+    },
+    {
+      "from": 22412,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HONESTIDAD",
+        "phrase": "Encontrar una fuga en la pared no es trabajo de aficionado",
+        "accent": "no es trabajo de aficionado",
+        "src": "img/plomero-poca-presion-agua_s80.png"
+      }
+    },
+    {
+      "from": 23460,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Agua fría vs agua caliente",
+        "left": {
+          "label": "Fría",
+          "sub": "Sale con buena fuerza"
+        },
+        "right": {
+          "label": "Caliente",
+          "sub": "Se debilita: sospecha del calentador"
+        }
+      }
+    },
+    {
+      "from": 24450,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 5",
+        "title": "Vaciado del calentador",
+        "steps": [
+          {
+            "title": "Cierra la entrada fría",
+            "sub": "Conecta manguera a la válvula"
+          },
+          {
+            "title": "Deja salir 15-20 L",
+            "sub": "Hasta que salga clara"
+          },
+          {
+            "title": "Cierra y llena",
+            "sub": "Antes de volver a prenderlo"
+          }
+        ]
+      }
+    },
+    {
+      "from": 25470,
+      "dur": 270,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Un vaciado simple siempre arregla el calentador viejo",
+        "truth": "Con más de 8-10 años sin mantenimiento, puede necesitar limpieza profunda o cambio"
+      }
+    },
+    {
+      "from": 27840,
+      "dur": 270,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Cambiar tubos viejos por PVC en toda la casa sube mucho la presión",
+        "truth": "El PVC no es magia: si la causa era la válvula o el regulador, no arregla nada"
+      }
+    },
+    {
+      "from": 29460,
+      "dur": 300,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "title": "LO QUE CUESTA CADA ARREGLO",
+        "rows": [
+          {
+            "label": "Limpiar aireadores",
+            "price": "Gratis",
+            "bad": false
+          },
+          {
+            "label": "Ajustar el regulador",
+            "price": "Casi gratis",
+            "bad": false
+          },
+          {
+            "label": "Cambiar el regulador",
+            "price": "$70 a $150",
+            "bad": true
+          }
+        ],
+        "total": {
+          "label": "Referencia",
+          "price": "Varía según tu ciudad"
+        },
+        "stamp": "COSTOS"
+      }
+    },
+    {
+      "from": 30570,
+      "dur": 240,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "FUGA ENTERRADA",
+        "value": 100,
+        "prefix": "$",
+        "suffix": "+",
+        "label": "puede costar repararla, según qué tan profunda y larga sea"
+      }
+    },
+    {
+      "from": 31530,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Mantenimiento mensual",
+        "items": [
+          "10 min bajo lavabos y tras el inodoro",
+          "Revisa manchas nuevas de sarro",
+          "Cada 3 meses, limpia los aireadores"
+        ]
+      }
+    },
+    {
+      "from": 32700,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MI ERROR",
+        "phrase": "Pasé una hora planeando cambiar tubos sin revisar la válvula",
+        "accent": "sin revisar la válvula",
+        "src": "img/plomero-poca-presion-agua_s108.png"
+      }
+    },
+    {
+      "from": 34050,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Puedo arreglar cualquier fuga yo mismo",
+        "truth": "Humedad en paredes o un ruido grande: ahí ya es trabajo de un plomero"
+      }
+    },
+    {
+      "from": 34817,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Dentro de la guía",
+        "items": [
+          "58 arreglos paso a paso en 118 páginas",
+          "Mapa del tapón y plan mensual imprimible",
+          "Las 5 Calculadoras del Agua"
+        ]
+      }
+    },
+    {
+      "from": 35580,
+      "dur": 300,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "title": "EL PLOMERO EN CASA",
+        "rows": [
+          {
+            "label": "Una visita de técnico",
+            "price": "Más de $27",
+            "bad": true
+          },
+          {
+            "label": "La guía completa",
+            "price": "$27 pago único",
+            "bad": false
+          }
+        ],
+        "total": {
+          "label": "Garantía",
+          "price": "7 días"
+        },
+        "stamp": "US$27"
+      }
+    }
+  ]
+}
