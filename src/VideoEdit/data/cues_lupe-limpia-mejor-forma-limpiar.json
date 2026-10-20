@@ -1,0 +1,1794 @@
+{
+  "slug": "lupe-limpia-mejor-forma-limpiar",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 32024,
+  "audioSrc": "lupe-limpia-mejor-forma-limpiar.mp3",
+  "avatarSrc": "lupe-limpia-mejor-forma-limpiar_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1749,
+      "dur": 1001,
+      "clip": 0
+    },
+    {
+      "from": 3938,
+      "dur": 613,
+      "clip": 1001
+    },
+    {
+      "from": 18678,
+      "dur": 547,
+      "clip": 1614
+    },
+    {
+      "from": 25093,
+      "dur": 661,
+      "clip": 2161
+    },
+    {
+      "from": 29366,
+      "dur": 578,
+      "clip": 2822
+    },
+    {
+      "from": 30810,
+      "dur": 1046,
+      "clip": 3400
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 2,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 242,
+      "dur": 59,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 301,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 414,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 504,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 856,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s03.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 971,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1124,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 1297,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1450,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1592,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s08.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2750,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s08.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3080,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s08.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3145,
+      "dur": 61,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s09.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3206,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s10.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3623,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s10.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3769,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s94.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3844,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s11.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4551,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s12.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4950,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s12.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5040,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s13.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5215,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s14.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5695,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s14.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5812,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s15.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6014,
+      "dur": 80,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s16.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6334,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s16.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6581,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s17.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6696,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s18.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7100,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s87.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7256,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7752,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s20.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7872,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s21.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8081,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s22.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8189,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s23.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8284,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s24.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8381,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s25.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8579,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s26.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8740,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s27.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8874,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s28.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9024,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s29.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9155,
+      "dur": 284,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s30.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9649,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s30.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9842,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s31.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9967,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s32.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10129,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s33.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10482,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s52.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10642,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s34.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10782,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s35.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11218,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s35.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11341,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s36.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11500,
+      "dur": 64,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s37.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11564,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s38.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11786,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s39.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11924,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s40.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12146,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s42.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12277,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s43.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12461,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s44.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12868,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s41.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13047,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s65.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13109,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s45.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13308,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s46.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13439,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s47.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13553,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s48.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13973,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s48.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14125,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s49.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14233,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s50.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14332,
+      "dur": 272,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s51.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14604,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s53.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14996,
+      "dur": 346,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s53.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15342,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s54.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15473,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s55.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16001,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s55.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16236,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s56.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16378,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s57.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16542,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s58.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16678,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s59.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16860,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s60.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17202,
+      "dur": 243,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s60.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17445,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s61.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17642,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s62.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18013,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s62.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18165,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s63.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18347,
+      "dur": 331,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s64.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19225,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s66.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19380,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s67.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19586,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s68.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19952,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s68.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20090,
+      "dur": 59,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s69.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20149,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s70.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20321,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s71.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20452,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s72.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20618,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s73.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20808,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s74.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20884,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s75.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21065,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s76.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21538,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s77.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21644,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s78.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21798,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s79.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21907,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s80.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22309,
+      "dur": 304,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s80.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22613,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s82.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22853,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s83.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23006,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s84.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23153,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s85.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23453,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s81.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23602,
+      "dur": 368,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s86.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24240,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s88.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24414,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s89.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24548,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s90.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24978,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s90.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25754,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s91.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26165,
+      "dur": 295,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s91.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26460,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s92.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26605,
+      "dur": 229,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s93.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26834,
+      "dur": 263,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s95.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27277,
+      "dur": 365,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s95.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27642,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s96.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27804,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s97.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28074,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s98.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28466,
+      "dur": 256,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s98.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28722,
+      "dur": 91,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s99.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28813,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s100.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29016,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s101.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29228,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s102.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29944,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s103.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30274,
+      "dur": 292,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s103.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30566,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s104.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31856,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/lupe-limpia-mejor-forma-limpiar_s104.png",
+      "kb": 1,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1124,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "OLOR QUÍMICO",
+        "sub": "y la cal seguía ahí",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 1749,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "COMO EN EL RANCHO",
+        "title": "Doña Lupe",
+        "sub": "Guadalupe Contreras, Los Altos de Jalisco"
+      }
+    },
+    {
+      "from": 5215,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CAL",
+        "sub": "mineral del agua dura",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 7439,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "El orden correcto"
+      }
+    },
+    {
+      "from": 7872,
+      "dur": 150,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "NUNCA MEZCLES",
+        "sub": "cloro con amoniaco o vinagre",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 7872,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "nunca mezcles cloro con amoniaco ni vinagre",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 8740,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "VENTILACIÓN",
+        "sub": "ventana abierta o extractor mientras limpias",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 9024,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 1",
+        "title": "La cal del vidrio"
+      }
+    },
+    {
+      "from": 9155,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "VINAGRE TIBIO",
+        "sub": "penetra mejor en la cal",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 9658,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 30,
+        "suffix": " min",
+        "label": "máximo si la cal está muy gruesa",
+        "corner": "br"
+      }
+    },
+    {
+      "from": 10782,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 2",
+        "title": "El moho del silicón"
+      }
+    },
+    {
+      "from": 11786,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "CUIDADO",
+        "sub": "cloro diluido, con guantes y ventana abierta",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 13308,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 4",
+        "title": "La cabeza de la regadera"
+      }
+    },
+    {
+      "from": 14233,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 1,
+        "suffix": " noche",
+        "label": "si el chorro sale muy débil",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 15473,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 6",
+        "title": "Las juntas grises"
+      }
+    },
+    {
+      "from": 16378,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 7",
+        "title": "El drenaje"
+      }
+    },
+    {
+      "from": 16860,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CON GUANTES",
+        "sub": "nunca con los dedos",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 17445,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "OJO",
+        "sub": "no uses agua hirviendo en tubos de plástico",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 19586,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 9",
+        "title": "Tinas de acrílico"
+      }
+    },
+    {
+      "from": 20808,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 10",
+        "title": "Manchas de óxido"
+      }
+    },
+    {
+      "from": 22398,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SIN PELUSA",
+        "sub": "el truco del periódico",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 23602,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "¿Cuál es tu caso?"
+      }
+    },
+    {
+      "from": 26834,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "COMO LA MILPA",
+        "sub": "se cuida poquito a poquito",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 27642,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERRORES",
+        "title": "Los 4 errores más comunes"
+      }
+    },
+    {
+      "from": 27804,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 1,
+        "text": "Mezclar cloro con vinagre o amoniaco"
+      }
+    },
+    {
+      "from": 28074,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 2,
+        "text": "Tallar con fuerza en vez de esperar"
+      }
+    },
+    {
+      "from": 28517,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 3,
+        "text": "Agua hirviendo en tubos de plástico"
+      }
+    },
+    {
+      "from": 28813,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 4,
+        "text": "Limpiador carísimo innecesario"
+      }
+    },
+    {
+      "from": 29228,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REPASO",
+        "title": "Todo lo que vimos hoy"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 2,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA VERDAD",
+        "phrase": "La mugre no se quita tallando más fuerte",
+        "accent": "tallando más fuerte",
+        "src": "img/lupe-limpia-mejor-forma-limpiar_s01.png"
+      }
+    },
+    {
+      "from": 586,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que ya no vas a tener",
+        "items": [
+          "Chorros de cal en el vidrio",
+          "Mugre amarilla en la tina",
+          "Tapete de hule descolorido",
+          "Olor a químico de fábrica"
+        ]
+      }
+    },
+    {
+      "from": 640,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL SECRETO DE MI AMÁ",
+        "phrase": "No era el producto caro, era el orden correcto",
+        "accent": "el orden correcto",
+        "src": "img/lupe-limpia-mejor-forma-limpiar_s08.png"
+      }
+    },
+    {
+      "from": 3413,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL DATO",
+        "value": 9,
+        "prefix": "",
+        "suffix": " hermanos",
+        "label": "así de grande era la familia que bañaba mi amá"
+      }
+    },
+    {
+      "from": 4650,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REGLAS DE ORO",
+        "title": "Antes de la lista",
+        "steps": [
+          {
+            "title": "Distingue",
+            "sub": "cal o moho, no es lo mismo"
+          },
+          {
+            "title": "Respeta el orden",
+            "sub": "un producto a la vez"
+          },
+          {
+            "title": "Ventila",
+            "sub": "ventana abierta o extractor"
+          }
+        ]
+      }
+    },
+    {
+      "from": 5425,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Cal o moho? Así se distinguen",
+        "left": {
+          "label": "CAL",
+          "sub": "blancuzca, áspera, del agua dura"
+        },
+        "right": {
+          "label": "MOHO",
+          "sub": "negra o verde, en el silicón"
+        }
+      }
+    },
+    {
+      "from": 6094,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El cloro quita la cal",
+        "truth": "El cloro no disuelve minerales, solo el vinagre"
+      }
+    },
+    {
+      "from": 6830,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "¿Tienes cal? Revisa esto",
+        "items": [
+          "Manchas blancas o grisáceas",
+          "Se siente áspero al tacto",
+          "Vidrio opaco de la regadera",
+          "Aparece donde sale el agua"
+        ]
+      }
+    },
+    {
+      "from": 7482,
+      "dur": 270,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Mezclar todo limpia más rápido",
+        "truth": "Cloro con vinagre o amoniaco genera gases peligrosos"
+      }
+    },
+    {
+      "from": 9439,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 1",
+        "value": 0.5,
+        "prefix": "",
+        "suffix": " L",
+        "label": "vinagre blanco tibio para atacar la cal"
+      }
+    },
+    {
+      "from": 10242,
+      "dur": 240,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TIEMPO DE ESPERA",
+        "value": 15,
+        "max": 30,
+        "suffix": " min",
+        "label": "minutos de reposo según qué tan gruesa esté la cal"
+      }
+    },
+    {
+      "from": 10888,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 2: MOHO",
+        "title": "Pasta de bicarbonato para el moho",
+        "steps": [
+          {
+            "title": "4 cucharadas",
+            "sub": "de bicarbonato con agua tibia"
+          },
+          {
+            "title": "Aplica y espera",
+            "sub": "20 minutos con cepillo de dientes"
+          },
+          {
+            "title": "Cloro si hace falta",
+            "sub": "diluido, nunca puro, 5 min máximo"
+          }
+        ]
+      }
+    },
+    {
+      "from": 12658,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 3: TAPETE",
+        "value": 20,
+        "prefix": "",
+        "suffix": " min",
+        "label": "de reposo en agua con bicarbonato"
+      }
+    },
+    {
+      "from": 13703,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Cuánto dejar la bolsa de vinagre?",
+        "left": {
+          "label": "POCA OBSTRUCCIÓN",
+          "sub": "1 hora es suficiente"
+        },
+        "right": {
+          "label": "CHORRO MUY DÉBIL",
+          "sub": "toda la noche colgada"
+        }
+      }
+    },
+    {
+      "from": 14786,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TRUCO DEL RANCHO",
+        "phrase": "Limón con sal es una lija natural sin rayar el cromo",
+        "accent": "lija natural",
+        "src": "img/lupe-limpia-mejor-forma-limpiar_s53.png"
+      }
+    },
+    {
+      "from": 15701,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 6: JUNTAS GRISES",
+        "title": "Pasta para blanquear la lechada",
+        "steps": [
+          {
+            "title": "3 cucharadas",
+            "sub": "de bicarbonato con agua"
+          },
+          {
+            "title": "10 gotas",
+            "sub": "de agua oxigenada"
+          },
+          {
+            "title": "10 minutos",
+            "sub": "de reposo y tallado suave"
+          }
+        ]
+      }
+    },
+    {
+      "from": 16992,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 7: DRENAJE",
+        "value": 0.5,
+        "prefix": "",
+        "suffix": " taza",
+        "label": "de bicarbonato y luego de vinagre para destapar"
+      }
+    },
+    {
+      "from": 17743,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Cómo lavar la cortina sin arruinarla",
+        "items": [
+          "Agua tibia, nunca caliente",
+          "1/4 taza de vinagre en vez de suavizante",
+          "2 toallas viejas para que no se estire",
+          "Secar al aire, nunca en secadora"
+        ]
+      }
+    },
+    {
+      "from": 19712,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El mismo vinagre fuerte sirve para toda tina",
+        "truth": "El acrílico se raya: usa bicarbonato diluido, casi aguado"
+      }
+    },
+    {
+      "from": 21178,
+      "dur": 360,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "El tratamiento del óxido, paso a paso",
+        "steps": [
+          {
+            "when": "Noche 1",
+            "text": "Pasta de bicarbonato con limón, cubierta con plástico"
+          },
+          {
+            "when": "Día 2",
+            "text": "Tallas con el cepillo, casi siempre se va"
+          },
+          {
+            "when": "Si no se va",
+            "text": "Repites el proceso una segunda noche"
+          },
+          {
+            "when": "Nunca",
+            "text": "Tallar con fuerza: puede dañar el esmalte"
+          }
+        ]
+      }
+    },
+    {
+      "from": 22099,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TRUCO DEL PERIÓDICO",
+        "phrase": "El periódico no deja pelusa y el brillo dura más",
+        "accent": "no deja pelusa",
+        "src": "img/lupe-limpia-mejor-forma-limpiar_s80.png"
+      }
+    },
+    {
+      "from": 23273,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL DATO",
+        "value": 1,
+        "prefix": "",
+        "suffix": " minuto",
+        "label": "es lo que toma secar el vidrio después de bañarte"
+      }
+    },
+    {
+      "from": 23970,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Cuál es tu caso?",
+        "left": {
+          "label": "AGUA DURA",
+          "sub": "tu prioridad es la cal, vinagre cada 2 semanas"
+        },
+        "right": {
+          "label": "MUCHA HUMEDAD",
+          "sub": "tu prioridad es el moho, ventila 15 min"
+        }
+      }
+    },
+    {
+      "from": 24738,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Si tienes niños o mascotas",
+        "items": [
+          "El drenaje se tapa más rápido",
+          "El tapete necesita más lavadas",
+          "Revisa el cabello acumulado seguido"
+        ]
+      }
+    },
+    {
+      "from": 25955,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA NIETA Y LA TINA",
+        "phrase": "No era que la tina estuviera vieja, era que nunca se secaba",
+        "accent": "nunca se secaba",
+        "src": "img/lupe-limpia-mejor-forma-limpiar_s91.png"
+      }
+    },
+    {
+      "from": 27097,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MANTENIMIENTO",
+        "value": 15,
+        "prefix": "",
+        "suffix": " días",
+        "label": "entre cada pasada rápida de vinagre"
+      }
+    },
+    {
+      "from": 28226,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Tallar con fuerza limpia más rápido",
+        "truth": "La paciencia ahorra esfuerzo: deja actuar el producto primero"
+      }
+    },
+    {
+      "from": 30695,
+      "dur": 115,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA CLAVE",
+        "value": 1,
+        "prefix": "",
+        "suffix": " minuto al día",
+        "label": "para no repetir todo este trabajo pesado"
+      }
+    }
+  ]
+}
