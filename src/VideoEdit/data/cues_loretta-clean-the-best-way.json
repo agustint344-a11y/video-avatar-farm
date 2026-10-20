@@ -1,0 +1,2032 @@
+{
+  "slug": "loretta-clean-the-best-way",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 36400,
+  "audioSrc": "loretta-clean-the-best-way.mp3",
+  "avatarSrc": "loretta-clean-the-best-way_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1328,
+      "dur": 1050,
+      "clip": 0
+    },
+    {
+      "from": 7722,
+      "dur": 410,
+      "clip": 1050
+    },
+    {
+      "from": 19096,
+      "dur": 905,
+      "clip": 1460
+    },
+    {
+      "from": 32741,
+      "dur": 673,
+      "clip": 2365
+    },
+    {
+      "from": 33508,
+      "dur": 1022,
+      "clip": 3038
+    },
+    {
+      "from": 35779,
+      "dur": 574,
+      "clip": 4060
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 89,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 235,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 647,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 788,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 980,
+      "dur": 80,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s05.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1060,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s06.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2378,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s06.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2643,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s36.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2777,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2963,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s08.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3060,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s09.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3226,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s10.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3416,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s11.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3623,
+      "dur": 64,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s12.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3687,
+      "dur": 58,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s13.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4115,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s97.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4339,
+      "dur": 49,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s14.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4388,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s15.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4579,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s16.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4734,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s17.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5098,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s100.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5213,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s18.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5275,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5500,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s20.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5665,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s21.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5843,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s22.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6263,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s22.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6413,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s23.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6614,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s24.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6966,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s24.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7031,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s98.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7125,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s26.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7265,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s27.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7595,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s25.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8132,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s28.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8299,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s29.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8725,
+      "dur": 266,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s78.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8991,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s30.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9205,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s31.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9283,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s32.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9529,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s33.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9859,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s33.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10189,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s33.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10360,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s34.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10455,
+      "dur": 362,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s35.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10817,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s37.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11031,
+      "dur": 80,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s38.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11111,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s39.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11243,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11421,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s41.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11481,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s42.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11593,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s43.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11771,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s44.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11966,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s45.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12111,
+      "dur": 64,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s46.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12175,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s47.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12298,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s48.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12469,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s49.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12562,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s50.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12820,
+      "dur": 285,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s50.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13105,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s51.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13279,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s52.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13406,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s53.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13597,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s54.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13718,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s55.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13853,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s56.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13988,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s57.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14102,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s58.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14194,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s59.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14391,
+      "dur": 282,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s60.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15003,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s60.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15098,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s61.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15226,
+      "dur": 58,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s62.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15284,
+      "dur": 258,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s63.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15542,
+      "dur": 51,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s64.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15833,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s64.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16029,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s65.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16261,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s66.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16422,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s67.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16566,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s68.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16673,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s69.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16836,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s70.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16917,
+      "dur": 250,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s71.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17167,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s72.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17695,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s72.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17792,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s73.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17885,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s74.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18024,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s75.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18157,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s76.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18322,
+      "dur": 321,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s77.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18643,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s79.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18755,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s80.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19027,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s80.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20001,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s81.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20101,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s82.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20282,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s83.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20342,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s84.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20569,
+      "dur": 52,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s87.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20891,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s85.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21049,
+      "dur": 318,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s86.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21367,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s88.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21509,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s89.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21685,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s90.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21814,
+      "dur": 71,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s91.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21885,
+      "dur": 223,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s92.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22108,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s93.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22252,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s94.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22384,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s95.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22546,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s96.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23102,
+      "dur": 205,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s131.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23307,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s99.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23637,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s99.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23725,
+      "dur": 292,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s101.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24017,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s102.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24111,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s103.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24260,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s104.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24394,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s105.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24794,
+      "dur": 355,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s105.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25149,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s106.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25312,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s107.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25424,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s108.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25591,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s109.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25685,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s110.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25881,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s111.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25973,
+      "dur": 278,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s112.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26251,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s113.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26589,
+      "dur": 238,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s113.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26827,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s114.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26896,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s115.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27166,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s116.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27376,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s117.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27494,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s118.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27617,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s119.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27905,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s119.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28047,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s120.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28263,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s121.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28628,
+      "dur": 296,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s121.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28924,
+      "dur": 301,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s122.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29225,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s123.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29614,
+      "dur": 275,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s123.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29889,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s124.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30219,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s124.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30415,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s125.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30561,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s126.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30772,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s127.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31259,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s127.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31419,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s128.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31567,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s129.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31744,
+      "dur": 343,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s130.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32327,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s130.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32498,
+      "dur": 243,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s132.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33414,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s133.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 34530,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s134.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34760,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s135.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 35205,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s135.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 35374,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s136.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 35453,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s137.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 36353,
+      "dur": 47,
+      "kind": "image",
+      "src": "img/loretta-clean-the-best-way_s137.png",
+      "kb": 2,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1328,
+      "dur": 180,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "LORETTA'S CLEAN HOME",
+        "title": "Loretta Mae Pruitt",
+        "sub": "Farm girl who watched her mama clean house"
+      }
+    },
+    {
+      "from": 4734,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CHAPTER 1",
+        "title": "Soap Scum & Hard Water"
+      }
+    },
+    {
+      "from": 7794,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "DANGER",
+        "num": 1,
+        "text": "Never mix vinegar & bleach"
+      }
+    },
+    {
+      "from": 7902,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATTENTION",
+        "sub": "Vinegar + bleach makes a toxic gas",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 8299,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "MISTAKE",
+        "num": 2,
+        "text": "Vinegar etches natural stone"
+      }
+    },
+    {
+      "from": 8871,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CHAPTER 2",
+        "title": "Grout Lines"
+      }
+    },
+    {
+      "from": 8991,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "POROUS GROUT",
+        "sub": "Soaks up dirt for years",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 12111,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CHAPTER 3",
+        "title": "The Tub Ring"
+      }
+    },
+    {
+      "from": 12298,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "BODY OILS",
+        "sub": "Plus soap scum & minerals",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 13597,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "MISTAKE",
+        "num": 3,
+        "text": "Scrubbing harder, not soaking longer"
+      }
+    },
+    {
+      "from": 13988,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CHAPTER 4",
+        "title": "Mold & Caulk"
+      }
+    },
+    {
+      "from": 14391,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "DAMP CORNERS",
+        "sub": "Mold's favorite spot",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 16422,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "SEE A PRO",
+        "sub": "Mold past the caulk or breathing trouble needs expert help",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 16836,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CHAPTER 5",
+        "title": "The Showerhead"
+      }
+    },
+    {
+      "from": 16917,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MINERAL BUILDUP",
+        "sub": "Clogs the tiny holes",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 17792,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 8,
+        "suffix": " h",
+        "label": "minimum overnight soak",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 18322,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "MISTAKE",
+        "num": 4,
+        "text": "Vinegar dulls gold-toned fixtures"
+      }
+    },
+    {
+      "from": 19993,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CHAPTER 6",
+        "title": "Curtain & Liner"
+      }
+    },
+    {
+      "from": 22108,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CHAPTER 7",
+        "title": "The Glass Door"
+      }
+    },
+    {
+      "from": 22384,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MINERAL FILM",
+        "sub": "Glass cleaner won't cut it",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 24017,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CHAPTER 8",
+        "title": "The Drain"
+      }
+    },
+    {
+      "from": 24260,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "HAIR BUILDUP",
+        "sub": "Builds up in the drain trap",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 24800,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "PIPE CARE",
+        "sub": "Skip boiling water if you have older PVC pipes",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 25881,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CHAPTER 9",
+        "title": "Fixtures & Handles"
+      }
+    },
+    {
+      "from": 27166,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CHAPTER 10",
+        "title": "The Silent Mistake"
+      }
+    },
+    {
+      "from": 27494,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "MISTAKE",
+        "num": 5,
+        "text": "Skipping the squeegee & fan"
+      }
+    },
+    {
+      "from": 28263,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "NO AIRFLOW",
+        "sub": "Feeds mold fast",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 30415,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CHAPTER 11",
+        "title": "Know Where You Stand"
+      }
+    },
+    {
+      "from": 33406,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CHAPTER 12",
+        "title": "Quick Recap"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 407,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "WARNING SIGNS",
+        "phrase": "A ring, a film, a smell you can't place",
+        "accent": "can't place",
+        "src": "img/loretta-clean-the-best-way_s03.png"
+      }
+    },
+    {
+      "from": 1189,
+      "dur": 139,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Signs You're Ignoring",
+        "items": [
+          "A ring around the tub",
+          "A film on the glass door",
+          "A smell you can't place",
+          "Blaming it on 'just an old house'"
+        ]
+      }
+    },
+    {
+      "from": 2433,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MAMA'S RULE",
+        "phrase": "A dirty tub is a lazy woman's secret",
+        "accent": "lazy woman's secret",
+        "src": "img/loretta-clean-the-best-way_s06.png"
+      }
+    },
+    {
+      "from": 3745,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "GROUT FIX",
+        "title": "Peroxide Grout Paste",
+        "steps": [
+          {
+            "title": "Mix the paste",
+            "sub": "3 tbsp baking soda + 1 tbsp peroxide"
+          },
+          {
+            "title": "Apply & wait",
+            "sub": "Press into grout lines, sit 15 minutes"
+          },
+          {
+            "title": "Scrub & repeat",
+            "sub": "Old toothbrush, repeat 2-3 times for dark stains"
+          }
+        ]
+      }
+    },
+    {
+      "from": 3845,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Today's Old Farm Checklist",
+        "items": [
+          "Soap scum & tile",
+          "Grout lines",
+          "Tub ring & caulk mold",
+          "Showerhead & glass door",
+          "Drain & fixtures"
+        ]
+      }
+    },
+    {
+      "from": 4888,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Soap scum is just soap",
+        "truth": "It's soap plus hard water minerals, calcium and magnesium"
+      }
+    },
+    {
+      "from": 5903,
+      "dur": 360,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "OLD FARM WAY",
+        "title": "Warm Vinegar & Baking Soda Spray",
+        "steps": [
+          {
+            "title": "Warm 1 cup vinegar",
+            "sub": "30 seconds on the stove, just warm, not boiling"
+          },
+          {
+            "title": "Add 2 tbsp baking soda",
+            "sub": "Pour slow into the bottle, it will fizz"
+          },
+          {
+            "title": "Spray, wait 10 min, scrub",
+            "sub": "Soft brush, small circles, rinse warm"
+          }
+        ]
+      }
+    },
+    {
+      "from": 6786,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "OLD FARM WAIT TIME",
+        "value": 10,
+        "prefix": "",
+        "suffix": " min",
+        "label": "let the vinegar spray sit before you scrub"
+      }
+    },
+    {
+      "from": 8485,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Check Your Tile First",
+        "left": {
+          "label": "Ceramic or porcelain tile",
+          "sub": "The vinegar spray works great"
+        },
+        "right": {
+          "label": "Natural stone, marble or travertine",
+          "sub": "Skip vinegar, use dish soap instead"
+        }
+      }
+    },
+    {
+      "from": 12640,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SOAK TIME",
+        "value": 20,
+        "prefix": "",
+        "suffix": " min",
+        "label": "let the vinegar-soaked cloth sit on the ring"
+      }
+    },
+    {
+      "from": 14673,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MOLD ON CAULK",
+        "title": "Full-Strength Peroxide Method",
+        "steps": [
+          {
+            "title": "Spray full strength",
+            "sub": "Straight from the brown bottle"
+          },
+          {
+            "title": "Wait 10 minutes",
+            "sub": "Watch it bubble and lift"
+          },
+          {
+            "title": "Wipe it clean",
+            "sub": "Stubborn spots: soak a paper towel 30 minutes"
+          }
+        ]
+      }
+    },
+    {
+      "from": 15593,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Clean It or Re-Caulk It?",
+        "left": {
+          "label": "Caulk is intact",
+          "sub": "The peroxide treatment works"
+        },
+        "right": {
+          "label": "Caulk is cracked or pulling away",
+          "sub": "It needs re-caulking, not cleaning"
+        }
+      }
+    },
+    {
+      "from": 17335,
+      "dur": 360,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SHOWERHEAD FIX",
+        "title": "Overnight Vinegar Soak",
+        "steps": [
+          {
+            "title": "Bag it",
+            "sub": "1.5 cups white vinegar in a plastic bag"
+          },
+          {
+            "title": "Tie & soak",
+            "sub": "Rubber band, at least 8 hours overnight"
+          },
+          {
+            "title": "Scrub & flush",
+            "sub": "Old toothbrush, then hot water for a minute"
+          }
+        ]
+      }
+    },
+    {
+      "from": 18847,
+      "dur": 180,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REPEAT EVERY",
+        "value": 3,
+        "max": 12,
+        "suffix": " mo",
+        "label": "soak the showerhead every 2-3 months to keep pressure up"
+      }
+    },
+    {
+      "from": 20621,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Washing the Curtain Liner",
+        "items": [
+          "Add 1 cup vinegar to the rinse cycle",
+          "Gentle cycle, cold water",
+          "Hang to dry, never the dryer",
+          "Check the tag if it's vinyl"
+        ]
+      }
+    },
+    {
+      "from": 22772,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "GLASS HAZE FIX",
+        "title": "Lemon & Salt Method",
+        "steps": [
+          {
+            "title": "Cut & dip",
+            "sub": "Lemon half dipped in salt"
+          },
+          {
+            "title": "Rub in circles",
+            "sub": "Citric acid cuts the mineral film"
+          },
+          {
+            "title": "Rinse & squeegee dry",
+            "sub": "Air drying just redeposits the minerals"
+          }
+        ]
+      }
+    },
+    {
+      "from": 24614,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "UPKEEP HABIT",
+        "value": 1,
+        "prefix": "",
+        "suffix": "x / month",
+        "label": "baking soda & vinegar flush keeps drains clear"
+      }
+    },
+    {
+      "from": 26409,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DON'T FORGET",
+        "phrase": "A soft cloth, not a scrub brush, on chrome",
+        "accent": "soft cloth",
+        "src": "img/loretta-clean-the-best-way_s113.png"
+      }
+    },
+    {
+      "from": 27665,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "A sparkling deep clean is enough",
+        "truth": "Skip the squeegee and fan, and it's back to square one in 2-3 weeks"
+      }
+    },
+    {
+      "from": 28448,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RUN THE FAN",
+        "value": 20,
+        "prefix": "",
+        "suffix": " min",
+        "label": "minimum after every shower to clear moisture"
+      }
+    },
+    {
+      "from": 29314,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "30-SECOND HABIT",
+        "title": "Squeegee After Every Shower",
+        "steps": [
+          {
+            "title": "Wipe the glass",
+            "sub": "Top to bottom, 30 seconds"
+          },
+          {
+            "title": "Wipe the tile walls",
+            "sub": "Same motion, same squeegee"
+          },
+          {
+            "title": "A dollar-store tool works",
+            "sub": "Cuts way down on deep cleaning later"
+          }
+        ]
+      }
+    },
+    {
+      "from": 30959,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Know Where You Stand",
+        "items": [
+          "Grout gray, not black: monthly paste",
+          "Caulk spotted, not cracked: weekly peroxide",
+          "Caulk cracked: re-caulk, not clean",
+          "Pressure dropped: overnight vinegar soak"
+        ]
+      }
+    },
+    {
+      "from": 32087,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Well Water vs. Soft City Water",
+        "left": {
+          "label": "Well or hard water",
+          "sub": "Mineral buildup forms much faster"
+        },
+        "right": {
+          "label": "Softened city water",
+          "sub": "A deep clean can last about a month"
+        }
+      }
+    },
+    {
+      "from": 34995,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RECAP",
+        "phrase": "Lemon and salt beats the haze, squeegee keeps it gone",
+        "accent": "squeegee",
+        "src": "img/loretta-clean-the-best-way_s135.png"
+      }
+    },
+    {
+      "from": 35570,
+      "dur": 209,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Quick Recap: Problem Areas",
+        "items": [
+          "Soap scum & grout",
+          "Tub ring & mold",
+          "Showerhead & curtain",
+          "Glass door & drain",
+          "Fixtures & handles"
+        ]
+      }
+    }
+  ]
+}
