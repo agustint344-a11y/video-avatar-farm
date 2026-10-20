@@ -1,0 +1,1911 @@
+{
+  "slug": "mateo-este-polvo-elimina",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 33046,
+  "audioSrc": "mateo-este-polvo-elimina.mp3",
+  "avatarSrc": "mateo-este-polvo-elimina_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 656,
+      "dur": 1144,
+      "clip": 0
+    },
+    {
+      "from": 11032,
+      "dur": 873,
+      "clip": 1144
+    },
+    {
+      "from": 21385,
+      "dur": 912,
+      "clip": 2017
+    },
+    {
+      "from": 28222,
+      "dur": 743,
+      "clip": 2929
+    },
+    {
+      "from": 31358,
+      "dur": 1045,
+      "clip": 3672
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 2,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 212,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 400,
+      "dur": 205,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 605,
+      "dur": 51,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1800,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1925,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2222,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2405,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2556,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2644,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3018,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s07.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3264,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s08.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3374,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s09.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3449,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3612,
+      "dur": 59,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s11.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3941,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s11.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4271,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s11.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4337,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s12.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4521,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s13.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4636,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s14.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4758,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s15.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4928,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s16.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5067,
+      "dur": 215,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s32.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5282,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s18.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5602,
+      "dur": 287,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s17.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5889,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s19.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6085,
+      "dur": 61,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s20.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6146,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s21.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6252,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s22.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6449,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s23.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6571,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s24.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6938,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s25.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7128,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s26.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7277,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s27.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7420,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s28.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7497,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s29.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7845,
+      "dur": 310,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s29.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8155,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s30.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8330,
+      "dur": 318,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s31.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8648,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s33.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8833,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s34.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9175,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s34.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9382,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s35.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9503,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s36.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9734,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s37.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9826,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s38.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10154,
+      "dur": 371,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s38.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10525,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s39.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10717,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s40.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10840,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s41.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11905,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s42.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12037,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s43.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12254,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s44.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12494,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s45.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12569,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s46.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12737,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s47.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13022,
+      "dur": 284,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s113.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13306,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s48.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13434,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s49.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13607,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s50.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13724,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s51.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13826,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s52.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14206,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s52.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14342,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s53.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14502,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s54.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14605,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s55.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14993,
+      "dur": 281,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s55.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15274,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s56.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15383,
+      "dur": 57,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s57.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15440,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s58.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15799,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s58.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16031,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s59.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16200,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s60.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16321,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s61.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16685,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s61.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17015,
+      "dur": 70,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s61.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17085,
+      "dur": 91,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17176,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s63.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17257,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s64.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17362,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s65.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17465,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s66.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17731,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s66.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17856,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s67.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17933,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s68.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18065,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s69.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18216,
+      "dur": 259,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s70.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18475,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s71.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18569,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s72.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18740,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s73.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18951,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s74.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19412,
+      "dur": 233,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s74.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19645,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s75.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19793,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s76.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19892,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s77.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19988,
+      "dur": 59,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s78.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20227,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s78.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20557,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s78.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20714,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s79.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20789,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s80.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20904,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s81.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21190,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s81.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22297,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s82.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22425,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s83.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22548,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s84.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22843,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s84.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22990,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s85.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23166,
+      "dur": 58,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s86.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23224,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s87.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23448,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s88.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23758,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s88.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23951,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s89.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24044,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s90.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24214,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s91.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24356,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s92.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24653,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s92.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24765,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s93.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24956,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s94.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25162,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s95.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25241,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s96.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25405,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s97.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25697,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s97.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26027,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s97.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26090,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s98.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26286,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s99.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26432,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s100.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26633,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s101.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26779,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s102.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26959,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s103.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27151,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s104.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27572,
+      "dur": 244,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s104.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27816,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s105.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27997,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s106.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28121,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s107.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28965,
+      "dur": 51,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s108.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29286,
+      "dur": 264,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s108.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29550,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s109.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29650,
+      "dur": 288,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s110.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29938,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s111.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30074,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s112.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30385,
+      "dur": 280,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s112.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30665,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s114.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30839,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s115.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31093,
+      "dur": 265,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s115.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32403,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s115.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32733,
+      "dur": 313,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-elimina_s115.png",
+      "kb": 0,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 605,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ESCONDIDAS",
+        "sub": "la mayoría no la ves",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 811,
+      "dur": 180,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "MATEO ARREGLA",
+        "title": "Mateo",
+        "sub": "Arreglos de casa, sin pagar de más"
+      }
+    },
+    {
+      "from": 3374,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 2",
+        "title": "Por qué el aerosol no alcanza"
+      }
+    },
+    {
+      "from": 4928,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "POR CONTACTO",
+        "sub": "así mata el aerosol",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 6449,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 3",
+        "title": "Qué es el ácido bórico"
+      }
+    },
+    {
+      "from": 7128,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SE PEGA",
+        "sub": "a las patas y antenas",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 8648,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CANIBALISMO",
+        "sub": "así llega al nido",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 9826,
+      "dur": 165,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 4",
+        "title": "Ácido bórico vs bórax: no es lo mismo"
+      }
+    },
+    {
+      "from": 11293,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 11749,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 12254,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 5",
+        "title": "El paso a paso completo"
+      }
+    },
+    {
+      "from": 13114,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ÚNICA COMIDA",
+        "sub": "nada de restos sueltos",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 15440,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 1,
+        "text": "Montones gruesos y visibles"
+      }
+    },
+    {
+      "from": 15831,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "con niños o mascotas, nunca dejes montones visibles",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 16031,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CAPA FINA",
+        "sub": "casi invisible",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 17176,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 6",
+        "title": "Paciencia y repetición"
+      }
+    },
+    {
+      "from": 18475,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 7",
+        "title": "Qué esperar semana a semana"
+      }
+    },
+    {
+      "from": 18740,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ES NORMAL",
+        "sub": "ver más la primera semana",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 22103,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 22425,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 8",
+        "title": "Los errores que arruinan el método"
+      }
+    },
+    {
+      "from": 22990,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 3,
+        "text": "Mezclar con aerosol en spray"
+      }
+    },
+    {
+      "from": 23827,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 5,
+        "text": "Aplicar una vez y no revisar más"
+      }
+    },
+    {
+      "from": 25162,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 9",
+        "title": "Humedad: la otra mitad del problema"
+      }
+    },
+    {
+      "from": 26286,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "EL AGUA",
+        "sub": "el verdadero imán",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 26779,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 10",
+        "title": "¿Es peligroso para niños y mascotas?"
+      }
+    },
+    {
+      "from": 26959,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "CUIDADO",
+        "sub": "sigue siendo tóxico si se ingiere en cantidad",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 27816,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ZONA SEGURA",
+        "sub": "dentro de huecos de pared no hay ese riesgo",
+        "tone": "good"
+      }
+    },
+    {
+      "from": 29473,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 11",
+        "title": "Repaso y cierre honesto"
+      }
+    },
+    {
+      "from": 30839,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 31816,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 2,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PROBLEMA REAL",
+        "phrase": "Lo que ves caminar de noche es solo una fracción del problema",
+        "accent": "una fracción",
+        "src": "img/mateo-este-polvo-elimina_s01.png"
+      }
+    },
+    {
+      "from": 2042,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL RESULTADO",
+        "value": 1,
+        "prefix": "",
+        "suffix": " mes",
+        "label": "y la diferencia ya era enorme, sin fumigación cara"
+      }
+    },
+    {
+      "from": 2778,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Por qué aparecen las cucarachas",
+        "items": [
+          "Comida disponible",
+          "Agua cerca",
+          "Lugar oscuro y húmedo"
+        ]
+      }
+    },
+    {
+      "from": 3671,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PLAN DE HOY",
+        "title": "5 partes para resolverlo de raíz",
+        "steps": [
+          {
+            "title": "Por qué falla el aerosol",
+            "sub": "ataca solo lo que ves"
+          },
+          {
+            "title": "Qué es este polvo",
+            "sub": "cómo actúa por dentro"
+          },
+          {
+            "title": "Paso a paso",
+            "sub": "dónde y cuánto aplicar"
+          }
+        ]
+      }
+    },
+    {
+      "from": 5422,
+      "dur": 180,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CUÁNTO SE ESCONDE",
+        "value": 90,
+        "max": 100,
+        "suffix": "%",
+        "label": "de la colonia sigue oculta mientras limpias la mesada"
+      }
+    },
+    {
+      "from": 6758,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LO QUE CUESTA",
+        "value": 3,
+        "prefix": "$",
+        "suffix": "",
+        "label": "la bolsa de ácido bórico en ferretería o veterinaria"
+      }
+    },
+    {
+      "from": 7575,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CÓMO ACTÚA",
+        "title": "El camino del polvo hasta el nido",
+        "steps": [
+          {
+            "title": "Se pega a las patas",
+            "sub": "y a las antenas"
+          },
+          {
+            "title": "Se limpia y lo ingiere",
+            "sub": "veneno estomacal"
+          },
+          {
+            "title": "Muere en el nido",
+            "sub": "otras la comen"
+          }
+        ]
+      }
+    },
+    {
+      "from": 8965,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Con más spray alcanza",
+        "truth": "El spray no llega al nido; el efecto cascada sí"
+      }
+    },
+    {
+      "from": 9944,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "No es lo mismo",
+        "left": {
+          "label": "Bórax doméstico",
+          "sub": "limpiador, para slime"
+        },
+        "right": {
+          "label": "Ácido bórico para plagas",
+          "sub": "polvo fino insecticida"
+        }
+      }
+    },
+    {
+      "from": 12842,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 1: LIMPIEZA",
+        "phrase": "El polvo debe ser la única comida disponible en esa zona",
+        "accent": "única comida",
+        "src": "img/mateo-este-polvo-elimina_s47.png"
+      }
+    },
+    {
+      "from": 13936,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Los puntos exactos donde aplicar",
+        "items": [
+          "Base de los zócalos",
+          "Detrás y debajo de la heladera",
+          "Alrededor de las cañerías",
+          "Cajones poco usados",
+          "Grietas y huecos de pared"
+        ]
+      }
+    },
+    {
+      "from": 14813,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PUNTO CRÍTICO",
+        "phrase": "El zócalo suelto es casi siempre la puerta de entrada",
+        "accent": "puerta de entrada",
+        "src": "img/mateo-este-polvo-elimina_s55.png"
+      }
+    },
+    {
+      "from": 15589,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Más cantidad de polvo es mejor",
+        "truth": "La cucaracha evita los montones gruesos y visibles"
+      }
+    },
+    {
+      "from": 16505,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA CANTIDAD CORRECTA",
+        "phrase": "Tan fina que al pasar el dedo casi no se note",
+        "accent": "casi no se note",
+        "src": "img/mateo-este-polvo-elimina_s61.png"
+      }
+    },
+    {
+      "from": 17551,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA RUTINA",
+        "value": 7,
+        "prefix": "",
+        "suffix": " a 10 días",
+        "label": "cada cuánto conviene revisar y reponer el polvo"
+      }
+    },
+    {
+      "from": 19112,
+      "dur": 300,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Qué esperar semana a semana",
+        "steps": [
+          {
+            "when": "Semana 1",
+            "text": "pueden verse más, no menos"
+          },
+          {
+            "when": "Semana 2",
+            "text": "se mueven lento o aparecen muertas"
+          },
+          {
+            "when": "Semana 3-4",
+            "text": "empieza la baja real"
+          },
+          {
+            "when": "4 a 6 semanas",
+            "text": "resultado sostenido"
+          }
+        ]
+      }
+    },
+    {
+      "from": 20047,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL TIEMPO REAL",
+        "value": 6,
+        "prefix": "",
+        "suffix": " semanas",
+        "label": "para un resultado sostenido en una infestación moderada"
+      }
+    },
+    {
+      "from": 20980,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ANTES DE COMPRAR",
+        "phrase": "Comprar de más es tirar plata, de menos deja el trabajo a mitad",
+        "accent": "tirar plata",
+        "src": "img/mateo-este-polvo-elimina_s81.png"
+      }
+    },
+    {
+      "from": 22603,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Los primeros errores que lo arruinan",
+        "items": [
+          "Montones gruesos y visibles",
+          "Limpiar la zona con trapo húmedo",
+          "Mezclar con aerosol en spray"
+        ]
+      }
+    },
+    {
+      "from": 23548,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Si no funcionó en 2 o 3 días, no sirve",
+        "truth": "El proceso real toma semanas, no días"
+      }
+    },
+    {
+      "from": 24443,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL ERROR MÁS GRAVE",
+        "phrase": "Tratar solo tu casa cuando el nido está en la pared del vecino",
+        "accent": "pared del vecino",
+        "src": "img/mateo-este-polvo-elimina_s92.png"
+      }
+    },
+    {
+      "from": 25517,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LO QUE NECESITAN",
+        "value": 2,
+        "prefix": "",
+        "suffix": " días",
+        "label": "lo máximo que aguanta una cucaracha sin agua en climas calurosos"
+      }
+    },
+    {
+      "from": 27332,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Dónde NO poner polvo suelto",
+        "items": [
+          "Piso abierto de la cocina",
+          "Zonas donde lama el perro o el gato",
+          "Mejor usar cebos en estación cerrada ahí"
+        ]
+      }
+    },
+    {
+      "from": 29016,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REPASO RÁPIDO",
+        "title": "Lo esencial en 3 ideas",
+        "steps": [
+          {
+            "title": "El aerosol no basta",
+            "sub": "solo mata lo que ves"
+          },
+          {
+            "title": "Capa fina en los puntos exactos",
+            "sub": "nunca montones"
+          },
+          {
+            "title": "Paciencia de 4 a 6 semanas",
+            "sub": "y revisar el origen"
+          }
+        ]
+      }
+    },
+    {
+      "from": 30205,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL RESULTADO REAL",
+        "phrase": "Reduce la colonia mucho más profundo que cualquier aerosol",
+        "accent": "mucho más profundo",
+        "src": "img/mateo-este-polvo-elimina_s112.png"
+      }
+    },
+    {
+      "from": 30913,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA BIBLIOTECA DEL MAESTRO",
+        "value": 185,
+        "prefix": "",
+        "suffix": "",
+        "label": "fichas del taller: techos, azoteas y plomería incluidas"
+      }
+    }
+  ]
+}
