@@ -1,0 +1,1832 @@
+{
+  "slug": "electricista-internet-corta-mas",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 32944,
+  "audioSrc": "electricista-internet-corta-mas.mp3",
+  "avatarSrc": "electricista-internet-corta-mas_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 953,
+      "dur": 707,
+      "clip": 0
+    },
+    {
+      "from": 9258,
+      "dur": 763,
+      "clip": 707
+    },
+    {
+      "from": 14662,
+      "dur": 575,
+      "clip": 1470
+    },
+    {
+      "from": 15518,
+      "dur": 725,
+      "clip": 2045
+    },
+    {
+      "from": 29352,
+      "dur": 777,
+      "clip": 2770
+    },
+    {
+      "from": 31291,
+      "dur": 706,
+      "clip": 3547
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 121,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 305,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 641,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 798,
+      "dur": 80,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 878,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s05.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1660,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1990,
+      "dur": 70,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2060,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2135,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2413,
+      "dur": 298,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s07.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2711,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s08.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2867,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s09.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2991,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3424,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s14.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3606,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s11.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3720,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s12.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3835,
+      "dur": 366,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s13.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4201,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s15.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4511,
+      "dur": 329,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s15.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4840,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s16.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4928,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s68.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5068,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s18.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5201,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5353,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s20.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5730,
+      "dur": 305,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s17.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6035,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s21.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6112,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s22.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6293,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s23.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6367,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s24.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6621,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s24.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6863,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s25.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7027,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s26.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7247,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s27.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7399,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s28.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7688,
+      "dur": 341,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s28.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8029,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s30.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8197,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s31.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8549,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s29.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8779,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s32.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8860,
+      "dur": 218,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s33.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9078,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s34.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10021,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s35.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10188,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s36.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10308,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s37.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10433,
+      "dur": 289,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s38.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10722,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s39.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10920,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s40.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10998,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s44.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11373,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s44.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11463,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s41.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11590,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s42.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11784,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s43.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12114,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s43.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12444,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s43.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12562,
+      "dur": 61,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s45.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12623,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s46.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12726,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s47.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12891,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s48.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13170,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s48.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13345,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s49.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13459,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s50.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13661,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s51.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13836,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s52.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13982,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s53.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14360,
+      "dur": 302,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s53.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15237,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s54.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15400,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s55.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16243,
+      "dur": 302,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s55.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16545,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s56.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16722,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s57.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16844,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s58.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16983,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s59.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17076,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s60.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17395,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s60.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17725,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s60.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17788,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s61.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17981,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s62.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18165,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s63.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18308,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s64.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18518,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s65.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18640,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s66.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18744,
+      "dur": 263,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s67.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19007,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s69.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19474,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s69.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19665,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s70.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19782,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s71.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19958,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s90.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20097,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s73.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20314,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s74.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20436,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s75.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20773,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s72.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20982,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s76.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21138,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s77.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21318,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s78.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21431,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s79.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21593,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s80.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21932,
+      "dur": 293,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s80.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22225,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s81.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22347,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s82.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22508,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s83.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22603,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s84.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22702,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s85.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22918,
+      "dur": 54,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s86.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22972,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s87.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23105,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s88.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23311,
+      "dur": 337,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s89.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23858,
+      "dur": 256,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s89.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24114,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s91.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24202,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s92.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24341,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s93.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24688,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s93.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24869,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s94.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24972,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s95.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25169,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s96.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25675,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s96.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25788,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s97.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25957,
+      "dur": 243,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s98.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26200,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s99.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26277,
+      "dur": 243,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s100.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26880,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s101.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27062,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s102.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27217,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s103.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27347,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s104.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27445,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s105.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27790,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s105.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27951,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s106.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28154,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s107.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28346,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s108.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28430,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s109.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28748,
+      "dur": 298,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s109.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29046,
+      "dur": 306,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s110.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30129,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s111.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30287,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s112.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30427,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s113.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30817,
+      "dur": 317,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s113.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31134,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s114.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31997,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s114.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32327,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s114.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32657,
+      "dur": 287,
+      "kind": "image",
+      "src": "img/electricista-internet-corta-mas_s114.png",
+      "kb": 1,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 5,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HOY VAMOS A VER",
+        "title": "Por qué se corta tu internet"
+      }
+    },
+    {
+      "from": 798,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "20 MINUTOS",
+        "sub": "perdidos reiniciando todo",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 953,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "MATEO ELECTRICISTA",
+        "title": "Mateo",
+        "sub": "Mido y pruebo en mi propia casa antes de mostrártelo"
+      }
+    },
+    {
+      "from": 2867,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "Tu router no tiene batería propia"
+      }
+    },
+    {
+      "from": 4201,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SIN COLCHÓN",
+        "sub": "el router se apaga al instante",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 6112,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 1",
+        "title": "Cuánto consume tu router de verdad"
+      }
+    },
+    {
+      "from": 6367,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "NO TODOS IGUAL",
+        "sub": "cada router consume distinto",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 7247,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 10,
+        "suffix": " W",
+        "label": "módem de fibra",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 7815,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "BARATO Y EFECTIVO",
+        "sub": "menos que una heladera",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 10188,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_electricista.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Electricista",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 10722,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "3 OPCIONES",
+        "title": "Cómo armar tu UPS casero"
+      }
+    },
+    {
+      "from": 13982,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "BAJO CONSUMO",
+        "sub": "revísalo antes de comprar",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 15400,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HERRAMIENTA CLAVE",
+        "title": "Las calculadoras de la energía"
+      }
+    },
+    {
+      "from": 15593,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_electricista.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Electricista",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 17624,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 150,
+        "suffix": " USD",
+        "label": "tope de una estación chica",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 18744,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TU CASO",
+        "title": "¿Cuánto duran tus cortes de luz?"
+      }
+    },
+    {
+      "from": 19665,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CALCULA ANTES",
+        "sub": "de gastar dos veces",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 20982,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "un voltaje incorrecto puede dañar la fuente interna",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 21318,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 2,
+        "text": "polaridad invertida"
+      }
+    },
+    {
+      "from": 22225,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 3,
+        "text": "confiar en los mAh sin calcular"
+      }
+    },
+    {
+      "from": 23105,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SIN SORPRESAS",
+        "sub": "calcula la autonomía real",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 23311,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 4,
+        "text": "olvidar la cámara o el teléfono IP"
+      }
+    },
+    {
+      "from": 25169,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "PRUÉBALO YA",
+        "sub": "no esperes al apagón real",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 25788,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 6,
+        "text": "tocar el tablero sin electricista"
+      }
+    },
+    {
+      "from": 26200,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "nunca toques el tablero eléctrico sin un electricista matriculado",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 29046,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REPASO",
+        "title": "Lo que viste hoy, en resumen"
+      }
+    },
+    {
+      "from": 30547,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_electricista.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Electricista",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 31778,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_electricista.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Electricista",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 32861,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_electricista.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Electricista",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 461,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PROBLEMA REAL",
+        "phrase": "Lo peor no es el apagón, es no saber que viene",
+        "accent": "no saber que viene",
+        "src": "img/electricista-internet-corta-mas_s03.png"
+      }
+    },
+    {
+      "from": 2233,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL DATO",
+        "value": 8,
+        "prefix": "Hasta ",
+        "suffix": " horas",
+        "label": "de internet funcionando en un apagón"
+      }
+    },
+    {
+      "from": 3184,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que vas a aprender hoy",
+        "items": [
+          "Por qué se corta tu internet",
+          "Cuánto consume tu router",
+          "3 formas de armar el respaldo",
+          "Errores comunes que evitar",
+          "Plan para el fin de semana"
+        ]
+      }
+    },
+    {
+      "from": 4301,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Por qué tu router se apaga y tu celular no?",
+        "left": {
+          "label": "Tu celular",
+          "sub": "tiene batería propia"
+        },
+        "right": {
+          "label": "Tu router",
+          "sub": "depende 100% de la luz"
+        }
+      }
+    },
+    {
+      "from": 5520,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Si vuelve a aparecer internet, mi UPS no sirvió para nada",
+        "truth": "La central del proveedor puede tener su propio respaldo"
+      }
+    },
+    {
+      "from": 6471,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ANTES DE COMPRAR",
+        "phrase": "Medir primero, comprar después",
+        "accent": "Medir primero",
+        "src": "img/electricista-internet-corta-mas_s24.png"
+      }
+    },
+    {
+      "from": 7508,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CONSUMO TOTAL",
+        "value": 19,
+        "prefix": "",
+        "suffix": " W",
+        "label": "gastan router, módem y switch juntos por hora"
+      }
+    },
+    {
+      "from": 8279,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SIN MEDIDOR",
+        "title": "Calcula los vatios a mano",
+        "steps": [
+          {
+            "title": "Mira la etiqueta",
+            "sub": "de la fuente del router"
+          },
+          {
+            "title": "Multiplica V x A",
+            "sub": "por ejemplo 12V x 1A"
+          },
+          {
+            "title": "Ese es el máximo",
+            "sub": "en vatios, no el uso real"
+          }
+        ]
+      }
+    },
+    {
+      "from": 11133,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Opción 1: lo que ya tienes",
+        "items": [
+          "Power bank de tu celular",
+          "Salida USB de 5V y 2A mínimo",
+          "Cable USB al router"
+        ]
+      }
+    },
+    {
+      "from": 12990,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "OPCIÓN 2",
+        "value": 10,
+        "prefix": "$",
+        "suffix": "",
+        "label": "máximo por un conversor de 5V a 12V"
+      }
+    },
+    {
+      "from": 14150,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Un power bank grande siempre te va a servir",
+        "truth": "Sin modo de bajo consumo, se apaga solo a los minutos"
+      }
+    },
+    {
+      "from": 17215,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "OPCIÓN 3",
+        "value": 300,
+        "prefix": "",
+        "suffix": " Wh",
+        "label": "es el tope de una estación chica para esto"
+      }
+    },
+    {
+      "from": 19234,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Qué tan largos son tus cortes?",
+        "left": {
+          "label": "Menos de 1 hora",
+          "sub": "con power bank y conversor te alcanza"
+        },
+        "right": {
+          "label": "4 a 8 horas",
+          "sub": "mejor ir directo a la estación"
+        }
+      }
+    },
+    {
+      "from": 20593,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ATENCIÓN",
+        "phrase": "Estos errores te pueden quemar el router",
+        "accent": "quemar el router",
+        "src": "img/electricista-internet-corta-mas_s75.png"
+      }
+    },
+    {
+      "from": 21662,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 2",
+        "title": "Revisa la polaridad antes de conectar",
+        "steps": [
+          {
+            "title": "Mira el símbolo",
+            "sub": "del cargador original"
+          },
+          {
+            "title": "Centro = positivo",
+            "sub": "en la mayoría de routers"
+          },
+          {
+            "title": "Usa el adaptador",
+            "sub": "si el cable genérico trae uno"
+          }
+        ]
+      }
+    },
+    {
+      "from": 23648,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "No te olvides de sumar esto",
+        "left": {
+          "label": "Router + módem",
+          "sub": "unos 19 W"
+        },
+        "right": {
+          "label": "+ cámara o teléfono IP",
+          "sub": "vatios extra que también dependen de la luz"
+        }
+      }
+    },
+    {
+      "from": 24478,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Lo armo una vez y ya está resuelto",
+        "truth": "Si no lo probás antes, lo descubrís fallando a mitad del apagón"
+      }
+    },
+    {
+      "from": 25375,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Los 6 errores más comunes",
+        "items": [
+          "Voltaje incorrecto",
+          "Polaridad invertida",
+          "Confiar en los mAh sin calcular",
+          "Olvidar la cámara o el teléfono IP",
+          "No probarlo antes del apagón",
+          "Tocar el tablero sin electricista"
+        ]
+      }
+    },
+    {
+      "from": 26520,
+      "dur": 360,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Tu plan para el fin de semana",
+        "steps": [
+          {
+            "when": "Día 1",
+            "text": "Mide el consumo de tus equipos"
+          },
+          {
+            "when": "Día 2",
+            "text": "Revisa el voltaje de cada fuente"
+          },
+          {
+            "when": "Día 3",
+            "text": "Compra las piezas y arma la conexión"
+          },
+          {
+            "when": "Día 4",
+            "text": "Prueba real y cronometra la autonomía"
+          }
+        ]
+      }
+    },
+    {
+      "from": 27610,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PRESUPUESTO",
+        "value": 25,
+        "prefix": "$",
+        "suffix": "",
+        "label": "máximo por cable, conversor y batería juntos"
+      }
+    },
+    {
+      "from": 28568,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "UN DATO QUE SALVA",
+        "phrase": "Anota cuántas horas te dura antes de que lo necesites",
+        "accent": "antes de que lo necesites",
+        "src": "img/electricista-internet-corta-mas_s109.png"
+      }
+    },
+    {
+      "from": 30547,
+      "dur": 270,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "title": "LO QUE TE COBRAN",
+        "rows": [
+          {
+            "label": "Visita de un técnico",
+            "price": "$80+",
+            "bad": true
+          },
+          {
+            "label": "Guía La Casa Sin Apagones",
+            "price": "$27"
+          }
+        ],
+        "total": {
+          "label": "Pago único",
+          "price": "$27"
+        },
+        "stamp": "UNA SOLA VEZ"
+      }
+    }
+  ]
+}
