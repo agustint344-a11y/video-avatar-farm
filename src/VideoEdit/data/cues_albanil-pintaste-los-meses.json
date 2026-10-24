@@ -1,0 +1,1747 @@
+{
+  "slug": "albanil-pintaste-los-meses",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 33906,
+  "audioSrc": "albanil-pintaste-los-meses.mp3",
+  "avatarSrc": "albanil-pintaste-los-meses_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 577,
+      "dur": 488,
+      "clip": 0
+    },
+    {
+      "from": 1250,
+      "dur": 707,
+      "clip": 488
+    },
+    {
+      "from": 7242,
+      "dur": 1047,
+      "clip": 1195
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 84,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 376,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 501,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1065,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1957,
+      "dur": 37,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s05.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2234,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s06.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2329,
+      "dur": 51,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s07.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2869,
+      "dur": 322,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s08.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3191,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s11.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3500,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s10.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3830,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s09.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3909,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s12.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4093,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s13.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4208,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s47.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4283,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s14.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4509,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s16.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4584,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s17.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5017,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s50.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5198,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s18.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5283,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s19.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5721,
+      "dur": 236,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s31.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5957,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s20.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6101,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s21.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6203,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s22.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6389,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s23.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6523,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s24.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6977,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s15.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7173,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s25.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8289,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s74.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8435,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s27.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8569,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s28.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8729,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s29.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9200,
+      "dur": 307,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s26.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9507,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s30.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9656,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s32.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10112,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s32.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10231,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s33.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10382,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s34.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10500,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s35.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10617,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s36.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10794,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s37.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11179,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s37.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11385,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s38.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11469,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s39.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11700,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s41.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11829,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s42.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11939,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s43.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12082,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s44.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12446,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12626,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s45.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12748,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s46.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12987,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s48.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13168,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s49.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13362,
+      "dur": 70,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s51.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13732,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s51.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13967,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s52.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14077,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s53.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14182,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s54.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14512,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s54.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14842,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s54.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15172,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s54.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15502,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s54.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15832,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s54.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16162,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s54.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16492,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s54.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16822,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s54.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17152,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s54.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17482,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s54.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17812,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s54.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18142,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s54.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18472,
+      "dur": 302,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s54.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18774,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s57.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19087,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s55.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19217,
+      "dur": 306,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s56.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19523,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s58.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19901,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s58.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20231,
+      "dur": 352,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s58.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20583,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s59.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20913,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s59.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21243,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s59.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21573,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s59.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21903,
+      "dur": 282,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s59.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22185,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s60.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22309,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s61.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22639,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s61.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22969,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s61.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23299,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s61.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23726,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s61.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24056,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s61.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24386,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s61.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24686,
+      "dur": 71,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s62.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24757,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s63.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24936,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s64.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25015,
+      "dur": 255,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s65.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25270,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s67.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25768,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s66.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26098,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s66.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26428,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s66.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26527,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s68.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26696,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s70.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27026,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s69.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27356,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s69.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27686,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s69.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28016,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s69.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28346,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s69.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28676,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s69.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29006,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s69.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29336,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s69.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29666,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s69.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29996,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s69.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30326,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s69.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30656,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s69.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30875,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s71.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30977,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s72.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31127,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s73.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31457,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s73.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31787,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s73.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32117,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s73.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32447,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s73.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32777,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s73.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33107,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s73.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33437,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/albanil-pintaste-los-meses_s73.png",
+      "kb": 2,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL ERROR",
+        "title": "Por qué se descascara a los 3 meses"
+      }
+    },
+    {
+      "from": 577,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "CANAL MATEO ALBAÑIL",
+        "title": "Claudio Javier Mendoza",
+        "sub": "Te muestro los errores que te cuestan caro"
+      }
+    },
+    {
+      "from": 1057,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "UNA OBRA REAL",
+        "title": "El cartel que se vino abajo"
+      }
+    },
+    {
+      "from": 2236,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PLAN DE HOY",
+        "title": "Diagnóstico y solución, paso a paso"
+      }
+    },
+    {
+      "from": 2380,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 2380,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 2380,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 3144,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "Pintaste sobre humedad"
+      }
+    },
+    {
+      "from": 3191,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 1,
+        "text": "Pintar sobre humedad"
+      }
+    },
+    {
+      "from": 4093,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "PRESIÓN",
+        "sub": "el agua empuja la pintura desde atrás",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 5020,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "OLOR A TIERRA",
+        "sub": "señal clásica de humedad",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 7620,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 7904,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 8391,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "Sin fondo sellador"
+      }
+    },
+    {
+      "from": 8435,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 2,
+        "text": "Sin fondo sellador"
+      }
+    },
+    {
+      "from": 9301,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SE DESPEGA",
+        "sub": "sin sellador, en placas enteras",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 11469,
+      "dur": 150,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 8,
+        "suffix": " h",
+        "label": "secado típico del sellador",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 11656,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "Humedad ambiental al pintar"
+      }
+    },
+    {
+      "from": 11700,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 3,
+        "text": "Ambiente húmedo al pintar"
+      }
+    },
+    {
+      "from": 12987,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MÁS POROSA",
+        "sub": "si no cura bien, falla antes",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 18150,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "usa barbijo y lentes al picar revoque, genera mucho polvo",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 19148,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "title": "Un producto que no corresponde"
+      }
+    },
+    {
+      "from": 19217,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 4,
+        "text": "Producto que no corresponde"
+      }
+    },
+    {
+      "from": 30875,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "POLVO",
+        "sub": "el enemigo número uno de la adherencia",
+        "pos": "top"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 166,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA SEÑAL",
+        "phrase": "Si sale polvillo blanco o se cae en placas, atención",
+        "accent": "polvillo blanco",
+        "src": "img/albanil-pintaste-los-meses_s02.png"
+      }
+    },
+    {
+      "from": 1994,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "La pintura es de mala calidad",
+        "truth": "El soporte falló, no la pintura"
+      }
+    },
+    {
+      "from": 2380,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LO QUE NECESITAS",
+        "title": "Herramientas para el trabajo",
+        "steps": [
+          {
+            "title": "Espátula de 10 cm",
+            "sub": "y lija media y fina"
+          },
+          {
+            "title": "Trapo húmedo",
+            "sub": "para sacar el polvo"
+          },
+          {
+            "title": "Sellador y enduido",
+            "sub": "brocha o rodillo según la zona"
+          }
+        ]
+      }
+    },
+    {
+      "from": 2380,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Humedad ascendente: las señales",
+        "items": [
+          "Aparece cerca del piso",
+          "La pintura se ampolla antes de caer",
+          "Sube desde los cimientos por los poros"
+        ]
+      }
+    },
+    {
+      "from": 2380,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Un producto antihumedad soluciona todo",
+        "truth": "Se resuelve con barrera química o corte de humedad especializado"
+      }
+    },
+    {
+      "from": 2380,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Diagnóstico según dónde aparece",
+        "items": [
+          "Cerca del piso: humedad ascendente",
+          "Manchas irregulares: filtración puntual",
+          "Parejo en toda la pared: condensación",
+          "Rápido tras revocar: pintaste antes de tiempo"
+        ]
+      }
+    },
+    {
+      "from": 2380,
+      "dur": 240,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DURACIÓN REAL",
+        "value": 8,
+        "prefix": "hasta ",
+        "suffix": " años",
+        "label": "dura una pintura bien aplicada, resuelto el problema de fondo"
+      }
+    },
+    {
+      "from": 2380,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Cómo pintar las manos",
+        "left": {
+          "label": "Una mano gruesa",
+          "sub": "seca por fuera, queda líquida por dentro"
+        },
+        "right": {
+          "label": "Dos manos finas",
+          "sub": "secan parejo y duran más"
+        }
+      }
+    },
+    {
+      "from": 2380,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ELEGÍ BIEN LA HORA",
+        "title": "Cuándo pintar según la temperatura",
+        "steps": [
+          {
+            "title": "Mañana o media tarde",
+            "sub": "temperaturas moderadas"
+          },
+          {
+            "title": "Evitá el sol fuerte",
+            "sub": "seca por fuera, queda líquida dentro"
+          },
+          {
+            "title": "Evitá el frío extremo",
+            "sub": "también afecta el secado"
+          }
+        ]
+      }
+    },
+    {
+      "from": 2380,
+      "dur": 330,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Plan de acción, paso a paso",
+        "steps": [
+          {
+            "when": "Días 1-3",
+            "text": "solo observar la zona"
+          },
+          {
+            "when": "Semana 1",
+            "text": "identificar el origen de la humedad"
+          },
+          {
+            "when": "Semanas 2-6",
+            "text": "dejar secar antes de tocar la superficie"
+          },
+          {
+            "when": "Después",
+            "text": "reparar y pintar con dos manos finas"
+          }
+        ]
+      }
+    },
+    {
+      "from": 2380,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ANTES DE REPARAR",
+        "value": 6,
+        "prefix": "hasta ",
+        "suffix": " semanas",
+        "label": "de secado antes de tocar la superficie dañada"
+      }
+    },
+    {
+      "from": 2380,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Las 4 causas, resumidas",
+        "items": [
+          "Humedad residual en la pared",
+          "Falta de sellador adecuado",
+          "Condiciones ambientales al pintar",
+          "Producto que no corresponde al ambiente"
+        ]
+      }
+    },
+    {
+      "from": 2599,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que vas a lograr hoy",
+        "items": [
+          "Diagnosticar tu pared en 5 minutos",
+          "Saber qué hacer antes de volver a pintar",
+          "Un plan para que dure años, no meses"
+        ]
+      }
+    },
+    {
+      "from": 3290,
+      "dur": 210,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "FRECUENCIA",
+        "value": 70,
+        "max": 100,
+        "suffix": "%",
+        "label": "de los descascaramientos son por humedad residual"
+      }
+    },
+    {
+      "from": 4747,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Señales de humedad residual",
+        "items": [
+          "Manchas oscuras detrás de la pintura",
+          "Revoque más blando de lo normal",
+          "Tacto fresco o húmedo sin lluvia reciente",
+          "Olor a tierra mojada al raspar"
+        ]
+      }
+    },
+    {
+      "from": 5421,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PRUEBA SIN HERRAMIENTAS",
+        "title": "La prueba del papel film",
+        "steps": [
+          {
+            "title": "Pega el film",
+            "sub": "sobre la zona sospechosa"
+          },
+          {
+            "title": "Sella los bordes",
+            "sub": "con cinta, bien ajustado"
+          },
+          {
+            "title": "Espera toda la noche",
+            "sub": "y revisa si hay condensación"
+          }
+        ]
+      }
+    },
+    {
+      "from": 6707,
+      "dur": 270,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Cuánto tarda en secar la pared",
+        "steps": [
+          {
+            "when": "Semana 1-2",
+            "text": "empieza el secado"
+          },
+          {
+            "when": "Semana 3-4",
+            "text": "según el grosor del muro"
+          },
+          {
+            "when": "Semana 5-6",
+            "text": "en climas húmedos"
+          }
+        ]
+      }
+    },
+    {
+      "from": 8960,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Qué hace el fondo sellador",
+        "left": {
+          "label": "Sin sellador",
+          "sub": "la pintura se despega en placas"
+        },
+        "right": {
+          "label": "Con sellador",
+          "sub": "pareja la absorción y agarra firme"
+        }
+      }
+    },
+    {
+      "from": 9812,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REVISA ASÍ",
+        "title": "Cómo saber si falta sellador",
+        "steps": [
+          {
+            "title": "Pasa la mano con fuerza",
+            "sub": "sobre una zona sana"
+          },
+          {
+            "title": "Si sale polvillo o arenilla",
+            "sub": "faltaba preparación"
+          },
+          {
+            "title": "Mira el borde caído",
+            "sub": "si se llevó yeso, confirma falta de sellador"
+          }
+        ]
+      }
+    },
+    {
+      "from": 10909,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Reparar por falta de sellador",
+        "items": [
+          "Retirar la pintura suelta con espátula",
+          "Lijar y limpiar el polvillo",
+          "Aplicar el sellador adecuado",
+          "Secar 4 a 8 horas antes de pintar"
+        ]
+      }
+    },
+    {
+      "from": 12206,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Secado vs. curado",
+        "left": {
+          "label": "Secado",
+          "sub": "se seca al tacto en pocas horas"
+        },
+        "right": {
+          "label": "Curado",
+          "sub": "forma su estructura final en semanas"
+        }
+      }
+    },
+    {
+      "from": 13432,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CUIDADO CON ESTO",
+        "title": "Condiciones que arruinan el curado",
+        "steps": [
+          {
+            "title": "Lluvia con todo cerrado",
+            "sub": "sin ventilación cruzada"
+          },
+          {
+            "title": "Pared recién revocada",
+            "sub": "con humedad de obra en el aire"
+          },
+          {
+            "title": "Ambiente muy húmedo",
+            "sub": "la película no termina de curar"
+          }
+        ]
+      }
+    },
+    {
+      "from": 18877,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TIEMPO DE SECADO",
+        "value": 28,
+        "prefix": "",
+        "suffix": " días",
+        "label": "debe secar un revoque grueso antes de pintar"
+      }
+    },
+    {
+      "from": 19661,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "La pintura según el ambiente",
+        "left": {
+          "label": "Interior seco",
+          "sub": "no resiste vapor ni lluvia"
+        },
+        "right": {
+          "label": "Baños y exteriores",
+          "sub": "formulada para humedad y sol"
+        }
+      }
+    },
+    {
+      "from": 23486,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Antes de comprar la lata, revisa",
+        "items": [
+          "La etiqueta del envase",
+          "Si la zona tiene vapor constante",
+          "Si recibe sol fuerte o lluvia directa"
+        ]
+      }
+    },
+    {
+      "from": 25468,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 2",
+        "title": "Evalúa qué hay debajo",
+        "steps": [
+          {
+            "title": "Revoque firme y seco",
+            "sub": "pasa directo al sellador"
+          },
+          {
+            "title": "Revoque flojo",
+            "sub": "picar hasta base firme"
+          },
+          {
+            "title": "Humedad confirmada",
+            "sub": "resolverla antes de seguir"
+          }
+        ]
+      }
+    },
+    {
+      "from": 33623,
+      "dur": 283,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Reparación completa, en orden",
+        "items": [
+          "Retirar lo suelto y lijar",
+          "Limpiar todo el polvo",
+          "Sellador y enduido si hace falta",
+          "Dos manos finas de pintura"
+        ]
+      }
+    }
+  ]
+}
