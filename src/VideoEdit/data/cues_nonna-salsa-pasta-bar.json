@@ -1,0 +1,1645 @@
+{
+  "slug": "nonna-salsa-pasta-bar",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 38593,
+  "audioSrc": "nonna-salsa-pasta-bar.mp3",
+  "avatarSrc": "nonna-salsa-pasta-bar_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1052,
+      "dur": 981,
+      "clip": 0
+    },
+    {
+      "from": 2923,
+      "dur": 664,
+      "clip": 981
+    },
+    {
+      "from": 3782,
+      "dur": 518,
+      "clip": 1645
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 3,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 213,
+      "dur": 340,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 553,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 741,
+      "dur": 311,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2033,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2546,
+      "dur": 271,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s03.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2817,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3587,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4300,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4499,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4594,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s08.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4709,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s09.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5088,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s48.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5255,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5445,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s11.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5846,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s29.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5927,
+      "dur": 251,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s12.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6178,
+      "dur": 259,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s13.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6617,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s13.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6821,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s14.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6931,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s15.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7409,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s15.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7518,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s16.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7635,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s17.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7768,
+      "dur": 287,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s18.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8235,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s19.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8565,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s19.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8671,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s20.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8814,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s21.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8990,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s22.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9185,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s24.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9338,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s25.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9643,
+      "dur": 346,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s23.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9989,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s26.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10111,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s27.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10205,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s28.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10535,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s28.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10865,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s28.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11195,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s28.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11525,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s28.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11855,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s28.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12185,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s28.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12515,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s28.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12845,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s28.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13175,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s28.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13505,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s28.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13835,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s28.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14165,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s28.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14495,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s28.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14825,
+      "dur": 285,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s28.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15110,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s34.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15440,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s34.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15770,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s34.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16100,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s34.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16430,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s34.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16760,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s34.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17090,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s34.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17420,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s34.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17750,
+      "dur": 288,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s34.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18038,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s30.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18368,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s30.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18698,
+      "dur": 261,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s30.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18959,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s36.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19289,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s36.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19619,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s36.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19949,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s36.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20279,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s36.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20417,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s31.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20747,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s31.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21077,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s31.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21407,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s31.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21737,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s31.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22067,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s31.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22397,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s31.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22727,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s31.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23057,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s31.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23387,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s31.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23717,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s31.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24047,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s31.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24377,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s31.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24470,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s32.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24800,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s32.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25130,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s32.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25460,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s32.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25790,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s32.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26120,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s32.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26528,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s32.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26774,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s33.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27021,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s35.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27351,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s35.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27469,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s37.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27799,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s37.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28019,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s38.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28097,
+      "dur": 70,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s39.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28167,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s40.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28460,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s40.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28790,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s40.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29120,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29450,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s40.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29780,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s40.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30110,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s40.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30440,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s40.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30770,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s40.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31100,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31430,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s40.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31760,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s40.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32090,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s40.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32420,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s40.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32750,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s40.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33080,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33410,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s40.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33740,
+      "dur": 53,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s40.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33793,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s41.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 34021,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s42.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 34274,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s44.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34440,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s45.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34825,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s43.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 35155,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s43.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 35485,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s43.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 35815,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s43.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 36145,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s43.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 36475,
+      "dur": 377,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s43.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 36852,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s46.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 36935,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s47.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 37265,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s47.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 37595,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s47.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 37925,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s47.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 38255,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/nonna-salsa-pasta-bar_s47.png",
+      "kb": 1,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1052,
+      "dur": 180,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "LA NONNA COCINA",
+        "title": "La Nonna",
+        "sub": "Salsa de pasta, como la de un bar italiano"
+      }
+    },
+    {
+      "from": 2923,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EN ESTE VIDEO",
+        "title": "La receta completa, paso a paso"
+      }
+    },
+    {
+      "from": 4132,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de La Nonna (cocina)",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 4173,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SIN PRISA",
+        "sub": "25 a 30 minutos a fuego bajo",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 4594,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "El tomate que elegiste"
+      }
+    },
+    {
+      "from": 5445,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SIN CUERPO",
+        "sub": "si el agua supera al tomate",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 7635,
+      "dur": 105,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 1,
+        "text": "subir el fuego de golpe"
+      }
+    },
+    {
+      "from": 9139,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "El sofrito de cebolla y ajo"
+      }
+    },
+    {
+      "from": 9806,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CON CALMA",
+        "sub": "el sofrito necesita tiempo",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 18323,
+      "dur": 105,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 2,
+        "text": "ajo quemado y amargo"
+      }
+    },
+    {
+      "from": 26774,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "CUIDADO",
+        "sub": "el ajo se quema mucho más rápido que la cebolla",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 34245,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "El tiempo de hervor"
+      }
+    },
+    {
+      "from": 38532,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de La Nonna (cocina)",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 38532,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de La Nonna (cocina)",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 38532,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_nonna.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de La Nonna (cocina)",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 3,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PROBLEMA",
+        "phrase": "Dejá de tirar dinero en una salsa sin sabor",
+        "accent": "tirar dinero",
+        "src": "img/nonna-salsa-pasta-bar_s01.png"
+      }
+    },
+    {
+      "from": 2246,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que aprendí esa noche",
+        "items": [
+          "Buenos ingredientes no alcanzan",
+          "Hay que respetar un orden",
+          "Hay tiempos que importan",
+          "Detalles que parecen obvios"
+        ]
+      }
+    },
+    {
+      "from": 4848,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Qué tomate elegir en lata",
+        "left": {
+          "label": "Pelado entero",
+          "sub": "ideal para salsa con cuerpo"
+        },
+        "right": {
+          "label": "Triturado con mucha agua",
+          "sub": "salsa aguada, sin cuerpo"
+        }
+      }
+    },
+    {
+      "from": 5606,
+      "dur": 240,
+      "comp": "ProporcionTazas",
+      "props": {
+        "theme": "earth",
+        "title": "Una buena lata de tomate",
+        "left": {
+          "label": "Tomate",
+          "parts": 5
+        },
+        "right": {
+          "label": "Agua",
+          "parts": 1
+        },
+        "note": "cuanta menos agua, más cuerpo"
+      }
+    },
+    {
+      "from": 6437,
+      "dur": 180,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Cualquier tomate enlatado sirve igual",
+        "truth": "La lista de ingredientes marca la diferencia"
+      }
+    },
+    {
+      "from": 7079,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CÓMO ARREGLARLO",
+        "title": "Si tu tomate no es ideal",
+        "steps": [
+          {
+            "title": "Fuego bajo",
+            "sub": "nunca subas la llama"
+          },
+          {
+            "title": "Más tiempo",
+            "sub": "deja que se evapore el agua"
+          },
+          {
+            "title": "Menos dulzor",
+            "sub": "no iguala a un buen tomate"
+          }
+        ]
+      }
+    },
+    {
+      "from": 8055,
+      "dur": 180,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "El tomate fresco siempre es mejor",
+        "truth": "Depende de la temporada y la madurez"
+      }
+    },
+    {
+      "from": 9433,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "phrase": "El sofrito es lo que más diferencia un bar de tu casa",
+        "accent": "más diferencia",
+        "src": "img/nonna-salsa-pasta-bar_s25.png"
+      }
+    },
+    {
+      "from": 26168,
+      "dur": 360,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO A PASO",
+        "title": "El sofrito perfecto",
+        "steps": [
+          {
+            "title": "Fuego medio-bajo",
+            "sub": "aceite sin humear"
+          },
+          {
+            "title": "Cebolla, 4 a 6 min",
+            "sub": "hasta dorar los bordes"
+          },
+          {
+            "title": "Ajo, 1 minuto",
+            "sub": "se quema muy rápido"
+          }
+        ]
+      }
+    },
+    {
+      "from": 28280,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA MEDIDA",
+        "value": 2,
+        "prefix": "",
+        "suffix": " dientes",
+        "label": "de ajo para una salsa de 4 porciones"
+      }
+    },
+    {
+      "from": 34585,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Los dos errores opuestos",
+        "left": {
+          "label": "Muy poco tiempo",
+          "sub": "sabor a tomate crudo"
+        },
+        "right": {
+          "label": "Fuego muy alto",
+          "sub": "se reduce sin dar sabor"
+        }
+      }
+    },
+    {
+      "from": 38449,
+      "dur": 210,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TIEMPO MÍNIMO",
+        "value": 25,
+        "max": 30,
+        "suffix": " min",
+        "label": "de cocción a fuego bajo"
+      }
+    },
+    {
+      "from": 38532,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Si tu salsa quedó ácida",
+        "items": [
+          "Más tiempo a fuego bajo",
+          "Revisa cada 5 minutos",
+          "Media cucharadita de azúcar si hace falta"
+        ]
+      }
+    },
+    {
+      "from": 38532,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "phrase": "El sabor queda superpuesto, no mezclado",
+        "accent": "no mezclado",
+        "src": "img/nonna-salsa-pasta-bar_s49.png"
+      }
+    },
+    {
+      "from": 38532,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA TÉCNICA",
+        "title": "Salá en tres etapas",
+        "steps": [
+          {
+            "title": "Con la cebolla",
+            "sub": "para que sude y libere sabor"
+          },
+          {
+            "title": "Con el tomate",
+            "sub": "para construir sabor"
+          },
+          {
+            "title": "Casi al final",
+            "sub": "último ajuste de sabor"
+          }
+        ]
+      }
+    },
+    {
+      "from": 38532,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "La sal de mesa es igual a la gruesa",
+        "truth": "La sal fina se disuelve más rápido y se pasa fácil"
+      }
+    },
+    {
+      "from": 38532,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 5",
+        "phrase": "El secreto menos conocido de las recetas de bar",
+        "accent": "secreto menos conocido",
+        "src": "img/nonna-salsa-pasta-bar_s49.png"
+      }
+    },
+    {
+      "from": 38532,
+      "dur": 360,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CÓMO INTEGRAR",
+        "title": "Pasta y salsa en la sartén",
+        "steps": [
+          {
+            "title": "Un minuto antes",
+            "sub": "reserva la pasta casi en su punto"
+          },
+          {
+            "title": "Guarda el agua",
+            "sub": "una taza de cocción"
+          },
+          {
+            "title": "Sartén, 1 a 2 min",
+            "sub": "mezcla todo a fuego medio"
+          }
+        ]
+      }
+    },
+    {
+      "from": 38532,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Mejores formas de pasta",
+        "items": [
+          "Fusilli",
+          "Penne",
+          "Espagueti grueso",
+          "Algo donde la salsa se agarre"
+        ]
+      }
+    },
+    {
+      "from": 38532,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Los dos roles del aceite",
+        "left": {
+          "label": "Para cocinar",
+          "sub": "en el sofrito inicial"
+        },
+        "right": {
+          "label": "Crudo al final",
+          "sub": "aroma y frescura"
+        }
+      }
+    },
+    {
+      "from": 38532,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA MEDIDA",
+        "value": 1,
+        "prefix": "",
+        "suffix": " cucharada",
+        "label": "de aceite crudo alcanza para 4 porciones"
+      }
+    },
+    {
+      "from": 38532,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Todas las hierbas van desde el principio",
+        "truth": "La albahaca fresca se agrega casi al final"
+      }
+    },
+    {
+      "from": 38532,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL MOMENTO JUSTO",
+        "title": "Cuándo agregar la albahaca",
+        "steps": [
+          {
+            "title": "Fresca",
+            "sub": "últimos 2 a 3 minutos"
+          },
+          {
+            "title": "Fuera del fuego",
+            "sub": "el calor residual alcanza"
+          },
+          {
+            "title": "Seca",
+            "sub": "agrégala junto con el tomate"
+          }
+        ]
+      }
+    },
+    {
+      "from": 38532,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Arreglos de último momento",
+        "items": [
+          "Ácida: un poco de azúcar",
+          "Sosa: sal de a poco",
+          "Muy líquida: reducir sin tapa",
+          "Muy espesa: agua caliente"
+        ]
+      }
+    },
+    {
+      "from": 38532,
+      "dur": 300,
+      "comp": "PizarraNonna",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que no cambia nunca",
+        "items": [
+          "Buen tomate",
+          "Sofrito con calma",
+          "Sal en etapas",
+          "Aceite crudo al final",
+          "Hierbas frescas al final"
+        ],
+        "note": "Siete razones, un solo método"
+      }
+    },
+    {
+      "from": 38532,
+      "dur": 210,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TU PRIMERA VEZ",
+        "value": 45,
+        "max": 60,
+        "suffix": " min",
+        "label": "tranquilos, sin otras distracciones en la cocina"
+      }
+    },
+    {
+      "from": 38532,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Después de dominar la receta",
+        "items": [
+          "Agregá pimiento",
+          "Agregá aceitunas",
+          "Usá lo que tengas",
+          "Guardá porciones en la heladera"
+        ]
+      }
+    }
+  ]
+}
