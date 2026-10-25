@@ -1,0 +1,2068 @@
+{
+  "slug": "plomero-taza-esto-saca",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 35563,
+  "audioSrc": "plomero-taza-esto-saca.mp3",
+  "avatarSrc": "plomero-taza-esto-saca_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1210,
+      "dur": 879,
+      "clip": 0
+    },
+    {
+      "from": 4596,
+      "dur": 829,
+      "clip": 879
+    },
+    {
+      "from": 15081,
+      "dur": 783,
+      "clip": 1708
+    },
+    {
+      "from": 30956,
+      "dur": 544,
+      "clip": 2491
+    },
+    {
+      "from": 32183,
+      "dur": 870,
+      "clip": 3035
+    },
+    {
+      "from": 33925,
+      "dur": 762,
+      "clip": 3905
+    },
+    {
+      "from": 34964,
+      "dur": 557,
+      "clip": 4667
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 142,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 518,
+      "dur": 310,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 828,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 991,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2089,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s05.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2237,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s06.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2353,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s07.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2621,
+      "dur": 271,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s07.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2892,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s08.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3073,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s09.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3403,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s09.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3574,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s10.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3704,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s11.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3850,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s12.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4054,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s13.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4178,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s138.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4308,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s14.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4406,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s15.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5425,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s16.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5586,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s17.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5730,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s18.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5864,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s19.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5940,
+      "dur": 67,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s20.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6007,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s21.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6198,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s22.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6334,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s23.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6413,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s24.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6707,
+      "dur": 269,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s24.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6976,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s124.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7126,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s26.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7283,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s27.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7531,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s25.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7793,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s28.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7933,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s29.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8369,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s92.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8579,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s30.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8696,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s31.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8975,
+      "dur": 288,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s31.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9263,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s32.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9414,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s33.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9497,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s34.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9714,
+      "dur": 286,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s36.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10000,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s37.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10187,
+      "dur": 229,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s38.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10416,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s39.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10665,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s40.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10938,
+      "dur": 337,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s35.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11275,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s41.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11360,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s114.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11502,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s43.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11576,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s44.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11948,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s42.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12162,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s45.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12342,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s46.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12485,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s47.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12577,
+      "dur": 53,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s48.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12630,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s49.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12955,
+      "dur": 342,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s49.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13297,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s50.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13492,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s51.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13649,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s52.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13890,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s53.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14281,
+      "dur": 308,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s53.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14589,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s54.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14696,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s55.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14812,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s56.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14939,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s57.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15864,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s58.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16227,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s58.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16489,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s59.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16578,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s60.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16718,
+      "dur": 244,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s61.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16962,
+      "dur": 265,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s62.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17227,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s63.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17300,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s64.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17419,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s65.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17909,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s90.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17999,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s67.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18109,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s68.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18248,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s69.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18419,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s70.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18589,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s72.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18724,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s73.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18809,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s74.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18953,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s75.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19028,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s76.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19127,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s77.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19261,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s78.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19579,
+      "dur": 287,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s71.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19866,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s79.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20040,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s80.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20458,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s66.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20588,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s81.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20742,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s82.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20855,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s83.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20966,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s84.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21128,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s85.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21464,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s85.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21623,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s86.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21778,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s87.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21905,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s88.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22028,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s89.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22234,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s91.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22570,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s91.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22900,
+      "dur": 245,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s91.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23145,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s93.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23321,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s94.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23698,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s94.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23861,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s95.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23963,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s96.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24048,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s97.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24218,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s98.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24348,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s99.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24416,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s100.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24530,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s101.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24749,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s102.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24859,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s103.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25006,
+      "dur": 269,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s104.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25275,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s105.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25453,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s106.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25620,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s107.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25692,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s108.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25853,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s109.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25993,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s110.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26110,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s111.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26239,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s112.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26322,
+      "dur": 297,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s113.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26799,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s113.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27129,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s113.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27194,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s115.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27362,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s116.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27551,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s117.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27692,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s118.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27863,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s119.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28040,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s120.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28425,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s120.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28636,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s121.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28729,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s122.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28868,
+      "dur": 341,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s123.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29209,
+      "dur": 67,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s125.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29276,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s126.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29431,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s127.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29811,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s127.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30050,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s128.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30183,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s129.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30312,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s130.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30401,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s131.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30549,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s132.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30659,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s133.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30794,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s134.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31500,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s134.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31830,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s134.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31973,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s135.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32112,
+      "dur": 71,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s136.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33053,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s136.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33383,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s136.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33539,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s137.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33869,
+      "dur": 56,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s137.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 34687,
+      "dur": 277,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s137.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 35521,
+      "dur": 42,
+      "kind": "image",
+      "src": "img/plomero-taza-esto-saca_s137.png",
+      "kb": 4,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 38,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HOY",
+        "title": "El problema del sarro"
+      }
+    },
+    {
+      "from": 142,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SARRO",
+        "sub": "cal y minerales acumulados",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 1210,
+      "dur": 180,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "MATEO EL PLOMERO",
+        "title": "Mateo",
+        "sub": "15 años destapando y arreglando calentadores"
+      }
+    },
+    {
+      "from": 1422,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 15,
+        "suffix": " años",
+        "label": "de oficio",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 2081,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "AGUA DURA",
+        "sub": "más manchas, más sarro",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 5219,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 118,
+        "suffix": " págs",
+        "label": "la guía completa",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 5730,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 5864,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 6007,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN",
+        "title": "Por qué se forma el sarro"
+      }
+    },
+    {
+      "from": 7793,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MÁS GASTO",
+        "sub": "más gas o luz",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 8454,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DATO",
+        "title": "Dónde se acumula primero"
+      }
+    },
+    {
+      "from": 9681,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "5 señales de sarro"
+      }
+    },
+    {
+      "from": 10187,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "BURBUJEO",
+        "sub": "vapor atrapado bajo el sarro",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 13297,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "OJO",
+        "title": "Lo que no funciona"
+      }
+    },
+    {
+      "from": 13492,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 1,
+        "text": "Hielo en el tanque no limpia"
+      }
+    },
+    {
+      "from": 13649,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 2,
+        "text": "Golpear el tanque por fuera"
+      }
+    },
+    {
+      "from": 13890,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 3,
+        "text": "Refresco de cola adentro"
+      }
+    },
+    {
+      "from": 14696,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "VINAGRE",
+        "sub": "la opción simple y segura",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 15720,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 16316,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MANOS A LA OBRA",
+        "title": "Paso a paso con vinagre"
+      }
+    },
+    {
+      "from": 16962,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "nunca enciendas el calentador mientras lo vacías",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 18109,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "CUIDADO",
+        "sub": "no mandes agua hirviendo directo a un desagüe de PVC",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 23145,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CUIDADO",
+        "title": "3 mitos que no sirven"
+      }
+    },
+    {
+      "from": 23963,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "MITO",
+        "num": 2,
+        "text": "Si es nuevo no lo necesita"
+      }
+    },
+    {
+      "from": 24416,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "MITO",
+        "num": 3,
+        "text": "Más vinagre limpia más rápido"
+      }
+    },
+    {
+      "from": 24749,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEGURIDAD",
+        "title": "Nunca mezcles esto"
+      }
+    },
+    {
+      "from": 24859,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "NUNCA MEZCLES",
+        "sub": "vinagre con cloro o amoníaco",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 25006,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "NUNCA MEZCLES",
+        "sub": "vinagre con cloro o amoníaco: gases tóxicos",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 26322,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LÍMITE",
+        "title": "Cuándo llamar a un plomero"
+      }
+    },
+    {
+      "from": 27692,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ALERTA",
+        "sub": "si hueles a gas, cierra el suministro y llama ya",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 28040,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "NÚMEROS",
+        "title": "Costos y mantenimiento"
+      }
+    },
+    {
+      "from": 31819,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ALARMA",
+        "sub": "controla el tiempo de reposo",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 32112,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CIERRE",
+        "title": "Repaso rápido"
+      }
+    },
+    {
+      "from": 33925,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 34405,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 308,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EN VIVO",
+        "phrase": "Diez años de sarro en un calentador que nunca se vació",
+        "accent": "nunca se vació",
+        "src": "img/plomero-taza-esto-saca_s02.png"
+      }
+    },
+    {
+      "from": 1143,
+      "dur": 67,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "¿Te suena familiar?",
+        "items": [
+          "Ruido como de piedras hirviendo",
+          "El agua caliente dura menos",
+          "La cuenta de gas o luz sube"
+        ]
+      }
+    },
+    {
+      "from": 2441,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL DATO",
+        "value": 40,
+        "prefix": "",
+        "suffix": " min",
+        "label": "tardamos en vaciar un tanque tapado de sarro"
+      }
+    },
+    {
+      "from": 3133,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HOY VAS A APRENDER",
+        "title": "4 cosas concretas",
+        "steps": [
+          {
+            "title": "Diagnóstico por síntomas",
+            "sub": "ruido, duración y color del agua"
+          },
+          {
+            "title": "Qué no funciona",
+            "sub": "lo que ves en otros videos"
+          },
+          {
+            "title": "La receta exacta",
+            "sub": "vinagre, tiempos y cuándo llamar a un plomero"
+          }
+        ]
+      }
+    },
+    {
+      "from": 6497,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Agua dura vs agua blanda",
+        "left": {
+          "label": "Agua dura",
+          "sub": "el sarro se acumula rápido"
+        },
+        "right": {
+          "label": "Agua blanda",
+          "sub": "el sarro tarda mucho más"
+        }
+      }
+    },
+    {
+      "from": 7351,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EFECTO",
+        "phrase": "El sarro aísla el calor y tu calentador trabaja el doble",
+        "accent": "trabaja el doble",
+        "src": "img/plomero-taza-esto-saca_s27.png"
+      }
+    },
+    {
+      "from": 8129,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que puede pasar",
+        "items": [
+          "Más gas o luz por el mismo resultado",
+          "La resistencia se puede quemar antes de tiempo",
+          "Cambiar una pieza completa sin agua caliente"
+        ]
+      }
+    },
+    {
+      "from": 8795,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "POCO A POCO",
+        "phrase": "Pierde eficiencia desde el fondo hacia arriba",
+        "accent": "desde el fondo",
+        "src": "img/plomero-taza-esto-saca_s31.png"
+      }
+    },
+    {
+      "from": 10728,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Duración del agua caliente",
+        "left": {
+          "label": "Antes",
+          "sub": "20 minutos en la regadera"
+        },
+        "right": {
+          "label": "Ahora",
+          "sub": "8 a 10 minutos"
+        }
+      }
+    },
+    {
+      "from": 11708,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Revisa el agua caliente",
+        "items": [
+          "Turbia o con partículas: sarro suelto",
+          "Olor a tierra o metal: sarro",
+          "Olor a huevo podrido: otro problema"
+        ]
+      }
+    },
+    {
+      "from": 12775,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEÑAL 5",
+        "phrase": "Se enciende y apaga solo, sin que nadie use agua",
+        "accent": "se enciende y apaga solo",
+        "src": "img/plomero-taza-esto-saca_s49.png"
+      }
+    },
+    {
+      "from": 14011,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Esto NO funciona",
+        "items": [
+          "Hielo en el tanque",
+          "Golpear el tanque por fuera",
+          "Refresco de cola",
+          "Filtro de sedimentos solo"
+        ]
+      }
+    },
+    {
+      "from": 16047,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA GUÍA",
+        "phrase": "Decide con números, no a ojo",
+        "accent": "con números",
+        "src": "img/plomero-taza-esto-saca_s58.png"
+      }
+    },
+    {
+      "from": 17639,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO A PASO",
+        "title": "Antes de tocar nada",
+        "steps": [
+          {
+            "title": "Corta la energía",
+            "sub": "piloto en gas, interruptor en eléctrico"
+          },
+          {
+            "title": "Avisa en casa",
+            "sub": "vas a cortar el agua caliente un rato"
+          },
+          {
+            "title": "Nunca encendido al vaciar",
+            "sub": "la resistencia se puede quemar en segundos"
+          }
+        ]
+      }
+    },
+    {
+      "from": 19399,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA RECETA",
+        "value": 4,
+        "prefix": "2 a ",
+        "suffix": " tazas",
+        "label": "de vinagre blanco, según el tamaño del tanque"
+      }
+    },
+    {
+      "from": 20248,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Tiempo de reposo",
+        "left": {
+          "label": "Uso normal",
+          "sub": "2 a 6 horas"
+        },
+        "right": {
+          "label": "Años sin limpieza",
+          "sub": "toda la noche, 8 horas"
+        }
+      }
+    },
+    {
+      "from": 21284,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEGUNDA VACIADA",
+        "phrase": "Si salen grumos grandes, repite el vinagre una vez más",
+        "accent": "repite el vinagre",
+        "src": "img/plomero-taza-esto-saca_s85.png"
+      }
+    },
+    {
+      "from": 22360,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TIEMPO TOTAL",
+        "value": 9,
+        "prefix": "3 a ",
+        "suffix": " horas",
+        "label": "todo el proceso, contando los reposos"
+      }
+    },
+    {
+      "from": 23458,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Limpiar el calentador una vez lo deja libre de sarro para siempre",
+        "truth": "El sarro vuelve a formarse; ganas eficiencia y vida útil, no algo permanente"
+      }
+    },
+    {
+      "from": 26619,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LÍMITE",
+        "phrase": "Si la válvula no suelta agua, no la fuerces",
+        "accent": "no la fuerces",
+        "src": "img/plomero-taza-esto-saca_s114.png"
+      }
+    },
+    {
+      "from": 28155,
+      "dur": 270,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "title": "LO QUE TE CUESTA",
+        "rows": [
+          {
+            "label": "Vinagre y tu tiempo",
+            "price": "pocos dólares",
+            "bad": false
+          },
+          {
+            "label": "Visita de un plomero",
+            "price": "US$60-150",
+            "bad": true
+          }
+        ],
+        "total": {
+          "label": "Si el calentador falla del todo",
+          "price": "varios cientos + instalación"
+        },
+        "stamp": "PREVENCIÓN"
+      }
+    },
+    {
+      "from": 29541,
+      "dur": 270,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Plan de mantenimiento",
+        "steps": [
+          {
+            "when": "Hoy",
+            "text": "Revisa los síntomas: ruido, duración, color"
+          },
+          {
+            "when": "Cada mes",
+            "text": "Abre la válvula unos segundos y revisa el agua"
+          },
+          {
+            "when": "Cada 6 a 12 meses",
+            "text": "Limpieza completa con vinagre"
+          },
+          {
+            "when": "Cada 2 a 3 años",
+            "text": "Revisa el ánodo de sacrificio"
+          }
+        ]
+      }
+    }
+  ]
+}
