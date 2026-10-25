@@ -1,0 +1,1842 @@
+{
+  "slug": "albanil-moho-negro-pared",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 34892,
+  "audioSrc": "albanil-moho-negro-pared.mp3",
+  "avatarSrc": "albanil-moho-negro-pared_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1039,
+      "dur": 800,
+      "clip": 0
+    },
+    {
+      "from": 11777,
+      "dur": 845,
+      "clip": 800
+    },
+    {
+      "from": 20105,
+      "dur": 758,
+      "clip": 1645
+    },
+    {
+      "from": 30706,
+      "dur": 846,
+      "clip": 2403
+    },
+    {
+      "from": 32300,
+      "dur": 727,
+      "clip": 3249
+    },
+    {
+      "from": 33680,
+      "dur": 1046,
+      "clip": 3976
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 4,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 244,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 514,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 684,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1839,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1977,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2440,
+      "dur": 294,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2734,
+      "dur": 49,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2783,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2953,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3327,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s07.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3592,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s08.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3666,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s09.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3857,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3944,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s11.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4306,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s11.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4505,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s12.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4615,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s13.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4810,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s14.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5021,
+      "dur": 54,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s15.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5285,
+      "dur": 280,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s15.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5565,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s16.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5651,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s17.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5735,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s18.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5868,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s19.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6198,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s19.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6271,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s20.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6470,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s21.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6628,
+      "dur": 258,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s22.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6886,
+      "dur": 261,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s23.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7387,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s23.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7541,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s24.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7707,
+      "dur": 236,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s25.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7943,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s26.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8154,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s27.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8583,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s27.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8859,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s29.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9060,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s30.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9243,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s31.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9669,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s32.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9865,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s33.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10001,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s34.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10108,
+      "dur": 91,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s35.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10199,
+      "dur": 70,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s88.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10449,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s28.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10676,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s36.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10772,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s37.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11011,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s38.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11183,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s39.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11513,
+      "dur": 264,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s39.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12622,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s40.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12743,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s41.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12922,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s42.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13303,
+      "dur": 256,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s42.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13559,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s43.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13747,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s44.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13858,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s45.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14232,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s45.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14459,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s46.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14606,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s47.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14777,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s48.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15123,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s48.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15313,
+      "dur": 67,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s49.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15380,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s50.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15583,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s51.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15760,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s52.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16179,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s52.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16346,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s53.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16484,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s54.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16633,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s61.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16688,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s55.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17063,
+      "dur": 365,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s55.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17428,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s56.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17540,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s57.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17695,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s58.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17817,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s59.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18188,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s59.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18335,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s60.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18541,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s62.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18744,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s63.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19086,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s63.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19416,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s63.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19485,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s64.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19665,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s65.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19845,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s66.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19994,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s67.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20863,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s68.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21044,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s69.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21415,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s69.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21626,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s70.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21825,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s71.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21923,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s72.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22336,
+      "dur": 340,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s72.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22676,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s73.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22846,
+      "dur": 264,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s74.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23290,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s74.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23620,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s74.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23873,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s75.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24069,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s76.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24265,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s77.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24692,
+      "dur": 251,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s77.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24943,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s78.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25043,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s79.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25179,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s80.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25662,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s80.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25992,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s80.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26057,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s81.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26174,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s82.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26317,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s83.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26847,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s83.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27044,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s84.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27256,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s85.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27476,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s86.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27633,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s87.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27963,
+      "dur": 67,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s87.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28210,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s87.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28449,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s89.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28648,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s90.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28872,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s91.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29071,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s92.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29297,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s93.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29574,
+      "dur": 348,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s93.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29922,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s94.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30039,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s95.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30127,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s96.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30494,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s96.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31552,
+      "dur": 260,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s98.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32052,
+      "dur": 248,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s97.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33027,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s98.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33357,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s98.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33585,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s99.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 34726,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/albanil-moho-negro-pared_s99.png",
+      "kb": 5,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 357,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ENCIERRO",
+        "sub": "el olor que se pega en la ropa",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 1201,
+      "dur": 135,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "CANAL DE MATEO",
+        "title": "Mateo",
+        "sub": "Albañil y arreglos de casa"
+      }
+    },
+    {
+      "from": 1831,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "PARED FRÍA",
+        "sub": "ahí se condensa el vapor",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 3351,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 3",
+        "title": "Por qué aparece el moho"
+      }
+    },
+    {
+      "from": 4615,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "HUMEDAD ASCENDENTE",
+        "sub": "sube desde la base",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 5868,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 4",
+        "title": "Mátalo en 5 minutos"
+      }
+    },
+    {
+      "from": 6271,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "PROTÉGETE",
+        "sub": "guantes, mascarilla y ventila antes de empezar",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 6470,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ESPORAS",
+        "sub": "se liberan al aire al frotar",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 9243,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SE AFLOJA",
+        "sub": "la mancha sale con el cepillo",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 9865,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 5",
+        "title": "Por qué puede volver"
+      }
+    },
+    {
+      "from": 11820,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 11875,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 13858,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "VAPOR",
+        "sub": "se condensa en gotitas sobre la pared",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 15760,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 7",
+        "title": "Causa 2: Humedad ascendente"
+      }
+    },
+    {
+      "from": 16484,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SALITRE",
+        "sub": "cristales blancos de sales minerales",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 17817,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 8",
+        "title": "Causa 3: Filtración puntual"
+      }
+    },
+    {
+      "from": 19092,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "NO PINTES ENCIMA",
+        "sub": "la humedad atrapada empeora con la próxima lluvia",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 20302,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 21626,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "HIFAS",
+        "sub": "raíces del hongo bajo la superficie",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 22846,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 2,
+        "text": "pintar el mismo día"
+      }
+    },
+    {
+      "from": 23637,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 48,
+        "suffix": " h",
+        "label": "secado antes de pintar",
+        "corner": "br"
+      }
+    },
+    {
+      "from": 24265,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 3,
+        "text": "ignorar detrás de los muebles"
+      }
+    },
+    {
+      "from": 25741,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 4,
+        "text": "calefacción sin ventilar nunca"
+      }
+    },
+    {
+      "from": 26057,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "10 MINUTOS",
+        "sub": "de ventana abierta por la mañana",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 26174,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 10",
+        "title": "Plan de 4 semanas"
+      }
+    },
+    {
+      "from": 30039,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "VARIOS AÑOS",
+        "sub": "sin reaparecer, si mantienes hábitos",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 30706,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 11",
+        "title": "Repaso express"
+      }
+    },
+    {
+      "from": 33352,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 4,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PROBLEMA",
+        "phrase": "La limpias y a la semana vuelve más oscura",
+        "accent": "vuelve más oscura",
+        "src": "img/albanil-moho-negro-pared_s01.png"
+      }
+    },
+    {
+      "from": 842,
+      "dur": 197,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Le paso lavandina una vez y listo",
+        "truth": "A los dos meses el moho vuelve igual"
+      }
+    },
+    {
+      "from": 2140,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EN ESTE VIDEO",
+        "title": "Lo que vas a lograr hoy",
+        "steps": [
+          {
+            "title": "Matarlo ya",
+            "sub": "con 5 minutos de limpieza activa"
+          },
+          {
+            "title": "Hallar la causa",
+            "sub": "condensación, ascendente o filtración"
+          },
+          {
+            "title": "Que no vuelva",
+            "sub": "con un plan de 4 semanas"
+          }
+        ]
+      }
+    },
+    {
+      "from": 2281,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MANOS A LA OBRA",
+        "phrase": "Cinco minutos reales de trabajo",
+        "accent": "cinco minutos",
+        "src": "img/albanil-moho-negro-pared_s19.png"
+      }
+    },
+    {
+      "from": 3117,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "También vamos a ver",
+        "items": [
+          "Los errores que te pueden intoxicar",
+          "Cómo diferenciar moho superficial de uno profundo",
+          "Un plan simple de 4 semanas"
+        ]
+      }
+    },
+    {
+      "from": 3382,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "En la Guía Antihumedad está",
+        "items": [
+          "Las cantidades exactas según el tamaño de la mancha",
+          "El paso a paso con tiempos de secado",
+          "Cómo identificar tu causa con precisión"
+        ]
+      }
+    },
+    {
+      "from": 4126,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL MOHO NECESITA",
+        "value": 3,
+        "prefix": "",
+        "suffix": " cosas",
+        "label": "humedad, temperatura templada y algo orgánico"
+      }
+    },
+    {
+      "from": 5075,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Primer diagnóstico",
+        "left": {
+          "label": "Fría y húmeda al tacto",
+          "sub": "probablemente condensación"
+        },
+        "right": {
+          "label": "Mancha desde el piso hacia arriba",
+          "sub": "humedad ascendente"
+        }
+      }
+    },
+    {
+      "from": 7147,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Antes de tocar nada, protégete",
+        "items": [
+          "Guantes de goma",
+          "Mascarilla o cubrebocas",
+          "Lentes de protección si tienes",
+          "Ventana abierta mientras trabajas"
+        ]
+      }
+    },
+    {
+      "from": 8343,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Qué producto usar",
+        "left": {
+          "label": "Cloro diluido 1 a 10",
+          "sub": "superficies lisas: azulejo, esmalte"
+        },
+        "right": {
+          "label": "Agua oxigenada al 3%",
+          "sub": "mejor en revoque y cemento"
+        }
+      }
+    },
+    {
+      "from": 9399,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA APLICACIÓN",
+        "title": "Tres pasos, en orden",
+        "steps": [
+          {
+            "title": "Rocía",
+            "sub": "sobre la mancha, sin frotar todavía"
+          },
+          {
+            "title": "Espera 10 a 15 min",
+            "sub": "para que mate las esporas"
+          },
+          {
+            "title": "Cepilla y enjuaga",
+            "sub": "con movimientos cortos y firmes"
+          }
+        ]
+      }
+    },
+    {
+      "from": 10269,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SI NO CORRIGES LA CAUSA",
+        "value": 4,
+        "prefix": "",
+        "suffix": " semanas",
+        "label": "y la mancha reaparece en el mismo punto"
+      }
+    },
+    {
+      "from": 13123,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAUSA 1: CONDENSACIÓN",
+        "phrase": "El aire caliente choca con la pared fría",
+        "accent": "pared fría",
+        "src": "img/albanil-moho-negro-pared_s42.png"
+      }
+    },
+    {
+      "from": 14052,
+      "dur": 180,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Si limpio cada 15 días no debería volver",
+        "truth": "Vuelve igual si la pared sigue condensando"
+      }
+    },
+    {
+      "from": 14913,
+      "dur": 210,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "SEPARA LOS MUEBLES",
+        "w": 5,
+        "h": 150,
+        "unit": "cm",
+        "label": "AIRE DETRÁS DEL MUEBLE",
+        "note": "mínimo para que circule"
+      }
+    },
+    {
+      "from": 15939,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Así reconoces la humedad ascendente",
+        "items": [
+          "La mancha arranca desde el zócalo o el piso",
+          "Olor a humedad de sótano",
+          "Salitre: cristales blancos de sales"
+        ]
+      }
+    },
+    {
+      "from": 16913,
+      "dur": 150,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "HUMEDAD ASCENDENTE",
+        "phrase": "A veces necesita maquinaria o un profesional",
+        "accent": "un profesional",
+        "src": "img/albanil-moho-negro-pared_s55.png"
+      }
+    },
+    {
+      "from": 17978,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Así reconoces una filtración puntual",
+        "items": [
+          "Bordes irregulares",
+          "Centro más oscuro y húmedo",
+          "Empeora después de lluvias fuertes"
+        ]
+      }
+    },
+    {
+      "from": 18906,
+      "dur": 180,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Pinto encima de la filtración y se soluciona",
+        "truth": "La humedad queda atrapada y empeora con la lluvia"
+      }
+    },
+    {
+      "from": 21205,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "El error del cloro puro",
+        "left": {
+          "label": "Cloro puro sin diluir",
+          "sub": "daña más y no llega a la raíz"
+        },
+        "right": {
+          "label": "Cloro diluido o agua oxigenada",
+          "sub": "penetra mejor en las hifas"
+        }
+      }
+    },
+    {
+      "from": 22126,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Cuándo pasar a un fungicida",
+        "items": [
+          "Moho instalado hace varios meses",
+          "El agua oxigenada ya no alcanza",
+          "Fungicida específico para paredes, de ferretería"
+        ]
+      }
+    },
+    {
+      "from": 23110,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 2",
+        "phrase": "Pintar la pared todavía húmeda",
+        "accent": "todavía húmeda",
+        "src": "img/albanil-moho-negro-pared_s74.png"
+      }
+    },
+    {
+      "from": 24482,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Revisa también detrás de",
+        "items": [
+          "El armario de ropa",
+          "La cama contra la pared",
+          "El sillón de la sala"
+        ]
+      }
+    },
+    {
+      "from": 25452,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Ambiente cerrado vs ventilado",
+        "left": {
+          "label": "Siempre cerrado con calefacción",
+          "sub": "más condensación en puntos fríos"
+        },
+        "right": {
+          "label": "10 minutos de ventana",
+          "sub": "baja muchísimo el riesgo"
+        }
+      }
+    },
+    {
+      "from": 26517,
+      "dur": 330,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Plan de 4 semanas",
+        "steps": [
+          {
+            "when": "Semana 1",
+            "text": "limpieza completa con protección"
+          },
+          {
+            "when": "Semana 2",
+            "text": "identificas y atacas la causa real"
+          },
+          {
+            "when": "Semana 3",
+            "text": "revoque o pintura antihumedad si corresponde"
+          },
+          {
+            "when": "Semana 4",
+            "text": "seguimiento visual cada 2 o 3 días"
+          }
+        ]
+      }
+    },
+    {
+      "from": 28030,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ENTRE CAPAS",
+        "value": 6,
+        "prefix": "",
+        "suffix": " h",
+        "label": "mínimo de secado antes de la siguiente mano"
+      }
+    },
+    {
+      "from": 29394,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEAMOS HONESTOS",
+        "phrase": "Nada garantiza que no vuelva nunca",
+        "accent": "nada garantiza",
+        "src": "img/albanil-moho-negro-pared_s93.png"
+      }
+    },
+    {
+      "from": 30284,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Según tu clima",
+        "left": {
+          "label": "Zonas húmedas o inviernos largos",
+          "sub": "seguimiento más frecuente"
+        },
+        "right": {
+          "label": "Zonas secas",
+          "sub": "revisión más espaciada"
+        }
+      }
+    },
+    {
+      "from": 31812,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Repaso express",
+        "items": [
+          "Matas el moho con protección y el producto correcto",
+          "Identificas condensación, ascendente o filtración",
+          "Corriges la causa de fondo",
+          "Esperas el secado antes de pintar"
+        ]
+      }
+    }
+  ]
+}
