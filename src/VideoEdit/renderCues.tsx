@@ -48,6 +48,7 @@ import {
 import { AntesDespues, Medidor, QRTag, Timeline, Top5Reveal } from "./kit/kit4";
 import { CuadernoReceta, GuiasNonna, MarcaCirculo, PolaroidRecuerdo, SelloError, TicketPrecio, TimerCocina } from "./kit/kit5";
 import { AnilloPorcentaje, CalendarioSiembra, CartelPrecaucion, CrecimientoPlanta, HeartbeatLine, NivelBurbuja, PizarraNonna, PlanoMedidas, ProporcionTazas, RutinaDia, SemaforoVeredicto, WeekPlanner } from "./kit/kit6";
+import { Barras3D, Cano3D, Circuito3D, Pared3D, Vaso3D } from "./kit/kit7_3d";
 import type { BrollBeat, ComponentBeat, OverlayBeat } from "./types";
 
 /* ─────────────────────────  b-roll a pantalla completa (Ken Burns)  ───────────────────────── */
@@ -135,6 +136,11 @@ const MAP = {
   CartelPrecaucion,
   WeekPlanner,
   HeartbeatLine,
+  Pared3D,
+  Cano3D,
+  Circuito3D,
+  Vaso3D,
+  Barras3D,
 } as const;
 
 export const ComponentBeatView: React.FC<{ beat: ComponentBeat }> = ({

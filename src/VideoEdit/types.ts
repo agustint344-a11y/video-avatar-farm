@@ -14,6 +14,11 @@ export type ComponentBeat = {
   from: number;
   dur: number;
   comp:
+    | "Pared3D"
+    | "Cano3D"
+    | "Circuito3D"
+    | "Vaso3D"
+    | "Barras3D"
     | "BigStat"
     | "MythVsTruth"
     | "Compare"
