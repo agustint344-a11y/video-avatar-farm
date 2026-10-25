@@ -1,0 +1,1932 @@
+{
+  "slug": "mateo-las-grietas-pared",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 31959,
+  "audioSrc": "mateo-las-grietas-pared.mp3",
+  "avatarSrc": "mateo-las-grietas-pared_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1383,
+      "dur": 612,
+      "clip": 0
+    },
+    {
+      "from": 2829,
+      "dur": 484,
+      "clip": 612
+    },
+    {
+      "from": 9368,
+      "dur": 584,
+      "clip": 1096
+    },
+    {
+      "from": 27452,
+      "dur": 519,
+      "clip": 1680
+    },
+    {
+      "from": 30264,
+      "dur": 1652,
+      "clip": 2199
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 363,
+      "dur": 285,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 648,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 749,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 877,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1012,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s05.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1139,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s06.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1211,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s07.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 1995,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s08.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2468,
+      "dur": 61,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s08.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2529,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s09.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2641,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s10.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3313,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s11.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3457,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s12.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3587,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s13.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3758,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s14.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3937,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s15.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4046,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s16.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4168,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s17.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4528,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s17.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4739,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s18.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4840,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s19.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4943,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s20.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5352,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s21.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5526,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s22.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5920,
+      "dur": 91,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s22.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6011,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s27.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6137,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s23.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6319,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s24.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6488,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s25.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6816,
+      "dur": 215,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s25.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7031,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s26.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7175,
+      "dur": 259,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s76.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7434,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s28.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7747,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s28.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7996,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s29.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8106,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s30.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8475,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s30.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8552,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s31.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8638,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s32.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8787,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s33.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9143,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s33.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9952,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s34.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10177,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s35.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10313,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s36.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10420,
+      "dur": 103,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s37.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10793,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s108.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10939,
+      "dur": 259,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s38.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11198,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s39.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11302,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11500,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s41.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11598,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s42.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11935,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s42.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12175,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s43.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12372,
+      "dur": 91,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s44.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12463,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s45.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12855,
+      "dur": 54,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s45.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12909,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s46.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13052,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s47.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13142,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s48.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13321,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s49.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13489,
+      "dur": 293,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s50.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14082,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s51.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14223,
+      "dur": 80,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s52.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14303,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s53.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14381,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s54.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14470,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s55.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14632,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s56.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14745,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s57.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15047,
+      "dur": 319,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s57.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15366,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s58.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15551,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s59.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15806,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s59.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16022,
+      "dur": 61,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s88.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16083,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s60.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16258,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s61.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16333,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16466,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s63.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16596,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s64.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16709,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s65.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17141,
+      "dur": 303,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s65.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17444,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s66.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17541,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s67.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17899,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s67.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18229,
+      "dur": 317,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s67.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18546,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s68.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18651,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s69.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19133,
+      "dur": 284,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s69.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19417,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s70.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19575,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s71.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19739,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s72.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19890,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s73.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20208,
+      "dur": 292,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s73.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20500,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s74.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20692,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s75.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21143,
+      "dur": 341,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s75.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21484,
+      "dur": 223,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s77.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21707,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s78.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21773,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s79.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21950,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s80.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22262,
+      "dur": 286,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s81.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22548,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s82.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22706,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s83.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22850,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s84.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23000,
+      "dur": 91,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s85.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23091,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s86.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23246,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s87.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23471,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s89.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23851,
+      "dur": 295,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s89.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24146,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s90.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24233,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s91.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24393,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s92.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24515,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s93.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24902,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s93.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25057,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s94.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25216,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s95.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25384,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s96.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25549,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s97.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25950,
+      "dur": 218,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s97.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26168,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s98.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26353,
+      "dur": 260,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s99.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26613,
+      "dur": 215,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s100.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26828,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s101.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27014,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s102.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27971,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s103.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28036,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s104.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28202,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s105.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28661,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s105.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28840,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s106.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28918,
+      "dur": 261,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s107.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29389,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s107.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29719,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s107.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29779,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s109.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29916,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s110.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31916,
+      "dur": 43,
+      "kind": "image",
+      "src": "img/mateo-las-grietas-pared_s110.png",
+      "kb": 2,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 5,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PROBLEMA",
+        "title": "La grieta que siempre vuelve"
+      }
+    },
+    {
+      "from": 877,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CAUSA CONCRETA",
+        "sub": "no es casualidad",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 1383,
+      "dur": 180,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "EL CONSTRUCTOR LIBRE",
+        "title": "Mateo",
+        "sub": "Arreglos de casa sin pagar técnico"
+      }
+    },
+    {
+      "from": 1987,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EN ESTE VIDEO",
+        "title": "Tipos, causas y solución real"
+      }
+    },
+    {
+      "from": 3587,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "Movimiento normal de los materiales"
+      }
+    },
+    {
+      "from": 4168,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "FISURA FINA",
+        "sub": "menos de 1 mm",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 4739,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "La humedad que nadie ve"
+      }
+    },
+    {
+      "from": 5392,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "HUMEDAD",
+        "sub": "la causa real",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 6011,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3 Y 4",
+        "title": "Asentamiento y materiales flojos"
+      }
+    },
+    {
+      "from": 6488,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ASENTAMIENTO",
+        "sub": "primeros años",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 6907,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "Grieta en escalón o más de 3 mm: consulta a un profesional",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 7175,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "SEÑAL DE ALERTA",
+        "sub": "Si crece cada semana o traba puertas, no es solo estética",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 7861,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA PRUEBA",
+        "title": "Cómo saber si tu grieta es grave"
+      }
+    },
+    {
+      "from": 8638,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ESTABLE",
+        "sub": "no se movió",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 9844,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 9881,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 10313,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 10420,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LOS MATERIALES",
+        "title": "Pocos y baratos"
+      }
+    },
+    {
+      "from": 11947,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PASO A PASO",
+        "title": "Para que no vuelva a salir"
+      }
+    },
+    {
+      "from": 13321,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SIN POLVO",
+        "sub": "o no se adhiere",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 16466,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "GRIETAS EN MOVIMIENTO",
+        "title": "Cuándo usar sellador elástico"
+      }
+    },
+    {
+      "from": 19243,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 19417,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "GRIETAS ANCHAS",
+        "title": "Cuándo preocuparse en serio"
+      }
+    },
+    {
+      "from": 20500,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "REPARTE TENSIÓN",
+        "sub": "la malla ancha",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 21707,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LOS ERRORES",
+        "title": "Por qué se repite el trabajo"
+      }
+    },
+    {
+      "from": 21950,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 1,
+        "text": "Tapar sin abrir la grieta"
+      }
+    },
+    {
+      "from": 22370,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 2,
+        "text": "Usar yeso rígido si hay movimiento"
+      }
+    },
+    {
+      "from": 23000,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 3,
+        "text": "Pintar sin sellador previo"
+      }
+    },
+    {
+      "from": 23246,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 4,
+        "text": "Ignorar la humedad de fondo"
+      }
+    },
+    {
+      "from": 23988,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "RESUELVE LA CAUSA",
+        "sub": "Sella la humedad antes de tapar la grieta",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 24515,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 5,
+        "text": "Trabajar con la pared sucia o húmeda"
+      }
+    },
+    {
+      "from": 25057,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SECADO LENTO",
+        "sub": "no apures los tiempos",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 25384,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PLAN",
+        "title": "Organízalo en pocos días"
+      }
+    },
+    {
+      "from": 30664,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 153,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PROBLEMA",
+        "phrase": "Una grieta nunca aparece sola, siempre tiene una causa",
+        "accent": "siempre tiene una causa",
+        "src": "img/mateo-las-grietas-pared_s01.png"
+      }
+    },
+    {
+      "from": 2168,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que vas a aprender hoy",
+        "items": [
+          "Diferenciar grietas leves de graves",
+          "Las causas más comunes",
+          "Materiales baratos de ferretería",
+          "El paso a paso que sí dura",
+          "Los errores que la gente repite"
+        ]
+      }
+    },
+    {
+      "from": 4348,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL DATO",
+        "value": 1,
+        "prefix": "",
+        "suffix": " mm",
+        "label": "ancho de una fisura superficial normal"
+      }
+    },
+    {
+      "from": 5082,
+      "dur": 270,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Así sube la humedad en la pared",
+        "kicker": "Por dentro del muro",
+        "problema": "humedad",
+        "etiqueta": "Ciclo húmedo-seco",
+        "note": "Se hincha, se seca y termina rajando el revoque"
+      }
+    },
+    {
+      "from": 5740,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "OJO",
+        "phrase": "Si tapas la grieta sin resolver la humedad, vuelve",
+        "accent": "vuelve",
+        "src": "img/mateo-las-grietas-pared_s22.png"
+      }
+    },
+    {
+      "from": 6606,
+      "dur": 210,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "¿Cuándo preocuparse?",
+        "w": 3,
+        "h": 2,
+        "unit": "mm",
+        "label": "GRIETA ANCHA",
+        "note": "Si entra la uña, consulta a un profesional"
+      }
+    },
+    {
+      "from": 7567,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "phrase": "El revoque mal hecho se raja con cualquier movimiento",
+        "accent": "se raja",
+        "src": "img/mateo-las-grietas-pared_s28.png"
+      }
+    },
+    {
+      "from": 8235,
+      "dur": 240,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "La prueba de la cinta",
+        "w": 5,
+        "h": 1,
+        "unit": "cm",
+        "label": "TIRA DE PRUEBA",
+        "note": "Cruza la grieta y anota la fecha"
+      }
+    },
+    {
+      "from": 8903,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Resultado tras 2 o 3 semanas",
+        "left": {
+          "label": "Cinta intacta",
+          "sub": "fisura estable, se tapa fácil"
+        },
+        "right": {
+          "label": "Cinta rota",
+          "sub": "sigue en movimiento, usar masilla elástica"
+        }
+      }
+    },
+    {
+      "from": 10523,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Materiales para fisura superficial",
+        "items": [
+          "Espátula chica y una ancha",
+          "Masilla acrílica o sellador elástico",
+          "Lija fina 120 o 180",
+          "Fijador antes de pintar"
+        ]
+      }
+    },
+    {
+      "from": 11695,
+      "dur": 240,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "title": "LO QUE TE COBRAN",
+        "rows": [
+          {
+            "label": "Visita del técnico",
+            "price": "30 min",
+            "bad": true
+          },
+          {
+            "label": "Arreglar varias grietas tú mismo",
+            "price": "mucho menos"
+          }
+        ],
+        "total": {
+          "label": "Resultado",
+          "price": "te sale más barato"
+        },
+        "stamp": "AHORRO"
+      }
+    },
+    {
+      "from": 12615,
+      "dur": 240,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "Abre la grieta antes de tapar",
+        "w": 2,
+        "h": 3,
+        "unit": "mm",
+        "label": "CANAL EN V",
+        "note": "Le da agarre al material nuevo"
+      }
+    },
+    {
+      "from": 13782,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO A PASO",
+        "title": "Fisura superficial (pasos 1 a 3)",
+        "steps": [
+          {
+            "title": "Abrir en V",
+            "sub": "con espátula o cuchillo viejo"
+          },
+          {
+            "title": "Limpiar el polvo",
+            "sub": "con pincel seco o trapo"
+          },
+          {
+            "title": "Aplicar masilla",
+            "sub": "presionando dentro del canal"
+          }
+        ]
+      }
+    },
+    {
+      "from": 14867,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ANTES DE LIJAR",
+        "value": 1,
+        "prefix": "",
+        "suffix": " día",
+        "label": "de secado completo, no solo al tacto"
+      }
+    },
+    {
+      "from": 15626,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO CLAVE",
+        "phrase": "Sin sellador, el parche se nota como una sombra",
+        "accent": "una sombra",
+        "src": "img/mateo-las-grietas-pared_s59.png"
+      }
+    },
+    {
+      "from": 16871,
+      "dur": 270,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Una grieta que sigue en movimiento",
+        "kicker": "Por dentro de la pared",
+        "problema": "grieta",
+        "etiqueta": "Masilla elástica",
+        "note": "El sellador se flexiona cuando la pared se mueve"
+      }
+    },
+    {
+      "from": 17719,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CUIDADO",
+        "phrase": "Comprar de menos o de más, las dos te cuestan plata",
+        "accent": "te cuestan plata",
+        "src": "img/mateo-las-grietas-pared_s67.png"
+      }
+    },
+    {
+      "from": 18833,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Calculadoras del Maestro",
+        "items": [
+          "Grietas y revoque",
+          "Pintura (gratis en la página)",
+          "Membrana para techos",
+          "Pendiente",
+          "Bajada pluvial"
+        ]
+      }
+    },
+    {
+      "from": 19998,
+      "dur": 210,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "Refuerzo para grietas anchas",
+        "w": 10,
+        "h": 1,
+        "unit": "cm",
+        "label": "MALLA REFORZADA",
+        "note": "Centrada sobre la grieta"
+      }
+    },
+    {
+      "from": 20933,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Toda grieta ancha es grave",
+        "truth": "Depende de si crece y si traba puertas o ventanas"
+      }
+    },
+    {
+      "from": 22082,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR #1",
+        "phrase": "Abrir la grieta no es contradictorio, es la clave",
+        "accent": "es la clave",
+        "src": "img/mateo-las-grietas-pared_s81.png"
+      }
+    },
+    {
+      "from": 23611,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Antes de tapar la grieta",
+        "left": {
+          "label": "Tapar y listo",
+          "sub": "la humedad sigue entrando"
+        },
+        "right": {
+          "label": "Resolver la humedad primero",
+          "sub": "membrana, canaleta o sellado"
+        }
+      }
+    },
+    {
+      "from": 24662,
+      "dur": 240,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Por qué vuelve la humedad",
+        "kicker": "Por dentro de la pared",
+        "problema": "moho",
+        "etiqueta": "Origen: techo/caño",
+        "note": "Si no resuelves el origen, la grieta vuelve"
+      }
+    },
+    {
+      "from": 25650,
+      "dur": 300,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Plan de pocos días",
+        "steps": [
+          {
+            "when": "Día 1",
+            "text": "Inspección y prueba de cinta en toda la casa"
+          },
+          {
+            "when": "Día 2-3",
+            "text": "Revisas pruebas y aplicas primera capa"
+          },
+          {
+            "when": "Día 3",
+            "text": "Lijas y aplicas segunda mano si falta"
+          },
+          {
+            "when": "Día 4",
+            "text": "Fijador y pintura final"
+          }
+        ]
+      }
+    },
+    {
+      "from": 27225,
+      "dur": 227,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "title": "LO QUE GASTAS EN MATERIALES",
+        "rows": [
+          {
+            "label": "Visita de un técnico",
+            "price": "más caro",
+            "bad": true
+          },
+          {
+            "label": "Materiales para varias grietas",
+            "price": "como una pizza familiar"
+          }
+        ],
+        "total": {
+          "label": "Diferencia",
+          "price": "a tu favor"
+        },
+        "stamp": "AHORRO"
+      }
+    },
+    {
+      "from": 28391,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "La receta del parche que dura",
+        "items": [
+          "Abrir la grieta en V",
+          "Limpiar bien el polvo",
+          "Malla si el ancho lo requiere",
+          "Sellador antes de pintar"
+        ]
+      }
+    },
+    {
+      "from": 29179,
+      "dur": 210,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LO QUE RESUELVES HOY",
+        "value": 85,
+        "max": 100,
+        "suffix": "%",
+        "label": "de las grietas comunes de una casa"
+      }
+    },
+    {
+      "from": 30116,
+      "dur": 148,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "title": "LO QUE CUESTA LA BIBLIOTECA",
+        "rows": [
+          {
+            "label": "Una visita de un técnico",
+            "price": "más",
+            "bad": true
+          },
+          {
+            "label": "La Biblioteca del Maestro",
+            "price": "menos"
+          }
+        ],
+        "total": {
+          "label": "Diferencia",
+          "price": "a tu favor"
+        },
+        "stamp": "GARANTÍA 7 DÍAS"
+      }
+    }
+  ]
+}
