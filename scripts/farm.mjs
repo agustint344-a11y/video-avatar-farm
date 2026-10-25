@@ -58,7 +58,7 @@ if (!only) {
 
 // 3) disparar
 const entry = process.env.ENTRY || "src/index.ts";
-const onlyArg = only ? `-f only_chunks=${only}` : "";
+const onlyArg = (only ? `-f only_chunks=${only}` : "") + (process.env.GL ? ` -f gl=${process.env.GL}` : "");
 sh(`${GH} workflow run render.yml --repo ${REPO} --ref ${REF} -f slug=${slug} -f comp_id=${comp} -f total_frames=${total} -f chunks=${chunks} -f entry=${entry} ${onlyArg}`);
 console.log(`\n✓ Workflow disparado en ${REPO} (rama ${REF}).`);
 console.log(`  Trackealo por SHA:  ${GH} run list --branch ${REF} --json databaseId,headSha,status,conclusion`);
