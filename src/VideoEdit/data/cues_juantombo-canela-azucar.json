@@ -1,0 +1,1752 @@
+{
+  "slug": "juantombo-canela-azucar",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 32691,
+  "audioSrc": "juantombo-canela-azucar.mp3",
+  "avatarSrc": "juantombo-canela-azucar_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 944,
+      "dur": 944,
+      "clip": 0
+    },
+    {
+      "from": 3307,
+      "dur": 678,
+      "clip": 944
+    },
+    {
+      "from": 16642,
+      "dur": 638,
+      "clip": 1622
+    },
+    {
+      "from": 28411,
+      "dur": 759,
+      "clip": 2260
+    },
+    {
+      "from": 29326,
+      "dur": 906,
+      "clip": 3019
+    },
+    {
+      "from": 31721,
+      "dur": 927,
+      "clip": 3925
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 2,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 242,
+      "dur": 351,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 593,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1888,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2312,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s02.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2512,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2610,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3029,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s21.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3124,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3985,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4341,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s07.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4524,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s55.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4687,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s09.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4826,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5191,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s31.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5428,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s11.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5562,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s12.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5712,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s13.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6062,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s08.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6302,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s15.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6690,
+      "dur": 61,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s14.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6751,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s16.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6927,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s17.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7079,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s18.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7439,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s18.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7712,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s19.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7844,
+      "dur": 344,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s20.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8458,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s20.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8590,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s22.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8789,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s23.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8951,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s24.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9336,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s25.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9499,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s26.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9631,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s27.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9962,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s27.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10235,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s29.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10487,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s30.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10812,
+      "dur": 223,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s28.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11035,
+      "dur": 304,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s32.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11339,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s33.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11728,
+      "dur": 258,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s33.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11986,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s34.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12048,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s35.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12228,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s36.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12689,
+      "dur": 318,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s36.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13007,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s37.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13190,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s38.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13404,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s39.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13890,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s39.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14042,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14132,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s41.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14286,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s42.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14786,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s42.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14944,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s43.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15039,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s44.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15231,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s45.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15577,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s45.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15707,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s46.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15890,
+      "dur": 50,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s47.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15940,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s48.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16285,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s48.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16512,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s49.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17280,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s50.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17703,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s50.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17856,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s51.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18016,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s52.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18158,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s53.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18443,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s53.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18680,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s54.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19010,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s54.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19108,
+      "dur": 251,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s56.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19599,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s56.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19784,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s57.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19957,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s58.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20078,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s59.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20388,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s59.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20508,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s60.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20730,
+      "dur": 218,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s61.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20948,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s62.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21327,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s62.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21523,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s63.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21662,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s64.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21780,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s65.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22223,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s65.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22334,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s66.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22480,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s67.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22535,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s68.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22960,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s68.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23125,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s69.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23193,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s70.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23327,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s71.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23800,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s71.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23990,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s72.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24092,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s73.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24269,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s74.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24692,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s74.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24781,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s75.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24987,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s76.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25153,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s77.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25218,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s78.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25403,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s79.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25919,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s80.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26131,
+      "dur": 223,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s82.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26354,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s83.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26440,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s84.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26671,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s85.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26849,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s86.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27178,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s81.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27327,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s87.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27442,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s88.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27552,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s89.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27846,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s89.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28010,
+      "dur": 215,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s90.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28225,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s91.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29170,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s92.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30232,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s93.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30562,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s93.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30892,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s93.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30940,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s94.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31039,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s95.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31116,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s96.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31254,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s97.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31495,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s98.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32648,
+      "dur": 43,
+      "kind": "image",
+      "src": "img/juantombo-canela-azucar_s99.png",
+      "kb": 3,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 247,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ADVERTENCIA",
+        "title": "Lo que nadie te cuenta de la canela"
+      }
+    },
+    {
+      "from": 593,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "TÓXICO EN EXCESO",
+        "sub": "en dosis altas y sostenidas",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 742,
+      "dur": 135,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "Esto no reemplaza el tratamiento médico",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 1085,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CASO REAL",
+        "title": "El paciente que no lo sabía"
+      }
+    },
+    {
+      "from": 1254,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "MEDICINA SIN VUELTAS",
+        "title": "Dr. Juan Tombo",
+        "sub": "Médico de familia"
+      }
+    },
+    {
+      "from": 2358,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CASSIA",
+        "sub": "la más común y barata",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 3718,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_juantombo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dr. Juan Tombo",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 3977,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA VERDAD",
+        "title": "Lo que sí funciona"
+      }
+    },
+    {
+      "from": 4524,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "INR INESTABLE",
+        "sub": "vigila la coagulación",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 6266,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "No toda la canela es igual"
+      }
+    },
+    {
+      "from": 7844,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CUMARINA",
+        "sub": "la sustancia clave",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 8951,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "LÍMITE DIARIO",
+        "sub": "fácil de superar con cassia",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 10853,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "title": "La dosis es el verdadero problema"
+      }
+    },
+    {
+      "from": 11339,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 7,
+        "suffix": " mg",
+        "label": "límite diario tolerable",
+        "corner": "br"
+      }
+    },
+    {
+      "from": 13190,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CONDIMENTO",
+        "sub": "no un tratamiento",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 15890,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "Canela y medicamentos para la diabetes"
+      }
+    },
+    {
+      "from": 16512,
+      "dur": 135,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "CONSULTA A TU MÉDICO",
+        "sub": "Si sumas canela a tu medicación para la diabetes",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 18016,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "title": "Anticoagulantes en riesgo"
+      }
+    },
+    {
+      "from": 20948,
+      "dur": 135,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "CUIDADO",
+        "sub": "Avisa si tomas anticoagulantes",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 21662,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SIN LÍMITE NATURAL",
+        "sub": "las cápsulas no avisan",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 24092,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "¿Tu consumo es seguro?"
+      }
+    },
+    {
+      "from": 27442,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "EN EXCESO DAÑA",
+        "sub": "hasta el agua y la sal",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 29063,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_juantombo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dr. Juan Tombo",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 29326,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RESUMEN",
+        "title": "Las ideas centrales"
+      }
+    },
+    {
+      "from": 32114,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_juantombo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dr. Juan Tombo",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 32585,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_juantombo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dr. Juan Tombo",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 2,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CUIDADO",
+        "phrase": "Esa cucharada diaria puede estar dañando tu hígado",
+        "accent": "dañando tu hígado",
+        "src": "img/juantombo-canela-azucar_s01.png"
+      }
+    },
+    {
+      "from": 770,
+      "dur": 174,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PARA RECORDAR",
+        "value": 2,
+        "prefix": "",
+        "suffix": " tipos de canela",
+        "label": "Ceilán con poca cumarina y cassia con mucha más"
+      }
+    },
+    {
+      "from": 2102,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL CASO",
+        "value": 3,
+        "prefix": "",
+        "suffix": " meses",
+        "label": "y las enzimas del hígado ya estaban elevadas"
+      }
+    },
+    {
+      "from": 2759,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que vas a aprender hoy",
+        "items": [
+          "Cassia vs. Ceilán",
+          "Cuánta canela es segura",
+          "Canela y metformina o insulina",
+          "Canela y anticoagulantes"
+        ]
+      }
+    },
+    {
+      "from": 4131,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LO QUE SÍ ES CIERTO",
+        "phrase": "El cinamaldehído tiene un efecto real pero modesto",
+        "accent": "efecto real pero modesto",
+        "src": "img/juantombo-canela-azucar_s07.png"
+      }
+    },
+    {
+      "from": 4951,
+      "dur": 240,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MEJORA EN ESTUDIOS",
+        "value": 20,
+        "max": 100,
+        "suffix": "%",
+        "label": "reducción de glucosa posprandial, según el estudio"
+      }
+    },
+    {
+      "from": 5822,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Si poca canela ayuda, mucha ayuda más",
+        "truth": "Más cantidad no es más beneficio, es más riesgo"
+      }
+    },
+    {
+      "from": 6420,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Dos canelas muy distintas",
+        "left": {
+          "label": "Canela de Ceilán",
+          "sub": "Poca cumarina, más cara"
+        },
+        "right": {
+          "label": "Canela cassia",
+          "sub": "Mucha cumarina, la del súper"
+        }
+      }
+    },
+    {
+      "from": 7229,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "OJO AL FRASCO",
+        "phrase": "Si solo dice canela molida, casi siempre es cassia",
+        "accent": "casi siempre es cassia",
+        "src": "img/juantombo-canela-azucar_s18.png"
+      }
+    },
+    {
+      "from": 8188,
+      "dur": 270,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA DIFERENCIA",
+        "value": 1000,
+        "prefix": "hasta ",
+        "suffix": " veces más cumarina",
+        "label": "puede tener la cassia frente a la de Ceilán"
+      }
+    },
+    {
+      "from": 9036,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Cómo identificar tu canela en casa",
+        "items": [
+          "¿Dice Ceilán o Sri Lanka en la etiqueta?",
+          "Color marrón rojizo intenso suele ser cassia",
+          "Rama en una sola capa dura es cassia",
+          "Rama enrollada y fina es Ceilán"
+        ]
+      }
+    },
+    {
+      "from": 9782,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EN RAMA",
+        "phrase": "La Ceilán se desmenuza, la cassia es corteza dura",
+        "accent": "corteza dura",
+        "src": "img/juantombo-canela-azucar_s27.png"
+      }
+    },
+    {
+      "from": 10602,
+      "dur": 210,
+      "comp": "CartelPrecaucion",
+      "props": {
+        "theme": "earth",
+        "title": "PRECAUCIÓN",
+        "text": "No se trata de tirar el frasco a la basura",
+        "sub": "sino de ajustar cantidad y frecuencia"
+      }
+    },
+    {
+      "from": 11488,
+      "dur": 240,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL LÍMITE",
+        "value": 7,
+        "prefix": "",
+        "suffix": " mg",
+        "label": "de cumarina al día, tolerable para 70 kg de peso"
+      }
+    },
+    {
+      "from": 12419,
+      "dur": 270,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ZONA DE RIESGO",
+        "value": 85,
+        "max": 100,
+        "suffix": "%",
+        "label": "consumo alto + bajo peso + hígado sensible"
+      }
+    },
+    {
+      "from": 13620,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Condimento o suplemento casero",
+        "left": {
+          "label": "Como condimento",
+          "sub": "Seguro para casi todos"
+        },
+        "right": {
+          "label": "Como suplemento diario",
+          "sub": "En cucharadas, de forma continua"
+        }
+      }
+    },
+    {
+      "from": 14486,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Patrón de consumo de riesgo",
+        "items": [
+          "Una o dos cucharaditas colmadas",
+          "Todos los días, sin descanso",
+          "En cápsulas, polvo o preparación casera",
+          "Casi siempre con canela cassia"
+        ]
+      }
+    },
+    {
+      "from": 15337,
+      "dur": 240,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DOSIS PRUDENTE",
+        "value": 0.5,
+        "prefix": "",
+        "suffix": " cucharadita",
+        "label": "máximo diario de cassia, no todos los días"
+      }
+    },
+    {
+      "from": 16075,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ATENCIÓN",
+        "phrase": "Canela y metformina juntas pueden bajar más el azúcar",
+        "accent": "bajar más el azúcar",
+        "src": "img/juantombo-canela-azucar_s48.png"
+      }
+    },
+    {
+      "from": 17463,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Señales de hipoglucemia a vigilar",
+        "items": [
+          "Mareos",
+          "Sudoración fría",
+          "Temblor",
+          "Hambre repentina e intensa"
+        ]
+      }
+    },
+    {
+      "from": 18233,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ANTICOAGULANTES",
+        "phrase": "La warfarina actúa sobre la vitamina K en el hígado",
+        "accent": "vitamina K",
+        "src": "img/juantombo-canela-azucar_s53.png"
+      }
+    },
+    {
+      "from": 19359,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "La cumarina de la canela es lo mismo que la warfarina",
+        "truth": "Son compuestos distintos, pero pueden potenciarse entre sí"
+      }
+    },
+    {
+      "from": 20178,
+      "dur": 210,
+      "comp": "CartelPrecaucion",
+      "props": {
+        "theme": "earth",
+        "title": "PRECAUCIÓN",
+        "text": "Si tomas anticoagulantes, avisa que consumes canela",
+        "sub": "igual que avisarías de cualquier suplemento"
+      }
+    },
+    {
+      "from": 21117,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 5",
+        "phrase": "Las cápsulas de canela son el capítulo más riesgoso",
+        "accent": "más riesgoso",
+        "src": "img/juantombo-canela-azucar_s62.png"
+      }
+    },
+    {
+      "from": 21983,
+      "dur": 240,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RIESGO OCULTO",
+        "value": 90,
+        "max": 100,
+        "suffix": "%",
+        "label": "de las cápsulas no aclaran si usan cassia o Ceilán"
+      }
+    },
+    {
+      "from": 22660,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Qué revisar en el envase",
+        "items": [
+          "Especie botánica indicada",
+          "Cumarina por dosis declarada",
+          "Cinnamomum verum es Ceilán",
+          "Cinnamomum cassia es cassia"
+        ]
+      }
+    },
+    {
+      "from": 23500,
+      "dur": 300,
+      "comp": "SemaforoVeredicto",
+      "props": {
+        "theme": "earth",
+        "title": "¿Sirven las cápsulas de canela?",
+        "light": "amarillo",
+        "verdict": "CON CUIDADO",
+        "reasons": [
+          "Sin etiqueta clara del tipo usado",
+          "Fácil duplicar la dosis sin darte cuenta",
+          "Prioriza las que declaren Ceilán certificada"
+        ]
+      }
+    },
+    {
+      "from": 24362,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO RÁPIDO",
+        "title": "Hazlo hoy mismo, sin análisis",
+        "steps": [
+          {
+            "title": "Revisa el tipo",
+            "sub": "Si no dice Ceilán, es cassia"
+          },
+          {
+            "title": "Calcula frecuencia",
+            "sub": "¿Diaria y en cucharaditas colmadas?"
+          },
+          {
+            "title": "Revisa tu medicación",
+            "sub": "Diabetes o anticoagulantes cambian el margen"
+          }
+        ]
+      }
+    },
+    {
+      "from": 25559,
+      "dur": 360,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Plan de cuatro semanas sin estrés",
+        "steps": [
+          {
+            "when": "Semana 1",
+            "text": "Observa y anota qué canela usas"
+          },
+          {
+            "when": "Semana 2",
+            "text": "Reduce a media cucharadita, con descansos"
+          },
+          {
+            "when": "Semana 3",
+            "text": "Cambia a Ceilán si quieres más cantidad"
+          },
+          {
+            "when": "Semana 4",
+            "text": "Comenta tu consumo en el control médico"
+          }
+        ]
+      }
+    },
+    {
+      "from": 26938,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Natural significa inofensivo en cualquier dosis",
+        "truth": "El agua y la sal en exceso también dañan el cuerpo"
+      }
+    },
+    {
+      "from": 27636,
+      "dur": 210,
+      "comp": "CartelPrecaucion",
+      "props": {
+        "theme": "earth",
+        "title": "PRECAUCIÓN",
+        "text": "Dejar la canela por miedo tampoco es la respuesta",
+        "sub": "el uso ocasional como condimento es seguro"
+      }
+    }
+  ]
+}
