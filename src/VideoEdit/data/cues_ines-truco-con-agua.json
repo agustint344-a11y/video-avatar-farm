@@ -1,0 +1,1877 @@
+{
+  "slug": "ines-truco-con-agua",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 37184,
+  "audioSrc": "ines-truco-con-agua.mp3",
+  "avatarSrc": "ines-truco-con-agua_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1044,
+      "dur": 989,
+      "clip": 0
+    },
+    {
+      "from": 3020,
+      "dur": 895,
+      "clip": 989
+    },
+    {
+      "from": 10991,
+      "dur": 577,
+      "clip": 1884
+    },
+    {
+      "from": 23288,
+      "dur": 708,
+      "clip": 2461
+    },
+    {
+      "from": 33676,
+      "dur": 897,
+      "clip": 3169
+    },
+    {
+      "from": 35914,
+      "dur": 1046,
+      "clip": 4066
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 2,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 242,
+      "dur": 299,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s01.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 541,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s01.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 725,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 860,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2033,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2395,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2621,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2806,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3915,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4190,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s07.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4520,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s07.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4625,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s08.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4717,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s09.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4912,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s10.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5067,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s11.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5539,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s12.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5704,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s13.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6039,
+      "dur": 315,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s26.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6354,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s14.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6563,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s15.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6949,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s18.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7140,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s16.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7252,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s17.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7679,
+      "dur": 299,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s17.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7978,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s19.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8358,
+      "dur": 296,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s19.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8654,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s20.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8719,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s21.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8884,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s84.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9218,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s22.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9413,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s23.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9641,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s24.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9839,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s25.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10213,
+      "dur": 324,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s25.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10537,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s27.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11568,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s28.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11723,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s29.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11858,
+      "dur": 278,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s30.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12376,
+      "dur": 280,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s30.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12656,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s31.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12877,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s32.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12950,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s33.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13126,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s34.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13477,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s34.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13739,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s35.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13919,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s36.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14130,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s37.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14628,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s37.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14744,
+      "dur": 292,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s38.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15036,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s39.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15559,
+      "dur": 374,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s39.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15933,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s40.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16025,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s41.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16381,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s41.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16622,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s42.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16748,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s43.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17180,
+      "dur": 368,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s43.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17548,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s44.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17750,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s45.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17911,
+      "dur": 259,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s46.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18170,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s47.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18279,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s48.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18444,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s49.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18604,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s50.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18802,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s51.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18937,
+      "dur": 245,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s52.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19182,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s53.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19346,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s54.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19690,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s54.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19807,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s55.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20028,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s56.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20101,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s57.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20281,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s58.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20503,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s59.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20797,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s59.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21014,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s60.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21181,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s61.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21371,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s62.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21480,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s63.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21837,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s63.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22033,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s64.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22202,
+      "dur": 205,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s65.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22407,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s66.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22553,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s67.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22940,
+      "dur": 348,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s67.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23996,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s68.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24178,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s69.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24605,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s69.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24775,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s70.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24983,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s71.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25177,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s72.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25601,
+      "dur": 290,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s72.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25891,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s73.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26126,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s74.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26312,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s75.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26462,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s76.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26782,
+      "dur": 312,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s76.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27094,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s77.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27269,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s78.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27356,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s79.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27577,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s80.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27698,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s81.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28078,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s81.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28408,
+      "dur": 52,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s81.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28460,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s82.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28722,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s83.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29052,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s83.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29205,
+      "dur": 242,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s85.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29657,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s85.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29906,
+      "dur": 281,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s86.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30187,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s87.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30313,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s88.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30514,
+      "dur": 205,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s89.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30959,
+      "dur": 284,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s89.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31243,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s90.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31453,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s91.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31681,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s92.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32080,
+      "dur": 326,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s92.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32406,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s93.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32593,
+      "dur": 245,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s94.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33048,
+      "dur": 298,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s94.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33346,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s95.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33521,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s96.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34573,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s97.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 34705,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s98.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 35214,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s98.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 35413,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s99.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 35585,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s100.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 36960,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/ines-truco-con-agua_s100.png",
+      "kb": 3,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 1044,
+      "dur": 180,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "HUERTA REAL",
+        "title": "Inés",
+        "sub": "Huerta en balcón, consejos reales"
+      }
+    },
+    {
+      "from": 3215,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 3672,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 4410,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "OXIDANTE SUAVE",
+        "sub": "incomoda hongos y plagas blandas",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 5567,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CUERPO BLANDO",
+        "sub": "pulgón y mosca blanca",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 12877,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PREPARACIÓN",
+        "title": "Cómo diluirla sin quemar"
+      }
+    },
+    {
+      "from": 13544,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "NUNCA MÁS FUERTE",
+        "sub": "quema el tejido vegetal",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 13544,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "nunca uses agua oxigenada de alta concentración",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 16025,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "no apliques a pleno sol del mediodía",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 16748,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERRORES",
+        "title": "Los 5 errores más comunes"
+      }
+    },
+    {
+      "from": 17353,
+      "dur": 105,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 2,
+        "text": "Aplicar sin diluir"
+      }
+    },
+    {
+      "from": 17750,
+      "dur": 105,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 3,
+        "text": "Una sola aplicación basta"
+      }
+    },
+    {
+      "from": 17911,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CADA 3-4 DÍAS",
+        "sub": "repetir durante 2 semanas",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 18444,
+      "dur": 105,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 4,
+        "text": "No probar antes en una hoja"
+      }
+    },
+    {
+      "from": 18604,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "PRUEBA SIEMPRE ANTES",
+        "sub": "una hoja, espera un día completo",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 18937,
+      "dur": 105,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 5,
+        "text": "Ignorar la causa de fondo"
+      }
+    },
+    {
+      "from": 20028,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "¿Qué tiene tu planta?"
+      }
+    },
+    {
+      "from": 21014,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SE DESHACE",
+        "sub": "señal de cochinilla",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 23862,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 23988,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PLAN",
+        "title": "4 semanas paso a paso"
+      }
+    },
+    {
+      "from": 28722,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LÍMITES",
+        "title": "Lo que no puede hacer"
+      }
+    },
+    {
+      "from": 30187,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CLIMA",
+        "title": "Humedad, sequía y comestibles"
+      }
+    },
+    {
+      "from": 31681,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SIN RESIDUOS",
+        "sub": "se descompone rápido",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 35413,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CIERRE",
+        "title": "Resumen y último consejo"
+      }
+    },
+    {
+      "from": 36175,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 37006,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_ines.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Huerta Real",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 2,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PROBLEMA",
+        "phrase": "¿Algodón blanco o manchas raras en tus hojas?",
+        "accent": "Algodón blanco",
+        "src": "img/ines-truco-con-agua_s01.png"
+      }
+    },
+    {
+      "from": 2155,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Hoy vas a aprender",
+        "items": [
+          "Qué resuelve el agua oxigenada",
+          "Cómo diluirla sin quemar hojas",
+          "Los errores más comunes",
+          "Qué cosas no va a solucionar"
+        ]
+      }
+    },
+    {
+      "from": 3980,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Es solo un desinfectante de heridas",
+        "truth": "También libera oxígeno útil para la planta"
+      }
+    },
+    {
+      "from": 5269,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LO QUE VAS A VER",
+        "title": "Las primeras 3 razones",
+        "steps": [
+          {
+            "title": "Pulgón y mosca blanca",
+            "sub": "cuerpo blando, más sensibles"
+          },
+          {
+            "title": "Cochinilla algodonosa",
+            "sub": "necesita jabón potásico"
+          },
+          {
+            "title": "Oidio",
+            "sub": "polvo blanco en las hojas"
+          }
+        ]
+      }
+    },
+    {
+      "from": 5859,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "phrase": "Ataca temprano, cuando recién empieza la infestación",
+        "accent": "ataca temprano",
+        "src": "img/ines-truco-con-agua_s13.png"
+      }
+    },
+    {
+      "from": 6709,
+      "dur": 240,
+      "comp": "CalendarioSiembra",
+      "props": {
+        "theme": "earth",
+        "title": "¿Cuándo sembrar?",
+        "crop": "Tomate cherry en maceta",
+        "sow": [
+          9,
+          10,
+          11
+        ],
+        "harvest": [
+          1,
+          2,
+          3
+        ],
+        "note": "Vigila el envés por pulgón"
+      }
+    },
+    {
+      "from": 7439,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Cochinilla algodonosa",
+        "left": {
+          "label": "Agua oxigenada sola",
+          "sub": "no penetra la capa cerosa"
+        },
+        "right": {
+          "label": "+ jabón potásico",
+          "sub": "rompe la cera y actúa"
+        }
+      }
+    },
+    {
+      "from": 8148,
+      "dur": 210,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CUÁNDO YA NO ALCANZA",
+        "value": 50,
+        "max": 100,
+        "suffix": "%",
+        "label": "follaje afectado: el límite para que ayude"
+      }
+    },
+    {
+      "from": 8978,
+      "dur": 240,
+      "comp": "CalendarioSiembra",
+      "props": {
+        "theme": "earth",
+        "title": "¿Cuándo sembrar?",
+        "crop": "Calabacín en maceta",
+        "sow": [
+          8,
+          9,
+          10
+        ],
+        "harvest": [
+          11,
+          12,
+          1
+        ],
+        "note": "Cuidado con el oidio en meses húmedos"
+      }
+    },
+    {
+      "from": 10033,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 4",
+        "phrase": "Desinfecta tijeras entre planta y planta",
+        "accent": "entre planta y planta",
+        "src": "img/ines-truco-con-agua_s25.png"
+      }
+    },
+    {
+      "from": 10764,
+      "dur": 227,
+      "comp": "CrecimientoPlanta",
+      "props": {
+        "theme": "earth",
+        "title": "De semilla a brote",
+        "stages": [
+          {
+            "label": "SEMILLA",
+            "sub": "cáscara dura"
+          },
+          {
+            "label": "REMOJO",
+            "sub": "agua oxigenada diluida"
+          },
+          {
+            "label": "BROTE",
+            "sub": "un par de días antes"
+          }
+        ]
+      }
+    },
+    {
+      "from": 12136,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Se puede salvar la raíz?",
+        "left": {
+          "label": "Daño leve",
+          "sub": "el oxígeno puede dar un respiro"
+        },
+        "right": {
+          "label": "Raíz negra y blanda",
+          "sub": "el daño ya no se revierte"
+        }
+      }
+    },
+    {
+      "from": 13267,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LO QUE USAMOS",
+        "value": 3,
+        "prefix": "",
+        "suffix": "%",
+        "label": "concentración del agua oxigenada de farmacia"
+      }
+    },
+    {
+      "from": 14358,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Dosis según el uso",
+        "items": [
+          "Pulgón y mosca blanca: 1 cda/litro",
+          "Oidio: media cucharada por litro",
+          "Herramientas: casi sin diluir",
+          "Riego de apoyo: 1 cdita/litro"
+        ]
+      }
+    },
+    {
+      "from": 15289,
+      "dur": 270,
+      "comp": "Barras3D",
+      "props": {
+        "theme": "earth",
+        "title": "Dosis según el problema",
+        "items": [
+          {
+            "label": "Pulgón",
+            "value": 1
+          },
+          {
+            "label": "Oidio",
+            "value": 0.5
+          },
+          {
+            "label": "Riego apoyo",
+            "value": 0.33
+          }
+        ],
+        "unidad": "cucharadas por litro",
+        "destacar": 0,
+        "note": "Siempre con agua oxigenada de 3%"
+      }
+    },
+    {
+      "from": 16141,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Cuándo aplicar?",
+        "left": {
+          "label": "Mañana o atardecer",
+          "sub": "luz suave, planta fresca"
+        },
+        "right": {
+          "label": "Sol de mediodía",
+          "sub": "riesgo de quemaduras"
+        }
+      }
+    },
+    {
+      "from": 16970,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Más concentración funciona más rápido",
+        "truth": "Solo quema las hojas y crea otro problema"
+      }
+    },
+    {
+      "from": 19450,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "La causa de fondo",
+        "left": {
+          "label": "Solo agua oxigenada",
+          "sub": "frena los síntomas"
+        },
+        "right": {
+          "label": "Ventilación y riego correcto",
+          "sub": "ataca la causa real"
+        }
+      }
+    },
+    {
+      "from": 20617,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "phrase": "Pulgón: una cucharada por litro, aplicada temprano",
+        "accent": "una cucharada por litro",
+        "src": "img/ines-truco-con-agua_s59.png"
+      }
+    },
+    {
+      "from": 21597,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Si ves oidio, revisa esto",
+        "items": [
+          "Polvo blanco grisáceo en las hojas",
+          "Mejora la ventilación",
+          "Espacia las macetas",
+          "Evita mojar las hojas al regar"
+        ]
+      }
+    },
+    {
+      "from": 22700,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Plaga, hongo o sol?",
+        "left": {
+          "label": "Manchas marrones y definidas",
+          "sub": "en el lado más soleado: quemadura"
+        },
+        "right": {
+          "label": "Polvo o puntitos que se mueven",
+          "sub": "plaga u hongo real"
+        }
+      }
+    },
+    {
+      "from": 24305,
+      "dur": 300,
+      "comp": "Timeline",
+      "props": {
+        "theme": "earth",
+        "title": "Plan de 4 semanas",
+        "steps": [
+          {
+            "when": "Semana 1",
+            "text": "Diagnóstico y limpieza de herramientas"
+          },
+          {
+            "when": "Semana 2",
+            "text": "Primera pulverización diluida"
+          },
+          {
+            "when": "Semana 3",
+            "text": "Repetir y mejorar el entorno"
+          },
+          {
+            "when": "Semana 4",
+            "text": "Evaluar resultados y ajustar"
+          }
+        ]
+      }
+    },
+    {
+      "from": 25361,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Semana 2: primera aplicación",
+        "items": [
+          "Pulgón: 1 cda/litro cada 3 días",
+          "Oidio: media cucharada por litro",
+          "Espacia las macetas juntas",
+          "Anota cómo reacciona la planta"
+        ]
+      }
+    },
+    {
+      "from": 26602,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SEMANA 3",
+        "phrase": "Mejora el entorno: ventilación, luz y riego",
+        "accent": "ventilación, luz y riego",
+        "src": "img/ines-truco-con-agua_s76.png"
+      }
+    },
+    {
+      "from": 27868,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "MANTENIMIENTO",
+        "value": 10,
+        "prefix": "",
+        "suffix": "-15 días",
+        "label": "frecuencia preventiva en meses cálidos"
+      }
+    },
+    {
+      "from": 29447,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Es la bala de plata que resuelve todo",
+        "truth": "Es un truco casero, útil y de bajo costo"
+      }
+    },
+    {
+      "from": 30719,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "El clima también influye",
+        "left": {
+          "label": "Zonas húmedas",
+          "sub": "más oidio y moho gris"
+        },
+        "right": {
+          "label": "Zonas secas y calurosas",
+          "sub": "más pulgón y araña roja"
+        }
+      }
+    },
+    {
+      "from": 31870,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "¿Sirve en plantas comestibles?",
+        "items": [
+          "Se descompone en agua y oxígeno",
+          "Sin residuos tóxicos",
+          "Lava hojas y frutos antes de comer"
+        ]
+      }
+    },
+    {
+      "from": 32838,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "IDEA CENTRAL",
+        "phrase": "Una herramienta más, simple y económica",
+        "accent": "una herramienta más",
+        "src": "img/ines-truco-con-agua_s94.png"
+      }
+    },
+    {
+      "from": 34944,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Las claves para que funcione",
+        "items": [
+          "Diluir bien, nunca más fuerte",
+          "Aplicar temprano o al atardecer",
+          "Probar antes en una zona chica",
+          "Repetir durante 2 o 3 semanas"
+        ]
+      }
+    },
+    {
+      "from": 35806,
+      "dur": 108,
+      "comp": "CrecimientoPlanta",
+      "props": {
+        "theme": "earth",
+        "title": "De semilla a cosecha",
+        "stages": [
+          {
+            "label": "SEMILLA",
+            "sub": "día 0"
+          },
+          {
+            "label": "PRIMERAS HOJAS",
+            "sub": "con cuidado constante"
+          },
+          {
+            "label": "FLORACIÓN",
+            "sub": "planta fuerte y sana"
+          },
+          {
+            "label": "COSECHA",
+            "sub": "el resultado de cuidar bien"
+          }
+        ]
+      }
+    }
+  ]
+}
