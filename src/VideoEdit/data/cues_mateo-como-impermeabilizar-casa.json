@@ -1,0 +1,3216 @@
+{
+  "slug": "mateo-como-impermeabilizar-casa",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 90505,
+  "audioSrc": "mateo-como-impermeabilizar-casa.mp3",
+  "avatarSrc": "mateo-como-impermeabilizar-casa_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 0,
+      "dur": 1066,
+      "clip": 0,
+      "zoom": 1
+    },
+    {
+      "from": 4554,
+      "dur": 393,
+      "clip": 1066,
+      "zoom": 1.16
+    },
+    {
+      "from": 5293,
+      "dur": 254,
+      "clip": 1459,
+      "zoom": 1.06
+    },
+    {
+      "from": 15798,
+      "dur": 254,
+      "clip": 1713,
+      "zoom": 1.22
+    },
+    {
+      "from": 18314,
+      "dur": 181,
+      "clip": 1967,
+      "zoom": 1.1
+    },
+    {
+      "from": 27676,
+      "dur": 254,
+      "clip": 2148,
+      "zoom": 1.18
+    },
+    {
+      "from": 32832,
+      "dur": 254,
+      "clip": 2402,
+      "zoom": 1
+    },
+    {
+      "from": 34622,
+      "dur": 555,
+      "clip": 2656,
+      "zoom": 1.16
+    },
+    {
+      "from": 41754,
+      "dur": 246,
+      "clip": 3211,
+      "zoom": 1.06
+    },
+    {
+      "from": 47938,
+      "dur": 254,
+      "clip": 3457,
+      "zoom": 1.22
+    },
+    {
+      "from": 53768,
+      "dur": 254,
+      "clip": 3711,
+      "zoom": 1.1
+    },
+    {
+      "from": 58721,
+      "dur": 227,
+      "clip": 3965,
+      "zoom": 1.18
+    },
+    {
+      "from": 62416,
+      "dur": 254,
+      "clip": 4192,
+      "zoom": 1
+    },
+    {
+      "from": 67432,
+      "dur": 254,
+      "clip": 4446,
+      "zoom": 1.16
+    },
+    {
+      "from": 70991,
+      "dur": 254,
+      "clip": 4700,
+      "zoom": 1.06
+    },
+    {
+      "from": 77392,
+      "dur": 296,
+      "clip": 4954,
+      "zoom": 1.22
+    },
+    {
+      "from": 80570,
+      "dur": 450,
+      "clip": 5250,
+      "zoom": 1.1
+    }
+  ],
+  "broll": [],
+  "overlays": [
+    {
+      "from": 4,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PARTE 1",
+        "title": "Por qué entra el agua"
+      }
+    },
+    {
+      "from": 4554,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PARTE 17",
+        "title": "Repaso Final"
+      }
+    },
+    {
+      "from": 4554,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PARTE 18",
+        "title": "Tu Turno"
+      }
+    },
+    {
+      "from": 4554,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 4622,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 4665,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 5293,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PARTE 2",
+        "title": "Las tres causas del agua"
+      }
+    },
+    {
+      "from": 15798,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PARTE 3",
+        "title": "Herramientas que vas a necesitar"
+      }
+    },
+    {
+      "from": 18314,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PARTE 4",
+        "title": "Arreglos del techo"
+      }
+    },
+    {
+      "from": 27676,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PARTE 5",
+        "title": "Canaletas y terrazas"
+      }
+    },
+    {
+      "from": 32832,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PARTE 6",
+        "title": "Calculando los materiales"
+      }
+    },
+    {
+      "from": 34622,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 34964,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PARTE 7",
+        "title": "Paredes exteriores"
+      }
+    },
+    {
+      "from": 41754,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PARTE 8",
+        "title": "Humedad por Capilaridad"
+      }
+    },
+    {
+      "from": 47938,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PARTE 9",
+        "title": "Baño y Ducha"
+      }
+    },
+    {
+      "from": 53768,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PARTE 10",
+        "title": "Cañerías que Pierden"
+      }
+    },
+    {
+      "from": 58721,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PARTE 11",
+        "title": "Materiales baratos o caros"
+      }
+    },
+    {
+      "from": 62416,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PARTE 12",
+        "title": "Errores que se repiten"
+      }
+    },
+    {
+      "from": 67432,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PARTE 13",
+        "title": "Casos particulares"
+      }
+    },
+    {
+      "from": 70991,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PARTE 14",
+        "title": "Plan por prioridades"
+      }
+    },
+    {
+      "from": 77392,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PARTE 15",
+        "title": "Biblioteca del Maestro"
+      }
+    },
+    {
+      "from": 77392,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 80570,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 80797,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PARTE 16",
+        "title": "Preguntas frecuentes"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 1066,
+      "dur": 391,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "La pared que se descascara",
+        "kicker": "Por dentro de la pared",
+        "problema": "humedad"
+      }
+    },
+    {
+      "from": 1457,
+      "dur": 282,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "La pregunta que cambia todo",
+        "kicker": "Paso a paso",
+        "base": "pared",
+        "capas": [
+          {
+            "label": "Observar la mancha"
+          },
+          {
+            "label": "Diagnosticar la causa"
+          }
+        ]
+      }
+    },
+    {
+      "from": 1739,
+      "dur": 354,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "La mancha que sube, no baja",
+        "kicker": "Superficie",
+        "superficie": "porosa"
+      }
+    },
+    {
+      "from": 2093,
+      "dur": 308,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Era capilaridad, no gotera",
+        "kicker": "Por dentro de la pared",
+        "problema": "humedad"
+      }
+    },
+    {
+      "from": 2401,
+      "dur": 288,
+      "comp": "Barras3D",
+      "props": {
+        "theme": "earth",
+        "title": "Tres repintes en cuatro años",
+        "items": [
+          {
+            "label": "Repintes",
+            "value": 3
+          },
+          {
+            "label": "Años",
+            "value": 4
+          }
+        ],
+        "unidad": "total"
+      }
+    },
+    {
+      "from": 2689,
+      "dur": 405,
+      "comp": "Techo3D",
+      "props": {
+        "theme": "earth",
+        "title": "No todas las humedades son iguales",
+        "kicker": "Dentro de tu techo",
+        "estado": "filtra"
+      }
+    },
+    {
+      "from": 3094,
+      "dur": 362,
+      "comp": "Bano3D",
+      "props": {
+        "theme": "earth",
+        "title": "Sellar bien un baño y ducha",
+        "kicker": "Por dentro de la ducha",
+        "estado": "filtra"
+      }
+    },
+    {
+      "from": 3456,
+      "dur": 278,
+      "comp": "Cano3D",
+      "props": {
+        "theme": "earth",
+        "title": "La cañería que pierde",
+        "kicker": "Dentro del caño",
+        "obstruccion": 50,
+        "etiqueta": "Pérdida",
+        "fluido": "Agua"
+      }
+    },
+    {
+      "from": 3734,
+      "dur": 227,
+      "comp": "Barras3D",
+      "props": {
+        "theme": "earth",
+        "title": "Varias causas al mismo tiempo",
+        "items": [
+          {
+            "label": "Causas posibles",
+            "value": 3
+          },
+          {
+            "label": "A la vez",
+            "value": 2
+          }
+        ],
+        "unidad": "causas"
+      }
+    },
+    {
+      "from": 3961,
+      "dur": 593,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Varios frentes a la vez",
+        "kicker": "Por dentro de la pared",
+        "problema": "humedad",
+        "note": "Hay que elegir qué atacar primero"
+      }
+    },
+    {
+      "from": 4947,
+      "dur": 346,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Moho que vuelve siempre",
+        "kicker": "Esquina del baño",
+        "problema": "moho",
+        "etiqueta": "Cada invierno"
+      }
+    },
+    {
+      "from": 5547,
+      "dur": 353,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "Confundir la causa sale caro",
+        "kicker": "Superficie",
+        "superficie": "porosa"
+      }
+    },
+    {
+      "from": 5900,
+      "dur": 229,
+      "comp": "Techo3D",
+      "props": {
+        "theme": "earth",
+        "title": "Qué pasa dentro de la losa",
+        "kicker": "Dentro de tu techo",
+        "estado": "filtra"
+      }
+    },
+    {
+      "from": 6129,
+      "dur": 296,
+      "comp": "Cano3D",
+      "props": {
+        "theme": "earth",
+        "title": "Y dentro del caño también",
+        "kicker": "Dentro del caño",
+        "obstruccion": 30,
+        "fluido": "Agua"
+      }
+    },
+    {
+      "from": 6425,
+      "dur": 299,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "La capilaridad, primera causa",
+        "kicker": "Por dentro de la pared",
+        "problema": "humedad"
+      }
+    },
+    {
+      "from": 6724,
+      "dur": 325,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "El agua sube, no cae",
+        "kicker": "Superficie",
+        "superficie": "porosa"
+      }
+    },
+    {
+      "from": 7049,
+      "dur": 299,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "La pared funciona como mecha",
+        "kicker": "Por dentro de la pared",
+        "problema": "humedad"
+      }
+    },
+    {
+      "from": 7348,
+      "dur": 223,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "Así sube el agua por poros",
+        "kicker": "Superficie",
+        "superficie": "porosa"
+      }
+    },
+    {
+      "from": 7571,
+      "dur": 284,
+      "comp": "Barras3D",
+      "props": {
+        "theme": "earth",
+        "title": "Hasta dónde sube la humedad",
+        "items": [
+          {
+            "label": "Mínimo",
+            "value": 60
+          },
+          {
+            "label": "Máximo",
+            "value": 120
+          }
+        ],
+        "unidad": "cm",
+        "destacar": 1
+      }
+    },
+    {
+      "from": 7855,
+      "dur": 309,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "La franja horizontal cerca del piso",
+        "kicker": "Por dentro de la pared",
+        "problema": "humedad"
+      }
+    },
+    {
+      "from": 8164,
+      "dur": 438,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "El polvo blanco que deja",
+        "kicker": "Superficie",
+        "superficie": "porosa",
+        "etiqueta": "Salitre"
+      }
+    },
+    {
+      "from": 8602,
+      "dur": 371,
+      "comp": "Techo3D",
+      "props": {
+        "theme": "earth",
+        "title": "La filtración por una grieta",
+        "kicker": "Dentro de tu techo",
+        "estado": "filtra"
+      }
+    },
+    {
+      "from": 8973,
+      "dur": 277,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "Un agujero diminuto que filtra",
+        "kicker": "Superficie",
+        "superficie": "porosa"
+      }
+    },
+    {
+      "from": 9250,
+      "dur": 168,
+      "comp": "Techo3D",
+      "props": {
+        "theme": "earth",
+        "title": "El hierro que oxida por dentro",
+        "kicker": "Dentro de tu techo",
+        "estado": "filtra",
+        "etiqueta": "Hierros oxidados"
+      }
+    },
+    {
+      "from": 9418,
+      "dur": 203,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "El óxido abre la fisura",
+        "kicker": "Paso a paso",
+        "base": "losa",
+        "capas": [
+          {
+            "label": "Hierro"
+          },
+          {
+            "label": "Óxido"
+          },
+          {
+            "label": "Fisura"
+          }
+        ]
+      }
+    },
+    {
+      "from": 9621,
+      "dur": 267,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Un círculo que empeora solo",
+        "kicker": "Por dentro de la pared",
+        "problema": "grieta"
+      }
+    },
+    {
+      "from": 9888,
+      "dur": 291,
+      "comp": "Techo3D",
+      "props": {
+        "theme": "earth",
+        "title": "La mancha que aparece con lluvia",
+        "kicker": "Dentro de tu techo",
+        "estado": "filtra"
+      }
+    },
+    {
+      "from": 10179,
+      "dur": 449,
+      "comp": "Cano3D",
+      "props": {
+        "theme": "earth",
+        "title": "El goteo dentro de la pared",
+        "kicker": "Dentro del caño",
+        "obstruccion": 20,
+        "fluido": "Agua de lluvia",
+        "etiqueta": "Goteo oculto"
+      }
+    },
+    {
+      "from": 10628,
+      "dur": 468,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "El vapor se vuelve gota",
+        "kicker": "Superficie",
+        "superficie": "sellada"
+      }
+    },
+    {
+      "from": 11096,
+      "dur": 318,
+      "comp": "Techo3D",
+      "props": {
+        "theme": "earth",
+        "title": "El techo mal aislado que suda",
+        "kicker": "Dentro de tu techo",
+        "estado": "filtra"
+      }
+    },
+    {
+      "from": 11414,
+      "dur": 258,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "El punto más frío de pared",
+        "kicker": "Superficie",
+        "superficie": "sellada",
+        "etiqueta": "Puente térmico"
+      }
+    },
+    {
+      "from": 11672,
+      "dur": 268,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "La esquina con dos caras frías",
+        "kicker": "Por dentro de la pared",
+        "problema": "humedad"
+      }
+    },
+    {
+      "from": 11940,
+      "dur": 279,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "Dónde choca el aire caliente",
+        "kicker": "Paso a paso",
+        "base": "pared",
+        "capas": [
+          {
+            "label": "Aire caliente"
+          },
+          {
+            "label": "Superficie fría"
+          },
+          {
+            "label": "Condensación"
+          }
+        ]
+      }
+    },
+    {
+      "from": 12219,
+      "dur": 355,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "El moho sale en esquinas",
+        "kicker": "Por dentro de la pared",
+        "problema": "moho"
+      }
+    },
+    {
+      "from": 12574,
+      "dur": 467,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "¿Tiene ese polvo blanco?",
+        "kicker": "Superficie",
+        "superficie": "porosa",
+        "etiqueta": "Salitre"
+      }
+    },
+    {
+      "from": 13041,
+      "dur": 303,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Manchas con forma irregular",
+        "kicker": "Señales en la pared",
+        "problema": "humedad",
+        "note": "Como un mapa en la pared"
+      }
+    },
+    {
+      "from": 13344,
+      "dur": 296,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "Por qué vuelve el moho",
+        "kicker": "Superficie poroso",
+        "superficie": "porosa",
+        "note": "La porosidad retiene la humedad"
+      }
+    },
+    {
+      "from": 13640,
+      "dur": 404,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Varias humedades en la casa",
+        "kicker": "Cada una por separado",
+        "problema": "salitre",
+        "note": "No hay un solo arreglo para todas"
+      }
+    },
+    {
+      "from": 14044,
+      "dur": 215,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "Afinar el diagnóstico de humedad",
+        "kicker": "Antes de la prueba",
+        "superficie": "porosa",
+        "note": "Un dato más antes de decidir"
+      }
+    },
+    {
+      "from": 14259,
+      "dur": 469,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "Prueba con papel aluminio",
+        "kicker": "Paso a paso",
+        "base": "pared",
+        "capas": [
+          {
+            "label": "Papel aluminio"
+          },
+          {
+            "label": "Sellar bordes"
+          },
+          {
+            "label": "24 horas"
+          }
+        ]
+      }
+    },
+    {
+      "from": 14728,
+      "dur": 339,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Humedad pegada al muro",
+        "kicker": "Viene de adentro",
+        "problema": "humedad",
+        "note": "Capilaridad o filtración"
+      }
+    },
+    {
+      "from": 15067,
+      "dur": 337,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "Condensación del aire interior",
+        "kicker": "Superficie",
+        "superficie": "porosa",
+        "note": "El aire húmedo se condensa"
+      }
+    },
+    {
+      "from": 15404,
+      "dur": 394,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Medidor de humedad en pared",
+        "kicker": "Dos puntitas en el revoque",
+        "problema": "humedad",
+        "note": "Da un número de referencia"
+      }
+    },
+    {
+      "from": 16052,
+      "dur": 535,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "Espátula para raspar revoque",
+        "kicker": "Herramientas básicas",
+        "base": "pared",
+        "capas": [
+          {
+            "label": "Raspar revoque"
+          },
+          {
+            "label": "Aplicar mortero"
+          }
+        ]
+      }
+    },
+    {
+      "from": 16587,
+      "dur": 332,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "Limpiar antes de impermeabilizar",
+        "kicker": "Preparar la superficie",
+        "superficie": "porosa",
+        "note": "El cepillo deja la superficie lista"
+      }
+    },
+    {
+      "from": 16919,
+      "dur": 354,
+      "comp": "Techo3D",
+      "props": {
+        "theme": "earth",
+        "title": "Calzado antideslizante en el techo",
+        "kicker": "Seguridad al trabajar",
+        "estado": "sellado",
+        "capas": [],
+        "note": "El agua de prueba resbala"
+      }
+    },
+    {
+      "from": 17273,
+      "dur": 184,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Inyección contra la capilaridad",
+        "kicker": "Herramientas especiales",
+        "problema": "humedad",
+        "note": "Taladro con mecha ancha"
+      }
+    },
+    {
+      "from": 17457,
+      "dur": 355,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "La terraza recibe de todo",
+        "kicker": "Superficie",
+        "superficie": "porosa",
+        "etiqueta": "Terraza expuesta"
+      }
+    },
+    {
+      "from": 17812,
+      "dur": 502,
+      "comp": "Cano3D",
+      "props": {
+        "theme": "earth",
+        "title": "Detectar caños antes de romper",
+        "kicker": "Dentro de la pared",
+        "obstruccion": 10,
+        "etiqueta": "Caño oculto",
+        "fluido": "Agua de la instalación",
+        "note": "Evita romper en el lugar equivocado"
+      }
+    },
+    {
+      "from": 18495,
+      "dur": 695,
+      "comp": "Techo3D",
+      "props": {
+        "theme": "earth",
+        "title": "Fisura y pendiente insuficiente",
+        "kicker": "El enemigo del techo",
+        "estado": "filtra",
+        "capas": [],
+        "note": "El agua no tiene por dónde escurrir"
+      }
+    },
+    {
+      "from": 19190,
+      "dur": 502,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "Agua estancada: las babosas",
+        "kicker": "Superficie del techo",
+        "superficie": "porosa",
+        "note": "El sol y el frío la fatigan"
+      }
+    },
+    {
+      "from": 19692,
+      "dur": 490,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "Revisar la pendiente real",
+        "kicker": "Primer paso",
+        "base": "losa",
+        "capas": [
+          {
+            "label": "Tirar agua con manguera"
+          },
+          {
+            "label": "Observar hacia dónde corre"
+          }
+        ]
+      }
+    },
+    {
+      "from": 20182,
+      "dur": 301,
+      "comp": "Techo3D",
+      "props": {
+        "theme": "earth",
+        "title": "Corregir la pendiente con mortero",
+        "kicker": "Antes de impermeabilizar",
+        "estado": "sellado",
+        "capas": [
+          "Carpeta de mortero"
+        ],
+        "note": "Caída mínima hacia el desagüe"
+      }
+    },
+    {
+      "from": 20483,
+      "dur": 487,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "La pendiente ya está resuelta",
+        "kicker": "Lista para impermeabilizar",
+        "superficie": "sellada",
+        "note": "El agua escurre sin estancarse"
+      }
+    },
+    {
+      "from": 20970,
+      "dur": 390,
+      "comp": "Techo3D",
+      "props": {
+        "theme": "earth",
+        "title": "Dos manos cruzadas",
+        "kicker": "Aplicación de la membrana",
+        "estado": "sellado",
+        "capas": [
+          "1.ª mano",
+          "2.ª mano"
+        ],
+        "note": "La segunda, perpendicular a la primera"
+      }
+    },
+    {
+      "from": 21360,
+      "dur": 618,
+      "comp": "Barras3D",
+      "props": {
+        "theme": "earth",
+        "title": "Tiempo de secado según clima",
+        "kicker": "Entre manos",
+        "items": [
+          {
+            "label": "Clima cálido",
+            "value": 4
+          },
+          {
+            "label": "Clima frío",
+            "value": 8
+          }
+        ],
+        "unidad": "horas",
+        "destacar": 1
+      }
+    },
+    {
+      "from": 21978,
+      "dur": 514,
+      "comp": "Techo3D",
+      "props": {
+        "theme": "earth",
+        "title": "No mancha si es visible",
+        "kicker": "Ventaja de la acrílica",
+        "estado": "sellado",
+        "capas": [
+          "Membrana acrílica"
+        ],
+        "note": "Útil si el techo se ve desde abajo"
+      }
+    },
+    {
+      "from": 22492,
+      "dur": 400,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "La dilatación abre grietas",
+        "kicker": "Por dentro de la pared",
+        "problema": "grieta",
+        "etiqueta": "Dilatación térmica"
+      }
+    },
+    {
+      "from": 22892,
+      "dur": 246,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "Membrana vieja en buen estado",
+        "kicker": "Solo una fisura puntual",
+        "superficie": "sellada",
+        "note": "No hace falta sacar todo"
+      }
+    },
+    {
+      "from": 23138,
+      "dur": 351,
+      "comp": "Techo3D",
+      "props": {
+        "theme": "earth",
+        "title": "Reforzar sin obra completa",
+        "kicker": "Limpiar y parchar",
+        "estado": "sellado",
+        "capas": [
+          "Malla",
+          "Mano extra"
+        ],
+        "note": "Extiende la vida útil varios años"
+      }
+    },
+    {
+      "from": 23489,
+      "dur": 222,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "Membrana quebradiza con ampollas",
+        "kicker": "Cuándo levantarla toda",
+        "superficie": "porosa",
+        "note": "Se desarma al tocarla con el pie"
+      }
+    },
+    {
+      "from": 23711,
+      "dur": 743,
+      "comp": "Techo3D",
+      "props": {
+        "theme": "earth",
+        "title": "Levantar la membrana por completo",
+        "kicker": "Antes de la nueva",
+        "estado": "filtra",
+        "capas": [],
+        "note": "Tapar lo viejo no resuelve nada"
+      }
+    },
+    {
+      "from": 24454,
+      "dur": 756,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "Un parche, no lo definitivo",
+        "kicker": "Solo frena por horas",
+        "superficie": "sellada",
+        "note": "Hay que hacer el trabajo completo después"
+      }
+    },
+    {
+      "from": 25210,
+      "dur": 255,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "Tornillo sin arandela de goma",
+        "kicker": "Punto de entrada de agua",
+        "superficie": "sellada",
+        "note": "Pierde el sello con el sol"
+      }
+    },
+    {
+      "from": 25465,
+      "dur": 369,
+      "comp": "Techo3D",
+      "props": {
+        "theme": "earth",
+        "title": "Gota a gota cada lluvia",
+        "kicker": "Entrada constante de agua",
+        "estado": "filtra",
+        "capas": [],
+        "note": "Entra por el tornillo suelto"
+      }
+    },
+    {
+      "from": 25834,
+      "dur": 318,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "Óxido en la cabeza del tornillo",
+        "kicker": "Punto activo de filtración",
+        "superficie": "porosa",
+        "note": "No esperes a que gotee adentro"
+      }
+    },
+    {
+      "from": 26152,
+      "dur": 493,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "Marcar con tiza desde abajo",
+        "kicker": "Encontrar el punto exacto",
+        "base": "losa",
+        "capas": [
+          {
+            "label": "Marcar con tiza"
+          },
+          {
+            "label": "Subir a la zona"
+          }
+        ]
+      }
+    },
+    {
+      "from": 26645,
+      "dur": 696,
+      "comp": "Techo3D",
+      "props": {
+        "theme": "earth",
+        "title": "Sellar con silicona neutra",
+        "kicker": "Nunca cinta aisladora",
+        "estado": "sellado",
+        "capas": [
+          "Silicona neutra"
+        ],
+        "note": "Resiste la radiación solar"
+      }
+    },
+    {
+      "from": 27341,
+      "dur": 335,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "Más pendiente, más solape",
+        "kicker": "Ajustar según el techo",
+        "base": "losa",
+        "capas": [
+          {
+            "label": "Poca pendiente"
+          },
+          {
+            "label": "Solape mayor"
+          }
+        ]
+      }
+    },
+    {
+      "from": 27930,
+      "dur": 1374,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "El desborde daña la pared",
+        "kicker": "Por dentro de la pared",
+        "problema": "humedad",
+        "etiqueta": "Por canaletas tapadas"
+      }
+    },
+    {
+      "from": 29304,
+      "dur": 370,
+      "comp": "Techo3D",
+      "props": {
+        "theme": "earth",
+        "title": "Humedad fija bajo la maceta",
+        "kicker": "Dentro de tu techo",
+        "estado": "filtra",
+        "etiqueta": "Bajo la maceta"
+      }
+    },
+    {
+      "from": 29674,
+      "dur": 285,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "El resto del piso está seco",
+        "kicker": "Superficie",
+        "superficie": "sellada",
+        "etiqueta": "Lejos de la maceta"
+      }
+    },
+    {
+      "from": 29959,
+      "dur": 311,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "Por dónde filtran las juntas",
+        "kicker": "Paso a paso",
+        "base": "piso",
+        "capas": [
+          {
+            "label": "Baldosa"
+          },
+          {
+            "label": "Pastina"
+          },
+          {
+            "label": "Carpeta"
+          }
+        ]
+      }
+    },
+    {
+      "from": 30270,
+      "dur": 681,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "Pastina resellada repele agua",
+        "kicker": "Superficie",
+        "superficie": "sellada",
+        "etiqueta": "Pastina impermeable"
+      }
+    },
+    {
+      "from": 30951,
+      "dur": 197,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "Juntas de dilatación explicadas",
+        "kicker": "Paso a paso",
+        "base": "piso",
+        "capas": [
+          {
+            "label": "Corte"
+          },
+          {
+            "label": "Material elástico"
+          }
+        ]
+      }
+    },
+    {
+      "from": 31148,
+      "dur": 427,
+      "comp": "Barras3D",
+      "props": {
+        "theme": "earth",
+        "title": "Separación entre juntas",
+        "items": [
+          {
+            "label": "Separación mínima",
+            "value": 3
+          },
+          {
+            "label": "Separación máxima",
+            "value": 4
+          }
+        ],
+        "unidad": "metros"
+      }
+    },
+    {
+      "from": 31575,
+      "dur": 551,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Fisuras de origen térmico",
+        "kicker": "Por dentro de la pared",
+        "problema": "grieta",
+        "etiqueta": "Origen térmico"
+      }
+    },
+    {
+      "from": 32126,
+      "dur": 219,
+      "comp": "Cano3D",
+      "props": {
+        "theme": "earth",
+        "title": "Desagüe tapado acumula agua",
+        "kicker": "Dentro del caño",
+        "obstruccion": 55,
+        "etiqueta": "Hojas y tierra",
+        "fluido": "Agua acumulada"
+      }
+    },
+    {
+      "from": 32345,
+      "dur": 487,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "La mancha bajo el balcón",
+        "kicker": "Por dentro de la pared",
+        "problema": "humedad",
+        "etiqueta": "Por desagüe tapado"
+      }
+    },
+    {
+      "from": 33086,
+      "dur": 946,
+      "comp": "Techo3D",
+      "props": {
+        "theme": "earth",
+        "title": "Cuánta membrana necesitas",
+        "kicker": "Dentro de tu techo",
+        "estado": "sellado",
+        "capas": [
+          "Membrana"
+        ],
+        "etiqueta": "Baldes de membrana"
+      }
+    },
+    {
+      "from": 34032,
+      "dur": 398,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "Calculan pintura y mortero",
+        "kicker": "Superficie",
+        "superficie": "sellada",
+        "etiqueta": "Pintura y mortero"
+      }
+    },
+    {
+      "from": 34430,
+      "dur": 192,
+      "comp": "Cano3D",
+      "props": {
+        "theme": "earth",
+        "title": "El diámetro correcto de bajada",
+        "kicker": "Dentro del caño",
+        "obstruccion": 0,
+        "etiqueta": "Diámetro según techo",
+        "fluido": "Agua de lluvia"
+      }
+    },
+    {
+      "from": 35177,
+      "dur": 423,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "La pintura no frena capilaridad",
+        "kicker": "Por dentro de la pared",
+        "problema": "humedad",
+        "etiqueta": "Pintura no alcanza"
+      }
+    },
+    {
+      "from": 35600,
+      "dur": 230,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "Repele lluvia, no capilaridad",
+        "kicker": "Superficie",
+        "superficie": "sellada",
+        "etiqueta": "Repele lluvia"
+      }
+    },
+    {
+      "from": 35830,
+      "dur": 385,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Sellar grietas con sellador elástico",
+        "kicker": "Por dentro de la pared",
+        "problema": "grieta",
+        "etiqueta": "Sellador elástico"
+      }
+    },
+    {
+      "from": 36215,
+      "dur": 396,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "El orden correcto de la pared",
+        "kicker": "Paso a paso",
+        "base": "pared",
+        "capas": [
+          {
+            "label": "Sellar fisuras"
+          },
+          {
+            "label": "Impermeabilizante acrílico"
+          },
+          {
+            "label": "Pintura final"
+          }
+        ]
+      }
+    },
+    {
+      "from": 36611,
+      "dur": 338,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "La pintura protege del sol",
+        "kicker": "Superficie",
+        "superficie": "sellada",
+        "etiqueta": "Protección solar"
+      }
+    },
+    {
+      "from": 36949,
+      "dur": 556,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "La prueba de la uña",
+        "kicker": "Por dentro de la pared",
+        "problema": "grieta",
+        "etiqueta": "Prueba de la uña"
+      }
+    },
+    {
+      "from": 37505,
+      "dur": 506,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Grieta ancha, problema estructural",
+        "kicker": "Por dentro de la pared",
+        "problema": "grieta",
+        "etiqueta": "Grieta estructural"
+      }
+    },
+    {
+      "from": 38011,
+      "dur": 322,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "Cómo quitar el salitre",
+        "kicker": "Paso a paso",
+        "base": "pared",
+        "capas": [
+          {
+            "label": "Cepillado en seco"
+          },
+          {
+            "label": "Paño húmedo"
+          }
+        ]
+      }
+    },
+    {
+      "from": 38333,
+      "dur": 376,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "No empapar la pared",
+        "kicker": "Por dentro de la pared",
+        "problema": "salitre",
+        "etiqueta": "Sin empapar"
+      }
+    },
+    {
+      "from": 38709,
+      "dur": 323,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "La humedad tarda más al sur",
+        "kicker": "Superficie",
+        "superficie": "porosa",
+        "etiqueta": "Pared al sur"
+      }
+    },
+    {
+      "from": 39032,
+      "dur": 423,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "Tiempos de secado entre manos",
+        "kicker": "Paso a paso",
+        "base": "pared",
+        "capas": [
+          {
+            "label": "1.ª mano"
+          },
+          {
+            "label": "Tiempo de secado"
+          },
+          {
+            "label": "2.ª mano"
+          }
+        ]
+      }
+    },
+    {
+      "from": 39455,
+      "dur": 368,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "Pintar sobre humedad no funciona",
+        "kicker": "Superficie",
+        "superficie": "porosa",
+        "etiqueta": "Humedad activa"
+      }
+    },
+    {
+      "from": 39823,
+      "dur": 285,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "La pintura forma burbujas",
+        "kicker": "Por dentro de la pared",
+        "problema": "humedad",
+        "etiqueta": "Burbujas"
+      }
+    },
+    {
+      "from": 40108,
+      "dur": 375,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "La pared debe estar seca",
+        "kicker": "Superficie",
+        "superficie": "sellada",
+        "etiqueta": "Pared seca"
+      }
+    },
+    {
+      "from": 40483,
+      "dur": 417,
+      "comp": "Barras3D",
+      "props": {
+        "theme": "earth",
+        "title": "Cuánto tarda en secar",
+        "items": [
+          {
+            "label": "Zona cálida y seca",
+            "value": 3
+          },
+          {
+            "label": "Zona fría y húmeda",
+            "value": 7
+          }
+        ],
+        "unidad": "días",
+        "destacar": 1
+      }
+    },
+    {
+      "from": 40900,
+      "dur": 279,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "La condensación pide aislación",
+        "kicker": "Por dentro de la pared",
+        "problema": "humedad",
+        "etiqueta": "Condensación"
+      }
+    },
+    {
+      "from": 41179,
+      "dur": 240,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "Aislación corta la condensación",
+        "kicker": "Paso a paso",
+        "base": "pared",
+        "capas": [
+          {
+            "label": "Aislación térmica"
+          },
+          {
+            "label": "Revestimiento exterior"
+          }
+        ]
+      }
+    },
+    {
+      "from": 41419,
+      "dur": 335,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Una solución cara y definitiva",
+        "kicker": "Por dentro de la pared",
+        "problema": "humedad",
+        "etiqueta": "Solución definitiva"
+      }
+    },
+    {
+      "from": 42000,
+      "dur": 324,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Cómo sube el agua del suelo",
+        "kicker": "Por dentro de la pared",
+        "problema": "humedad",
+        "etiqueta": "Capilaridad pura"
+      }
+    },
+    {
+      "from": 42324,
+      "dur": 323,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "Barrera química inyectada",
+        "kicker": "Paso a paso",
+        "base": "pared",
+        "capas": [
+          {
+            "label": "Perforación"
+          },
+          {
+            "label": "Inyección"
+          },
+          {
+            "label": "Barrera formada"
+          }
+        ]
+      }
+    },
+    {
+      "from": 42647,
+      "dur": 629,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "El agua ya no sube",
+        "kicker": "Superficie",
+        "superficie": "sellada",
+        "etiqueta": "Barrera invisible"
+      }
+    },
+    {
+      "from": 43276,
+      "dur": 217,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Perforar e inyectar la pared",
+        "kicker": "Por dentro de la pared",
+        "problema": "humedad",
+        "etiqueta": "Máquina de inyección"
+      }
+    },
+    {
+      "from": 43493,
+      "dur": 431,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "El agua encuentra el hueco",
+        "kicker": "Superficie",
+        "superficie": "porosa",
+        "etiqueta": "Barrera incompleta"
+      }
+    },
+    {
+      "from": 43924,
+      "dur": 405,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "Barrera física con lámina",
+        "kicker": "Paso a paso",
+        "base": "pared",
+        "capas": [
+          {
+            "label": "Cimientos"
+          },
+          {
+            "label": "Lámina plástica"
+          },
+          {
+            "label": "Pared"
+          }
+        ]
+      }
+    },
+    {
+      "from": 44329,
+      "dur": 341,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Difícil en casa ya construida",
+        "kicker": "Por dentro de la pared",
+        "problema": "humedad",
+        "etiqueta": "Por tramos"
+      }
+    },
+    {
+      "from": 44670,
+      "dur": 174,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "Cómo revocar una pared húmeda",
+        "kicker": "Paso a paso",
+        "base": "pared",
+        "capas": [
+          {
+            "label": "Raspado"
+          },
+          {
+            "label": "Secado"
+          },
+          {
+            "label": "Revoque nuevo"
+          }
+        ]
+      }
+    },
+    {
+      "from": 44844,
+      "dur": 509,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "Dejar secar antes de revocar",
+        "kicker": "Superficie",
+        "superficie": "porosa",
+        "etiqueta": "Secado al aire"
+      }
+    },
+    {
+      "from": 45353,
+      "dur": 359,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "Mortero que deja respirar",
+        "kicker": "Paso a paso",
+        "base": "pared",
+        "capas": [
+          {
+            "label": "Mortero especial"
+          },
+          {
+            "label": "Vapor sale"
+          },
+          {
+            "label": "Agua frenada"
+          }
+        ]
+      }
+    },
+    {
+      "from": 45712,
+      "dur": 345,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Revocar sin dejar respirar",
+        "kicker": "Por dentro de la pared",
+        "problema": "humedad",
+        "etiqueta": "Mancha que reaparece"
+      }
+    },
+    {
+      "from": 46057,
+      "dur": 469,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "La humedad se acumula peor",
+        "kicker": "Superficie",
+        "superficie": "porosa",
+        "etiqueta": "Menos evaporación"
+      }
+    },
+    {
+      "from": 46526,
+      "dur": 432,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "La madera también se deteriora",
+        "kicker": "Por dentro de la pared",
+        "problema": "humedad",
+        "etiqueta": "Zócalo de madera"
+      }
+    },
+    {
+      "from": 46958,
+      "dur": 477,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "El deshumidificador no resuelve",
+        "kicker": "Superficie",
+        "superficie": "porosa",
+        "etiqueta": "Fuente: el suelo"
+      }
+    },
+    {
+      "from": 47435,
+      "dur": 223,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Baja la humedad ambiente",
+        "kicker": "Por dentro de la pared",
+        "problema": "humedad",
+        "etiqueta": "Ayuda temporal"
+      }
+    },
+    {
+      "from": 47658,
+      "dur": 280,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "Antes de gastar en un equipo",
+        "kicker": "Superficie",
+        "superficie": "porosa",
+        "etiqueta": "No una solución"
+      }
+    },
+    {
+      "from": 48192,
+      "dur": 592,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "Las juntas también fallan",
+        "kicker": "Superficie",
+        "superficie": "porosa",
+        "etiqueta": "Pastina envejecida"
+      }
+    },
+    {
+      "from": 48784,
+      "dur": 417,
+      "comp": "Barras3D",
+      "props": {
+        "theme": "earth",
+        "title": "Vida útil de la silicona",
+        "items": [
+          {
+            "label": "Mínimo",
+            "value": 2
+          },
+          {
+            "label": "Máximo",
+            "value": 4
+          }
+        ],
+        "unidad": "años",
+        "destacar": 1
+      }
+    },
+    {
+      "from": 49201,
+      "dur": 161,
+      "comp": "Bano3D",
+      "props": {
+        "theme": "earth",
+        "title": "El tono negruzco de la silicona",
+        "kicker": "Por dentro de la ducha",
+        "estado": "filtra",
+        "etiqueta": "Moho en junta"
+      }
+    },
+    {
+      "from": 49362,
+      "dur": 389,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "Cómo resellar una junta",
+        "kicker": "Paso a paso",
+        "base": "pared",
+        "capas": [
+          {
+            "label": "Retirar silicona"
+          },
+          {
+            "label": "Limpiar"
+          },
+          {
+            "label": "Silicona nueva"
+          }
+        ]
+      }
+    },
+    {
+      "from": 49751,
+      "dur": 478,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "Secar completamente al aire",
+        "kicker": "Superficie",
+        "superficie": "sellada",
+        "etiqueta": "Silicona nueva"
+      }
+    },
+    {
+      "from": 50229,
+      "dur": 415,
+      "comp": "Bano3D",
+      "props": {
+        "theme": "earth",
+        "title": "Junta bien aplicada sin burbujas",
+        "kicker": "Por dentro de la ducha",
+        "estado": "sellado",
+        "etiqueta": "Cordón parejo"
+      }
+    },
+    {
+      "from": 50644,
+      "dur": 410,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Moja la pared o el cielorraso",
+        "kicker": "Por dentro de la pared",
+        "problema": "humedad",
+        "etiqueta": "Filtración por junta"
+      }
+    },
+    {
+      "from": 51054,
+      "dur": 272,
+      "comp": "Bano3D",
+      "props": {
+        "theme": "earth",
+        "title": "El agua llega antes de notarse",
+        "kicker": "Por dentro de la ducha",
+        "estado": "filtra",
+        "etiqueta": "Sin membrana"
+      }
+    },
+    {
+      "from": 51326,
+      "dur": 510,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "La filtración empapa el piso",
+        "kicker": "Superficie",
+        "superficie": "porosa",
+        "etiqueta": "Carpeta de base"
+      }
+    },
+    {
+      "from": 51836,
+      "dur": 309,
+      "comp": "Bano3D",
+      "props": {
+        "theme": "earth",
+        "title": "Colocar membrana a tiempo",
+        "kicker": "Por dentro de la ducha",
+        "estado": "sellado",
+        "etiqueta": "Inversión a tiempo"
+      }
+    },
+    {
+      "from": 52145,
+      "dur": 372,
+      "comp": "Barras3D",
+      "props": {
+        "theme": "earth",
+        "title": "Minutos de extractor tras ducharte",
+        "items": [
+          {
+            "label": "Mínimo",
+            "value": 15
+          },
+          {
+            "label": "Máximo",
+            "value": 20
+          }
+        ],
+        "unidad": "minutos",
+        "destacar": 1
+      }
+    },
+    {
+      "from": 52517,
+      "dur": 412,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "El extractor baja la humedad",
+        "kicker": "Superficie",
+        "superficie": "sellada",
+        "etiqueta": "Extractor encendido"
+      }
+    },
+    {
+      "from": 52929,
+      "dur": 661,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Ventana abierta después de bañarte",
+        "kicker": "Por dentro de la pared",
+        "problema": "moho",
+        "etiqueta": "Sin extractor"
+      }
+    },
+    {
+      "from": 53590,
+      "dur": 178,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Retrasa la reaparición del moho",
+        "kicker": "Por dentro de la pared",
+        "problema": "moho",
+        "etiqueta": "Pintura antihongos"
+      }
+    },
+    {
+      "from": 54022,
+      "dur": 702,
+      "comp": "Cano3D",
+      "props": {
+        "theme": "earth",
+        "title": "El agua viaja antes de salir",
+        "kicker": "Dentro del caño",
+        "obstruccion": 0,
+        "fluido": "Agua de cañería",
+        "etiqueta": "Pérdida oculta"
+      }
+    },
+    {
+      "from": 54724,
+      "dur": 337,
+      "comp": "Cano3D",
+      "props": {
+        "theme": "earth",
+        "title": "Hay una pérdida en la instalación",
+        "kicker": "Dentro del caño",
+        "obstruccion": 0,
+        "fluido": "Agua de cañería",
+        "etiqueta": "Medidor girando"
+      }
+    },
+    {
+      "from": 55061,
+      "dur": 240,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "El sonido delata la pérdida",
+        "kicker": "Por dentro de la pared",
+        "problema": "humedad",
+        "etiqueta": "Pared con goteo"
+      }
+    },
+    {
+      "from": 55301,
+      "dur": 150,
+      "comp": "Cano3D",
+      "props": {
+        "theme": "earth",
+        "title": "Pérdida activa en la cañería",
+        "kicker": "Dentro del caño",
+        "obstruccion": 0,
+        "fluido": "Agua de cañería",
+        "etiqueta": "Siseo o goteo"
+      }
+    },
+    {
+      "from": 55451,
+      "dur": 191,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "Confirma el origen antes de gastar",
+        "kicker": "Antes de arreglar",
+        "superficie": "porosa",
+        "etiqueta": "Diagnóstico primero"
+      }
+    },
+    {
+      "from": 55642,
+      "dur": 229,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "La zona más cercana al origen",
+        "kicker": "Por dentro de la pared",
+        "problema": "humedad",
+        "etiqueta": "Pintura hinchada"
+      }
+    },
+    {
+      "from": 55871,
+      "dur": 315,
+      "comp": "Barras3D",
+      "props": {
+        "theme": "earth",
+        "title": "Ventana de inspección final",
+        "items": [
+          {
+            "label": "Ancho",
+            "value": 15
+          },
+          {
+            "label": "Alto",
+            "value": 15
+          }
+        ],
+        "unidad": "cm",
+        "destacar": 0
+      }
+    },
+    {
+      "from": 56186,
+      "dur": 275,
+      "comp": "Cano3D",
+      "props": {
+        "theme": "earth",
+        "title": "Cañería metálica se corroe",
+        "kicker": "Dentro del caño",
+        "obstruccion": 30,
+        "etiqueta": "Corrosión interna",
+        "fluido": "Agua corriente",
+        "note": "Avanza lento antes de verse"
+      }
+    },
+    {
+      "from": 56461,
+      "dur": 309,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "La corrosión se hace visible",
+        "kicker": "Superficie del caño",
+        "superficie": "porosa",
+        "etiqueta": "Filtración lenta"
+      }
+    },
+    {
+      "from": 56770,
+      "dur": 361,
+      "comp": "Cano3D",
+      "props": {
+        "theme": "earth",
+        "title": "La unión floja deja pasar",
+        "kicker": "Dentro del caño",
+        "obstruccion": 10,
+        "etiqueta": "Unión mal sellada",
+        "fluido": "Agua corriente"
+      }
+    },
+    {
+      "from": 57131,
+      "dur": 727,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "Abrazadera: arreglo solo temporal",
+        "kicker": "Reparación rápida",
+        "base": "pared",
+        "capas": [
+          {
+            "label": "Detectar fuga"
+          },
+          {
+            "label": "Colocar abrazadera"
+          },
+          {
+            "label": "Solución temporal"
+          }
+        ]
+      }
+    },
+    {
+      "from": 57858,
+      "dur": 401,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Cañería vieja pide recambio",
+        "kicker": "Por dentro de la pared",
+        "problema": "humedad",
+        "etiqueta": "Más de 30 años"
+      }
+    },
+    {
+      "from": 58259,
+      "dur": 355,
+      "comp": "Cano3D",
+      "props": {
+        "theme": "earth",
+        "title": "Varios arreglos cuestan como uno",
+        "kicker": "Dentro del caño",
+        "obstruccion": 50,
+        "etiqueta": "Recambio ordenado",
+        "fluido": "Agua corriente"
+      }
+    },
+    {
+      "from": 58614,
+      "dur": 107,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "Barato o caro: qué importa",
+        "kicker": "Antes de comprar",
+        "base": "losa",
+        "capas": [
+          {
+            "label": "Evaluar superficie"
+          },
+          {
+            "label": "Elegir material"
+          },
+          {
+            "label": "Aplicar producto"
+          }
+        ]
+      }
+    },
+    {
+      "from": 58948,
+      "dur": 770,
+      "comp": "Barras3D",
+      "props": {
+        "theme": "earth",
+        "title": "Vida útil de la membrana",
+        "items": [
+          {
+            "label": "Membrana buena marca",
+            "value": 8
+          },
+          {
+            "label": "Versión económica",
+            "value": 2
+          }
+        ],
+        "unidad": "años",
+        "destacar": 0,
+        "note": "Rinde más con buen mantenimiento"
+      }
+    },
+    {
+      "from": 59718,
+      "dur": 300,
+      "comp": "Techo3D",
+      "props": {
+        "theme": "earth",
+        "title": "Poco más cuesta, más dura",
+        "kicker": "Dentro de tu techo",
+        "estado": "sellado",
+        "capas": [
+          "Imprimación",
+          "Membrana"
+        ],
+        "etiqueta": "Mejor inversión"
+      }
+    },
+    {
+      "from": 60018,
+      "dur": 475,
+      "comp": "Bano3D",
+      "props": {
+        "theme": "earth",
+        "title": "Sellador de baño: casi igual",
+        "kicker": "Por dentro de la ducha",
+        "estado": "sellado",
+        "etiqueta": "Diferencia mínima"
+      }
+    },
+    {
+      "from": 60493,
+      "dur": 522,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "No ahorres en malla ni sellador",
+        "kicker": "Materiales clave del techo",
+        "base": "losa",
+        "capas": [
+          {
+            "label": "Malla de refuerzo"
+          },
+          {
+            "label": "Sellador de juntas"
+          }
+        ]
+      }
+    },
+    {
+      "from": 61015,
+      "dur": 853,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "Herramientas no necesitan ser caras",
+        "kicker": "Pinceles y rodillos",
+        "superficie": "sellada",
+        "etiqueta": "Ahorro sin riesgo"
+      }
+    },
+    {
+      "from": 61868,
+      "dur": 422,
+      "comp": "Techo3D",
+      "props": {
+        "theme": "earth",
+        "title": "La mano de obra cuesta más",
+        "kicker": "Antes de llamar a alguien",
+        "estado": "sellado",
+        "capas": [
+          "Imprimación",
+          "Membrana",
+          "Pintura"
+        ],
+        "etiqueta": "Ahorro real"
+      }
+    },
+    {
+      "from": 62290,
+      "dur": 126,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Los errores más comunes",
+        "kicker": "Lo que repito en comentarios",
+        "problema": "humedad",
+        "etiqueta": "Nueve errores"
+      }
+    },
+    {
+      "from": 62670,
+      "dur": 720,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "Secado rápido deja burbujas",
+        "kicker": "Entre capas",
+        "superficie": "porosa",
+        "etiqueta": "Burbujas de aire"
+      }
+    },
+    {
+      "from": 63390,
+      "dur": 675,
+      "comp": "Bano3D",
+      "props": {
+        "theme": "earth",
+        "title": "Falta de ventilación, no material",
+        "kicker": "Por dentro de la ducha",
+        "estado": "filtra",
+        "etiqueta": "Falta ventilación"
+      }
+    },
+    {
+      "from": 64065,
+      "dur": 313,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Pintar sin resolver la causa",
+        "kicker": "Por dentro de la pared",
+        "problema": "humedad",
+        "etiqueta": "Vuelve en meses"
+      }
+    },
+    {
+      "from": 64378,
+      "dur": 202,
+      "comp": "Techo3D",
+      "props": {
+        "theme": "earth",
+        "title": "Esperar convierte fisura en filtración",
+        "kicker": "Dentro de tu techo",
+        "estado": "filtra",
+        "etiqueta": "El error más caro"
+      }
+    },
+    {
+      "from": 64580,
+      "dur": 364,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "El daño se expande rápido",
+        "kicker": "Filtración sin control",
+        "superficie": "porosa",
+        "etiqueta": "Cielorraso y piso"
+      }
+    },
+    {
+      "from": 64944,
+      "dur": 424,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "Mantenimiento no es arreglo definitivo",
+        "kicker": "Error número seis",
+        "base": "losa",
+        "capas": [
+          {
+            "label": "Mantenimiento preventivo"
+          },
+          {
+            "label": "Arreglo definitivo"
+          }
+        ]
+      }
+    },
+    {
+      "from": 65368,
+      "dur": 220,
+      "comp": "Techo3D",
+      "props": {
+        "theme": "earth",
+        "title": "Medir antes de comprar evita faltantes",
+        "kicker": "Antes de la obra",
+        "estado": "sellado",
+        "capas": [
+          "Imprimación",
+          "Membrana"
+        ],
+        "etiqueta": "Medición exacta"
+      }
+    },
+    {
+      "from": 65588,
+      "dur": 233,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "Sin material a mitad de obra",
+        "kicker": "Comprar sin medir",
+        "base": "piso",
+        "capas": [
+          {
+            "label": "Medir mal"
+          },
+          {
+            "label": "Comprar poco"
+          },
+          {
+            "label": "Obra se detiene"
+          }
+        ]
+      }
+    },
+    {
+      "from": 65821,
+      "dur": 292,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "El material abierto no se guarda",
+        "kicker": "Sobrante sin uso",
+        "superficie": "porosa",
+        "etiqueta": "Se pierde rápido"
+      }
+    },
+    {
+      "from": 66113,
+      "dur": 438,
+      "comp": "Techo3D",
+      "props": {
+        "theme": "earth",
+        "title": "Sol o frío extremo arruinan",
+        "kicker": "Fuera de la ficha técnica",
+        "estado": "filtra",
+        "etiqueta": "Rango de temperatura"
+      }
+    },
+    {
+      "from": 66551,
+      "dur": 287,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "Leer la etiqueta es gratis",
+        "kicker": "Antes de aplicar",
+        "base": "pared",
+        "capas": [
+          {
+            "label": "Leer la etiqueta"
+          },
+          {
+            "label": "Aplicar en rango correcto"
+          },
+          {
+            "label": "Buena adherencia"
+          }
+        ]
+      }
+    },
+    {
+      "from": 66838,
+      "dur": 594,
+      "comp": "Cano3D",
+      "props": {
+        "theme": "earth",
+        "title": "El parche rápido no es definitivo",
+        "kicker": "Gana tiempo, no resuelve",
+        "obstruccion": 40,
+        "etiqueta": "Cemento hidráulico",
+        "fluido": "Agua de filtración"
+      }
+    },
+    {
+      "from": 67686,
+      "dur": 898,
+      "comp": "Cano3D",
+      "props": {
+        "theme": "earth",
+        "title": "La filtración puede no ser tuya",
+        "kicker": "Bajada pluvial compartida",
+        "obstruccion": 50,
+        "etiqueta": "Departamento",
+        "fluido": "Agua de lluvia"
+      }
+    },
+    {
+      "from": 68584,
+      "dur": 293,
+      "comp": "Techo3D",
+      "props": {
+        "theme": "earth",
+        "title": "Tu arreglo no dura así",
+        "kicker": "Mientras la causa sigue activa",
+        "estado": "filtra",
+        "etiqueta": "Causa externa"
+      }
+    },
+    {
+      "from": 68877,
+      "dur": 292,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Casas antiguas y la capilaridad",
+        "kicker": "Más de 40 o 50 años",
+        "problema": "humedad",
+        "etiqueta": "Cimientos antiguos"
+      }
+    },
+    {
+      "from": 69169,
+      "dur": 338,
+      "comp": "Cano3D",
+      "props": {
+        "theme": "earth",
+        "title": "Cañerías viejas al límite",
+        "kicker": "Dentro del caño",
+        "obstruccion": 80,
+        "etiqueta": "Fin de vida útil",
+        "fluido": "Agua corriente"
+      }
+    },
+    {
+      "from": 69507,
+      "dur": 359,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "Un plan por etapas",
+        "kicker": "Casa antigua",
+        "base": "pared",
+        "capas": [
+          {
+            "label": "Etapa uno"
+          },
+          {
+            "label": "Etapa dos"
+          },
+          {
+            "label": "Etapa tres"
+          }
+        ]
+      }
+    },
+    {
+      "from": 69866,
+      "dur": 169,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "Más puntos débiles que lo nuevo",
+        "kicker": "Casa antigua",
+        "superficie": "porosa",
+        "etiqueta": "Construcción vieja"
+      }
+    },
+    {
+      "from": 70035,
+      "dur": 259,
+      "comp": "Techo3D",
+      "props": {
+        "theme": "earth",
+        "title": "Terraza con jardín exige más",
+        "kicker": "Dentro de tu techo",
+        "estado": "sellado",
+        "capas": [
+          "Membrana",
+          "Malla"
+        ],
+        "etiqueta": "Huerta en la losa"
+      }
+    },
+    {
+      "from": 70294,
+      "dur": 467,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "Membrana resistente a raíz",
+        "kicker": "Mayor punzonamiento también",
+        "base": "losa",
+        "capas": [
+          {
+            "label": "Membrana"
+          },
+          {
+            "label": "Resistencia a raíz"
+          },
+          {
+            "label": "Resistencia a punzonamiento"
+          }
+        ]
+      }
+    },
+    {
+      "from": 70761,
+      "dur": 230,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "Resiste objetos filosos",
+        "kicker": "Prueba de resistencia",
+        "superficie": "sellada",
+        "note": "Aguanta ramas y piedras con el tiempo"
+      }
+    },
+    {
+      "from": 71245,
+      "dur": 355,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "El orden que vas a seguir",
+        "kicker": "Paso a paso",
+        "base": "pared",
+        "capas": [
+          {
+            "label": "Techo"
+          },
+          {
+            "label": "Ventanas"
+          },
+          {
+            "label": "Cañerías"
+          },
+          {
+            "label": "Zócalos"
+          },
+          {
+            "label": "Condensación"
+          }
+        ],
+        "note": "Según prioridad, no al azar"
+      }
+    },
+    {
+      "from": 71600,
+      "dur": 447,
+      "comp": "Techo3D",
+      "props": {
+        "theme": "earth",
+        "title": "El techo manda primero",
+        "kicker": "Dentro de tu techo",
+        "estado": "filtra",
+        "note": "Prioridad número uno sin discusión"
+      }
+    },
+    {
+      "from": 72047,
+      "dur": 416,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "No es un problema propio",
+        "kicker": "Por dentro de la pared",
+        "problema": "humedad",
+        "etiqueta": "Mancha engañosa",
+        "note": "El agua viene de más arriba"
+      }
+    },
+    {
+      "from": 72463,
+      "dur": 310,
+      "comp": "Techo3D",
+      "props": {
+        "theme": "earth",
+        "title": "Entradas directas de agua",
+        "kicker": "Ventanas y balcones",
+        "estado": "filtra",
+        "note": "Empeoran con cada lluvia"
+      }
+    },
+    {
+      "from": 72773,
+      "dur": 343,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "La mancha chica que engaña",
+        "kicker": "Superficie",
+        "superficie": "porosa",
+        "note": "El daño sigue por dentro"
+      }
+    },
+    {
+      "from": 73116,
+      "dur": 239,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "El daño que no se ve",
+        "kicker": "Por dentro de la pared",
+        "problema": "humedad",
+        "note": "Cuanto más tiempo pasa, peor"
+      }
+    },
+    {
+      "from": 73355,
+      "dur": 364,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "La humedad que sube despacio",
+        "kicker": "Superficie",
+        "superficie": "porosa",
+        "note": "Avanza en meses o años"
+      }
+    },
+    {
+      "from": 73719,
+      "dur": 894,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "El moho de la condensación",
+        "kicker": "Por dentro de la pared",
+        "problema": "moho",
+        "note": "Mejora con ventilación, sin obra"
+      }
+    },
+    {
+      "from": 74613,
+      "dur": 533,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "Primero, diagnostica sin gastar",
+        "kicker": "Paso a paso",
+        "base": "pared",
+        "capas": [
+          {
+            "label": "Observar"
+          },
+          {
+            "label": "Anotar"
+          },
+          {
+            "label": "Diagnosticar"
+          }
+        ],
+        "note": "Sin gastar nada todavía"
+      }
+    },
+    {
+      "from": 75146,
+      "dur": 233,
+      "comp": "Bano3D",
+      "props": {
+        "theme": "earth",
+        "title": "Juntas de baños y balcones",
+        "kicker": "Por dentro de la ducha",
+        "estado": "sellado",
+        "note": "Arreglo de un fin de semana"
+      }
+    },
+    {
+      "from": 75379,
+      "dur": 738,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "El trabajo que requiere calma",
+        "kicker": "Superficie",
+        "superficie": "porosa",
+        "note": "No conviene apurarlo"
+      }
+    },
+    {
+      "from": 76117,
+      "dur": 298,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Falla por falta de revisión",
+        "kicker": "Por dentro de la pared",
+        "problema": "grieta",
+        "note": "No es que el material falle solo"
+      }
+    },
+    {
+      "from": 76415,
+      "dur": 227,
+      "comp": "Techo3D",
+      "props": {
+        "theme": "earth",
+        "title": "Revisa antes de la lluvia fuerte",
+        "kicker": "Dentro de tu techo",
+        "estado": "filtra",
+        "etiqueta": "Ampollas",
+        "note": "Busca ampollas y agua estancada"
+      }
+    },
+    {
+      "from": 76642,
+      "dur": 269,
+      "comp": "Cano3D",
+      "props": {
+        "theme": "earth",
+        "title": "Limpia antes de que se tape",
+        "kicker": "Dentro del caño",
+        "obstruccion": 60,
+        "etiqueta": "Hojas y tierra",
+        "fluido": "Agua de lluvia",
+        "note": "Antes de la temporada de lluvias"
+      }
+    },
+    {
+      "from": 76911,
+      "dur": 259,
+      "comp": "Bano3D",
+      "props": {
+        "theme": "earth",
+        "title": "Resella antes del deterioro",
+        "kicker": "Por dentro de la ducha",
+        "estado": "sellado",
+        "note": "A mitad de año"
+      }
+    },
+    {
+      "from": 77170,
+      "dur": 222,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "La vuelta anual por la casa",
+        "kicker": "Por dentro de la pared",
+        "problema": "humedad",
+        "note": "Detectar a tiempo ahorra obra"
+      }
+    },
+    {
+      "from": 77688,
+      "dur": 608,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "Siempre a mano en tu celular",
+        "kicker": "Paso a paso",
+        "base": "pared",
+        "capas": [
+          {
+            "label": "Guía"
+          },
+          {
+            "label": "Fichas"
+          },
+          {
+            "label": "Calculadora"
+          }
+        ],
+        "note": "Para cada problema nuevo"
+      }
+    },
+    {
+      "from": 78296,
+      "dur": 1887,
+      "comp": "Barras3D",
+      "props": {
+        "theme": "earth",
+        "title": "Todo lo que incluye la Biblioteca",
+        "items": [
+          {
+            "label": "Guías completas",
+            "value": 3
+          },
+          {
+            "label": "Fichas imprimibles",
+            "value": 185
+          }
+        ],
+        "unidad": "unidades",
+        "destacar": 1,
+        "note": "Más las Calculadoras del Maestro"
+      }
+    },
+    {
+      "from": 80183,
+      "dur": 387,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "Sin riesgo si no te convence",
+        "kicker": "Superficie",
+        "superficie": "sellada",
+        "note": "Garantía de siete días de Hotmart"
+      }
+    },
+    {
+      "from": 81020,
+      "dur": 5576,
+      "comp": "Barras3D",
+      "props": {
+        "theme": "earth",
+        "title": "Duración de la membrana acrílica",
+        "items": [
+          {
+            "label": "Mínimo",
+            "value": 3
+          },
+          {
+            "label": "Máximo",
+            "value": 5
+          }
+        ],
+        "unidad": "años",
+        "destacar": 1,
+        "note": "Protección confiable antes de repasar"
+      }
+    },
+    {
+      "from": 86596,
+      "dur": 222,
+      "comp": "Techo3D",
+      "props": {
+        "theme": "earth",
+        "title": "Señales para repasarla",
+        "kicker": "Dentro de tu techo",
+        "estado": "filtra",
+        "note": "Opaca y resquebrajada al tacto"
+      }
+    },
+    {
+      "from": 86818,
+      "dur": 410,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "El momento de repasar",
+        "kicker": "Paso a paso",
+        "base": "losa",
+        "capas": [
+          {
+            "label": "Limpieza"
+          },
+          {
+            "label": "1.ª mano"
+          },
+          {
+            "label": "2.ª mano"
+          }
+        ],
+        "note": "No esperes a que gotee"
+      }
+    },
+    {
+      "from": 87228,
+      "dur": 556,
+      "comp": "Techo3D",
+      "props": {
+        "theme": "earth",
+        "title": "No sirve con lluvia o frío",
+        "kicker": "Dentro de tu techo",
+        "estado": "sellado",
+        "note": "Necesita superficie seca para adherir"
+      }
+    },
+    {
+      "from": 87784,
+      "dur": 2053,
+      "comp": "Gota3D",
+      "props": {
+        "theme": "earth",
+        "title": "El frío que arruina el sellado",
+        "kicker": "Superficie",
+        "superficie": "porosa",
+        "note": "Bajo diez grados no cura bien"
+      }
+    },
+    {
+      "from": 89837,
+      "dur": 266,
+      "comp": "Techo3D",
+      "props": {
+        "theme": "earth",
+        "title": "Solución de emergencia temporal",
+        "kicker": "Dentro de tu techo",
+        "estado": "filtra",
+        "etiqueta": "Cinta asfáltica",
+        "note": "El trabajo definitivo espera"
+      }
+    },
+    {
+      "from": 90103,
+      "dur": 275,
+      "comp": "Capas3D",
+      "props": {
+        "theme": "earth",
+        "title": "Espera el día seco",
+        "kicker": "Paso a paso",
+        "base": "losa",
+        "capas": [
+          {
+            "label": "Cinta temporal"
+          },
+          {
+            "label": "Día seco"
+          },
+          {
+            "label": "Reparación definitiva"
+          }
+        ],
+        "note": "Aunque tengas que aguantar semanas"
+      }
+    },
+    {
+      "from": 90378,
+      "dur": 127,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "No tapes el salitre con pintura",
+        "kicker": "Por dentro de la pared",
+        "problema": "salitre",
+        "note": "La pregunta que más repito"
+      }
+    }
+  ]
+}

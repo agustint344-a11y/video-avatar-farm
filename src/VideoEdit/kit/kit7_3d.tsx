@@ -372,3 +372,137 @@ export const Barras3D: React.FC<D & { title: string; items: { label: string; val
 export const Barras3DNames: React.FC<{ its: { label: string }[]; x0: number; gap: number; cam: Cam }> = ({ its, x0, gap, cam }) => (
   <>{its.map((it, i) => { const p = project(cam, [x0 + i * gap, -0.05, 1.1]); return <div key={i} style={{ position: "absolute", left: p.x, top: p.y + 10, transform: "translateX(-50%)", fontFamily: SANS, fontWeight: 800, fontSize: 36, color: "#151a1f", whiteSpace: "nowrap" }}>{it.label}</div>; })}</>
 );
+
+/* ═════════════════ IMPERMEABILIZACIÓN (2026-10-26, video largo avatar3d) ═════════════════ */
+// gota que cae de y0 a y1 en fase ph (0-1)
+const fall = (ph: number, y0: number, y1: number) => ({ y: lerp(y0, y1, ph * ph), o: ph < 0.92 ? 1 : (1 - ph) / 0.08 });
+const LAYER_COL = ["#9aa3ad", "#c96a3a", "#2f6fdf", "#e9e4d6", "#2bb07f", "#8a5cf6"];
+
+/* MATEO 4) TECHO / LOSA EN CORTE CON LLUVIA: filtra por la fisura o queda sellado con capas */
+export const Techo3D: React.FC<D & { title: string; estado?: "filtra" | "sellado"; capas?: string[]; kicker?: string; note?: string; etiqueta?: string }> = ({ durationInFrames: dur, title, estado = "filtra", capas, kicker, note, etiqueta }) => {
+  const f = useCurrentFrame(); const t = f / dur;
+  const sealed = estado === "sellado";
+  const L = (capas && capas.length ? capas : sealed ? ["Imprimación", "Membrana", "Pintura"] : []).slice(0, 4);
+  const cam = orbit(t, { r: 8.6, r1: 7.6, y: 3.6, a0: -0.7, a1: -0.25, look: [0, 1.6, 0], fov: 38 });
+  const SY = 2.2, TH = 0.42, top = SY + TH / 2;
+  const lay = L.map((_, i) => sm((t - 0.12 - i * 0.12) / 0.1));
+  const lt = 0.07, coatTop = top + lay.reduce((a, k) => a + k * lt, 0);
+  const wet = sealed ? 0 : sm((t - 0.3) / 0.5);
+  const rain = Array.from({ length: 36 }, (_, i) => { const r = seeded(i * 31 + 5); const ph = (r() + t * (1.4 + r() * 0.5)) % 1; return { x: (r() - 0.5) * 4.6, z: (r() - 0.5) * 1.6, ...fall(ph, 6.2, coatTop) }; });
+  const leak = Array.from({ length: sealed ? 0 : 10 }, (_, i) => { const ph = (i / 10 + t * 1.1) % 1; return { y: lerp(SY - TH / 2, 0.15, ph * ph), o: wet * Math.sin(ph * Math.PI) }; });
+  const runoff = Array.from({ length: sealed ? 12 : 0 }, (_, i) => { const ph = (i / 12 + t * 0.9) % 1; return { x: lerp(0.4, -2.7, ph), z: -0.6 + (i % 4) * 0.4, o: sm((t - 0.5) / 0.15) * Math.sin(ph * Math.PI) }; });
+  const labels: Lbl[] = [
+    { at: [-2.4, SY, 1.0], text: "Losa", t0: 0.05, side: "l", dy: 40 },
+    ...L.map((c, i) => ({ at: [2.45, top + (i + 0.5) * lt, 1.0] as V3, text: `${i + 1}. ${c}`, t0: 0.14 + i * 0.12, tone: (["dark", "red", "blue", "green"] as Tone[])[i % 4], side: "r" as const, dy: -30 - i * 58 })),
+    { at: (sealed ? [-2.3, coatTop, 0.6] : [0.6, 0.6, 0.4]) as V3, text: etiqueta || (sealed ? "El agua escurre" : "Filtra por la fisura"), t0: sealed ? 0.62 : 0.4, tone: sealed ? "green" : "red", side: sealed ? "l" : "r", dy: sealed ? -60 : undefined },
+  ];
+  return (
+    <Stage durationInFrames={dur} cam={cam} title={title} kicker={kicker} note={note} labels={labels} floorY={0}>
+      {[-2.2, 2.2].map((x, i) => <mesh key={i} position={[x, (SY - TH / 2) / 2, 0]} castShadow receiveShadow><boxGeometry args={[0.35, SY - TH / 2, 1.9]} /><meshStandardMaterial color="#d8d2c4" roughness={0.95} /></mesh>)}
+      <mesh position={[0, SY, 0]} castShadow receiveShadow><boxGeometry args={[5, TH, 2]} /><meshStandardMaterial color={new THREE.Color("#a7a49d").lerp(new THREE.Color("#5f5a52"), wet * 0.5)} roughness={0.92} /></mesh>
+      {!sealed && <mesh position={[0.6, SY, 0]}><boxGeometry args={[0.05, TH + 0.01, 2.01]} /><meshStandardMaterial color="#1b1a18" /></mesh>}
+      {!sealed && <mesh position={[0.6, SY - TH / 2 - 0.006, 0]} rotation={[Math.PI / 2, 0, 0]}><circleGeometry args={[0.25 + wet * 0.9, 40]} /><meshStandardMaterial color="#6b5a42" transparent opacity={0.75 * wet} depthWrite={false} side={THREE.DoubleSide} /></mesh>}
+      {L.map((_, i) => (
+        <mesh key={i} position={[0, top + (i + 0.5) * lt + (1 - lay[i]) * 1.4, 0]} castShadow>
+          <boxGeometry args={[5.02, lt, 2.02]} /><meshPhysicalMaterial color={LAYER_COL[(i + 1) % LAYER_COL.length]} roughness={0.45} clearcoat={0.5} transparent opacity={lay[i]} />
+        </mesh>
+      ))}
+      {rain.map((d, i) => <mesh key={i} position={[d.x, d.y, d.z]} scale={[1, 2.2, 1]}><sphereGeometry args={[0.04, 10, 10]} /><meshStandardMaterial color="#8fd0ff" emissive="#2d8cff" emissiveIntensity={0.5} transparent opacity={d.o * 0.9} /></mesh>)}
+      {leak.map((d, i) => <mesh key={i} position={[0.6, d.y, -0.6 + (i % 4) * 0.4]}><sphereGeometry args={[0.05, 12, 12]} /><meshStandardMaterial color="#3aa0ff" emissive="#1f6fd1" emissiveIntensity={0.6} transparent opacity={d.o} /></mesh>)}
+      {runoff.map((d, i) => <mesh key={i} position={[d.x, coatTop + 0.03, d.z]} scale={[2, 0.5, 1]}><sphereGeometry args={[0.05, 12, 12]} /><meshStandardMaterial color="#5bb6ff" emissive="#1f6fd1" emissiveIntensity={0.5} transparent opacity={d.o} /></mesh>)}
+    </Stage>
+  );
+};
+
+/* MATEO 5) PISO DE DUCHA EN CORTE: cerámica, pegamento, membrana, contrapiso */
+export const Bano3D: React.FC<D & { title: string; estado?: "filtra" | "sellado"; kicker?: string; note?: string; etiqueta?: string }> = ({ durationInFrames: dur, title, estado = "filtra", kicker, note, etiqueta }) => {
+  const f = useCurrentFrame(); const t = f / dur;
+  const sealed = estado === "sellado";
+  const cam = orbit(t, { r: 7.4, r1: 6.6, y: 3.2, a0: 0.6, a1: 0.2, look: [0, 0.7, 0], fov: 38 });
+  const wet = sm((t - 0.3) / 0.45);
+  const tiles = [-2.1, -1.05, 0, 1.05, 2.1];
+  const yC = 0.25, yM = 0.53, yG = 0.6, yT = 0.72;
+  const shower = Array.from({ length: 30 }, (_, i) => { const r = seeded(i * 13 + 9); const ph = (r() + t * 1.5) % 1; return { x: (r() - 0.5) * 2.4, z: (r() - 0.5) * 1.2, ...fall(ph, 4.4, yT + 0.08) }; });
+  const seep = Array.from({ length: 12 }, (_, i) => { const ph = (i / 12 + t * 0.8) % 1; const yEnd = sealed ? yM + 0.05 : 0.1; return { y: lerp(yT, yEnd, Math.min(1, ph / 0.6)), x: sealed && ph > 0.6 ? 0.52 - (ph - 0.6) * 4 : 0.52, o: wet * Math.sin(ph * Math.PI) }; });
+  const labels: Lbl[] = [
+    { at: [-2.6, yT + 0.08, 0.8], text: "Cerámica", t0: 0.05, side: "l", dy: -90 },
+    { at: [-2.6, yG, 0.8], text: "Pegamento", t0: 0.1, side: "l", dy: -20 },
+    ...(sealed ? [{ at: [-2.6, yM, 0.8] as V3, text: "Membrana", t0: 0.15, tone: "blue" as Tone, side: "l" as const, dy: 50 }] : []),
+    { at: [-2.6, yC, 0.8], text: "Contrapiso", t0: 0.2, side: "l", dy: 120 },
+    { at: [0.52, sealed ? yM : 0.25, 0.6] as V3, text: etiqueta || (sealed ? "La membrana frena el agua" : "El agua pasa por la junta"), t0: 0.45, tone: sealed ? "green" : "red", side: "r" },
+  ];
+  return (
+    <Stage durationInFrames={dur} cam={cam} title={title} kicker={kicker} note={note} labels={labels} floorY={0}>
+      <mesh position={[0, yC, 0]} castShadow receiveShadow><boxGeometry args={[5.2, 0.5, 1.8]} /><meshStandardMaterial color={new THREE.Color("#a29d94").lerp(new THREE.Color("#57524a"), sealed ? 0 : wet * 0.6)} roughness={0.95} /></mesh>
+      {sealed && <mesh position={[0, yM, 0]} castShadow><boxGeometry args={[5.2, 0.06, 1.8]} /><meshPhysicalMaterial color="#2f8fdf" roughness={0.4} clearcoat={0.6} /></mesh>}
+      <mesh position={[0, yG, 0]} castShadow><boxGeometry args={[5.2, 0.08, 1.8]} /><meshStandardMaterial color="#c9c6bf" roughness={0.9} /></mesh>
+      {tiles.map((x, i) => <mesh key={i} position={[x, yT, 0]} castShadow receiveShadow><boxGeometry args={[1.0, 0.16, 1.8]} /><meshPhysicalMaterial color="#eef1f3" roughness={0.15} clearcoat={1} /></mesh>)}
+      <mesh position={[-2.62, yT + 0.4, 0]}><cylinderGeometry args={[0.05, 0.05, 0.9, 16]} /><meshStandardMaterial color="#cccccc" metalness={0.8} roughness={0.25} /></mesh>
+      {shower.map((d, i) => <mesh key={i} position={[d.x, d.y, d.z]} scale={[1, 2.2, 1]}><sphereGeometry args={[0.035, 10, 10]} /><meshStandardMaterial color="#8fd0ff" emissive="#2d8cff" emissiveIntensity={0.5} transparent opacity={d.o * 0.9} /></mesh>)}
+      {seep.map((d, i) => <mesh key={i} position={[d.x, d.y, -0.5 + (i % 4) * 0.33]}><sphereGeometry args={[0.045, 12, 12]} /><meshStandardMaterial color="#3aa0ff" emissive="#1f6fd1" emissiveIntensity={0.6} transparent opacity={d.o} /></mesh>)}
+    </Stage>
+  );
+};
+
+/* TODOS) CAPAS PASO A PASO: cada capa cae sobre la base, numerada */
+export const Capas3D: React.FC<D & { title: string; capas: { label: string }[]; base?: "losa" | "pared" | "piso"; kicker?: string; note?: string }> = ({ durationInFrames: dur, title, capas, base = "losa", kicker, note }) => {
+  const f = useCurrentFrame(); const t = f / dur;
+  const its = (capas || []).slice(0, 5);
+  const cam = orbit(t, { r: 8.4, r1: 7.6, y: 3.8, a0: 0.5, a1: 0.05, look: [0, 1.0, 0], fov: 38 });
+  const BASE: Record<string, string> = { losa: "#a7a49d", pared: "#b4623e", piso: "#8f8a80" };
+  const bh = 0.7, lt = 0.16;
+  const step = 0.7 / Math.max(1, its.length);
+  const ks = its.map((_, i) => sm((t - 0.1 - i * step) / (step * 0.7)));
+  const labels: Lbl[] = [
+    { at: [-2.3, bh / 2, 1.0], text: base === "pared" ? "Pared" : base === "piso" ? "Piso" : "Losa", t0: 0.03, side: "l", dy: 40 },
+    ...its.map((c, i) => ({ at: [2.3, bh + (i + 0.5) * lt, 0.9] as V3, text: `${i + 1}. ${c.label}`, t0: 0.12 + i * step, tone: (["red", "blue", "dark", "green", "yellow"] as Tone[])[i % 5], side: "r" as const, dy: -40 - i * 60 })),
+  ];
+  return (
+    <Stage durationInFrames={dur} cam={cam} title={title} kicker={kicker} note={note} labels={labels} floorY={0}>
+      <mesh position={[0, bh / 2, 0]} castShadow receiveShadow><boxGeometry args={[4.6, bh, 2]} /><meshStandardMaterial color={BASE[base] || BASE.losa} roughness={0.95} /></mesh>
+      {its.map((_, i) => (
+        <mesh key={i} position={[0, bh + (i + 0.5) * lt + (1 - ks[i]) * 1.1, 0]} rotation={[0, 0, (1 - ks[i]) * 0.12]} castShadow receiveShadow>
+          <boxGeometry args={[4.6 - i * 0.12, lt * 0.92, 2 - i * 0.05]} /><meshPhysicalMaterial color={LAYER_COL[(i + 1) % LAYER_COL.length]} roughness={0.4} clearcoat={0.5} transparent opacity={ks[i]} />
+        </mesh>
+      ))}
+    </Stage>
+  );
+};
+
+/* TODOS) LA PRUEBA DE LA GOTA: superficie porosa (absorbe) vs sellada (perla) */
+export const Gota3D: React.FC<D & { title: string; superficie?: "porosa" | "sellada"; kicker?: string; note?: string; etiqueta?: string }> = ({ durationInFrames: dur, title, superficie = "porosa", kicker, note, etiqueta }) => {
+  const f = useCurrentFrame(); const t = f / dur;
+  const sealed = superficie === "sellada";
+  const cam = orbit(t, { r: 6.4, r1: 5.4, y: 3.0, a0: -0.5, a1: -0.1, look: [0, 0.6, 0], fov: 36 });
+  const TOP = 0.6;
+  const drops = [-1.4, -0.5, 0.4, 1.3].map((x, i) => {
+    const t0 = 0.12 + i * 0.13, hit = t0 + 0.08;
+    const fk = sm((t - t0) / 0.08);
+    return { x, z: i % 2 ? 0.3 : -0.3, y: lerp(3.6, TOP + 0.12, fk * fk), landed: t >= hit, after: sm((t - hit) / 0.25) };
+  });
+  const hud = (
+    <div style={{ position: "absolute", right: 90, bottom: 80, background: "#151a1f", color: "#fff", borderRadius: 18, padding: "22px 34px", fontFamily: SANS, opacity: interpolate(f, [dur * 0.3, dur * 0.3 + 12], [0, 1], cl) }}>
+      <div style={{ fontWeight: 700, fontSize: 28, opacity: 0.75 }}>{sealed ? "Superficie sellada" : "Superficie porosa"}</div>
+      <div style={{ fontFamily: STAMP, fontSize: 96, lineHeight: 1, color: sealed ? "#7fe0a8" : "#ff6b5e" }}>{sealed ? "REPELE" : "ABSORBE"}</div>
+    </div>
+  );
+  const labels: Lbl[] = [{ at: [1.3, TOP + 0.15, 0.3], text: etiqueta || (sealed ? "Queda como perla" : "Se mete adentro"), t0: 0.6, tone: sealed ? "green" : "red", side: "r" }];
+  return (
+    <Stage durationInFrames={dur} cam={cam} title={title} kicker={kicker} note={note} labels={labels} hud={hud} floorY={0}>
+      <mesh position={[0, TOP / 2, 0]} castShadow receiveShadow><boxGeometry args={[4.2, TOP, 2]} />
+        {sealed ? <meshPhysicalMaterial color="#b9b5ad" roughness={0.2} clearcoat={1} /> : <meshStandardMaterial color="#b9b5ad" roughness={1} />}
+      </mesh>
+      {drops.map((d, i) => {
+        const s: V3 = !d.landed ? [1, 1.25, 1] : sealed ? [1.25, 0.7 + 0.05 * Math.sin(f / 4 + i), 1.25] : [1 + d.after * 0.6, Math.max(0.001, 1 - d.after), 1 + d.after * 0.6];
+        return (
+          <group key={i}>
+            <mesh position={[d.x, d.landed && sealed ? TOP + 0.09 : d.y, d.z]} scale={s} castShadow>
+              <sphereGeometry args={[0.15, 32, 32]} /><meshPhysicalMaterial color="#9fdcff" roughness={0.05} clearcoat={1} transparent opacity={0.85} />
+            </mesh>
+            {!sealed && d.landed && <mesh position={[d.x, TOP + 0.004, d.z]} rotation={[-Math.PI / 2, 0, 0]}><circleGeometry args={[0.12 + d.after * 0.32, 36]} /><meshStandardMaterial color="#6f6658" transparent opacity={0.7 * d.after} depthWrite={false} /></mesh>}
+          </group>
+        );
+      })}
+    </Stage>
+  );
+};
