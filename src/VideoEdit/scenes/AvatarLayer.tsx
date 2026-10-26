@@ -28,7 +28,7 @@ export const AvatarSegments: React.FC<{ slug: string; avatarSrc?: string; segs: 
       {segs.map((s, i) => (
         <Sequence key={`av${i}`} from={s.from} durationInFrames={s.dur} name={`avatar ${i}`}>
           <AbsoluteFill style={{ backgroundColor: "#000" }}>
-            <Video src={src} muted trimBefore={s.clip} objectFit="cover" style={{ width: "100%", height: "100%" }} />
+            <Video src={src} muted trimBefore={s.clip} objectFit="cover" style={{ width: "100%", height: "100%", ...(s.zoom ? { transform: `scale(${s.zoom})`, transformOrigin: "50% 32%" } : {}) }} />
           </AbsoluteFill>
         </Sequence>
       ))}

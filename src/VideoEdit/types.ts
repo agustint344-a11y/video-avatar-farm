@@ -57,6 +57,7 @@ export type AvatarSeg = {
   from: number;
   dur: number;
   clip: number; // frame de inicio dentro del mp4 de avatar
+  zoom?: number; // modo avatar completo: encuadre de la "cámara" (1 = plano, 1.3 = primer plano)
 };
 
 export type Cues = {
