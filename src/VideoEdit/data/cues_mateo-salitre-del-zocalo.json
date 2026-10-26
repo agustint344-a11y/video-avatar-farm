@@ -1,0 +1,1749 @@
+{
+  "slug": "mateo-salitre-del-zocalo",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 31205,
+  "audioSrc": "mateo-salitre-del-zocalo.mp3",
+  "avatarSrc": "mateo-salitre-del-zocalo_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 922,
+      "dur": 502,
+      "clip": 0
+    },
+    {
+      "from": 8326,
+      "dur": 604,
+      "clip": 502
+    },
+    {
+      "from": 18767,
+      "dur": 925,
+      "clip": 1106
+    },
+    {
+      "from": 20490,
+      "dur": 612,
+      "clip": 2031
+    },
+    {
+      "from": 26108,
+      "dur": 680,
+      "clip": 2643
+    },
+    {
+      "from": 28028,
+      "dur": 751,
+      "clip": 3323
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 227,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 580,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 792,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1424,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1754,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s03.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1884,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2114,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2256,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s06.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2361,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2798,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s07.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2975,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s08.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3174,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s09.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3253,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3363,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s11.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3738,
+      "dur": 301,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s11.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4039,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s12.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4132,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s13.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4323,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s14.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4436,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s15.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4901,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s15.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5090,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s16.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5279,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s17.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5364,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s18.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5540,
+      "dur": 80,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s19.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5890,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s19.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5980,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s20.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6162,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s21.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6248,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s22.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6336,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s23.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6676,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s23.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6834,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s24.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7055,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s25.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7261,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s26.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7426,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s27.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7807,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s27.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7974,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s28.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8089,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s29.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8930,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s91.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9012,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s31.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9178,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s32.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9301,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s33.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9398,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s34.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9806,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s30.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10038,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s35.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10127,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s36.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10208,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s37.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10673,
+      "dur": 297,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s37.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10970,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s38.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11158,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s39.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11543,
+      "dur": 350,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s39.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11893,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s40.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12386,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s41.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12557,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s42.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12683,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s43.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12886,
+      "dur": 300,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s44.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13186,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s45.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13511,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s45.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13636,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s46.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13857,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s47.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14058,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s48.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14147,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s49.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14476,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s49.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14568,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s50.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14759,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s51.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14889,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s52.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15024,
+      "dur": 50,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s53.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15284,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s53.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15413,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s54.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15585,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s55.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15714,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s56.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16139,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s56.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16412,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s57.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16550,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s58.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16703,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s59.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17048,
+      "dur": 238,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s59.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17286,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s60.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17486,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s61.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17943,
+      "dur": 307,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s61.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18250,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s62.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18391,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s63.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18493,
+      "dur": 274,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s64.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19692,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s66.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20087,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s65.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20234,
+      "dur": 256,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s67.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21102,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s67.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21432,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s67.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21516,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s68.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21648,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s69.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21822,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s70.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21907,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s71.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22094,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s72.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22531,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s72.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22728,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s73.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22878,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s74.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23035,
+      "dur": 256,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s75.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23291,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s76.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23407,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s77.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23831,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s77.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24001,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s78.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24088,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s79.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24434,
+      "dur": 323,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s79.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24757,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s80.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24877,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s81.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25024,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s82.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25256,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s83.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25751,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s83.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25908,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s84.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26788,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s84.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27118,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s84.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27282,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s85.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27517,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s86.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27904,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s86.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28779,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s87.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28884,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s88.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29032,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s89.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29210,
+      "dur": 70,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s90.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29580,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s90.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29659,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s92.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30095,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s92.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30425,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s92.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30755,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s92.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31085,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-salitre-del-zocalo_s92.png",
+      "kb": 2,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PROBLEMA",
+        "title": "El zócalo que no aguanta pintura"
+      }
+    },
+    {
+      "from": 922,
+      "dur": 135,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "EL CONSTRUCTOR LIBRE",
+        "title": "Mateo Arregla",
+        "sub": "Arreglos reales, explicados con la causa"
+      }
+    },
+    {
+      "from": 1637,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "QUÉ ES",
+        "title": "El salitre, explicado simple"
+      }
+    },
+    {
+      "from": 1884,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CAPILARIDAD",
+        "sub": "el agua sube por los poros",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 3253,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "$2 DÓLARES",
+        "sub": "el truco del albañil",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 4039,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "La pintura tapa el vapor"
+      }
+    },
+    {
+      "from": 7055,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "El problema está afuera"
+      }
+    },
+    {
+      "from": 8695,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 9178,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "¿Es capilaridad o es otra cosa?"
+      }
+    },
+    {
+      "from": 11702,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL TRUCO",
+        "title": "El secreto del albañil de $2"
+      }
+    },
+    {
+      "from": 13588,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO A PASO",
+        "title": "Cómo hacerlo bien de una vez"
+      }
+    },
+    {
+      "from": 13857,
+      "dur": 135,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "CUIDADO",
+        "sub": "usa guantes y lentes al raspar pintura vieja",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 15024,
+      "dur": 135,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "NO USES AGUA",
+        "sub": "la sal se mete más adentro del material",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 15413,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "UNA SEMANA",
+        "sub": "secado obligatorio antes de sellar",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 17486,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 24,
+        "suffix": " h",
+        "label": "secado de la pintura asfáltica",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 19145,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 19969,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 20234,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERRORES",
+        "title": "Lo que casi todos hacen mal"
+      }
+    },
+    {
+      "from": 20693,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 1,
+        "text": "pintar sin dejar secar"
+      }
+    },
+    {
+      "from": 21215,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 2,
+        "text": "lavar la sal con agua"
+      }
+    },
+    {
+      "from": 21907,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 3,
+        "text": "ignorar el problema de afuera"
+      }
+    },
+    {
+      "from": 22094,
+      "dur": 135,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "REVISA AFUERA",
+        "sub": "el agua estancada contra el muro es la causa real",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 23035,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 4,
+        "text": "confiar solo en pintura antihumedad"
+      }
+    },
+    {
+      "from": 24614,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "2 A 3 AÑOS",
+        "sub": "vida útil del arreglo bien hecho",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 25024,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 1,
+        "suffix": " vez/año",
+        "label": "mantenimiento en zonas de napa alta",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 26108,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REPASO",
+        "title": "Todo lo que vimos hoy"
+      }
+    },
+    {
+      "from": 29032,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 29659,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 340,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA MANCHA QUE VUELVE",
+        "phrase": "El problema nunca estuvo en el tarro de pintura",
+        "accent": "nunca estuvo",
+        "src": "img/mateo-salitre-del-zocalo_s02.png"
+      }
+    },
+    {
+      "from": 2498,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CÓMO SUBE EL AGUA",
+        "title": "El camino del salitre",
+        "steps": [
+          {
+            "title": "Los poros del ladrillo",
+            "sub": "chupan la humedad del suelo"
+          },
+          {
+            "title": "El agua sube",
+            "sub": "por capilaridad, como una servilleta"
+          },
+          {
+            "title": "Se evapora arriba",
+            "sub": "y la sal queda cristalizada"
+          }
+        ]
+      }
+    },
+    {
+      "from": 3528,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LO QUE VAS A APRENDER",
+        "phrase": "Un truco de $2 que ataca la causa real",
+        "accent": "$2",
+        "src": "img/mateo-salitre-del-zocalo_s11.png"
+      }
+    },
+    {
+      "from": 4631,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Pintura común vs. la humedad",
+        "left": {
+          "label": "Pintura común",
+          "sub": "casi no deja salir el vapor"
+        },
+        "right": {
+          "label": "Humedad ascendente",
+          "sub": "necesita evaporarse, no quedar atrapada"
+        }
+      }
+    },
+    {
+      "from": 5620,
+      "dur": 270,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Así se atrapa el agua",
+        "kicker": "Por dentro de la pared pintada",
+        "problema": "humedad",
+        "etiqueta": "Vapor atrapado",
+        "note": "el agua empuja la pintura hasta reventarla"
+      }
+    },
+    {
+      "from": 6466,
+      "dur": 210,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RESERVA DE SAL",
+        "value": 80,
+        "max": 100,
+        "suffix": "%",
+        "label": "sal acumulada dentro del ladrillo"
+      }
+    },
+    {
+      "from": 7567,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Revisa afuera de tu casa",
+        "items": [
+          "Nivel de la acera más alto",
+          "Falta de pendiente hacia afuera",
+          "Agua estancada contra el muro"
+        ]
+      }
+    },
+    {
+      "from": 8224,
+      "dur": 102,
+      "comp": "NivelBurbuja",
+      "props": {
+        "theme": "earth",
+        "title": "Revisa la pendiente del patio",
+        "verdict": "FALTA PENDIENTE",
+        "sub": "el agua se queda junto al muro cada lluvia"
+      }
+    },
+    {
+      "from": 9536,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Capilaridad o algo más?",
+        "left": {
+          "label": "Mancha baja, polvo seco",
+          "sub": "= capilaridad, el salitre del zócalo"
+        },
+        "right": {
+          "label": "Mancha alta o pared fría",
+          "sub": "= filtración o condensación, otro tema"
+        }
+      }
+    },
+    {
+      "from": 10433,
+      "dur": 240,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "MIDE DÓNDE ESTÁ LA MANCHA",
+        "w": 100,
+        "h": 60,
+        "unit": "cm",
+        "label": "ZÓCALO",
+        "note": "30 a 60 cm desde el piso = capilaridad"
+      }
+    },
+    {
+      "from": 11333,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "OJO",
+        "phrase": "Pared fría y húmeda pareja: eso es condensación",
+        "accent": "condensación",
+        "src": "img/mateo-salitre-del-zocalo_s39.png"
+      }
+    },
+    {
+      "from": 12086,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL TRUCO DEL ALBAÑIL",
+        "title": "Antes de pintar, esto",
+        "steps": [
+          {
+            "title": "Pintura asfáltica",
+            "sub": "una mano extra antes de pintar"
+          },
+          {
+            "title": "Barrera cerrada",
+            "sub": "frena el agua líquida"
+          },
+          {
+            "title": "Pintura final",
+            "sub": "ya es solo estética"
+          }
+        ]
+      }
+    },
+    {
+      "from": 13241,
+      "dur": 270,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "title": "LO QUE CUESTA LA BARRERA",
+        "rows": [
+          {
+            "label": "Sellador especial de ferretería",
+            "price": "Caro",
+            "bad": true
+          },
+          {
+            "label": "Pintura asfáltica (el truco)",
+            "price": "≈$2",
+            "bad": false
+          }
+        ],
+        "total": {
+          "label": "Diferencia",
+          "price": "Ahorras bastante"
+        },
+        "stamp": "EL TRUCO"
+      }
+    },
+    {
+      "from": 14236,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Paso 1: raspar bien",
+        "items": [
+          "Quita toda la pintura floja",
+          "Usa espátula o lija gruesa",
+          "Raspa más allá del borde visible"
+        ]
+      }
+    },
+    {
+      "from": 15074,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PASO 2: CEPILLAR EN SECO",
+        "phrase": "Nunca uses agua para limpiar la sal",
+        "accent": "Nunca uses agua",
+        "src": "img/mateo-salitre-del-zocalo_s53.png"
+      }
+    },
+    {
+      "from": 15869,
+      "dur": 270,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "La sal que todavía está adentro",
+        "kicker": "Por dentro, durante el secado",
+        "problema": "salitre",
+        "etiqueta": "Expulsando sal",
+        "note": "por eso hay que esperar antes de sellar"
+      }
+    },
+    {
+      "from": 16838,
+      "dur": 210,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "HASTA DÓNDE PINTAR ASFÁLTICO",
+        "w": 100,
+        "h": 10,
+        "unit": "cm",
+        "label": "EXTRA",
+        "note": "10 cm por encima de la mancha original"
+      }
+    },
+    {
+      "from": 17733,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "TIEMPO DE SECADO",
+        "value": 24,
+        "suffix": " h",
+        "label": "antes de seguir con el revoque y la pintura final"
+      }
+    },
+    {
+      "from": 19817,
+      "dur": 270,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "title": "SIN CALCULADORA",
+        "rows": [
+          {
+            "label": "Compras de menos",
+            "price": "Vuelves a la ferretería",
+            "bad": true
+          },
+          {
+            "label": "Compras de más",
+            "price": "Plata tirada en el estante",
+            "bad": true
+          }
+        ],
+        "total": {
+          "label": "Con la calculadora",
+          "price": "Compras justo"
+        },
+        "stamp": "SIN VUELTAS"
+      }
+    },
+    {
+      "from": 22261,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Error 3: ignorar lo de afuera",
+        "items": [
+          "Agua estancada tras la lluvia",
+          "Falta pendiente que aleje el agua",
+          "Hay que resolverlo antes o junto"
+        ]
+      }
+    },
+    {
+      "from": 23621,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "ERROR 4",
+        "phrase": "La pintura antihumedad también cede si no secás antes",
+        "accent": "también cede",
+        "src": "img/mateo-salitre-del-zocalo_s77.png"
+      }
+    },
+    {
+      "from": 24224,
+      "dur": 210,
+      "comp": "NivelBurbuja",
+      "props": {
+        "theme": "earth",
+        "title": "¿Hay pendiente hacia afuera?",
+        "verdict": "CLAVE EN NAPA ALTA",
+        "sub": "sin pendiente, el agua nunca se va"
+      }
+    },
+    {
+      "from": 25481,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Cada cuánto repetir?",
+        "left": {
+          "label": "Terreno normal",
+          "sub": "2 a 3 años tranquilo"
+        },
+        "right": {
+          "label": "Napa alta o zona lluviosa",
+          "sub": "revisar una vez al año"
+        }
+      }
+    },
+    {
+      "from": 27634,
+      "dur": 270,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "La barrera que frena el agua",
+        "kicker": "Por dentro, después del arreglo",
+        "problema": "humedad",
+        "etiqueta": "Barrera asfáltica",
+        "note": "por eso el salitre tarda años en volver"
+      }
+    },
+    {
+      "from": 29280,
+      "dur": 300,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "title": "LA BIBLIOTECA DEL MAESTRO",
+        "rows": [
+          {
+            "label": "Visita de un técnico",
+            "price": "Una sola visita",
+            "bad": true
+          },
+          {
+            "label": "Biblioteca del Maestro",
+            "price": "Menos que eso",
+            "bad": false
+          }
+        ],
+        "total": {
+          "label": "Garantía",
+          "price": "7 días con Hotmart"
+        },
+        "stamp": "MENOS DE LO QUE PENSÁS"
+      }
+    },
+    {
+      "from": 29825,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Qué incluye la Biblioteca",
+        "items": [
+          "3 manuales con medidas y costos",
+          "185 fichas imprimibles del taller",
+          "Calculadoras del Maestro (pintura gratis)"
+        ]
+      }
+    }
+  ]
+}
