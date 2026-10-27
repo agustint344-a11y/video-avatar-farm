@@ -19,7 +19,7 @@ git push -q -f origin "$BR"
 OLDRUNS=$(gh run list --branch "$BR" --json databaseId -q ".[].databaseId" 2>/dev/null | tr "
 " " ")
 TF=$(node -e 'console.log(require("./src/VideoEdit/data/cues_'"$SLUG"'.json").durationInFrames)')
-GL=$(grep -qE '"(Pared|Cano|Circuito|Vaso|Barras)3D"' "src/VideoEdit/data/cues_$SLUG.json" && echo swangle || echo angle)
+GL=$(grep -qE '"[A-Za-z]+3D"' "src/VideoEdit/data/cues_$SLUG.json" && echo swangle || echo angle)
 FARM_REF="$BR" ENTRY="$ENTRY" GL="$GL" node scripts/farm.mjs "$SLUG" "$COMP" "$TF" 40 "@_${SLUG}_assets.txt" | grep -E "disparado|rror" || true
 SHA=$(git rev-parse HEAD)
 rmdir C:/Users/Teje/AppData/Local/Temp/farmlock 2>/dev/null || true
