@@ -76,26 +76,18 @@
   "broll": [
     {
       "from": 0,
-      "dur": 2,
+      "dur": 192,
       "kind": "image",
       "src": "img/mateo-grieta-del-techo_s01.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 242,
-      "dur": 132,
-      "kind": "image",
-      "src": "img/mateo-grieta-del-techo_s03.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 374,
-      "dur": 96,
+      "from": 342,
+      "dur": 128,
       "kind": "image",
       "src": "img/mateo-grieta-del-techo_s04.png",
-      "kb": 2,
+      "kb": 1,
       "pip": false
     },
     {
@@ -103,7 +95,7 @@
       "dur": 82,
       "kind": "image",
       "src": "img/mateo-grieta-del-techo_s05.png",
-      "kb": 3,
+      "kb": 2,
       "pip": false
     },
     {
@@ -111,15 +103,15 @@
       "dur": 330,
       "kind": "image",
       "src": "img/mateo-grieta-del-techo_s128.png",
-      "kb": 4,
+      "kb": 3,
       "pip": false
     },
     {
       "from": 1147,
       "dur": 75,
       "kind": "image",
-      "src": "img/mateo-grieta-del-techo_s128.png",
-      "kb": 5,
+      "src": "img/mateo-grieta-del-techo_s03.png",
+      "kb": 4,
       "pip": false
     },
     {
@@ -127,7 +119,7 @@
       "dur": 141,
       "kind": "image",
       "src": "img/mateo-grieta-del-techo_s06.png",
-      "kb": 0,
+      "kb": 5,
       "pip": false
     },
     {
@@ -135,7 +127,7 @@
       "dur": 164,
       "kind": "image",
       "src": "img/mateo-grieta-del-techo_s07.png",
-      "kb": 1,
+      "kb": 0,
       "pip": false
     },
     {
@@ -143,7 +135,7 @@
       "dur": 51,
       "kind": "image",
       "src": "img/mateo-grieta-del-techo_s08.png",
-      "kb": 2,
+      "kb": 1,
       "pip": false
     },
     {
@@ -151,7 +143,7 @@
       "dur": 79,
       "kind": "image",
       "src": "img/mateo-grieta-del-techo_s09.png",
-      "kb": 3,
+      "kb": 2,
       "pip": false
     },
     {
@@ -159,7 +151,7 @@
       "dur": 72,
       "kind": "image",
       "src": "img/mateo-grieta-del-techo_s138.png",
-      "kb": 4,
+      "kb": 3,
       "pip": false
     },
     {
@@ -167,7 +159,7 @@
       "dur": 178,
       "kind": "image",
       "src": "img/mateo-grieta-del-techo_s10.png",
-      "kb": 5,
+      "kb": 4,
       "pip": false
     },
     {
@@ -175,7 +167,7 @@
       "dur": 63,
       "kind": "image",
       "src": "img/mateo-grieta-del-techo_s11.png",
-      "kb": 0,
+      "kb": 5,
       "pip": false
     },
     {
@@ -183,7 +175,7 @@
       "dur": 173,
       "kind": "image",
       "src": "img/mateo-grieta-del-techo_s12.png",
-      "kb": 1,
+      "kb": 0,
       "pip": false
     },
     {
@@ -191,7 +183,7 @@
       "dur": 188,
       "kind": "image",
       "src": "img/mateo-grieta-del-techo_s13.png",
-      "kb": 2,
+      "kb": 1,
       "pip": false
     },
     {
@@ -199,7 +191,7 @@
       "dur": 81,
       "kind": "image",
       "src": "img/mateo-grieta-del-techo_s14.png",
-      "kb": 3,
+      "kb": 2,
       "pip": false
     },
     {
@@ -207,7 +199,7 @@
       "dur": 88,
       "kind": "image",
       "src": "img/mateo-grieta-del-techo_s15.png",
-      "kb": 4,
+      "kb": 3,
       "pip": false
     },
     {
@@ -215,7 +207,7 @@
       "dur": 165,
       "kind": "image",
       "src": "img/mateo-grieta-del-techo_s16.png",
-      "kb": 5,
+      "kb": 4,
       "pip": false
     },
     {
@@ -223,7 +215,7 @@
       "dur": 128,
       "kind": "image",
       "src": "img/mateo-grieta-del-techo_s17.png",
-      "kb": 0,
+      "kb": 5,
       "pip": false
     },
     {
@@ -231,12 +223,20 @@
       "dur": 205,
       "kind": "image",
       "src": "img/mateo-grieta-del-techo_s18.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3513,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s90.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 3723,
-      "dur": 59,
+      "from": 3631,
+      "dur": 151,
       "kind": "image",
       "src": "img/mateo-grieta-del-techo_s20.png",
       "kb": 2,
@@ -246,7 +246,7 @@
       "from": 4022,
       "dur": 176,
       "kind": "image",
-      "src": "img/mateo-grieta-del-techo_s90.png",
+      "src": "img/mateo-grieta-del-techo_s88.png",
       "kb": 3,
       "pip": false
     },
@@ -294,7 +294,7 @@
       "from": 5206,
       "dur": 262,
       "kind": "image",
-      "src": "img/mateo-grieta-del-techo_s88.png",
+      "src": "img/mateo-grieta-del-techo_s55.png",
       "kb": 3,
       "pip": false
     },
@@ -382,7 +382,7 @@
       "from": 7580,
       "dur": 134,
       "kind": "image",
-      "src": "img/mateo-grieta-del-techo_s55.png",
+      "src": "img/mateo-grieta-del-techo_s19.png",
       "kb": 2,
       "pip": false
     },
@@ -486,7 +486,7 @@
       "from": 10601,
       "dur": 74,
       "kind": "image",
-      "src": "img/mateo-grieta-del-techo_s19.png",
+      "src": "img/mateo-grieta-del-techo_s02.png",
       "kb": 3,
       "pip": false
     },
@@ -526,7 +526,7 @@
       "from": 11513,
       "dur": 83,
       "kind": "image",
-      "src": "img/mateo-grieta-del-techo_s02.png",
+      "src": "img/mateo-grieta-del-techo_s50.png",
       "kb": 2,
       "pip": false
     },
@@ -1341,14 +1341,13 @@
   ],
   "overlays": [
     {
-      "from": 267,
+      "from": 2,
       "dur": 135,
-      "comp": "KeywordPop",
+      "comp": "SectionTitle",
       "props": {
         "theme": "earth",
-        "word": "SE MUEVE",
-        "sub": "la losa respira con el calor",
-        "pos": "top"
+        "eyebrow": "EL PROBLEMA",
+        "title": "Por qué la grieta siempre vuelve"
       }
     },
     {
@@ -1381,6 +1380,16 @@
         "word": "CAMINO CONTINUO",
         "sub": "no necesita agujero grande",
         "pos": "top"
+      }
+    },
+    {
+      "from": 3631,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "¿Tu grieta se mueve o está quieta?"
       }
     },
     {
@@ -1664,8 +1673,8 @@
   ],
   "components": [
     {
-      "from": 2,
-      "dur": 240,
+      "from": 192,
+      "dur": 150,
       "comp": "BigNumberCard",
       "props": {
         "theme": "earth",
@@ -1700,20 +1709,6 @@
         "entrada": "desliza",
         "veredicto": "mal",
         "note": "No necesita un agujero grande, necesita un camino continuo"
-      }
-    },
-    {
-      "from": 3513,
-      "dur": 210,
-      "comp": "PlanoMedidas",
-      "props": {
-        "theme": "earth",
-        "title": "ANCHO DE TU GRIETA",
-        "w": 1,
-        "h": 0,
-        "unit": "cm",
-        "label": "LÍMITE PARA ESTE MÉTODO",
-        "note": "Hasta 1 cm se sella; más que eso, revisión estructural"
       }
     },
     {
