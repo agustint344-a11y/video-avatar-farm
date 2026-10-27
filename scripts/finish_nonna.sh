@@ -11,7 +11,7 @@ until mkdir C:/Users/Teje/AppData/Local/Temp/farmlock 2>/dev/null; do sleep 20; 
 trap "rmdir C:/Users/Teje/AppData/Local/Temp/farmlock 2>/dev/null" EXIT
 BR="$SLUG-render"
 git checkout -q -B "$BR"
-for p in "$BUILD" "src/VideoEdit/data/cues_$SLUG.json" "_${SLUG}_assets.txt" src/Root_nonna*.tsx src/index-nonna*.ts src/Root_mateo*.tsx src/index-mateo*.ts src/Root_ines*.tsx src/index-ines*.ts src/Root_est*.tsx src/index-est*.ts src/VideoEdit/renderCues.tsx src/VideoEdit/types.ts src/VideoEdit/kit/kit.tsx src/VideoEdit/kit/kit5.tsx src/VideoEdit/kit/kit6.tsx src/VideoEdit/kit/kit7_3d.tsx src/VideoEdit/kit/real3d.ts package.json package-lock.json .github/workflows/render.yml scripts/finish_nonna.sh scripts/farm.mjs scripts/agnes_video.mjs scripts/cut_avatar_audio.mjs src/VideoEdit/scenes/AvatarLayer.tsx; do git add "$p" 2>/dev/null || echo "no add $p"; done
+for p in "$BUILD" "src/VideoEdit/data/cues_$SLUG.json" "_${SLUG}_assets.txt" src/Root_nonna*.tsx src/index-nonna*.ts src/Root_mateo*.tsx src/index-mateo*.ts src/Root_ines*.tsx src/index-ines*.ts src/Root_est*.tsx src/index-est*.ts src/VideoEdit/renderCues.tsx src/VideoEdit/types.ts src/VideoEdit/kit/kit.tsx src/VideoEdit/kit/kit5.tsx src/VideoEdit/kit/kit6.tsx src/VideoEdit/kit/kit7_3d.tsx src/VideoEdit/kit/kit8_escena.tsx src/VideoEdit/VideoMain.tsx src/VideoEdit/kit/real3d.ts package.json package-lock.json .github/workflows/render.yml scripts/finish_nonna.sh scripts/farm.mjs scripts/agnes_video.mjs scripts/cut_avatar_audio.mjs src/VideoEdit/scenes/AvatarLayer.tsx; do git add "$p" 2>/dev/null || echo "no add $p"; done
 git commit -q -m "$SLUG render
 
 Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>" || true

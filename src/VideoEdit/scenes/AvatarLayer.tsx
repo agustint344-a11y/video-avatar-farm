@@ -36,6 +36,25 @@ export const AvatarSegments: React.FC<{ slug: string; avatarSrc?: string; segs: 
   );
 };
 
+// AvatarPipSegs (2026-10-26) — tramos de avatar con pip:true: círculo abajo a la derecha, ENCIMA de las animaciones 3D.
+export const AvatarPipSegs: React.FC<{ slug: string; avatarSrc?: string; segs: AvatarSeg[] }> = ({ slug, avatarSrc, segs }) => {
+  const src = staticFile(avatarSrc ?? `${slug}_avatar.mp4`);
+  return (
+    <>
+      {segs.map((s, i) => !s.pip ? null : (
+        <Sequence key={`pip${i}`} from={s.from} durationInFrames={s.dur} name={`avatar pip ${i}`}>
+          <PipCircle dur={s.dur}><Video src={src} muted trimBefore={s.clip} objectFit="cover" style={{ width: "100%", height: "100%", transform: "scale(1.35)", transformOrigin: "50% 30%" }} /></PipCircle>
+        </Sequence>
+      ))}
+    </>
+  );
+};
+const PipCircle: React.FC<{ dur: number; children: React.ReactNode }> = ({ dur, children }) => {
+  const f = useCurrentFrame();
+  const k = Math.max(0, Math.min(1, f / 8, (dur - f) / 8));
+  return <div style={{ position: "absolute", right: 60, bottom: 60, width: 400, height: 400, borderRadius: 999, overflow: "hidden", opacity: k, transform: `scale(${0.8 + 0.2 * k})`, boxShadow: "0 24px 60px rgba(0,0,0,0.45)", border: "8px solid #fff", background: "#000" }}>{children}</div>;
+};
+
 // AvatarPip — el avatar chico en una esquina, ENCIMA del b-roll (estilo "dopamínico":
 // el b-roll llena la pantalla y el presentador queda presente pero pequeño). Va montado
 // toda la duración (sincronizado con el audio) y se muestra solo en las ventanas de b-roll.

@@ -57,6 +57,7 @@ export type AvatarSeg = {
   from: number;
   dur: number;
   clip: number; // frame de inicio dentro del mp4 de avatar
+  pip?: boolean; // 2026-10-26: avatar chico en una esquina ENCIMA de las 3D (apertura: la animación arranca en el segundo 0)
   zoom?: number; // modo avatar completo: encuadre de la "cámara" (1 = plano, 1.3 = primer plano)
 };
 

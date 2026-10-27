@@ -1,6 +1,6 @@
 import React from "react";
 import { AbsoluteFill, Sequence } from "remotion";
-import { AvatarAudio, AvatarBackdrop, AvatarPip, AvatarSegments } from "./scenes/AvatarLayer";
+import { AvatarAudio, AvatarBackdrop, AvatarPip, AvatarPipSegs, AvatarSegments } from "./scenes/AvatarLayer";
 import { BrollBeatView, ComponentBeatView, OverlayBeatView } from "./renderCues";
 import type { Cues } from "./types";
 
@@ -48,6 +48,9 @@ export const VideoMain: React.FC<{ cues: Cues }> = ({ cues }) => {
           <ComponentBeatView beat={c} />
         </Sequence>
       ))}
+
+      {/* avatar en círculo ENCIMA de las 3D (tramos pip) */}
+      {segMode && <AvatarPipSegs slug={cues.slug} avatarSrc={cues.avatarSrc} segs={cues.avatarSegs!} />}
     </AbsoluteFill>
   );
 };
