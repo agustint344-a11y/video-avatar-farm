@@ -8,105 +8,1411 @@
   "avatarSrc": "mateo-grieta-del-techo_avatar.mp4",
   "avatarSegs": [
     {
-      "from": 0,
-      "dur": 817,
-      "clip": 0,
-      "zoom": 1,
-      "pip": true
+      "from": 552,
+      "dur": 265,
+      "clip": 552
     },
     {
       "from": 1970,
       "dur": 275,
-      "clip": 817,
-      "zoom": 1.16
+      "clip": 817
     },
     {
       "from": 6280,
       "dur": 198,
-      "clip": 1092,
-      "zoom": 1.06
+      "clip": 1092
     },
     {
       "from": 8188,
       "dur": 571,
-      "clip": 1290,
-      "zoom": 1.22
+      "clip": 1290
     },
     {
       "from": 8953,
       "dur": 243,
-      "clip": 1861,
-      "zoom": 1.1
+      "clip": 1861
     },
     {
       "from": 13498,
       "dur": 285,
-      "clip": 2104,
-      "zoom": 1.18
+      "clip": 2104
     },
     {
       "from": 15883,
       "dur": 288,
-      "clip": 2389,
-      "zoom": 1
+      "clip": 2389
     },
     {
       "from": 17362,
       "dur": 336,
-      "clip": 2677,
-      "zoom": 1.16
+      "clip": 2677
     },
     {
       "from": 19936,
       "dur": 252,
-      "clip": 3013,
-      "zoom": 1.06
+      "clip": 3013
     },
     {
       "from": 27508,
       "dur": 288,
-      "clip": 3265,
-      "zoom": 1.22
+      "clip": 3265
     },
     {
       "from": 30154,
       "dur": 288,
-      "clip": 3553,
-      "zoom": 1.1
+      "clip": 3553
     },
     {
       "from": 31399,
       "dur": 441,
-      "clip": 3841,
-      "zoom": 1.18
+      "clip": 3841
     },
     {
       "from": 33529,
-      "dur": 189,
-      "clip": 4282,
-      "zoom": 1
+      "dur": 139,
+      "clip": 4282
     }
   ],
-  "broll": [],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 2,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 242,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s03.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 374,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s04.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 470,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s05.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 817,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s128.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1147,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s128.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1222,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s06.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1363,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s07.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 1527,
+      "dur": 51,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s08.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1578,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s09.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1657,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s138.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1729,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s10.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1907,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s11.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2245,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s12.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2418,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s13.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2606,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s14.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2687,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s15.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2775,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s16.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3180,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s17.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3308,
+      "dur": 205,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s18.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3723,
+      "dur": 59,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s20.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4022,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s90.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4198,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s21.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4393,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s22.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4556,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s23.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4625,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s24.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4801,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s25.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5206,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s88.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5468,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s26.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5608,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s27.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5752,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s28.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5968,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s29.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6478,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s30.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6598,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s31.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6844,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s32.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7060,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s33.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7149,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s34.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7306,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s35.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7580,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s55.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7714,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s36.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7901,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s37.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8059,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s38.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8759,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s39.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9196,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9280,
+      "dur": 50,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s41.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9330,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s42.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9737,
+      "dur": 56,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s71.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9793,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s43.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9913,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s44.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10104,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s45.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10219,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s46.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10601,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s19.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10675,
+      "dur": 264,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s47.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10939,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s48.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11044,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s49.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11208,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s50.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11513,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11596,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s51.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11673,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s52.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11869,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s53.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12080,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s54.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12524,
+      "dur": 215,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s54.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12739,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s56.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12823,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s57.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13033,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s58.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13363,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s58.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13783,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s59.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13885,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s60.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14011,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s61.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14338,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s61.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14494,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14702,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s63.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14833,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s64.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15001,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s65.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15322,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s66.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15435,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s67.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15541,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s68.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15739,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s69.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16171,
+      "dur": 366,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s70.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16537,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s72.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16666,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s73.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16783,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s74.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16909,
+      "dur": 229,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s75.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17138,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s76.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17698,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s77.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18096,
+      "dur": 52,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s122.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18148,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s78.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18250,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s79.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18361,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s80.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18733,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s81.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18847,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s82.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19075,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s83.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19420,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s83.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19612,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s84.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19795,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s85.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20188,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s86.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20518,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s86.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20752,
+      "dur": 363,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s87.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21115,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s89.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21445,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s89.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21571,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s91.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21748,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s92.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22165,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s92.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22294,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s93.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22405,
+      "dur": 51,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s94.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22456,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s95.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22660,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s96.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22753,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s97.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22983,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s98.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23309,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s98.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23482,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s99.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23605,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s100.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23689,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s101.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23917,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s102.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24007,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s103.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24373,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s103.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24445,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s104.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24694,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s105.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24922,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s106.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25042,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s107.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25288,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s108.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25411,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s109.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25494,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s110.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25861,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s110.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26083,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s111.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26335,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s112.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26506,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s113.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26575,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s114.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26755,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s115.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27157,
+      "dur": 58,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s115.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27215,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s116.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27319,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s117.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27796,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s118.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27988,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s119.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28174,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s120.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28585,
+      "dur": 408,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s121.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28993,
+      "dur": 309,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s124.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29482,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s123.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29599,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s125.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29799,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s126.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29929,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s127.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30442,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s127.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30581,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s129.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30700,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s130.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31027,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s130.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31102,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s131.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31249,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s132.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31840,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s132.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32206,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s133.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32359,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s134.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32449,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s135.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32545,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s136.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32755,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s137.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32923,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s139.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33061,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s140.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33205,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s141.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33385,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s142.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33668,
+      "dur": 50,
+      "kind": "image",
+      "src": "img/mateo-grieta-del-techo_s142.png",
+      "kb": 1,
+      "pip": false
+    }
+  ],
   "overlays": [
+    {
+      "from": 267,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SE MUEVE",
+        "sub": "la losa respira con el calor",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 1729,
+      "dur": 165,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "MATEO ARREGLA",
+        "title": "Mateo",
+        "sub": "Arreglos de techos y humedad, sin vueltas"
+      }
+    },
     {
       "from": 1970,
       "dur": 135,
       "comp": "SectionTitle",
       "props": {
         "theme": "earth",
-        "eyebrow": "PARTE 1",
-        "title": "El Dato Clave"
+        "eyebrow": "DATO 1",
+        "title": "El tamaño no importa, la profundidad sí"
       }
     },
     {
-      "from": 6280,
+      "from": 2418,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CAMINO CONTINUO",
+        "sub": "no necesita agujero grande",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 4393,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "GRIETA VIVA",
+        "sub": "se mueve con la temperatura",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 4801,
       "dur": 135,
       "comp": "SectionTitle",
       "props": {
         "theme": "earth",
-        "eyebrow": "PARTE 2",
-        "title": "Mi Historia Con la Grieta"
+        "eyebrow": "EL MATERIAL",
+        "title": "Masilla elástica de poliuretano"
+      }
+    },
+    {
+      "from": 5752,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "DOS DÓLARES",
+        "sub": "el truco por metro de grieta",
+        "pos": "top"
       }
     },
     {
@@ -136,33 +1442,46 @@
       }
     },
     {
-      "from": 8953,
+      "from": 9042,
       "dur": 135,
       "comp": "SectionTitle",
       "props": {
         "theme": "earth",
-        "eyebrow": "PARTE 3",
-        "title": "El Paso a Paso Completo"
+        "eyebrow": "PASO A PASO",
+        "title": "Los 4 pasos para sellar bien"
       }
     },
     {
-      "from": 13498,
+      "from": 10104,
       "dur": 135,
-      "comp": "SectionTitle",
+      "comp": "Callout",
       "props": {
         "theme": "earth",
-        "eyebrow": "PARTE 4",
-        "title": "El Error Que Arruina Todo"
+        "title": "ATENCIÓN",
+        "sub": "no apliques sobre superficie húmeda",
+        "tone": "warn"
       }
     },
     {
-      "from": 15883,
+      "from": 11673,
       "dur": 135,
-      "comp": "SectionTitle",
+      "comp": "KeywordPop",
       "props": {
         "theme": "earth",
-        "eyebrow": "PARTE 5",
-        "title": "Calculadoras, Grietas y Clima"
+        "word": "EL SECRETO",
+        "sub": "canal en forma de V",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 13885,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "OJO AQUÍ",
+        "sub": "viene el error clave",
+        "pos": "top"
       }
     },
     {
@@ -179,43 +1498,141 @@
       }
     },
     {
-      "from": 19936,
+      "from": 17635,
       "dur": 135,
       "comp": "SectionTitle",
       "props": {
         "theme": "earth",
-        "eyebrow": "PARTE 6",
-        "title": "Diagnóstico y Errores Finales"
+        "eyebrow": "¿SIRVE PARA TODAS?",
+        "title": "No todas las grietas son iguales"
       }
     },
     {
-      "from": 27508,
+      "from": 19612,
       "dur": 135,
-      "comp": "SectionTitle",
+      "comp": "Callout",
       "props": {
         "theme": "earth",
-        "eyebrow": "PARTE 7",
-        "title": "El Plan de Dos Fines de Semana"
+        "title": "REVISIÓN ANUAL",
+        "sub": "en climas extremos, revisa la reparación cada año",
+        "tone": "info"
       }
     },
     {
-      "from": 30154,
+      "from": 20188,
       "dur": 135,
       "comp": "SectionTitle",
       "props": {
         "theme": "earth",
-        "eyebrow": "PARTE 8",
-        "title": "Repaso Rápido del Método"
+        "eyebrow": "DIAGNÓSTICO RÁPIDO",
+        "title": "Qué hacer según tu grieta"
       }
     },
     {
-      "from": 31399,
+      "from": 22294,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 2,
+        "text": "Usar silicona de baño"
+      }
+    },
+    {
+      "from": 22983,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 3,
+        "text": "Sellar sobre polvo suelto"
+      }
+    },
+    {
+      "from": 23917,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 4,
+        "text": "Varias capas el mismo día"
+      }
+    },
+    {
+      "from": 24922,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "DETALLE CLAVE",
+        "sub": "la temperatura al aplicar",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 25288,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 5,
+        "text": "Aplicar fuera de rango de temperatura"
+      }
+    },
+    {
+      "from": 26083,
+      "dur": 135,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ELIGE BIEN EL DÍA",
+        "sub": "evita el frío o el calor extremo al aplicar",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 26506,
       "dur": 135,
       "comp": "SectionTitle",
       "props": {
         "theme": "earth",
-        "eyebrow": "PARTE 9",
-        "title": "Antes de Despedirme"
+        "eyebrow": "PAREDES VERTICALES",
+        "title": "¿Funciona en paredes?"
+      }
+    },
+    {
+      "from": 27661,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PLAN DE ACCIÓN",
+        "title": "Dos fines de semana"
+      }
+    },
+    {
+      "from": 28993,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SIN ANDAMIOS",
+        "sub": "dos fines de semana",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 30265,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "REPASO",
+        "title": "Todo lo que vimos hoy"
       }
     },
     {
@@ -247,106 +1664,322 @@
   ],
   "components": [
     {
-      "from": 0,
-      "dur": 267,
+      "from": 2,
+      "dur": 240,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL DATO",
+        "value": 6,
+        "prefix": "",
+        "suffix": " meses",
+        "label": "duró la reparación con cemento antes de volver a filtrar"
+      }
+    },
+    {
+      "from": 2940,
+      "dur": 240,
       "comp": "Escena3D",
       "props": {
         "theme": "earth",
-        "title": "La Grieta Que Vuelve a Filtrar",
+        "title": "El agua busca un camino, no un hueco",
+        "kicker": "Cómo entra la humedad",
         "objetos": [
           {
             "tipo": "losa",
-            "color": "#2b2b2b"
-          },
-          {
-            "tipo": "gota",
-            "color": "#3498db"
+            "etiqueta": "Filtración"
           }
         ],
         "efectos": [
-          "grieta",
           "goteo",
-          "lluvia"
+          "mancha",
+          "moho"
+        ],
+        "camara": "lateral",
+        "fondo": "claro",
+        "entrada": "desliza",
+        "veredicto": "mal",
+        "note": "No necesita un agujero grande, necesita un camino continuo"
+      }
+    },
+    {
+      "from": 3513,
+      "dur": 210,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "ANCHO DE TU GRIETA",
+        "w": 1,
+        "h": 0,
+        "unit": "cm",
+        "label": "LÍMITE PARA ESTE MÉTODO",
+        "note": "Hasta 1 cm se sella; más que eso, revisión estructural"
+      }
+    },
+    {
+      "from": 3782,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PRUEBA CASERA",
+        "title": "¿Tu grieta se mueve?",
+        "steps": [
+          {
+            "title": "Marca",
+            "sub": "dos rayas con lápiz"
+          },
+          {
+            "title": "Espera",
+            "sub": "un día de calor y uno de frío"
+          },
+          {
+            "title": "Mide",
+            "sub": "la distancia con una regla"
+          }
+        ]
+      }
+    },
+    {
+      "from": 4996,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "El material correcto",
+        "items": [
+          "Masilla elástica de poliuretano",
+          "También llamada sellador elastomérico",
+          "Viene en pomo o cartucho",
+          "Seca como goma, no como piedra"
+        ]
+      }
+    },
+    {
+      "from": 6073,
+      "dur": 207,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "title": "EL TRUCO DE LOS $2",
+        "rows": [
+          {
+            "label": "Llamar cada 6 meses",
+            "price": "Gasto repetido",
+            "bad": true
+          },
+          {
+            "label": "Masilla elástica por metro",
+            "price": "$2"
+          }
+        ],
+        "total": {
+          "label": "Resultado",
+          "price": "Dura años, no meses"
+        },
+        "stamp": "AHORRO"
+      }
+    },
+    {
+      "from": 7400,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA DIFERENCIA REAL",
+        "phrase": "Seis meses de parche o varios años de solución",
+        "accent": "varios años",
+        "src": "img/mateo-grieta-del-techo_s35.png"
+      }
+    },
+    {
+      "from": 9527,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Limpieza de la grieta",
+        "items": [
+          "Cepillo de alambre",
+          "Sacar musgo y polvo suelto",
+          "Pintura vieja descascarada",
+          "Secar con sol o secador"
+        ]
+      }
+    },
+    {
+      "from": 10421,
+      "dur": 180,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Hay que tapar el agujero, no agrandarlo",
+        "truth": "Ensanchar en V le da volumen para absorber el movimiento"
+      }
+    },
+    {
+      "from": 11303,
+      "dur": 210,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "MIDE EL CANAL EN V",
+        "w": 1,
+        "h": 1,
+        "unit": "cm",
+        "label": "GRIETA",
+        "note": "1 cm de ancho por 1 cm de profundidad"
+      }
+    },
+    {
+      "from": 12314,
+      "dur": 210,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "¿NECESITAS CORDÓN?",
+        "w": 2,
+        "h": 2,
+        "unit": "cm",
+        "label": "PROFUNDIDAD MÍNIMA",
+        "note": "Si la grieta supera los 2 cm de profundidad"
+      }
+    },
+    {
+      "from": 14158,
+      "dur": 180,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Si ya tapé la grieta, el trabajo terminó",
+        "truth": "Sin protección UV se reseca y se raja en 1 o 2 años"
+      }
+    },
+    {
+      "from": 15082,
+      "dur": 240,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "title": "EL PASO QUE DEFINE TODO",
+        "rows": [
+          {
+            "label": "Sin pintura protectora",
+            "price": "Dura 2 años",
+            "bad": true
+          },
+          {
+            "label": "Con pintura impermeabilizante",
+            "price": "Dura 10 años"
+          }
+        ],
+        "total": {
+          "label": "Diferencia",
+          "price": "8 años más de vida útil"
+        },
+        "stamp": "CLAVE"
+      }
+    },
+    {
+      "from": 17251,
+      "dur": 111,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "PRUEBA GRATIS",
+        "value": 100,
+        "max": 100,
+        "suffix": "%",
+        "label": "calculadora de pintura gratis en la página"
+      }
+    },
+    {
+      "from": 17886,
+      "dur": 210,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Cualquier grieta sirve?",
+        "left": {
+          "label": "Hasta 1 cm",
+          "sub": "se trata con este método"
+        },
+        "right": {
+          "label": "Más de 1 cm o con hundimiento",
+          "sub": "ya es un problema estructural"
+        }
+      }
+    },
+    {
+      "from": 18493,
+      "dur": 240,
+      "comp": "Escena3D",
+      "props": {
+        "theme": "earth",
+        "title": "Cuando ya no es un tema de sellado",
+        "kicker": "Hundimiento en la losa",
+        "objetos": [
+          {
+            "tipo": "columna",
+            "etiqueta": "Estructura"
+          }
+        ],
+        "efectos": [
+          "grieta"
         ],
         "camara": "contrapicado",
-        "fondo": "noche",
-        "entrada": "cae",
-        "dato": {
-          "valor": 6,
-          "unidad": "meses",
-          "label": "desde el sellado anterior"
-        },
-        "veredicto": "mal",
-        "plano": 3.5,
-        "pip": true
-      }
-    },
-    {
-      "from": 267,
-      "dur": 203,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "La Grieta Que Respira",
-        "objetos": [
-          {
-            "tipo": "losa"
-          }
-        ],
-        "efectos": [
-          "grieta"
-        ],
-        "camara": "acercamiento",
         "fondo": "plano",
-        "entrada": "pop",
+        "entrada": "sube",
         "veredicto": "mal",
-        "note": "Se abre y se cierra como si respirara.",
-        "plano": 3.5,
-        "pip": true
+        "note": "Hace falta un ingeniero, no más sellador"
       }
     },
     {
-      "from": 470,
-      "dur": 201,
-      "comp": "Escena3D",
+      "from": 19240,
+      "dur": 180,
+      "comp": "MythVsTruth",
       "props": {
         "theme": "earth",
-        "title": "El Cemento Que No Cede",
-        "objetos": [
-          {
-            "tipo": "losa"
-          },
-          {
-            "tipo": "sellador",
-            "etiqueta": "Cemento",
-            "color": "#7f8c8d"
-          }
-        ],
-        "efectos": [
-          "sellar",
-          "grieta"
-        ],
-        "camara": "rasante",
-        "fondo": "claro",
-        "entrada": "cae",
-        "veredicto": "mal",
-        "plano": 3.5,
-        "pip": true
+        "myth": "En climas extremos el sellador falla rápido",
+        "truth": "La masilla de calidad resiste bien; conviene revisarla una vez al año"
       }
     },
     {
-      "from": 671,
-      "dur": 353,
+      "from": 21985,
+      "dur": 180,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "La silicona de baño sirve para el techo",
+        "truth": "No resiste el sol ni los cambios de temperatura, se despega"
+      }
+    },
+    {
+      "from": 23099,
+      "dur": 210,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Errores de limpieza",
+        "items": [
+          "Sellar sobre polvo suelto",
+          "No sacar la pintura vieja",
+          "El sellador se pega al polvo, no a la losa"
+        ]
+      }
+    },
+    {
+      "from": 24133,
+      "dur": 240,
       "comp": "Escena3D",
       "props": {
         "theme": "earth",
-        "title": "La Mancha Que Ninguna Pintura Tapa",
+        "title": "Por fuera seca, por dentro sigue húmeda",
+        "kicker": "El riesgo de las capas gruesas",
         "objetos": [
           {
-            "tipo": "losa"
-          },
-          {
-            "tipo": "pincel"
+            "tipo": "pared",
+            "etiqueta": "Humedad atrapada"
           }
         ],
         "efectos": [
@@ -354,2263 +1987,124 @@
           "moho"
         ],
         "camara": "acercamiento",
-        "fondo": "claro",
-        "entrada": "sube",
-        "veredicto": "mal",
-        "plano": 3.5,
-        "pip": true
-      }
-    },
-    {
-      "from": 1024,
-      "dur": 198,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Dos Dólares el Metro",
-        "objetos": [
-          {
-            "tipo": "monedas"
-          },
-          {
-            "tipo": "sellador"
-          }
-        ],
-        "efectos": [
-          "dinero"
-        ],
-        "camara": "cenital",
-        "fondo": "plano",
-        "entrada": "cae",
-        "dato": {
-          "valor": 2,
-          "unidad": "USD/m",
-          "label": "costo por metro"
-        },
-        "veredicto": "bien",
-        "plano": 3.5
-      }
-    },
-    {
-      "from": 1222,
-      "dur": 748,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "kicker": "Atención",
-        "title": "El Error Más Común",
-        "objetos": [
-          {
-            "tipo": "lupa"
-          },
-          {
-            "tipo": "losa"
-          }
-        ],
-        "efectos": [
-          "grieta"
-        ],
-        "camara": "acercamiento",
-        "fondo": "claro",
-        "entrada": "pop",
-        "veredicto": "mal",
-        "plano": 3.5
-      }
-    },
-    {
-      "from": 2245,
-      "dur": 173,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Un Milímetro Filtra Igual",
-        "objetos": [
-          {
-            "tipo": "losa"
-          },
-          {
-            "tipo": "gota"
-          }
-        ],
-        "efectos": [
-          "goteo"
-        ],
-        "camara": "lateral",
-        "fondo": "claro",
-        "entrada": "cae",
-        "dato": {
-          "valor": 1,
-          "unidad": "mm",
-          "label": "ancho mínimo que filtra"
-        },
-        "veredicto": "mal",
-        "plano": 3.5
-      }
-    },
-    {
-      "from": 2418,
-      "dur": 188,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Cinco Milímetros, Mismo Resultado",
-        "objetos": [
-          {
-            "tipo": "losa"
-          },
-          {
-            "tipo": "gota"
-          }
-        ],
-        "efectos": [
-          "goteo",
-          "flujo"
-        ],
-        "camara": "travelling",
-        "fondo": "menta",
-        "entrada": "desliza",
-        "dato": {
-          "valor": 5,
-          "unidad": "mm",
-          "label": "filtra igual"
-        },
-        "veredicto": "mal",
-        "plano": 3.5
-      }
-    },
-    {
-      "from": 2606,
-      "dur": 169,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "El Agua Busca un Camino Continuo",
-        "objetos": [
-          {
-            "tipo": "gota"
-          },
-          {
-            "tipo": "cano"
-          }
-        ],
-        "efectos": [
-          "flujo"
-        ],
-        "camara": "rasante",
         "fondo": "arena",
         "entrada": "desliza",
         "veredicto": "mal",
-        "plano": 3.5
-      }
-    },
-    {
-      "from": 2775,
-      "dur": 165,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Solo la Capa Superior",
-        "objetos": [
-          {
-            "tipo": "losa"
-          }
-        ],
-        "efectos": [
-          "grieta",
-          "rayosx",
-          "mancha"
-        ],
-        "camara": "contrapicado",
-        "fondo": "arena",
-        "entrada": "cae",
-        "veredicto": "mal",
-        "plano": 3.5
-      }
-    },
-    {
-      "from": 2940,
-      "dur": 212,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Moja Hoy, Mancha Mañana",
-        "objetos": [
-          {
-            "tipo": "losa"
-          },
-          {
-            "tipo": "gota"
-          }
-        ],
-        "efectos": [
-          "goteo",
-          "mancha"
-        ],
-        "camara": "vuelta",
-        "fondo": "noche",
-        "entrada": "pop",
-        "veredicto": "mal",
-        "plano": 3.5
-      }
-    },
-    {
-      "from": 3152,
-      "dur": 156,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Tienes Algo Más de Tiempo",
-        "objetos": [
-          {
-            "tipo": "losa"
-          },
-          {
-            "tipo": "escudo"
-          }
-        ],
-        "efectos": [],
-        "camara": "alejamiento",
-        "fondo": "atardecer",
-        "entrada": "sube",
-        "veredicto": "mal",
-        "plano": 3.5
-      }
-    },
-    {
-      "from": 3308,
-      "dur": 180,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Trátala Antes de la Próxima Lluvia",
-        "objetos": [
-          {
-            "tipo": "nube"
-          },
-          {
-            "tipo": "losa"
-          }
-        ],
-        "efectos": [
-          "lluvia"
-        ],
-        "camara": "vuelta",
-        "fondo": "cielo",
-        "entrada": "sube",
-        "veredicto": "mal",
-        "plano": 3.5
-      }
-    },
-    {
-      "from": 3488,
-      "dur": 294,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "kicker": "La Prueba",
-        "title": "Una Prueba Sin Herramientas",
-        "objetos": [
-          {
-            "tipo": "lupa"
-          },
-          {
-            "tipo": "losa",
-            "etiqueta": "Marca de lápiz"
-          }
-        ],
-        "efectos": [],
-        "camara": "picado",
-        "fondo": "arena",
-        "entrada": "desliza",
-        "veredicto": "mal",
-        "plano": 3.5
-      }
-    },
-    {
-      "from": 3782,
-      "dur": 209,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Dos Rayas Junto al Borde",
-        "objetos": [
-          {
-            "tipo": "losa",
-            "etiqueta": "Dos rayas"
-          }
-        ],
-        "efectos": [],
-        "camara": "cenital",
-        "fondo": "claro",
-        "entrada": "pop",
-        "veredicto": "mal",
-        "plano": 3.5
-      }
-    },
-    {
-      "from": 3991,
-      "dur": 207,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Calor Un Día, Frío al Otro",
-        "objetos": [
-          {
-            "tipo": "sol",
-            "etiqueta": "Calor"
-          },
-          {
-            "tipo": "nube",
-            "etiqueta": "Frío"
-          }
-        ],
-        "efectos": [
-          "calor",
-          "frio"
-        ],
-        "camara": "vuelta",
-        "fondo": "atardecer",
-        "entrada": "pop",
-        "veredicto": "mal",
-        "plano": 3.5
-      }
-    },
-    {
-      "from": 4198,
-      "dur": 195,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Medio Milímetro Ya Es Mucho",
-        "objetos": [
-          {
-            "tipo": "losa"
-          }
-        ],
-        "efectos": [
-          "grieta",
-          "giro"
-        ],
-        "camara": "rasante",
-        "fondo": "arena",
-        "entrada": "cae",
-        "dato": {
-          "valor": 0.5,
-          "unidad": "mm",
-          "label": "grieta viva"
-        },
-        "veredicto": "mal",
-        "plano": 3.5
-      }
-    },
-    {
-      "from": 4393,
-      "dur": 232,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Capas Sobre Capas, Mismo Fracaso",
-        "objetos": [
-          {
-            "tipo": "losa"
-          },
-          {
-            "tipo": "sellador",
-            "etiqueta": "Cemento",
-            "color": "#7f8c8d"
-          }
-        ],
-        "efectos": [
-          "grieta",
-          "sellar",
-          "dinero"
-        ],
-        "camara": "lateral",
-        "fondo": "claro",
-        "entrada": "sube",
-        "veredicto": "mal",
-        "plano": 3.5
-      }
-    },
-    {
-      "from": 4625,
-      "dur": 371,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Tranquila, Pero Hay Que Sellarla",
-        "objetos": [
-          {
-            "tipo": "losa"
-          },
-          {
-            "tipo": "escudo"
-          }
-        ],
-        "efectos": [
-          "sellar"
-        ],
-        "camara": "orbita",
-        "fondo": "menta",
-        "entrada": "pop",
-        "veredicto": "bien",
-        "plano": 3.5
-      }
-    },
-    {
-      "from": 4996,
-      "dur": 267,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "kicker": "El Material",
-        "title": "Masilla Elástica de Poliuretano",
-        "objetos": [
-          {
-            "tipo": "sellador",
-            "color": "#2ecc71"
-          },
-          {
-            "tipo": "bidon"
-          }
-        ],
-        "efectos": [],
-        "camara": "acercamiento",
-        "fondo": "plano",
-        "entrada": "cae",
-        "veredicto": "bien",
-        "plano": 3.5
-      }
-    },
-    {
-      "from": 5263,
-      "dur": 205,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Seca Como Goma, No Piedra",
-        "objetos": [
-          {
-            "tipo": "sellador"
-          }
-        ],
-        "efectos": [
-          "brillo"
-        ],
-        "camara": "giro",
-        "fondo": "claro",
-        "entrada": "pop",
-        "veredicto": "bien",
-        "plano": 3.5
-      }
-    },
-    {
-      "from": 5468,
-      "dur": 284,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Flexible, No Rígida",
-        "objetos": [
-          {
-            "tipo": "sellador"
-          }
-        ],
-        "efectos": [
-          "brillo",
-          "grieta"
-        ],
-        "camara": "vuelta",
-        "fondo": "menta",
-        "entrada": "sube",
-        "veredicto": "bien",
-        "plano": 3.5
-      }
-    },
-    {
-      "from": 5752,
-      "dur": 216,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "El Truco de los Dos Dólares",
-        "objetos": [
-          {
-            "tipo": "monedas"
-          },
-          {
-            "tipo": "bidon"
-          }
-        ],
-        "efectos": [
-          "dinero"
-        ],
-        "camara": "picado",
-        "fondo": "plano",
-        "entrada": "cae",
-        "veredicto": "bien",
-        "plano": 3.5
-      }
-    },
-    {
-      "from": 5968,
-      "dur": 312,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "El Costo Según el Ancho",
-        "objetos": [
-          {
-            "tipo": "monedas"
-          },
-          {
-            "tipo": "losa"
-          }
-        ],
-        "efectos": [
-          "dinero"
-        ],
-        "camara": "lateral",
-        "fondo": "arena",
-        "entrada": "desliza",
-        "veredicto": "bien",
-        "plano": 3.5
-      }
-    },
-    {
-      "from": 6478,
-      "dur": 366,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Tres Veces Tapada, Tres Rota",
-        "objetos": [
-          {
-            "tipo": "losa"
-          },
-          {
-            "tipo": "casa",
-            "etiqueta": "Dormitorio"
-          }
-        ],
-        "efectos": [
-          "grieta",
-          "goteo"
-        ],
-        "camara": "picado",
-        "fondo": "noche",
-        "entrada": "cae",
-        "dato": {
-          "valor": 3,
-          "unidad": "veces",
-          "label": "reparaciones fallidas"
-        },
-        "veredicto": "mal",
-        "plano": 3.5
-      }
-    },
-    {
-      "from": 6844,
-      "dur": 305,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Como Si Supiera Dónde Romperse",
-        "objetos": [
-          {
-            "tipo": "losa"
-          },
-          {
-            "tipo": "nube"
-          }
-        ],
-        "efectos": [
-          "lluvia",
-          "grieta"
-        ],
-        "camara": "contrapicado",
-        "fondo": "atardecer",
-        "entrada": "sube",
-        "veredicto": "mal",
-        "plano": 3.5
-      }
-    },
-    {
-      "from": 7149,
-      "dur": 251,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "kicker": "El Diagnóstico",
-        "title": "No Era el Sellado",
-        "objetos": [
-          {
-            "tipo": "lupa"
-          },
-          {
-            "tipo": "sellador"
-          }
-        ],
-        "efectos": [],
-        "camara": "cenital",
-        "fondo": "arena",
-        "entrada": "desliza",
-        "veredicto": "mal",
-        "note": "El problema era que no acompañaba el movimiento.",
-        "plano": 3.5
-      }
-    },
-    {
-      "from": 7400,
-      "dur": 314,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Cambié el Material, Sin Gotera",
-        "objetos": [
-          {
-            "tipo": "losa"
-          },
-          {
-            "tipo": "sellador",
-            "color": "#2ecc71"
-          }
-        ],
-        "efectos": [
-          "sellar",
-          "brillo",
-          "sube"
-        ],
-        "camara": "vuelta",
-        "fondo": "cielo",
-        "entrada": "pop",
-        "veredicto": "bien",
-        "plano": 3.5
-      }
-    },
-    {
-      "from": 7714,
-      "dur": 474,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Seis Meses Contra Varios Años",
-        "objetos": [
-          {
-            "tipo": "reloj"
-          },
-          {
-            "tipo": "monedas"
-          }
-        ],
-        "efectos": [
-          "dinero",
-          "moho"
-        ],
-        "camara": "travelling",
-        "fondo": "menta",
-        "entrada": "desliza",
-        "dato": {
-          "valor": 6,
-          "unidad": "meses",
-          "label": "mínimo sin el truco"
-        },
-        "veredicto": "bien",
-        "plano": 3.5
-      }
-    },
-    {
-      "from": 8759,
-      "dur": 194,
-      "comp": "FraseKinetica",
-      "props": {
-        "texto": "contención, con medida  reale  y tiempo  reale , nada de poner un poco de e to y li to.",
-        "variante": 0
-      }
-    },
-    {
-      "from": 9196,
-      "dur": 331,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "kicker": "Paso 1",
-        "title": "Limpieza: El Paso Que Saltan",
-        "objetos": [
-          {
-            "tipo": "espatula"
-          },
-          {
-            "tipo": "losa"
-          }
-        ],
-        "efectos": [],
-        "camara": "lateral",
-        "fondo": "claro",
-        "entrada": "cae",
-        "veredicto": "mal",
-        "plano": 5
-      }
-    },
-    {
-      "from": 9527,
-      "dur": 386,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Fuera Polvo, Musgo y Pintura",
-        "objetos": [
-          {
-            "tipo": "espatula"
-          },
-          {
-            "tipo": "losa",
-            "etiqueta": "Limpia"
-          }
-        ],
-        "efectos": [
-          "lluvia"
-        ],
-        "camara": "rasante",
-        "fondo": "claro",
-        "entrada": "desliza",
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 9913,
-      "dur": 508,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "La Masilla No Pega con Humedad",
-        "objetos": [
-          {
-            "tipo": "sol"
-          },
-          {
-            "tipo": "losa"
-          }
-        ],
-        "efectos": [
-          "vapor",
-          "calor"
-        ],
-        "camara": "travelling",
-        "fondo": "cielo",
-        "entrada": "sube",
-        "veredicto": "mal",
-        "plano": 5
-      }
-    },
-    {
-      "from": 10421,
-      "dur": 254,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "kicker": "Paso 2",
-        "title": "Ensanchar la Grieta a Propósito",
-        "objetos": [
-          {
-            "tipo": "losa"
-          }
-        ],
-        "efectos": [
-          "grieta",
-          "sellar"
-        ],
-        "camara": "rasante",
-        "fondo": "plano",
-        "entrada": "desliza",
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 10675,
-      "dur": 533,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Una Línea Fina Se Rompe Igual",
-        "objetos": [
-          {
-            "tipo": "losa"
-          },
-          {
-            "tipo": "sellador",
-            "etiqueta": "Línea fina"
-          }
-        ],
-        "efectos": [
-          "grieta",
-          "sellar",
-          "calor"
-        ],
-        "camara": "acercamiento",
-        "fondo": "claro",
-        "entrada": "cae",
-        "veredicto": "mal",
-        "plano": 5
-      }
-    },
-    {
-      "from": 11208,
-      "dur": 388,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "El Canal en Forma de V",
-        "objetos": [
-          {
-            "tipo": "losa",
-            "etiqueta": "Canal en V"
-          }
-        ],
-        "efectos": [
-          "viento"
-        ],
-        "camara": "cenital",
-        "fondo": "plano",
-        "entrada": "pop",
-        "dato": {
-          "valor": 1,
-          "unidad": "cm",
-          "label": "ancho y profundidad"
-        },
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 11596,
-      "dur": 273,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "El Secreto Detrás del Canal",
-        "objetos": [
-          {
-            "tipo": "losa"
-          },
-          {
-            "tipo": "reloj"
-          }
-        ],
-        "efectos": [
-          "brillo"
-        ],
-        "camara": "orbita",
-        "fondo": "menta",
-        "entrada": "sube",
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 11869,
-      "dur": 720,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "kicker": "Paso 3",
-        "title": "El Cordón de Espuma Ahorra",
-        "objetos": [
-          {
-            "tipo": "membrana",
-            "etiqueta": "Cordón de espuma"
-          },
-          {
-            "tipo": "losa"
-          }
-        ],
-        "efectos": [],
-        "camara": "lateral",
-        "fondo": "claro",
-        "entrada": "desliza",
-        "dato": {
-          "valor": 2,
-          "unidad": "cm",
-          "label": "profundidad mínima"
-        },
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 12589,
-      "dur": 150,
-      "comp": "FraseKinetica",
-      "props": {
-        "texto": "Si tu grieta e  poco profunda te puede   altar e te pa o  in problema.",
-        "variante": 1
-      }
-    },
-    {
-      "from": 12739,
-      "dur": 294,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "kicker": "Paso 4",
-        "title": "Llenar el Canal Sin Burbujas",
-        "objetos": [
-          {
-            "tipo": "sellador"
-          },
-          {
-            "tipo": "losa"
-          }
-        ],
-        "efectos": [
-          "sellar"
-        ],
-        "camara": "acercamiento",
-        "fondo": "plano",
-        "entrada": "cae",
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 13033,
-      "dur": 465,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Las Burbujas Que Se Vuelven Grietas",
-        "objetos": [
-          {
-            "tipo": "sellador"
-          },
-          {
-            "tipo": "losa"
-          }
-        ],
-        "efectos": [
-          "sellar",
-          "grieta",
-          "vapor"
-        ],
-        "camara": "contrapicado",
-        "fondo": "claro",
-        "entrada": "desliza",
-        "veredicto": "mal",
-        "plano": 5
-      }
-    },
-    {
-      "from": 13783,
-      "dur": 534,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "El error que se acerca",
-        "kicker": "Error número uno",
-        "objetos": [
-          {
-            "tipo": "losa"
-          },
-          {
-            "tipo": "sol",
-            "etiqueta": "Sol directo"
-          }
-        ],
-        "efectos": [
-          "calor",
-          "grieta"
-        ],
-        "camara": "contrapicado",
-        "fondo": "atardecer",
-        "entrada": "cae",
-        "veredicto": "mal",
-        "plano": 5
-      }
-    },
-    {
-      "from": 14317,
-      "dur": 385,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Sellador sin protección al sol",
-        "objetos": [
-          {
-            "tipo": "sellador"
-          },
-          {
-            "tipo": "sol",
-            "etiqueta": "UV directo"
-          }
-        ],
-        "efectos": [
-          "calor",
-          "grieta"
-        ],
-        "camara": "rasante",
-        "fondo": "cielo",
-        "entrada": "pop",
-        "veredicto": "mal",
-        "plano": 5
-      }
-    },
-    {
-      "from": 14702,
-      "dur": 380,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "El sellador se vuelve rígido",
-        "objetos": [
-          {
-            "tipo": "sellador"
-          },
-          {
-            "tipo": "losa",
-            "etiqueta": "Rígido"
-          }
-        ],
-        "efectos": [
-          "rayosx",
-          "grieta"
-        ],
-        "camara": "cenital",
-        "fondo": "plano",
-        "entrada": "desliza",
-        "veredicto": "mal",
-        "plano": 5
-      }
-    },
-    {
-      "from": 15082,
-      "dur": 216,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Esperar entre 24 y 48 horas",
-        "objetos": [
-          {
-            "tipo": "reloj"
-          },
-          {
-            "tipo": "sellador",
-            "etiqueta": "Secando"
-          }
-        ],
-        "efectos": [
-          "grieta",
-          "rayosx"
-        ],
-        "dato": {
-          "valor": 48,
-          "unidad": "horas",
-          "label": "tiempo de secado"
-        },
-        "camara": "cenital",
-        "fondo": "claro",
-        "entrada": "cae",
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 15298,
-      "dur": 243,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Pintura acrílica como protector solar",
-        "objetos": [
-          {
-            "tipo": "sellador"
-          },
-          {
-            "tipo": "rodillo",
-            "etiqueta": "Pintura acrílica"
-          }
-        ],
-        "efectos": [
-          "sellar",
-          "brillo"
-        ],
-        "camara": "travelling",
-        "fondo": "menta",
-        "entrada": "desliza",
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 15541,
-      "dur": 342,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Diferencia entre 2 y 10 años",
-        "objetos": [
-          {
-            "tipo": "reloj"
-          },
-          {
-            "tipo": "escudo"
-          }
-        ],
-        "efectos": [
-          "brillo"
-        ],
-        "dato": {
-          "valor": 10,
-          "unidad": "años",
-          "label": "si no se salta este paso"
-        },
-        "camara": "alejamiento",
-        "fondo": "claro",
-        "entrada": "pop",
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 16171,
-      "dur": 366,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Comprar de más tira la plata",
-        "objetos": [
-          {
-            "tipo": "monedas"
-          },
-          {
-            "tipo": "bidon",
-            "etiqueta": "De más"
-          },
-          {
-            "tipo": "bidon",
-            "etiqueta": "Sin usar"
-          }
-        ],
-        "efectos": [
-          "dinero",
-          "brillo"
-        ],
-        "camara": "picado",
-        "fondo": "claro",
-        "entrada": "cae",
-        "veredicto": "mal",
-        "plano": 5
-      }
-    },
-    {
-      "from": 16537,
-      "dur": 372,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "La calculadora dice cuántos cartuchos",
-        "objetos": [
-          {
-            "tipo": "lupa"
-          },
-          {
-            "tipo": "sellador",
-            "etiqueta": "Cartuchos"
-          }
-        ],
-        "efectos": [
-          "dinero"
-        ],
-        "camara": "cenital",
-        "fondo": "plano",
-        "entrada": "desliza",
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 16909,
-      "dur": 342,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Calculadoras para cada material",
-        "objetos": [
-          {
-            "tipo": "membrana"
-          },
-          {
-            "tipo": "ceramica"
-          },
-          {
-            "tipo": "cano"
-          }
-        ],
-        "efectos": [],
-        "camara": "orbita",
-        "fondo": "claro",
-        "entrada": "desliza",
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 17251,
-      "dur": 111,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Prueba gratis la calculadora",
-        "kicker": "De pintura",
-        "objetos": [
-          {
-            "tipo": "pincel"
-          },
-          {
-            "tipo": "rodillo",
-            "etiqueta": "Prueba gratis"
-          }
-        ],
-        "efectos": [
-          "brillo"
-        ],
-        "camara": "acercamiento",
-        "fondo": "menta",
-        "entrada": "sube",
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 17698,
-      "dur": 450,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "El método resuelve la grieta fina",
-        "objetos": [
-          {
-            "tipo": "losa"
-          },
-          {
-            "tipo": "escudo",
-            "etiqueta": "Resuelto"
-          }
-        ],
-        "efectos": [
-          "brillo"
-        ],
-        "camara": "alejamiento",
-        "fondo": "menta",
-        "entrada": "pop",
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 18148,
-      "dur": 578,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Grieta ancha: problema estructural",
-        "objetos": [
-          {
-            "tipo": "losa"
-          },
-          {
-            "tipo": "columna",
-            "etiqueta": "Más de 1 cm"
-          }
-        ],
-        "efectos": [
-          "grieta",
-          "rayosx"
-        ],
-        "dato": {
-          "valor": 1,
-          "unidad": "cm",
-          "label": "grieta ancha"
-        },
-        "camara": "contrapicado",
-        "fondo": "noche",
-        "entrada": "cae",
-        "veredicto": "mal",
-        "plano": 5
-      }
-    },
-    {
-      "from": 18726,
-      "dur": 514,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Llamar a un ingeniero estructural",
-        "objetos": [
-          {
-            "tipo": "casa"
-          },
-          {
-            "tipo": "columna",
-            "etiqueta": "Revisión"
-          }
-        ],
-        "efectos": [
-          "grieta"
-        ],
-        "camara": "travelling",
-        "fondo": "plano",
-        "entrada": "pop",
-        "veredicto": "mal",
-        "plano": 5
-      }
-    },
-    {
-      "from": 19240,
-      "dur": 372,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Revisar una vez por año",
-        "kicker": "Climas extremos",
-        "objetos": [
-          {
-            "tipo": "termometro"
-          },
-          {
-            "tipo": "nube",
-            "etiqueta": "Frío"
-          },
-          {
-            "tipo": "sol",
-            "etiqueta": "Calor"
-          }
-        ],
-        "efectos": [
-          "frio",
-          "calor"
-        ],
-        "dato": {
-          "valor": 1,
-          "unidad": "vez/año",
-          "label": "revisión preventiva"
-        },
-        "camara": "orbita",
-        "fondo": "atardecer",
-        "entrada": "desliza",
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 19612,
-      "dur": 324,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Revisar antes de la temporada",
-        "kicker": "Antes de lluvias",
-        "objetos": [
-          {
-            "tipo": "nube"
-          },
-          {
-            "tipo": "sellador",
-            "etiqueta": "Repaso"
-          }
-        ],
-        "efectos": [
-          "lluvia"
-        ],
-        "camara": "travelling",
-        "fondo": "cielo",
-        "entrada": "sube",
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 20188,
-      "dur": 564,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Diagnóstico rápido según tu grieta",
-        "objetos": [
-          {
-            "tipo": "lupa"
-          },
-          {
-            "tipo": "casa",
-            "etiqueta": "Diagnóstico"
-          }
-        ],
-        "efectos": [],
-        "camara": "orbita",
-        "fondo": "menta",
-        "entrada": "pop",
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 20752,
-      "dur": 363,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Problema resuelto por mucho tiempo",
-        "objetos": [
-          {
-            "tipo": "reloj"
-          },
-          {
-            "tipo": "membrana",
-            "etiqueta": "Resuelto"
-          }
-        ],
-        "efectos": [
-          "brillo"
-        ],
-        "camara": "orbita",
-        "fondo": "menta",
-        "entrada": "pop",
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 21115,
-      "dur": 456,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Grieta media: cordón de respaldo",
-        "objetos": [
-          {
-            "tipo": "losa"
-          },
-          {
-            "tipo": "sellador"
-          }
-        ],
-        "efectos": [
-          "goteo",
-          "sellar"
-        ],
-        "dato": {
-          "valor": 10,
-          "unidad": "mm",
-          "label": "grieta media"
-        },
-        "camara": "acercamiento",
-        "fondo": "cielo",
-        "entrada": "sube",
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 21571,
-      "dur": 568,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Grieta ancha: parar y llamar experto",
-        "objetos": [
-          {
-            "tipo": "losa"
-          },
-          {
-            "tipo": "escudo",
-            "etiqueta": "Parar"
-          }
-        ],
-        "efectos": [
-          "grieta"
-        ],
-        "dato": {
-          "valor": 1,
-          "unidad": "cm",
-          "label": "grieta ancha"
-        },
-        "camara": "picado",
-        "fondo": "noche",
-        "entrada": "pop",
-        "veredicto": "mal",
-        "plano": 5
-      }
-    },
-    {
-      "from": 22139,
-      "dur": 317,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Silicona de baño no es igual",
-        "objetos": [
-          {
-            "tipo": "bidon",
-            "etiqueta": "Silicona baño"
-          },
-          {
-            "tipo": "bidon",
-            "etiqueta": "Masilla exterior"
-          }
-        ],
-        "efectos": [
-          "calor",
-          "grieta"
-        ],
-        "camara": "lateral",
-        "fondo": "atardecer",
-        "entrada": "desliza",
-        "veredicto": "mal",
-        "plano": 5
-      }
-    },
-    {
-      "from": 22456,
-      "dur": 297,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Se despega antes de lo esperado",
-        "objetos": [
-          {
-            "tipo": "bidon",
-            "etiqueta": "Silicona despegada"
-          },
-          {
-            "tipo": "gota"
-          }
-        ],
-        "efectos": [
-          "flujo"
-        ],
-        "camara": "rasante",
-        "fondo": "cielo",
-        "entrada": "desliza",
-        "veredicto": "mal",
-        "plano": 5
-      }
-    },
-    {
-      "from": 22753,
-      "dur": 567,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Sellador sobre polvo se despega",
-        "objetos": [
-          {
-            "tipo": "losa"
-          },
-          {
-            "tipo": "sellador"
-          }
-        ],
-        "efectos": [
-          "lluvia",
-          "flujo"
-        ],
-        "camara": "rasante",
-        "fondo": "cielo",
-        "entrada": "cae",
-        "veredicto": "mal",
-        "plano": 5
-      }
-    },
-    {
-      "from": 23320,
-      "dur": 369,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "La limpieza que nadie quiere hacer",
-        "objetos": [
-          {
-            "tipo": "losa"
-          },
-          {
-            "tipo": "balde",
-            "etiqueta": "Limpieza"
-          }
-        ],
-        "efectos": [],
-        "camara": "travelling",
-        "fondo": "claro",
-        "entrada": "sube",
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 23689,
-      "dur": 444,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Capas gruesas atrapan humedad",
-        "objetos": [
-          {
-            "tipo": "sellador"
-          },
-          {
-            "tipo": "losa"
-          }
-        ],
-        "efectos": [
-          "vapor",
-          "rayosx"
-        ],
-        "camara": "cenital",
-        "fondo": "plano",
-        "entrada": "sube",
-        "veredicto": "mal",
-        "plano": 5
-      }
-    },
-    {
-      "from": 24133,
-      "dur": 312,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "La humedad atrapada forma burbujas",
-        "objetos": [
-          {
-            "tipo": "sellador"
-          },
-          {
-            "tipo": "losa",
-            "etiqueta": "Burbujas"
-          }
-        ],
-        "efectos": [
-          "vapor",
-          "sube"
-        ],
-        "camara": "acercamiento",
-        "fondo": "noche",
-        "entrada": "pop",
-        "veredicto": "mal",
-        "plano": 5
-      }
-    },
-    {
-      "from": 24445,
-      "dur": 597,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Una sola capa bien hecha",
-        "objetos": [
-          {
-            "tipo": "sellador"
-          },
-          {
-            "tipo": "escudo"
-          }
-        ],
-        "efectos": [
-          "brillo"
-        ],
-        "camara": "alejamiento",
-        "fondo": "menta",
-        "entrada": "cae",
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 25042,
-      "dur": 452,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Rango ideal: 5 a 35 grados",
-        "objetos": [
-          {
-            "tipo": "termometro"
-          },
-          {
-            "tipo": "sellador"
-          }
-        ],
-        "efectos": [],
-        "dato": {
-          "valor": 35,
-          "unidad": "°C",
-          "label": "temperatura máxima"
-        },
-        "camara": "acercamiento",
-        "fondo": "claro",
-        "entrada": "pop",
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 25494,
-      "dur": 157,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "En frío extremo queda frágil",
-        "objetos": [
-          {
-            "tipo": "termometro",
-            "etiqueta": "Frío extremo"
-          },
-          {
-            "tipo": "sellador"
-          }
-        ],
-        "efectos": [
-          "frio",
-          "grieta"
-        ],
-        "camara": "alejamiento",
-        "fondo": "noche",
-        "entrada": "cae",
-        "veredicto": "mal",
-        "plano": 5
+        "note": "La humedad atrapada genera burbujas y despegues"
       }
     },
     {
       "from": 25651,
-      "dur": 432,
-      "comp": "Escena3D",
+      "dur": 210,
+      "comp": "BigNumberCard",
       "props": {
         "theme": "earth",
-        "title": "Por fuera dura, por dentro blando",
-        "objetos": [
-          {
-            "tipo": "sellador"
-          },
-          {
-            "tipo": "sol",
-            "etiqueta": "Calor extremo"
-          }
-        ],
-        "efectos": [
-          "calor",
-          "rayosx"
-        ],
-        "camara": "rasante",
-        "fondo": "arena",
-        "entrada": "desliza",
-        "veredicto": "mal",
-        "plano": 5
+        "eyebrow": "RANGO IDEAL",
+        "value": 35,
+        "prefix": "",
+        "suffix": "°C",
+        "label": "temperatura máxima recomendada para aplicar el sellador"
       }
     },
     {
-      "from": 26083,
-      "dur": 423,
+      "from": 26917,
+      "dur": 240,
       "comp": "Escena3D",
       "props": {
         "theme": "earth",
-        "title": "Elegir un día templado de mañana",
-        "objetos": [
-          {
-            "tipo": "sol"
-          },
-          {
-            "tipo": "reloj",
-            "etiqueta": "Día templado"
-          }
-        ],
-        "efectos": [],
-        "camara": "cenital",
-        "fondo": "cielo",
-        "entrada": "sube",
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 26506,
-      "dur": 249,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "En paredes el sellador puede escurrir",
-        "objetos": [
-          {
-            "tipo": "pared"
-          },
-          {
-            "tipo": "sellador",
-            "etiqueta": "Escurre"
-          }
-        ],
-        "efectos": [
-          "flujo"
-        ],
-        "camara": "lateral",
-        "fondo": "plano",
-        "entrada": "cae",
-        "veredicto": "mal",
-        "plano": 5
-      }
-    },
-    {
-      "from": 26755,
-      "dur": 246,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Vertical vs horizontal: más riesgo",
+        "title": "En la pared, la masilla puede escurrir",
+        "kicker": "La gravedad antes de curar",
         "objetos": [
           {
             "tipo": "pared",
             "etiqueta": "Vertical"
-          },
-          {
-            "tipo": "losa",
-            "etiqueta": "Horizontal"
           }
         ],
         "efectos": [
-          "flujo"
-        ],
-        "camara": "lateral",
-        "fondo": "plano",
-        "entrada": "desliza",
-        "veredicto": "mal",
-        "plano": 5
-      }
-    },
-    {
-      "from": 27001,
-      "dur": 318,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Masilla espesa para paredes verticales",
-        "objetos": [
-          {
-            "tipo": "pared"
-          },
-          {
-            "tipo": "sellador",
-            "etiqueta": "Masilla espesa"
-          }
-        ],
-        "efectos": [
-          "sellar",
-          "brillo"
-        ],
-        "camara": "contrapicado",
-        "fondo": "cielo",
-        "entrada": "sube",
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 27319,
-      "dur": 189,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Diferencia entre prolijo y chorreado",
-        "objetos": [
-          {
-            "tipo": "pared",
-            "etiqueta": "Prolijo"
-          },
-          {
-            "tipo": "pared",
-            "etiqueta": "Chorreado"
-          }
-        ],
-        "efectos": [
-          "brillo"
-        ],
-        "camara": "orbita",
-        "fondo": "atardecer",
-        "entrada": "pop",
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 27796,
-      "dur": 378,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Inspección Completa del Techo",
-        "kicker": "Fin de semana 1",
-        "objetos": [
-          {
-            "tipo": "escalera",
-            "etiqueta": "Subir"
-          },
-          {
-            "tipo": "losa",
-            "etiqueta": "Marcar"
-          }
-        ],
-        "efectos": [
-          "grieta"
-        ],
-        "camara": "travelling",
-        "fondo": "cielo",
-        "entrada": "sube",
-        "veredicto": "mal",
-        "plano": 5
-      }
-    },
-    {
-      "from": 28174,
-      "dur": 246,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "La Prueba de las Rayas",
-        "kicker": "Diagnóstico clave",
-        "objetos": [
-          {
-            "tipo": "losa",
-            "etiqueta": "Grieta"
-          },
-          {
-            "tipo": "termometro"
-          }
-        ],
-        "efectos": [
-          "grieta",
-          "giro"
-        ],
-        "camara": "acercamiento",
-        "fondo": "plano",
-        "entrada": "pop",
-        "veredicto": "mal",
-        "plano": 5
-      }
-    },
-    {
-      "from": 28420,
-      "dur": 573,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Ensanchado en Forma de V",
-        "objetos": [
-          {
-            "tipo": "espatula"
-          },
-          {
-            "tipo": "losa",
-            "etiqueta": "Grieta"
-          }
-        ],
-        "efectos": [
-          "grieta"
-        ],
-        "camara": "rasante",
-        "fondo": "arena",
-        "entrada": "desliza",
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 28993,
-      "dur": 387,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Dos Fines de Semana vs Obra",
-        "objetos": [
-          {
-            "tipo": "reloj",
-            "etiqueta": "Tu plan"
-          },
-          {
-            "tipo": "escalera",
-            "etiqueta": "Andamios"
-          }
-        ],
-        "efectos": [],
-        "camara": "orbita",
-        "fondo": "cielo",
-        "entrada": "pop",
-        "dato": {
-          "valor": 2,
-          "unidad": "fines de semana",
-          "label": "Tu plan"
-        },
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 29380,
-      "dur": 419,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Anota Fecha y Marca",
-        "objetos": [
-          {
-            "tipo": "foco",
-            "etiqueta": "Recordatorio"
-          },
-          {
-            "tipo": "sellador"
-          }
-        ],
-        "efectos": [],
-        "camara": "lateral",
-        "fondo": "claro",
-        "entrada": "desliza",
-        "veredicto": "bien",
-        "note": "Un dato simple que ahorra dudas futuras.",
-        "plano": 5
-      }
-    },
-    {
-      "from": 29799,
-      "dur": 355,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Cuánto Tiempo Lleva Trabajando",
-        "objetos": [
-          {
-            "tipo": "reloj"
-          },
-          {
-            "tipo": "sellador"
-          }
-        ],
-        "efectos": [
-          "rayosx"
-        ],
-        "camara": "contrapicado",
-        "fondo": "noche",
-        "entrada": "cae",
-        "dato": {
-          "valor": 3,
-          "unidad": "años",
-          "label": "Revisión"
-        },
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 30442,
-      "dur": 498,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Masilla Elástica de Poliuretano",
-        "objetos": [
-          {
-            "tipo": "sellador",
-            "etiqueta": "Poliuretano"
-          }
-        ],
-        "efectos": [
-          "giro"
-        ],
-        "camara": "acercamiento",
-        "fondo": "plano",
-        "entrada": "pop",
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 30940,
-      "dur": 309,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "El Error que Arruina Todo",
-        "objetos": [
-          {
-            "tipo": "sol",
-            "etiqueta": "Sin protección"
-          },
-          {
-            "tipo": "membrana",
-            "etiqueta": "Expuesta"
-          }
-        ],
-        "efectos": [
-          "calor",
-          "grieta"
-        ],
-        "camara": "vuelta",
-        "fondo": "atardecer",
-        "entrada": "cae",
-        "veredicto": "mal",
-        "plano": 5
-      }
-    },
-    {
-      "from": 31249,
-      "dur": 150,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "La Pintura que Da Duración",
-        "objetos": [
-          {
-            "tipo": "escudo",
-            "etiqueta": "Pintura"
-          },
-          {
-            "tipo": "sol"
-          }
-        ],
-        "efectos": [
-          "brillo"
-        ],
-        "camara": "alejamiento",
-        "fondo": "cielo",
-        "entrada": "sube",
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 31840,
-      "dur": 609,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Garantía de Siete Días",
-        "objetos": [
-          {
-            "tipo": "escudo",
-            "etiqueta": "Garantía"
-          },
-          {
-            "tipo": "monedas"
-          }
-        ],
-        "efectos": [
-          "dinero"
+          "goteo"
         ],
         "camara": "lateral",
         "fondo": "claro",
-        "entrada": "cae",
-        "dato": {
-          "valor": 7,
-          "unidad": "días",
-          "label": "Garantía Hotmart"
-        },
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 32449,
-      "dur": 306,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Calculadora de Pintura Gratis",
-        "objetos": [
-          {
-            "tipo": "lupa",
-            "etiqueta": "Calculadora"
-          },
-          {
-            "tipo": "pincel",
-            "etiqueta": "Pintura"
-          }
-        ],
-        "efectos": [],
-        "camara": "cenital",
-        "fondo": "plano",
-        "entrada": "desliza",
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 32755,
-      "dur": 168,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "Quédate con Nosotros",
-        "objetos": [
-          {
-            "tipo": "casa",
-            "etiqueta": "Canal"
-          }
-        ],
-        "efectos": [
-          "brillo"
-        ],
-        "camara": "travelling",
-        "fondo": "noche",
-        "entrada": "pop",
-        "veredicto": "bien",
-        "plano": 5
-      }
-    },
-    {
-      "from": 32923,
-      "dur": 282,
-      "comp": "Escena3D",
-      "props": {
-        "theme": "earth",
-        "title": "La Próxima Semana Más Arreglos",
-        "objetos": [
-          {
-            "tipo": "canaleta",
-            "etiqueta": "Próximo video"
-          },
-          {
-            "tipo": "nube"
-          }
-        ],
-        "efectos": [
-          "lluvia"
-        ],
-        "camara": "alejamiento",
-        "fondo": "atardecer",
         "entrada": "sube",
         "veredicto": "mal",
-        "plano": 5
+        "note": "Se necesita una masilla más espesa para exteriores verticales"
       }
     },
     {
-      "from": 33205,
-      "dur": 324,
-      "comp": "Escena3D",
+      "from": 28345,
+      "dur": 240,
+      "comp": "Timeline",
       "props": {
         "theme": "earth",
-        "title": "¿Tu Grieta se Mueve?",
-        "objetos": [
+        "title": "Plan de dos fines de semana",
+        "steps": [
           {
-            "tipo": "lupa"
+            "when": "Sábado 1",
+            "text": "Inspección y marcar grietas con tiza"
           },
           {
-            "tipo": "losa",
-            "etiqueta": "Grieta"
+            "when": "Domingo 1",
+            "text": "Prueba de las dos rayas y limpieza"
+          },
+          {
+            "when": "Sábado 2",
+            "text": "Ensanchado en V y cordón de respaldo"
+          },
+          {
+            "when": "Domingo 2",
+            "text": "Aplicar masilla y pintura protectora"
+          }
+        ]
+      }
+    },
+    {
+      "from": 29302,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "SIN ESPECIALISTA",
+        "value": 2,
+        "prefix": "",
+        "suffix": " fines de semana",
+        "label": "para resolver lo que pensabas que necesitaba andamios"
+      }
+    },
+    {
+      "from": 30847,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "UN TRUCO EXTRA",
+        "phrase": "Anota la fecha y la marca del sellador que usaste",
+        "accent": "anota la fecha",
+        "src": "img/mateo-grieta-del-techo_s130.png"
+      }
+    },
+    {
+      "from": 31966,
+      "dur": 240,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "title": "LO QUE TE COBRAN",
+        "rows": [
+          {
+            "label": "Visita de un técnico",
+            "price": "Una sola vez",
+            "bad": true
+          },
+          {
+            "label": "Biblioteca del Maestro completa",
+            "price": "Menos que esa visita"
           }
         ],
-        "efectos": [
-          "grieta",
-          "flujo"
-        ],
-        "camara": "picado",
-        "fondo": "claro",
-        "entrada": "pop",
-        "veredicto": "mal",
-        "plano": 5
+        "total": {
+          "label": "Incluye",
+          "price": "3 guías + 185 fichas + calculadoras"
+        },
+        "stamp": "AHORRO"
       }
     }
   ]

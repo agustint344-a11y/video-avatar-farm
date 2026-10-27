@@ -73,28 +73,33 @@ const project = (cam: Cam, at: V3) => {
 };
 
 /* ─────────── cámaras: 10 movimientos; cada plano usa uno distinto ─────────── */
-const CAMS = ["orbita", "acercamiento", "cenital", "lateral", "rasante", "vuelta", "picado", "travelling", "contrapicado", "alejamiento"];
-const camAt = (kind: string, u: number, o: { R: number; Hm: number; S: number; mx: number; mh: number }): Cam => {
+const CAMS = ["orbita", "acercamiento", "tresCuartos", "lateral", "rasante", "vuelta", "picado", "travelling", "contrapicado", "alejamiento"];
+const camAt = (kind: string, u: number, o: { R: number; Hm: number; S: number; mx: number; mh: number; mw: number }): Cam => {
+  const near = Math.max(o.R * 0.7, o.mw * 0.9 + 1.2, o.mh * 1.1 + 1.2);
   const k = Easing.inOut(Easing.cubic)(Math.min(1, Math.max(0, u)));
   const L: V3 = [0, o.Hm * 0.5, 0];
   const orb = (a: number, r: number, y: number, look: V3 = L, fov = 38): Cam => ({ p: [look[0] + Math.sin(a) * r, y, look[2] + Math.cos(a) * r], l: look, fov });
   switch (kind) {
-    case "acercamiento": return orb(lerp(-0.35, -0.15, k), lerp(o.R * 1.05, o.R * 0.5, k), lerp(o.Hm + 1.4, o.mh * 0.8 + 0.6, k), [o.mx, o.mh * 0.55, 0]);
-    case "alejamiento": return orb(lerp(0.2, 0.45, k), lerp(o.R * 0.5, o.R * 1.1, k), lerp(o.mh * 0.7 + 0.5, o.Hm + 2, k), [lerp(o.mx, 0, k), lerp(o.mh * 0.55, o.Hm * 0.5, k), 0]);
-    case "cenital": return { p: [Math.sin(lerp(0, 0.5, k)) * 1.5, o.R * 1.05, Math.cos(lerp(0, 0.5, k)) * 1.5 + 0.8], l: [0, 0, 0], fov: 40 };
+    case "acercamiento": return orb(lerp(-0.35, -0.15, k), lerp(o.R * 1.05, near, k), lerp(o.Hm + 1.4, o.mh * 0.9 + 0.8, k), [o.mx, o.mh * 0.55, 0]);
+    case "alejamiento": return orb(lerp(0.2, 0.45, k), lerp(near, o.R * 1.1, k), lerp(o.mh * 0.9 + 0.8, o.Hm + 2, k), [lerp(o.mx, 0, k), lerp(o.mh * 0.55, o.Hm * 0.5, k), 0]);
+    case "tresCuartos": return orb(lerp(0.75, 0.5, k), o.R * 0.85, o.Hm + 2.2, [o.mx, o.mh * 0.45, 0]);
     case "lateral": return orb(lerp(1.0, 0.7, k), o.R * 0.92, o.Hm * 0.8 + 0.9);
-    case "rasante": return orb(lerp(-0.3, 0.2, k), o.R * 0.9, 0.35, [0, o.Hm * 0.55, 0], 40);
+    case "rasante": return orb(lerp(-0.3, 0.2, k), o.R * 0.9, 0.55, [0, o.Hm * 0.5, 0], 40);
     case "vuelta": return orb(lerp(-1.25, 1.25, k), o.R * 0.95, o.Hm * 0.7 + 1.4);
     case "picado": return orb(lerp(0.45, 0.2, k), o.R * 0.7, o.R * 0.75);
     case "travelling": { const x = lerp(-o.S * 0.45 - 0.6, o.S * 0.45 + 0.6, k); return { p: [x, o.Hm * 0.6 + 0.8, o.R * 0.78], l: [x * 0.8, o.Hm * 0.45, 0], fov: 38 }; }
-    case "contrapicado": return orb(lerp(-0.4, -0.1, k), o.R * 0.68, 0.18, [0, o.Hm * 0.85, 0], 46);
+    case "contrapicado": return orb(lerp(-0.4, -0.1, k), Math.max(near, o.R * 0.75), 0.4, [0, o.Hm * 0.7, 0], 44);
     default: return orb(lerp(-0.62, -0.22, k), lerp(o.R, o.R * 0.9, k), o.Hm * 0.75 + 1.6);
   }
 };
 
 /* ─────────── objetos: cada uno apoyado en y=0, centrado en x=0, con su ancho/alto ─────────── */
 type Ctx = { t: number; f: number; col?: string; fx: Set<string>; r: () => number };
-type Built = { w: number; h: number; node: React.ReactNode };
+// face = cara vertical frontal donde se pegan grieta/mancha/moho/humedad (x centro, z del plano, y0-y1, ancho);
+// top = superficie de arriba (techo, piso) para grieta/sellar; drip = altura desde donde gotea. Sin superficie → esos efectos no se dibujan.
+type Face = { x: number; z: number; y0: number; y1: number; w: number };
+type Top = { y: number; w: number; d: number; z?: number };
+type Built = { w: number; h: number; node: React.ReactNode; face?: Face; top?: Top; drip?: number };
 const M = {
   conc: (c = "#a7a49d") => <meshStandardMaterial color={c} roughness={0.93} />,
   plas: (c: string) => <meshPhysicalMaterial color={c} roughness={0.42} clearcoat={0.5} />,
@@ -108,25 +113,33 @@ const shield = () => { const s = new THREE.Shape(); s.moveTo(0, 0.95); s.quadrat
 const bucket = () => new THREE.LatheGeometry([new THREE.Vector2(0.001, 0), new THREE.Vector2(0.45, 0), new THREE.Vector2(0.56, 0.8), new THREE.Vector2(0.53, 0.8), new THREE.Vector2(0.42, 0.04), new THREE.Vector2(0.001, 0.04)], 48);
 
 const OBJ: Record<string, (c: Ctx) => Built> = {
-  losa: ({ col }) => ({ w: 2.6, h: 1.5, node: <>
-    {[-1.05, 1.05].map((x, i) => <mesh key={i} position={[x, 0.66, 0]} castShadow receiveShadow><boxGeometry args={[0.3, 1.32, 1.2]} />{M.conc("#d8d2c4")}</mesh>)}
-    <mesh position={[0, 1.32, 0]} castShadow receiveShadow><boxGeometry args={[2.6, 0.36, 1.6]} />{M.conc(col || "#a7a49d")}</mesh>
+  // techo de losa en CORTE (una habitación abierta adelante): pared del fondo y lateral, cielorraso blanco, losa de hormigón,
+  // carpeta y parapeto arriba. La grieta/sellado van sobre la terraza, la mancha y el moho en la pared/cielorraso de adentro.
+  losa: ({ col }) => ({ w: 2.7, h: 1.9, face: { x: 0.1, z: -0.675, y0: 0.3, y1: 1.28, w: 2.1 }, top: { y: 1.645, w: 2.5, d: 1.4, z: 0.05 }, drip: 1.3, node: <>
+    <mesh position={[0, 0.66, -0.74]} castShadow receiveShadow><boxGeometry args={[2.7, 1.32, 0.12]} /><meshStandardMaterial color="#efe3cc" roughness={0.9} /></mesh>
+    <mesh position={[-1.29, 0.66, 0]} castShadow receiveShadow><boxGeometry args={[0.12, 1.32, 1.6]} /><meshStandardMaterial color="#e6d8bd" roughness={0.9} /></mesh>
+    <mesh position={[0, 0.03, 0]} receiveShadow><boxGeometry args={[2.7, 0.06, 1.6]} /><meshStandardMaterial color="#b98d5e" roughness={0.8} /></mesh>
+    <mesh position={[0, 1.335, 0]} castShadow receiveShadow><boxGeometry args={[2.7, 0.03, 1.6]} /><meshStandardMaterial color="#f6f3ec" roughness={0.85} /></mesh>
+    <mesh position={[0, 1.48, 0]} castShadow receiveShadow><boxGeometry args={[2.7, 0.26, 1.6]} />{M.conc("#8f8c86")}</mesh>
+    <mesh position={[0, 1.625, 0]} castShadow receiveShadow><boxGeometry args={[2.7, 0.04, 1.6]} /><meshStandardMaterial color={col || "#b8a58c"} roughness={0.95} /></mesh>
+    <mesh position={[0, 1.76, -0.75]} castShadow receiveShadow><boxGeometry args={[2.7, 0.24, 0.1]} /><meshStandardMaterial color="#ece6da" roughness={0.9} /></mesh>
+    <mesh position={[-1.3, 1.76, 0]} castShadow receiveShadow><boxGeometry args={[0.1, 0.24, 1.6]} /><meshStandardMaterial color="#ece6da" roughness={0.9} /></mesh>
   </> }),
   pared: ({ col }) => {
     const bricks: React.ReactNode[] = [];
     for (let row = 0; row < 7; row++) for (let c = 0; c < 4; c++) { const x = -1.2 + (row % 2 ? 0.15 : 0) + c * 0.6 + 0.3; if (x > 1.15) continue;
       bricks.push(<mesh key={`${row}-${c}`} position={[x - 0.02, 0.15 + row * 0.28, 0.02]} castShadow><boxGeometry args={[0.56, 0.24, 0.42]} /><meshStandardMaterial color={row % 3 ? "#b4623e" : "#a85636"} roughness={0.9} /></mesh>); }
-    return { w: 2.4, h: 2.0, node: <>
+    return { w: 2.4, h: 2.0, face: { x: 0.45, z: 0.301, y0: 0.1, y1: 1.9, w: 1.4 }, node: <>
       <mesh position={[0, 1.0, -0.05]} castShadow receiveShadow><boxGeometry args={[2.4, 2.0, 0.4]} />{M.conc("#cfc8b8")}</mesh>
       {bricks}
       <mesh position={[0.45, 1.0, 0.26]} castShadow receiveShadow><boxGeometry args={[1.5, 2.0, 0.08]} /><meshStandardMaterial color={col || "#efeae0"} roughness={0.8} /></mesh>
     </> };
   },
-  ladrillo: ({ col }) => ({ w: 1.8, h: 0.76, node: <>
+  ladrillo: ({ col }) => ({ w: 1.8, h: 0.76, face: { x: 0, z: 0.452, y0: 0.06, y1: 0.7, w: 1.7 }, top: { y: 0.761, w: 1.7, d: 0.85 }, node: <>
     <mesh position={[0, 0.38, 0]} castShadow receiveShadow><boxGeometry args={[1.8, 0.76, 0.9]} /><meshStandardMaterial color={col || "#b85a34"} roughness={0.95} /></mesh>
     {[-0.5, 0, 0.5].map((x, i) => <mesh key={i} position={[x, 0.38, 0.452]} rotation={[Math.PI / 2, 0, 0]}><cylinderGeometry args={[0.14, 0.14, 0.01, 24]} /><meshStandardMaterial color="#3a1d10" /></mesh>)}
   </> }),
-  cano: ({ col }) => ({ w: 2.8, h: 1.05, node: <>
+  cano: ({ col }) => ({ w: 2.8, h: 1.05, drip: 0.4, node: <>
     <mesh position={[0, 0.7, 0]} rotation={[0, 0, Math.PI / 2]}><cylinderGeometry args={[0.32, 0.32, 2.6, 48, 1, true]} />{M.glass(col || "#dfe9ee", 0.35)}</mesh>
     <mesh position={[0, 0.7, 0]} rotation={[0, 0, Math.PI / 2]}><cylinderGeometry args={[0.26, 0.26, 2.58, 40]} />{M.water(0.4)}</mesh>
     {[-1.3, 1.3].map((x, i) => <mesh key={i} position={[x, 0.7, 0]} rotation={[0, 0, Math.PI / 2]} castShadow material={metal("#b8bcc2", 0.3)}><cylinderGeometry args={[0.38, 0.38, 0.2, 40]} /></mesh>)}
@@ -147,13 +160,13 @@ const OBJ: Record<string, (c: Ctx) => Built> = {
     {[[-1.15, -0.7], [1.15, -0.7], [-1.15, 0.7], [1.15, 0.7]].map(([x, z], i) => <mesh key={i} position={[x, z < 0 ? 0.75 : 0.55, z]} castShadow><boxGeometry args={[0.1, z < 0 ? 1.5 : 1.1, 0.1]} /><meshStandardMaterial color="#5b5e63" /></mesh>)}
     <mesh geometry={geo("chapa", corrugated)} position={[0, 1.38, 0]} rotation={[-Math.PI / 2 + 0.22, 0, 0]} castShadow receiveShadow material={metal(col || "#b9c0c7", 0.35)} />
   </> }),
-  teja: ({ col }) => ({ w: 2.6, h: 1.5, node: <>
+  teja: ({ col }) => ({ w: 2.6, h: 1.5, face: { x: 0, z: 0.801, y0: 0.06, y1: 0.95, w: 2.5 }, drip: 1.0, node: <>
     <mesh position={[0, 0.5, 0]} castShadow receiveShadow><boxGeometry args={[2.6, 1.0, 1.6]} />{M.conc("#e7e0d2")}</mesh>
     <group position={[0, 1.12, 0]} rotation={[0.32, 0, 0]}>
       {Array.from({ length: 8 }, (_, i) => <mesh key={i} position={[-1.12 + i * 0.32, 0, 0]} rotation={[Math.PI / 2, 0, 0]} castShadow><cylinderGeometry args={[0.17, 0.17, 1.7, 20, 1, true, i % 2 ? 0 : Math.PI, Math.PI]} /><meshStandardMaterial color={col || "#c8643b"} roughness={0.7} side={THREE.DoubleSide} /></mesh>)}
     </group>
   </> }),
-  canaleta: ({ col }) => ({ w: 2.8, h: 1.9, node: <>
+  canaleta: ({ col }) => ({ w: 2.8, h: 1.9, drip: 1.4, node: <>
     <mesh position={[0, 1.65, 0]} rotation={[0, 0, Math.PI / 2]} castShadow><cylinderGeometry args={[0.28, 0.28, 2.6, 32, 1, true, Math.PI, Math.PI]} /><meshStandardMaterial color={col || "#d9dde1"} metalness={0.6} roughness={0.35} side={THREE.DoubleSide} /></mesh>
     <mesh position={[1.25, 0.8, 0]} castShadow><cylinderGeometry args={[0.12, 0.12, 1.65, 24]} /><meshStandardMaterial color={col || "#d9dde1"} metalness={0.6} roughness={0.35} /></mesh>
   </> }),
@@ -162,7 +175,7 @@ const OBJ: Record<string, (c: Ctx) => Built> = {
     <mesh position={[0, 1.15, 0]}><planeGeometry args={[1.7, 1.5]} />{M.glass("#cfeaff", 0.35)}</mesh>
     <mesh position={[0, 0.24, 0.12]} castShadow><boxGeometry args={[2.1, 0.08, 0.36]} />{M.conc("#d9d4c9")}</mesh>
   </> }),
-  ceramica: ({ col }) => ({ w: 2.4, h: 0.32, node: <>
+  ceramica: ({ col }) => ({ w: 2.4, h: 0.32, top: { y: 0.292, w: 2.3, d: 1.7 }, node: <>
     <mesh position={[0, 0.1, 0]} receiveShadow castShadow><boxGeometry args={[2.4, 0.2, 1.8]} />{M.conc("#9d9a94")}</mesh>
     {Array.from({ length: 12 }, (_, i) => <mesh key={i} position={[-0.9 + (i % 4) * 0.6, 0.25, -0.6 + Math.floor(i / 4) * 0.6]} castShadow receiveShadow><boxGeometry args={[0.56, 0.08, 0.56]} /><meshPhysicalMaterial color={col || "#eef1f3"} roughness={0.15} clearcoat={1} /></mesh>)}
   </> }),
@@ -191,7 +204,7 @@ const OBJ: Record<string, (c: Ctx) => Built> = {
     <mesh position={[0.22, 1.06, 0]} castShadow><cylinderGeometry args={[0.1, 0.1, 0.14, 20]} />{M.plas("#f2b632")}</mesh>
     <mesh position={[-0.12, 1.02, 0]} castShadow><torusGeometry args={[0.13, 0.04, 10, 24, Math.PI]} />{M.plas(col || "#2f8fdf")}</mesh>
   </> }),
-  casa: ({ col }) => ({ w: 2.0, h: 2.1, node: <>
+  casa: ({ col }) => ({ w: 2.0, h: 2.1, face: { x: 0, z: 0.702, y0: 0.05, y1: 1.15, w: 1.7 }, node: <>
     <mesh position={[0, 0.6, 0]} castShadow receiveShadow><boxGeometry args={[1.8, 1.2, 1.4]} /><meshStandardMaterial color={col || "#f1e7d6"} roughness={0.85} /></mesh>
     <mesh position={[0, 1.6, 0]} rotation={[0, Math.PI / 4, 0]} scale={[1.45, 1, 1.15]} castShadow><coneGeometry args={[0.95, 0.8, 4]} /><meshStandardMaterial color="#b5523a" roughness={0.7} /></mesh>
     <mesh position={[-0.35, 0.35, 0.71]}><boxGeometry args={[0.36, 0.7, 0.02]} /><meshStandardMaterial color="#7a4a2a" /></mesh>
@@ -230,12 +243,12 @@ const OBJ: Record<string, (c: Ctx) => Built> = {
     <mesh><circleGeometry args={[0.55, 48]} />{M.glass("#e8f6ff", 0.25)}</mesh>
     <mesh position={[0, -0.95, 0]} castShadow><cylinderGeometry args={[0.07, 0.08, 0.8, 20]} />{M.plas(col || "#1d2329")}</mesh>
   </group> }),
-  tierra: ({ r, col }) => { const pb = Array.from({ length: 26 }, () => [(r() - 0.5) * 2.2, 0.1 + r() * 0.7, 0.66 + r() * 0.06, 0.04 + r() * 0.06] as number[]); return { w: 2.4, h: 0.95, node: <>
+  tierra: ({ r, col }) => { const pb = Array.from({ length: 26 }, () => [(r() - 0.5) * 2.2, 0.1 + r() * 0.7, 0.66 + r() * 0.06, 0.04 + r() * 0.06] as number[]); return { w: 2.4, h: 0.95, face: { x: 0, z: 0.73, y0: 0.05, y1: 0.85, w: 2.3 }, top: { y: 0.935, w: 2.3, d: 1.2 }, node: <>
     <mesh position={[0, 0.45, 0]} castShadow receiveShadow><boxGeometry args={[2.4, 0.9, 1.3]} /><meshStandardMaterial color={col || "#6b4a2e"} roughness={1} /></mesh>
     {pb.map(([x, y, z, s], i) => <mesh key={i} position={[x, y, z]}><sphereGeometry args={[s, 10, 10]} /><meshStandardMaterial color="#9b8b78" roughness={0.9} /></mesh>)}
     <mesh position={[0, 0.91, 0]} receiveShadow><boxGeometry args={[2.4, 0.04, 1.3]} /><meshStandardMaterial color="#4f8a3a" roughness={1} /></mesh>
   </> }; },
-  columna: ({ col }) => ({ w: 0.9, h: 2.3, node: <>
+  columna: ({ col }) => ({ w: 0.9, h: 2.3, face: { x: 0, z: 0.302, y0: 0.1, y1: 2.1, w: 0.56 }, node: <>
     <mesh position={[0, 1.1, 0]} castShadow receiveShadow><boxGeometry args={[0.6, 2.2, 0.6]} /><meshStandardMaterial color={col || "#b9b5ad"} roughness={0.9} transparent opacity={0.55} /></mesh>
     {[[-0.18, -0.18], [0.18, -0.18], [-0.18, 0.18], [0.18, 0.18]].map(([x, z], i) => <mesh key={i} position={[x, 1.1, z]} castShadow><cylinderGeometry args={[0.035, 0.035, 2.15, 10]} /><meshStandardMaterial color="#7b4a2d" metalness={0.6} roughness={0.5} /></mesh>)}
   </> }),
@@ -259,7 +272,7 @@ const OBJ: Record<string, (c: Ctx) => Built> = {
     <mesh position={[0, 0.75, 0]} castShadow><sphereGeometry args={[0.6, 40, 40]} /><meshPhysicalMaterial color="#fffaf0" emissive={col || "#ffd27a"} emissiveIntensity={on * 1.6} roughness={0.2} transparent opacity={0.92} /></mesh>
     <pointLight position={[0, 0.8, 0.8]} intensity={on * 5} distance={6} color="#ffd890" />
   </group> }; },
-  canilla: ({ col }) => ({ w: 1.4, h: 1.6, node: <>
+  canilla: ({ col }) => ({ w: 1.4, h: 1.6, drip: 1.15, node: <>
     <mesh position={[-0.4, 0.75, 0]} castShadow material={metal(col || "#cfd3d8", 0.18)}><cylinderGeometry args={[0.09, 0.09, 1.5, 24]} /></mesh>
     <mesh position={[0.05, 1.42, 0]} rotation={[0, 0, Math.PI / 2]} castShadow material={metal(col || "#cfd3d8", 0.18)}><cylinderGeometry args={[0.08, 0.08, 0.9, 24]} /></mesh>
     <mesh position={[0.48, 1.3, 0]} castShadow material={metal(col || "#cfd3d8", 0.18)}><cylinderGeometry args={[0.07, 0.09, 0.25, 24]} /></mesh>
@@ -279,13 +292,14 @@ const OBJ: Record<string, (c: Ctx) => Built> = {
 const ALIAS: Record<string, string> = { techo: "losa", terraza: "losa", azotea: "losa", muro: "pared", tubo: "cano", caño: "cano", cañeria: "cano", cañería: "cano", desague: "codo", desagüe: "codo", sifon: "codo", sifón: "codo", tinaco: "tanque", lamina: "chapa", lámina: "chapa", tejas: "teja", piso: "ceramica", azulejo: "ceramica", azulejos: "ceramica", baño: "ceramica", pintura: "balde", cubeta: "balde", brocha: "pincel", llana: "espatula", espátula: "espatula", plata: "monedas", dinero: "monedas", costo: "monedas", tiempo: "reloj", agua: "gota", lluvia: "nube", proteccion: "escudo", protección: "escudo", diagnostico: "lupa", diagnóstico: "lupa", suelo: "tierra", cimiento: "tierra", viga: "columna", silicona: "sellador", sellador: "sellador", luz: "foco", grifo: "canilla", llave: "canilla", vivienda: "casa", temperatura: "termometro", termómetro: "termometro" };
 export const ESCENA_OBJETOS = Object.keys(OBJ);
 const bloque = (c: Ctx): Built => ({ w: 1.4, h: 1.2, node: <mesh position={[0, 0.6, 0]} castShadow receiveShadow><boxGeometry args={[1.4, 1.2, 1.1]} />{M.plas(c.col || "#9aa3ad")}</mesh> });
-const objFn = (tipo: string) => { const k = String(tipo || "").toLowerCase().trim(); return OBJ[k] || OBJ[ALIAS[k]] || bloque; };
+const objKey = (tipo: string) => { const k = String(tipo || "").toLowerCase().trim(); return OBJ[k] ? k : ALIAS[k] && OBJ[ALIAS[k]] ? ALIAS[k] : "bloque"; };
+const objFn = (tipo: string) => OBJ[objKey(tipo)] || bloque;
 
 /* ─────────── etiqueta proyectada ─────────── */
 const Pill: React.FC<{ at: V3; text: string; k: number; cam: Cam; tone: string; side: "l" | "r" }> = ({ at, text, k, cam, tone, side }) => {
   if (k <= 0) return null;
-  const p = project(cam, at); if (!p.front || p.x < 80 || p.x > W - 80 || p.y < 120 || p.y > H - 60) return null;
-  const dx = side === "r" ? 60 : -60, dy = -50;
+  const p = project(cam, at); if (!p.front || p.x < 120 || p.x > W - 120 || p.y < 330 || p.y > H - 140) return null;
+  const dx = side === "r" ? 70 : -70, dy = p.y < 460 ? 70 : -55;
   return (<>
     <svg width={W} height={H} style={{ position: "absolute", inset: 0 }}><line x1={p.x} y1={p.y} x2={p.x + dx * k} y2={p.y + dy * k} stroke={tone} strokeWidth={4} strokeLinecap="round" /><circle cx={p.x} cy={p.y} r={8 * k} fill="#fff" stroke={tone} strokeWidth={4} /></svg>
     <div style={{ position: "absolute", left: p.x + dx, top: p.y + dy, transform: `translate(${side === "r" ? "0" : "-100%"}, -50%) scale(${0.6 + 0.4 * k})`, transformOrigin: side === "r" ? "left center" : "right center", opacity: k,
@@ -314,56 +328,96 @@ export const Escena3D: React.FC<Escena3DProps> = (p) => {
   const slots: number[] = []; { const ws = order.map((i) => built[i].w); const tot = ws.reduce((a, b) => a + b, 0) + gap * (ws.length - 1); let x = -tot / 2; order.forEach((i, j) => { slots[i] = x + ws[j] / 2; x += ws[j] + gap; }); }
   const S = slots.length > 1 ? Math.max(...slots.map((x, i) => Math.abs(x) + built[i].w / 2)) * 2 : built[0].w;
   const Hm = Math.max(...built.map((b) => b.h));
-  const R = Math.max(5.2, S * 1.15 + 3.2, Hm * 2.2 + 2.5);
+  const R = Math.max(3.8, (S / 2) / 0.611 / 0.72 + 1.0, (Hm / 2) / 0.344 / 0.72 + 1.0);
   const mx = slots[0], mh = built[0].h, mw = built[0].w;
 
   // planos de cámara: el primero es el pedido, el resto rota por los 10 movimientos (cortes duros con flash)
   const plano = Math.max(2.5, p.plano || 5) * 30;
   const nPl = Math.max(1, Math.min(8, Math.round(dur / plano)));
   const plLen = dur / nPl, pi = Math.min(nPl - 1, Math.floor(f / plLen));
-  const c0 = Math.max(0, CAMS.indexOf(p.camara || "")) || (seed % CAMS.length);
+  const c0 = Math.max(0, CAMS.indexOf(p.camara === "cenital" ? "tresCuartos" : p.camara || "")) || (seed % CAMS.length);
   const step = [3, 7, 9][seed % 3];
-  const cam = camAt(CAMS[(c0 + pi * step) % CAMS.length], (f - pi * plLen) / plLen, { R, Hm, S, mx, mh });
+  const cam0 = camAt(CAMS[(c0 + pi * step) % CAMS.length], (f - pi * plLen) / plLen, { R, Hm, S, mx, mh, mw });
+  const T0 = built[0].top, k0c = objKey(objs[0].tipo);
+  const wantTop = !!T0 && (fx.has("sellar") || (fx.has("grieta") && (!built[0].face || k0c === "losa" || k0c === "ceramica")));
+  // techo de losa con mancha/moho/humedad en la pared de ADENTRO: cámara a la altura de la habitación (desde arriba la tapaba la losa)
+  const wantIn = !wantTop && k0c === "losa" && ["mancha", "moho", "sube"].some((e) => fx.has(e));
+  const cam: Cam = wantTop && cam0.p[1] < T0.y + R * 0.6 ? { ...cam0, p: [cam0.p[0], T0.y + R * 0.6, cam0.p[2]], l: [cam0.l[0], T0.y * 0.8, cam0.l[2]] }
+    : wantIn ? { ...cam0, p: [cam0.p[0] * 0.6, Math.min(cam0.p[1], 0.95), Math.max(Math.abs(cam0.p[2]), R * 0.8)], l: [mx, 0.75, -0.5] } : cam0;
   const cutK = pi > 0 ? interpolate(f - pi * plLen, [0, 5], [1, 0], cl) : 0;
 
   // entrada de cada objeto
   const enter = (i: number) => {
-    const k = interpolate(t, [0.02 + i * 0.07, 0.14 + i * 0.07], [0, 1], cl);
-    if (entrada === "cae") return { y: (1 - Easing.bounce(k)) * 4, s: 1, x: 0 };
-    if (entrada === "sube") return { y: -(1 - OUT(k)) * 2.5, s: Math.max(0.001, OUT(k)), x: 0 };
-    if (entrada === "desliza") return { y: 0, s: 1, x: (1 - OUT(k)) * (i % 2 ? 6 : -6) };
-    return { y: 0, s: Math.max(0.001, Easing.out(Easing.back(1.8))(k)), x: 0 };
+    const k = interpolate(f, [i * 4, i * 4 + 14], [0, 1], cl);
+    if (entrada === "cae") return { y: (1 - Easing.bounce(k)) * 1.2, s: 1, x: 0 };
+    if (entrada === "sube") return { y: -(1 - OUT(k)) * 0.8, s: lerp(0.6, 1, OUT(k)), x: 0 };
+    if (entrada === "desliza") return { y: 0, s: 1, x: (1 - OUT(k)) * (i % 2 ? 2.5 : -2.5) };
+    return { y: 0, s: lerp(0.5, 1, Easing.out(Easing.back(1.6))(k)), x: 0 };
   };
-  const fxK = sm((t - 0.2) / 0.55);
-  const front = 0.75; // frente aproximado del protagonista
-
+  const fxK = sm((t - 0.12) / 0.5);
+  // efectos pegados a la SUPERFICIE real del protagonista (2026-10-27: antes flotaban a z fijo delante de cualquier objeto)
+  const B0 = built[0], face = B0.face, top = B0.top, k0 = objKey(objs[0].tipo);
+  const decal = (key: string, where: "face" | "top", node: (w: number, h: number) => React.ReactNode) => {
+    if (where === "face" && face) return <group key={key} position={[mx + face.x, (face.y0 + face.y1) / 2, face.z + 0.003]}>{node(face.w, face.y1 - face.y0)}</group>;
+    if (where === "top" && top) return <group key={key} position={[mx, top.y + 0.003, top.z || 0]} rotation={[-Math.PI / 2, 0, 0]}>{node(top.w, top.d)}</group>;
+    return null;
+  };
+  const flat = (c: string, o: number) => <meshStandardMaterial color={c} roughness={1} transparent opacity={o} depthWrite={false} polygonOffset polygonOffsetFactor={-2} />;
   const E: React.ReactNode[] = [];
-  if (fx.has("lluvia")) for (let i = 0; i < 46; i++) { const rr = seeded(seed + i * 7); const x = (rr() - 0.5) * (S + 2.5), z = (rr() - 0.5) * 2; const top = slots.reduce((y, sx, j) => (Math.abs(x - sx) < built[j].w / 2 ? Math.max(y, built[j].h) : y), 0); const ph = (rr() + t * (1.5 + rr() * 0.5)) % 1;
-    E.push(<mesh key={`ll${i}`} position={[x, lerp(Hm + 3.5, top, ph * ph), z]} scale={[1, 2.4, 1]}><sphereGeometry args={[0.035, 8, 8]} /><meshStandardMaterial color="#8fd0ff" emissive="#2d8cff" emissiveIntensity={0.5} transparent opacity={ph < 0.92 ? 0.9 : 0} /></mesh>); }
-  if (fx.has("goteo")) { for (let i = 0; i < 9; i++) { const ph = (i / 9 + t * 1.1) % 1; E.push(<mesh key={`go${i}`} position={[mx + ((i % 3) - 1) * 0.15, lerp(mh * 0.75, 0.05, ph * ph), 0.25 * ((i % 2) * 2 - 1)]} scale={[1, 1.4, 1]}><sphereGeometry args={[0.05, 12, 12]} /><meshStandardMaterial color="#3aa0ff" emissive="#1f6fd1" emissiveIntensity={0.6} transparent opacity={fxK * Math.sin(ph * Math.PI)} /></mesh>); }
-    E.push(<mesh key="charco" position={[mx, 0.006, 0.2]} rotation={[-Math.PI / 2, 0, 0]}><circleGeometry args={[0.1 + fxK * 0.7, 40]} /><meshPhysicalMaterial color="#5bb6ff" roughness={0.05} clearcoat={1} transparent opacity={0.55 * fxK} depthWrite={false} /></mesh>); }
-  if (fx.has("sube")) E.push(<mesh key="sube" position={[mx, (mh * 0.65 * fxK) / 2, front]}><boxGeometry args={[mw * 0.96, Math.max(0.001, mh * 0.65 * fxK), 0.02]} /><meshStandardMaterial color="#2d8cff" transparent opacity={0.4} emissive="#1f6fd1" emissiveIntensity={0.35} depthWrite={false} /></mesh>);
-  if (fx.has("mancha")) E.push(<mesh key="mancha" position={[mx + mw * 0.1, mh * 0.55, front + 0.01]}><circleGeometry args={[0.05 + fxK * Math.min(mw, mh) * 0.38, 40]} /><meshStandardMaterial color="#5e4a32" transparent opacity={0.75} depthWrite={false} /></mesh>);
-  if (fx.has("moho")) for (let i = 0; i < 70; i++) { const rr = seeded(seed + i * 13); if (rr() > fxK) continue; E.push(<mesh key={`mo${i}`} position={[mx + (rr() - 0.5) * mw * 0.85, mh * (0.45 + rr() * 0.5), front + 0.02]}><sphereGeometry args={[0.02 + rr() * 0.05, 8, 8]} /><meshStandardMaterial color={rr() > 0.5 ? "#26331f" : "#3c4a2a"} /></mesh>); }
-  if (fx.has("grieta")) { const rr = seeded(seed + 77); let x = mx - mw * 0.3, y = mh * 0.9, a = -1.1; const n = Math.round(16 * fxK);
-    for (let i = 0; i < n; i++) { a += (rr() - 0.5) * 0.9; const nx = x + Math.cos(a) * 0.12, ny = y + Math.sin(a) * 0.12; E.push(<mesh key={`gr${i}`} position={[(x + nx) / 2, (y + ny) / 2, front + 0.02]} rotation={[0, 0, a]}><boxGeometry args={[0.13, 0.03 + (1 - i / 16) * 0.03, 0.01]} /><meshStandardMaterial color="#141210" /></mesh>); x = nx; y = Math.max(0.05, ny); } }
-  if (fx.has("sellar")) E.push(<mesh key="sel" position={[mx - mw / 2 + (mw * fxK) / 2, mh + 0.03, 0]} castShadow><boxGeometry args={[Math.max(0.001, mw * fxK), 0.06, 1.6]} /><meshPhysicalMaterial color="#2f8fdf" roughness={0.25} clearcoat={1} /></mesh>);
-  if (fx.has("vapor")) for (let i = 0; i < 28; i++) { const rr = seeded(seed + i * 17); const ph = (rr() + t * 0.6) % 1; E.push(<mesh key={`va${i}`} position={[mx + (rr() - 0.5) * mw + Math.sin(ph * 6 + i) * 0.1, mh + ph * 2, (rr() - 0.5)]}><sphereGeometry args={[0.06 + ph * 0.12, 10, 10]} /><meshStandardMaterial color="#ffffff" transparent opacity={(1 - ph) * 0.55} depthWrite={false} /></mesh>); }
-  if (fx.has("calor")) { E.push(<group key="calsol" position={[-S / 2 - 1.2, Hm + 2.2, -1.5]}><mesh><sphereGeometry args={[0.6, 32, 32]} />{M.glow("#ffb21f", 2)}</mesh><pointLight intensity={5} distance={14} color="#ffb070" /></group>);
-    for (let i = 0; i < 24; i++) { const rr = seeded(seed + i * 23); const ph = (rr() + t * 0.8) % 1; E.push(<mesh key={`ca${i}`} position={[(rr() - 0.5) * (S + 1), Hm * 0.3 + ph * 2.2, (rr() - 0.5) * 1.5]}><sphereGeometry args={[0.04, 8, 8]} />{M.glow("#ff8a3d", 1.2)}</mesh>); } }
-  if (fx.has("frio")) for (let i = 0; i < 40; i++) { const rr = seeded(seed + i * 29); const ph = (rr() + t * 0.35) % 1; E.push(<mesh key={`fr${i}`} position={[(rr() - 0.5) * (S + 2) + Math.sin(ph * 8 + i) * 0.2, lerp(Hm + 3, 0, ph), (rr() - 0.5) * 2]} rotation={[ph * 4, ph * 3, 0]}><octahedronGeometry args={[0.05]} /><meshStandardMaterial color="#e8f6ff" emissive="#9fd8ff" emissiveIntensity={0.5} /></mesh>); }
-  if (fx.has("flujo")) for (let i = 0; i < 40; i++) { const rr = seeded(seed + i * 31); const ph = (rr() + t * 0.9) % 1; E.push(<mesh key={`fl${i}`} position={[lerp(-S / 2 - 0.8, S / 2 + 0.8, ph), mh * 0.6 + (rr() - 0.5) * 0.3, (rr() - 0.5) * 0.4]}><sphereGeometry args={[0.045, 10, 10]} /><meshStandardMaterial color="#9fdcff" emissive="#2d8cff" emissiveIntensity={0.7} /></mesh>); }
-  if (fx.has("viento")) for (let i = 0; i < 18; i++) { const rr = seeded(seed + i * 37); const ph = (rr() + t * 1.4) % 1; E.push(<mesh key={`vi${i}`} position={[lerp(-S / 2 - 3, S / 2 + 3, ph), 0.4 + rr() * (Hm + 1), (rr() - 0.5) * 2.5]}><boxGeometry args={[0.7, 0.015, 0.015]} /><meshStandardMaterial color="#ffffff" transparent opacity={Math.sin(ph * Math.PI) * 0.8} /></mesh>); }
+  if (fx.has("lluvia")) for (let i = 0; i < 46; i++) { const rr = seeded(seed + i * 7); const x = (rr() - 0.5) * (S + 2.5), z = (rr() - 0.5) * 2; const tp = slots.reduce((y, sx, j) => (Math.abs(x - sx) < built[j].w / 2 ? Math.max(y, built[j].h) : y), 0); const ph = (rr() + t * (1.5 + rr() * 0.5)) % 1;
+    E.push(<mesh key={`ll${i}`} position={[x, lerp(Hm + 3.5, tp, ph * ph), z]} scale={[1, 2.4, 1]}><sphereGeometry args={[0.03, 8, 8]} /><meshStandardMaterial color="#9fd3ff" transparent opacity={ph < 0.92 ? 0.8 : 0} /></mesh>); }
+  if (fx.has("goteo")) { const dy = B0.drip ?? mh * 0.7, dxs = mw > 2 ? [-0.35, 0.4] : [0];
+    dxs.forEach((dx, s) => { for (let i = 0; i < 5; i++) { const ph = (i / 5 + t * 1.4 + s * 0.37) % 1; E.push(<mesh key={`go${s}-${i}`} position={[mx + dx, lerp(dy - 0.04, 0.05, ph * ph), 0.25]} scale={[1, 1.35, 1]}><sphereGeometry args={[0.055, 14, 14]} /><meshPhysicalMaterial color="#8fd0ff" roughness={0.05} clearcoat={1} transparent opacity={fxK * (ph < 0.95 ? 0.9 : 0)} /></mesh>); }
+      E.push(<mesh key={`gt${s}`} position={[mx + dx, dy - 0.02, 0.25]}><sphereGeometry args={[0.05 * fxK + 0.001, 12, 12]} /><meshPhysicalMaterial color="#8fd0ff" roughness={0.05} clearcoat={1} transparent opacity={0.9} /></mesh>);
+      E.push(<mesh key={`ch${s}`} position={[mx + dx, 0.008 + s * 0.001, 0.25]} rotation={[-Math.PI / 2, 0, 0]} scale={[1, 0.75, 1]}><circleGeometry args={[0.05 + fxK * 0.45, 40]} /><meshPhysicalMaterial color="#9fd3ff" roughness={0.03} clearcoat={1} transparent opacity={0.45 * fxK} depthWrite={false} /></mesh>); }); }
+  // humedad que sube: zona oscura húmeda desde abajo + línea de salitre blanco arriba
+  if (fx.has("sube")) E.push(decal("sube", "face", (w, h) => { const hh = Math.max(0.001, h * 0.55 * fxK), rr = seeded(seed + 5); return <group position={[0, -h / 2, 0]}>
+    {Array.from({ length: 5 }, (_, j) => { const y1 = hh * (1 - j * 0.16); return <mesh key={"d" + j} position={[0, y1 / 2, j * 0.0003]}><planeGeometry args={[w * 0.98, Math.max(0.001, y1)]} />{flat("#8a7a5e", 0.1)}</mesh>; })}
+    {Array.from({ length: 26 }, (_, i) => { const x = -w * 0.49 + (i / 25) * w * 0.98, r = 0.05 + rr() * 0.07; return <mesh key={"b" + i} position={[x, hh - r * 0.3, 0.0016]} scale={[1.4, 1, 1]}><circleGeometry args={[r * Math.min(1, fxK * 3), 16]} />{flat("#8a7a5e", 0.22)}</mesh>; })}
+    {Array.from({ length: 60 }, (_, i) => <mesh key={i} position={[(rr() - 0.5) * w * 0.95, hh + 0.02 + (rr() - 0.5) * 0.08, 0.002]}><circleGeometry args={[0.01 + rr() * 0.02, 8]} />{flat("#ffffff", 0.9 * fxK)}</mesh>)}
+  </group>; }));
+  // mancha de agua: aureola irregular marrón clara con borde más oscuro, crece desde arriba
+  if (fx.has("mancha")) E.push(decal("mancha", "face", (w, h) => { const rr = seeded(seed + 9); const R = Math.min(w, h) * 0.32 * (0.25 + 0.75 * fxK); const cx = (rr() - 0.5) * w * 0.3, cy = h * 0.22;
+    return <group position={[cx, cy, 0]}>{Array.from({ length: 22 }, (_, i) => { const a = rr() * Math.PI * 2, d = R * (i < 4 ? rr() * 0.3 : 0.35 + rr() * 0.55), s = i < 4 ? 0.6 + rr() * 0.3 : 0.18 + rr() * 0.32, sx = 0.7 + rr() * 0.6;
+      return <mesh key={i} position={[Math.cos(a) * d, Math.sin(a) * d * 0.75, i * 0.0003]} scale={[sx, 1.6 - sx, 1]}><circleGeometry args={[R * s, 28]} />{flat(i % 4 ? "#b0946a" : "#8f7149", i < 4 ? 0.2 : 0.14)}</mesh>; })}</group>; }));
+  // moho: colonias de puntitos negro-verdosos agrupados en una esquina, se multiplican
+  if (fx.has("moho")) E.push(decal("moho", "face", (w, h) => { const rr = seeded(seed + 13); const cs = [[-w * 0.3, h * 0.32], [-w * 0.12, h * 0.38], [-w * 0.36, h * 0.12]];
+    return <>{Array.from({ length: 160 }, (_, i) => { const c = cs[i % 3], g = () => (rr() + rr() + rr() - 1.5) * 0.55; const x = c[0] + g() * w * 0.16, y = c[1] + g() * h * 0.2, show = rr() < fxK * 1.1; const sz = 0.008 + rr() * 0.03, op = 0.55 + rr() * 0.35;
+      return show ? <mesh key={i} position={[x, Math.min(h / 2 - 0.02, y), 0.001 + (i % 5) * 0.0002]}><circleGeometry args={[sz, 9]} />{flat(i % 3 ? "#2a2d22" : "#4a5236", op)}</mesh> : null; })}</>; }));
+  // grieta: fisura que avanza SOBRE la superficie (terraza/piso si es losa o cerámica; si no, la cara frontal), con ramas
+  if (fx.has("grieta")) { const where = top && (!face || k0 === "losa" || k0 === "ceramica") ? "top" : "face";
+    E.push(decal("grieta", where, (w, h) => { const rr = seeded(seed + 77); const segs: { x: number; y: number; a: number; l: number; th: number; o: number }[] = [];
+      const walk = (x: number, y: number, a: number, n: number, th: number, o0: number) => { for (let i = 0; i < n; i++) { a += (rr() - 0.5) * 0.8; const l = 0.06 + rr() * 0.05; const nx = Math.max(-w / 2, Math.min(w / 2, x + Math.cos(a) * l)), ny = Math.max(-h / 2, Math.min(h / 2, y + Math.sin(a) * l));
+        segs.push({ x: (x + nx) / 2, y: (y + ny) / 2, a: Math.atan2(ny - y, nx - x), l: Math.hypot(nx - x, ny - y) + 0.01, th: th * (1 - (i / n) * 0.6), o: o0 + i }); if (i > 2 && rr() < 0.12) walk(nx, ny, a + (rr() < 0.5 ? 0.9 : -0.9), 4 + Math.floor(rr() * 4), th * 0.5, o0 + i); x = nx; y = ny; } };
+      walk(-w * 0.42, (rr() - 0.5) * h * 0.3, (rr() - 0.5) * 0.4, Math.round(w / 0.08), 0.045, 0);
+      const maxO = Math.max(...segs.map((s) => s.o)) + 1, vis = maxO * fxK;
+      return <>{segs.filter((s) => s.o < vis).map((s, i) => <group key={i} position={[s.x, s.y, 0]} rotation={[0, 0, s.a]}>
+        <mesh position={[0, 0, 0.0004]}><planeGeometry args={[s.l, s.th * 2.2]} />{flat("#cfc9bd", 0.55)}</mesh>
+        <mesh position={[0, 0, 0.0008]}><planeGeometry args={[s.l, s.th]} />{flat("#17140f", 0.95)}</mesh></group>)}</>; })); }
+  // sellar: capa (membrana/pintura) que cubre la superficie de izquierda a derecha, con el rodillo en el borde
+  if (fx.has("sellar")) { const where = top ? "top" : "face", c = objs[0].color && objKey(objs[0].tipo) === "membrana" ? objs[0].color : "#c9553b";
+    E.push(decal("sel", where, (w, h) => { const ww = Math.max(0.001, w * fxK); return <group>
+      <mesh position={[-w / 2 + ww / 2, 0, 0.002]}><planeGeometry args={[ww, h * 0.98]} /><meshPhysicalMaterial color={c} roughness={0.3} clearcoat={0.8} transparent opacity={0.95} depthWrite={false} polygonOffset polygonOffsetFactor={-3} /></mesh>
+      {fxK > 0.02 && fxK < 0.98 ? <mesh position={[-w / 2 + ww, 0, 0.065]}><cylinderGeometry args={[0.065, 0.065, h * 0.7, 20]} /><meshStandardMaterial color="#f0ece2" roughness={1} /></mesh> : null}
+    </group>; })); }
+  if (fx.has("vapor")) for (let i = 0; i < 22; i++) { const rr = seeded(seed + i * 17); const ph = (rr() + t * 0.6) % 1; E.push(<mesh key={`va${i}`} position={[mx + (rr() - 0.5) * mw * 0.8 + Math.sin(ph * 6 + i) * 0.1, mh + ph * 1.6, (rr() - 0.5) * 0.6]}><sphereGeometry args={[0.06 + ph * 0.12, 10, 10]} /><meshStandardMaterial color="#ffffff" transparent opacity={(1 - ph) * 0.45} depthWrite={false} /></mesh>); }
+  if (fx.has("calor")) { E.push(<group key="calsol" position={[-S / 2 - 1.0, Hm + 2.0, -1.5]}><mesh><sphereGeometry args={[0.6, 32, 32]} />{M.glow("#ffb21f", 2)}</mesh><pointLight intensity={5} distance={14} color="#ffb070" /></group>);
+    for (let i = 0; i < 10; i++) { const rr = seeded(seed + i * 23); const ph = (rr() + t * 0.7) % 1; E.push(<mesh key={`ca${i}`} position={[mx + (rr() - 0.5) * mw * 0.8, mh + 0.05 + ph * 0.9, (rr() - 0.5) * 0.6]} scale={[1, 3, 1]}><sphereGeometry args={[0.03, 8, 8]} /><meshStandardMaterial color="#ffd9a8" transparent opacity={(1 - ph) * 0.6} depthWrite={false} /></mesh>); } }
+  if (fx.has("frio")) for (let i = 0; i < 40; i++) { const rr = seeded(seed + i * 29); const ph = (rr() + t * 0.35) % 1; E.push(<mesh key={`fr${i}`} position={[(rr() - 0.5) * (S + 2) + Math.sin(ph * 8 + i) * 0.2, lerp(Hm + 3, 0, ph), (rr() - 0.5) * 2]} rotation={[ph * 4, ph * 3, 0]}><octahedronGeometry args={[0.04]} /><meshStandardMaterial color="#e8f6ff" emissive="#9fd8ff" emissiveIntensity={0.4} /></mesh>); }
+  if (fx.has("flujo")) for (let i = 0; i < 30; i++) { const rr = seeded(seed + i * 31); const ph = (rr() + t * 0.9) % 1; E.push(<mesh key={`fl${i}`} position={[lerp(mx - mw * 0.45, mx + mw * 0.45, ph), (k0 === "cano" ? 0.7 : mh * 0.5) + (rr() - 0.5) * 0.25, (rr() - 0.5) * 0.3]}><sphereGeometry args={[0.04, 10, 10]} /><meshStandardMaterial color="#9fdcff" emissive="#2d8cff" emissiveIntensity={0.6} /></mesh>); }
+  if (fx.has("viento")) for (let i = 0; i < 14; i++) { const rr = seeded(seed + i * 37); const ph = (rr() + t * 1.4) % 1; E.push(<mesh key={`vi${i}`} position={[lerp(-S / 2 - 3, S / 2 + 3, ph), 0.4 + rr() * (Hm + 1), (rr() - 0.5) * 2.5]}><boxGeometry args={[0.7, 0.012, 0.012]} /><meshStandardMaterial color="#ffffff" transparent opacity={Math.sin(ph * Math.PI) * 0.7} /></mesh>); }
   if (fx.has("rayosx")) E.push(<mesh key="rx" position={[mx - mw / 2 - 0.3 + (mw + 0.6) * ((t * 1.3) % 1), mh / 2, 0]}><boxGeometry args={[0.04, mh + 0.6, 2.0]} />{M.glow("#38e1ff", 1.5)}</mesh>);
-  if (fx.has("brillo")) for (let i = 0; i < 10; i++) { const rr = seeded(seed + i * 41); const k = sm((t - 0.55 - i * 0.025) / 0.08) * (1 - sm((t - 0.85 - i * 0.01) / 0.1)); E.push(<mesh key={`br${i}`} position={[mx + (rr() - 0.5) * (mw + 0.8), rr() * (mh + 0.6) + 0.2, 0.6 + rr() * 0.4]} scale={k * 0.12 + 0.001} rotation={[0, 0, f * 0.1]}><octahedronGeometry args={[1]} />{M.glow("#fff3a0", 2.2)}</mesh>); }
-  if (fx.has("dinero")) for (let i = 0; i < 14; i++) { const rr = seeded(seed + i * 43); const ph = (rr() + t * 0.9) % 1; E.push(<mesh key={`di${i}`} position={[(rr() - 0.5) * (S + 1.5), lerp(Hm + 3, 0.05, ph), (rr() - 0.5) * 1.6]} rotation={[ph * 9, ph * 5, 0]} material={metal("#e2b53c", 0.25)}><cylinderGeometry args={[0.14, 0.14, 0.03, 24]} /></mesh>); }
+  if (fx.has("brillo")) for (let i = 0; i < 8; i++) { const rr = seeded(seed + i * 41); const k = sm((t - 0.55 - i * 0.025) / 0.08) * (1 - sm((t - 0.85 - i * 0.01) / 0.1)); E.push(<mesh key={`br${i}`} position={[mx + (rr() - 0.5) * mw, mh * (0.3 + rr() * 0.7), 0.5 + rr() * 0.3]} scale={k * 0.1 + 0.001} rotation={[0, 0, f * 0.1]}><octahedronGeometry args={[1]} />{M.glow("#fff3a0", 2.2)}</mesh>); }
+  // dinero: monedas que caen SOLO sobre la pila de monedas (o junto al protagonista), no por toda la escena
+  if (fx.has("dinero")) { const im = objs.findIndex((o) => objKey(o.tipo) === "monedas"), cx = im >= 0 ? slots[im] : mx + mw / 2 + 0.4;
+    for (let i = 0; i < 8; i++) { const rr = seeded(seed + i * 43); const ph = (rr() + t * 0.8) % 1; E.push(<mesh key={`di${i}`} position={[cx + (rr() - 0.5) * 1.2, lerp(2.4, 0.9, ph), (rr() - 0.5) * 0.5]} rotation={[ph * 9, ph * 5, 0]} material={metal("#e2b53c", 0.25)}><cylinderGeometry args={[0.13, 0.13, 0.03, 24]} /></mesh>); } }
   const spin = fx.has("giro") ? t * Math.PI * 0.8 : 0;
 
-  const labels = objs.map((o, i) => o.etiqueta ? { at: [slots[i], built[i].h + 0.12, 0.3] as V3, text: o.etiqueta, k: interpolate(t, [0.1 + i * 0.1, 0.16 + i * 0.1], [0, 1], { ...cl, easing: OUT }), tone: TONES[(i + 1) % TONES.length], side: (slots[i] >= 0 ? "r" : "l") as "l" | "r" } : null).filter(Boolean) as { at: V3; text: string; k: number; tone: string; side: "l" | "r" }[];
+  const labels = objs.map((o, i) => o.etiqueta ? { at: [slots[i], built[i].h * 0.8, 0.35] as V3, text: o.etiqueta, k: interpolate(t, [0.1 + i * 0.1, 0.16 + i * 0.1], [0, 1], { ...cl, easing: OUT }), tone: TONES[(i + 1) % TONES.length], side: (slots[i] >= 0 ? "r" : "l") as "l" | "r" } : null).filter(Boolean) as { at: V3; text: string; k: number; tone: string; side: "l" | "r" }[];
   const out = interpolate(f, [dur - 6, dur], [1, 0], cl);
-  const inK = interpolate(f, [0, 12], [0, 1], { ...cl, easing: OUT });
+  const inK = interpolate(f, [0, 8], [0.45, 1], { ...cl, easing: OUT });
   const dShown = dato ? Math.round(interpolate(f, [dur * 0.25, dur * 0.65], [0, dato.valor], { ...cl, easing: OUT }) * 10) / 10 : 0;
-  const rOff = p.pip ? 470 : 0;
+  const rOff = 0; // sin avatar en círculo (usuario 2026-10-27: "horrible")
   const vK = veredicto ? interpolate(t, [0.6, 0.66], [0, 1], cl) : 0;
   return (
     <AbsoluteFill style={{ opacity: out, background: F.bg, overflow: "hidden" }}>
