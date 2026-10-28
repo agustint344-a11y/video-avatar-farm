@@ -1,4 +1,5 @@
 name: render-nube
+run-name: render-nube ${{ inputs.slug }}
 # Render universal para CUALQUIER proyecto Remotion (Estudio, terror, ¿Y si…?, HYPOTHETICA, avatar…):
 # recibe un bundle ya armado en local (release bundle-<slug>), lo parte en N tramos; cada runner rinde su
 # tramo en h264-mkv con audio PCM (sin clicks entre tramos) y el stitch une SIN re-encodear el video y pasa
