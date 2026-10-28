@@ -1,0 +1,84 @@
+name: render-nube
+# Render universal para CUALQUIER proyecto Remotion (Estudio, terror, ¿Y si…?, HYPOTHETICA, avatar…):
+# recibe un bundle ya armado en local (release bundle-<slug>), lo parte en N tramos; cada runner rinde su
+# tramo en h264-mkv con audio PCM (sin clicks entre tramos) y el stitch une SIN re-encodear el video y pasa
+# el audio a AAC. La calidad la deciden los flags de "opts" (los mismos que se usaban en local).
+on:
+  workflow_dispatch:
+    inputs:
+      slug: { description: "slug unico del trabajo", required: true }
+      comp_id: { description: "id de la Composition", required: true }
+      total_frames: { description: "frames totales", required: true }
+      chunks: { description: "cantidad de tramos", required: false, default: "20" }
+      gl: { description: "angle | swangle (3D)", required: false, default: "angle" }
+      opts: { description: "flags de calidad para remotion render", required: false, default: "--crf=15 --jpeg-quality=95" }
+      audio_bitrate: { description: "bitrate AAC final", required: false, default: "192k" }
+      concurrency: { description: "concurrency por runner", required: false, default: "3" }
+permissions:
+  contents: write
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.m.outputs.matrix }}
+    steps:
+      - id: m
+        run: echo "matrix=$(seq 0 $((${{ inputs.chunks }}-1)) | jq -R . | jq -cs .)" >> "$GITHUB_OUTPUT"
+  render:
+    needs: prepare
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        idx: ${{ fromJSON(needs.prepare.outputs.matrix) }}
+    steps:
+      - uses: actions/checkout@v4
+        with: { sparse-checkout: nube }
+      - uses: actions/setup-node@v4
+        with: { node-version: "20" }
+      - uses: actions/cache@v4
+        with:
+          path: nube/node_modules
+          key: rn-${{ runner.os }}-${{ hashFiles('nube/package.json') }}
+      - run: cd nube && npm install --no-audit --no-fund
+      - name: fuentes del sistema (Arial/Impact/emoji) para que se vea igual que en Windows
+        run: |
+          echo ttf-mscorefonts-installer msttcorefonts/accepted-mscorefonts-eula select true | sudo debconf-set-selections
+          sudo apt-get update -qq && sudo apt-get install -y -qq ttf-mscorefonts-installer fonts-noto-color-emoji fonts-noto >/dev/null && fc-cache -f >/dev/null
+      - name: bajar bundle
+        run: |
+          gh release download bundle-${{ inputs.slug }} --repo ${{ github.repository }} --pattern 'b.tar*' --dir dl
+          mkdir -p bundle && cat $(ls dl/b.tar* | sort) | tar -xf - -C bundle
+        env: { GH_TOKEN: "${{ github.token }}" }
+      - id: r
+        run: node nube/chunkmath.mjs ${{ inputs.total_frames }} ${{ inputs.chunks }} ${{ matrix.idx }} >> "$GITHUB_OUTPUT"
+      - name: render tramo
+        if: steps.r.outputs.skip == '0'
+        run: |
+          mkdir -p out
+          PROPS=""; [ -f bundle/__props.json ] && PROPS="--props=$PWD/bundle/__props.json"
+          cd nube && TMPDIR=/dev/shm npx remotion render ../bundle "${{ inputs.comp_id }}" "../out/chunk_${{ matrix.idx }}.mkv" \
+            --codec=h264-mkv --frames=${{ steps.r.outputs.start }}-${{ steps.r.outputs.end }} \
+            --concurrency=${{ inputs.concurrency }} --gl=${{ inputs.gl }} --timeout=120000 $PROPS ${{ inputs.opts }}
+      - uses: actions/upload-artifact@v4
+        if: steps.r.outputs.skip == '0'
+        with: { name: "chunk-${{ matrix.idx }}", path: "out/chunk_${{ matrix.idx }}.mkv", retention-days: 1, compression-level: 0 }
+  stitch:
+    needs: render
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with: { path: chunks, pattern: chunk-*, merge-multiple: true }
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+      - name: unir tramos (video sin re-encodear) + audio AAC
+        run: |
+          for f in $(ls chunks/chunk_*.mkv | sort -t_ -k2 -n); do echo "file '$PWD/$f'" >> list.txt; done
+          ffmpeg -y -v error -f concat -safe 0 -i list.txt -c copy joined.mkv
+          ffmpeg -y -v error -i joined.mkv -c:v copy -c:a aac -b:a ${{ inputs.audio_bitrate }} -movflags +faststart "${{ inputs.slug }}.mp4"
+          ffprobe -v error -count_packets -select_streams v:0 -show_entries stream=nb_read_packets -of csv=p=0 "${{ inputs.slug }}.mp4" > frames.txt
+          echo "frames=$(cat frames.txt) esperado=${{ inputs.total_frames }}"
+      - name: publicar mp4
+        run: |
+          gh release delete out-${{ inputs.slug }} --repo ${{ github.repository }} --yes --cleanup-tag || true
+          gh release create out-${{ inputs.slug }} --repo ${{ github.repository }} --title "out-${{ inputs.slug }}" --notes "frames $(cat frames.txt)/${{ inputs.total_frames }}" "${{ inputs.slug }}.mp4"
+        env: { GH_TOKEN: "${{ github.token }}" }

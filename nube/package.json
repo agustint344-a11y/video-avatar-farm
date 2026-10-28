@@ -1,0 +1,11 @@
+{
+  "name": "render-nube",
+  "private": true,
+  "description": "Render universal de bundles de Remotion (cualquier canal): tramos en paralelo + union sin re-encodear",
+  "dependencies": {
+    "@remotion/cli": "4.0.499",
+    "remotion": "4.0.499",
+    "react": "19.2.3",
+    "react-dom": "19.2.3"
+  }
+}
