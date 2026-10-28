@@ -202,8 +202,8 @@
     {
       "from": 7365,
       "dur": 176,
-      "kind": "video",
-      "src": "broll/mateo-oxido-las-rejas_v_s15.mp4",
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s15.png",
       "kb": 2,
       "pip": false
     },
@@ -354,8 +354,8 @@
     {
       "from": 11184,
       "dur": 99,
-      "kind": "video",
-      "src": "broll/mateo-oxido-las-rejas_v_s29.mp4",
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s29.png",
       "kb": 3,
       "pip": false
     },
@@ -890,41 +890,33 @@
     {
       "from": 25299,
       "dur": 82,
-      "kind": "video",
-      "src": "broll/mateo-oxido-las-rejas_v_s83.mp4",
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s83.png",
       "kb": 4,
       "pip": false
     },
     {
       "from": 25381,
       "dur": 233,
-      "kind": "video",
-      "src": "broll/mateo-oxido-las-rejas_v_s84.mp4",
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s84.png",
       "kb": 5,
       "pip": false
     },
     {
       "from": 25854,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-oxido-las-rejas_v_s84.mp4",
+      "dur": 289,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s84.png",
       "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 26082,
-      "dur": 61,
-      "kind": "video",
-      "src": "broll/mateo-oxido-las-rejas_v_s84.mp4",
-      "kb": 1,
       "pip": false
     },
     {
       "from": 26143,
       "dur": 82,
-      "kind": "video",
-      "src": "broll/mateo-oxido-las-rejas_v_s88.mp4",
-      "kb": 2,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s88.png",
+      "kb": 1,
       "pip": false
     },
     {
@@ -932,7 +924,7 @@
       "dur": 162,
       "kind": "image",
       "src": "img/mateo-oxido-las-rejas_s85.png",
-      "kb": 3,
+      "kb": 2,
       "pip": false
     },
     {
@@ -940,7 +932,7 @@
       "dur": 86,
       "kind": "image",
       "src": "img/mateo-oxido-las-rejas_s86.png",
-      "kb": 4,
+      "kb": 3,
       "pip": false
     },
     {
@@ -948,7 +940,7 @@
       "dur": 212,
       "kind": "image",
       "src": "img/mateo-oxido-las-rejas_s87.png",
-      "kb": 5,
+      "kb": 4,
       "pip": false
     },
     {
@@ -956,7 +948,7 @@
       "dur": 172,
       "kind": "video",
       "src": "broll/mateo-oxido-las-rejas_v_s89.mp4",
-      "kb": 0,
+      "kb": 5,
       "pip": false
     },
     {
@@ -964,7 +956,7 @@
       "dur": 267,
       "kind": "video",
       "src": "broll/mateo-oxido-las-rejas_v_s89.mp4",
-      "kb": 1,
+      "kb": 0,
       "pip": false
     },
     {
@@ -972,7 +964,7 @@
       "dur": 114,
       "kind": "image",
       "src": "img/mateo-oxido-las-rejas_s90.png",
-      "kb": 2,
+      "kb": 1,
       "pip": false
     },
     {
@@ -980,7 +972,7 @@
       "dur": 152,
       "kind": "image",
       "src": "img/mateo-oxido-las-rejas_s91.png",
-      "kb": 3,
+      "kb": 2,
       "pip": false
     },
     {
@@ -988,7 +980,7 @@
       "dur": 228,
       "kind": "video",
       "src": "broll/mateo-oxido-las-rejas_v_s92.mp4",
-      "kb": 4,
+      "kb": 3,
       "pip": false
     },
     {
@@ -996,23 +988,23 @@
       "dur": 66,
       "kind": "video",
       "src": "broll/mateo-oxido-las-rejas_v_s92.mp4",
-      "kb": 5,
+      "kb": 4,
       "pip": false
     },
     {
       "from": 27894,
       "dur": 119,
-      "kind": "video",
-      "src": "broll/mateo-oxido-las-rejas_v_s94.mp4",
-      "kb": 0,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s94.png",
+      "kb": 5,
       "pip": false
     },
     {
       "from": 28253,
       "dur": 143,
-      "kind": "video",
-      "src": "broll/mateo-oxido-las-rejas_v_s94.mp4",
-      "kb": 1,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s94.png",
+      "kb": 0,
       "pip": false
     },
     {
@@ -1020,7 +1012,7 @@
       "dur": 136,
       "kind": "image",
       "src": "img/mateo-oxido-las-rejas_s95.png",
-      "kb": 2,
+      "kb": 1,
       "pip": false
     },
     {
@@ -1028,7 +1020,7 @@
       "dur": 105,
       "kind": "image",
       "src": "img/mateo-oxido-las-rejas_s96.png",
-      "kb": 3,
+      "kb": 2,
       "pip": false
     },
     {
@@ -1036,7 +1028,7 @@
       "dur": 120,
       "kind": "image",
       "src": "img/mateo-oxido-las-rejas_s97.png",
-      "kb": 4,
+      "kb": 3,
       "pip": false
     },
     {
@@ -1044,7 +1036,7 @@
       "dur": 99,
       "kind": "image",
       "src": "img/mateo-oxido-las-rejas_s97.png",
-      "kb": 5,
+      "kb": 4,
       "pip": false
     },
     {
@@ -1052,7 +1044,7 @@
       "dur": 90,
       "kind": "video",
       "src": "broll/mateo-oxido-las-rejas_v_s98.mp4",
-      "kb": 0,
+      "kb": 5,
       "pip": false
     },
     {
@@ -1060,7 +1052,7 @@
       "dur": 150,
       "kind": "video",
       "src": "broll/mateo-oxido-las-rejas_v_s99.mp4",
-      "kb": 1,
+      "kb": 0,
       "pip": false
     },
     {
@@ -1068,7 +1060,7 @@
       "dur": 240,
       "kind": "video",
       "src": "broll/mateo-oxido-las-rejas_v_s99.mp4",
-      "kb": 2,
+      "kb": 1,
       "pip": false
     },
     {
@@ -1076,7 +1068,7 @@
       "dur": 144,
       "kind": "image",
       "src": "img/mateo-oxido-las-rejas_s100.png",
-      "kb": 3,
+      "kb": 2,
       "pip": false
     },
     {
@@ -1084,7 +1076,7 @@
       "dur": 228,
       "kind": "video",
       "src": "broll/mateo-oxido-las-rejas_v_s101.mp4",
-      "kb": 4,
+      "kb": 3,
       "pip": false
     },
     {
@@ -1092,7 +1084,7 @@
       "dur": 228,
       "kind": "video",
       "src": "broll/mateo-oxido-las-rejas_v_s101.mp4",
-      "kb": 5,
+      "kb": 4,
       "pip": false
     },
     {
@@ -1100,7 +1092,7 @@
       "dur": 228,
       "kind": "video",
       "src": "broll/mateo-oxido-las-rejas_v_s101.mp4",
-      "kb": 0,
+      "kb": 5,
       "pip": false
     },
     {
@@ -1108,7 +1100,7 @@
       "dur": 269,
       "kind": "video",
       "src": "broll/mateo-oxido-las-rejas_v_s101.mp4",
-      "kb": 1,
+      "kb": 0,
       "pip": false
     },
     {
@@ -1116,7 +1108,7 @@
       "dur": 199,
       "kind": "video",
       "src": "broll/mateo-oxido-las-rejas_v_s104.mp4",
-      "kb": 2,
+      "kb": 1,
       "pip": false
     },
     {
@@ -1124,7 +1116,7 @@
       "dur": 262,
       "kind": "image",
       "src": "img/mateo-oxido-las-rejas_s105.png",
-      "kb": 3,
+      "kb": 2,
       "pip": false
     }
   ],
@@ -1221,7 +1213,7 @@
       "comp": "SelloError",
       "props": {
         "theme": "earth",
-        "label": "ERROR",
+        "label": "RAZÓN",
         "num": 2,
         "text": "lijar sin sacar el óxido profundo"
       }
@@ -1972,18 +1964,18 @@
       "comp": "Barras3D",
       "props": {
         "theme": "earth",
-        "title": "Repetir pintura vs sellar una vez",
+        "title": "Veces que vuelves a pintar en 3 años",
         "items": [
           {
-            "label": "Repintar cada año",
+            "label": "Solo pintar",
             "value": 3
           },
           {
-            "label": "Sellar una sola vez",
+            "label": "Sellar",
             "value": 1
           }
         ],
-        "unidad": "veces",
+        "unidad": "",
         "destacar": 1,
         "note": "Sellar bien evita repetir el trabajo."
       }
