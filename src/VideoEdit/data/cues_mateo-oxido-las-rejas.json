@@ -1,0 +1,2007 @@
+{
+  "slug": "mateo-oxido-las-rejas",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 33143,
+  "audioSrc": "mateo-oxido-las-rejas.mp3",
+  "avatarSrc": "mateo-oxido-las-rejas_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1678,
+      "dur": 560,
+      "clip": 0
+    },
+    {
+      "from": 4301,
+      "dur": 571,
+      "clip": 560
+    },
+    {
+      "from": 5260,
+      "dur": 933,
+      "clip": 1131
+    },
+    {
+      "from": 6227,
+      "dur": 1050,
+      "clip": 2064
+    },
+    {
+      "from": 29096,
+      "dur": 663,
+      "clip": 3114
+    },
+    {
+      "from": 31835,
+      "dur": 1046,
+      "clip": 3777
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 268,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s01.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 478,
+      "dur": 81,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s01.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 559,
+      "dur": 215,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 774,
+      "dur": 143,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s03.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1296,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s93.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1372,
+      "dur": 176,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s04.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1548,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s05.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2238,
+      "dur": 198,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s06.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2436,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s07.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2909,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s07.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3028,
+      "dur": 82,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s08.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3110,
+      "dur": 157,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s09.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3447,
+      "dur": 228,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s09.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3675,
+      "dur": 245,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s09.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3920,
+      "dur": 157,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s10.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4077,
+      "dur": 75,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s11.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4872,
+      "dur": 52,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s11.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4924,
+      "dur": 336,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s26.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6193,
+      "dur": 34,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s102.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7277,
+      "dur": 88,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s14.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7365,
+      "dur": 176,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s15.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7811,
+      "dur": 105,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s13.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7916,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s17.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8290,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s16.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8425,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s18.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8522,
+      "dur": 153,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s19.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8855,
+      "dur": 233,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s12.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9088,
+      "dur": 69,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s20.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9157,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s21.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9356,
+      "dur": 137,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s22.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9493,
+      "dur": 228,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s23.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9721,
+      "dur": 228,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s23.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9949,
+      "dur": 127,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s23.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10076,
+      "dur": 205,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s24.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10281,
+      "dur": 184,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s25.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10465,
+      "dur": 111,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s69.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10576,
+      "dur": 135,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s28.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10891,
+      "dur": 228,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s27.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11119,
+      "dur": 65,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s27.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11184,
+      "dur": 99,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s29.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11283,
+      "dur": 154,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s30.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11437,
+      "dur": 143,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s31.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11580,
+      "dur": 146,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s32.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11726,
+      "dur": 128,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s33.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12124,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s103.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12248,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s34.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12393,
+      "dur": 176,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s35.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12569,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s36.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13051,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s36.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13422,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13828,
+      "dur": 246,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s39.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14074,
+      "dur": 132,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s41.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14206,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s42.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14455,
+      "dur": 88,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s43.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14783,
+      "dur": 128,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s38.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14911,
+      "dur": 160,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s44.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15071,
+      "dur": 141,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s45.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15212,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s46.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15542,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s46.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15701,
+      "dur": 139,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s47.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15840,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s48.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16023,
+      "dur": 116,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s49.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16139,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s50.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16319,
+      "dur": 86,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s51.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16405,
+      "dur": 215,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s52.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16620,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s53.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16976,
+      "dur": 213,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s37.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17189,
+      "dur": 107,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s54.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17296,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s55.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17374,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s56.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17859,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s56.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18000,
+      "dur": 175,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s57.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18175,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s58.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18272,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s59.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18482,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s74.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18547,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s60.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18622,
+      "dur": 320,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s61.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19182,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s61.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19325,
+      "dur": 177,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s62.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19502,
+      "dur": 215,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s63.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19717,
+      "dur": 91,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s64.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19808,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s65.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19976,
+      "dur": 186,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s66.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20402,
+      "dur": 228,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s66.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20630,
+      "dur": 71,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s66.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20701,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s67.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20807,
+      "dur": 341,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s68.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21448,
+      "dur": 258,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s68.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21706,
+      "dur": 175,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s70.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21881,
+      "dur": 174,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s71.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22055,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s72.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22537,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s72.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22654,
+      "dur": 214,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s73.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22868,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s75.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23023,
+      "dur": 228,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s76.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23251,
+      "dur": 228,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s76.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23479,
+      "dur": 228,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s76.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23707,
+      "dur": 228,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s76.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23935,
+      "dur": 60,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s76.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23995,
+      "dur": 210,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s77.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24205,
+      "dur": 97,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s78.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24302,
+      "dur": 231,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s79.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24713,
+      "dur": 186,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s79.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24899,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s80.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25063,
+      "dur": 161,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s81.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25224,
+      "dur": 75,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s82.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25299,
+      "dur": 82,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s83.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25381,
+      "dur": 233,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s84.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25854,
+      "dur": 228,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s84.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26082,
+      "dur": 61,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s84.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26143,
+      "dur": 82,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s88.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26225,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s85.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26387,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s86.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26473,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s87.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26685,
+      "dur": 172,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s89.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27067,
+      "dur": 267,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s89.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27334,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s90.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27448,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s91.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27600,
+      "dur": 228,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s92.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27828,
+      "dur": 66,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s92.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27894,
+      "dur": 119,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s94.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28253,
+      "dur": 143,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s94.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28396,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s95.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28532,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s96.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28637,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s97.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28997,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s97.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29759,
+      "dur": 90,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s98.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29849,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s99.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30299,
+      "dur": 240,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s99.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30539,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s100.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30683,
+      "dur": 228,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s101.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30911,
+      "dur": 228,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s101.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31139,
+      "dur": 228,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s101.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31367,
+      "dur": 269,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s101.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31636,
+      "dur": 199,
+      "kind": "video",
+      "src": "broll/mateo-oxido-las-rejas_v_s104.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32881,
+      "dur": 262,
+      "kind": "image",
+      "src": "img/mateo-oxido-las-rejas_s105.png",
+      "kb": 3,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 5,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PROBLEMA",
+        "title": "La Mancha que Siempre Vuelve"
+      }
+    },
+    {
+      "from": 1678,
+      "dur": 180,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "EL CONSTRUCTOR LIBRE",
+        "title": "Mateo",
+        "sub": "Arreglos caseros, sin vueltas."
+      }
+    },
+    {
+      "from": 1678,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "POR QUÉ PASA",
+        "title": "El Óxido que no Viste"
+      }
+    },
+    {
+      "from": 6277,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 6507,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PLAN",
+        "title": "3 Puntos Donde se Junta el Agua"
+      }
+    },
+    {
+      "from": 6880,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 1",
+        "title": "La Pintura Vieja que ya no Protege"
+      }
+    },
+    {
+      "from": 7365,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "MICROFISURAS",
+        "sub": "Casi no se ven a simple vista",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 8911,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ÓXIDO PROFUNDO",
+        "sub": "Metido en los poros del metal",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 9157,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 2,
+        "text": "lijar sin sacar el óxido profundo"
+      }
+    },
+    {
+      "from": 10281,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "title": "El Punto que Nadie Revisa"
+      }
+    },
+    {
+      "from": 11028,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ESPACIO INVISIBLE",
+        "sub": "Entre el metal y el mortero",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 11437,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CAPILARIDAD",
+        "sub": "La humedad sube desde el suelo",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 13989,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SOLDADURA POROSA",
+        "sub": "Otro punto donde se mete el agua",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 14911,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "¿Es tu Caso? 4 Señales"
+      }
+    },
+    {
+      "from": 15840,
+      "dur": 120,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "DIAGNÓSTICO",
+        "sub": "Toca la zona tras la lluvia: si sigue fría o húmeda, hay agua atrapada.",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 17041,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL ARREGLO",
+        "title": "Paso a Paso con Materiales Baratos"
+      }
+    },
+    {
+      "from": 19502,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 24,
+        "suffix": " h",
+        "label": "sin lluvia para curar",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 19717,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CONVERSOR DE ÓXIDO",
+        "sub": "Transforma el óxido en capa estable",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 21706,
+      "dur": 120,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ZONA COSTERA",
+        "sub": "Usa un sellador que resista la sal del ambiente.",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 22868,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "BASE ANTIÓXIDO",
+        "sub": "Protege más que la pintura final",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 23784,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 24302,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "AL PINTAR",
+        "title": "Los 4 Errores Más Comunes"
+      }
+    },
+    {
+      "from": 24302,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 1,
+        "text": "una sola mano de esmalte"
+      }
+    },
+    {
+      "from": 25224,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "BURBUJAS DE AIRE",
+        "sub": "Por pintar antes de que seque",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 25299,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 2,
+        "text": "pintura de interior en exterior"
+      }
+    },
+    {
+      "from": 26032,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 3,
+        "text": "pintar a pleno sol"
+      }
+    },
+    {
+      "from": 26225,
+      "dur": 120,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "El metal caliente seca mal la pintura por fuera.",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 26685,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 4,
+        "text": "no sellar el punto de unión"
+      }
+    },
+    {
+      "from": 29096,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RESUMEN",
+        "title": "Todo lo que Vimos, Rápido"
+      }
+    },
+    {
+      "from": 31137,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 31269,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CIERRE",
+        "title": "Antes de que te Vayas"
+      }
+    },
+    {
+      "from": 31835,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 7,
+        "suffix": " días",
+        "label": "de garantía Hotmart",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 32017,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 32956,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 268,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PROBLEMA",
+        "phrase": "El óxido nunca se fue: solo lo tapaste",
+        "accent": "nunca se fue",
+        "src": "img/mateo-oxido-las-rejas_s01.png"
+      }
+    },
+    {
+      "from": 917,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que vas a entender hoy",
+        "items": [
+          "Por qué la mancha vuelve al mismo lugar",
+          "Los 3 puntos donde se junta el agua",
+          "El paso que casi nadie hace",
+          "Cuánto cuesta arreglarlo bien"
+        ]
+      }
+    },
+    {
+      "from": 1026,
+      "dur": 270,
+      "comp": "Escena3D",
+      "props": {
+        "theme": "earth",
+        "title": "El óxido empuja desde adentro",
+        "kicker": "Debajo de la pintura",
+        "objetos": [
+          {
+            "tipo": "columna",
+            "etiqueta": "Barrote"
+          }
+        ],
+        "efectos": [
+          "mancha",
+          "grieta"
+        ],
+        "camara": "rasante",
+        "fondo": "plano",
+        "entrada": "sube",
+        "veredicto": "mal",
+        "note": "Levanta la pintura hasta que la mancha se ve otra vez."
+      }
+    },
+    {
+      "from": 2639,
+      "dur": 270,
+      "comp": "Escena3D",
+      "props": {
+        "theme": "earth",
+        "title": "Por qué el metal se oxida",
+        "kicker": "Humedad atrapada",
+        "objetos": [
+          {
+            "tipo": "gota"
+          }
+        ],
+        "efectos": [
+          "lluvia",
+          "mancha"
+        ],
+        "camara": "acercamiento",
+        "fondo": "claro",
+        "entrada": "cae",
+        "veredicto": "mal",
+        "note": "El agua que no se seca ataca el metal sin parar."
+      }
+    },
+    {
+      "from": 3267,
+      "dur": 180,
+      "comp": "NivelBurbuja",
+      "props": {
+        "theme": "earth",
+        "title": "¿Por qué el agua no se va?",
+        "verdict": "SIN PENDIENTE",
+        "sub": "Ahí se queda quieta, sin aire ni sol que la seque."
+      }
+    },
+    {
+      "from": 4152,
+      "dur": 149,
+      "comp": "Escena3D",
+      "props": {
+        "theme": "earth",
+        "title": "Las rejas de ventana sufren más",
+        "kicker": "Pegadas a la pared",
+        "objetos": [
+          {
+            "tipo": "ventana",
+            "etiqueta": "Reja"
+          }
+        ],
+        "efectos": [
+          "mancha"
+        ],
+        "camara": "orbita",
+        "fondo": "claro",
+        "entrada": "pop",
+        "veredicto": "mal",
+        "note": "Casi todo el año en contacto con la mampostería."
+      }
+    },
+    {
+      "from": 7541,
+      "dur": 270,
+      "comp": "Escena3D",
+      "props": {
+        "theme": "earth",
+        "title": "Las microfisuras dejan pasar agua",
+        "kicker": "Pintura vieja",
+        "objetos": [
+          {
+            "tipo": "escalera",
+            "etiqueta": "Baranda"
+          }
+        ],
+        "efectos": [
+          "grieta",
+          "mancha"
+        ],
+        "camara": "tresCuartos",
+        "fondo": "plano",
+        "entrada": "desliza",
+        "veredicto": "mal",
+        "note": "Por esas grietas entra humedad directo al metal."
+      }
+    },
+    {
+      "from": 8050,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "Cómo lijar de verdad",
+        "left": {
+          "label": "Lijar hasta ver gris",
+          "sub": "Parece limpio por fuera"
+        },
+        "right": {
+          "label": "Lijar hasta sacar el óxido de los poros",
+          "sub": "Si no, queda óxido activo atrapado"
+        }
+      }
+    },
+    {
+      "from": 8675,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 2",
+        "phrase": "Lijar hasta ver gris no basta",
+        "accent": "no basta",
+        "src": "img/mateo-oxido-las-rejas_s19.png"
+      }
+    },
+    {
+      "from": 10711,
+      "dur": 180,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "RAZÓN 3",
+        "phrase": "El punto que casi nadie revisa",
+        "accent": "nadie revisa",
+        "src": "img/mateo-oxido-las-rejas_s28.png"
+      }
+    },
+    {
+      "from": 11854,
+      "dur": 270,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Así queda atrapada el agua",
+        "kicker": "En el punto de unión",
+        "problema": "humedad",
+        "etiqueta": "Punto ciego",
+        "note": "Ni aire ni sol la secan: ataca el metal sin parar."
+      }
+    },
+    {
+      "from": 12751,
+      "dur": 300,
+      "comp": "Escena3D",
+      "props": {
+        "theme": "earth",
+        "title": "El pelo de espacio que lo oxida todo",
+        "kicker": "El punto que nadie ve",
+        "objetos": [
+          {
+            "tipo": "pared",
+            "etiqueta": "Mortero"
+          },
+          {
+            "tipo": "columna",
+            "etiqueta": "Barrote"
+          }
+        ],
+        "efectos": [
+          "sube",
+          "mancha"
+        ],
+        "camara": "acercamiento",
+        "fondo": "claro",
+        "entrada": "desliza",
+        "dato": {
+          "valor": 1,
+          "unidad": "mm",
+          "label": "espacio invisible"
+        },
+        "veredicto": "mal",
+        "note": "Ahí entra el agua que después empuja el óxido hacia afuera."
+      }
+    },
+    {
+      "from": 13152,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Diagnóstico en 5 minutos",
+        "items": [
+          "La mancha sale siempre a la misma altura",
+          "La pintura se levantó formando burbuja",
+          "La zona está húmeda tras la lluvia",
+          "Hay óxido asomando en la soldadura"
+        ]
+      }
+    },
+    {
+      "from": 13618,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Las soldaduras no hace falta pintarlas",
+        "truth": "Si no se sellan bien, ahí también entra el agua"
+      }
+    },
+    {
+      "from": 14543,
+      "dur": 240,
+      "comp": "Escena3D",
+      "props": {
+        "theme": "earth",
+        "title": "La soldadura también puede fallar",
+        "kicker": "Uniones soldadas",
+        "objetos": [
+          {
+            "tipo": "escalera",
+            "etiqueta": "Soldadura"
+          },
+          {
+            "tipo": "lupa"
+          }
+        ],
+        "efectos": [
+          "mancha"
+        ],
+        "camara": "acercamiento",
+        "fondo": "plano",
+        "entrada": "pop",
+        "veredicto": "mal",
+        "note": "Si no se sella con pintura, ahí también se mete el agua."
+      }
+    },
+    {
+      "from": 16766,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL UMBRAL",
+        "value": 2,
+        "prefix": "",
+        "suffix": "/4",
+        "label": "señales marcadas y el problema está en el punto de unión"
+      }
+    },
+    {
+      "from": 17559,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL ARREGLO",
+        "title": "Los primeros 3 pasos",
+        "steps": [
+          {
+            "title": "1. Cepillar",
+            "sub": "Sacar óxido suelto y pintura floja"
+          },
+          {
+            "title": "2. Limpiar",
+            "sub": "Vinagre o bicarbonato, dejar secar bien"
+          },
+          {
+            "title": "3. Conversor de óxido",
+            "sub": "Transforma lo que no pudiste sacar"
+          }
+        ]
+      }
+    },
+    {
+      "from": 18942,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "El clima también importa",
+        "left": {
+          "label": "Clima húmedo",
+          "sub": "Espera a un día soleado"
+        },
+        "right": {
+          "label": "Zona costera o seca",
+          "sub": "Al menos 24h sin lluvia para curar"
+        }
+      }
+    },
+    {
+      "from": 20162,
+      "dur": 240,
+      "comp": "Escena3D",
+      "props": {
+        "theme": "earth",
+        "title": "El conversor transforma el óxido",
+        "kicker": "Paso 3",
+        "objetos": [
+          {
+            "tipo": "pincel",
+            "etiqueta": "Conversor"
+          }
+        ],
+        "efectos": [
+          "brillo"
+        ],
+        "camara": "acercamiento",
+        "fondo": "claro",
+        "entrada": "pop",
+        "veredicto": "bien",
+        "note": "Convierte el óxido suelto en una capa estable."
+      }
+    },
+    {
+      "from": 21148,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL ARREGLO",
+        "title": "Los últimos 3 pasos",
+        "steps": [
+          {
+            "title": "4. Sellar la unión",
+            "sub": "Poliuretano o silicona para exteriores"
+          },
+          {
+            "title": "5. Base antióxido",
+            "sub": "Con zinc, protege más que la pintura final"
+          },
+          {
+            "title": "6. Esmalte final",
+            "sub": "De preferencia uno pensado para exterior"
+          }
+        ]
+      }
+    },
+    {
+      "from": 22267,
+      "dur": 270,
+      "comp": "Escena3D",
+      "props": {
+        "theme": "earth",
+        "title": "Sellar: el paso que decide todo",
+        "kicker": "Paso 4",
+        "objetos": [
+          {
+            "tipo": "sellador"
+          }
+        ],
+        "efectos": [
+          "sellar"
+        ],
+        "camara": "lateral",
+        "fondo": "plano",
+        "entrada": "desliza",
+        "veredicto": "bien",
+        "note": "Cierra el espacio por donde entraba el agua."
+      }
+    },
+    {
+      "from": 24533,
+      "dur": 180,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL DETALLE",
+        "value": 2,
+        "suffix": " manos",
+        "label": "de esmalte, bien secas entre cada una"
+      }
+    },
+    {
+      "from": 25614,
+      "dur": 240,
+      "comp": "Escena3D",
+      "props": {
+        "theme": "earth",
+        "title": "El sol que destruye la pintura común",
+        "kicker": "Esmalte genérico",
+        "objetos": [
+          {
+            "tipo": "sol",
+            "etiqueta": "Rayos UV"
+          }
+        ],
+        "efectos": [
+          "calor"
+        ],
+        "camara": "alejamiento",
+        "fondo": "atardecer",
+        "entrada": "pop",
+        "veredicto": "mal",
+        "note": "El esmalte genérico no resiste tanto sol constante."
+      }
+    },
+    {
+      "from": 26857,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Si no se ve tan feo, no hace falta sellar ahí",
+        "truth": "Ese es el punto exacto que hace volver la mancha"
+      }
+    },
+    {
+      "from": 28013,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL ERROR REAL",
+        "phrase": "No sellar el punto donde el metal entra a la pared",
+        "accent": "no sellar",
+        "src": "img/mateo-oxido-las-rejas_s94.png"
+      }
+    },
+    {
+      "from": 28757,
+      "dur": 240,
+      "comp": "Barras3D",
+      "props": {
+        "theme": "earth",
+        "title": "Repetir pintura vs sellar una vez",
+        "items": [
+          {
+            "label": "Repintar cada año",
+            "value": 3
+          },
+          {
+            "label": "Sellar una sola vez",
+            "value": 1
+          }
+        ],
+        "unidad": "veces",
+        "destacar": 1,
+        "note": "Sellar bien evita repetir el trabajo."
+      }
+    },
+    {
+      "from": 29999,
+      "dur": 300,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Para resumir rápido",
+        "items": [
+          "El óxido visible es solo la punta del problema",
+          "Tres causas típicas y las soldaduras sin sellar",
+          "El punto de unión es la causa más repetida",
+          "Cepillar, limpiar, convertir, sellar, proteger y pintar"
+        ]
+      }
+    }
+  ]
+}
