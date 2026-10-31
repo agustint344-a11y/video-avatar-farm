@@ -1,0 +1,1164 @@
+{
+  "slug": "mateo-jabon-alumbre-impermeabilizante",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 16663,
+  "audioSrc": "mateo-jabon-alumbre-impermeabilizante.mp3",
+  "avatarSrc": "mateo-jabon-alumbre-impermeabilizante_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1680,
+      "dur": 196,
+      "clip": 0
+    },
+    {
+      "from": 7701,
+      "dur": 275,
+      "clip": 196
+    },
+    {
+      "from": 15304,
+      "dur": 339,
+      "clip": 471
+    },
+    {
+      "from": 16247,
+      "dur": 371,
+      "clip": 810
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 68,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s01.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 68,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/mateo-jabon-alumbre-impermeabilizante_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 608,
+      "dur": 288,
+      "kind": "image",
+      "src": "img/mateo-jabon-alumbre-impermeabilizante_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1106,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/mateo-jabon-alumbre-impermeabilizante_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1297,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/mateo-jabon-alumbre-impermeabilizante_s03.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1466,
+      "dur": 105,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s04.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1571,
+      "dur": 109,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s05.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1876,
+      "dur": 236,
+      "kind": "image",
+      "src": "img/mateo-jabon-alumbre-impermeabilizante_s07.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2382,
+      "dur": 105,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s06.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2487,
+      "dur": 80,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s08.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2897,
+      "dur": 111,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s09.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3008,
+      "dur": 253,
+      "kind": "image",
+      "src": "img/mateo-jabon-alumbre-impermeabilizante_s10.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3261,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/mateo-jabon-alumbre-impermeabilizante_s11.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3671,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/mateo-jabon-alumbre-impermeabilizante_s11.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3906,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/mateo-jabon-alumbre-impermeabilizante_s12.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4096,
+      "dur": 225,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s13.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4321,
+      "dur": 228,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s14.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4549,
+      "dur": 228,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s14.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4777,
+      "dur": 60,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s15.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4837,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/mateo-jabon-alumbre-impermeabilizante_s16.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5045,
+      "dur": 221,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s17.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5536,
+      "dur": 265,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s17.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5801,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/mateo-jabon-alumbre-impermeabilizante_s18.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5993,
+      "dur": 102,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s19.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6305,
+      "dur": 228,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s19.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6533,
+      "dur": 109,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s19.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6642,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/mateo-jabon-alumbre-impermeabilizante_s20.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6786,
+      "dur": 133,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s21.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7129,
+      "dur": 186,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s21.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7315,
+      "dur": 198,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s22.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7513,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/mateo-jabon-alumbre-impermeabilizante_s23.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7976,
+      "dur": 78,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s24.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8054,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/mateo-jabon-alumbre-impermeabilizante_s25.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8137,
+      "dur": 65,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s26.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8442,
+      "dur": 112,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s26.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8794,
+      "dur": 195,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s26.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8989,
+      "dur": 179,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s27.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9438,
+      "dur": 248,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s27.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9686,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/mateo-jabon-alumbre-impermeabilizante_s28.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9817,
+      "dur": 122,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s29.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10179,
+      "dur": 163,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s29.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10342,
+      "dur": 206,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s30.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10788,
+      "dur": 228,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s30.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11016,
+      "dur": 74,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s30.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11360,
+      "dur": 79,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s30.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11709,
+      "dur": 261,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s30.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12359,
+      "dur": 198,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s30.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12557,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/mateo-jabon-alumbre-impermeabilizante_s31.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12710,
+      "dur": 56,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s32.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12766,
+      "dur": 211,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s33.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13277,
+      "dur": 217,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s33.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13494,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/mateo-jabon-alumbre-impermeabilizante_s34.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13615,
+      "dur": 225,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s35.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13840,
+      "dur": 70,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s36.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13910,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/mateo-jabon-alumbre-impermeabilizante_s37.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14122,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/mateo-jabon-alumbre-impermeabilizante_s38.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14279,
+      "dur": 228,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s39.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14507,
+      "dur": 254,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s39.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14761,
+      "dur": 202,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s40.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14963,
+      "dur": 151,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s41.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15114,
+      "dur": 190,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s42.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15643,
+      "dur": 228,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s42.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15871,
+      "dur": 186,
+      "kind": "video",
+      "src": "broll/mateo-jabon-alumbre-impermeabilizante_v_s42.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16057,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/mateo-jabon-alumbre-impermeabilizante_s43.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16618,
+      "dur": 45,
+      "kind": "image",
+      "src": "img/mateo-jabon-alumbre-impermeabilizante_s43.png",
+      "kb": 4,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 1",
+        "title": "El experimento del agua"
+      }
+    },
+    {
+      "from": 654,
+      "dur": 180,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 2,
+        "prefix": "$",
+        "suffix": "",
+        "label": "cuesta el tratamiento",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 1297,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "ORDEN EXACTO",
+        "sub": "jabón primero",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 1680,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "MATEO ARREGLA",
+        "title": "Mateo",
+        "sub": "Arreglos caseros, paso a paso"
+      }
+    },
+    {
+      "from": 1868,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 2",
+        "title": "Por qué funciona"
+      }
+    },
+    {
+      "from": 2487,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "INSOLUBLE",
+        "sub": "no se disuelve",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 2920,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 3",
+        "title": "La receta"
+      }
+    },
+    {
+      "from": 3703,
+      "dur": 105,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "CASI HIRVIENDO",
+        "sub": "así debe estar el agua",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 3906,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "CUIDADO",
+        "sub": "agua casi hirviendo, no te quemes",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 4777,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 4",
+        "title": "Paso a paso"
+      }
+    },
+    {
+      "from": 4837,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "no funciona sobre pared pintada",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 6642,
+      "dur": 180,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 2,
+        "suffix": "",
+        "label": "manos necesarias",
+        "corner": "tl"
+      }
+    },
+    {
+      "from": 7864,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 8054,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 5",
+        "title": "Los errores"
+      }
+    },
+    {
+      "from": 8137,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 1,
+        "text": "invertir el orden"
+      }
+    },
+    {
+      "from": 8818,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 2,
+        "text": "segunda mano antes de tiempo"
+      }
+    },
+    {
+      "from": 9470,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 3,
+        "text": "jabón perfumado o detergente"
+      }
+    },
+    {
+      "from": 12710,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 7",
+        "title": "Cuánto dura"
+      }
+    },
+    {
+      "from": 14550,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 15114,
+      "dur": 180,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 185,
+        "suffix": "",
+        "label": "fichas imprimibles",
+        "corner": "br"
+      }
+    },
+    {
+      "from": 15450,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 15876,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 16343,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 160,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL EXPERIMENTO",
+        "phrase": "El agua resbala como sobre un vidrio",
+        "accent": "resbala",
+        "src": "img/mateo-jabon-alumbre-impermeabilizante_s02.png"
+      }
+    },
+    {
+      "from": 338,
+      "dur": 270,
+      "comp": "Escena3D",
+      "props": {
+        "theme": "earth",
+        "title": "Por qué el ladrillo se oscurece",
+        "kicker": "Sin tratamiento",
+        "objetos": [
+          {
+            "tipo": "ladrillo",
+            "etiqueta": "Sin tratar"
+          }
+        ],
+        "efectos": [
+          "mancha"
+        ],
+        "camara": "acercamiento",
+        "fondo": "claro",
+        "entrada": "cae",
+        "veredicto": "mal",
+        "note": "El agua entra y se oscurece en segundos"
+      }
+    },
+    {
+      "from": 896,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA HISTORIA",
+        "value": 200,
+        "prefix": "",
+        "suffix": " años",
+        "label": "tiene el método Sylvester"
+      }
+    },
+    {
+      "from": 2112,
+      "dur": 270,
+      "comp": "Escena3D",
+      "props": {
+        "theme": "earth",
+        "title": "Así se tapa el poro por dentro",
+        "kicker": "Jabón + alumbre",
+        "objetos": [
+          {
+            "tipo": "pared",
+            "etiqueta": "Corte"
+          }
+        ],
+        "efectos": [
+          "sellar"
+        ],
+        "camara": "travelling",
+        "fondo": "plano",
+        "entrada": "desliza",
+        "veredicto": "bien",
+        "note": "El poro se tapa pero la pared respira"
+      }
+    },
+    {
+      "from": 2567,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "POR QUÉ FUNCIONA",
+        "title": "El proceso en 3 pasos",
+        "steps": [
+          {
+            "title": "Jabón caliente",
+            "sub": "se mete en los poros"
+          },
+          {
+            "title": "Alumbre reacciona",
+            "sub": "forma un jabón metálico"
+          },
+          {
+            "title": "Queda insoluble",
+            "sub": "tapa el paso del agua"
+          }
+        ]
+      }
+    },
+    {
+      "from": 3456,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA RECETA",
+        "value": 130,
+        "prefix": "",
+        "suffix": " g",
+        "label": "de jabón por litro de agua"
+      }
+    },
+    {
+      "from": 3461,
+      "dur": 210,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA RECETA",
+        "value": 60,
+        "max": 130,
+        "suffix": " g",
+        "label": "de alumbre: la mitad del jabón"
+      }
+    },
+    {
+      "from": 5266,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "¿Sirve en tu pared?",
+        "items": [
+          "Ladrillo visto: sí",
+          "Revoque sin pintar: sí",
+          "Cemento poroso: sí",
+          "Pared pintada: no"
+        ]
+      }
+    },
+    {
+      "from": 6095,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL TIEMPO",
+        "value": 6,
+        "prefix": "",
+        "suffix": " h",
+        "label": "de secado antes de la segunda mano"
+      }
+    },
+    {
+      "from": 6919,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL RESULTADO",
+        "phrase": "La pared queda casi invisible al secar",
+        "accent": "casi invisible",
+        "src": "img/mateo-jabon-alumbre-impermeabilizante_s21.png"
+      }
+    },
+    {
+      "from": 8202,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Primero el alumbre, después el jabón",
+        "truth": "Primero el jabón, después el alumbre: invertirlo arruina la pared"
+      }
+    },
+    {
+      "from": 8554,
+      "dur": 240,
+      "comp": "Escena3D",
+      "props": {
+        "theme": "earth",
+        "title": "La costra que se despega con lluvia",
+        "kicker": "Error: orden invertido",
+        "objetos": [
+          {
+            "tipo": "ladrillo",
+            "etiqueta": "Orden mal"
+          }
+        ],
+        "efectos": [
+          "mancha",
+          "goteo"
+        ],
+        "camara": "lateral",
+        "fondo": "atardecer",
+        "entrada": "pop",
+        "veredicto": "mal"
+      }
+    },
+    {
+      "from": 9168,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Error 2: mano antes de tiempo",
+        "items": [
+          "Jabón húmedo más alumbre: reacción a medias",
+          "Quedan manchones que repelen distinto",
+          "No se nota hasta que llueve de verdad"
+        ]
+      }
+    },
+    {
+      "from": 9939,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Jabón líquido o detergente funciona igual",
+        "truth": "Solo el jabón de pan blanco reacciona con el alumbre"
+      }
+    },
+    {
+      "from": 10548,
+      "dur": 240,
+      "comp": "Escena3D",
+      "props": {
+        "theme": "earth",
+        "title": "Las grietas necesitan sellado aparte",
+        "kicker": "Esto no las tapa",
+        "objetos": [
+          {
+            "tipo": "losa",
+            "etiqueta": "Grieta"
+          }
+        ],
+        "efectos": [
+          "grieta",
+          "sellar"
+        ],
+        "camara": "picado",
+        "fondo": "plano",
+        "entrada": "sube",
+        "veredicto": "mal"
+      }
+    },
+    {
+      "from": 11090,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Qué NO arregla este método",
+        "items": [
+          "Grietas y fisuras abiertas",
+          "Juntas entre ladrillos",
+          "Humedad que sube del piso"
+        ]
+      }
+    },
+    {
+      "from": 11439,
+      "dur": 270,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "earth",
+        "title": "Así sube la humedad",
+        "kicker": "Por dentro de la pared",
+        "problema": "humedad",
+        "etiqueta": "Capilaridad del suelo",
+        "note": "Sube 40 a 60 cm desde el piso"
+      }
+    },
+    {
+      "from": 11970,
+      "dur": 210,
+      "comp": "Escena3D",
+      "props": {
+        "theme": "earth",
+        "title": "La prueba que confirma que funcionó",
+        "kicker": "Gotas redondas",
+        "objetos": [
+          {
+            "tipo": "gota",
+            "etiqueta": "Resultado"
+          }
+        ],
+        "efectos": [
+          "brillo"
+        ],
+        "camara": "rasante",
+        "fondo": "claro",
+        "entrada": "cae",
+        "veredicto": "bien"
+      }
+    },
+    {
+      "from": 12089,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "¿Funcionó?",
+        "left": {
+          "label": "Bien hecho",
+          "sub": "gotas redondas, sin oscurecer"
+        },
+        "right": {
+          "label": "Mal hecho",
+          "sub": "sigue chupando y se oscurece"
+        }
+      }
+    },
+    {
+      "from": 12977,
+      "dur": 300,
+      "comp": "Escena3D",
+      "props": {
+        "theme": "earth",
+        "title": "Lo que desgasta la protección",
+        "kicker": "Sol, lluvia y viento",
+        "objetos": [
+          {
+            "tipo": "sol",
+            "etiqueta": "Exposición"
+          },
+          {
+            "tipo": "nube",
+            "etiqueta": "Lluvia"
+          }
+        ],
+        "efectos": [
+          "calor",
+          "lluvia",
+          "viento"
+        ],
+        "camara": "alejamiento",
+        "fondo": "atardecer",
+        "entrada": "pop",
+        "dato": {
+          "valor": 4,
+          "unidad": "años",
+          "label": "duración máxima"
+        },
+        "veredicto": "bien"
+      }
+    }
+  ]
+}
