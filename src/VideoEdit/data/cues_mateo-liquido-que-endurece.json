@@ -1,0 +1,1086 @@
+{
+  "slug": "mateo-liquido-que-endurece",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 14938,
+  "audioSrc": "mateo-liquido-que-endurece.mp3",
+  "avatarSrc": "mateo-liquido-que-endurece_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1156,
+      "dur": 86,
+      "clip": 0
+    },
+    {
+      "from": 6143,
+      "dur": 205,
+      "clip": 86
+    },
+    {
+      "from": 9716,
+      "dur": 320,
+      "clip": 291
+    },
+    {
+      "from": 14358,
+      "dur": 536,
+      "clip": 611
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 116,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s01.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 326,
+      "dur": 233,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s01.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 559,
+      "dur": 217,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s02.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 776,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-endurece_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 916,
+      "dur": 240,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s04.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1242,
+      "dur": 100,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s06.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1642,
+      "dur": 100,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s07.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1952,
+      "dur": 59,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-endurece_s08.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2251,
+      "dur": 227,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s05.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2478,
+      "dur": 71,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-endurece_s09.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2789,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-endurece_s09.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3228,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-endurece_s09.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3546,
+      "dur": 296,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-endurece_s09.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3842,
+      "dur": 64,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-endurece_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3906,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-endurece_s11.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4114,
+      "dur": 164,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s12.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4548,
+      "dur": 228,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s12.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4776,
+      "dur": 122,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s12.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5138,
+      "dur": 257,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s12.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5395,
+      "dur": 177,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s13.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5782,
+      "dur": 228,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s13.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6010,
+      "dur": 133,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s13.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6348,
+      "dur": 228,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s13.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6576,
+      "dur": 70,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s13.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6916,
+      "dur": 28,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s13.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7214,
+      "dur": 172,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s13.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7386,
+      "dur": 180,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s14.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7566,
+      "dur": 82,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s15.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7648,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-endurece_s16.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7799,
+      "dur": 221,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s17.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8020,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-endurece_s18.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8450,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-endurece_s18.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8576,
+      "dur": 148,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s19.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8724,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-endurece_s20.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8819,
+      "dur": 172,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s21.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8991,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-endurece_s22.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9415,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-endurece_s22.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10036,
+      "dur": 237,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s23.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10568,
+      "dur": 233,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s23.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11011,
+      "dur": 215,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s23.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11226,
+      "dur": 228,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s24.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11454,
+      "dur": 271,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s24.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11965,
+      "dur": 149,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s24.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12114,
+      "dur": 202,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s25.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12316,
+      "dur": 156,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s26.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12472,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-endurece_s27.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12830,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-endurece_s27.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13160,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-endurece_s27.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13490,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-endurece_s27.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13564,
+      "dur": 129,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s28.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13693,
+      "dur": 228,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s29.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13921,
+      "dur": 228,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s29.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14149,
+      "dur": 209,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s29.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14894,
+      "dur": 44,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-endurece_v_s29.mp4",
+      "kb": 5,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 4,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 1",
+        "title": "El problema del polvo"
+      }
+    },
+    {
+      "from": 776,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SILICATO DE SODIO",
+        "sub": "el líquido que endurece el piso",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 916,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 7",
+        "title": "Seguridad y cierre"
+      }
+    },
+    {
+      "from": 1114,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SUSCRÍBETE",
+        "sub": "activa la campanita",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 1156,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "earth",
+        "accentText": "MATEO ARREGLA",
+        "title": "Mateo",
+        "sub": "arreglos caseros, sin vueltas"
+      }
+    },
+    {
+      "from": 1234,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 2",
+        "title": "Por qué se desgrana"
+      }
+    },
+    {
+      "from": 2354,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 3",
+        "title": "La receta paso a paso"
+      }
+    },
+    {
+      "from": 2491,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "PISO SECO",
+        "sub": "recién entonces se aplica",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 2894,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "ATENCIÓN",
+        "sub": "nunca sobre un piso pintado o sellado",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 3906,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "APENAS HÚMEDO",
+        "sub": "nunca encharcado",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 5395,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 2,
+        "suffix": " h",
+        "label": "de espera entre manos",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 5987,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SIN PRISA",
+        "sub": "deja curar bien",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 6608,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 7566,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "earth",
+        "label": "ERROR",
+        "num": 2,
+        "text": "Dejar charcos al aplicar"
+      }
+    },
+    {
+      "from": 8819,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "SUPERFICIE SANA",
+        "sub": "no repara grietas",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 8991,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CAPÍTULO 5",
+        "title": "Cuánto comprar"
+      }
+    },
+    {
+      "from": 9809,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 10273,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 12114,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 5,
+        "suffix": " años",
+        "label": "antes de repetir una mano",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 13323,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "earth",
+        "title": "CUIDADO",
+        "sub": "el silicato es alcalino: usa guantes y anteojos",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 13446,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "earth",
+        "word": "VENTILÁ",
+        "sub": "si es un garaje cerrado",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 14245,
+      "dur": 135,
+      "comp": "StatChip",
+      "props": {
+        "theme": "earth",
+        "value": 7,
+        "suffix": " días",
+        "label": "de garantía Hotmart",
+        "corner": "br"
+      }
+    },
+    {
+      "from": 14245,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 14574,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "earth",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 116,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL PROBLEMA",
+        "phrase": "Ese polvo gris es tu piso desapareciendo",
+        "accent": "desapareciendo",
+        "src": "img/mateo-liquido-que-endurece_s01.png"
+      }
+    },
+    {
+      "from": 1342,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "POR QUÉ PASA",
+        "title": "La cal libre suelta",
+        "steps": [
+          {
+            "title": "Fragua",
+            "sub": "queda cal libre en la superficie"
+          },
+          {
+            "title": "Se despega",
+            "sub": "con el roce, el agua y el tiempo"
+          },
+          {
+            "title": "El silicato reacciona",
+            "sub": "forma un gel que tapa los poros"
+          }
+        ]
+      }
+    },
+    {
+      "from": 1742,
+      "dur": 210,
+      "comp": "Escena3D",
+      "props": {
+        "theme": "earth",
+        "title": "Por qué usar guantes y anteojos",
+        "kicker": "Es alcalino",
+        "objetos": [
+          {
+            "tipo": "escudo",
+            "etiqueta": "Protección"
+          }
+        ],
+        "efectos": [],
+        "camara": "contrapicado",
+        "fondo": "plano",
+        "entrada": "sube",
+        "veredicto": "bien",
+        "note": "Evita que te irrite la piel y los ojos"
+      }
+    },
+    {
+      "from": 2011,
+      "dur": 240,
+      "comp": "Escena3D",
+      "props": {
+        "theme": "earth",
+        "title": "Cómo el gel sella los poros",
+        "kicker": "Reacción química",
+        "objetos": [
+          {
+            "tipo": "losa",
+            "etiqueta": "Cemento"
+          }
+        ],
+        "efectos": [
+          "sellar",
+          "brillo"
+        ],
+        "camara": "acercamiento",
+        "fondo": "claro",
+        "entrada": "pop",
+        "veredicto": "bien",
+        "note": "El silicato forma un gel que tapa los poros"
+      }
+    },
+    {
+      "from": 2549,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Antes de aplicar el silicato",
+        "items": [
+          "Piso sin grasa ni pintura vieja",
+          "Barrido, sin polvo suelto",
+          "Lavado con desengrasante si hace falta",
+          "Completamente seco"
+        ]
+      }
+    },
+    {
+      "from": 2988,
+      "dur": 240,
+      "comp": "Escena3D",
+      "props": {
+        "theme": "earth",
+        "title": "Por qué no entra en pintura",
+        "kicker": "Pintura o sellador",
+        "objetos": [
+          {
+            "tipo": "sellador",
+            "etiqueta": "Pintura vieja"
+          }
+        ],
+        "efectos": [
+          "brillo"
+        ],
+        "camara": "tresCuartos",
+        "fondo": "plano",
+        "entrada": "desliza",
+        "veredicto": "mal",
+        "note": "El silicato se queda arriba, no reacciona con nada"
+      }
+    },
+    {
+      "from": 3336,
+      "dur": 210,
+      "comp": "Medidor",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CONCENTRACIÓN MÁXIMA",
+        "value": 25,
+        "max": 100,
+        "suffix": "%",
+        "label": "1 parte de silicato por 3 de agua (pisos muy desgastados)"
+      }
+    },
+    {
+      "from": 4278,
+      "dur": 270,
+      "comp": "Steps",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA APLICACIÓN",
+        "title": "Cómo aplicar la mezcla",
+        "steps": [
+          {
+            "title": "Capa fina",
+            "sub": "con escoba o rodillo"
+          },
+          {
+            "title": "Deja absorber",
+            "sub": "no fuerces el secado"
+          },
+          {
+            "title": "Sin charcos",
+            "sub": "repartí con la escoba si sobra"
+          }
+        ]
+      }
+    },
+    {
+      "from": 4898,
+      "dur": 240,
+      "comp": "Escena3D",
+      "props": {
+        "theme": "earth",
+        "title": "Por qué quedan manchas blancas",
+        "kicker": "Exceso de líquido",
+        "objetos": [
+          {
+            "tipo": "losa",
+            "etiqueta": "Piso"
+          }
+        ],
+        "efectos": [
+          "mancha"
+        ],
+        "camara": "picado",
+        "fondo": "claro",
+        "entrada": "cae",
+        "veredicto": "mal",
+        "note": "El charco seca y deja un velo que hay que fregar"
+      }
+    },
+    {
+      "from": 5572,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "EL CURADO",
+        "value": 48,
+        "prefix": "",
+        "suffix": " horas",
+        "label": "sin tránsito para que el gel termine de endurecer"
+      }
+    },
+    {
+      "from": 6646,
+      "dur": 270,
+      "comp": "Checklist",
+      "props": {
+        "theme": "earth",
+        "title": "Qué trae la Biblioteca del Maestro",
+        "items": [
+          "3 guías en PDF con medidas y costos",
+          "185 fichas imprimibles para el taller",
+          "Calculadoras del Maestro incluidas",
+          "Lista para el celular cuando la necesites"
+        ]
+      }
+    },
+    {
+      "from": 6944,
+      "dur": 270,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "earth",
+        "myth": "Se puede aplicar sobre un piso pintado o sellado",
+        "truth": "El silicato no entra: solo queda una capa pegajosa que hay que lavar"
+      }
+    },
+    {
+      "from": 8180,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "El error más caro",
+        "left": {
+          "label": "Piso con grieta activa o que suena hueco",
+          "sub": "el silicato NO lo arregla"
+        },
+        "right": {
+          "label": "Grieta sellada o contrapiso reparado",
+          "sub": "ahí sí puedes aplicar el silicato"
+        }
+      }
+    },
+    {
+      "from": 9145,
+      "dur": 270,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "earth",
+        "title": "CALCULAR A OJO",
+        "rows": [
+          {
+            "label": "Te sobra líquido diluido",
+            "price": "se descompone",
+            "bad": true
+          },
+          {
+            "label": "Te falta a mitad de obra",
+            "price": "piso ya mojado",
+            "bad": true
+          }
+        ],
+        "total": {
+          "label": "Con la medida exacta",
+          "price": "ni sobra ni falta"
+        },
+        "stamp": "OJO"
+      }
+    },
+    {
+      "from": 9539,
+      "dur": 177,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "MIDE TAMBIÉN PATIOS Y VEREDAS",
+        "w": 600,
+        "h": 250,
+        "unit": "cm",
+        "label": "PATIO",
+        "note": "Así no te falta ni te sobra producto"
+      }
+    },
+    {
+      "from": 10273,
+      "dur": 210,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "earth",
+        "title": "LARGO Y ANCHO EN LA CALCULADORA",
+        "w": 500,
+        "h": 400,
+        "unit": "cm",
+        "label": "TU PISO",
+        "note": "La calculadora te dice los litros exactos"
+      }
+    },
+    {
+      "from": 10388,
+      "dur": 180,
+      "comp": "NivelBurbuja",
+      "props": {
+        "theme": "earth",
+        "title": "También hay calculadora de pendiente",
+        "verdict": "A NIVEL",
+        "sub": "Para calcular la caída de tu techo"
+      }
+    },
+    {
+      "from": 10801,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "LA PRUEBA",
+        "phrase": "El agua se absorbe de golpe en un piso sin sellar",
+        "accent": "sin sellar",
+        "src": "img/mateo-liquido-que-endurece_s23.png"
+      }
+    },
+    {
+      "from": 11725,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "earth",
+        "title": "La prueba de la mano",
+        "left": {
+          "label": "Antes",
+          "sub": "la mano sale con polvo gris"
+        },
+        "right": {
+          "label": "Después de 48 h",
+          "sub": "la mano sale limpia"
+        }
+      }
+    },
+    {
+      "from": 12620,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "earth",
+        "eyebrow": "CUÁNTO DURA",
+        "value": 5,
+        "prefix": "",
+        "suffix": " años",
+        "label": "en interior antes de repetir una mano liviana (3 a 5 típico)"
+      }
+    }
+  ]
+}
