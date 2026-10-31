@@ -1356,7 +1356,7 @@
       "comp": "LowerThird",
       "props": {
         "theme": "earth",
-        "accentText": "MATEO ARREGLA",
+        "accentText": "MATEO ALBAÑIL",
         "title": "Mateo",
         "sub": "Arreglos de techos y humedad, sin vueltas"
       }
@@ -1431,9 +1431,9 @@
       "props": {
         "theme": "earth",
         "corner": "bl",
-        "src": "img/qr_mateo.png",
+        "src": "img/qr_albanil.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "Guías de Mateo Arregla",
+        "label": "Guías de Mateo Albañil",
         "hint": "apunta la cámara 📷"
       }
     },
@@ -1444,9 +1444,9 @@
       "props": {
         "theme": "earth",
         "corner": "bl",
-        "src": "img/qr_mateo.png",
+        "src": "img/qr_albanil.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "Guías de Mateo Arregla",
+        "label": "Guías de Mateo Albañil",
         "hint": "apunta la cámara 📷"
       }
     },
@@ -1500,9 +1500,9 @@
       "props": {
         "theme": "earth",
         "corner": "bl",
-        "src": "img/qr_mateo.png",
+        "src": "img/qr_albanil.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "Guías de Mateo Arregla",
+        "label": "Guías de Mateo Albañil",
         "hint": "apunta la cámara 📷"
       }
     },
@@ -1651,9 +1651,9 @@
       "props": {
         "theme": "earth",
         "corner": "bl",
-        "src": "img/qr_mateo.png",
+        "src": "img/qr_albanil.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "Guías de Mateo Arregla",
+        "label": "Guías de Mateo Albañil",
         "hint": "apunta la cámara 📷"
       }
     },
@@ -1664,9 +1664,9 @@
       "props": {
         "theme": "earth",
         "corner": "bl",
-        "src": "img/qr_mateo.png",
+        "src": "img/qr_albanil.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "Guías de Mateo Arregla",
+        "label": "Guías de Mateo Albañil",
         "hint": "apunta la cámara 📷"
       }
     }
@@ -1753,26 +1753,18 @@
     {
       "from": 6073,
       "dur": 207,
-      "comp": "TicketPrecio",
+      "comp": "Compare",
       "props": {
         "theme": "earth",
-        "title": "EL TRUCO DE LOS $2",
-        "rows": [
-          {
-            "label": "Llamar cada 6 meses",
-            "price": "Gasto repetido",
-            "bad": true
-          },
-          {
-            "label": "Masilla elástica por metro",
-            "price": "$2"
-          }
-        ],
-        "total": {
-          "label": "Resultado",
-          "price": "Dura años, no meses"
+        "title": "El truco de los $2",
+        "left": {
+          "label": "Cemento rígido",
+          "sub": "se vuelve a rajar en meses"
         },
-        "stamp": "AHORRO"
+        "right": {
+          "label": "Masilla elástica",
+          "sub": "unos $2 por metro, dura años"
+        }
       }
     },
     {
@@ -1853,26 +1845,18 @@
     {
       "from": 15082,
       "dur": 240,
-      "comp": "TicketPrecio",
+      "comp": "Compare",
       "props": {
         "theme": "earth",
-        "title": "EL PASO QUE DEFINE TODO",
-        "rows": [
-          {
-            "label": "Sin pintura protectora",
-            "price": "Dura 2 años",
-            "bad": true
-          },
-          {
-            "label": "Con pintura impermeabilizante",
-            "price": "Dura 10 años"
-          }
-        ],
-        "total": {
-          "label": "Diferencia",
-          "price": "8 años más de vida útil"
+        "title": "El paso que define todo",
+        "left": {
+          "label": "Sin pintura protectora",
+          "sub": "el sol la reseca en 1 o 2 años"
         },
-        "stamp": "CLAVE"
+        "right": {
+          "label": "Con pintura impermeabilizante",
+          "sub": "protegida, dura muchos años más"
+        }
       }
     },
     {
@@ -1896,12 +1880,12 @@
         "theme": "earth",
         "title": "¿Cualquier grieta sirve?",
         "left": {
-          "label": "Hasta 1 cm",
-          "sub": "se trata con este método"
+          "label": "Más de 1 cm o con hundimiento",
+          "sub": "es estructural: llama a un técnico"
         },
         "right": {
-          "label": "Más de 1 cm o con hundimiento",
-          "sub": "ya es un problema estructural"
+          "label": "Hasta 1 cm",
+          "sub": "se sella con este método"
         }
       }
     },
@@ -2080,26 +2064,16 @@
     {
       "from": 31966,
       "dur": 240,
-      "comp": "TicketPrecio",
+      "comp": "Checklist",
       "props": {
         "theme": "earth",
-        "title": "LO QUE TE COBRAN",
-        "rows": [
-          {
-            "label": "Visita de un técnico",
-            "price": "Una sola vez",
-            "bad": true
-          },
-          {
-            "label": "Biblioteca del Maestro completa",
-            "price": "Menos que esa visita"
-          }
-        ],
-        "total": {
-          "label": "Incluye",
-          "price": "3 guías + 185 fichas + calculadoras"
-        },
-        "stamp": "AHORRO"
+        "title": "La Biblioteca del Maestro",
+        "items": [
+          "3 guías completas",
+          "185 fichas imprimibles",
+          "Calculadoras del Maestro",
+          "Garantía de 7 días de Hotmart"
+        ]
       }
     }
   ]
