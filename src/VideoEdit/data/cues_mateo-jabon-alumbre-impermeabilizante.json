@@ -943,12 +943,11 @@
       "comp": "Checklist",
       "props": {
         "theme": "earth",
-        "title": "¿Sirve en tu pared?",
+        "title": "¿Dónde sirve?",
         "items": [
-          "Ladrillo visto: sí",
-          "Revoque sin pintar: sí",
-          "Cemento poroso: sí",
-          "Pared pintada: no"
+          "Ladrillo visto",
+          "Revoque sin pintar",
+          "Cemento poroso"
         ]
       }
     },
@@ -1065,7 +1064,7 @@
       "comp": "Checklist",
       "props": {
         "theme": "earth",
-        "title": "Qué NO arregla este método",
+        "title": "Esto lleva otro arreglo",
         "items": [
           "Grietas y fisuras abiertas",
           "Juntas entre ladrillos",
@@ -1117,12 +1116,12 @@
         "theme": "earth",
         "title": "¿Funcionó?",
         "left": {
-          "label": "Bien hecho",
-          "sub": "gotas redondas, sin oscurecer"
+          "label": "Salió mal",
+          "sub": "sigue chupando y se oscurece"
         },
         "right": {
-          "label": "Mal hecho",
-          "sub": "sigue chupando y se oscurece"
+          "label": "Bien hecho",
+          "sub": "gotas redondas, sin oscurecer"
         }
       }
     },
