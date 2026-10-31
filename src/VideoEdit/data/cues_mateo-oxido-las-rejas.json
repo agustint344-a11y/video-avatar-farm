@@ -1137,7 +1137,7 @@
       "comp": "LowerThird",
       "props": {
         "theme": "earth",
-        "accentText": "EL CONSTRUCTOR LIBRE",
+        "accentText": "MATEO ALBAÑIL",
         "title": "Mateo",
         "sub": "Arreglos caseros, sin vueltas."
       }
@@ -1159,9 +1159,9 @@
       "props": {
         "theme": "earth",
         "corner": "bl",
-        "src": "img/qr_mateo.png",
+        "src": "img/qr_albanil.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "Guías de Mateo Arregla",
+        "label": "Guías de Mateo Albañil",
         "hint": "apunta la cámara 📷"
       }
     },
@@ -1344,9 +1344,9 @@
       "props": {
         "theme": "earth",
         "corner": "bl",
-        "src": "img/qr_mateo.png",
+        "src": "img/qr_albanil.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "Guías de Mateo Arregla",
+        "label": "Guías de Mateo Albañil",
         "hint": "apunta la cámara 📷"
       }
     },
@@ -1443,9 +1443,9 @@
       "props": {
         "theme": "earth",
         "corner": "bl",
-        "src": "img/qr_mateo.png",
+        "src": "img/qr_albanil.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "Guías de Mateo Arregla",
+        "label": "Guías de Mateo Albañil",
         "hint": "apunta la cámara 📷"
       }
     },
@@ -1478,9 +1478,9 @@
       "props": {
         "theme": "earth",
         "corner": "bl",
-        "src": "img/qr_mateo.png",
+        "src": "img/qr_albanil.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "Guías de Mateo Arregla",
+        "label": "Guías de Mateo Albañil",
         "hint": "apunta la cámara 📷"
       }
     },
@@ -1491,9 +1491,9 @@
       "props": {
         "theme": "earth",
         "corner": "bl",
-        "src": "img/qr_mateo.png",
+        "src": "img/qr_albanil.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "Guías de Mateo Arregla",
+        "label": "Guías de Mateo Albañil",
         "hint": "apunta la cámara 📷"
       }
     }
@@ -1815,18 +1815,15 @@
     {
       "from": 18942,
       "dur": 240,
-      "comp": "Compare",
+      "comp": "Checklist",
       "props": {
         "theme": "earth",
-        "title": "El clima también importa",
-        "left": {
-          "label": "Clima húmedo",
-          "sub": "Espera a un día soleado"
-        },
-        "right": {
-          "label": "Zona costera o seca",
-          "sub": "Al menos 24h sin lluvia para curar"
-        }
+        "title": "Elige bien el día",
+        "items": [
+          "Un día seco y soleado",
+          "Sin lluvia anunciada por 24 h",
+          "Nada de rocío ni humedad en la reja"
+        ]
       }
     },
     {
