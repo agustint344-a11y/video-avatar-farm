@@ -1,0 +1,1134 @@
+{
+  "slug": "mateo-liquido-que-seca",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 15022,
+  "audioSrc": "mateo-liquido-que-seca.mp3",
+  "avatarSrc": "mateo-liquido-que-seca_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1227,
+      "dur": 186,
+      "clip": 0
+    },
+    {
+      "from": 7642,
+      "dur": 376,
+      "clip": 186
+    },
+    {
+      "from": 12958,
+      "dur": 279,
+      "clip": 562
+    },
+    {
+      "from": 14500,
+      "dur": 213,
+      "clip": 841
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 70,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-seca_v_s01.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 310,
+      "dur": 182,
+      "kind": "video",
+      "src": "broll/mateo-liquido-que-seca_v_s01.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 492,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 680,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s03.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 851,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s04.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1413,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1739,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s04.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1955,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s05.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2413,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s05.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2875,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s05.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3019,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s06.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3446,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s06.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3620,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s07.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3803,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s08.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4302,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s08.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4513,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s09.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4600,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s10.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4764,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s11.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5119,
+      "dur": 256,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s11.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5375,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s12.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5537,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s13.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5680,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s14.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6102,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s14.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6390,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s14.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6642,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s15.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7070,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s15.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7229,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s16.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7378,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s17.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7513,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s18.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8018,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8363,
+      "dur": 350,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s19.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8713,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s20.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8834,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s21.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9065,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s22.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9254,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s23.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9442,
+      "dur": 57,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s24.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9739,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s24.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10051,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s24.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10211,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s25.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10346,
+      "dur": 70,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s26.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10626,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s26.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10784,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s27.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11114,
+      "dur": 292,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s27.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11706,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s27.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11918,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s28.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12046,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s29.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12782,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s29.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13237,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s30.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13400,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s31.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13745,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s31.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13957,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s32.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14104,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s33.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14287,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s34.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14713,
+      "dur": 309,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-seca_s34.png",
+      "kb": 5,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 3,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "EL PROBLEMA",
+        "title": "Por qué gotea tu ventana"
+      }
+    },
+    {
+      "from": 1227,
+      "dur": 150,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "taller",
+        "accentText": "MATEO ARREGLA",
+        "title": "Mateo",
+        "sub": "Arreglos de humedad y techos, sin vueltas"
+      }
+    },
+    {
+      "from": 1405,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "LA CIENCIA",
+        "title": "Por qué se empaña el vidrio"
+      }
+    },
+    {
+      "from": 2508,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "taller",
+        "title": "ATENCIÓN",
+        "sub": "Más personas en el cuarto, más humedad",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 2897,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "EL LÍQUIDO",
+        "title": "El secante de dos dólares"
+      }
+    },
+    {
+      "from": 3019,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "taller",
+        "word": "DOS DÓLARES",
+        "sub": "el frasco en la farmacia",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 3553,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "PASO A PASO",
+        "title": "Los tres pasos del arreglo"
+      }
+    },
+    {
+      "from": 3620,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "taller",
+        "word": "ALCOHOL PURO",
+        "sub": "sin diluir",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 4513,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "taller",
+        "title": "CUIDADO",
+        "sub": "No frotar fuerte la silicona dañada",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 5375,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "taller",
+        "word": "GLICERINA",
+        "sub": "capa invisible",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 7820,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 8010,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "ERRORES COMUNES",
+        "title": "Los tres errores que arruinan todo"
+      }
+    },
+    {
+      "from": 8498,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "taller",
+        "word": "90-100%",
+        "sub": "la concentración correcta",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 8834,
+      "dur": 135,
+      "comp": "SelloError",
+      "props": {
+        "theme": "taller",
+        "label": "ERROR",
+        "num": 2,
+        "text": "No ventilar al ducharte"
+      }
+    },
+    {
+      "from": 9065,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "taller",
+        "title": "VENTILA",
+        "sub": "Abre una rendija tras ducharte",
+        "tone": "info"
+      }
+    },
+    {
+      "from": 10130,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "taller",
+        "word": "TRAPO NEGRO",
+        "sub": "meses sin tratamiento",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 10346,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "LA PRUEBA",
+        "title": "Cómo saber que funcionó"
+      }
+    },
+    {
+      "from": 10998,
+      "dur": 150,
+      "comp": "StatChip",
+      "props": {
+        "theme": "taller",
+        "value": 3,
+        "suffix": " sem",
+        "label": "dura la protección",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 11918,
+      "dur": 150,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "EL NEGOCIO",
+        "title": "Por qué no te lo venden así"
+      }
+    },
+    {
+      "from": 12046,
+      "dur": 135,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "taller",
+        "word": "MISMO INGREDIENTE",
+        "sub": "distinto envase",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 12703,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 13741,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 14104,
+      "dur": 150,
+      "comp": "StatChip",
+      "props": {
+        "theme": "taller",
+        "value": 7,
+        "suffix": " días",
+        "label": "garantía Hotmart",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 14104,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 14500,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 70,
+      "dur": 240,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "EL GANCHO",
+        "phrase": "Esas gotas no son solo agua",
+        "accent": "no son solo agua",
+        "src": "img/mateo-liquido-que-seca_s01.png"
+      }
+    },
+    {
+      "from": 1029,
+      "dur": 198,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "EL DATO",
+        "value": 2,
+        "prefix": "$",
+        "suffix": "",
+        "label": "cuesta el líquido que seca tu ventana"
+      }
+    },
+    {
+      "from": 1499,
+      "dur": 240,
+      "comp": "Escena3D",
+      "props": {
+        "theme": "taller",
+        "title": "Así se forma la gota",
+        "kicker": "Vapor contra vidrio frío",
+        "objetos": [
+          {
+            "tipo": "ventana",
+            "etiqueta": "Vidrio frío"
+          }
+        ],
+        "efectos": [
+          "vapor",
+          "goteo"
+        ],
+        "camara": "acercamiento",
+        "fondo": "claro",
+        "entrada": "sube",
+        "veredicto": "mal",
+        "note": "Como un vaso frío en pleno verano"
+      }
+    },
+    {
+      "from": 2034,
+      "dur": 240,
+      "comp": "Checklist",
+      "props": {
+        "theme": "taller",
+        "title": "Tu ventana es ata si...",
+        "items": [
+          "Marco de aluminio sin burlete",
+          "Poca ventilación en el cuarto",
+          "Clima húmedo o cerca del mar"
+        ]
+      }
+    },
+    {
+      "from": 2173,
+      "dur": 240,
+      "comp": "Escena3D",
+      "props": {
+        "theme": "taller",
+        "title": "El metal se enfría primero",
+        "kicker": "Por eso ahí se junta el agua",
+        "objetos": [
+          {
+            "tipo": "casa",
+            "etiqueta": "Aluminio"
+          }
+        ],
+        "efectos": [
+          "frio"
+        ],
+        "camara": "lateral",
+        "fondo": "plano",
+        "entrada": "cae",
+        "veredicto": "mal",
+        "note": "Pierde calor más rápido que la pared"
+      }
+    },
+    {
+      "from": 2635,
+      "dur": 240,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "taller",
+        "title": "VENTANA DE ALUMINIO TÍPICA",
+        "w": 100,
+        "h": 120,
+        "unit": "cm",
+        "label": "VENTANA",
+        "note": "mientras más grande, más agua se condensa"
+      }
+    },
+    {
+      "from": 3236,
+      "dur": 210,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "taller",
+        "myth": "Necesitas un sellador caro para esto",
+        "truth": "El alcohol puro ya limpia y desinfecta"
+      }
+    },
+    {
+      "from": 3898,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "PASO 1",
+        "title": "Limpieza con alcohol puro",
+        "steps": [
+          {
+            "title": "Pasa el alcohol",
+            "sub": "Sobre vidrio y marco, sin diluir"
+          },
+          {
+            "title": "Cubre las esquinas",
+            "sub": "Ahí se junta más agua y moho"
+          },
+          {
+            "title": "No frotes fuerte",
+            "sub": "La silicona dañada se puede abrir"
+          }
+        ]
+      }
+    },
+    {
+      "from": 4062,
+      "dur": 240,
+      "comp": "Escena3D",
+      "props": {
+        "theme": "taller",
+        "title": "Así avanza el moho",
+        "kicker": "En la silicona del marco",
+        "objetos": [
+          {
+            "tipo": "pared",
+            "etiqueta": "Silicona"
+          }
+        ],
+        "efectos": [
+          "moho"
+        ],
+        "camara": "acercamiento",
+        "fondo": "claro",
+        "entrada": "pop",
+        "veredicto": "mal",
+        "note": "Dos pasadas de alcohol y un minuto lo eliminan"
+      }
+    },
+    {
+      "from": 4879,
+      "dur": 240,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "LA MEZCLA",
+        "value": 100,
+        "prefix": "",
+        "suffix": " ml",
+        "label": "alcohol por cada cucharadita de glicerina"
+      }
+    },
+    {
+      "from": 5862,
+      "dur": 240,
+      "comp": "Medidor",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "RENDIMIENTO",
+        "value": 7,
+        "max": 10,
+        "suffix": " ventanas",
+        "label": "lo que rinde esta mezcla en promedio"
+      }
+    },
+    {
+      "from": 6150,
+      "dur": 240,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "taller",
+        "title": "MIDE TU MARCO",
+        "w": 100,
+        "h": 120,
+        "unit": "cm",
+        "label": "VENTANA",
+        "note": "aluminio o madera, el tratamiento cambia"
+      }
+    },
+    {
+      "from": 6770,
+      "dur": 300,
+      "comp": "Steps",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "PASO 3",
+        "title": "Según el material del marco",
+        "steps": [
+          {
+            "title": "Aluminio",
+            "sub": "Solo alcohol puro, sin glicerina"
+          },
+          {
+            "title": "Madera",
+            "sub": "Seca y aplica aceite de linaza"
+          },
+          {
+            "title": "Cada mes",
+            "sub": "Repite el tratamiento igual"
+          }
+        ]
+      }
+    },
+    {
+      "from": 8123,
+      "dur": 240,
+      "comp": "Compare",
+      "props": {
+        "theme": "taller",
+        "title": "El alcohol que necesitas",
+        "left": {
+          "label": "Diluido al 70%",
+          "sub": "Deja residuo de agua"
+        },
+        "right": {
+          "label": "Puro 90-100%",
+          "sub": "Evapora sin dejar rastro"
+        }
+      }
+    },
+    {
+      "from": 9499,
+      "dur": 240,
+      "comp": "Medidor",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "SI NO LIMPIAS BIEN",
+        "value": 3,
+        "max": 21,
+        "suffix": " días",
+        "label": "de protección en vez de 2-3 semanas"
+      }
+    },
+    {
+      "from": 9811,
+      "dur": 240,
+      "comp": "Escena3D",
+      "props": {
+        "theme": "taller",
+        "title": "La grasa arruina la película",
+        "kicker": "La glicerina no se pega a la suciedad",
+        "objetos": [
+          {
+            "tipo": "ventana",
+            "etiqueta": "Vidrio sucio"
+          }
+        ],
+        "efectos": [
+          "mancha",
+          "brillo"
+        ],
+        "camara": "picado",
+        "fondo": "claro",
+        "entrada": "desliza",
+        "veredicto": "mal",
+        "note": "Por eso la limpieza previa no es opcional"
+      }
+    },
+    {
+      "from": 10416,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "LA PRUEBA",
+        "phrase": "Si la neblina desaparece sola, funciona",
+        "accent": "desaparece sola",
+        "src": "img/mateo-liquido-que-seca_s26.png"
+      }
+    },
+    {
+      "from": 11406,
+      "dur": 300,
+      "comp": "Timeline",
+      "props": {
+        "theme": "taller",
+        "title": "Cuánto dura la protección",
+        "steps": [
+          {
+            "when": "Semana 1-2",
+            "text": "Capa trabajando bien"
+          },
+          {
+            "when": "Semana 3",
+            "text": "Empieza a bajar el efecto"
+          },
+          {
+            "when": "Invierno húmedo",
+            "text": "Dura menos, repite antes"
+          },
+          {
+            "when": "Cada mes",
+            "text": "Repite el tratamiento"
+          }
+        ]
+      }
+    },
+    {
+      "from": 12230,
+      "dur": 282,
+      "comp": "Escena3D",
+      "props": {
+        "theme": "taller",
+        "title": "Mismo líquido, otro envase",
+        "kicker": "Solo cambia la etiqueta",
+        "objetos": [
+          {
+            "tipo": "bidon",
+            "etiqueta": "Spray caro"
+          }
+        ],
+        "efectos": [
+          "brillo"
+        ],
+        "camara": "tresCuartos",
+        "fondo": "plano",
+        "entrada": "pop",
+        "dato": {
+          "valor": 40,
+          "unidad": "$",
+          "label": "precio del spray"
+        },
+        "veredicto": "mal",
+        "note": "Lleva los mismos dos ingredientes que ya tienes"
+      }
+    },
+    {
+      "from": 12512,
+      "dur": 270,
+      "comp": "TicketPrecio",
+      "props": {
+        "theme": "taller",
+        "title": "LO QUE TE COBRAN",
+        "rows": [
+          {
+            "label": "Spray anti-empañante",
+            "price": "$15-40",
+            "bad": true
+          },
+          {
+            "label": "Alcohol + glicerina",
+            "price": "$2"
+          }
+        ],
+        "total": {
+          "label": "Ahorro",
+          "price": "hasta $38"
+        },
+        "stamp": "MISMO INGREDIENTE"
+      }
+    },
+    {
+      "from": 13505,
+      "dur": 240,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "EN LA BIBLIOTECA",
+        "value": 185,
+        "prefix": "",
+        "suffix": "",
+        "label": "fichas del taller imprimibles"
+      }
+    }
+  ]
+}
