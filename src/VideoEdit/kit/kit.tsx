@@ -43,6 +43,12 @@ export const THEME_EARTH: Theme = {
   accent: "#C2592A", good: "#5E7A38", bad: "#B23A2E", panel: "#FBF5E7",
   serif: SERIF, sans: SANS,
 };
+// Tema TALLER (2026-11-01, referencia El Constructor Libre): verde petróleo oscuro + verde fresco + serif elegante; reemplaza a earth (beige) en la red de Mateo.
+export const THEME_TALLER: Theme = {
+  bg: "#0D1B1E", ink: "#F2F5F3", muted: "#8FA6A8", line: "#21403F",
+  accent: "#7BD389", good: "#7BD389", bad: "#FF6B5B", panel: "#132A2E",
+  serif: SERIF, sans: SANS,
+};
 // Un segundo tema listo (broadcast oscuro), por si el nicho lo pide:
 export const THEME_NIGHT: Theme = {
   bg: "#0E1522", ink: "#EAF1F6", muted: "#8091A6", line: "#22304A",

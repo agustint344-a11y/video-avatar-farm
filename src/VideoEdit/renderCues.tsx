@@ -22,10 +22,11 @@ import {
   THEME_CLINIC,
   THEME_EARTH,
   THEME_NIGHT,
+  THEME_TALLER,
 } from "./kit/kit";
 
 // Permite elegir el look por beat con un string en props.theme ("clinic" | "night" | "earth").
-const THEMES: Record<string, unknown> = { earth: THEME_EARTH, night: THEME_NIGHT, clinic: THEME_CLINIC };
+const THEMES: Record<string, unknown> = { taller: THEME_TALLER, earth: THEME_EARTH, night: THEME_NIGHT, clinic: THEME_CLINIC };
 const withTheme = (props: Record<string, unknown>) =>
   typeof props.theme === "string" && THEMES[props.theme]
     ? { ...props, theme: THEMES[props.theme] }
@@ -161,7 +162,11 @@ export const ComponentBeatView: React.FC<{ beat: ComponentBeat }> = ({
       ? { ...beat.props, src: staticFile(beat.props.src as string) }
       : beat.props;
   const base2 = beat.comp === "GuiasNonna" ? { ...base, covers: ((base.covers as string[]) || []).map((c) => staticFile(c)), qr: typeof base.qr === "string" ? staticFile(base.qr as string) : undefined } : base;
-  return <Comp durationInFrames={beat.dur} {...withTheme(base2)} />;
+  // 2026-11-01: estas tarjetas quedaban chicas en 1080p (mucho espacio vacío) → se agrandan centradas
+  const Z: Record<string, [number, string]> = { Checklist: [1.55, "left center"], Steps: [1.55, "left center"], MythVsTruth: [1.2, "center"], Compare: [1.15, "center"] };
+  const z = Z[beat.comp];
+  const el = <Comp durationInFrames={beat.dur} {...withTheme(base2)} />;
+  return z ? <AbsoluteFill style={{ transform: `scale(${z[0]})`, transformOrigin: z[1] }}>{el}</AbsoluteFill> : el;
 };
 
 /* ─────────────────────────  overlays (transparentes, sobre avatar/b-roll)  ───────────────────────── */
