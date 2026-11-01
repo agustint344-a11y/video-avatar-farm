@@ -304,8 +304,8 @@
     {
       "from": 7851,
       "dur": 76,
-      "kind": "video",
-      "src": "broll/mateo-mancha-negra-detras_v_s23.mp4",
+      "kind": "image",
+      "src": "img/mateo-mancha-negra-detras_s23.png",
       "kb": 4,
       "pip": false
     },
@@ -400,8 +400,8 @@
     {
       "from": 10663,
       "dur": 77,
-      "kind": "video",
-      "src": "broll/mateo-mancha-negra-detras_v_s31.mp4",
+      "kind": "image",
+      "src": "img/mateo-mancha-negra-detras_s31.png",
       "kb": 4,
       "pip": false
     },
@@ -784,12 +784,12 @@
     {
       "from": 14954,
       "dur": 150,
-      "comp": "SelloError",
+      "comp": "Callout",
       "props": {
         "theme": "earth",
-        "label": "ERROR",
-        "num": 4,
-        "text": "Pegar el mueble de nuevo"
+        "title": "OJO",
+        "sub": "no vuelvas a pegar el mueble a la pared",
+        "tone": "warn"
       }
     },
     {
