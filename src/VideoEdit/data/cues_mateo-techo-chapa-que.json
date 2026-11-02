@@ -3,1113 +3,730 @@
   "fps": 30,
   "width": 1920,
   "height": 1080,
-  "durationInFrames": 35161,
+  "durationInFrames": 16487,
   "audioSrc": "mateo-techo-chapa-que.mp3",
   "avatarSrc": "mateo-techo-chapa-que_avatar.mp4",
   "avatarSegs": [
     {
-      "from": 10827,
-      "dur": 1045,
+      "from": 9251,
+      "dur": 395,
       "clip": 0
+    },
+    {
+      "from": 11458,
+      "dur": 218,
+      "clip": 395
+    },
+    {
+      "from": 15643,
+      "dur": 833,
+      "clip": 613
     }
   ],
   "broll": [
     {
       "from": 0,
-      "dur": 264,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 534,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 762,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 990,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 1218,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 1446,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 1674,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 1902,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 2130,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 2358,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 2586,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 2814,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 3042,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 3270,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 3498,
-      "dur": 194,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 3902,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 4130,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 4358,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 4586,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 4814,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 5042,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 5270,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 5498,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 5726,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 5954,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 6182,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 6410,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 6638,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 6866,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 7094,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 7322,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 7550,
-      "dur": 78,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s21.mp4",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 7628,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s01.mp4",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 7856,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s01.mp4",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 8084,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s01.mp4",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 8312,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s01.mp4",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 8540,
-      "dur": 228,
+      "dur": 156,
       "kind": "video",
       "src": "broll/mateo-techo-chapa-que_v_s01.mp4",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 8768,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s01.mp4",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 8996,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s01.mp4",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 9224,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s01.mp4",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 9452,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s01.mp4",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 9680,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s01.mp4",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 9908,
-      "dur": 258,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s01.mp4",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 10166,
-      "dur": 215,
+      "from": 156,
+      "dur": 99,
       "kind": "image",
       "src": "img/mateo-techo-chapa-que_s02.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 10591,
-      "dur": 236,
+      "from": 525,
+      "dur": 251,
       "kind": "image",
       "src": "img/mateo-techo-chapa-que_s02.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 11872,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s02.png",
+      "from": 776,
+      "dur": 169,
+      "kind": "video",
+      "src": "broll/mateo-techo-chapa-que_v_s03.mp4",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 12202,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s02.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 12532,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s02.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 12862,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s02.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 13192,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s02.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 13522,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s02.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 13852,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s02.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 14182,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s02.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 14512,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s02.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 14842,
-      "dur": 236,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s02.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 15258,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s02.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 15588,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s02.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 15918,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s02.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 16248,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s02.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 16578,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s02.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 16908,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s02.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 17238,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s02.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 17568,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s02.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 17898,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s02.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 18228,
-      "dur": 111,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s02.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 18339,
-      "dur": 118,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s03.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 18457,
-      "dur": 116,
+      "from": 945,
+      "dur": 152,
       "kind": "image",
       "src": "img/mateo-techo-chapa-que_s04.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 18573,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s05.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 18903,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s05.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 19233,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s05.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 19563,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s05.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 19893,
-      "dur": 330,
+      "from": 1097,
+      "dur": 285,
       "kind": "image",
       "src": "img/mateo-techo-chapa-que_s05.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 20223,
-      "dur": 330,
+      "from": 1652,
+      "dur": 297,
       "kind": "image",
       "src": "img/mateo-techo-chapa-que_s05.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 20553,
-      "dur": 330,
+      "from": 1949,
+      "dur": 132,
       "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s05.png",
+      "src": "img/mateo-techo-chapa-que_s06.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 20883,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s05.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 21213,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s05.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 21543,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s05.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 21873,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s05.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 22203,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s05.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 22533,
-      "dur": 207,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s05.png",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 23010,
-      "dur": 185,
-      "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s05.png",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 23195,
-      "dur": 192,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s06.mp4",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 23387,
-      "dur": 135,
+      "from": 2081,
+      "dur": 75,
       "kind": "image",
       "src": "img/mateo-techo-chapa-que_s07.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 23522,
-      "dur": 138,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s08.mp4",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 23840,
-      "dur": 189,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s08.mp4",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 24029,
-      "dur": 154,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s09.mp4",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 24183,
-      "dur": 118,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s10.mp4",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 24301,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
+      "from": 2156,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s08.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 24529,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
+      "from": 2307,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s09.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 24757,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
+      "from": 2714,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s09.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 24985,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
+      "from": 2855,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s10.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 25213,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
+      "from": 3047,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s11.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 25441,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
+      "from": 3129,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s12.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 25669,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 25897,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 26125,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 26353,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 26581,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 26809,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 27037,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 27265,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 27493,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 27721,
-      "dur": 103,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 28094,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 28322,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 28550,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 28778,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 29006,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 29234,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 29462,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 29690,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 29918,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 30146,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 30374,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 30602,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 30830,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 31058,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 31286,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 31514,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 31742,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 31970,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 32198,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 32426,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 32654,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 32882,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 33110,
-      "dur": 188,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s11.mp4",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 33298,
-      "dur": 178,
+      "from": 3293,
+      "dur": 141,
       "kind": "image",
       "src": "img/mateo-techo-chapa-que_s13.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 33476,
-      "dur": 176,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s14.mp4",
-      "kb": 1,
-      "pip": false
-    },
-    {
-      "from": 33892,
-      "dur": 73,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s12.mp4",
-      "kb": 2,
-      "pip": false
-    },
-    {
-      "from": 33965,
-      "dur": 182,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s15.mp4",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 34147,
-      "dur": 114,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s16.mp4",
+      "from": 3674,
+      "dur": 302,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s13.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 34261,
-      "dur": 49,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s17.mp4",
+      "from": 3976,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s15.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 34550,
-      "dur": 201,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s17.mp4",
+      "from": 4103,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s16.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 34751,
-      "dur": 57,
+      "from": 4239,
+      "dur": 167,
       "kind": "image",
-      "src": "img/mateo-techo-chapa-que_s18.png",
+      "src": "img/mateo-techo-chapa-que_s17.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 34808,
-      "dur": 261,
-      "kind": "video",
-      "src": "broll/mateo-techo-chapa-que_v_s19.mp4",
+      "from": 4676,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s14.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 35069,
-      "dur": 92,
+      "from": 4886,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s18.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4946,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s19.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5150,
+      "dur": 161,
       "kind": "image",
       "src": "img/mateo-techo-chapa-que_s20.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5311,
+      "dur": 50,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s21.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5541,
+      "dur": 331,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s21.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5872,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s22.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5999,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s23.png",
       "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6082,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s24.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6218,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s25.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6574,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s25.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6813,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s26.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6907,
+      "dur": 229,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s27.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7136,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s28.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7241,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s29.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7676,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s29.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7812,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s30.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7973,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s31.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8155,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s32.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8335,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s33.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8642,
+      "dur": 334,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s33.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8976,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s34.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9158,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s35.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9646,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s36.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9799,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s37.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9979,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s38.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10430,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s38.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10565,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s39.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10666,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s40.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10853,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s41.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11018,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s42.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11420,
+      "dur": 38,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s42.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11676,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s43.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11818,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s44.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11950,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s45.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12167,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s46.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12245,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s47.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12362,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s48.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12741,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s48.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12931,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s49.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13027,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s50.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13169,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s51.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13315,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s52.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13693,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s52.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13860,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s53.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14009,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s54.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14258,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s55.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14421,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s56.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14763,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s56.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14959,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s57.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15142,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s58.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15527,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/mateo-techo-chapa-que_s58.png",
+      "kb": 5,
       "pip": false
     }
   ],
   "overlays": [
     {
-      "from": 264,
+      "from": 4,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "Los 3 puntos donde entra el agua"
+      }
+    },
+    {
+      "from": 556,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "taller",
+        "word": "$2 POR JUNTA",
+        "sub": "el costo real del arreglo",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 1202,
+      "dur": 180,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "taller",
+        "accentText": "MATEO ARREGLA",
+        "title": "Mateo",
+        "sub": "Reparaciones del hogar, sin vueltas"
+      }
+    },
+    {
+      "from": 1949,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "taller",
+        "word": "ARANDELA",
+        "sub": "el punto que más falla",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 3129,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "taller",
+        "word": "CUMBRERA",
+        "sub": "punto clásico de filtración",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 3976,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "MATERIALES",
+        "title": "La receta: qué comprar"
+      }
+    },
+    {
+      "from": 4239,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "taller",
+        "value": 20,
+        "suffix": " tornillos",
+        "label": "rinde 1 balde de membrana",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 4946,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "taller",
+        "word": "DÍA SECO",
+        "sub": "chapa tibia, sin rocío",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 5150,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "taller",
+        "title": "ATENCIÓN",
+        "sub": "nunca trabajes sobre chapa mojada",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 5311,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "MANOS A LA OBRA",
+        "title": "Paso a paso del sellado"
+      }
+    },
+    {
+      "from": 6907,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "taller",
+        "word": "CAPA GENEROSA",
+        "sub": "sobre la cabeza del tornillo",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 9545,
       "dur": 210,
       "comp": "QRTag",
       "props": {
-        "theme": "earth",
+        "theme": "taller",
         "corner": "bl",
         "src": "img/qr_mateo.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
@@ -1118,278 +735,448 @@
       }
     },
     {
-      "from": 3525,
+      "from": 9638,
       "dur": 135,
       "comp": "SectionTitle",
       "props": {
-        "theme": "earth",
-        "eyebrow": "EL PROBLEMA",
-        "title": "La gotera que no se va"
+        "theme": "taller",
+        "eyebrow": "CUIDADO",
+        "title": "3 errores que arruinan el trabajo"
       }
     },
     {
-      "from": 10827,
+      "from": 9799,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "taller",
+        "label": "ERROR",
+        "num": 1,
+        "text": "Usar silicona común"
+      }
+    },
+    {
+      "from": 10666,
+      "dur": 120,
+      "comp": "SelloError",
+      "props": {
+        "theme": "taller",
+        "label": "ERROR",
+        "num": 3,
+        "text": "Saltarse la malla de fibra"
+      }
+    },
+    {
+      "from": 10853,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "taller",
+        "word": "SIN MALLA",
+        "sub": "se agrieta solo",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 11458,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 11950,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 12167,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "EXCEPCIÓN",
+        "title": "Cuándo esto no alcanza"
+      }
+    },
+    {
+      "from": 12245,
       "dur": 150,
-      "comp": "LowerThird",
+      "comp": "Callout",
       "props": {
-        "theme": "earth",
-        "accentText": "EL CONSTRUCTOR LIBRE",
-        "title": "Mateo Arregla",
-        "sub": "Arreglos de casa sin pagar de más"
+        "theme": "taller",
+        "title": "OJO",
+        "sub": "si hay un hueco real, no alcanza con pintar",
+        "tone": "info"
       }
     },
     {
-      "from": 23937,
-      "dur": 135,
-      "comp": "SectionTitle",
+      "from": 13027,
+      "dur": 150,
+      "comp": "Callout",
       "props": {
-        "theme": "earth",
-        "eyebrow": "RAZÓN 1",
-        "title": "Por qué funciona la pintura selladora"
+        "theme": "taller",
+        "title": "CUIDADO",
+        "sub": "camina siempre sobre las correas",
+        "tone": "warn"
       }
     },
     {
-      "from": 24301,
+      "from": 13742,
       "dur": 120,
       "comp": "KeywordPop",
       "props": {
-        "theme": "earth",
-        "word": "IMPERMEABLE",
-        "sub": "la chapa en buen estado",
+        "theme": "taller",
+        "word": "MANGUERA",
+        "sub": "la prueba definitiva",
         "pos": "top"
       }
     },
     {
-      "from": 34808,
+      "from": 14258,
+      "dur": 120,
+      "comp": "StatChip",
+      "props": {
+        "theme": "taller",
+        "value": 10,
+        "suffix": " min",
+        "label": "sin gota, sellado ok",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 14959,
       "dur": 120,
       "comp": "KeywordPop",
       "props": {
-        "theme": "earth",
-        "word": "ELÁSTICA",
-        "sub": "la clave de la pintura",
-        "pos": "top"
+        "theme": "taller",
+        "word": "2 A 4 AÑOS",
+        "sub": "vida útil del sellado",
+        "pos": "bottom"
+      }
+    },
+    {
+      "from": 15643,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 16217,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
       }
     }
   ],
   "components": [
     {
-      "from": 264,
+      "from": 255,
       "dur": 270,
-      "comp": "Steps",
+      "comp": "BigNumberCard",
       "props": {
-        "theme": "earth",
-        "eyebrow": "LA CLAVE",
-        "title": "Por qué funciona esta pintura",
-        "steps": [
+        "theme": "taller",
+        "eyebrow": "EL DATO",
+        "value": 90,
+        "prefix": "",
+        "suffix": "%",
+        "label": "de las goteras entra por 3 puntos clave"
+      }
+    },
+    {
+      "from": 1382,
+      "dur": 270,
+      "comp": "Escena3D",
+      "props": {
+        "theme": "taller",
+        "title": "Así se tapa un punto débil",
+        "kicker": "Membrana + malla",
+        "objetos": [
           {
-            "title": "Resinas elásticas",
-            "sub": "se estiran con el calor"
-          },
-          {
-            "title": "No se raja",
-            "sub": "a diferencia de una pintura común"
-          },
-          {
-            "title": "Sella microagujeros",
-            "sub": "sin abrirse de nuevo"
+            "tipo": "chapa",
+            "etiqueta": "Punto débil"
           }
-        ]
+        ],
+        "efectos": [
+          "sellar"
+        ],
+        "camara": "acercamiento",
+        "fondo": "plano",
+        "entrada": "pop",
+        "veredicto": "bien"
       }
     },
     {
-      "from": 264,
-      "dur": 180,
-      "comp": "PhraseCard",
+      "from": 2474,
+      "dur": 240,
+      "comp": "PlanoMedidas",
       "props": {
-        "theme": "earth",
-        "eyebrow": "SIN ADIVINAR",
-        "phrase": "No tienes que adivinar como me pasó a mí",
-        "accent": "adivinar",
-        "src": "img/mateo-techo-chapa-que_s21.png"
+        "theme": "taller",
+        "title": "MIDE EL PARCHE",
+        "w": 10,
+        "h": 10,
+        "unit": "cm",
+        "label": "MALLA DE FIBRA DE VIDRIO",
+        "note": "Cuadrado pequeño sobre cada tornillo"
       }
     },
     {
-      "from": 264,
+      "from": 3434,
+      "dur": 240,
+      "comp": "Pared3D",
+      "props": {
+        "theme": "taller",
+        "title": "Así sube la mancha",
+        "kicker": "Por dentro del cielorraso",
+        "problema": "humedad",
+        "etiqueta": "Filtración desde el techo",
+        "note": "No es la pared, es el techo"
+      }
+    },
+    {
+      "from": 4406,
       "dur": 270,
-      "comp": "Checklist",
+      "comp": "Escena3D",
       "props": {
-        "theme": "earth",
-        "title": "¿Tu gotera califica?",
-        "items": [
-          "Óxido avanzado con agujeros visibles",
-          "Siempre en el mismo punto",
-          "Techo muy plano o con mucha pendiente",
-          "Cambia de lado según el viento"
-        ]
+        "theme": "taller",
+        "title": "Por qué entra el agua en el solape",
+        "kicker": "Capilaridad",
+        "objetos": [
+          {
+            "tipo": "chapa",
+            "etiqueta": "Solape"
+          }
+        ],
+        "efectos": [
+          "lluvia",
+          "goteo"
+        ],
+        "camara": "lateral",
+        "fondo": "plano",
+        "entrada": "desliza",
+        "veredicto": "mal"
       }
     },
     {
-      "from": 264,
+      "from": 5361,
+      "dur": 180,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "taller",
+        "myth": "La chapa gotea porque está podrida",
+        "truth": "Gotea porque falla la arandela o el solape"
+      }
+    },
+    {
+      "from": 6334,
+      "dur": 240,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "taller",
+        "title": "LIMPIEZA ALREDEDOR",
+        "w": 20,
+        "h": 10,
+        "unit": "cm",
+        "label": "A CADA LADO DEL SOLAPE",
+        "note": "Diez centímetros de limpieza"
+      }
+    },
+    {
+      "from": 7406,
+      "dur": 270,
+      "comp": "Escena3D",
+      "props": {
+        "theme": "taller",
+        "title": "Así queda sellada la junta",
+        "kicker": "Membrana + malla",
+        "objetos": [
+          {
+            "tipo": "membrana",
+            "etiqueta": "Sellado"
+          }
+        ],
+        "efectos": [
+          "sellar",
+          "brillo"
+        ],
+        "camara": "acercamiento",
+        "fondo": "plano",
+        "entrada": "pop",
+        "veredicto": "bien"
+      }
+    },
+    {
+      "from": 8432,
       "dur": 210,
       "comp": "Compare",
       "props": {
-        "theme": "earth",
-        "title": "Dos tipos de techo",
+        "theme": "taller",
+        "title": "Al apretar el tornillo",
         "left": {
-          "label": "Mucha pendiente",
-          "sub": "el agua escurre rápido"
+          "label": "Aprietas de más",
+          "sub": "Partes la goma y agrandas el hueco"
         },
         "right": {
-          "label": "Techo casi plano",
-          "sub": "el agua se acumula más tiempo"
+          "label": "Aprietas lo justo",
+          "sub": "La arandela se aplasta apenas"
         }
       }
     },
     {
-      "from": 264,
-      "dur": 180,
-      "comp": "NivelBurbuja",
-      "props": {
-        "theme": "earth",
-        "title": "Revisa la pendiente",
-        "verdict": "CASI PLANO",
-        "sub": "necesita más manos de pintura"
-      }
-    },
-    {
-      "from": 264,
-      "dur": 210,
-      "comp": "MythVsTruth",
-      "props": {
-        "theme": "earth",
-        "myth": "Si gotea de un lado, es solo un agujero",
-        "truth": "Puede haber varias zonas débiles distintas"
-      }
-    },
-    {
-      "from": 264,
-      "dur": 270,
-      "comp": "Checklist",
-      "props": {
-        "theme": "earth",
-        "title": "Lleva esto al techo",
-        "items": [
-          "Pintura selladora",
-          "Cepillo de cerdas metálicas",
-          "Brocha firme y trapos secos",
-          "Malla de sellado y guantes",
-          "Un día despejado"
-        ]
-      }
-    },
-    {
-      "from": 3692,
-      "dur": 210,
-      "comp": "PhraseCard",
-      "props": {
-        "theme": "earth",
-        "eyebrow": "EL PROBLEMA",
-        "phrase": "La gotera que vuelve siempre al mismo lugar",
-        "accent": "siempre al mismo lugar",
-        "src": "img/mateo-techo-chapa-que_s01.png"
-      }
-    },
-    {
-      "from": 10381,
-      "dur": 210,
-      "comp": "MythVsTruth",
-      "props": {
-        "theme": "earth",
-        "myth": "La silicona de ferretería sella goteras para siempre",
-        "truth": "Se raja y se despega en pocas semanas"
-      }
-    },
-    {
-      "from": 15078,
-      "dur": 180,
-      "comp": "BigNumberCard",
-      "props": {
-        "theme": "earth",
-        "eyebrow": "EL DATO",
-        "value": 1,
-        "prefix": "",
-        "suffix": " mes",
-        "label": "lo que aguantó la silicona casera"
-      }
-    },
-    {
-      "from": 22740,
-      "dur": 270,
-      "comp": "Checklist",
-      "props": {
-        "theme": "earth",
-        "title": "Lo que vas a ver hoy",
-        "items": [
-          "Qué es la pintura selladora",
-          "Si tu gotera califica para este arreglo",
-          "Herramientas y pasos de aplicación",
-          "Los errores que lo arruinan",
-          "Cuánto dura en la práctica"
-        ]
-      }
-    },
-    {
-      "from": 23660,
-      "dur": 180,
-      "comp": "PhraseCard",
-      "props": {
-        "theme": "earth",
-        "eyebrow": "SIN PROMESAS",
-        "phrase": "No existe una solución eterna para un techo de chapa",
-        "accent": "eterna",
-        "src": "img/mateo-techo-chapa-que_s08.png"
-      }
-    },
-    {
-      "from": 27824,
-      "dur": 270,
-      "comp": "Pared3D",
-      "props": {
-        "theme": "earth",
-        "title": "Así se filtra el agua",
-        "kicker": "Por dentro del techo",
-        "problema": "humedad",
-        "etiqueta": "Punto débil",
-        "note": "Entra por uniones y tornillos, no por la chapa"
-      }
-    },
-    {
-      "from": 33652,
+      "from": 10190,
       "dur": 240,
       "comp": "PlanoMedidas",
       "props": {
-        "theme": "earth",
-        "title": "Cobertura por litro",
-        "w": 200,
-        "h": 250,
+        "theme": "taller",
+        "title": "ALREDEDOR DEL TORNILLO",
+        "w": 6,
+        "h": 6,
         "unit": "cm",
-        "label": "ÁREA CUBIERTA",
-        "note": "entre 4 y 6 m² según el estado de la chapa"
+        "label": "EXTRA DE PINTURA",
+        "note": "Dos a tres centímetros de más"
       }
     },
     {
-      "from": 34310,
-      "dur": 240,
-      "comp": "TicketPrecio",
+      "from": 11150,
+      "dur": 270,
+      "comp": "Escena3D",
       "props": {
-        "theme": "earth",
-        "title": "LO QUE TE COBRAN",
-        "rows": [
+        "theme": "taller",
+        "title": "La silicona no acompaña el movimiento",
+        "kicker": "Error 1",
+        "objetos": [
           {
-            "label": "Visita de un técnico",
-            "price": "$50–100",
-            "bad": true
-          },
-          {
-            "label": "Pintura selladora (1 litro)",
-            "price": "$2–4"
+            "tipo": "sellador",
+            "etiqueta": "Silicona"
           }
         ],
-        "total": {
-          "label": "Diferencia",
-          "price": "hasta $98"
-        },
-        "stamp": "AHORRO"
+        "efectos": [
+          "grieta"
+        ],
+        "camara": "acercamiento",
+        "fondo": "plano",
+        "entrada": "pop",
+        "veredicto": "mal"
+      }
+    },
+    {
+      "from": 12501,
+      "dur": 240,
+      "comp": "Steps",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "REPASO RÁPIDO",
+        "title": "Los 4 pasos del sellado",
+        "steps": [
+          {
+            "title": "Limpiar",
+            "sub": "Cepillo de alambre en el óxido suelto"
+          },
+          {
+            "title": "Cambiar lo vencido",
+            "sub": "Tornillo y arandela nueva"
+          },
+          {
+            "title": "Sellar y reforzar",
+            "sub": "Pintura más malla y segunda mano"
+          }
+        ]
+      }
+    },
+    {
+      "from": 13423,
+      "dur": 270,
+      "comp": "Escena3D",
+      "props": {
+        "theme": "taller",
+        "title": "El hueco que la pintura no tapa",
+        "kicker": "La excepción",
+        "objetos": [
+          {
+            "tipo": "lupa",
+            "etiqueta": "Hueco real"
+          }
+        ],
+        "efectos": [
+          "grieta"
+        ],
+        "camara": "rasante",
+        "fondo": "plano",
+        "entrada": "cae",
+        "veredicto": "mal"
+      }
+    },
+    {
+      "from": 14523,
+      "dur": 240,
+      "comp": "PlanoMedidas",
+      "props": {
+        "theme": "taller",
+        "title": "ANCHO DE LA FRANJA",
+        "w": 10,
+        "h": 30,
+        "unit": "cm",
+        "label": "BANDA SOBRE EL SOLAPE",
+        "note": "Ocho a diez centímetros de ancho"
+      }
+    },
+    {
+      "from": 15257,
+      "dur": 270,
+      "comp": "Escena3D",
+      "props": {
+        "theme": "taller",
+        "title": "El sol y la lluvia gastan la membrana",
+        "kicker": "Vida útil real",
+        "objetos": [
+          {
+            "tipo": "reloj",
+            "etiqueta": "2 a 4 años"
+          },
+          {
+            "tipo": "sol"
+          }
+        ],
+        "efectos": [
+          "calor",
+          "lluvia"
+        ],
+        "camara": "alejamiento",
+        "fondo": "atardecer",
+        "entrada": "desliza",
+        "veredicto": "mal",
+        "dato": {
+          "valor": 2,
+          "unidad": "años",
+          "label": "mínimo antes de repasar"
+        }
       }
     }
   ]
