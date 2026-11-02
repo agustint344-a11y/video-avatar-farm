@@ -1,0 +1,2059 @@
+{
+  "slug": "juantombo-azucar-ayuda-sanar",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 33278,
+  "audioSrc": "juantombo-azucar-ayuda-sanar.mp3",
+  "avatarSrc": "juantombo-azucar-ayuda-sanar_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 4901,
+      "dur": 325,
+      "clip": 0
+    },
+    {
+      "from": 10010,
+      "dur": 595,
+      "clip": 325
+    },
+    {
+      "from": 31759,
+      "dur": 433,
+      "clip": 920
+    },
+    {
+      "from": 32573,
+      "dur": 693,
+      "clip": 1353
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 172,
+      "dur": 54,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 466,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s02.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 796,
+      "dur": 51,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s02.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 847,
+      "dur": 125,
+      "kind": "video",
+      "src": "broll/juantombo-azucar-ayuda-sanar_v_s03.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 972,
+      "dur": 223,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s04.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1195,
+      "dur": 219,
+      "kind": "video",
+      "src": "broll/juantombo-azucar-ayuda-sanar_v_s05.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1624,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s06.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 1751,
+      "dur": 139,
+      "kind": "video",
+      "src": "broll/juantombo-azucar-ayuda-sanar_v_s07.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1890,
+      "dur": 95,
+      "kind": "video",
+      "src": "broll/juantombo-azucar-ayuda-sanar_v_s08.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2315,
+      "dur": 79,
+      "kind": "video",
+      "src": "broll/juantombo-azucar-ayuda-sanar_v_s08.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2394,
+      "dur": 59,
+      "kind": "video",
+      "src": "broll/juantombo-azucar-ayuda-sanar_v_s09.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2453,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s10.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2575,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s11.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3091,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s12.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3247,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s13.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3323,
+      "dur": 233,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s14.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3856,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s14.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3965,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s15.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4080,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s16.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4447,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s16.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4654,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s17.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4783,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s18.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5226,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5363,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s20.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5525,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s21.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5638,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s22.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5739,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s23.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5835,
+      "dur": 56,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s24.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6161,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s24.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6350,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s25.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6477,
+      "dur": 263,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s26.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6950,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s28.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7090,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s29.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7266,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s30.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7352,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s31.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7512,
+      "dur": 185,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s32.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7697,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s34.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7783,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s35.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7978,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s36.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8459,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s33.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8630,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s37.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8792,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s38.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9018,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s39.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9487,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s27.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9665,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s40.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9828,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s41.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9924,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s42.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10605,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s43.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10796,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s45.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10888,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s46.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11210,
+      "dur": 249,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s44.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11459,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s47.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11601,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s48.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11776,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s49.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11992,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s50.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12406,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s51.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12503,
+      "dur": 140,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s52.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12643,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s53.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12749,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s54.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13079,
+      "dur": 313,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s54.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13392,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s55.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13504,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s56.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13613,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s57.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13738,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s58.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14158,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s58.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14322,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s59.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14453,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s60.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14558,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s61.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14670,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s62.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15038,
+      "dur": 266,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15304,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s63.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15414,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s64.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15586,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s65.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15662,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s66.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16154,
+      "dur": 54,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s66.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16208,
+      "dur": 59,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s67.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16267,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s68.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16398,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s69.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16618,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s70.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16801,
+      "dur": 70,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s71.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17141,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s71.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17312,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s72.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17474,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s73.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17794,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s73.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17946,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s74.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18043,
+      "dur": 232,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s75.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18275,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s77.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18472,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s78.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18565,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s79.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18732,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s80.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19166,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s76.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19330,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s81.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19524,
+      "dur": 91,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s82.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19615,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s83.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19799,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s84.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19913,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s85.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20041,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s86.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20492,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s86.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20641,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s87.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20730,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s88.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20826,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s89.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21051,
+      "dur": 58,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s90.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21109,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s91.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21265,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s92.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21385,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s93.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21506,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s94.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21627,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s95.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21735,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s96.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21935,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s98.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22077,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s99.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22253,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s100.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22349,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s101.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22718,
+      "dur": 266,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s97.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22984,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s102.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23160,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s103.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23354,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s104.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23506,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s105.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23645,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s106.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23941,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s106.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24121,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s107.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24260,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s108.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24370,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s109.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24479,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s110.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24598,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s111.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24758,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s112.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24951,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s113.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25326,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s113.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25547,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s114.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25710,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s115.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25921,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s116.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26251,
+      "dur": 367,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s116.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26618,
+      "dur": 71,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s117.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26689,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s118.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27180,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s119.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27352,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s120.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27578,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s121.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28000,
+      "dur": 259,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s122.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28259,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s123.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28392,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s124.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28748,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s124.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28902,
+      "dur": 91,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s125.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28993,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s126.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29185,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s127.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29366,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s128.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29778,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s128.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29977,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s129.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30180,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s130.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30341,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s131.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30520,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s132.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30664,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s133.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 30779,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s134.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30877,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s135.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31023,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s136.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31156,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s137.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31639,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s137.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32192,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s138.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32273,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s139.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32452,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/juantombo-azucar-ayuda-sanar_s140.png",
+      "kb": 2,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 700,
+      "dur": 135,
+      "comp": "LowerThird",
+      "props": {
+        "theme": "taller",
+        "accentText": "DR. JUAN TOMBO",
+        "title": "Dr. Juan Tombo",
+        "sub": "Remedios caseros con cabeza fría y datos reales"
+      }
+    },
+    {
+      "from": 1375,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "EL MECANISMO",
+        "title": "Cómo funciona el azúcar"
+      }
+    },
+    {
+      "from": 1639,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "taller",
+        "word": "ÓSMOSIS",
+        "sub": "El principio detrás del azúcar",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 2453,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "HISTORIA",
+        "title": "Uso médico y hospitalario"
+      }
+    },
+    {
+      "from": 3965,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "ATENCIÓN",
+        "title": "No todas las heridas son iguales"
+      }
+    },
+    {
+      "from": 5739,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "LOS BENEFICIOS",
+        "title": "Las razones por las que ayuda"
+      }
+    },
+    {
+      "from": 6284,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "taller",
+        "word": "EXUDADO",
+        "sub": "Exceso de líquido en la herida",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 8630,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "taller",
+        "word": "CIRCULACIÓN",
+        "sub": "Pequeños vasos en el borde de la herida",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 10374,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_juantombo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dr. Juan Tombo",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 10763,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "LOS RIESGOS",
+        "title": "Lo que casi nadie te dice"
+      }
+    },
+    {
+      "from": 10796,
+      "dur": 105,
+      "comp": "SelloError",
+      "props": {
+        "theme": "taller",
+        "label": "ERROR",
+        "num": 1,
+        "text": "Azúcar de cocina sin esterilizar"
+      }
+    },
+    {
+      "from": 11776,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "taller",
+        "word": "CONTAMINACIÓN",
+        "sub": "La puerta de entrada a tu sangre",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 12410,
+      "dur": 105,
+      "comp": "SelloError",
+      "props": {
+        "theme": "taller",
+        "label": "ERROR",
+        "num": 2,
+        "text": "Reseca el tejido nuevo"
+      }
+    },
+    {
+      "from": 13504,
+      "dur": 105,
+      "comp": "SelloError",
+      "props": {
+        "theme": "taller",
+        "label": "ERROR",
+        "num": 3,
+        "text": "Enmascara infección grave"
+      }
+    },
+    {
+      "from": 14558,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "taller",
+        "word": "FRICCIÓN",
+        "sub": "Los granos pueden irritar el tejido",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 14670,
+      "dur": 105,
+      "comp": "SelloError",
+      "props": {
+        "theme": "taller",
+        "label": "ERROR",
+        "num": 4,
+        "text": "Fricción irrita la herida"
+      }
+    },
+    {
+      "from": 15414,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "SEÑALES DE ALARMA",
+        "title": "Cuándo no usar azúcar"
+      }
+    },
+    {
+      "from": 15586,
+      "dur": 150,
+      "comp": "Callout",
+      "props": {
+        "theme": "taller",
+        "title": "SI VES ESTO",
+        "sub": "Fiebre, pus o bordes rojos: ve al médico",
+        "tone": "warn"
+      }
+    },
+    {
+      "from": 16208,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "AUTOEVALUACIÓN",
+        "title": "Diagnóstico rápido"
+      }
+    },
+    {
+      "from": 17312,
+      "dur": 150,
+      "comp": "StatChip",
+      "props": {
+        "theme": "taller",
+        "value": 10,
+        "suffix": " días",
+        "label": "sin mejora = alerta",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 18732,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "PASO A PASO",
+        "title": "El procedimiento correcto"
+      }
+    },
+    {
+      "from": 21109,
+      "dur": 150,
+      "comp": "StatChip",
+      "props": {
+        "theme": "taller",
+        "value": 12,
+        "suffix": " h",
+        "label": "cambia el apósito cada",
+        "corner": "tr"
+      }
+    },
+    {
+      "from": 21900,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "EL ERROR COMÚN",
+        "title": "El error más común"
+      }
+    },
+    {
+      "from": 22077,
+      "dur": 105,
+      "comp": "SelloError",
+      "props": {
+        "theme": "taller",
+        "label": "ERROR",
+        "num": 5,
+        "text": "Usarlo por semanas enteras"
+      }
+    },
+    {
+      "from": 24370,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "taller",
+        "word": "MÁXIMO 5 DÍAS",
+        "sub": "Después, cambia de cuidado",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 25423,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "MÁS ERRORES",
+        "title": "Tres errores adicionales"
+      }
+    },
+    {
+      "from": 26207,
+      "dur": 105,
+      "comp": "SelloError",
+      "props": {
+        "theme": "taller",
+        "label": "ERROR",
+        "num": 6,
+        "text": "Mezclar con otros remedios"
+      }
+    },
+    {
+      "from": 28759,
+      "dur": 120,
+      "comp": "KeywordPop",
+      "props": {
+        "theme": "taller",
+        "word": "AZÚCAR BLANCA",
+        "sub": "La única bien estudiada",
+        "pos": "top"
+      }
+    },
+    {
+      "from": 29185,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "RESUMEN",
+        "title": "Lo esencial de este video"
+      }
+    },
+    {
+      "from": 31979,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_juantombo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dr. Juan Tombo",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 32762,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_juantombo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dr. Juan Tombo",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 33180,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_juantombo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Dr. Juan Tombo",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 226,
+      "dur": 240,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "EL DATO",
+        "value": 30,
+        "prefix": "+",
+        "suffix": " años",
+        "label": "usando azúcar en hospitales para heridas"
+      }
+    },
+    {
+      "from": 1414,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "EL MECANISMO",
+        "phrase": "El azúcar actúa por ósmosis, no por magia",
+        "accent": "ósmosis",
+        "src": "img/juantombo-azucar-ayuda-sanar_s06.png"
+      }
+    },
+    {
+      "from": 1985,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "EL MECANISMO",
+        "title": "Cómo el azúcar afecta a las bacterias",
+        "steps": [
+          {
+            "title": "Absorbe agua",
+            "sub": "El azúcar saca humedad del tejido"
+          },
+          {
+            "title": "Bacterias se secan",
+            "sub": "Necesitan agua para sobrevivir"
+          },
+          {
+            "title": "No se multiplican",
+            "sub": "Muchas no pueden reproducirse"
+          }
+        ]
+      }
+    },
+    {
+      "from": 2731,
+      "dur": 360,
+      "comp": "Timeline",
+      "props": {
+        "theme": "taller",
+        "title": "El azúcar en la historia de la medicina",
+        "steps": [
+          {
+            "when": "Antes de 1900",
+            "text": "Remedio tradicional transmitido por generaciones"
+          },
+          {
+            "when": "1ra Guerra Mundial",
+            "text": "Heridas de combate sin antibióticos suficientes"
+          },
+          {
+            "when": "Hoy: Sudáfrica, Brasil, India",
+            "text": "Úlceras crónicas bajo supervisión médica"
+          },
+          {
+            "when": "Siempre",
+            "text": "Solo con azúcar esterilizada, nunca de cocina"
+          }
+        ]
+      }
+    },
+    {
+      "from": 3556,
+      "dur": 300,
+      "comp": "SemaforoVeredicto",
+      "props": {
+        "theme": "taller",
+        "title": "¿Sirve el azúcar de cocina para heridas?",
+        "light": "amarillo",
+        "verdict": "CON CUIDADO",
+        "reasons": [
+          "Solo en hospital es estéril",
+          "En casa puede contaminar",
+          "Depende del tipo de herida"
+        ]
+      }
+    },
+    {
+      "from": 4207,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "taller",
+        "myth": "Toda herida reacciona igual al azúcar",
+        "truth": "Depende de la etapa: sangrante o en cierre"
+      }
+    },
+    {
+      "from": 5891,
+      "dur": 270,
+      "comp": "Vaso3D",
+      "props": {
+        "theme": "taller",
+        "title": "Así se seca el exceso de líquido",
+        "kicker": "Dentro del tejido de la herida",
+        "problema": "inflamacion",
+        "etiqueta": "Exudado",
+        "note": "El azúcar absorbe agua del tejido"
+      }
+    },
+    {
+      "from": 6740,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "RAZÓN 2",
+        "phrase": "El azúcar no es un antibiótico",
+        "accent": "no es un antibiótico",
+        "src": "img/juantombo-azucar-ayuda-sanar_s27.png"
+      }
+    },
+    {
+      "from": 8189,
+      "dur": 270,
+      "comp": "CartelPrecaucion",
+      "props": {
+        "theme": "taller",
+        "title": "PRECAUCIÓN",
+        "text": "El olor que reduce el azúcar no cura la infección",
+        "sub": "Solo oculta un síntoma superficial"
+      }
+    },
+    {
+      "from": 9157,
+      "dur": 330,
+      "comp": "Checklist",
+      "props": {
+        "theme": "taller",
+        "title": "Cuándo el azúcar puede ayudar",
+        "items": [
+          "Herida superficial y limpia",
+          "Exudado claro sin mal olor",
+          "Persona sana, sin diabetes",
+          "Uso máximo de 3 a 5 días"
+        ]
+      }
+    },
+    {
+      "from": 11000,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "RIESGO 1",
+        "phrase": "Tu azúcar de cocina no es estéril",
+        "accent": "no es estéril",
+        "src": "img/juantombo-azucar-ayuda-sanar_s46.png"
+      }
+    },
+    {
+      "from": 12136,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "taller",
+        "title": "Piel abierta vs piel intacta",
+        "left": {
+          "label": "Piel abierta",
+          "sub": "Sin barrera, vía libre a contaminación"
+        },
+        "right": {
+          "label": "Piel intacta",
+          "sub": "Barrera natural que protege de bacterias"
+        }
+      }
+    },
+    {
+      "from": 13918,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "taller",
+        "myth": "Si huele mejor, la infección ya se fue",
+        "truth": "Puede seguir avanzando por debajo sin olor"
+      }
+    },
+    {
+      "from": 14828,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "RIESGO 4",
+        "phrase": "Los cristales de azúcar pueden irritar la piel",
+        "accent": "irritar",
+        "src": "img/juantombo-azucar-ayuda-sanar_s62.png"
+      }
+    },
+    {
+      "from": 15824,
+      "dur": 330,
+      "comp": "Checklist",
+      "props": {
+        "theme": "taller",
+        "title": "Señales de alarma para ver a un médico",
+        "items": [
+          "Diabetes o herida profunda",
+          "Bordes rojos que se extienden",
+          "Fiebre o pus amarillo-verdoso",
+          "Sin cambio en 2 a 3 días"
+        ]
+      }
+    },
+    {
+      "from": 16871,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "taller",
+        "title": "Secreción normal vs señal de alarma",
+        "left": {
+          "label": "Líquido espeso, verde, con olor",
+          "sub": "Señal de infección: ver a un médico"
+        },
+        "right": {
+          "label": "Líquido claro o amarillento leve",
+          "sub": "Exudado normal, el azúcar puede ayudar"
+        }
+      }
+    },
+    {
+      "from": 17584,
+      "dur": 210,
+      "comp": "Medidor",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "ALERTA",
+        "value": 7,
+        "max": 10,
+        "suffix": " días",
+        "label": "sin mejora = necesitas evaluación médica"
+      }
+    },
+    {
+      "from": 18836,
+      "dur": 330,
+      "comp": "Steps",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "PROCEDIMIENTO",
+        "title": "Pasos 1 a 3 para aplicar bien",
+        "steps": [
+          {
+            "title": "Limpia primero",
+            "sub": "Agua limpia o suero fisiológico"
+          },
+          {
+            "title": "Azúcar lo más limpia posible",
+            "sub": "Nunca directo del paquete con los dedos"
+          },
+          {
+            "title": "Capa fina",
+            "sub": "No un montículo grueso"
+          }
+        ]
+      }
+    },
+    {
+      "from": 20162,
+      "dur": 330,
+      "comp": "Checklist",
+      "props": {
+        "theme": "taller",
+        "title": "Pasos finales para aplicar bien",
+        "items": [
+          "Cubre con gasa seca",
+          "Fija sin apretar demasiado",
+          "Cambia el apósito cada 12 horas",
+          "Revisa si mejora cada día"
+        ]
+      }
+    },
+    {
+      "from": 22478,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "taller",
+        "myth": "Si mejoró al principio, debo seguir igual",
+        "truth": "La herida cambia de fase y necesita otro cuidado"
+      }
+    },
+    {
+      "from": 23731,
+      "dur": 210,
+      "comp": "BigNumberCard",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "EL LÍMITE",
+        "value": 5,
+        "prefix": "",
+        "suffix": " días máx.",
+        "label": "es el límite recomendado de uso del azúcar"
+      }
+    },
+    {
+      "from": 25116,
+      "dur": 210,
+      "comp": "PhraseCard",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "LA CLAVE",
+        "phrase": "El azúcar cumplió su función en la fase húmeda",
+        "accent": "fase húmeda",
+        "src": "img/juantombo-azucar-ayuda-sanar_s113.png"
+      }
+    },
+    {
+      "from": 26910,
+      "dur": 270,
+      "comp": "Compare",
+      "props": {
+        "theme": "taller",
+        "title": "Mezclar remedios vs usar uno solo",
+        "left": {
+          "label": "Azúcar + pasta dental + alcohol",
+          "sub": "Más irritación química en la piel"
+        },
+        "right": {
+          "label": "Un solo remedio, bien aplicado",
+          "sub": "Permite observar cómo responde tu cuerpo"
+        }
+      }
+    },
+    {
+      "from": 27730,
+      "dur": 270,
+      "comp": "CartelPrecaucion",
+      "props": {
+        "theme": "taller",
+        "title": "PRECAUCIÓN",
+        "text": "Personas inmunodeprimidas deben evitar este remedio",
+        "sub": "El riesgo supera el beneficio en estos casos"
+      }
+    },
+    {
+      "from": 28508,
+      "dur": 240,
+      "comp": "MythVsTruth",
+      "props": {
+        "theme": "taller",
+        "myth": "El azúcar morena funciona igual que la blanca",
+        "truth": "La morena retiene humedad y favorece hongos"
+      }
+    },
+    {
+      "from": 29478,
+      "dur": 300,
+      "comp": "Barras3D",
+      "props": {
+        "theme": "taller",
+        "title": "Cuántos días usar el azúcar",
+        "items": [
+          {
+            "label": "Fase húmeda: sí usar",
+            "value": 5
+          },
+          {
+            "label": "Fase de cierre: parar",
+            "value": 0
+          }
+        ],
+        "unidad": " días",
+        "destacar": 0,
+        "note": "Máximo 3 a 5 días, después cambia de cuidado"
+      }
+    },
+    {
+      "from": 31339,
+      "dur": 300,
+      "comp": "SemaforoVeredicto",
+      "props": {
+        "theme": "taller",
+        "title": "¿Puedes seguir usando azúcar en tu caso?",
+        "light": "rojo",
+        "verdict": "NO LO HAGAS",
+        "reasons": [
+          "Diabetes o herida profunda",
+          "Signos de infección avanzada",
+          "Sistema inmune debilitado"
+        ]
+      }
+    }
+  ]
+}
