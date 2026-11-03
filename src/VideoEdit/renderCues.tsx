@@ -51,7 +51,7 @@ import { CuadernoReceta, GuiasNonna, MarcaCirculo, PolaroidRecuerdo, SelloError,
 import { AnilloPorcentaje, CalendarioSiembra, CartelPrecaucion, CrecimientoPlanta, HeartbeatLine, NivelBurbuja, PizarraNonna, PlanoMedidas, ProporcionTazas, RutinaDia, SemaforoVeredicto, WeekPlanner } from "./kit/kit6";
 import { Barras3D, Bano3D, Cano3D, Capas3D, Circuito3D, Gota3D, Pared3D, Techo3D, Vaso3D } from "./kit/kit7_3d";
 import { Escena3D, FraseKinetica } from "./kit/kit8_escena";
-import { AhorroBarras, CorteLosa, DatoLateral, PreguntaFicha, Presupuesto } from "./kit/kit9_ref";
+import { AhorroBarras, CorteLosa, DatoLateral, PreguntaFicha, Presupuesto, GuiaPromo } from "./kit/kit9_ref";
 import type { BrollBeat, ComponentBeat, OverlayBeat } from "./types";
 
 /* ─────────────────────────  b-roll a pantalla completa (Ken Burns)  ───────────────────────── */
@@ -154,6 +154,7 @@ const MAP = {
   CorteLosa,
   PreguntaFicha,
   Presupuesto,
+  GuiaPromo,
 } as const;
 
 export const ComponentBeatView: React.FC<{ beat: ComponentBeat }> = ({
@@ -163,8 +164,8 @@ export const ComponentBeatView: React.FC<{ beat: ComponentBeat }> = ({
   if (!Comp) return null;
   // FramedPhoto recibe src relativo a public/ → resolver con staticFile.
   const base =
-    ["FramedPhoto", "PhraseCard", "CuadernoReceta", "TicketPrecio", "PolaroidRecuerdo", "GuiasNonna", "PreguntaFicha", "Presupuesto"].includes(beat.comp) && typeof beat.props.src === "string"
-      ? { ...beat.props, src: staticFile(beat.props.src as string) }
+    ["FramedPhoto", "PhraseCard", "CuadernoReceta", "TicketPrecio", "PolaroidRecuerdo", "GuiasNonna", "PreguntaFicha", "Presupuesto", "GuiaPromo"].includes(beat.comp) && typeof beat.props.src === "string"
+      ? { ...beat.props, src: staticFile(beat.props.src as string), ...((beat.comp as string) === "GuiaPromo" && typeof beat.props.qr === "string" ? { qr: staticFile(beat.props.qr as string) } : {}) }
       : beat.props;
   const base2 = beat.comp === "GuiasNonna" ? { ...base, covers: ((base.covers as string[]) || []).map((c) => staticFile(c)), qr: typeof base.qr === "string" ? staticFile(base.qr as string) : undefined } : base;
   // 2026-11-01: estas tarjetas quedaban chicas en 1080p (mucho espacio vacío) → se agrandan centradas

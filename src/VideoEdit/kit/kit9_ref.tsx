@@ -193,3 +193,30 @@ export const CorteLosa: React.FC<{ durationInFrames: number; modo?: "esponja" | 
     {labels.slice(0, 3).map((e, i) => { const a = interpolate(f, [labelAt[i], labelAt[i] + 14], [0, 1], clamp); return <div key={i} style={{ position: "absolute", ...labelPos[i], background: i === 1 && esp ? "#B5651D" : "#1F2A30", color: "#fff", padding: "14px 26px", borderRadius: 14, font: `700 34px ${SANS}`, opacity: a, transform: `translateY(${(1 - a) * 16}px)`, boxShadow: "0 10px 30px rgba(0,0,0,0.18)" }}>{e}</div>; })}
   </AbsoluteFill>;
 };
+
+/* ───────── GuiaPromo: llamado a la guía (la tapa/mockup real entra de costado, título serif y 3 puntos que aparecen de a uno).
+   El QR lo pone el overlay QRTag aparte. ───────── */
+export const GuiaPromo: React.FC<{ durationInFrames: number; src: string; eyebrow?: string; title: string; puntos?: string[]; foot?: string; qr?: string }> = ({ durationInFrames, src, qr, eyebrow = "LA BIBLIOTECA DEL MAESTRO", title, puntos = [], foot = "Link en la descripción y en el comentario fijado" }) => {
+  const op = useFade(durationInFrames); const f = useCurrentFrame();
+  const im = useSpring(0, 18); const tx = useSpring(8, 18);
+  return <AbsoluteFill style={{ background: `radial-gradient(circle at 70% 45%, ${TEAL2}, ${TEAL} 72%)`, opacity: op, overflow: "hidden" }}>
+    <div style={{ position: "absolute", right: 60, top: 140, width: 1000, height: 800, transform: `translateX(${(1 - im) * 160}px) scale(${1 + f / 6000})`, opacity: im }}>
+      <Img src={src} style={{ width: "100%", height: "100%", objectFit: "contain", filter: "drop-shadow(0 40px 60px rgba(0,0,0,0.55))" }} />
+    </div>
+    <div style={{ position: "absolute", left: 120, width: 760, top: 190, transform: `translateY(${(1 - tx) * 30}px)`, opacity: tx }}>
+      <div style={{ font: `700 26px ${SANS}`, color: MINT, letterSpacing: 5, textTransform: "uppercase", marginBottom: 24 }}>— {eyebrow}</div>
+      <div style={{ font: `600 74px/1.08 ${SERIF}`, color: "#fff" }}>{title}</div>
+      <div style={{ marginTop: 40 }}>
+        {puntos.slice(0, 4).map((p, i) => { const a = interpolate(f, [26 + i * 14, 38 + i * 14], [0, 1], clamp); return <div key={i} style={{ display: "flex", alignItems: "center", gap: 20, marginBottom: 22, opacity: a, transform: `translateX(${(1 - a) * -24}px)` }}>
+          <div style={{ width: 40, height: 40, borderRadius: 99, background: MINT, color: TEAL, font: `800 26px ${SANS}`, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>✓</div>
+          <div style={{ font: `500 36px/1.25 ${SANS}`, color: "rgba(255,255,255,0.9)" }}>{p}</div>
+        </div>; })}
+      </div>
+      <div style={{ marginTop: 34, display: "inline-block", background: "#E0835A", color: "#fff", padding: "16px 28px", borderRadius: 12, font: `700 30px ${SANS}`, opacity: interpolate(f, [70, 84], [0, 1], clamp) }}>{foot}</div>
+      {qr && <div style={{ marginTop: 34, display: "flex", alignItems: "center", gap: 22, opacity: interpolate(f, [80, 94], [0, 1], clamp) }}>
+        <div style={{ background: "#fff", padding: 12, borderRadius: 14 }}><Img src={qr} style={{ width: 150, height: 150, display: "block" }} /></div>
+        <div style={{ font: `600 28px/1.3 ${SANS}`, color: "rgba(255,255,255,0.8)" }}>Escanea con la<br />cámara del celular</div>
+      </div>}
+    </div>
+  </AbsoluteFill>;
+};

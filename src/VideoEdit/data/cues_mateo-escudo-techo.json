@@ -3,7 +3,7 @@
   "fps": 30,
   "width": 1920,
   "height": 1080,
-  "durationInFrames": 8940,
+  "durationInFrames": 9712,
   "audioSrc": "mateo-escudo-techo.mp3",
   "avatarSrc": "mateo-escudo-techo_avatar.mp4",
   "avatarSegs": [
@@ -28,12 +28,12 @@
       "accent": "cáncer"
     },
     {
-      "from": 3510,
+      "from": 3911,
       "dur": 608,
       "clip": 1104
     },
     {
-      "from": 5220,
+      "from": 5621,
       "dur": 278,
       "clip": 1712,
       "layout": "cine",
@@ -43,19 +43,19 @@
       "accent": "durar poco"
     },
     {
-      "from": 5970,
+      "from": 6371,
       "dur": 668,
       "clip": 1990
     },
     {
-      "from": 6705,
+      "from": 7106,
       "dur": 270,
       "clip": 2658,
       "layout": "split",
       "side": "img/mateo-escudo-techo_s50.png"
     },
     {
-      "from": 8640,
+      "from": 9412,
       "dur": 286,
       "clip": 2928
     }
@@ -64,16 +64,16 @@
     {
       "from": 0,
       "dur": 62,
-      "kind": "image",
-      "src": "img/mateo-escudo-techo_s01.png",
+      "kind": "video",
+      "src": "broll/mateo-escudo-techo_v_s01.mp4",
       "kb": 0,
       "pip": false
     },
     {
       "from": 62,
       "dur": 118,
-      "kind": "image",
-      "src": "img/mateo-escudo-techo_s02.png",
+      "kind": "video",
+      "src": "broll/mateo-escudo-techo_v_s02.mp4",
       "kb": 1,
       "pip": false
     },
@@ -104,8 +104,8 @@
     {
       "from": 645,
       "dur": 122,
-      "kind": "image",
-      "src": "img/mateo-escudo-techo_s06.png",
+      "kind": "video",
+      "src": "broll/mateo-escudo-techo_v_s06.mp4",
       "kb": 5,
       "pip": false
     },
@@ -120,24 +120,24 @@
     {
       "from": 915,
       "dur": 150,
-      "kind": "image",
-      "src": "img/mateo-escudo-techo_s08.png",
+      "kind": "video",
+      "src": "broll/mateo-escudo-techo_v_s08.mp4",
       "kb": 1,
       "pip": false
     },
     {
       "from": 1065,
       "dur": 120,
-      "kind": "image",
-      "src": "img/mateo-escudo-techo_s09.png",
+      "kind": "video",
+      "src": "broll/mateo-escudo-techo_v_s09.mp4",
       "kb": 2,
       "pip": false
     },
     {
       "from": 1838,
       "dur": 112,
-      "kind": "image",
-      "src": "img/mateo-escudo-techo_s16.png",
+      "kind": "video",
+      "src": "broll/mateo-escudo-techo_v_s16.mp4",
       "kb": 3,
       "pip": false
     },
@@ -152,185 +152,201 @@
     {
       "from": 2355,
       "dur": 165,
-      "kind": "image",
-      "src": "img/mateo-escudo-techo_s20.png",
+      "kind": "video",
+      "src": "broll/mateo-escudo-techo_v_s20.mp4",
       "kb": 5,
       "pip": false
     },
     {
       "from": 2520,
       "dur": 75,
-      "kind": "image",
-      "src": "img/mateo-escudo-techo_s21.png",
+      "kind": "video",
+      "src": "broll/mateo-escudo-techo_v_s21.mp4",
       "kb": 0,
       "pip": false
     },
     {
       "from": 2933,
       "dur": 204,
-      "kind": "image",
-      "src": "img/mateo-escudo-techo_s24.png",
+      "kind": "video",
+      "src": "broll/mateo-escudo-techo_v_s24.mp4",
       "kb": 1,
       "pip": false
     },
     {
       "from": 3137,
       "dur": 148,
-      "kind": "image",
-      "src": "img/mateo-escudo-techo_s25.png",
+      "kind": "video",
+      "src": "broll/mateo-escudo-techo_v_s25.mp4",
       "kb": 2,
       "pip": false
     },
     {
       "from": 3398,
-      "dur": 112,
-      "kind": "image",
-      "src": "img/mateo-escudo-techo_s28.png",
+      "dur": 166,
+      "kind": "video",
+      "src": "broll/mateo-escudo-techo_v_s28.mp4",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 4118,
-      "dur": 172,
-      "kind": "image",
-      "src": "img/mateo-escudo-techo_s33.png",
+      "from": 3879,
+      "dur": 32,
+      "kind": "video",
+      "src": "broll/mateo-escudo-techo_v_s27.mp4",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 4500,
+      "from": 4519,
+      "dur": 172,
+      "kind": "video",
+      "src": "broll/mateo-escudo-techo_v_s33.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4901,
       "dur": 120,
       "kind": "image",
       "src": "img/mateo-escudo-techo_s35.png",
-      "kb": 5,
+      "kb": 0,
       "pip": false
     },
     {
-      "from": 4620,
+      "from": 5021,
       "dur": 122,
       "kind": "image",
       "src": "img/mateo-escudo-techo_s36.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 4742,
-      "dur": 133,
-      "kind": "image",
-      "src": "img/mateo-escudo-techo_s37.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 4875,
-      "dur": 90,
-      "kind": "image",
-      "src": "img/mateo-escudo-techo_s38.png",
+      "from": 5143,
+      "dur": 133,
+      "kind": "video",
+      "src": "broll/mateo-escudo-techo_v_s37.mp4",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 4965,
+      "from": 5276,
+      "dur": 90,
+      "kind": "video",
+      "src": "broll/mateo-escudo-techo_v_s38.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5366,
       "dur": 75,
       "kind": "image",
       "src": "img/mateo-escudo-techo_s39.png",
-      "kb": 3,
+      "kb": 4,
       "pip": false
     },
     {
-      "from": 5040,
+      "from": 5441,
       "dur": 180,
       "kind": "image",
       "src": "img/mateo-escudo-techo_s40.png",
-      "kb": 4,
+      "kb": 5,
       "pip": false
     },
     {
-      "from": 5498,
+      "from": 5899,
       "dur": 86,
       "kind": "image",
       "src": "img/mateo-escudo-techo_s44.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 5584,
-      "dur": 56,
-      "kind": "image",
-      "src": "img/mateo-escudo-techo_s45.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 5880,
-      "dur": 90,
-      "kind": "image",
-      "src": "img/mateo-escudo-techo_s48.png",
+      "from": 5985,
+      "dur": 56,
+      "kind": "video",
+      "src": "broll/mateo-escudo-techo_v_s45.mp4",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 6638,
-      "dur": 67,
-      "kind": "image",
-      "src": "img/mateo-escudo-techo_s50.png",
+      "from": 6281,
+      "dur": 90,
+      "kind": "video",
+      "src": "broll/mateo-escudo-techo_v_s48.mp4",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 6975,
-      "dur": 75,
+      "from": 7039,
+      "dur": 67,
       "kind": "image",
-      "src": "img/mateo-escudo-techo_s51.png",
+      "src": "img/mateo-escudo-techo_s50.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 7050,
-      "dur": 60,
+      "from": 7376,
+      "dur": 75,
       "kind": "image",
-      "src": "img/mateo-escudo-techo_s52.png",
+      "src": "img/mateo-escudo-techo_s51.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 7380,
-      "dur": 120,
+      "from": 7451,
+      "dur": 60,
       "kind": "image",
-      "src": "img/mateo-escudo-techo_s56.png",
+      "src": "img/mateo-escudo-techo_s52.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 7500,
-      "dur": 60,
-      "kind": "image",
-      "src": "img/mateo-escudo-techo_s57.png",
+      "from": 7781,
+      "dur": 120,
+      "kind": "video",
+      "src": "broll/mateo-escudo-techo_v_s56.mp4",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 7800,
-      "dur": 240,
+      "from": 7901,
+      "dur": 60,
       "kind": "image",
-      "src": "img/mateo-escudo-techo_s59.png",
+      "src": "img/mateo-escudo-techo_s57.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 8040,
-      "dur": 180,
+      "from": 8201,
+      "dur": 240,
       "kind": "image",
-      "src": "img/mateo-escudo-techo_s60.png",
+      "src": "img/mateo-escudo-techo_s59.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 8430,
-      "dur": 210,
+      "from": 8441,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s60.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8831,
+      "dur": 217,
       "kind": "image",
       "src": "img/mateo-escudo-techo_s63.png",
-      "kb": 3,
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9378,
+      "dur": 34,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s62.png",
+      "kb": 5,
       "pip": false
     }
   ],
@@ -369,7 +385,20 @@
       }
     },
     {
-      "from": 4110,
+      "from": 3564,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 4046,
       "dur": 90,
       "comp": "SectionTitle",
       "props": {
@@ -379,7 +408,7 @@
       }
     },
     {
-      "from": 4965,
+      "from": 5366,
       "dur": 90,
       "comp": "SelloError",
       "props": {
@@ -389,7 +418,7 @@
       }
     },
     {
-      "from": 5490,
+      "from": 5621,
       "dur": 90,
       "comp": "SectionTitle",
       "props": {
@@ -399,7 +428,7 @@
       }
     },
     {
-      "from": 6165,
+      "from": 6566,
       "dur": 210,
       "comp": "QRTag",
       "props": {
@@ -412,7 +441,7 @@
       }
     },
     {
-      "from": 6444,
+      "from": 6845,
       "dur": 210,
       "comp": "QRTag",
       "props": {
@@ -425,20 +454,7 @@
       }
     },
     {
-      "from": 6870,
-      "dur": 210,
-      "comp": "QRTag",
-      "props": {
-        "theme": "taller",
-        "corner": "bl",
-        "src": "img/qr_mateo.png",
-        "eyebrow": "ESCANEA EL CÓDIGO",
-        "label": "Guías de Mateo Arregla",
-        "hint": "apunta la cámara 📷"
-      }
-    },
-    {
-      "from": 6975,
+      "from": 7031,
       "dur": 90,
       "comp": "SectionTitle",
       "props": {
@@ -448,27 +464,7 @@
       }
     },
     {
-      "from": 7995,
-      "dur": 90,
-      "comp": "SectionTitle",
-      "props": {
-        "theme": "taller",
-        "eyebrow": "CÓMO FUNCIONA",
-        "title": "La reacción explicada"
-      }
-    },
-    {
-      "from": 8640,
-      "dur": 90,
-      "comp": "SectionTitle",
-      "props": {
-        "theme": "taller",
-        "eyebrow": "LA PRUEBA",
-        "title": "Compruébalo en tu techo"
-      }
-    },
-    {
-      "from": 8640,
+      "from": 7271,
       "dur": 210,
       "comp": "QRTag",
       "props": {
@@ -481,7 +477,43 @@
       }
     },
     {
-      "from": 8775,
+      "from": 7901,
+      "dur": 90,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "CÓMO FUNCIONA",
+        "title": "La reacción explicada"
+      }
+    },
+    {
+      "from": 9048,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 9412,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 9547,
       "dur": 210,
       "comp": "QRTag",
       "props": {
@@ -506,7 +538,23 @@
       }
     },
     {
-      "from": 4290,
+      "from": 3564,
+      "dur": 315,
+      "comp": "GuiaPromo",
+      "props": {
+        "theme": "taller",
+        "src": "img/guia_mateo_biblioteca.png",
+        "title": "La receta completa, para tu techo",
+        "puntos": [
+          "Cantidades exactas según tus metros",
+          "Paso a paso con tiempos de secado",
+          "Fichas para imprimir"
+        ],
+        "qr": "img/qr_mateo.png"
+      }
+    },
+    {
+      "from": 4691,
       "dur": 210,
       "comp": "Presupuesto",
       "props": {
@@ -532,7 +580,7 @@
       }
     },
     {
-      "from": 5640,
+      "from": 6041,
       "dur": 240,
       "comp": "CorteLosa",
       "props": {
@@ -542,7 +590,7 @@
       }
     },
     {
-      "from": 7110,
+      "from": 7511,
       "dur": 270,
       "comp": "AhorroBarras",
       "props": {
@@ -563,7 +611,7 @@
       }
     },
     {
-      "from": 7560,
+      "from": 7961,
       "dur": 240,
       "comp": "PreguntaFicha",
       "props": {
@@ -576,7 +624,7 @@
       }
     },
     {
-      "from": 8220,
+      "from": 8621,
       "dur": 210,
       "comp": "Steps",
       "props": {
@@ -597,6 +645,24 @@
             "sub": "el agua no pasa, el concreto respira"
           }
         ]
+      }
+    },
+    {
+      "from": 9048,
+      "dur": 330,
+      "comp": "GuiaPromo",
+      "props": {
+        "theme": "taller",
+        "src": "img/guia_mateo_calcs.png",
+        "eyebrow": "LAS CALCULADORAS DEL MAESTRO",
+        "title": "Cuántos litros comprar, sin sacar cuentas",
+        "puntos": [
+          "Pones el largo y el ancho",
+          "Te dice litros y baldes",
+          "No compras de más"
+        ],
+        "foot": "En la descripción, el comentario fijado y el QR",
+        "qr": "img/qr_mateo.png"
       }
     }
   ]
