@@ -13,507 +13,641 @@
       "clip": 0
     },
     {
-      "from": 8533,
-      "dur": 323,
+      "from": 5236,
+      "dur": 117,
       "clip": 142
-    },
-    {
-      "from": 13484,
-      "dur": 271,
-      "clip": 465
-    },
-    {
-      "from": 15746,
-      "dur": 716,
-      "clip": 736
     }
   ],
   "broll": [
     {
       "from": 0,
       "dur": 148,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s01.mp4",
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s01.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 358,
-      "dur": 220,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s01.mp4",
+      "from": 148,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s02.png",
       "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 347,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 439,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s04.png",
+      "kb": 3,
       "pip": false
     },
     {
       "from": 578,
       "dur": 81,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s02.mp4",
-      "kb": 2,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s05.png",
+      "kb": 4,
       "pip": false
     },
     {
       "from": 659,
       "dur": 120,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s03.mp4",
-      "kb": 3,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s06.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 779,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s07.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 956,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s08.png",
+      "kb": 1,
       "pip": false
     },
     {
       "from": 1019,
       "dur": 210,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s03.mp4",
-      "kb": 4,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s09.png",
+      "kb": 2,
       "pip": false
     },
     {
       "from": 1229,
       "dur": 81,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s04.mp4",
-      "kb": 5,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s10.png",
+      "kb": 3,
       "pip": false
     },
     {
       "from": 1310,
       "dur": 126,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s05.mp4",
-      "kb": 0,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s11.png",
+      "kb": 4,
       "pip": false
     },
     {
       "from": 1436,
       "dur": 124,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s06.mp4",
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s12.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1560,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s13.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1721,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s14.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 1830,
-      "dur": 212,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s06.mp4",
+      "from": 1835,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s15.png",
       "kb": 2,
       "pip": false
     },
     {
       "from": 2042,
       "dur": 175,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s07.mp4",
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s16.png",
       "kb": 3,
       "pip": false
     },
     {
       "from": 2217,
       "dur": 112,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s08.mp4",
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s17.png",
       "kb": 4,
       "pip": false
     },
     {
       "from": 2329,
       "dur": 160,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s09.mp4",
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s18.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 2699,
-      "dur": 231,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s09.mp4",
+      "from": 2489,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s19.png",
       "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2683,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s20.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2806,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s21.png",
+      "kb": 2,
       "pip": false
     },
     {
       "from": 2930,
       "dur": 98,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s10.mp4",
-      "kb": 1,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s22.png",
+      "kb": 3,
       "pip": false
     },
     {
       "from": 3028,
       "dur": 203,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s11.mp4",
-      "kb": 2,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s23.png",
+      "kb": 4,
       "pip": false
     },
     {
       "from": 3231,
       "dur": 104,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s12.mp4",
-      "kb": 3,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s24.png",
+      "kb": 5,
       "pip": false
     },
     {
       "from": 3477,
       "dur": 92,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s13.mp4",
-      "kb": 4,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s25.png",
+      "kb": 0,
       "pip": false
     },
     {
       "from": 3569,
       "dur": 156,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s14.mp4",
-      "kb": 5,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s26.png",
+      "kb": 1,
       "pip": false
     },
     {
-      "from": 3995,
-      "dur": 84,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s14.mp4",
-      "kb": 0,
+      "from": 3725,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s27.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3803,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s28.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3941,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s29.png",
+      "kb": 4,
       "pip": false
     },
     {
       "from": 4079,
       "dur": 123,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s15.mp4",
-      "kb": 1,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s30.png",
+      "kb": 5,
       "pip": false
     },
     {
       "from": 4202,
       "dur": 153,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s16.mp4",
-      "kb": 2,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s31.png",
+      "kb": 0,
       "pip": false
     },
     {
       "from": 4355,
       "dur": 201,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s17.mp4",
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s32.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4556,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s33.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4703,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s34.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 4766,
-      "dur": 93,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s17.mp4",
+      "from": 4782,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s35.png",
       "kb": 4,
       "pip": false
     },
     {
       "from": 4859,
       "dur": 93,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s18.mp4",
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s36.png",
       "kb": 5,
       "pip": false
     },
     {
       "from": 4952,
       "dur": 221,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s19.mp4",
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s37.png",
       "kb": 0,
       "pip": false
     },
     {
       "from": 5173,
       "dur": 63,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s20.mp4",
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s38.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 5236,
-      "dur": 112,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s21.mp4",
+      "from": 5353,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s39.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 5348,
-      "dur": 144,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s22.mp4",
+      "from": 5492,
+      "dur": 275,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s40.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 5732,
-      "dur": 236,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s22.mp4",
+      "from": 5767,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s42.png",
       "kb": 4,
       "pip": false
     },
     {
       "from": 5968,
       "dur": 226,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s23.mp4",
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s43.png",
       "kb": 5,
       "pip": false
     },
     {
       "from": 6194,
       "dur": 237,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s24.mp4",
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s44.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 6731,
-      "dur": 197,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s25.mp4",
+      "from": 6431,
+      "dur": 61,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s45.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 6928,
-      "dur": 88,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s26.mp4",
+      "from": 6492,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s46.png",
       "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6659,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s47.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6738,
+      "dur": 278,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s48.png",
+      "kb": 4,
       "pip": false
     },
     {
       "from": 7016,
       "dur": 185,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s27.mp4",
-      "kb": 3,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s49.png",
+      "kb": 5,
       "pip": false
     },
     {
-      "from": 7501,
-      "dur": 204,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s27.mp4",
-      "kb": 4,
+      "from": 7201,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s50.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7356,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s51.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7530,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s52.png",
+      "kb": 2,
       "pip": false
     },
     {
       "from": 7705,
       "dur": 142,
       "kind": "image",
-      "src": "img/mateo-liquido-que-sella-2_s28.png",
-      "kb": 5,
+      "src": "img/mateo-liquido-que-sella-2_s53.png",
+      "kb": 3,
       "pip": false
     },
     {
       "from": 7847,
       "dur": 176,
       "kind": "image",
-      "src": "img/mateo-liquido-que-sella-2_s29.png",
-      "kb": 0,
+      "src": "img/mateo-liquido-que-sella-2_s54.png",
+      "kb": 4,
       "pip": false
     },
     {
       "from": 8023,
       "dur": 213,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s30.mp4",
-      "kb": 1,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s55.png",
+      "kb": 5,
       "pip": false
     },
     {
       "from": 8236,
       "dur": 97,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s31.mp4",
-      "kb": 2,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s56.png",
+      "kb": 0,
       "pip": false
     },
     {
       "from": 8333,
       "dur": 200,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s32.mp4",
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s57.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8533,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s58.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8650,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s59.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 8856,
-      "dur": 175,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s33.mp4",
+      "from": 8980,
+      "dur": 51,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s59.png",
       "kb": 4,
       "pip": false
     },
     {
       "from": 9031,
       "dur": 94,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s34.mp4",
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s60.png",
       "kb": 5,
       "pip": false
     },
     {
       "from": 9125,
-      "dur": 215,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s35.mp4",
+      "dur": 345,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s61.png",
       "kb": 0,
       "pip": false
     },
     {
-      "from": 9340,
-      "dur": 130,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s36.mp4",
+      "from": 9470,
+      "dur": 304,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s62.png",
       "kb": 1,
       "pip": false
     },
     {
-      "from": 9470,
-      "dur": 204,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s37.mp4",
+      "from": 9774,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s63.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 9674,
-      "dur": 100,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s38.mp4",
+      "from": 9875,
+      "dur": 241,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s64.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 10014,
-      "dur": 228,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s38.mp4",
+      "from": 10116,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s65.png",
       "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 10242,
-      "dur": 66,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s38.mp4",
-      "kb": 5,
       "pip": false
     },
     {
       "from": 10308,
       "dur": 106,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s39.mp4",
-      "kb": 0,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s66.png",
+      "kb": 5,
       "pip": false
     },
     {
       "from": 10414,
       "dur": 189,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s40.mp4",
-      "kb": 1,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s67.png",
+      "kb": 0,
       "pip": false
     },
     {
       "from": 10603,
       "dur": 156,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s41.mp4",
-      "kb": 2,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s68.png",
+      "kb": 1,
       "pip": false
     },
     {
       "from": 10759,
       "dur": 178,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s42.mp4",
-      "kb": 3,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s69.png",
+      "kb": 2,
       "pip": false
     },
     {
       "from": 10937,
       "dur": 135,
       "kind": "image",
-      "src": "img/mateo-liquido-que-sella-2_s43.png",
-      "kb": 4,
+      "src": "img/mateo-liquido-que-sella-2_s70.png",
+      "kb": 3,
       "pip": false
     },
     {
       "from": 11072,
       "dur": 172,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s44.mp4",
-      "kb": 5,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s71.png",
+      "kb": 4,
       "pip": false
     },
     {
       "from": 11244,
       "dur": 181,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s45.mp4",
-      "kb": 0,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s72.png",
+      "kb": 5,
       "pip": false
     },
     {
       "from": 11425,
       "dur": 133,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s46.mp4",
-      "kb": 1,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s73.png",
+      "kb": 0,
       "pip": false
     },
     {
       "from": 11558,
       "dur": 158,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s47.mp4",
-      "kb": 2,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s74.png",
+      "kb": 1,
       "pip": false
     },
     {
       "from": 11716,
       "dur": 92,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s48.mp4",
-      "kb": 3,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s75.png",
+      "kb": 2,
       "pip": false
     },
     {
       "from": 11808,
-      "dur": 88,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s49.mp4",
+      "dur": 227,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s76.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12035,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s77.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 11896,
-      "dur": 139,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s50.mp4",
+      "from": 12208,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s78.png",
       "kb": 5,
       "pip": false
     },
     {
-      "from": 12245,
-      "dur": 221,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s50.mp4",
+      "from": 12360,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s79.png",
       "kb": 0,
       "pip": false
     },
@@ -521,224 +655,234 @@
       "from": 12466,
       "dur": 255,
       "kind": "image",
-      "src": "img/mateo-liquido-que-sella-2_s52.png",
+      "src": "img/mateo-liquido-que-sella-2_s81.png",
       "kb": 1,
       "pip": false
     },
     {
       "from": 12721,
       "dur": 220,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s53.mp4",
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s82.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 13121,
-      "dur": 363,
+      "from": 12941,
+      "dur": 181,
       "kind": "image",
-      "src": "img/mateo-liquido-que-sella-2_s51.png",
+      "src": "img/mateo-liquido-que-sella-2_s83.png",
       "kb": 3,
       "pip": false
     },
     {
-      "from": 13755,
-      "dur": 80,
+      "from": 13122,
+      "dur": 181,
       "kind": "image",
-      "src": "img/mateo-liquido-que-sella-2_s54.png",
+      "src": "img/mateo-liquido-que-sella-2_s84.png",
       "kb": 4,
       "pip": false
     },
     {
-      "from": 14105,
-      "dur": 97,
+      "from": 13303,
+      "dur": 288,
       "kind": "image",
-      "src": "img/mateo-liquido-que-sella-2_s54.png",
+      "src": "img/mateo-liquido-que-sella-2_s85.png",
       "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13591,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s86.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13747,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s87.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13835,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s88.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14022,
+      "dur": 58,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s89.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14080,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s90.png",
+      "kb": 4,
       "pip": false
     },
     {
       "from": 14202,
       "dur": 115,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s55.mp4",
-      "kb": 0,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s91.png",
+      "kb": 5,
       "pip": false
     },
     {
       "from": 14317,
       "dur": 203,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s56.mp4",
-      "kb": 1,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s92.png",
+      "kb": 0,
       "pip": false
     },
     {
       "from": 14520,
       "dur": 148,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s57.mp4",
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s93.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14668,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s94.png",
       "kb": 2,
       "pip": false
     },
     {
-      "from": 14878,
-      "dur": 174,
-      "kind": "video",
-      "src": "broll/mateo-liquido-que-sella-2_v_s57.mp4",
+      "from": 14758,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s95.png",
       "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14846,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s96.png",
+      "kb": 4,
       "pip": false
     },
     {
       "from": 15052,
       "dur": 224,
       "kind": "image",
-      "src": "img/mateo-liquido-que-sella-2_s58.png",
-      "kb": 4,
+      "src": "img/mateo-liquido-que-sella-2_s97.png",
+      "kb": 5,
       "pip": false
     },
     {
       "from": 15276,
       "dur": 208,
       "kind": "image",
-      "src": "img/mateo-liquido-que-sella-2_s59.png",
-      "kb": 5,
+      "src": "img/mateo-liquido-que-sella-2_s98.png",
+      "kb": 0,
       "pip": false
     },
     {
-      "from": 15694,
-      "dur": 52,
+      "from": 15484,
+      "dur": 124,
       "kind": "image",
-      "src": "img/mateo-liquido-que-sella-2_s59.png",
-      "kb": 0,
+      "src": "img/mateo-liquido-que-sella-2_s99.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15608,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s100.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15746,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s101.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16076,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s101.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16406,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/mateo-liquido-que-sella-2_s101.png",
+      "kb": 5,
       "pip": false
     }
   ],
   "overlays": [
     {
       "from": 2,
-      "dur": 150,
+      "dur": 105,
       "comp": "SectionTitle",
       "props": {
-        "theme": "earth",
+        "theme": "taller",
         "eyebrow": "EL PROBLEMA",
-        "title": "Por qué la mancha siempre vuelve"
-      }
-    },
-    {
-      "from": 439,
-      "dur": 135,
-      "comp": "KeywordPop",
-      "props": {
-        "theme": "earth",
-        "word": "FRÍO Y HÚMEDO",
-        "sub": "la señal del borde",
-        "pos": "top"
+        "title": "La grieta que vuelve a mojarse"
       }
     },
     {
       "from": 1310,
-      "dur": 150,
+      "dur": 105,
       "comp": "SectionTitle",
       "props": {
-        "theme": "earth",
+        "theme": "taller",
         "eyebrow": "LA SOLUCIÓN",
-        "title": "Silicato de sodio: el líquido que sella"
-      }
-    },
-    {
-      "from": 1436,
-      "dur": 135,
-      "comp": "KeywordPop",
-      "props": {
-        "theme": "earth",
-        "word": "VIDRIO LÍQUIDO",
-        "sub": "otro nombre del silicato",
-        "pos": "bottom"
-      }
-    },
-    {
-      "from": 3335,
-      "dur": 150,
-      "comp": "LowerThird",
-      "props": {
-        "theme": "earth",
-        "accentText": "MATEO ARREGLA",
-        "title": "Mateo",
-        "sub": "Arreglos reales de humedad, sin vueltas"
+        "title": "Silicato de sodio: vidrio líquido"
       }
     },
     {
       "from": 3569,
-      "dur": 150,
+      "dur": 105,
       "comp": "SectionTitle",
       "props": {
-        "theme": "earth",
+        "theme": "taller",
         "eyebrow": "DIAGNÓSTICO",
-        "title": "¿Es tu caso o es otra cosa?"
+        "title": "¿Es para silicato o no?"
       }
     },
     {
       "from": 4355,
-      "dur": 165,
-      "comp": "Callout",
-      "props": {
-        "theme": "earth",
-        "title": "CUIDADO",
-        "sub": "Usa guantes, el silicato es alcalino e irrita la piel",
-        "tone": "warn"
-      }
-    },
-    {
-      "from": 4782,
-      "dur": 150,
+      "dur": 105,
       "comp": "SectionTitle",
       "props": {
-        "theme": "earth",
-        "eyebrow": "PASO A PASO",
-        "title": "Cómo aplicar el silicato correctamente"
+        "theme": "taller",
+        "eyebrow": "MATERIALES Y PASOS",
+        "title": "Lo que necesitas y cómo aplicar"
       }
     },
     {
-      "from": 5767,
-      "dur": 135,
-      "comp": "KeywordPop",
-      "props": {
-        "theme": "earth",
-        "word": "REACCIÓN QUÍMICA",
-        "sub": "forma un cristal en el poro",
-        "pos": "top"
-      }
-    },
-    {
-      "from": 6194,
-      "dur": 135,
-      "comp": "StatChip",
-      "props": {
-        "theme": "earth",
-        "value": 5,
-        "suffix": " cm",
-        "label": "alrededor de la grieta",
-        "corner": "br"
-      }
-    },
-    {
-      "from": 7016,
-      "dur": 135,
-      "comp": "KeywordPop",
-      "props": {
-        "theme": "earth",
-        "word": "24 HORAS",
-        "sub": "antes de pintar encima",
-        "pos": "bottom"
-      }
-    },
-    {
-      "from": 8848,
+      "from": 9031,
       "dur": 210,
       "comp": "QRTag",
       "props": {
-        "theme": "earth",
+        "theme": "taller",
         "corner": "bl",
         "src": "img/qr_mateo.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
@@ -748,66 +892,22 @@
     },
     {
       "from": 9674,
-      "dur": 150,
+      "dur": 105,
       "comp": "SectionTitle",
       "props": {
-        "theme": "earth",
-        "eyebrow": "LOS 3 ERRORES",
-        "title": "Por qué falla la mayoría"
-      }
-    },
-    {
-      "from": 10308,
-      "dur": 135,
-      "comp": "SelloError",
-      "props": {
-        "theme": "earth",
-        "label": "ERROR",
-        "num": 2,
-        "text": "Usarlo en grieta que se mueve"
-      }
-    },
-    {
-      "from": 10414,
-      "dur": 135,
-      "comp": "KeywordPop",
-      "props": {
-        "theme": "earth",
-        "word": "GRIETA MÓVIL",
-        "sub": "necesita sellador flexible",
-        "pos": "top"
-      }
-    },
-    {
-      "from": 11244,
-      "dur": 135,
-      "comp": "SelloError",
-      "props": {
-        "theme": "earth",
-        "label": "ERROR",
-        "num": 3,
-        "text": "Aplicarlo con lluvia o filtración"
-      }
-    },
-    {
-      "from": 11425,
-      "dur": 165,
-      "comp": "Callout",
-      "props": {
-        "theme": "earth",
-        "title": "ATENCIÓN",
-        "sub": "Si hay filtración activa, corta la entrada de agua antes de sellar",
-        "tone": "warn"
+        "theme": "taller",
+        "eyebrow": "ERRORES",
+        "title": "Los 3 errores que arruinan el sello"
       }
     },
     {
       "from": 12360,
-      "dur": 150,
+      "dur": 105,
       "comp": "SectionTitle",
       "props": {
-        "theme": "earth",
+        "theme": "taller",
         "eyebrow": "LA PRUEBA",
-        "title": "Cómo saber si funcionó de verdad"
+        "title": "Cómo saber si funcionó"
       }
     },
     {
@@ -815,7 +915,7 @@
       "dur": 210,
       "comp": "QRTag",
       "props": {
-        "theme": "earth",
+        "theme": "taller",
         "corner": "bl",
         "src": "img/qr_mateo.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
@@ -824,26 +924,13 @@
       }
     },
     {
-      "from": 14202,
-      "dur": 135,
-      "comp": "KeywordPop",
+      "from": 14758,
+      "dur": 105,
+      "comp": "SectionTitle",
       "props": {
-        "theme": "earth",
-        "word": "HASTA 4 AÑOS",
-        "sub": "de sello efectivo",
-        "pos": "bottom"
-      }
-    },
-    {
-      "from": 14317,
-      "dur": 135,
-      "comp": "StatChip",
-      "props": {
-        "theme": "earth",
-        "value": 4,
-        "suffix": " años",
-        "label": "máximo de sello",
-        "corner": "tr"
+        "theme": "taller",
+        "eyebrow": "CIERRE",
+        "title": "El error del orden, no del material"
       }
     },
     {
@@ -851,7 +938,7 @@
       "dur": 210,
       "comp": "QRTag",
       "props": {
-        "theme": "earth",
+        "theme": "taller",
         "corner": "bl",
         "src": "img/qr_mateo.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
@@ -861,13 +948,15 @@
     },
     {
       "from": 15746,
-      "dur": 165,
-      "comp": "Callout",
+      "dur": 210,
+      "comp": "QRTag",
       "props": {
-        "theme": "earth",
-        "title": "GARANTÍA",
-        "sub": "7 días para probarlo, sin riesgo",
-        "tone": "good"
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
       }
     },
     {
@@ -875,7 +964,7 @@
       "dur": 210,
       "comp": "QRTag",
       "props": {
-        "theme": "earth",
+        "theme": "taller",
         "corner": "bl",
         "src": "img/qr_mateo.png",
         "eyebrow": "ESCANEA EL CÓDIGO",
@@ -884,239 +973,5 @@
       }
     }
   ],
-  "components": [
-    {
-      "from": 148,
-      "dur": 210,
-      "comp": "PhraseCard",
-      "props": {
-        "theme": "earth",
-        "eyebrow": "EL PROBLEMA REAL",
-        "phrase": "El resanado tapa el hueco, no sella el microporo",
-        "accent": "no sella el microporo",
-        "src": "img/mateo-liquido-que-sella-2_s01.png"
-      }
-    },
-    {
-      "from": 779,
-      "dur": 240,
-      "comp": "Compare",
-      "props": {
-        "theme": "earth",
-        "title": "¿Por qué vuelve la mancha?",
-        "left": {
-          "label": "Pintura sola",
-          "sub": "Tapa la superficie, no el poro"
-        },
-        "right": {
-          "label": "Silicato de sodio",
-          "sub": "Sella el poro desde adentro"
-        }
-      }
-    },
-    {
-      "from": 1560,
-      "dur": 270,
-      "comp": "TicketPrecio",
-      "props": {
-        "theme": "earth",
-        "title": "LO QUE REALMENTE AHORRAS",
-        "rows": [
-          {
-            "label": "Repintar sin sellar",
-            "price": "Vuelve",
-            "bad": true
-          },
-          {
-            "label": "Silicato de sodio",
-            "price": "$2 a $3"
-          }
-        ],
-        "total": {
-          "label": "Resultado",
-          "price": "4 años"
-        },
-        "stamp": "AHORRO"
-      }
-    },
-    {
-      "from": 2489,
-      "dur": 210,
-      "comp": "PlanoMedidas",
-      "props": {
-        "theme": "earth",
-        "title": "LÍMITE PARA USAR SILICATO",
-        "w": 3,
-        "h": 100,
-        "unit": "mm",
-        "label": "ANCHO MÁXIMO",
-        "note": "Más ancho necesita otro sellador"
-      }
-    },
-    {
-      "from": 3725,
-      "dur": 270,
-      "comp": "Checklist",
-      "props": {
-        "theme": "earth",
-        "title": "¿Es tu caso?",
-        "items": [
-          "La grieta es fina, como una línea de lápiz",
-          "Está seca al tacto aunque haya mancha",
-          "No cambia de ancho con el clima"
-        ]
-      }
-    },
-    {
-      "from": 4556,
-      "dur": 210,
-      "comp": "PlanoMedidas",
-      "props": {
-        "theme": "earth",
-        "title": "GRIETA DE MÁS DE 1 MM",
-        "w": 1,
-        "h": 50,
-        "unit": "mm",
-        "label": "NECESITA CEMENTO BLANCO",
-        "note": "Se mezcla con el silicato antes de sellar"
-      }
-    },
-    {
-      "from": 5492,
-      "dur": 240,
-      "comp": "MythVsTruth",
-      "props": {
-        "theme": "earth",
-        "myth": "Hay que empapar la pared para que selle mejor",
-        "truth": "Solo húmeda, sin chorrear: si está seca el silicato no penetra"
-      }
-    },
-    {
-      "from": 6431,
-      "dur": 300,
-      "comp": "Steps",
-      "props": {
-        "theme": "earth",
-        "eyebrow": "APLICACIÓN",
-        "title": "Cómo poner el silicato",
-        "steps": [
-          {
-            "title": "Mano 1",
-            "sub": "Brocha directa sobre la grieta, sin diluir"
-          },
-          {
-            "title": "Espera 10 min",
-            "sub": "Deja que se absorba antes de seguir"
-          },
-          {
-            "title": "Mano 2 o 3",
-            "sub": "Repite hasta ver el cambio de color"
-          }
-        ]
-      }
-    },
-    {
-      "from": 7201,
-      "dur": 300,
-      "comp": "Timeline",
-      "props": {
-        "theme": "earth",
-        "title": "Tiempos que no te puedes saltar",
-        "steps": [
-          {
-            "when": "Mano 1",
-            "text": "Se aplica pura, sin diluir"
-          },
-          {
-            "when": "+10 min",
-            "text": "Segunda mano sobre la primera"
-          },
-          {
-            "when": "+24 h",
-            "text": "Recién ahí pintar o resanar encima"
-          }
-        ]
-      }
-    },
-    {
-      "from": 9774,
-      "dur": 240,
-      "comp": "Compare",
-      "props": {
-        "theme": "earth",
-        "title": "Error #1: la superficie equivocada",
-        "left": {
-          "label": "Aplicar sobre pintura vieja",
-          "sub": "El líquido no atraviesa esa capa"
-        },
-        "right": {
-          "label": "Rascar hasta el material crudo",
-          "sub": "Así el silicato penetra bien"
-        }
-      }
-    },
-    {
-      "from": 12035,
-      "dur": 210,
-      "comp": "NivelBurbuja",
-      "props": {
-        "theme": "earth",
-        "title": "Revisa la pendiente de tu azotea",
-        "verdict": "SIN PENDIENTE",
-        "sub": "El agua se queda estancada y vuelve a filtrar"
-      }
-    },
-    {
-      "from": 12941,
-      "dur": 180,
-      "comp": "BigNumberCard",
-      "props": {
-        "theme": "earth",
-        "eyebrow": "LA PRUEBA",
-        "value": 48,
-        "prefix": "",
-        "suffix": " horas",
-        "label": "de espera antes de probar con agua si el sello cristalizó"
-      }
-    },
-    {
-      "from": 13835,
-      "dur": 270,
-      "comp": "Checklist",
-      "props": {
-        "theme": "earth",
-        "title": "Las Calculadoras del Maestro",
-        "items": [
-          "Cuánto silicato según los metros de grieta",
-          "Cuántos baldes de membrana para la azotea completa",
-          "La de pintura, gratis para probar en la página"
-        ]
-      }
-    },
-    {
-      "from": 14668,
-      "dur": 210,
-      "comp": "Medidor",
-      "props": {
-        "theme": "earth",
-        "eyebrow": "DURACIÓN",
-        "value": 4,
-        "max": 10,
-        "suffix": " años",
-        "label": "de sello efectivo en una grieta fina sin movimiento"
-      }
-    },
-    {
-      "from": 15484,
-      "dur": 210,
-      "comp": "PhraseCard",
-      "props": {
-        "theme": "earth",
-        "eyebrow": "EL VERDADERO ERROR",
-        "phrase": "No es el material que usas, es el orden en que lo aplicas",
-        "accent": "es el orden",
-        "src": "img/mateo-liquido-que-sella-2_s59.png"
-      }
-    }
-  ]
+  "components": []
 }
