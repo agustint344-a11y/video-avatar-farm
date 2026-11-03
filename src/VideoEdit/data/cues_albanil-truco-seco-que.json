@@ -1,0 +1,923 @@
+{
+  "slug": "albanil-truco-seco-que",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 14978,
+  "audioSrc": "albanil-truco-seco-que.mp3",
+  "avatarSrc": "albanil-truco-seco-que_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1303,
+      "dur": 179,
+      "clip": 0
+    },
+    {
+      "from": 2602,
+      "dur": 132,
+      "clip": 179
+    },
+    {
+      "from": 7380,
+      "dur": 289,
+      "clip": 311
+    },
+    {
+      "from": 7782,
+      "dur": 186,
+      "clip": 600
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 154,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 228,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 322,
+      "dur": 225,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s04.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 547,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s05.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 684,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s06.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 845,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s07.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 974,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s08.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 1053,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s09.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1207,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s10.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1482,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s11.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1544,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s12.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1671,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s13.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1831,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s14.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2023,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s15.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2138,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s16.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2234,
+      "dur": 164,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s17.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2398,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s18.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2496,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s19.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2734,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s20.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2892,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s21.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2976,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s22.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3127,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s23.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3329,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s24.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3489,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s25.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3576,
+      "dur": 91,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s26.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3667,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s27.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3883,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s29.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4006,
+      "dur": 223,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s30.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4229,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s31.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4464,
+      "dur": 233,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s32.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4697,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s33.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4836,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s34.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4932,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s35.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5069,
+      "dur": 201,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s37.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5270,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s38.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5417,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s39.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5532,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5645,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s41.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5828,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s42.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6047,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s43.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6240,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s44.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6319,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s45.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6511,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s46.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6642,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s47.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6848,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s48.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7040,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s49.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7174,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s50.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7669,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s51.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7968,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s52.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8150,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s53.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8323,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s54.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8465,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s55.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8584,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s56.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8700,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s57.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8774,
+      "dur": 280,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s58.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9054,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s60.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9209,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s61.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9309,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9478,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s63.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9626,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s64.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9749,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s65.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9910,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s66.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10046,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s67.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10217,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s68.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10428,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s69.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10704,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s70.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10811,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s71.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11141,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s71.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11218,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s72.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11306,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s73.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11465,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s74.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11609,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s75.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11755,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s76.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11878,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s77.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12084,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s78.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12252,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s79.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12358,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s80.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12477,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s81.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12624,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s82.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12821,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s83.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12929,
+      "dur": 67,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s84.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12996,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s85.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13090,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s86.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13190,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s87.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13414,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s88.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13744,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s88.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13813,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s89.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13910,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s90.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13992,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s91.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14150,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s92.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14294,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s93.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14498,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s94.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14828,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/albanil-truco-seco-que_s94.png",
+      "kb": 3,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 4,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "EL PROBLEMA",
+        "title": "La pared fría que nunca se seca"
+      }
+    },
+    {
+      "from": 1474,
+      "dur": 1650,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "LA CAUSA",
+        "title": "De dónde sale esa agua"
+      }
+    },
+    {
+      "from": 2602,
+      "dur": 2880,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "LA RECETA",
+        "title": "El truco seco paso a paso"
+      }
+    },
+    {
+      "from": 6240,
+      "dur": 6315,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "EL LÍMITE",
+        "title": "Cuántos metros cubre el truco"
+      }
+    },
+    {
+      "from": 7574,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 7661,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 7782,
+      "dur": 7680,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "LOS ERRORES",
+        "title": "Por qué a veces no funciona"
+      }
+    },
+    {
+      "from": 11465,
+      "dur": 11250,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "LA PRUEBA",
+        "title": "Cómo saber si está funcionando"
+      }
+    },
+    {
+      "from": 12929,
+      "dur": 12615,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "LA REVELACIÓN",
+        "title": "El error que te prometí"
+      }
+    },
+    {
+      "from": 14150,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 14498,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 14873,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": []
+}
