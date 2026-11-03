@@ -1,0 +1,906 @@
+{
+  "slug": "plomero-plomero-cobra-150",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 14983,
+  "audioSrc": "plomero-plomero-cobra-150.mp3",
+  "avatarSrc": "plomero-plomero-cobra-150_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 578,
+      "dur": 187,
+      "clip": 0
+    },
+    {
+      "from": 2048,
+      "dur": 134,
+      "clip": 187
+    },
+    {
+      "from": 5686,
+      "dur": 135,
+      "clip": 321
+    },
+    {
+      "from": 6161,
+      "dur": 190,
+      "clip": 456
+    },
+    {
+      "from": 8297,
+      "dur": 105,
+      "clip": 646
+    },
+    {
+      "from": 10290,
+      "dur": 100,
+      "clip": 751
+    },
+    {
+      "from": 12472,
+      "dur": 135,
+      "clip": 851
+    },
+    {
+      "from": 13709,
+      "dur": 359,
+      "clip": 986
+    },
+    {
+      "from": 14476,
+      "dur": 495,
+      "clip": 1345
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 137,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 253,
+      "dur": 265,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 518,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s05.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 765,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s07.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 872,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s08.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1008,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s09.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1086,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s10.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 1158,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s11.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1302,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s12.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1445,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s13.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1562,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s14.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1718,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s15.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1860,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s16.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 1978,
+      "dur": 70,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s17.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2182,
+      "dur": 80,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s18.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2262,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s19.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2335,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s20.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2549,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s21.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2729,
+      "dur": 59,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s22.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2788,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s23.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2911,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s24.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3145,
+      "dur": 268,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s26.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3413,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s27.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3478,
+      "dur": 211,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s28.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3689,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s29.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3877,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s30.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4087,
+      "dur": 149,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s31.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4236,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s32.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4347,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s33.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4561,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s34.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4716,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s35.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4925,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s36.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5096,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s37.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5201,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s38.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5440,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s39.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5821,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s40.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5967,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s41.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6060,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s42.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6351,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s43.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6533,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s44.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6695,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s45.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6770,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s46.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6904,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s47.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7084,
+      "dur": 258,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s48.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7342,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s49.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7530,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s50.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7652,
+      "dur": 134,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s51.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7786,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s52.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7932,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s53.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8101,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s54.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8402,
+      "dur": 64,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s55.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8466,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s56.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8712,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s57.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8906,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s58.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8982,
+      "dur": 238,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s59.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9220,
+      "dur": 52,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s60.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9272,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s61.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9424,
+      "dur": 238,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9662,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s63.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9829,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s64.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9991,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s65.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10171,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s66.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10390,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s67.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10514,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s68.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10607,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s69.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10768,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s70.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10891,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s71.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11004,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s72.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11134,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s73.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11240,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s74.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11392,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s75.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11486,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s76.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11611,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s77.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11766,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s78.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11861,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s79.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11942,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s80.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12138,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s81.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12266,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s82.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12607,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s83.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12692,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s84.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12799,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s85.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12928,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s86.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13106,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s87.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13228,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s88.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13358,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s89.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13544,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s90.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14068,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s91.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14248,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s92.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14374,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/plomero-plomero-cobra-150_s93.png",
+      "kb": 5,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2174,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "¿Válvula o flapper?"
+      }
+    },
+    {
+      "from": 3098,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "PASO A PASO",
+        "title": "El cambio en 15 minutos"
+      }
+    },
+    {
+      "from": 6161,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 7258,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "OJO",
+        "title": "3 errores que lo arruinan"
+      }
+    },
+    {
+      "from": 8394,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "LA PRUEBA",
+        "title": "Cómo saber si quedó bien"
+      }
+    },
+    {
+      "from": 9220,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "MITOS",
+        "title": "Vinagre y agua hirviendo"
+      }
+    },
+    {
+      "from": 10891,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "COSTOS",
+        "title": "$9 contra $150"
+      }
+    },
+    {
+      "from": 13228,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 14248,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 14476,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 14742,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_plomero.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo el Plomero",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": []
+}
