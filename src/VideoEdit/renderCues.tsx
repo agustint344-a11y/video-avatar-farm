@@ -71,6 +71,10 @@ export const BrollBeatView: React.FC<{ beat: BrollBeat }> = ({ beat }) => {
     { s0: 1.04, s1: 1.01, x0: 0, x1: 0, y0: -5, y1: 4 },
     { s0: 1.0, s1: 1.03, x0: -6, x1: 6, y0: 0, y1: 0 },
     { s0: 1.02, s1: 1.05, x0: 0, x1: 0, y0: 4, y1: -3 },
+    // 6-8 (2026-11-03, refs Rogelio/Elias Yoder): zoom-in lento y parejo de toda la toma, como en los videos de referencia
+    { s0: 1.0, s1: 1.1, x0: 0, x1: 0, y0: 0, y1: 0 },
+    { s0: 1.0, s1: 1.1, x0: 0, x1: -10, y0: 0, y1: -4 },
+    { s0: 1.0, s1: 1.1, x0: 0, x1: 10, y0: 0, y1: 4 },
   ];
   const m = kb >= 0 ? KB[kb % KB.length] : { s0: 1.06, s1: 1.14, x0: 0, x1: -22, y0: 0, y1: 0 };
   const scale = m.s0 + p * (m.s1 - m.s0);
