@@ -1,0 +1,618 @@
+{
+  "slug": "mateo-escudo-techo",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 8940,
+  "audioSrc": "mateo-escudo-techo.mp3",
+  "avatarSrc": "mateo-escudo-techo_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1185,
+      "dur": 653,
+      "clip": 0
+    },
+    {
+      "from": 2595,
+      "dur": 338,
+      "clip": 653
+    },
+    {
+      "from": 3285,
+      "dur": 113,
+      "clip": 991,
+      "layout": "cine",
+      "side": "img/mateo-escudo-techo_s26.png",
+      "text": "Los albañiles le dicen el cáncer del concreto.",
+      "kicker": "Lo que nadie te dice",
+      "accent": "cáncer"
+    },
+    {
+      "from": 3510,
+      "dur": 608,
+      "clip": 1104
+    },
+    {
+      "from": 5220,
+      "dur": 70,
+      "clip": 1712,
+      "layout": "cine",
+      "side": "img/mateo-escudo-techo_s43.png",
+      "text": "Está hecho para durar poco. Así compras otro.",
+      "kicker": "La verdad del balde",
+      "accent": "durar poco"
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 62,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 180,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 420,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s04.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 525,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s05.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 645,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s06.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 767,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s07.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 915,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s08.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 1065,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s09.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1838,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s16.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1950,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s17.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2355,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s20.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2520,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s21.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2933,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s24.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3137,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s25.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3398,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s28.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4118,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s33.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4500,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s35.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4620,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s36.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4742,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s37.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4875,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s38.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4965,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s39.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5040,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s40.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5290,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s43.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5490,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s44.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5584,
+      "dur": 56,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s45.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5880,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s48.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5970,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s49.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6300,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s47.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6630,
+      "dur": 345,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s50.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6975,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s51.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7050,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s52.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7380,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s56.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7500,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s57.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7800,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s59.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8040,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s60.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8430,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s63.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8760,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-escudo-techo_s62.png",
+      "kb": 1,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 7,
+      "dur": 90,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "INTRO",
+        "title": "El líquido de 2 dólares"
+      }
+    },
+    {
+      "from": 1830,
+      "dur": 90,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "EL PROBLEMA",
+        "title": "Por qué tu techo se moja"
+      }
+    },
+    {
+      "from": 2666,
+      "dur": 180,
+      "comp": "DatoLateral",
+      "props": {
+        "theme": "taller",
+        "kicker": "Dato",
+        "valor": "×7",
+        "texto": "más lugar ocupa el óxido que el hierro sano",
+        "icono": "varilla",
+        "lado": "der"
+      }
+    },
+    {
+      "from": 4110,
+      "dur": 90,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "EL ERROR COMÚN",
+        "title": "Por qué se pela el impermeabilizante"
+      }
+    },
+    {
+      "from": 4965,
+      "dur": 90,
+      "comp": "SelloError",
+      "props": {
+        "theme": "taller",
+        "label": "SE PELA",
+        "text": "al 3.er año"
+      }
+    },
+    {
+      "from": 5490,
+      "dur": 90,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "LA SOLUCIÓN",
+        "title": "El escudo de cristal"
+      }
+    },
+    {
+      "from": 6165,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 6444,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 6870,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 6975,
+      "dur": 90,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "EL COSTO REAL",
+        "title": "Cuánto cuesta de verdad"
+      }
+    },
+    {
+      "from": 7995,
+      "dur": 90,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "CÓMO FUNCIONA",
+        "title": "La reacción explicada"
+      }
+    },
+    {
+      "from": 8640,
+      "dur": 90,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "LA PRUEBA",
+        "title": "Compruébalo en tu techo"
+      }
+    },
+    {
+      "from": 8640,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 8775,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 2085,
+      "dur": 270,
+      "comp": "CorteLosa",
+      "props": {
+        "theme": "taller",
+        "modo": "esponja",
+        "title": "Tu losa por dentro: una esponja"
+      }
+    },
+    {
+      "from": 4290,
+      "dur": 210,
+      "comp": "Presupuesto",
+      "props": {
+        "theme": "taller",
+        "titulo": "IMPERMEABILIZANTE DE MARCA",
+        "items": [
+          {
+            "label": "Balde 20 L",
+            "price": "US$ 45"
+          },
+          {
+            "label": "Rodillo y pincel",
+            "price": "US$ 8"
+          },
+          {
+            "label": "Repintar cada 2-3 años",
+            "price": "US$ 45"
+          }
+        ],
+        "total": "US$ 98",
+        "nota": "y vuelve a pelarse",
+        "src": "img/mateo-escudo-techo_s34.png"
+      }
+    },
+    {
+      "from": 5640,
+      "dur": 240,
+      "comp": "CorteLosa",
+      "props": {
+        "theme": "taller",
+        "modo": "escudo",
+        "title": "El escudo de cristal: sella desde adentro"
+      }
+    },
+    {
+      "from": 7110,
+      "dur": 270,
+      "comp": "AhorroBarras",
+      "props": {
+        "theme": "taller",
+        "title": "Lo que ahorras",
+        "caro": {
+          "label": "Balde de marca",
+          "value": 40,
+          "tag": "se pela"
+        },
+        "barato": {
+          "label": "Escudo de cristal",
+          "value": 2,
+          "tag": "dura"
+        },
+        "moneda": "US$",
+        "nota": "para la misma azotea"
+      }
+    },
+    {
+      "from": 7560,
+      "dur": 240,
+      "comp": "PreguntaFicha",
+      "props": {
+        "theme": "taller",
+        "src": "img/mateo-escudo-techo_s58.png",
+        "kicker": "En la ferretería",
+        "pregunta": "¿Cómo lo pido?",
+        "respuesta": "Silicato de sodio, vidrio líquido o silicato para cemento.",
+        "n": 1
+      }
+    },
+    {
+      "from": 8220,
+      "dur": 210,
+      "comp": "Steps",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "Cómo funciona",
+        "title": "La reacción, en 3 pasos",
+        "steps": [
+          {
+            "title": "Silicato + cal del cemento",
+            "sub": "se encuentran adentro del poro"
+          },
+          {
+            "title": "Forman un gel",
+            "sub": "que se endurece"
+          },
+          {
+            "title": "Poros tapados",
+            "sub": "el agua no pasa, el concreto respira"
+          }
+        ]
+      }
+    }
+  ]
+}

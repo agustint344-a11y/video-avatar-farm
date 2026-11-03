@@ -123,36 +123,73 @@ export const DatoLateral: React.FC<{ durationInFrames: number; kicker?: string; 
   </AbsoluteFill>;
 };
 
-/* ───────── CorteLosa: corte de la losa. modo "esponja" (el agua entra y oxida el hierro) | "escudo" (poros sellados, el agua perla) ───────── */
+/* ───────── CorteLosa: corte de la losa vista de costado (techo arriba, cielorraso abajo).
+   modo "esponja": la lluvia entra por los poros, el hierro se oxida y se hincha, aparece la grieta y la mancha en el cielorraso.
+   modo "escudo": los poros se llenan de gel de vidrio, el agua queda arriba en gotitas y el cielorraso queda seco. ───────── */
 export const CorteLosa: React.FC<{ durationInFrames: number; modo?: "esponja" | "escudo"; title?: string; etiquetas?: string[] }> = ({ durationInFrames, modo = "esponja", title, etiquetas }) => {
   const op = useFade(durationInFrames); const f = useCurrentFrame();
-  const W = 1600, top = 380, H = 330, x0 = 160;
+  const esp = modo === "esponja";
+  const x0 = 120, W = 1680, top = 330, H = 470;
   const t = f / 30;
-  const rust = modo === "esponja" ? interpolate(f, [70, 200], [0, 1], clamp) : 0;
-  const seal = modo === "escudo" ? interpolate(f, [15, 90], [0, 1], clamp) : 0;
-  // poros deterministas
-  const pores = Array.from({ length: 46 }).map((_, i) => { const r = Math.sin(i * 12.9898) * 43758.5453; const a = r - Math.floor(r); const r2 = Math.sin(i * 78.233) * 12345.678; const b = r2 - Math.floor(r2); return { x: x0 + 30 + a * (W - 60), y: top + 20 + b * (H - 120), w: 6 + (i % 4) * 3, h: 40 + (i % 5) * 18 }; });
-  const drops = Array.from({ length: 16 }).map((_, i) => ({ x: x0 + 60 + i * 95, ph: (i * 0.37) % 1 }));
-  const crack = modo === "esponja" ? interpolate(f, [150, 230], [0, 1], clamp) : 0;
-  return <AbsoluteFill style={{ background: "linear-gradient(#DCEAF3, #F4F7F8 45%)", opacity: op, fontFamily: SANS }}>
-    {title && <div style={{ position: "absolute", top: 70, width: "100%", textAlign: "center", font: `700 58px ${SANS}`, color: "#1F2A30" }}>{title}</div>}
-    <svg width="1920" height="1080" style={{ position: "absolute", inset: 0 }}>
+  const water = esp ? interpolate(f, [10, 110], [0, 1], clamp) : 0;
+  const rust = esp ? interpolate(f, [80, 190], [0, 1], clamp) : 0;
+  const crack = esp ? interpolate(f, [150, 230], [0, 1], clamp) : 0;
+  const seal = esp ? 0 : interpolate(f, [10, 100], [0, 1], clamp);
+  const grow = interpolate(f, [0, 18], [0.92, 1], clamp);
+  // capilares deterministas: bajan desde la superficie, con quiebres (no son rayitas sueltas)
+  const caps = Array.from({ length: 26 }).map((_, i) => {
+    const rnd = (k: number) => { const r = Math.sin(i * 12.9898 + k * 78.233) * 43758.5453; return r - Math.floor(r); };
+    const x = x0 + 40 + (i + rnd(1) * 0.8) * ((W - 80) / 26);
+    const len = 170 + rnd(2) * 200;
+    const pts: [number, number][] = [[x, top]];
+    for (let k = 1; k <= 5; k++) pts.push([x + (rnd(k + 3) - 0.5) * 34, top + (len * k) / 5]);
+    return { pts, len, w: 7 + Math.round(rnd(9) * 5) };
+  });
+  const bars = Array.from({ length: 7 }).map((_, i) => ({ cx: x0 + 140 + i * 233, cy: top + H - 95 }));
+  const drops = Array.from({ length: 18 }).map((_, i) => ({ x: x0 + 50 + i * 92, ph: (i * 0.37) % 1 }));
+  const defs = esp ? ["Poros: el agua entra", "El hierro se oxida y se hincha ×7", "Mancha en el cielorraso"] : ["Gel de vidrio adentro de los poros", "El agua queda arriba", "Cielorraso seco"];
+  const labels = etiquetas && etiquetas.length ? etiquetas : defs;
+  const labelPos = [{ left: 150, top: top - 150 }, esp ? { left: 1080, top: top + H - 300 } : { left: 1250, top: top - 150 }, { left: 1120, top: top + H + 70 }];
+  const labelAt = [40, 120, 200].map((d) => (esp ? d : d * 0.6));
+  return <AbsoluteFill style={{ background: "linear-gradient(#D7E8F3, #EEF3F6 30%, #F7F7F5)", opacity: op, fontFamily: SANS }}>
+    {title && <div style={{ position: "absolute", top: 56, width: "100%", textAlign: "center", font: `700 60px ${SERIF}`, color: "#1F2A30" }}>{title}</div>}
+    <svg width="1920" height="1080" style={{ position: "absolute", inset: 0, transform: `scale(${grow})`, transformOrigin: "50% 55%" }}>
+      <defs>
+        <pattern id="cl_grain" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="4" cy="5" r="3" fill="#8f8a80" /><circle cx="15" cy="14" r="2.2" fill="#d6d1c8" /><circle cx="18" cy="4" r="1.6" fill="#7c776e" /></pattern>
+        <linearGradient id="cl_glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stopColor="#F4FDFF" /><stop offset="1" stopColor="#9FD8EA" /></linearGradient>
+        <radialGradient id="cl_stain"><stop offset="0" stopColor="#8a6a3c" stopOpacity="0.75" /><stop offset="1" stopColor="#8a6a3c" stopOpacity="0" /></radialGradient>
+      </defs>
       {/* lluvia */}
-      {drops.map((d, i) => { const p = (t * 0.9 + d.ph) % 1; const y = 180 + p * (top - 180); return modo === "escudo" && p > 0.92 ? null : <ellipse key={i} cx={d.x} cy={y} rx="7" ry="13" fill="#4F9FD6" opacity={0.85} />; })}
+      {drops.map((d, i) => { const p = (t * 0.85 + d.ph) % 1; const y = 190 + p * (top - 200); return <ellipse key={i} cx={d.x} cy={y} rx="6" ry="14" fill="#4F9FD6" opacity={0.8} />; })}
       {/* losa */}
-      <rect x={x0} y={top} width={W} height={H} rx="10" fill="#B9B5AC" />
-      <rect x={x0} y={top} width={W} height={H} rx="10" fill="url(#grain)" opacity="0.35" />
-      <defs><pattern id="grain" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="3" cy="4" r="2" fill="#8d897f" /><circle cx="10" cy="11" r="1.5" fill="#d2cec6" /></pattern></defs>
-      {/* poros: con agua (esponja) o con el gel de vidrio (escudo) */}
-      {pores.map((p, i) => { const fill = modo === "escudo" ? interpolate(seal, [i / 60, i / 60 + 0.3], [0, 1], clamp) : interpolate(f, [10 + i * 2, 60 + i * 2], [0, 1], clamp);
-        return <g key={i}><rect x={p.x} y={p.y} width={p.w} height={p.h} rx={p.w / 2} fill="#6f6b63" /><rect x={p.x} y={p.y} width={p.w} height={p.h * fill} rx={p.w / 2} fill={modo === "escudo" ? "#BFE8F2" : "#3E8FD0"} opacity={modo === "escudo" ? 0.95 : 0.9} /></g>; })}
-      {/* hierros */}
-      {[0, 1].map((r) => <g key={r}>{Array.from({ length: 7 }).map((_, i) => { const cx = x0 + 150 + i * 220, cy = top + H - 80 - r * 0; const R = 22 + rust * (r === 0 ? 14 : 0) * (i % 2 ? 1 : 0.7); return <g key={i}>{rust > 0 && <circle cx={cx} cy={cy} r={R + 14 * rust} fill="#B5651D" opacity={0.25 * rust} />}<circle cx={cx} cy={cy} r={R} fill={`rgb(${90 + rust * 100},${90 - rust * 20},${95 - rust * 60})`} stroke="#3a3a3a" strokeWidth="3" /></g>; })}</g>)}
-      {/* grieta */}
-      {crack > 0 && <path d={`M ${x0 + 820} ${top + H} l -20 -60 l 30 -50 l -25 -70 l 20 -60 l -10 -${90 * crack}`} stroke="#3b3631" strokeWidth="6" fill="none" pathLength={1} strokeDasharray={1} strokeDashoffset={1 - crack} />}
-      {/* escudo: gotas perladas arriba */}
-      {modo === "escudo" && Array.from({ length: 11 }).map((_, i) => <ellipse key={i} cx={x0 + 90 + i * 140} cy={top - 12} rx={18 * seal} ry={12 * seal} fill="#5EB3E6" stroke="#fff" strokeWidth="3" />)}
+      <rect x={x0} y={top} width={W} height={H} rx="8" fill="#BDB8AE" />
+      <rect x={x0} y={top} width={W} height={H} rx="8" fill="url(#cl_grain)" opacity="0.55" />
+      <rect x={x0} y={top} width={W} height="10" fill="#a8a398" />
+      {/* capilares */}
+      {caps.map((c, i) => {
+        const d = c.pts.map(([x, y], k) => `${k ? "L" : "M"} ${x} ${y}`).join(" ");
+        const fill = esp ? interpolate(water, [i / 40, i / 40 + 0.45], [0, 1], clamp) : interpolate(seal, [i / 40, i / 40 + 0.4], [0, 1], clamp);
+        return <g key={i}>
+          <path d={d} stroke="#6d695f" strokeWidth={c.w} strokeLinecap="round" fill="none" />
+          <path d={d} stroke={esp ? "#2F86CF" : "url(#cl_glass)"} strokeWidth={c.w - 2} strokeLinecap="round" fill="none" pathLength={1} strokeDasharray={1} strokeDashoffset={1 - fill} />
+          {!esp && fill > 0.98 && <circle cx={c.pts[0][0]} cy={top + 4} r={c.w * 0.7} fill="#fff" opacity={0.9} />}
+        </g>;
+      })}
+      {/* hierros (corte) */}
+      {bars.map((b, i) => { const R = 26 + rust * 16; return <g key={i}>
+        {rust > 0 && <circle cx={b.cx} cy={b.cy} r={R + 26 * rust} fill="#C26A1E" opacity={0.28 * rust} />}
+        <circle cx={b.cx} cy={b.cy} r={R} fill={esp ? `rgb(${95 + rust * 100},${95 - rust * 15},${100 - rust * 70})` : "#5d6166"} stroke="#2e2e2e" strokeWidth="4" />
+        {!esp && <circle cx={b.cx - 8} cy={b.cy - 8} r="6" fill="#9aa0a6" />}
+      </g>; })}
+      {/* grieta desde el hierro hinchado hacia arriba */}
+      {crack > 0 && <path d={`M ${bars[3].cx} ${bars[3].cy - 40} l -22 -70 l 30 -60 l -26 -80 l 18 -70 l -8 -${70}`} stroke="#2f2b27" strokeWidth="7" fill="none" pathLength={1} strokeDasharray={1} strokeDashoffset={1 - crack} />}
+      {/* cielorraso */}
+      <rect x={x0} y={top + H} width={W} height="34" fill="#FAFAF8" stroke="#dcdad4" />
+      {esp && <ellipse cx={bars[3].cx} cy={top + H + 17} rx={260 * rust} ry={30 * rust} fill="url(#cl_stain)" />}
+      {esp && rust > 0.5 && [0, 1, 2].map((k) => { const p = (t * 0.7 + k * 0.33) % 1; return <ellipse key={k} cx={bars[3].cx - 60 + k * 60} cy={top + H + 40 + p * 120} rx="7" ry="11" fill="#4F9FD6" opacity={1 - p} />; })}
+      {/* escudo: gotas perladas sobre la superficie */}
+      {!esp && Array.from({ length: 13 }).map((_, i) => <ellipse key={i} cx={x0 + 70 + i * 128} cy={top - 13} rx={20 * seal} ry={13 * seal} fill="#5EB3E6" stroke="#fff" strokeWidth="3" />)}
     </svg>
-    {(etiquetas || []).map((e, i) => { const a = interpolate(f, [40 + i * 40, 55 + i * 40], [0, 1], clamp); const ys = [top - 120, top + H / 2 - 20, top + H + 40]; return <div key={i} style={{ position: "absolute", left: 140 + i * 520, top: ys[i % 3], background: "#1F2A30", color: "#fff", padding: "14px 24px", borderRadius: 12, font: `700 32px ${SANS}`, opacity: a, transform: `translateY(${(1 - a) * 16}px)` }}>{e}</div>; })}
+    {labels.slice(0, 3).map((e, i) => { const a = interpolate(f, [labelAt[i], labelAt[i] + 14], [0, 1], clamp); return <div key={i} style={{ position: "absolute", ...labelPos[i], background: i === 1 && esp ? "#B5651D" : "#1F2A30", color: "#fff", padding: "14px 26px", borderRadius: 14, font: `700 34px ${SANS}`, opacity: a, transform: `translateY(${(1 - a) * 16}px)`, boxShadow: "0 10px 30px rgba(0,0,0,0.18)" }}>{e}</div>; })}
   </AbsoluteFill>;
 };
