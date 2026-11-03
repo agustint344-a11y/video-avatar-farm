@@ -1,0 +1,710 @@
+{
+  "slug": "electricista-compre-estacion-energia",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 15816,
+  "audioSrc": "electricista-compre-estacion-energia.mp3",
+  "avatarSrc": "electricista-compre-estacion-energia_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1398,
+      "dur": 158,
+      "clip": 0
+    },
+    {
+      "from": 4955,
+      "dur": 127,
+      "clip": 158
+    },
+    {
+      "from": 15474,
+      "dur": 232,
+      "clip": 285
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 183,
+      "dur": 141,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 324,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 453,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s04.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 558,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s05.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 702,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s06.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 765,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s07.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 954,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s08.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 1053,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s09.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1164,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s10.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1281,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s11.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1556,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s12.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1677,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s13.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1755,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s14.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 1899,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s15.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2085,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s16.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2208,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s17.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2343,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s18.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2457,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s20.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2673,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s21.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2760,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s22.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2955,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s23.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3033,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s24.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3199,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s25.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3529,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s25.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3859,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s25.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4189,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s25.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4519,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s25.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4849,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s25.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5082,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s26.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5412,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s26.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5742,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s26.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5804,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s27.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5864,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s28.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6194,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s28.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6524,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s28.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6854,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s28.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7184,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s28.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7312,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s39.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7642,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s39.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7972,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s39.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8302,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s39.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8632,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s39.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8962,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s39.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9292,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s39.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9622,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s39.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9952,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s39.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10282,
+      "dur": 283,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s39.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10565,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s29.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10691,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s30.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10851,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s31.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11181,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s31.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11511,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s31.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11841,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s31.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12171,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s31.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12254,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s32.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12584,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s32.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12914,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s32.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13244,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s32.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13574,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s32.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13904,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s32.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14234,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s32.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14373,
+      "dur": 215,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s33.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14588,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s34.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14918,
+      "dur": 355,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s34.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15273,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s35.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15341,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s36.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15706,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/electricista-compre-estacion-energia_s38.png",
+      "kb": 1,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 5,
+      "dur": 90,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "INTRO",
+        "title": "La estación de $89 a prueba"
+      }
+    },
+    {
+      "from": 1552,
+      "dur": 90,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "PASO 1",
+        "title": "Por qué la etiqueta puede mentir"
+      }
+    },
+    {
+      "from": 2343,
+      "dur": 90,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "PASO 2",
+        "title": "Capacidad real e inversor"
+      }
+    },
+    {
+      "from": 7312,
+      "dur": 90,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "PASO 4",
+        "title": "Ciclos de carga de la batería"
+      }
+    },
+    {
+      "from": 7312,
+      "dur": 90,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "PASO 5",
+        "title": "3 errores que arruinan la compra"
+      }
+    },
+    {
+      "from": 7312,
+      "dur": 90,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "CIERRE",
+        "title": "La autonomía real, sin inventar"
+      }
+    },
+    {
+      "from": 7312,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_electricista.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Electricista",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 7312,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_electricista.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Electricista",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 7312,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_electricista.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Electricista",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 7312,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_electricista.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Electricista",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 7312,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_electricista.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Electricista",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 15273,
+      "dur": 90,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "PASO 3",
+        "title": "Standby y recarga solar"
+      }
+    }
+  ],
+  "components": []
+}
