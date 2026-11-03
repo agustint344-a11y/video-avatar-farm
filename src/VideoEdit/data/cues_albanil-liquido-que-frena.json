@@ -1,0 +1,955 @@
+{
+  "slug": "albanil-liquido-que-frena",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 15465,
+  "audioSrc": "albanil-liquido-que-frena.mp3",
+  "avatarSrc": "albanil-liquido-que-frena_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1800,
+      "dur": 98,
+      "clip": 0
+    },
+    {
+      "from": 2160,
+      "dur": 128,
+      "clip": 98
+    },
+    {
+      "from": 3210,
+      "dur": 68,
+      "clip": 226
+    },
+    {
+      "from": 7950,
+      "dur": 277,
+      "clip": 294
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 104,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 300,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 396,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s04.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 570,
+      "dur": 194,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s05.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 764,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s06.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 930,
+      "dur": 124,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s07.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1054,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s08.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 1170,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s09.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1290,
+      "dur": 163,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s10.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1453,
+      "dur": 167,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s11.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1620,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s12.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1898,
+      "dur": 64,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s13.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1962,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s14.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2288,
+      "dur": 52,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s16.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2340,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s17.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2430,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s18.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2580,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s19.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2764,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s20.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2880,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s21.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3001,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s22.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3120,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s23.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3278,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s24.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3456,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s25.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3600,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s26.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3695,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s27.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3810,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s28.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4020,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s29.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4145,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s30.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4260,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s31.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4428,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s32.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4500,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s33.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4650,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s34.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4841,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s35.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4950,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s36.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5100,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s37.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5220,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s38.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5341,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s39.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5520,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s40.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5640,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s41.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5820,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s42.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6030,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s43.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6177,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s44.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6360,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s45.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6510,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s46.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6720,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s47.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6960,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s48.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7170,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s49.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7260,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s50.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7491,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s51.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7560,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s52.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7680,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s53.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8227,
+      "dur": 53,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s15.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8280,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s54.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8370,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s55.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8550,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s56.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8670,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s57.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8880,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s58.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8970,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s59.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9150,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s60.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9240,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s61.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9427,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s62.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9510,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s63.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9649,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s64.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9780,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s65.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9870,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s66.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9930,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s67.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10051,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s68.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10290,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s69.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10500,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s70.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10740,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s71.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10920,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s72.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11004,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s73.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11130,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s74.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11220,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s75.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11370,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s76.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11498,
+      "dur": 112,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s77.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11610,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s78.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11767,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s79.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11933,
+      "dur": 67,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s80.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12000,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s81.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12180,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s82.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12335,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s83.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12665,
+      "dur": 115,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s83.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12780,
+      "dur": 307,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s84.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13087,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s85.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13200,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s86.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13440,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s87.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13590,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s88.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13740,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s89.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13890,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s90.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14071,
+      "dur": 179,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s91.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14250,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s92.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14460,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s93.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14580,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s94.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14700,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s95.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15030,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s95.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15360,
+      "dur": 105,
+      "kind": "image",
+      "src": "img/albanil-liquido-que-frena_s95.png",
+      "kb": 1,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 5,
+      "dur": 105,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "EL PROBLEMA",
+        "title": "La humedad que sube por la pared"
+      }
+    },
+    {
+      "from": 1170,
+      "dur": 105,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "DIAGNÓSTICO",
+        "title": "¿Es capilaridad o filtración?"
+      }
+    },
+    {
+      "from": 3210,
+      "dur": 105,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "LA RECETA",
+        "title": "Qué necesitas y cómo aplicarlo"
+      }
+    },
+    {
+      "from": 7950,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 8280,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 8370,
+      "dur": 105,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "ERRORES COMUNES",
+        "title": "Por qué el líquido no funciona"
+      }
+    },
+    {
+      "from": 9780,
+      "dur": 105,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "LA PRUEBA",
+        "title": "Cómo saber si funcionó"
+      }
+    },
+    {
+      "from": 10500,
+      "dur": 105,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "LA VERDAD",
+        "title": "Cuánto dura este tratamiento"
+      }
+    },
+    {
+      "from": 12570,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 12930,
+      "dur": 105,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "EL VERDADERO ERROR",
+        "title": "La impaciencia después de aplicarlo"
+      }
+    },
+    {
+      "from": 14580,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 14850,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": []
+}
