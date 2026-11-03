@@ -34,13 +34,30 @@
     },
     {
       "from": 5220,
-      "dur": 70,
+      "dur": 278,
       "clip": 1712,
       "layout": "cine",
       "side": "img/mateo-escudo-techo_s43.png",
       "text": "Está hecho para durar poco. Así compras otro.",
       "kicker": "La verdad del balde",
       "accent": "durar poco"
+    },
+    {
+      "from": 5970,
+      "dur": 668,
+      "clip": 1990
+    },
+    {
+      "from": 6705,
+      "dur": 270,
+      "clip": 2658,
+      "layout": "split",
+      "side": "img/mateo-escudo-techo_s50.png"
+    },
+    {
+      "from": 8640,
+      "dur": 286,
+      "clip": 2928
     }
   ],
   "broll": [
@@ -229,19 +246,11 @@
       "pip": false
     },
     {
-      "from": 5290,
-      "dur": 200,
-      "kind": "image",
-      "src": "img/mateo-escudo-techo_s43.png",
-      "kb": 5,
-      "pip": false
-    },
-    {
-      "from": 5490,
-      "dur": 94,
+      "from": 5498,
+      "dur": 86,
       "kind": "image",
       "src": "img/mateo-escudo-techo_s44.png",
-      "kb": 0,
+      "kb": 5,
       "pip": false
     },
     {
@@ -249,7 +258,7 @@
       "dur": 56,
       "kind": "image",
       "src": "img/mateo-escudo-techo_s45.png",
-      "kb": 1,
+      "kb": 0,
       "pip": false
     },
     {
@@ -257,31 +266,15 @@
       "dur": 90,
       "kind": "image",
       "src": "img/mateo-escudo-techo_s48.png",
-      "kb": 2,
+      "kb": 1,
       "pip": false
     },
     {
-      "from": 5970,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-escudo-techo_s49.png",
-      "kb": 3,
-      "pip": false
-    },
-    {
-      "from": 6300,
-      "dur": 330,
-      "kind": "image",
-      "src": "img/mateo-escudo-techo_s47.png",
-      "kb": 4,
-      "pip": false
-    },
-    {
-      "from": 6630,
-      "dur": 345,
+      "from": 6638,
+      "dur": 67,
       "kind": "image",
       "src": "img/mateo-escudo-techo_s50.png",
-      "kb": 5,
+      "kb": 2,
       "pip": false
     },
     {
@@ -289,7 +282,7 @@
       "dur": 75,
       "kind": "image",
       "src": "img/mateo-escudo-techo_s51.png",
-      "kb": 0,
+      "kb": 3,
       "pip": false
     },
     {
@@ -297,7 +290,7 @@
       "dur": 60,
       "kind": "image",
       "src": "img/mateo-escudo-techo_s52.png",
-      "kb": 1,
+      "kb": 4,
       "pip": false
     },
     {
@@ -305,7 +298,7 @@
       "dur": 120,
       "kind": "image",
       "src": "img/mateo-escudo-techo_s56.png",
-      "kb": 2,
+      "kb": 5,
       "pip": false
     },
     {
@@ -313,7 +306,7 @@
       "dur": 60,
       "kind": "image",
       "src": "img/mateo-escudo-techo_s57.png",
-      "kb": 3,
+      "kb": 0,
       "pip": false
     },
     {
@@ -321,7 +314,7 @@
       "dur": 240,
       "kind": "image",
       "src": "img/mateo-escudo-techo_s59.png",
-      "kb": 4,
+      "kb": 1,
       "pip": false
     },
     {
@@ -329,23 +322,15 @@
       "dur": 180,
       "kind": "image",
       "src": "img/mateo-escudo-techo_s60.png",
-      "kb": 5,
+      "kb": 2,
       "pip": false
     },
     {
       "from": 8430,
-      "dur": 330,
+      "dur": 210,
       "kind": "image",
       "src": "img/mateo-escudo-techo_s63.png",
-      "kb": 0,
-      "pip": false
-    },
-    {
-      "from": 8760,
-      "dur": 180,
-      "kind": "image",
-      "src": "img/mateo-escudo-techo_s62.png",
-      "kb": 1,
+      "kb": 3,
       "pip": false
     }
   ],
