@@ -13,7 +13,8 @@ import type { Cues } from "./types";
  */
 export const VideoMain: React.FC<{ cues: Cues }> = ({ cues }) => {
   // Flujo nuevo (Fish + InfiniteTalk): audio master + avatar solo en sus tramos on-camera.
-  const segMode = !!(cues.avatarSegs && cues.avatarSegs.length);
+  // Con audio master y sin tramos (video sin presentador) también: así no busca el opt.mp4 clásico.
+  const segMode = !!(cues.avatarSegs && (cues.avatarSegs.length || cues.audioSrc));
   return (
     <AbsoluteFill style={{ backgroundColor: "#000" }}>
       <AvatarAudio slug={cues.slug} audioSrc={cues.audioSrc} />
