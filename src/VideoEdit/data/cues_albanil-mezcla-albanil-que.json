@@ -1,0 +1,866 @@
+{
+  "slug": "albanil-mezcla-albanil-que",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 14891,
+  "audioSrc": "albanil-mezcla-albanil-que.mp3",
+  "avatarSrc": "albanil-mezcla-albanil-que_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1128,
+      "dur": 178,
+      "clip": 0
+    },
+    {
+      "from": 7062,
+      "dur": 160,
+      "clip": 178
+    },
+    {
+      "from": 7988,
+      "dur": 177,
+      "clip": 338
+    },
+    {
+      "from": 8686,
+      "dur": 172,
+      "clip": 515
+    },
+    {
+      "from": 11057,
+      "dur": 350,
+      "clip": 687
+    },
+    {
+      "from": 13091,
+      "dur": 92,
+      "clip": 1037
+    },
+    {
+      "from": 14132,
+      "dur": 750,
+      "clip": 1129
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s01.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 126,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s02.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 325,
+      "dur": 79,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s03.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 404,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s04.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 575,
+      "dur": 304,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s05.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 879,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s83.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1029,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s07.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1306,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s08.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 1380,
+      "dur": 188,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s09.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1568,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s10.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1643,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s11.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1788,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s12.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1943,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s13.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2051,
+      "dur": 312,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s14.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2363,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s15.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2426,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s16.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2603,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s17.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2838,
+      "dur": 259,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s18.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3097,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s19.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3318,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s20.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3439,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s21.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3642,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s22.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3822,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s23.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4052,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s24.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4166,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s25.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4400,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s26.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4553,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s27.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4664,
+      "dur": 51,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s28.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4715,
+      "dur": 239,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s29.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4954,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s30.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5147,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s31.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5266,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s32.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5402,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s33.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5579,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s34.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5696,
+      "dur": 143,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s35.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5839,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s36.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5972,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s37.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6206,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s38.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6343,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s39.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6449,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s40.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6602,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s41.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6749,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s42.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6826,
+      "dur": 155,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s43.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6981,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s44.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7222,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s45.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7381,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s46.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7580,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s47.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7649,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s48.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7844,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s49.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8165,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s50.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8364,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s51.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8516,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s52.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8602,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s53.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8858,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s54.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8965,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s55.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9066,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s56.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9222,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s57.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9287,
+      "dur": 224,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s58.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9511,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s60.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9714,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s61.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9815,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s62.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9976,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s63.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10178,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s64.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10295,
+      "dur": 271,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s65.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10566,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s66.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10794,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s68.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10886,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s69.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11407,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s70.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11530,
+      "dur": 243,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s72.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11773,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s73.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11982,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s74.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12148,
+      "dur": 57,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s75.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12205,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s76.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12330,
+      "dur": 127,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s77.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12457,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s78.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12602,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s79.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12755,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s80.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12829,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s81.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13025,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s82.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13183,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s71.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13372,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s84.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13555,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s85.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13745,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s86.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13934,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s87.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14024,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/albanil-mezcla-albanil-que_s88.png",
+      "kb": 0,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 2,
+      "dur": 105,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "INTRO",
+        "title": "La grieta que vuelve"
+      }
+    },
+    {
+      "from": 1380,
+      "dur": 105,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "POR QUÉ PASA",
+        "title": "La pared que se mueve"
+      }
+    },
+    {
+      "from": 2363,
+      "dur": 105,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "MATERIALES",
+        "title": "Lo que vas a necesitar"
+      }
+    },
+    {
+      "from": 3318,
+      "dur": 105,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "PASO 1",
+        "title": "Abrir la grieta en V"
+      }
+    },
+    {
+      "from": 4664,
+      "dur": 105,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "PASO 2",
+        "title": "La mezcla base flexible"
+      }
+    },
+    {
+      "from": 7381,
+      "dur": 105,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "PASO 3",
+        "title": "El sellador elástico final"
+      }
+    },
+    {
+      "from": 8364,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 8602,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 8686,
+      "dur": 105,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "ERRORES",
+        "title": "Tres errores que la arruinan"
+      }
+    },
+    {
+      "from": 11248,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 14132,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 14304,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_albanil.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Albañil",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": []
+}
