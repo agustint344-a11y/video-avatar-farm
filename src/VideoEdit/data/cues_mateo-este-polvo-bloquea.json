@@ -1,0 +1,1670 @@
+{
+  "slug": "mateo-este-polvo-bloquea",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 29881,
+  "audioSrc": "mateo-este-polvo-bloquea.mp3",
+  "avatarSrc": "mateo-este-polvo-bloquea_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1399,
+      "dur": 225,
+      "clip": 0
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 198,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s01.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 198,
+      "dur": 64,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s02.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 262,
+      "dur": 192,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s03.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 454,
+      "dur": 81,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s04.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 535,
+      "dur": 261,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s05.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 796,
+      "dur": 227,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s06.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1023,
+      "dur": 146,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s07.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1169,
+      "dur": 230,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s08.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 1624,
+      "dur": 264,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s09.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1888,
+      "dur": 73,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s10.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1961,
+      "dur": 221,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s11.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2182,
+      "dur": 117,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s12.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2299,
+      "dur": 199,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s13.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2498,
+      "dur": 76,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s14.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2574,
+      "dur": 164,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s15.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2738,
+      "dur": 228,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s16.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2966,
+      "dur": 68,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s16.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3034,
+      "dur": 148,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s17.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3182,
+      "dur": 70,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s18.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3252,
+      "dur": 168,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s19.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3420,
+      "dur": 248,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s20.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3668,
+      "dur": 218,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s21.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3886,
+      "dur": 103,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s22.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3989,
+      "dur": 249,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s23.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4238,
+      "dur": 228,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s24.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4466,
+      "dur": 86,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s24.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4552,
+      "dur": 188,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s25.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4740,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s26.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5070,
+      "dur": 113,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s26.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5183,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s27.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5352,
+      "dur": 218,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s28.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5570,
+      "dur": 185,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s29.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5755,
+      "dur": 190,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s30.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5945,
+      "dur": 91,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s31.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6036,
+      "dur": 89,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s32.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6125,
+      "dur": 135,
+      "kind": "video",
+      "src": "broll/mateo-este-polvo-bloquea_v_s33.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6260,
+      "dur": 218,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s34.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6478,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s35.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6587,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s36.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6655,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s37.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6774,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s38.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6918,
+      "dur": 104,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s39.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7022,
+      "dur": 246,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s40.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7268,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s41.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7397,
+      "dur": 251,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s42.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7648,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s43.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7781,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s44.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7897,
+      "dur": 229,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s45.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8126,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s46.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8378,
+      "dur": 80,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s47.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8458,
+      "dur": 217,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s48.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8675,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s49.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8820,
+      "dur": 86,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s50.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8906,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s51.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9127,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s52.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9245,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s53.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9391,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s54.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9460,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s55.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9620,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s56.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9751,
+      "dur": 91,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s57.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9842,
+      "dur": 314,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s58.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10156,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s59.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10294,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s60.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10412,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s61.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10558,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10788,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s63.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11007,
+      "dur": 63,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s64.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11070,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s65.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11250,
+      "dur": 56,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s66.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11306,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s67.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11486,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s68.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11606,
+      "dur": 208,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s69.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11814,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s70.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11996,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s71.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12062,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s72.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12238,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s73.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12386,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s74.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12473,
+      "dur": 123,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s75.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12596,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s76.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12761,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s77.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13091,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s77.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13283,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s78.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13408,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s79.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13627,
+      "dur": 88,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s80.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13715,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s81.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13867,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s82.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14066,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s83.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14252,
+      "dur": 263,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s84.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14515,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s85.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14741,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s87.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14879,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s88.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15066,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s89.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15247,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s90.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15392,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s91.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15602,
+      "dur": 87,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s92.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15689,
+      "dur": 282,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s93.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15971,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s94.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16192,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s95.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16330,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s96.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16415,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s97.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16531,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s98.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16723,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s99.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16789,
+      "dur": 99,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s100.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16888,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s101.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17045,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s102.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17210,
+      "dur": 64,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s103.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17274,
+      "dur": 137,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s104.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17411,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s105.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17609,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s106.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17849,
+      "dur": 49,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s107.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17898,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s108.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18048,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s109.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18150,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s110.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18350,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s111.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18504,
+      "dur": 171,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s112.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18675,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s113.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18792,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s114.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18996,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s115.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 19170,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s116.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 19372,
+      "dur": 273,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s117.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 19645,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s118.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 19859,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s119.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19967,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s120.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 20183,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s121.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20363,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s122.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20553,
+      "dur": 244,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s123.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20797,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s124.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20857,
+      "dur": 111,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s125.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20968,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s126.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21082,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s127.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21233,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s128.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21369,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s129.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21550,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s130.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21646,
+      "dur": 59,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s131.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21705,
+      "dur": 229,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s132.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21934,
+      "dur": 235,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s133.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22169,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s134.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22388,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s135.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22518,
+      "dur": 116,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s136.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22634,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s137.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22833,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s138.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22898,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s139.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22971,
+      "dur": 166,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s140.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23137,
+      "dur": 91,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s141.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23228,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s142.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23370,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s143.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23579,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s144.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23777,
+      "dur": 158,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s145.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23935,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s146.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24011,
+      "dur": 197,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s147.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24208,
+      "dur": 206,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s148.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24414,
+      "dur": 160,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s149.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24574,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s150.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 24794,
+      "dur": 212,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s151.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25006,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s152.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25090,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s153.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25242,
+      "dur": 181,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s154.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25423,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s155.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 25542,
+      "dur": 147,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s156.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25689,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s157.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25846,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s158.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26066,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s159.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26243,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s160.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26316,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s161.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26481,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s162.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26659,
+      "dur": 193,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s163.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26852,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s164.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26981,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s165.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27200,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s166.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27296,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s167.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27377,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s168.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27523,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s169.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27617,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s170.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27665,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s171.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27856,
+      "dur": 117,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s172.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27973,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s173.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28303,
+      "dur": 247,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s173.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28550,
+      "dur": 148,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s174.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28698,
+      "dur": 213,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s175.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28911,
+      "dur": 172,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s176.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29083,
+      "dur": 129,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s177.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29212,
+      "dur": 330,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s178.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 29542,
+      "dur": 339,
+      "kind": "image",
+      "src": "img/mateo-este-polvo-bloquea_s178.png",
+      "kb": 2,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 198,
+      "dur": 90,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "INTRO",
+        "title": "El calor que entra por el techo"
+      }
+    },
+    {
+      "from": 1618,
+      "dur": 90,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "EL SECRETO",
+        "title": "Por qué la cal enfriaba las casas"
+      }
+    },
+    {
+      "from": 5352,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 6036,
+      "dur": 90,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "OPCIÓN 1",
+        "title": "Cal viva, la más barata"
+      }
+    },
+    {
+      "from": 8820,
+      "dur": 90,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "OPCIÓN 2",
+        "title": "Pintura elastomérica"
+      }
+    },
+    {
+      "from": 10038,
+      "dur": 90,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "OPCIÓN 3",
+        "title": "Aluminio desde adentro"
+      }
+    },
+    {
+      "from": 12761,
+      "dur": 90,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "PASO TÉCNICO",
+        "title": "Calcula sin quedarte corto"
+      }
+    },
+    {
+      "from": 13715,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 13867,
+      "dur": 90,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "CUIDADO",
+        "title": "Los dos errores que arruinan todo"
+      }
+    },
+    {
+      "from": 16192,
+      "dur": 90,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "DUDAS",
+        "title": "Lo que todos preguntan"
+      }
+    },
+    {
+      "from": 17609,
+      "dur": 90,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "PASO A PASO",
+        "title": "Los seis pasos completos"
+      }
+    },
+    {
+      "from": 23137,
+      "dur": 90,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "EL NÚMERO",
+        "title": "Cuánto ahorras en total"
+      }
+    },
+    {
+      "from": 24414,
+      "dur": 90,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "NIVEL EXTRA",
+        "title": "La cámara de aire que multiplica el efecto"
+      }
+    },
+    {
+      "from": 27523,
+      "dur": 90,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "PARA CERRAR",
+        "title": "Empieza este fin de semana"
+      }
+    },
+    {
+      "from": 28550,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 28911,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 29779,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": []
+}
