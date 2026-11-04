@@ -1,0 +1,2278 @@
+{
+  "slug": "mateo-error-que-convierte",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 41479,
+  "audioSrc": "mateo-error-que-convierte.mp3",
+  "avatarSrc": "mateo-error-que-convierte_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 1554,
+      "dur": 159,
+      "clip": 0
+    },
+    {
+      "from": 5912,
+      "dur": 224,
+      "clip": 159
+    },
+    {
+      "from": 7522,
+      "dur": 518,
+      "clip": 383
+    },
+    {
+      "from": 9604,
+      "dur": 116,
+      "clip": 901
+    },
+    {
+      "from": 13114,
+      "dur": 176,
+      "clip": 1017
+    },
+    {
+      "from": 16990,
+      "dur": 92,
+      "clip": 1193
+    },
+    {
+      "from": 18857,
+      "dur": 661,
+      "clip": 1285
+    },
+    {
+      "from": 20896,
+      "dur": 188,
+      "clip": 1946
+    },
+    {
+      "from": 25192,
+      "dur": 134,
+      "clip": 2134
+    },
+    {
+      "from": 31798,
+      "dur": 122,
+      "clip": 2268
+    },
+    {
+      "from": 39760,
+      "dur": 740,
+      "clip": 2390
+    },
+    {
+      "from": 40864,
+      "dur": 603,
+      "clip": 3130
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 150,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s01.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 150,
+      "dur": 161,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s02.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 311,
+      "dur": 108,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s03.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 419,
+      "dur": 115,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s04.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 534,
+      "dur": 187,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s05.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 721,
+      "dur": 140,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s06.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 861,
+      "dur": 202,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s07.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1063,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s08.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 1234,
+      "dur": 81,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s09.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1315,
+      "dur": 239,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s10.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1713,
+      "dur": 225,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s11.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1938,
+      "dur": 140,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s12.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2078,
+      "dur": 129,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s13.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2207,
+      "dur": 177,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s14.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2384,
+      "dur": 266,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s15.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2650,
+      "dur": 103,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s16.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2753,
+      "dur": 138,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s17.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2891,
+      "dur": 66,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s18.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2957,
+      "dur": 168,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s19.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3125,
+      "dur": 144,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s20.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3269,
+      "dur": 66,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s21.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3335,
+      "dur": 181,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s22.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3516,
+      "dur": 163,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s23.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3679,
+      "dur": 57,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s24.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3736,
+      "dur": 111,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s25.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3847,
+      "dur": 151,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s26.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3998,
+      "dur": 62,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s27.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4060,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s28.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4222,
+      "dur": 133,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s29.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4355,
+      "dur": 170,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s30.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4525,
+      "dur": 90,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s31.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4615,
+      "dur": 139,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s32.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4754,
+      "dur": 232,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s33.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4986,
+      "dur": 60,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s34.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5046,
+      "dur": 182,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s35.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5228,
+      "dur": 83,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s36.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5311,
+      "dur": 217,
+      "kind": "video",
+      "src": "broll/mateo-error-que-convierte_v_s37.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5528,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s38.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5624,
+      "dur": 98,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s39.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5722,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s40.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6136,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s41.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6388,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s42.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6598,
+      "dur": 74,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s43.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6672,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s44.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6734,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s45.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6826,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s46.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7042,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s47.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7222,
+      "dur": 65,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s48.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7287,
+      "dur": 152,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s49.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7439,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s50.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8040,
+      "dur": 22,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s51.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8392,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s54.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8500,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s55.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8644,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s56.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8800,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s57.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8890,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s58.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9046,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s59.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9154,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s60.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9406,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s61.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9720,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s62.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9910,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s63.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10110,
+      "dur": 136,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s64.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10246,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s65.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10372,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s66.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10546,
+      "dur": 218,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s67.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10764,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s68.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10960,
+      "dur": 48,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s69.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11008,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s70.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11134,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s71.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11216,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s72.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11416,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s73.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11500,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s74.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11632,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s75.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11830,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s76.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11915,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s77.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12124,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s78.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12220,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s79.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12382,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s80.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 12467,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s81.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12676,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s82.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12910,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s83.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13290,
+      "dur": 82,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s84.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13372,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s85.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13465,
+      "dur": 177,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s86.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13642,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s87.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13714,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s88.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13906,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s89.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13984,
+      "dur": 133,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s90.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14117,
+      "dur": 119,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s91.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14236,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s92.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14356,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s93.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 14548,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s94.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14728,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s95.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14830,
+      "dur": 222,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s96.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15052,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s97.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15142,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s98.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 15352,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s99.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15412,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s100.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15568,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s101.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15743,
+      "dur": 221,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s102.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15964,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s103.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16030,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s104.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16114,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s105.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 16276,
+      "dur": 57,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s106.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 16333,
+      "dur": 135,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s107.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 16468,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s108.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 16636,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s109.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 16750,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s110.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 16882,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s111.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17082,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s112.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 17296,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s113.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 17476,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s114.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 17560,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s115.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 17728,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s116.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 17866,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s117.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 17956,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s118.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 18082,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s119.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 18233,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s120.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 18328,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s121.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 18478,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s122.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 18574,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s123.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 18688,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s124.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 19518,
+      "dur": 15,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s125.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 19863,
+      "dur": 283,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s128.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 20146,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s129.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 20332,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s130.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 20494,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s131.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 20677,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s132.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 20770,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s133.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 21084,
+      "dur": 196,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s134.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 21280,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s135.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 21442,
+      "dur": 54,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s136.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 21496,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s137.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 21712,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s138.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 21892,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s139.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22072,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s140.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 22156,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s141.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 22348,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s142.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 22564,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s143.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 22732,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s144.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 22827,
+      "dur": 85,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s145.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 22912,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s146.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 23104,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s147.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 23284,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s148.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 23452,
+      "dur": 228,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s149.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 23680,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s150.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 23794,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s151.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 23932,
+      "dur": 214,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s152.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 24146,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s153.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 24316,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s154.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 24478,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s155.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 24634,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s156.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 24832,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s157.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 25018,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s158.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 25326,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s159.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 25444,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s160.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 25630,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s161.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 25780,
+      "dur": 258,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s162.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26038,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s163.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 26104,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s164.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 26290,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s165.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 26506,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s166.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 26578,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s167.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 26674,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s168.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 26872,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s169.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 27052,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s170.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 27172,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s171.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 27286,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s172.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 27424,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s173.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 27604,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s174.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 27814,
+      "dur": 258,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s175.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 28072,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s176.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 28252,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s177.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 28420,
+      "dur": 146,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s178.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 28566,
+      "dur": 118,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s179.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 28684,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s180.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 28810,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s181.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 29026,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s182.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 29278,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s183.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 29451,
+      "dur": 223,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s184.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 29674,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s185.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 29878,
+      "dur": 252,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s187.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 30130,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s188.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 30310,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s189.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 30526,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s190.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 30700,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s191.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 30940,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s192.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31102,
+      "dur": 94,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s193.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 31196,
+      "dur": 110,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s194.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 31306,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s195.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 31444,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s196.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 31564,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s197.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 31648,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s198.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 31920,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s199.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 32016,
+      "dur": 190,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s200.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 32206,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s201.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 32290,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s202.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 32404,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s203.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 32602,
+      "dur": 231,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s204.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 32833,
+      "dur": 183,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s205.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33016,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s206.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33106,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s207.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 33178,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s208.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 33376,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s209.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 33460,
+      "dur": 184,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s210.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 33644,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s211.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 33766,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s212.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 33964,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s213.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34066,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s214.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 34138,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s215.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 34324,
+      "dur": 72,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s216.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 34396,
+      "dur": 182,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s217.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 34578,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s218.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 34678,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s219.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 34858,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s220.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 35008,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s221.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 35103,
+      "dur": 97,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s222.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 35200,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s223.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 35266,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s224.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 35398,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s225.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 35482,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s226.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 35626,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s227.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 35836,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s228.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 35926,
+      "dur": 276,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s229.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 36202,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s230.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 36358,
+      "dur": 220,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s231.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 36578,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s232.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 36700,
+      "dur": 174,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s233.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 36874,
+      "dur": 96,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s234.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 36970,
+      "dur": 109,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s235.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 37079,
+      "dur": 191,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s237.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 37270,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s238.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 37390,
+      "dur": 90,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s239.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 37480,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s240.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 37600,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s241.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 37738,
+      "dur": 78,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s242.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 37816,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s243.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 37882,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s244.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 38086,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s245.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 38242,
+      "dur": 192,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s246.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 38434,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s247.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 38674,
+      "dur": 92,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s248.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 38766,
+      "dur": 130,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s249.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 38896,
+      "dur": 204,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s250.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 39100,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s252.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 39250,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s253.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 39430,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s254.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 39592,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/mateo-error-que-convierte_s255.png",
+      "kb": 1,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 5,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "CAPÍTULO 1",
+        "title": "El error que nadie revisa"
+      }
+    },
+    {
+      "from": 2650,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "CAPÍTULO 2",
+        "title": "Cómo entra el calor: 3 caminos"
+      }
+    },
+    {
+      "from": 5624,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "CAPÍTULO 3",
+        "title": "Ventanas sin protección solar"
+      }
+    },
+    {
+      "from": 8230,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 8230,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 8410,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "CAPÍTULO 4",
+        "title": "Solución según tu caso"
+      }
+    },
+    {
+      "from": 11830,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "CAPÍTULO 5",
+        "title": "La quinta fachada: techo y terraza"
+      }
+    },
+    {
+      "from": 14830,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "CAPÍTULO 6",
+        "title": "Ventilación nocturna con horario"
+      }
+    },
+    {
+      "from": 18969,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 22827,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "CAPÍTULO 8",
+        "title": "El multiplicador: la humedad"
+      }
+    },
+    {
+      "from": 25444,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "CAPÍTULO 9",
+        "title": "Aire acondicionado bien usado"
+      }
+    },
+    {
+      "from": 34066,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "CAPÍTULO 10",
+        "title": "Protocolo hora por hora"
+      }
+    },
+    {
+      "from": 37816,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "CAPÍTULO 11",
+        "title": "Reflexión final"
+      }
+    },
+    {
+      "from": 39760,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 41314,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 8062,
+      "dur": 330,
+      "comp": "GuiaPromo",
+      "props": {
+        "theme": "taller",
+        "src": "img/guia_mateo_biblioteca.png",
+        "title": "El paso a paso completo, para tu casa",
+        "puntos": [
+          "Cantidades exactas según tus metros",
+          "Paso a paso con tiempos de secado",
+          "Fichas para imprimir"
+        ],
+        "qr": "img/qr_mateo.png"
+      }
+    },
+    {
+      "from": 19533,
+      "dur": 330,
+      "comp": "GuiaPromo",
+      "props": {
+        "theme": "taller",
+        "src": "img/guia_mateo_calcs.png",
+        "eyebrow": "LAS CALCULADORAS DEL MAESTRO",
+        "title": "Cuánto comprar, sin sacar cuentas",
+        "puntos": [
+          "Pones el largo y el ancho",
+          "Te dice cuánto material comprar",
+          "No compras de más"
+        ],
+        "foot": "En la descripción, el comentario fijado y el QR",
+        "qr": "img/qr_mateo.png"
+      }
+    },
+    {
+      "from": 40517,
+      "dur": 347,
+      "comp": "GuiaPromo",
+      "props": {
+        "theme": "taller",
+        "src": "img/guia_mateo_biblioteca.png",
+        "eyebrow": "LA BIBLIOTECA DEL MAESTRO",
+        "title": "Guárdala en el celular para cuando la necesites",
+        "puntos": [
+          "Garantía de 7 días de Hotmart",
+          "Calculadoras incluidas",
+          "Guías para imprimir"
+        ],
+        "foot": "En la descripción, el comentario fijado y el QR",
+        "qr": "img/qr_mateo.png"
+      }
+    }
+  ]
+}
