@@ -1,0 +1,983 @@
+{
+  "slug": "mateo-como-evitar-que",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 16182,
+  "audioSrc": "mateo-como-evitar-que.mp3",
+  "avatarSrc": "mateo-como-evitar-que_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 697,
+      "dur": 130,
+      "clip": 0
+    },
+    {
+      "from": 1676,
+      "dur": 170,
+      "clip": 130
+    },
+    {
+      "from": 5040,
+      "dur": 293,
+      "clip": 300
+    },
+    {
+      "from": 6766,
+      "dur": 199,
+      "clip": 593
+    },
+    {
+      "from": 9275,
+      "dur": 252,
+      "clip": 792
+    },
+    {
+      "from": 12579,
+      "dur": 234,
+      "clip": 1044
+    },
+    {
+      "from": 14259,
+      "dur": 374,
+      "clip": 1278
+    },
+    {
+      "from": 15747,
+      "dur": 422,
+      "clip": 1652
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 201,
+      "kind": "video",
+      "src": "broll/mateo-como-evitar-que_v_s01.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 201,
+      "dur": 107,
+      "kind": "video",
+      "src": "broll/mateo-como-evitar-que_v_s02.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 308,
+      "dur": 143,
+      "kind": "video",
+      "src": "broll/mateo-como-evitar-que_v_s03.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 451,
+      "dur": 75,
+      "kind": "video",
+      "src": "broll/mateo-como-evitar-que_v_s04.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 526,
+      "dur": 171,
+      "kind": "video",
+      "src": "broll/mateo-como-evitar-que_v_s05.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 827,
+      "dur": 162,
+      "kind": "video",
+      "src": "broll/mateo-como-evitar-que_v_s06.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 989,
+      "dur": 176,
+      "kind": "video",
+      "src": "broll/mateo-como-evitar-que_v_s07.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1165,
+      "dur": 113,
+      "kind": "video",
+      "src": "broll/mateo-como-evitar-que_v_s08.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 1278,
+      "dur": 69,
+      "kind": "video",
+      "src": "broll/mateo-como-evitar-que_v_s09.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1347,
+      "dur": 164,
+      "kind": "video",
+      "src": "broll/mateo-como-evitar-que_v_s10.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1511,
+      "dur": 165,
+      "kind": "video",
+      "src": "broll/mateo-como-evitar-que_v_s11.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1846,
+      "dur": 149,
+      "kind": "video",
+      "src": "broll/mateo-como-evitar-que_v_s12.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1995,
+      "dur": 177,
+      "kind": "video",
+      "src": "broll/mateo-como-evitar-que_v_s13.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2172,
+      "dur": 111,
+      "kind": "video",
+      "src": "broll/mateo-como-evitar-que_v_s14.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2283,
+      "dur": 189,
+      "kind": "video",
+      "src": "broll/mateo-como-evitar-que_v_s15.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2472,
+      "dur": 222,
+      "kind": "video",
+      "src": "broll/mateo-como-evitar-que_v_s16.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2694,
+      "dur": 141,
+      "kind": "video",
+      "src": "broll/mateo-como-evitar-que_v_s17.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2835,
+      "dur": 153,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s18.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 2988,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s19.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3156,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s20.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3256,
+      "dur": 154,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s21.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3410,
+      "dur": 175,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s22.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3585,
+      "dur": 255,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s23.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3840,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s24.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3990,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s25.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4135,
+      "dur": 209,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s26.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4344,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s27.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4425,
+      "dur": 198,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s28.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4623,
+      "dur": 144,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s29.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4767,
+      "dur": 159,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s30.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4926,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s31.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5333,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s32.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5502,
+      "dur": 189,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s33.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5691,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s34.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5768,
+      "dur": 157,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s35.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5925,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s36.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6075,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s37.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6231,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s38.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6441,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s39.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6660,
+      "dur": 57,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s40.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6717,
+      "dur": 49,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s41.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6965,
+      "dur": 142,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s42.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7107,
+      "dur": 240,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s43.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7347,
+      "dur": 69,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s44.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7416,
+      "dur": 83,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s45.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7499,
+      "dur": 169,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s46.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7668,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s47.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7833,
+      "dur": 165,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s48.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7998,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s49.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8201,
+      "dur": 178,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s50.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8379,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s51.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 8499,
+      "dur": 270,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s52.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 8769,
+      "dur": 126,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s53.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 8895,
+      "dur": 114,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s54.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9009,
+      "dur": 108,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s55.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9117,
+      "dur": 122,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s56.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9527,
+      "dur": 234,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s57.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9761,
+      "dur": 226,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s58.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9987,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s59.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10107,
+      "dur": 138,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s60.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10245,
+      "dur": 54,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s61.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 10299,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s62.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 10419,
+      "dur": 131,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s63.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10550,
+      "dur": 121,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s64.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10671,
+      "dur": 89,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s65.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10760,
+      "dur": 187,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s66.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10947,
+      "dur": 230,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s67.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 11177,
+      "dur": 76,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s68.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 11253,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s69.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 11403,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s70.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 11559,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s71.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 11727,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s72.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 11889,
+      "dur": 168,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s73.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 12057,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s74.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 12237,
+      "dur": 120,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s75.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 12357,
+      "dur": 162,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s76.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 12519,
+      "dur": 60,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s77.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 12813,
+      "dur": 210,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s79.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13023,
+      "dur": 132,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s80.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13155,
+      "dur": 180,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s81.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 13335,
+      "dur": 66,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s82.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 13401,
+      "dur": 150,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s83.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 13551,
+      "dur": 73,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s84.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 13624,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s85.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 13785,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s86.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 13913,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s87.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 14019,
+      "dur": 156,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s88.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 14175,
+      "dur": 56,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s89.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 14633,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s90.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 14806,
+      "dur": 77,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s91.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 14883,
+      "dur": 219,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s92.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 15102,
+      "dur": 81,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s93.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 15183,
+      "dur": 93,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s94.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 15276,
+      "dur": 237,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s95.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 15513,
+      "dur": 95,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s96.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 15608,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/mateo-como-evitar-que_s97.png",
+      "kb": 5,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 4,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "EL PROBLEMA",
+        "title": "Por qué se quema el cable"
+      }
+    },
+    {
+      "from": 1278,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "LA SOLUCIÓN",
+        "title": "Cable térmico y el error más común"
+      }
+    },
+    {
+      "from": 3156,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "MATERIALES",
+        "title": "Qué necesitas y cuánto cable usar"
+      }
+    },
+    {
+      "from": 5502,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 5691,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "PASO TÉCNICO",
+        "title": "Armado del cable paso a paso"
+      }
+    },
+    {
+      "from": 9761,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 10245,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "DETALLES FINALES",
+        "title": "Sellado y conexión al switch"
+      }
+    },
+    {
+      "from": 12519,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "LA PRUEBA",
+        "title": "Medición y encendido del caracol"
+      }
+    },
+    {
+      "from": 14175,
+      "dur": 120,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "CIERRE",
+        "title": "Resumen y recomendaciones finales"
+      }
+    },
+    {
+      "from": 14625,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 15747,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": [
+    {
+      "from": 9239,
+      "dur": 36,
+      "comp": "GuiaPromo",
+      "props": {
+        "theme": "taller",
+        "src": "img/guia_mateo_calcs.png",
+        "eyebrow": "LAS CALCULADORAS DEL MAESTRO",
+        "title": "Cuánto comprar, sin sacar cuentas",
+        "puntos": [
+          "Pones el largo y el ancho",
+          "Te dice cuánto material comprar",
+          "No compras de más"
+        ],
+        "foot": "En la descripción, el comentario fijado y el QR",
+        "qr": "img/qr_mateo.png"
+      }
+    },
+    {
+      "from": 14231,
+      "dur": 28,
+      "comp": "GuiaPromo",
+      "props": {
+        "theme": "taller",
+        "src": "img/guia_mateo_biblioteca.png",
+        "eyebrow": "LA BIBLIOTECA DEL MAESTRO",
+        "title": "Guárdala en el celular para cuando la necesites",
+        "puntos": [
+          "Garantía de 7 días de Hotmart",
+          "Calculadoras incluidas",
+          "Guías para imprimir"
+        ],
+        "foot": "En la descripción, el comentario fijado y el QR",
+        "qr": "img/qr_mateo.png"
+      }
+    }
+  ]
+}
