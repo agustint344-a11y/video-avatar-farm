@@ -1,0 +1,722 @@
+{
+  "slug": "mateo-por-que-escuchas",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 11129,
+  "audioSrc": "mateo-por-que-escuchas.mp3",
+  "avatarSrc": "mateo-por-que-escuchas_avatar.mp4",
+  "avatarSegs": [
+    {
+      "from": 628,
+      "dur": 80,
+      "clip": 0
+    },
+    {
+      "from": 2726,
+      "dur": 168,
+      "clip": 80
+    },
+    {
+      "from": 4380,
+      "dur": 354,
+      "clip": 248
+    },
+    {
+      "from": 6302,
+      "dur": 108,
+      "clip": 602
+    },
+    {
+      "from": 8064,
+      "dur": 403,
+      "clip": 710
+    },
+    {
+      "from": 8765,
+      "dur": 182,
+      "clip": 1113
+    },
+    {
+      "from": 9874,
+      "dur": 171,
+      "clip": 1295
+    },
+    {
+      "from": 10398,
+      "dur": 271,
+      "clip": 1466
+    },
+    {
+      "from": 10871,
+      "dur": 247,
+      "clip": 1737
+    }
+  ],
+  "broll": [
+    {
+      "from": 0,
+      "dur": 65,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s01.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 65,
+      "dur": 147,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s02.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 212,
+      "dur": 170,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s03.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 382,
+      "dur": 108,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s04.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 490,
+      "dur": 138,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s05.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 708,
+      "dur": 216,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s06.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 924,
+      "dur": 179,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s07.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 1103,
+      "dur": 164,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s08.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 1267,
+      "dur": 255,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s09.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 1522,
+      "dur": 185,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s12.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 1707,
+      "dur": 136,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s13.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 1843,
+      "dur": 143,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s14.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 1986,
+      "dur": 131,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s15.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 2117,
+      "dur": 81,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s16.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 2198,
+      "dur": 215,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s17.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 2413,
+      "dur": 177,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s18.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 2590,
+      "dur": 136,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s19.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 2894,
+      "dur": 134,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s20.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3028,
+      "dur": 80,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s21.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3108,
+      "dur": 167,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s22.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3275,
+      "dur": 179,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s23.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 3454,
+      "dur": 74,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s24.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 3528,
+      "dur": 99,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s25.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 3627,
+      "dur": 119,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s26.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 3746,
+      "dur": 118,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s27.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 3864,
+      "dur": 100,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s28.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 3964,
+      "dur": 126,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s29.mp4",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 4090,
+      "dur": 100,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s30.mp4",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 4190,
+      "dur": 125,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s31.mp4",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 4315,
+      "dur": 65,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s32.mp4",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 4734,
+      "dur": 193,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s33.mp4",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 4927,
+      "dur": 65,
+      "kind": "video",
+      "src": "broll/mateo-por-que-escuchas_v_s34.mp4",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 4992,
+      "dur": 91,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s35.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5083,
+      "dur": 101,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s36.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5184,
+      "dur": 203,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s37.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 5387,
+      "dur": 145,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s38.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 5532,
+      "dur": 216,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s39.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 5748,
+      "dur": 70,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s40.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 5818,
+      "dur": 68,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s41.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 5886,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s42.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 5941,
+      "dur": 233,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s43.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 6174,
+      "dur": 128,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s44.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 6410,
+      "dur": 61,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s45.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 6471,
+      "dur": 170,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s46.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 6641,
+      "dur": 161,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s47.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 6802,
+      "dur": 186,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s48.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 6988,
+      "dur": 176,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s49.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7164,
+      "dur": 102,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s50.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 7266,
+      "dur": 106,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s51.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 7372,
+      "dur": 139,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s52.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 7511,
+      "dur": 125,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s53.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 7636,
+      "dur": 55,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s54.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 7691,
+      "dur": 173,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s55.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 7864,
+      "dur": 200,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s56.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 8467,
+      "dur": 71,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s57.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 8538,
+      "dur": 227,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s58.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 8947,
+      "dur": 151,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s59.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 9098,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s60.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 9198,
+      "dur": 199,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s62.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 9397,
+      "dur": 75,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s63.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 9472,
+      "dur": 107,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s64.png",
+      "kb": 0,
+      "pip": false
+    },
+    {
+      "from": 9579,
+      "dur": 100,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s65.png",
+      "kb": 1,
+      "pip": false
+    },
+    {
+      "from": 9679,
+      "dur": 195,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s66.png",
+      "kb": 2,
+      "pip": false
+    },
+    {
+      "from": 10045,
+      "dur": 84,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s67.png",
+      "kb": 3,
+      "pip": false
+    },
+    {
+      "from": 10129,
+      "dur": 62,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s68.png",
+      "kb": 4,
+      "pip": false
+    },
+    {
+      "from": 10191,
+      "dur": 207,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s69.png",
+      "kb": 5,
+      "pip": false
+    },
+    {
+      "from": 10669,
+      "dur": 202,
+      "kind": "image",
+      "src": "img/mateo-por-que-escuchas_s70.png",
+      "kb": 0,
+      "pip": false
+    }
+  ],
+  "overlays": [
+    {
+      "from": 65,
+      "dur": 129,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "INTRO",
+        "title": "El ruido misterioso"
+      }
+    },
+    {
+      "from": 1267,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "CAPÍTULO 1",
+        "title": "Ruido aéreo vs. estructural"
+      }
+    },
+    {
+      "from": 3108,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "CAPÍTULO 2",
+        "title": "Por qué el concreto transmite todo"
+      }
+    },
+    {
+      "from": 4380,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 4726,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 4992,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "CAPÍTULO 3",
+        "title": "Los dos culpables"
+      }
+    },
+    {
+      "from": 7372,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "CAPÍTULO 4",
+        "title": "Desacoplar la vibración"
+      }
+    },
+    {
+      "from": 8459,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 9098,
+      "dur": 135,
+      "comp": "SectionTitle",
+      "props": {
+        "theme": "taller",
+        "eyebrow": "CAPÍTULO 5",
+        "title": "Cómo convivir con los ruidos"
+      }
+    },
+    {
+      "from": 10661,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    },
+    {
+      "from": 11039,
+      "dur": 210,
+      "comp": "QRTag",
+      "props": {
+        "theme": "taller",
+        "corner": "bl",
+        "src": "img/qr_mateo.png",
+        "eyebrow": "ESCANEA EL CÓDIGO",
+        "label": "Guías de Mateo Arregla",
+        "hint": "apunta la cámara 📷"
+      }
+    }
+  ],
+  "components": []
+}
